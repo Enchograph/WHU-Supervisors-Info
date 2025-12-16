@@ -1,0 +1,112 @@
+{
+  "id": "xiaosong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xiaosong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "肖淞",
+    "english_name": "Xiao Song",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "高电压绝缘监测实验室",
+    "college": "电气与自动化学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "电气工程",
+        "school": "法国图卢兹第三大学",
+        "period": "博士研究生毕业",
+        "country": "法国"
+      }
+    ],
+    "graduation_school": "法国图卢兹第三大学",
+    "academic_honors": [
+      "国家优秀青年基金获得者",
+      "全国向上向善好青年",
+      "中国科协青年人才托举工程",
+      "湖北省杰出青年基金获得者",
+      "湖北省“楚天学者计划”获得者",
+      "中国电工技术学会青年科技奖",
+      "中国电机工程学会电力优秀青年科技人才奖"
+    ],
+    "academic_services": [
+      "中国电工技术学会青年工作委员会副秘书长",
+      "中国复合材料学会介电高分子复合材料及应用专业委员会副秘书长",
+      "中国环保电力装备产业创新联盟秘书长",
+      "中国电机工程学会智能感知专业委员会委员",
+      "全国高压直流输电设备标准化技术委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "SF6环保绝缘替代气体研究",
+      "高电压绝缘监测"
+    ],
+    "research_interests": [
+      "环保绝缘气体",
+      "SF6替代技术",
+      "高电压绝缘",
+      "电力设备监测",
+      "介电高分子复合材料"
+    ],
+    "research_description": "肖淞教授主要从事SF6环保绝缘替代气体研究，致力于开发环境友好型绝缘气体以替代传统SF6气体，推动绿色电力装备发展。主持国家自然科学基金重点项目、优秀青年基金等5项国家级项目，研究涵盖环保绝缘材料、高电压绝缘监测技术及智能感知在电力设备中的应用。",
+    "disciplines": [
+      "电气工程",
+      "材料科学与工程",
+      "环境科学与工程"
+    ],
+    "field_tags": [
+      "环保绝缘气体",
+      "SF6替代",
+      "高电压技术",
+      "电力设备监测",
+      "青年人才托举",
+      "智能感知",
+      "绿色电力装备"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xiaosong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金优秀青年项目",
+      "国家自然科学基金重点项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 肖淞\n页面链接: http://jszy.whu.edu.cn/xiaosong/zh_CN/index.htm\n==================================================\n武汉大学 肖淞--中文主页--首页\n教师个人主页\n肖淞\n个人信息\n教师拼音名称：Xiao Song\n电子邮箱：\n所在单位：电气与自动化学院\n学历：博士研究生毕业\n办公地点：武汉大学工学部高电压绝缘监测实验室309\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：法国图卢兹第三大学\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n肖淞，武汉大学电气与自动化学院教授，中法双博士学位，博士生导师。从事SF6环保绝缘替代气体研究。主持优青、重点等国家自然科学基金项目5项，担任中国电工技术学会青年工作委员会副秘书长、中国环保电力装备产业创新联盟秘书长、中国电机工程学会智能感知专业委员会委员、全国高压直流输电设备标准化技术委员会委员，入选国家级青年人才、中国科协“青年人才托举工程”和湖北省“杰出青年科学基金”，获得“全国向上向善好青年”荣誉称号。\n教育经历\n暂无内容\n工作经历\n暂无内容\n社会兼职\n更多>>\n中国电工技术学会青年工作委员会副秘书长\n中国复合材料学会介电高分子复合材料及应用专业委员会副秘书长\n中国环保电力装备产业创新联盟秘书长\n研究方向\n暂无内容\n学术荣誉\n2025    国家优秀青年基金获得者\n曾获荣誉\n2019    全国向上向善好青年\n2018    中国科协青年人才托举工程\n2023    湖北省杰出青年基金获得者\n2019    湖北省“楚天学者计划”获得者\n2023    中国电工技术学会青年科技奖\n2024    中国电机工程学会电力优秀青年科技人才奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

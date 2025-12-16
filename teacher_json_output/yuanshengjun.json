@@ -1,0 +1,290 @@
+{
+  "id": "yuanshengjun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yuanshengjun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "袁声军",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "物理学",
+        "school": "浙江大学",
+        "period": "2001年",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "理论物理",
+        "school": "德国锡根大学",
+        "period": "2003年",
+        "country": "德国"
+      },
+      {
+        "degree": "博士",
+        "field": "计算物理",
+        "school": "荷兰格罗宁根大学",
+        "period": "2008年",
+        "country": "荷兰"
+      }
+    ],
+    "graduation_school": "荷兰格罗宁根大学",
+    "academic_honors": [
+      "荷兰物质基础研究基金",
+      "国家级青年人才计划",
+      "国家杰出青年科学基金"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "大尺度计算凝聚态物理方法",
+      "低维量子材料与人工微结构",
+      "量子计算与量子动力学模拟",
+      "计算物理中的机器学习方法",
+      "高性能计算物理软件开发"
+    ],
+    "research_interests": [
+      "第一性原理计算",
+      "紧束缚模型",
+      "密度泛函理论",
+      "量子材料",
+      "人工微结构",
+      "机器学习在计算物理中的应用",
+      "高性能计算",
+      "量子动力学模拟"
+    ],
+    "research_description": "袁声军教授长期从事原创计算物理方法的探索、发展和应用研究，发展了TBPM和DFPM等大尺度的第一性原理计算新方法，显著提升了模拟尺度，成功应用于复杂量子系统和凝聚态体系的前沿研究。独立开发了TBPLaS和ABPLaS等多款计算物理软件，研究涵盖低维量子材料、人工微结构、量子计算与动力学模拟，以及计算物理中的机器学习方法。",
+    "disciplines": [
+      "凝聚态物理",
+      "计算物理",
+      "量子物理",
+      "材料科学"
+    ],
+    "field_tags": [
+      "计算凝聚态物理",
+      "第一性原理计算",
+      "低维材料",
+      "量子模拟",
+      "机器学习辅助计算",
+      "高性能计算",
+      "紧束缚模型",
+      "密度泛函理论"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 140,
+    "representative_publications": [
+      {
+        "title": "Observation of Rydberg moire excitons",
+        "keywords": [
+          "Rydberg excitons",
+          "moire physics",
+          "twisted bilayer",
+          "quantum materials"
+        ],
+        "journal_name": "Science",
+        "research_fields": [
+          "凝聚态物理",
+          "低维量子材料",
+          "量子光学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Direct growth of single-chiral-angle tungsten disulfide nanotubes using gold nanoparticle catalysts",
+        "keywords": [
+          "纳米管生长",
+          "单手性角度",
+          "金纳米颗粒催化剂",
+          "过渡金属硫化物"
+        ],
+        "journal_name": "Nature Materials",
+        "research_fields": [
+          "纳米材料",
+          "低维材料",
+          "材料合成"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Dispersion-Selective Band Engineering in an Artificial Kagome Superlattice",
+        "keywords": [
+          "Kagome超晶格",
+          "能带工程",
+          "色散选择性",
+          "人工量子系统"
+        ],
+        "journal_name": "Phys. Rev. Lett.",
+        "research_fields": [
+          "凝聚态物理",
+          "量子材料",
+          "人工微结构"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "A Time-Dependent Random State Approach for Large-scale Density Functional Calculations",
+        "keywords": [
+          "密度泛函理论",
+          "大规模计算",
+          "随机态方法",
+          "时间依赖"
+        ],
+        "journal_name": "Chi. Phys. Lett.",
+        "research_fields": [
+          "计算物理",
+          "第一性原理方法",
+          "高性能计算"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "TBPLaS: a Tight-Binding Package for Large-scale Simulation",
+        "keywords": [
+          "紧束缚方法",
+          "大规模模拟",
+          "计算软件",
+          "TBPLaS"
+        ],
+        "journal_name": "Comp. Phys. Comm.",
+        "research_fields": [
+          "计算物理软件开发",
+          "大尺度模拟",
+          "凝聚态物理"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Realizing One-dimensional Metallic States in Graphene via Periodically Coupled Zeroth Pseudo-Landau Levels",
+        "keywords": [
+          "石墨烯",
+          "伪朗道能级",
+          "一维金属态",
+          "周期耦合"
+        ],
+        "journal_name": "Phys. Rev. Lett.",
+        "research_fields": [
+          "石墨烯物理",
+          "量子输运",
+          "拓扑物理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Polarization-dependent selection rules and optical spectrum atlas of twisted bilayer graphene quantum dots",
+        "keywords": [
+          "扭曲双层石墨烯",
+          "量子点",
+          "偏振选择规则",
+          "光学谱图"
+        ],
+        "journal_name": "Phys. Rev. X",
+        "research_fields": [
+          "低维材料",
+          "光学性质",
+          "量子点"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Limits on gas impermeability of graphene",
+        "keywords": [
+          "石墨烯透气性",
+          "气体渗透",
+          "二维材料",
+          "纳米孔"
+        ],
+        "journal_name": "Nature",
+        "research_fields": [
+          "二维材料",
+          "材料屏障性能",
+          "纳米孔物理"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Large-area, periodic, and tunable pseudo-magnetic fields in low-angle twisted bilayer graphene",
+        "keywords": [
+          "伪磁场",
+          "扭曲双层石墨烯",
+          "周期性",
+          "可调谐"
+        ],
+        "journal_name": "Nat. Commun.",
+        "research_fields": [
+          "凝聚态物理",
+          "低维材料",
+          "人工磁场"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Massively parallel quantum computer simulator, eleven years later",
+        "keywords": [
+          "量子计算机模拟",
+          "大规模并行",
+          "量子模拟器",
+          "计算物理"
+        ],
+        "journal_name": "Comp. Phys. Comm.",
+        "research_fields": [
+          "量子计算",
+          "高性能计算",
+          "计算物理"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yuanshengjun/zh_CN/index.htm"
+      },
+      {
+        "platform": "课题组主页",
+        "url": "http://yuan.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家杰出青年科学基金",
+      "国家级青年人才计划",
+      "荷兰物质基础研究基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "荷兰物质基础研究基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 袁声军\n页面链接: http://jszy.whu.edu.cn/yuanshengjun/zh_CN/index.htm\n==================================================\n武汉大学 袁声军--中文主页--首页\n袁声军\n教授\n博士生导师\n毕业院校：荷兰格罗宁根大学\n学科：\n凝聚态物理\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n个人简介\n袁声军，男，1979年4月出生，武汉大学二级教授，武汉大学物理科学与技术学院、人工智能学院双聘教授。2001年本科毕业于浙江大学物理系，2003年获得德国锡根大学理论物理硕士学位，2008年获得荷兰格罗宁根大学计算物理博士学位，之后在荷兰奈梅亨大学担任博士后研究员和终生轨道制助理教授，2016年底起任武汉大学物理科学与技术学院教授。曾获得荷兰物质基础研究基金、国家级青年人才计划和国家杰出青年科学基金。长期从事原创计算物理方法的探索、发展和应用研究，发展了TBPM和DFPM等大尺度的第一性原理计算新方法，模拟尺度较传统方法提升数个数量级，并成功将其应用于复杂量子系统和凝聚态体系的前沿研究。独立自主开发了多款计算物理软件，包括基于紧束缚模型的TBPLaS和基于密度泛函理论的ABPLaS。在Nature、Science、Nature Materials等国际期刊发表140余篇学术论文，其中包括70余篇物理评论（Phys. Rev.）系列期刊论文。\n课题组常年招收研究生（硕博连读、直博生）和博士后（年薪30-45万），目前的主要研究方向包括：\n1.       大尺度计算凝聚态物理方法\n2.       低维量子材料与人工微结构\n3.       量子计算与量子动力学模拟\n4.       计算物理中的机器学习方法\n5.       高性能计算物理软件开发\n课题组与荷兰奈梅亨大学、荷兰格罗宁根大学、德国于利希研究中心、德国不来梅大学和西班牙IMDEA研究中心的凝聚态理论或计算物理组有着非常紧密的学术交流，同时与很多国内外的理论与实验课题组有着密切的学术合作，研究生和博士后均有机会出国进行联合培养。\n课题组提供充足的科研资源和优厚的个人待遇，有非常好的学习、工作和生活氛围，欢迎感兴趣的学生和青年学者加入课题组，联系方式：s.yuan@whu.edu.cn。更多相关介绍参见课题组主页：http://yuan.whu.edu.cn/\n近年代表性论文：\n1.       Observation of Rydberg moire excitons Q. Hu, Z. Zhan, H. Cui, Y. Zhang, F. Jin, X. Zhao, M. Zhang, Z. Wang, Q. Zhang, K. Watanabe, T. Taniguchi, X. Cao, W. Liu, F. Wu, S. Yuan*, Y. Xu*, Science 380, 1367 (2023).\n2.       Direct growth of single-chiral-angle tungsten disulfide nanotubes using gold nanoparticle catalystsQ. An*, W. Xiong, F. Hu, Y. Yu, P. Lv, S. Hu, X. Gan, X. He, J. Zhao, S. Yuan*, Nature Materials 23, 347 (2024).\n3.       Dispersion-Selective Band Engineering in an Artificial Kagome Superlattice\nS. Wang, Z. Zhan, X. Fan*, Y. Li, P. A. Pantaleón, C. Ye, Z. He, L. Wei, L. Li, F. Guinea*, S. Yuan*, and C. Zeng*, Phys. Rev. Lett. 133, 066302 (2024)\n4.       A Time-Dependent Random State Approach for Large-scale Density Functional Calculations W. Zhou, S. Yuan*, Chi. Phys. Lett. 40, 027101 (2023) (Express Letter).\n5.       TBPLaS: a Tight-Binding Package for Large-scale Simulation Y. Li, Z. Zhan, Y. Li, X. Kuang, and S. Yuan*, Comp. Phys. Comm. 285, 108632 (2023).\n6.       Realizing One-dimensional Metallic States in Graphene via Periodically Coupled Zeroth Pseudo-Landau Levels Y. Liu, Z. Zhan, Z. Wu, C. Yan, S. Yuan*, L. He*, Phys. Rev. Lett. 129, 056803 (2022).\n7.       Polarization-dependent selection rules and optical spectrum atlas of twisted bilayer graphene quantum dots Y. Wang*, G. Yu, M. Rosner, M. I. Katsnelson, H.Q. Lin, S. Yuan*, Phys. Rev. X 12, 021055 (2022).\n8.       Limits on gas impermeability of graphene P. Sun, Q. Yang, W. Kuang, Y. V. Stebunov, W. Xiong, J. Yu, R. R. Nair, M. I. Katsnelson, S. Yuan*, I. V. Grigorieva, M. Lozada-Hidalgo, F. Wang, A. K. Geim*, Nature 579, 229 (2020) .\n9.       Large-area, periodic, and tunable pseudo-magnetic fields in low-angle twisted bilayer graphene H. Shi, Z. Zhan, Z. Qi, K. Huang, E. van Veen, J. A. Silva-Guillen, R. Zhang, P. Li, K. Xie, H. Ji, M. I. Katsnelson, S. Yuan*, S. Qin*, Z. Zhang, Nat. Commun. 11, 371 (2020).\n10.     Massively parallel quantum computer simulator, eleven years later H. De Raedt, F. Jin, D. Willsch, M. Nocon, N. Yoshioka, N. Ito, S. Yuan*, K. Michielsen*, Comp. Phys. Comm. 237, 47 (2019).\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

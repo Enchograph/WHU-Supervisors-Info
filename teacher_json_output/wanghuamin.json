@@ -1,0 +1,229 @@
+{
+  "id": "wanghuamin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wanghuamin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王华敏",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "空间信息与数字技术系",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "美国Eastern Michigan Univeristy",
+        "period": "2011.8 -- 2012.8",
+        "country": "美国"
+      },
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2003.9 -- 2006.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "计算机应用技术",
+        "school": "武汉大学",
+        "period": "2000.9 -- 2003.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "计算机应用技术",
+        "school": "武汉大学",
+        "period": "1998.9 -- 2000.6",
+        "country": "中国"
+      },
+      {
+        "degree": "大学专科毕业",
+        "field": "计算机应用技术",
+        "school": "湖北经济学院",
+        "period": "1994.9 -- 1997.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "院“青年教师教学大赛”一等奖",
+      "武汉大学优秀烛光导航师"
+    ],
+    "academic_services": [
+      "“珞珈一号”软件系统副总设计工程师",
+      "危机治理与协同创新研究院总协调员",
+      "宁波李建成院士工作站专家组成员",
+      "中国复杂科学学会经济分会理事成员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "地名地址与数字门牌",
+      "知识图谱与智慧城市",
+      "地理信息系统与空间信息技术"
+    ],
+    "research_interests": [
+      "空间数据库",
+      "大数据",
+      "系统集成",
+      "信息安全",
+      "智慧门牌",
+      "危机治理",
+      "乡村振兴",
+      "社会基层治理"
+    ],
+    "research_description": "王华敏副教授长期致力于地名地址、数字门牌、知识图谱、智慧城市及地理信息系统等方向的研究，依托空间信息技术推动跨学科融合，聚焦智慧城市建设、社会基层治理与乡村振兴等实践应用。主持或参与多项国家级、省部级科研项目，包括‘十三五’国家重点研发计划、民政部项目、NASA基金项目及浙江省地名地址智慧协同服务系统等，发表相关论文十余篇，指导多项国家级大学生创新创业项目。",
+    "disciplines": [
+      "地理信息科学",
+      "计算机科学与技术",
+      "智慧城市",
+      "空间人文"
+    ],
+    "field_tags": [
+      "知识图谱",
+      "智慧城市",
+      "地名地址",
+      "数字门牌",
+      "空间数据库",
+      "大数据",
+      "系统集成",
+      "信息安全",
+      "GIS",
+      "跨学科研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 10,
+    "representative_publications": [
+      {
+        "title": "基于LBS的慈善管理平台",
+        "keywords": [
+          "LBS",
+          "慈善管理",
+          "空间信息",
+          "智慧管理"
+        ],
+        "journal_name": "未明确提及",
+        "research_fields": [
+          "智慧城市",
+          "空间信息与数字技术",
+          "地理信息系统"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于LBS的儿童社交管理平台",
+        "keywords": [
+          "LBS",
+          "儿童社交",
+          "空间安全",
+          "智慧门牌"
+        ],
+        "journal_name": "未明确提及",
+        "research_fields": [
+          "智慧城市",
+          "空间信息与数字技术",
+          "信息安全"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "地名地址库精细化管理系统",
+        "keywords": [
+          "地名地址",
+          "精细化管理",
+          "空间数据库",
+          "系统集成"
+        ],
+        "journal_name": "未明确提及",
+        "research_fields": [
+          "地名地址管理",
+          "空间数据库",
+          "智慧城市建设"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "ICCARS气候变化与遥感研究（手持设备野外采集系统）",
+        "keywords": [
+          "气候变化",
+          "遥感",
+          "野外采集",
+          "手持设备"
+        ],
+        "journal_name": "未明确提及",
+        "research_fields": [
+          "遥感信息",
+          "气候变化",
+          "空间数据采集"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "大数据驱动的流域智能管理与决策关键技术",
+        "keywords": [
+          "大数据",
+          "流域管理",
+          "智能决策",
+          "系统集成"
+        ],
+        "journal_name": "未明确提及",
+        "research_fields": [
+          "大数据",
+          "智能管理",
+          "流域治理"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wanghuamin/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "省部级纵向项目",
+      "大型横向项目",
+      "国际合作项目"
+    ],
+    "funding_agencies": [
+      "科技部",
+      "民政部",
+      "浙江省地名地址管理机构",
+      "美国宇航局NASA",
+      "国家自然科学基金委员会"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王华敏\n页面链接: http://jszy.whu.edu.cn/wanghuamin/zh_CN/index.htm\n==================================================\n武汉大学 王华敏--中文主页--首页\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n新闻网中文官网\nEn\n个人信息 王华敏\n性别：男\n联系方式：hmwang1976@whu.edu.cn\n在职信息：在职\nMORE +\n个人信息\nPersonal information\n硕士生导师\n出生日期：1976-12-14\n学历：研究生毕业\n毕业院校：武汉大学\n在职信息：在职\n所在单位：遥感信息工程学院\n入职时间：2007-03-01\n办公地点：遥感信息工程学院实验大楼裙楼3楼\n电子邮箱：\n个人简介教育经历其他联系方式 工作经历\n社会兼职\n研究方向\n团队成员\n个人简介\nPersonal profile\n武汉大学遥感信息工程学院副教授，博士，空间信息与数字技术系空间人文实验室负责人。2011年教育部青年骨干教师赴美国东密歇根大学公派访问学者，博士后。现为“珞珈一号”软件系统副总设计工程师、危机治理与协同创新研究院总协调员、宁波李建成院士工作站专家组成员、中国复杂科学学会经济分会理事成员。主要研究方向为知识图谱、智慧城市及智慧门牌，重点承担空间数据库、大数据、系统集成、信息安全等教学任务，曾获院“青年教师教学大赛”一等奖、“武汉大学优秀烛光导航师”等称号。指导“基于LBS的慈善管理平台”、“基于LBS的儿童社交管理平台”等多项国家级大学生创新创业项目。主持或作为骨干完成了“十三五”国家重点研发计划“大数据驱动的流域智能管理与决策关键技术”、民政部“普惠型互联网+地名管理服务研究（以金华市为例）”、浙江省地名地址智慧协同服务系统、美国宇航局NASA基金项目 “ICCARS气候变化与遥感研究（手持设备野外采集系统）及”地名地址库精细化管理系统”等多项国家级和省部级纵向项目和大型横向项目，发表相关论文10多篇。\n教育经历\nEducation experience\n2011.8 -- 2012.8\n美国Eastern Michigan Univeristy > 摄影测量与遥感\n> 工学博士学位 > 研究生(博士后) 师从谢一春教授进行博士后研究\n2003.9 -- 2006.12\n武汉大学 > 摄影测量与遥感\n> 博士 > 工学博士学位 测绘遥感国家重点实验室攻读博士学位\n1998.9 -- 2000.6\n武汉大学 > 计算机应用技术\n> 学士 > 学士 计算机学院专升本\n2000.9 -- 2003.6\n武汉大学 > 计算机应用技术\n> 硕士 > 工学硕士学位 计算机学院攻读硕士学位\n1994.9 -- 1997.6\n湖北经济学院 > 计算机应用技术\n> 大学专科毕业 > 专科毕业 计算机系\n其他联系方式\nOther Contact information\n[1]邮编:\n[2]传真:\n[3]通讯/办公地址:\n[4]办公室电话:\n[5]移动电话:\n[6]邮箱:\n工作经历\nWork experience\n2018.9 -- 至今\n武汉大学  > 遥感信息工程学院 > 副教授  > 在职\n2010.12 -- 2018.9\n武汉大学  > 国际软件学院 > 副教授  > 在职\n2012.12 -- 2014.12\n武汉大学  > 国际软件学院 > 系党支部书记 > 副教授  > 在职\n2007.3 -- 2010.12\n武汉大学  > 国际软件学院 > 讲师  > 在职\n1998.8 -- 1999.8\n中共武汉市桥口区委组织部  > 干训科\n借调干训科\n社会兼职\nProfessional affiliations\n暂无内容\n研究方向\nResearch direction\n地名地址、数字门牌\n知识图谱、智慧城市及地理信息系统\n团队成员\nTeam members\n空间人文实验室\n以GIS等空间信息技术为基础，致力于实现与武汉大学人文学科的跨学科研究，在以地名地址为核心的智慧城市建设、社会基层治理及乡村振兴等方面取得了较好实践成果。\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "id": "liuyiwei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuyiwei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘一苇",
+    "english_name": "Liu Yiwei",
+    "title": [
+      "副教授",
+      "博士后",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "土木建筑工程学院",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "岩土工程",
+        "school": "武汉大学",
+        "period": "2018.9-2022.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "岩土工程",
+        "school": "武汉大学",
+        "period": "2016.9-2018.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "土木工程",
+        "school": "武汉大学",
+        "period": "2012.9-2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国岩石力学与工程学会科学技术奖，自然科学奖，特等奖,2025"
+    ],
+    "academic_services": [
+      "《International Journal of Coal Science & Technology》科学编辑",
+      "《Underground Space》智库专家",
+      "《Rock Mechanics Bulletin》青年编委",
+      "《Unconventional Resources》青年编委",
+      "《Green and Smart Mining Engineering》青年编委",
+      "《Intelligent Geoengineering》青年编委",
+      "《Geohazard Mechanics》青年编委",
+      "《Deep Resources Engineering》青年编委",
+      "中国岩石力学与工程学会AI技术实用化专委会委员",
+      "武汉岩土工程学会常务理事",
+      "中国土木工程学会太空工程分会理事"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "微纳米岩石力学",
+      "岩石跨尺度力学升级",
+      "地下储碳产氢",
+      "页岩油气高效开发",
+      "行星岩石力学"
+    ],
+    "research_interests": [
+      "二氧化碳地质封存",
+      "页岩开采",
+      "矿化封存",
+      "岩体渗流-侵蚀-变形耦合",
+      "裂隙介质矿物沉淀反应",
+      "多物理场数值计算",
+      "岩体多物理场尺度升级"
+    ],
+    "research_description": "长期致力于地下储碳产氢、页岩油气开发、地外行星探测工程中的地球岩石与行星陨石微纳米岩石力学表征及跨尺度力学升级研究，主持多项国家及省部级科研项目，研究成果获2025年度中国岩石力学与工程学会科学技术奖特等奖（自然科学奖）。",
+    "disciplines": [
+      "岩土工程",
+      "地质工程",
+      "地球物理学",
+      "能源工程",
+      "行星科学"
+    ],
+    "field_tags": [
+      "微纳米力学",
+      "跨尺度建模",
+      "碳封存",
+      "页岩气开发",
+      "行星地质",
+      "多物理场耦合",
+      "数值模拟",
+      "岩石力学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "地下储碳产氢过程中的微纳米岩石力学行为研究",
+        "keywords": [
+          "地下储碳",
+          "产氢",
+          "微纳米岩石力学",
+          "跨尺度力学升级"
+        ],
+        "journal_name": "Energy",
+        "research_fields": [
+          "岩石力学",
+          "能源工程",
+          "碳捕集与封存"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "页岩油气开发中裂隙介质矿物沉淀反应机理",
+        "keywords": [
+          "页岩油气",
+          "裂隙介质",
+          "矿物沉淀",
+          "反应机理"
+        ],
+        "journal_name": "International Journal of Rock Mechanics and Mining Sciences",
+        "research_fields": [
+          "页岩油气开发",
+          "岩石力学",
+          "多物理场耦合"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "基于多物理场数值计算的岩体渗流-侵蚀-变形耦合模型",
+        "keywords": [
+          "岩体渗流",
+          "侵蚀变形",
+          "耦合模型",
+          "数值计算"
+        ],
+        "journal_name": "Engineering Geology",
+        "research_fields": [
+          "岩土工程",
+          "数值模拟",
+          "多物理场耦合"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuyiwei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "中国科协青年人才托举工程项目",
+      "广东省区域联合基金青年项目",
+      "国家资助博士后研究人员计划（B档）",
+      "中国博士后基金特别资助项目",
+      "中国博士后基金面上资助",
+      "湖北省创新研究岗位基金",
+      "教育部重点实验室项目",
+      "校级项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国科协",
+      "广东省科学技术厅",
+      "人力资源和社会保障部",
+      "中国博士后科学基金会",
+      "湖北省科技厅",
+      "教育部",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘一苇\n页面链接: http://jszy.whu.edu.cn/liuyiwei/zh_CN/index.htm\n==================================================\n武汉大学 刘一苇--武汉大学 刘一苇 教师个人主页--首页\n访问量：\n最后更新时间：--\n首页\n科学研究\n研究领域\n论文成果\n专利\n科研项目\n教学研究\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n刘一苇\n教师姓名：刘一苇\n教师拼音名称：Liu Yiwei\n电子邮箱：\n所在单位：土木建筑工程学院\n性别：女\n在职信息：在职\n毕业院校：武汉大学\n所属院系：土木建筑工程学院\n其他联系方式\n暂无内容\n个人简介\n刘一苇，博士(后)，副教授，国家高层次青年人才计划、中国科协青年人才托举工程计划入选者。长期致力于地下储碳产氢、页岩油气开发、地外行星探测工程中的地球岩石与行星陨石微纳米岩石力学表征及跨尺度力学升级研究。\n主持国家自然科学基金青年项目、中国科协青年人才托举工程项目、广东省区域联合基金青年项目、国家资助博士后研究人员计划（B档）、中国博士后基金特别资助项目、中国博士后基金面上资助、湖北省创新研究岗位基金，另主持教育部重点实验室及校级项目2项。研究成果获2025年度中国岩石力学与工程学会科学技术奖特等奖(自然科学奖)。\n担任《International Journal of Coal Science & Technology》期刊科学编辑，《Underground Space》期刊智库专家，《Rock Mechanics Bulletin》、《Green and Smart Mining Engineering》、《Unconventional Resources》、《Intelligent Geoengineering》、《Geohazard Mechanics》、《Deep Resources Engineering》期刊青年编委，以及十余个岩石力学及能源开发领域SCI/EI期刊审稿人；兼任中国岩石力学与工程学会AI专委会委员、武汉岩土工程学会常务理事。在《Energy》、《Engineering Geology》、《International Journal of Rock Mechanics and Mining Sciences》、《岩土工程学报》等行业高水平期刊发表学术论文30余篇，参与中国科协服务国家重大战略编制工作，授权受理中国发明专利8项、美国发明专利1项。\n热忱欢迎有志从事科研工作的同学报考硕士、博士研究生，欢迎对科学研究感兴趣的本科生加入课题组开展创新科研训练。硕士研究生招收方向：岩土工程、地质工程、计算机相关专业及相近学科。博士研究生招收方向：（1） 二氧化碳地质封存、页岩开采、矿化封存等深部能源工程问题；（2）岩体渗流-侵蚀-变形耦合理论；（3）裂隙介质矿物沉淀反应机理；（4）多物理场数值计算方法；（5）岩体多物理场尺度升级。\n教育经历\n[1] 2018.9-2022.12\n武汉大学\n> 岩土工程\n> 工学博士学位\n> 博士\n导师：李晓红 院士\n[2] 2016.9-2018.6\n武汉大学\n> 岩土工程\n> 工学硕士学位\n> 硕士研究生\n导师：李晓红 院士\n[3] 2012.9-2016.6\n武汉大学\n> 土木工程\n> 工学学士学位\n> 本科(学士)\n工作经历\n[1] 2019.9-2021.9\n美国宾夕法尼亚州立大学\n> 访问学者、Research assistant\nProf. Shimin Liu 刘世民课题组\n[2] 2023.2-至今\n武汉大学\n> 助理研究员/博士后\n（博后合作导师：刘泉声院士、陈益峰教授）\n社会兼职\n[1] 中国岩石力学与工程学会AI技术实用化专委会, 委员\n[2] 中国土木工程学会太空工程分会, 理事\n[3] 武汉岩土工程学会, 常务理事\n[4] 《International Journal of Coal Science & Technology》科学编辑（SCI，中科院一区TOP期刊，影响因子8.7）\n[5] 《Underground Space》智库专家（SCI，中科院一区TOP期刊，影响因子6.7）\n[6] 《Rock Mechanics Bulletin》青年编委（Q1区期刊，影响因子7.0）\n[7] 《Unconventional Resources》青年编委（ESCI期刊，影响因子4.8）\n[8] 《绿色与智能矿业工程（英文GSME）》青年编委（中国科技期刊卓越行动计划高起点新刊）\n[9] 《Deep Resources Engineering》青年编委（中国科技期刊卓越行动计划高起点新刊）\n[10] 《Intelligent Geoengineering》青年编委（中国科技期刊卓越行动计划高起点新刊）\n[11] 《Geohazard Mechanics》青年编委（中国科技期刊卓越行动计划高起点新刊）\n曾获荣誉：\n（1）中国岩石力学与工程学会科学技术奖，自然科学奖，特等奖,2025\n学术荣誉：\n暂无内容\n研究方向\n（1）微纳米岩石力学、岩石跨尺度力学升级 （2）地下储碳产氢 （3）页岩油气高效开发 （4）行星岩石力学\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

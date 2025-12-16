@@ -1,0 +1,117 @@
+{
+  "id": "yangliu27",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yangliu27/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘洋",
+    "english_name": "Yang Liu",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "信息管理学院",
+    "college": "信息管理学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "管理学",
+        "school": "西班牙马德里理工大学",
+        "period": "博士",
+        "country": "西班牙"
+      },
+      {
+        "degree": "博士",
+        "field": "管理学",
+        "school": "英国剑桥大学",
+        "period": "博士",
+        "country": "英国"
+      }
+    ],
+    "graduation_school": "英国剑桥大学",
+    "academic_honors": [
+      "全国信息资源管理思政教学比赛一等奖",
+      "武汉大学教师教学创新大赛三等奖"
+    ],
+    "academic_services": [
+      "中国科技情报学会健康信息学专委会委员",
+      "中国人工智能学会社会计算与社会智能专委会委员",
+      "中国自动化学会智能健康与生物信息专委会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "商业分析",
+      "金融科技",
+      "智慧健康",
+      "机器学习",
+      "自然语言处理"
+    ],
+    "research_interests": [
+      "商业分析",
+      "金融科技",
+      "智慧健康",
+      "机器学习",
+      "自然语言处理",
+      "数据挖掘",
+      "智能系统",
+      "健康信息学"
+    ],
+    "research_description": "刘洋副教授主要从事商业分析、金融科技、智慧健康、机器学习与自然语言处理等领域的研究。其研究聚焦于利用数据科学与人工智能技术解决实际问题，特别是在健康信息学、智能决策支持系统和金融数据分析方面具有深入探索。研究团队注重学生科研能力培养，提供科研条件、学术交流机会与系统训练，支持学生在学术或业界发展。",
+    "disciplines": [
+      "信息管理",
+      "计算机科学",
+      "金融学",
+      "健康信息学",
+      "人工智能"
+    ],
+    "field_tags": [
+      "商业分析",
+      "金融科技",
+      "智慧健康",
+      "机器学习",
+      "自然语言处理",
+      "数据科学",
+      "智能系统",
+      "健康信息学",
+      "人工智能",
+      "信息资源管理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yangliu27/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘洋\n页面链接: http://jszy.whu.edu.cn/yangliu27/zh_CN/index.htm\n==================================================\n武汉大学 刘洋--中文主页--首页\n教师个人主页\n刘洋\n个人信息\n教师拼音名称：Yang Liu\n所在单位：信息管理学院\n学历：博士研究生毕业\n联系方式：yang.liu27#whu.edu.cn 请把#换成@\n毕业院校：西班牙马德里理工大学，英国剑桥大学\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n现为武汉大学信息管理学院副教授\n教育经历\n西班牙马德里理工大学  | 管理学  | 管理学博士学位 | 博士\n英国剑桥大学  | 管理学  | 管理学博士学位 | 博士\n工作经历\n更多>>\n意大利罗马一大\n武汉大学信息管理学院\n西班牙桑坦德银行\n社会兼职\n更多>>\n中国科技情报学会健康信息学专委会委员\n中国人工智能学会社会计算与社会智能专委会委员\n中国自动化学会智能健康与生物信息专委会委员\n研究方向\n商业分析，金融科技，智慧健康，机器学习，自然语言处理\n曾获荣誉\n全国信息资源管理思政教学比赛一等奖\n武汉大学教师教学创新大赛三等奖\n团队成员\n更多>>\n商业分析团队\n欢迎对我研究领域表现出浓厚兴趣的同学（本科生或研究生），特别是那些真诚守信、刻苦努力、积极向上的同伴。如果你具备一定的计算机编程技能，或者拥有一定的英文阅读和写作水平，或者坚信自己通过合理时间的学习和培训可以达到这些要求，我鼓励你通过电子邮件与我联系。在你学习的这段时间里，我将提供以下支持：提供基本的科研条件，包括与学术相关的必要材料、图书和一些津贴；提供国内相关学术会议的机会，支持你参与暑期学校和技能培训等学术交流活动；安排每周固定的学术研讨会。通过研究生阶段的学习，我期望你能够：如果选择继续从事学术研究，那就要进行严格的训练，打下坚实的基础；如果打算投身业界，希望你能够在合理的时间内达到毕业要求，掌握相关的工作技能和知识。期待在樱花盛开的武汉大学与你相遇，一同度过充实而美好的学习生活。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

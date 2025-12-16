@@ -1,0 +1,124 @@
+{
+  "id": "liuwanhong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuwanhong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘万红",
+    "english_name": "",
+    "title": [
+      "教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "免疫学系",
+    "college": "泰康医学院(基础医学院)",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "病毒学及分子生物学",
+        "school": "武汉大学",
+        "period": "1990~1994",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "生命科学",
+        "school": "武汉大学",
+        "period": "1999~2002",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "生命科学",
+        "school": "武汉大学",
+        "period": "2002~2005",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "医学研究",
+        "school": "新加坡国立大学医学院及Temasek Life Sciences Laboratory",
+        "period": "2007~2008",
+        "country": "新加坡"
+      },
+      {
+        "degree": "访问学者",
+        "field": "生理与药理学",
+        "school": "美国Texas A&M University",
+        "period": "2014~2015",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "人泡沫病毒的感染机制与载体应用",
+      "肠道病毒的致病机制与疫苗研发"
+    ],
+    "research_interests": [
+      "病毒学",
+      "神经疾病",
+      "手足口病",
+      "病毒载体",
+      "疫苗开发",
+      "免疫诊断"
+    ],
+    "research_description": "研究人泡沫病毒（HFV）的感染及其作用机制，构建HFV载体并探索其在神经系统疾病中的应用；同时研究肠道病毒71型（EV71）和柯萨奇病毒A16型（CA16）的感染机制，特别是其导致手足口病患儿脑部神经系统疾病的作用机理，并致力于EV71/CA16病毒新型疫苗和免疫诊断的研发。",
+    "disciplines": [
+      "病毒学",
+      "免疫学",
+      "神经科学",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "病毒学",
+      "神经疾病",
+      "手足口病",
+      "疫苗研发",
+      "病毒载体",
+      "免疫诊断",
+      "分子生物学",
+      "感染机制"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuwanhong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘万红\n页面链接: http://jszy.whu.edu.cn/liuwanhong/zh_CN/index.htm\n==================================================\n武汉大学 刘万红--中文主页--首页\n刘万红\n教授 硕士生导师 博士生导师\n个人信息\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：泰康医学院(基础医学院)\n电子邮箱：\nVIEW MORE\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n学习经历\n1990~1994 武汉大学病毒学及分子生物学系，攻读学士学位\n1999~2002 武汉大学生命科学学院，攻读硕士学位\n2002~2005 武汉大学生命科学学院，攻读博士学位\n2007~2008 新加坡国立大学医学院及Temasek Life Sciences Laboratory，博士后\n2014~2015 美国Texas A&M University生理与药理学系，访问学者\n主要工作经历与任职\n1994~1999  武汉大学生命科学学院，助教\n2005~2007 武汉大学基础医学院免疫学系，讲师\n2007~2011 武汉大学基础医学院免疫学系，副教授，硕士生导师\n2011~2012 武汉大学基础医学院免疫学系，副教授，博士生导师\n2012~至今 武汉大学基础医学院免疫学系，教授，博士生导师\n暂无内容\n暂无内容\n暂无内容\n[1] 目前主要科学研究领域和兴趣 （1）研究人泡沫病毒（Human foamy virus, HFV）的感染及其作用机制，以及HFV载体的构建及其在神经系统疾病中的应用。 （2）研究肠道病毒71型（Human enterovirus 71, EV71）和柯萨奇病毒A16型（Coxsachievirus A16, CA16）等病毒的感染及其致病机制，特别是其导致手足口病患儿脑部神经系统疾病的作用机理；同时致力于EV71/ CA16病毒新型疫苗和免疫诊断的研发。\n邮箱 : \n暂无内容\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

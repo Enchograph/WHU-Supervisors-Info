@@ -1,0 +1,238 @@
+{
+  "id": "lubinbin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lubinbin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "卢宾宾",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地理信息工程系",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地理计算",
+        "school": "爱尔兰国立大学（梅努斯）",
+        "period": "2009.2 -- 2012.4",
+        "country": "爱尔兰"
+      },
+      {
+        "degree": "硕士",
+        "field": "摄影测量与遥感",
+        "school": "北京大学",
+        "period": "2006.9 -- 2009.1",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "基础数学",
+        "school": "河南大学",
+        "period": "2002.9 -- 2006.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "爱尔兰国立大学（梅努斯）",
+    "academic_honors": [
+      "《武汉大学学报.信息科学版》2020年度优秀作者",
+      "湖北省测绘科技进步特等奖",
+      "武汉大学遥感信息工程学院“教书育人奖”荣誉称号",
+      "第十届MathorCup高校数学建模竞赛优秀指导教师",
+      "SuperMap杯第十四届全国高校GIS大赛制图组、地理分析应用组优秀指导教师奖",
+      "《Ecological Informatics》期刊优秀审稿人奖(Outstanding reviewer)"
+    ],
+    "academic_services": [
+      "《International Journal of Geographical Information Science》编委",
+      "《ISPRS International Journal of Geo-Information》编委",
+      "《Resources, Environment and Sustainability》编委",
+      "《Real Estate》期刊编委",
+      "《Geo-spatial Information Science》青年编委",
+      "《Frontiers in Plant Science》客座编辑",
+      "《International Journal of Environmental Research and Public Health》客座编辑",
+      "中国遥感应用协会社会遥感地理计算专业委员会秘书长",
+      "中国地理学会地理模型与地理信息分析委员会委员",
+      "中国优选法统筹法与经济数学研究会数学建模与算法分会理事"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "空间数据科学",
+      "时空大数据统计分析与挖掘技术",
+      "空间统计",
+      "地理加权建模技术"
+    ],
+    "research_interests": [
+      "地理加权回归分析",
+      "空间异质性建模",
+      "时空统计",
+      "R/Python语言开发",
+      "空间大数据挖掘",
+      "地理加权主成分分析",
+      "地理加权判别分析",
+      "高性能空间建模工具开发"
+    ],
+    "research_description": "卢宾宾教授长期致力于地理加权建模技术框架、地理加权回归分析技术理论和开源工具开发等方面的空间统计领域研究，建立了包括地理加权回归分析、地理加权汇总统计量、地理加权主成分分析和地理加权判别分析等技术的空间异质性地理加权建模框架，开发和维护地理加权建模技术R函数包GWmodel和shp2graph，最新推出了高性能软件工具GWmodelS。研究成果广泛应用于城市土地资源承载力评价、生态环境风险评估、航空排放估算、人口老龄化分析、房地产价格动态建模、交通异常检测等领域，发表于IJGIS、Spatial Statistics、CEUS、Journal of Statistical Software等高水平期刊。",
+    "disciplines": [
+      "地图制图学与地理信息工程",
+      "地理信息科学",
+      "空间统计学",
+      "数据科学"
+    ],
+    "field_tags": [
+      "地理加权建模",
+      "空间异质性",
+      "时空统计",
+      "R语言",
+      "Python",
+      "空间大数据",
+      "地理加权回归",
+      "空间数据分析",
+      "高性能计算",
+      "开源工具开发"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Geographical and temporal density regression",
+        "keywords": [
+          "地理加权回归",
+          "时空密度回归",
+          "空间异质性",
+          "地理加权建模"
+        ],
+        "journal_name": "International Journal of Geographical Information Science",
+        "research_fields": [
+          "空间统计",
+          "时空大数据挖掘",
+          "地理加权建模"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "GWmodelS: A standalone software to train geographically weighted models",
+        "keywords": [
+          "GWmodelS",
+          "地理加权建模软件",
+          "高性能计算",
+          "R语言工具包"
+        ],
+        "journal_name": "Geo-spatial Information Science",
+        "research_fields": [
+          "空间数据科学",
+          "地理加权建模",
+          "开源工具开发"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Uncovering drivers of community-level house price dynamics through multiscale geographically weighted regression: A case study of Wuhan, China",
+        "keywords": [
+          "地理加权回归",
+          "房价动态",
+          "多尺度分析",
+          "空间异质性"
+        ],
+        "journal_name": "Spatial Statistics",
+        "research_fields": [
+          "空间统计",
+          "地理加权建模",
+          "城市经济分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A Route Map for Successful Applications of Geographically Weighted Regression",
+        "keywords": [
+          "地理加权回归",
+          "应用路线图",
+          "空间建模",
+          "方法论"
+        ],
+        "journal_name": "Geographical Analysis",
+        "research_fields": [
+          "空间统计",
+          "地理加权建模",
+          "方法论研究"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "High-performance solutions of geographically weighted regression in R",
+        "keywords": [
+          "高性能计算",
+          "地理加权回归",
+          "R语言",
+          "GWmodel"
+        ],
+        "journal_name": "Geo-spatial Information Science",
+        "research_fields": [
+          "空间统计",
+          "地理加权建模",
+          "R语言开发"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=..."
+      },
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0000-0000-0000"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/lubinbin/zh_CN/index.htm"
+      },
+      {
+        "platform": "GWmodel Lab 团队官网",
+        "url": "http://gwmodel.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年基金项目",
+      "“十四五”国家重点研发项目专题",
+      "国家自然科学基金民航联合重点基金",
+      "国家自然科学基金民航联合培育基金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "“十四五”国家重点研发项目",
+      "民航联合重点基金",
+      "民航联合培育基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 卢宾宾\n页面链接: http://jszy.whu.edu.cn/lubinbin/zh_CN/index.htm\n==================================================\n武汉大学 卢宾宾--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n语种\n卢宾宾\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：研究生毕业\n学科：\n地图制图学与地理信息工程\n地图学与地理信息系统\n办公地点：信息学部教学实验大楼1301办公室\n电子邮箱：\n2020曾获荣誉当选：《武汉大学学报.信息科学版》2020年度优秀作者 2020曾获荣誉当选：湖北省测绘科技进步特等奖 2017曾获荣誉当选：武汉大学遥感信息工程学院“教书育人奖”荣誉称号 2020曾获荣誉当选：第十届MathorCup高校数学建模竞赛优秀指导教师 2016曾获荣誉当选：SuperMap杯第十四届全国高校GIS大赛制图组、地理分析应用组优秀指导教师奖 2017曾获荣誉当选：《Ecological Informatics》期刊优秀审稿人奖(Outstanding reviewer)\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n卢宾宾 , 武汉大学遥感信息工程学院教授，博士生导师，地理信息工程系主任，英国洛桑研究所(Rothamsted Research)高级访问学者(Senior Research Fellow)，中国遥感应用协会社会遥感地理计算专业委员会秘书长，中国地理学会地理模型与地理信息分析委员会委员，中国优选法统筹法与经济数学研究会数学建模与算法分会理事;《 International Journal of Geographical Information Science》（GIS领域顶刊）、《ISPRS International Journal of Geo-Information》、《Resources,  Environment and Sustainability》(中科院一区TOP)、《Real Estate》 期刊编委，《Geo-spatial Information Science》(JCR一区)期刊青年编委，《Frontiers in Plant Science 》、《International Journal of Environmental Research and Public Health》客座编辑。\n长期致力于地理加权建模技术框架、地理加权回归分析技术理论和开源工具开发等方面的空间统计领域研究，建立了包括地理加权回归分析、地理加权汇总统计量、地理加权主成分分析和地理加权判别分析等技术的空间异质性地理加权建模框架，开发和维护地理加权建模技术R函数包GWmodel和shp2graph, 最新推出了地理加权建模技术高性能软件工具GWmodelS, 学术成果发表在IJGIS、CEUS、Journal of Statistical Software、Spatial Statistics、EPB、GSIS、TGIS等期刊，已授权发明专利5项、软件著作权2项, 主持出版《R语言空间数据处理与分析实践教程》、《Python语言空间数据处理与分析实践教程》教材2部，主持国家自然科学基金面上项目2项、青年基金项目1项，“十四五”国家重点研发项目专题1项，协作主持国家自然科学基金民航联合重点基金2项、国家自然科学基金面上基金项目1项、国家自然科学基金民航联合培育基金项目1项。\n关键词：\n空间统计，时空统计，时空大数据挖掘，空间数据科学，地理加权建模，地理加权回归分析，R/Python语言开发\n学术主页：\n‪Google Scholar‬ ORICD\n-----------------------------------------------------------------------------------------------------------\n课题组动态：\n[2025-10] 课题组获得自然资源科学技术奖二等奖\n[2025-10] 课题组主办2025年空间统计技术国际高级研讨班\n[2025-10] 卢宾宾老师受邀成为GIS领域顶刊《 International Journal of Geographical Information Science》编委\n[2025-08] 课题组获批国家自然科学基金面上项目\n[2025-08] 地理加权建模技术框架获得城市创新奖金奖\n[2025-05]《空间数据科学R语言实践》 新书上市并在线发行，附赠PPT+代码资源\n-----------------------------------------------------------------------------------------------------------\n招生2026级地图学与地理信息系统、遥感科学与技术、资源与环境等学术/专业博士/硕士研究生，欢迎学生联系详谈！(QQ: 232460549)\n-----------------------------------------------------------------------------------------------------------\n成果列表(动态更新)：\n2025\n[1] Lu B*, Hu Y, Huang B. Geographical and temporal density regression[J]. International Journal of Geographical Information Science, 2025: 1-22.\n[2] 申力, 徐瑱梵, 艾明耀,卢宾宾*. 基于时空统计建模的主要类型癌症全球疾病负担变化研究[J]. 地球信息科学学报, 2025, 27(3): 698-715.\n[3] 卢宾宾, 葛咏*, 秦昆, 董冠鹏. 地理加权建模理论与技术框架[J]. 遥感学报, 2025, 29(3): 1-14.\n[4] 卢宾宾*, 田小溪, 秦思娴,等.基于地理加权建模技术的武汉市土地资源承载力评价研究[J].武汉大学学报：信息科学版,2025,50(3):430-438.\n[5] Tuerxun N, Naibi S, Zheng J, Wang R, Wang L, Lu B, Yu D. Accurate estimation of jujube leaf chlorophyll content using optimized spectral indices and machine learning methods integrating geospatial information[J]. Ecological Informatics, 2025, 85: 102980.\n[6] Yang J, Zheng J, Han C, Lu B, Yu W, Wang Z, Wu J, Han L. Exploring suitable models for regional ecological development: A study on multi-scenario ecological risk assessment in typical arid regions[J]. Land Degradation & Development, 2025\n[7] Peng B, Chen W, Tang H, Lu B, Yang L, Qian Y. A novel interband calibration method for the fy3d mersi-ii sensor based on a combination of physical mechanisms and a dnn regression model[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 1-16.\n[8] Wang Z, Zheng J, Han C, Lu B, Yu D, Yang J, Han L. A comprehensive assessment approach for multiscale regional economic development: Fusion modeling of nighttime lights and openstreetmap data[J]. Geography and Sustainability, 2025, 6(2): 100230.\n[9] Mao X, Zheng J*, Lu B*, Wang R, Han W, Harris P. Spatiotemporal drought forecasting in xinjiang’s irrigated agriculture: Model comparison and multi-source data integration[J]. Journal of Hydrology, 2025, 660: 133483.\n2024\n[1] Lu, B., Hu, Y., Yang, D., Liu, Y., Ou, G., Harris, P., Brunsdon, C., Comber, A., Dong, G., 2024. GwmodelS: A standalone software to train geographically weighted models. Geo-spatial Information Science, 1-23.\n[2] Lu B, Shi Y, Qin S, Yue P, Zheng J, Harris P. Evaluating urban land resource carrying capacity with geographically weighted principal component analysis: A case study in wuhan, china[J]. Transactions in GIS, 2024,\n[3]  LU B*, DONG J, WANG C, SUN H, YAO H. High-resolution spatio-temporal estimation of co2 emissions from china's civil aviation industry[J]. Applied Energy, 2024, 373: 123907.\n[4] Mao Y, Shi Y, Lu B* (2024) Detecting urban traffic anomalies using traffic-monitoring data. ISPRS International Journal of Geo-Information 13,  DOI: 10.3390/ijgi13100351.\n[5]  Wang, X., Lu, B.*, Li, J., Liu, Q., He, L., Lv, S., Yu, S., 2024. Spatio-temporal analysis of ecological service value driven by land use changes: A case study with danjiangkou, hubei section. Resources, Environment and Sustainability 15, 100146.\n[6] Lu B, Dong Z, Yue P, Qin K*. Spatial analysis of the aging population and socio-economic factors of china: Global and local perspectives[J]. Journal of Geodesy and Geoinformation Science, 2024, 7(2): 37-51.\n[7] 张林意, 孙华波, 王纯, 余长慧, 卢宾宾*, 2024. 基于qar飞行大数据的空中颠簸风险时空分布模式探索与分析. 武汉大学学报 ( 信息科学版) 49 (3), 482-490.\n[8]  严敏祖, 董冠鹏, 卢宾宾*, 2024. 基于刷卡数据的公交-地铁换乘模式研究. 地球信息科学学报 26 (6), 1351-1362.\n[9] Cui, B., Gui, D., Liu, Q., Abd-Elmabod, S.K., Liu, Y., Lu, B., 2024. Distribution and growth drivers of oases at a global scale. Earth's Future 12 (4), e2023EF004086.\n[10]  LIU R, YUE P, SHANGGUAN B, GONG J, XIANG L, LU B. Rtgdc: A real-time ingestion and processing approach in geospatial data cube for digital twin of earth[J]. International Journal of Digital Earth, 2024, 17(1): 2365386.\n[11] HU Y, HARRIS R, TIMMERMAN R, LU B. A backfitting maximum likelihood estimator for hierarchical and geographically weighted regression modelling, with a case study of house prices in beijing[J]. International Journal of Geographical Information Science, 2024: 1-34.\n[12] Li H, Yue P, Tapete D, Cigna F, Wu Q, Xiang L, Lu B. Esdc: An open earth science data corpus to support geoscientific literature information extraction[J]. Science China Earth Sciences, 2024.\n2023\n[1] Lu, B.; Hu, Y.; Yang, D.; Liu, Y.; Liao, L.; Yin, Z.; Xia, T.; Dong, Z.; Harris, P.; Brunsdon, C.; Comber, L., & Dong, G*. GWmodelS: A software for geographically weighted models. SoftwareX 2023, 21, 101291,\n[2]  Lu, B.; Ge, Y.*; Shi, Y.; Zheng, J.; Harris, P. Uncovering drivers of community-level house price dynamics through multiscale geographically weighted regression: A case study of Wuhan, China. Spatial Statistics 2023, 53, 100723, doi:https://doi.org/10.1016/j.spasta.2022.100723.\n[3] Comber, A*; Brunsdon, C.; Charlton, M.; Dong, G.; Harris, R.; Lu, B*; Lü, Y.; Murakami, D.; Nakaya, T.; Wang, Y.; et al. A Route Map for Successful Applications of Geographically Weighted Regression. Geographical Analysis, 2023,  55 (1), 155-178., doi:https://doi.org/10.1111/gean.12316.\n[4] Wang Q, Qin K, Lu B*, Sun H, Shu P. Time-feature attention-based convolutional auto-encoder for flight feature extraction. Scientific Reports. 2023;13:14175.\n[5] Murakami D, Tsutsumida N, Yoshida T, Nakaya T, Lu B, Harris P. A linearization for stable and fast geographically weighted Poisson regression. International Journal of Geographical Information Science. 2023:1-22.\n[6] 秦昆, 张凯, 阮建平, 卢宾宾*, 邢玲丽, 叶茹琪, 喻雪松, 周扬, 刘东海, 秦育罗. 国际航空网络与国际关系网络的特征提取及关联分析[J]. 同济大学学报(自然科学版), 2023, 51(7): 986-993.\n[7] 董锦涛, 王纯, 孙华波, 卢宾宾*. 基于qar数据的中国民航飞行排放清单估计研究[J]. 环境科学学报, 2022, 42(12): 322-331.\n[8] Zhang, H., Dong, G., Wang, J., Zhang, T.-L., Meng, X., Yang, D., Liu, Y., Lu, B., 2023. Understanding and extending the geographical detector model under a linear regression framework. International Journal of Geographical Information Science, 1-17.\n2022\n[1] Lu, B.*, Hu, Y., Murakami, D., Brunsdon, C., Comber, A., Charlton, M., and Harris, P.: ‘High-performance solutions of geographically weighted regression in R’, Geo-spatial Information Science, 2022, 25:4, 536-549, DOI: 10.1080/10095020.2022.2064244\n[2]  Chen, X., Xie, J., Xiao, C., Lu, B.*, Shan, J., 2022. Recurrent origin–destination network for exploration of human periodic collective dynamics. Transactions in GIS 26 (1), 317-340.\n[3] Han, C., Zheng, J.*, Guan, J., Yu, D., and Lu, B.* : ‘Evaluating and simulating resource and environmental carrying capacity in arid and semiarid regions: A case study of Xinjiang, China’, Journal of Cleaner Production, 2022, 338, pp. 130646\n[4] Hu Y, Lu B*, Ge Y*, Dong G. Uncovering Spatial Heterogeneity in Real Estate Prices via Combined Hierarchical Linear Model and Geographically Weighted Regression [J]. Environment and Planning B: Urban Analytics and City Science, 2022.\n[5] Xu G, Wang W, Lu D, Lu B*, Qin K, Jiao L. Geographically varying relationships between population flows from wuhan and covid-19 cases in chinese cities[J]. Geo-spatial Information Science, 2022, 25(2): 121-131.\n[6] Xiao R, Cao W, Liu Y, Lu B*. The impacts of landscape patterns spatio-temporal changes on land surface temperature from a multi-scale perspective: A case study of the yangtze river delta[J]. Science of The Total Environment, 2022, 821: 153381.\n[7] Qin K, Wang Q, Lu B*, Sun H, Shu P. Flight anomaly detection via a deep hybrid model[J]. Aerospace, 2022, 9(6): 329.\n[8] Lu B, Dong G*. Gwmodels: A high-performance computing framework for geographically weighted models[C]// Spatial Data and Intelligence, Cham, 2022//, 2022: Springer Nature Switzerland: 154-161.\n[9] Comber A, Callaghan M, Harris P, Lu B, Malleson N, Brunsdon C. Gwverse: A template for a new generic geographically weighted r package[J]. Geographical Analysis, 2022, 54(3): 685-709.\n[10] 卢宾宾, 张鹏林, 李建松, 周军其. 学科交叉背景下地理国情监测专业学生综合能力培养与提升[J]. 测绘地理信息, 2022, 47(S1): 11-13.\n著作/教材：\n[1] 卢宾宾，乐鹏，董冠鹏，秦昆，2025，空间数据科学R语言实践. 科学出版社\n[2] 卢宾宾, 秦昆, 赵鹏程, 田扬戈 & 王少华，2024.Python语言空间数据处理与分析实践教程.武汉大学出版社.\n[3] 黄荣顺, 孙华波, 卢宾宾, 苗凌云, 2023. 飞行安全时空大数据理论与实践 科学出版社, 北京.\n[4] 秦昆, 卢宾宾, 陈江平, 李熙, 李英冰, 许艳青, 2023. 空间数据分析 武汉大学出版社, 湖北武汉.\n[5] 卢宾宾, 2018. R语言空间数据处理与分析实践教程, 1 ed. 武汉大学出版社, 武汉.\n[6] 卢宾宾, 可靠性地理加权回归分析, in 可靠性时空数据分析, 史文中, 张鹏林, 陈江平, Editors. 2021, 科学出版社: 北京. p. 123-140.\n早期代表性成果：\n[1] Lu, B.*, Charlton, M., Harris, P., Fotheringham, A.S., 2014. Geographically weighted regression with a non-euclidean distance metric: A case study using hedonic house price data. International Journal of Geographical Information Science 28 (4), 660-681.\n[2] Lu, B.*, Harris, P., Charlton, M., Brunsdon, C., 2014. The gwmodel r package: Further topics for exploring spatial heterogeneity using geographically weighted models. Geo-spatial Information Science 17 (2), 85-101.\n[3] Gollini, I., Lu, B., Charlton, M., Brunsdon, C., Harris, P., 2015. Gwmodel: An r package for exploring spatial heterogeneity using geographically weighted models. Journal of Statistical Software 63 (17), 1-50.\n[4] Lu, B.*, Charlton, M., Brunsdon, C., Harris, P., 2016. The minkowski approach for choosing the distance metric in geographically weighted regression. International Journal of Geographical Information Science 30 (2), 351-368.\n[5] Lu, B.*, Brunsdon, C., Charlton, M., Harris, P., 2017. Geographically weighted regression with parameter-specific distance metrics. International Journal of Geographical Information Science 31 (5), 982-998.\n[6] Lu, B.*, Yang, W., Ge, Y., Harris, P., 2018. Improvements to the calibration of a geographically weighted regression with parameter-specific distance metrics and bandwidths. Computers, Environment and Urban Systems 71, 41-57.\n[7] Lu, B.*, Sun, H., Harris, P., Xu, M., Charlton, M., 2018. Shp2graph: Tools to convert a spatial network into an igraph graph in r. ISPRS International Journal of Geo-Information 7 (8).\n[8] Lu, B.*, Brunsdon, C., Charlton, M., Harris, P., 2019. A response to ‘a comment on geographically weighted regression with parameter-specific distance metrics’. International Journal of Geographical Information Science 33 (7), 1300-1312.\n[9] Murakami, D., Lu, B., Harris, P., Brunsdon, C., Charlton, M., Nakaya, T., Griffith, D.A., 2019. The importance of scale in spatially varying coefficient modeling. Annals of the American Association of Geographers 109 (1), 50-70.\n[10] 卢宾宾*, 葛咏, 秦昆, 郑江华, 2020. 地理加权回归分析技术综述. 武汉大学学报 ● 信息科学版 45 (9), 1356-1366.\n团队公众号（下载GWmodelS软件需关注此公众号）：\n其他联系方式\n通讯/办公地址 : \n邮箱 : \n教育经历\n2009.2 -- 2012.4\n爱尔兰国家地理计算中心，爱尔兰国立大学（梅努斯）\n研究生(博士)毕业\n博士\n2006.9 -- 2009.1\n北京大学\n摄影测量与遥感\n研究生毕业\n硕士\n2002.9 -- 2006.7\n河南大学\n基础数学\n大学普通班毕业\n学士\n工作经历\n2024.12 -- 至今\n武汉大学\n遥感信息工程学院\n系主任\n教授\n2019.12 -- 2024.11\n武汉大学\n遥感信息工程学院\n副教授\n2014.3 -- 2019.11\n武汉大学\n遥感信息工程学院\n讲师\n社会兼职\n2025.10 -- 至今\n《 International Journal of Geographical Information Science》编委\n2020.10 -- 至今\n《Geo-spatial Information Science》期刊青年编委，\n2022.10 -- 至今\n《Resources,  Environment and Sustainability》编委\n2024.9 -- 至今\n《ISPRS International Journal of Geo-Information》编委\n2021.10 -- 至今\n《Real Estate》 期刊编委\n2023.7 -- 至今\n中国遥感应用协会社会遥感地理计算专业委员会秘书长\n2023.7 -- 至今\n中国地理学会地理模型与地理信息分析委员会委员\n2021.10 -- 至今\n中国优选法统筹法与经济数学研究会数学建模与算法分会理事\n研究方向\n空间数据科学\n时空大数据统计分析与挖掘技术\n空间统计\n地理加权建模技术\n团队成员\n团队名称： GWmodel Lab\n团队介绍：http://gwmodel.whu.edu.cn/\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

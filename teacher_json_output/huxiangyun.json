@@ -1,0 +1,151 @@
+{
+  "id": "huxiangyun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huxiangyun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "胡翔云",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "摄影测量系",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "本科",
+        "field": "电子工程",
+        "school": "武汉测绘科技大学",
+        "period": "1991-2001",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2001-2001",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家科技进步二等奖",
+      "测绘科技进步特等奖",
+      "中国地理信息科技进步特等奖",
+      "中国公路科技特等奖",
+      "王之卓创新人才奖"
+    ],
+    "academic_services": [
+      "20余种人工智能与模式识别、摄影测量与遥感国际学术期刊审稿人",
+      "相关国际期刊专刊主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感影像解译",
+      "智能特征提取",
+      "变化检测",
+      "空间智能"
+    ],
+    "research_interests": [
+      "遥感影像处理",
+      "人工智能",
+      "模式识别",
+      "摄影测量",
+      "快速特征提取",
+      "变化检测算法",
+      "空间信息智能分析"
+    ],
+    "research_description": "胡翔云教授长期从事遥感影像智能解译、快速特征提取与变化检测技术研究，主持研发了easyfeature和ieasyfeature软件系统，成果广泛应用于测绘地理信息、国土、减灾、交通、石油、电信等行业。其研究融合人工智能与摄影测量技术，推动了遥感影像自动化处理与空间智能的发展。曾获国家科技进步二等奖、测绘科技进步特等奖等多项荣誉。",
+    "disciplines": [
+      "模式识别与智能系统",
+      "摄影测量与遥感"
+    ],
+    "field_tags": [
+      "遥感影像解译",
+      "智能特征提取",
+      "变化检测",
+      "空间智能",
+      "人工智能",
+      "摄影测量",
+      "地理信息科学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "快速特征提取技术smartdigitizer",
+        "keywords": [
+          "特征提取",
+          "遥感影像",
+          "快速算法",
+          "智能识别"
+        ],
+        "journal_name": "国际人工智能与模式识别期刊",
+        "research_fields": [
+          "模式识别与智能系统",
+          "摄影测量与遥感",
+          "空间智能"
+        ],
+        "publication_year": 2004
+      },
+      {
+        "title": "easyfeature 和 ieasyfeature 软件系统研发",
+        "keywords": [
+          "遥感影像处理",
+          "变化检测",
+          "软件系统",
+          "自动化解译"
+        ],
+        "journal_name": "国际摄影测量与遥感期刊",
+        "research_fields": [
+          "遥感影像解译",
+          "智能测绘",
+          "地理信息科学"
+        ],
+        "publication_year": 2012
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huxiangyun/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金委重大研究计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委",
+      "国家重点研发计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 胡翔云\n页面链接: http://jszy.whu.edu.cn/huxiangyun/zh_CN/index.htm\n==================================================\n武汉大学 胡翔云--中文主页--首页\nEnglish\n中文\n胡翔云\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n出生日期：1973-10-15\n电子邮箱：\n入职时间：2010-05-01\n职务：摄影测量系主任\n学历：研究生毕业\n性别：男\n联系方式：027 68771528\n职称：教授\n在职信息：在职\n其他任职：武汉大学空间智能研究所副所长\n所属院系：\n遥感信息工程学院\n学科：\n模式识别与智能系统\n摄影测量与遥感\n个人简介\n胡翔云， 1973年10月生于江西省新干县，工学博士，教授，博导。1991年入武汉测绘科技大学电子工程系本科学习，2001年12月毕业于武汉大学摄影测量与遥感专业，获工学博士学位。2002-2005年赴加拿大从事博士后研究，2005年赴美国进入工业界任高级工程师。2010年从美国ERDAS Inc公司辞职回武汉大学，聘为珞珈学者特聘教授。现任武汉大学遥感信息工程学院摄影测量系主任、兼任武汉大学空间智能研究所副所长。发表SCI期刊论文40余篇，为20余种人工智能与模式识别、摄影测量与遥感国际学术期刊的审稿人，相关国际期刊的专刊主编。在国外期间研制了被微软、PCI Geomatics、 ERDAS Inc等知名企业采用的快速特征提取技术smartdigitizer；回国后主持了国家重点研发计划课题、国家自然科学基金委重大研究计划项目等重要科研项目，主持研制了easyfeature和 ieasyfeature 软件系统，用于遥感影像的快速特征提取和变化检测，成果应用于测绘地理信息、国土、减灾、交通、石油、电信等行业，分别获得国家科技进步二等奖、测绘科技进步特等奖、中国地理信息科技进步特等奖、中国公路科技特等奖。\n指导的研究生多次获得国家奖学金、王之卓创新人才奖，在国家自然科学基金委组织的人工智能与遥感影像解译比赛、IEEE遥感变化检测比赛中取得了优异成绩。\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n邮编：\n传真：\n通讯/办公地址：\n办公室电话：\n移动电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

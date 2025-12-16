@@ -1,0 +1,109 @@
+{
+  "id": "mazhaocheng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/mazhaocheng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "马兆成",
+    "english_name": "Ma Zhaocheng",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "公共卫生学院",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "高分子物理与化学",
+        "school": "武汉大学",
+        "period": "2003.9-2008.12",
+        "country": "中国"
+      },
+      {
+        "degree": "本科双学位",
+        "field": "应用化学",
+        "school": "武汉大学",
+        "period": "1999.9-2003.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "法国埃菲尔博士奖学金",
+      "美国百人会英才奖",
+      "武汉大学五四青年奖",
+      "武汉3551光谷人才"
+    ],
+    "academic_services": [
+      "中药资源专业委员会常务委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "功能成分介入人类生命过程机制",
+      "药食同源资源精细评价与代谢调控"
+    ],
+    "research_interests": [
+      "药食同源",
+      "功能成分",
+      "种质资源",
+      "健康机制",
+      "代谢调控",
+      "高端产品创制"
+    ],
+    "research_description": "主要从事药食同源研究，围绕我国药食同源种质资源收集与精细评价，功能成分介入人类生命过程的健康机制两个关键科学问题进行深入研究，解决了‘药食同源种质资源精细评价及高端化产品创制’的资源开发关键问题。",
+    "disciplines": [
+      "公共卫生学",
+      "药学",
+      "生物化学",
+      "植物资源学"
+    ],
+    "field_tags": [
+      "药食同源",
+      "功能成分",
+      "种质资源",
+      "健康机制",
+      "代谢调控",
+      "资源开发",
+      "高端产品",
+      "生命过程"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/mazhaocheng/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 马兆成\n页面链接: http://jszy.whu.edu.cn/mazhaocheng/zh_CN/index.htm\n==================================================\n武汉大学 马兆成--中文主页--首页\n教师个人主页\n马兆成\n个人信息\n教师拼音名称：Ma Zhaocheng\n电子邮箱：\n入职时间：2023-11-01\n所在单位：公共卫生学院\n学历：博士研究生毕业\n办公地点：医学部2号楼212\n性别：男\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n马兆成，1981年3月出生，博士，武汉大学公共卫生学院副教授。2008年12月于武汉大学高分子物理与化学专业获得理学博士，法国国家科学中心（CERMAV-CNRS）联合培养博士；山东省首批引进高层次高技能人才入选者，武汉市3551人才计划入选者；曾获法国埃菲尔博士奖学金，美国百人会英才奖，武汉大学五四青年奖。主要从事药食同源研究。围绕我国药食同源种质资源收集与精细评价，功能成分介入人类生命过程的健康机制两个关键科学问题进行深入研究，解决了“药食同源种质资源精细评价及高端化产品创制”的资源开发关键产...\n教育经历\n2003.9-2008.12\n武汉大学  | 高分子物理与化学  | 博士 | 研究生毕业\n1999.9-2003.6\n武汉大学  | 应用化学  | 本科双学位 | 本科(学士)\n工作经历\n更多>>\n2023.11-至今\n公共卫生学院 | 武汉大学\n| 副教授\n2011.11-2023.10\n园艺林学学院 | 华中农业大学\n| 副教授\n2009.3-2011.10\n园艺林学学院 | 华中农业大学\n| 讲师\n社会兼职\n2023.7-至今\n中药资源专业委员会常务委员\n研究方向\n功能成分介入人类生命过程机制\n药食同源资源精细评价与代谢调控\n曾获荣誉\n2015    武汉3551光谷人才\n2006    武汉大学“五四青年奖”\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

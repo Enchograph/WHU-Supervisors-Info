@@ -1,0 +1,219 @@
+{
+  "id": "chenghairong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenghairong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "成海容",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "本科",
+        "field": "未明确提及",
+        "school": "中国地质大学（武汉）",
+        "period": "2000.09-2004.07",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "未明确提及",
+        "school": "中科院广州地球化学研究所",
+        "period": "2004.09-2007.07",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "未明确提及",
+        "school": "香港理工大学",
+        "period": "2007.09-2010.07",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "香港理工大学",
+    "academic_honors": [
+      "湖北省“楚天学子”",
+      "湖北省杰出青年基金获得者",
+      "武汉大学珞珈青年学者"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "城市大气细颗粒物（PM2.5）的来源、管控和健康效应",
+      "大气臭氧（O3）成因机制及管控",
+      "背景地区的大气环境化学",
+      "大气污染物的区域联防联控对策"
+    ],
+    "research_interests": [
+      "大气细颗粒物（PM2.5）",
+      "大气臭氧（O3）",
+      "挥发性有机物（VOCs）",
+      "持久性有机污染物（POPs）",
+      "羰基化合物",
+      "大气毒害有机污染物",
+      "区域联防联控",
+      "光化学反应性",
+      "长距离传输",
+      "健康风险评估"
+    ],
+    "research_description": "成海容教授主要从事区域空气质量研究，聚焦城市大气细颗粒物（PM2.5）的来源、成因与健康效应，大气臭氧（O3）的成因机制与管控，背景地区大气环境化学过程，以及大气污染物的区域联防联控对策。研究涵盖大气中持久性有机污染物、挥发性有机物、羰基化合物等的污染特征、来源解析、化学演化与光化学效应，结合观测与模型方法，服务于区域大气污染治理与环境空气质量保障。",
+    "disciplines": [
+      "环境科学",
+      "大气科学",
+      "环境工程",
+      "生态学"
+    ],
+    "field_tags": [
+      "大气污染",
+      "PM2.5",
+      "臭氧污染",
+      "VOCs",
+      "区域联防联控",
+      "背景站点",
+      "光化学反应",
+      "健康风险",
+      "污染源解析",
+      "环境监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Comparison of atmospheric polycyclic aromatic hydrocarbons (PAHs) over six years at a CAWNET background site in central China: Changes of seasonal variations and potential sources",
+        "keywords": [
+          "多环芳烃",
+          "季节变化",
+          "来源解析",
+          "背景站点"
+        ],
+        "journal_name": "Chemosphere",
+        "research_fields": [
+          "大气化学",
+          "环境污染物来源分析",
+          "空气质量研究"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Policy-driven variations in oxidation potential and source apportionment of PM(2.5) in Wuhan, central China",
+        "keywords": [
+          "PM2.5",
+          "氧化潜能",
+          "源解析",
+          "政策影响"
+        ],
+        "journal_name": "Science of the Total Environment",
+        "research_fields": [
+          "细颗粒物污染",
+          "健康风险",
+          "环境政策评估"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Occurrence of atmospheric current-use and historic-use pesticides at a CAWNET background site in central China",
+        "keywords": [
+          "农药",
+          "背景站点",
+          "大气污染",
+          "持久性有机污染物"
+        ],
+        "journal_name": "Science of The Total Environment",
+        "research_fields": [
+          "大气毒害有机污染物",
+          "区域背景污染",
+          "环境行为"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Impact of long-range atmospheric transport on volatile organic compounds and ozone photochemistry at a regional background site in central China",
+        "keywords": [
+          "长距离传输",
+          "挥发性有机物",
+          "臭氧光化学",
+          "背景站点"
+        ],
+        "journal_name": "Atmospheric Environment",
+        "research_fields": [
+          "大气臭氧成因",
+          "区域传输",
+          "光化学反应"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "O3 photochemistry on O3 episode days and non-O3 episode days in Wuhan, Central China",
+        "keywords": [
+          "臭氧污染",
+          "光化学反应",
+          "城市大气",
+          "污染事件"
+        ],
+        "journal_name": "Atmospheric Environment",
+        "research_fields": [
+          "臭氧成因机制",
+          "大气光化学",
+          "城市空气质量"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学资源与环境科学学院",
+        "url": "http://jszy.whu.edu.cn/chenghairong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "重点研发计划",
+      "湖北省自然科学基金",
+      "武汉市重大科技专项",
+      "武汉市生态环境科技中心项目",
+      "武汉青年晨光计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委",
+      "科技部",
+      "湖北省自然科学基金",
+      "武汉市生态环境科技中心",
+      "武汉市重大科技专项",
+      "武汉市环保局",
+      "武汉市环境监测中心",
+      "武汉市环境保护科学研究院"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 成海容\n页面链接: http://jszy.whu.edu.cn/chenghairong/zh_CN/index.htm\n==================================================\n武汉大学 成海容--中文主页--首页\n其他栏目\n语种\nEnglish\n成海容\n教授\n博士生导师\n硕士生导师\n性别：女\n出生日期：1981-11-23\n学历：研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n入职时间： 2010-11-01\n联系方式：chenghr@whu.edu.cn\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n成海容，教授，博士生导师，湖北省“楚天学子”，湖北省杰出青年基金获得者，武汉大学珞珈青年学者。2010年香港理工大学获博士学位。主要从事区域空气质量研究，研究方向包括大气细颗粒物的来源与成因、大气毒害有机污染物的污染特征、大气臭氧的成因机制、大气污染物的联防联控对策等。主持国家自然科学基金3项、重点研发计划课题1项、湖北省自然科学基金、教育部博士点等多项基金，参与3项科技部国家重点研发计划、国家自然科学基金重点项目、武市重大科技攻关专项等。与湖北省环保系统建立了良好的合作关系，合作完成多项有关环境空气质量的项目，为湖北省大气空气质量保障提供技术支撑与科学依据。已发表SCI论文50多篇。\n欢迎对区域空气质量感兴趣的本科生、硕士和博士研究生加入课题组。\n联系方式：chenghr@whu.edu.cn\n教育经历\n2000.09-2004.07：中国地质大学（武汉），本科\n2004.09-2007.07：中科院广州地球化学研究所，硕士\n2007.09-2010.07：香港理工大学，博士\n工作经历\n2010.11-2014.12：武汉大学，讲师\n2015.01-2019.12：武汉大学，副教授\n2020.01-至今：武汉大学，教授\n主要研究方向\n（1）城市大气细颗粒物（PM2.5）的来源、管控和对人体健康的效应；\n（2）大气臭氧（O3）成因机制及管控；\n（3）背景地区的大气环境化学；\n（4）大气污染物的区域联防联控对策等\n近五年主持或参与的主要项目\n[1]国家自然科学基金委面上基金项目：华中高山森林背景大气羰基化合物的组成、来源与化学演化，2023-01至2026-12，主持；\n[2]湖北省自然科学基金（重点类）杰出青年项目: 山地森林背景大气典型挥发性有机物的环境行为和光化学效应，2023-08至2026-08，主持；\n[3]武汉市生态环境科技中心，武汉市汽修行业VOCs排放监测于标准试评价，2024-05至2025-04，参与；\n[4]科技部国家重点研发计划：面向城市群的区域生态环境智能感知技术与系统示范， 2020-2022，参与;\n[5] 国家自然科学基金面上基金项目：华中背景地区大气挥发性有机物（VOCs）的来源与光化学反应性，2017-2020，主持；\n[6] 科技部国家重点研发计划：星-地多平台联合的大气PM2.5实时无缝监测技术， 2016-2019，课题负责人；\n[7] 国家自然科学基金青年基金项目：华中背景地区持久性有机污染物（POPs）的大气迁移与大气-地表交换，2012-2014，主持；\n[8] 科技部国家重点研发计划：武汉城市圈大气污染联防联控技术集成与应用示范， 2017-2020，项目骨干；\n[9] 武汉青年晨光计划：武汉地区臭氧成因机制研究，2018-2021，主持；\n[10] 湖北省面上基金：江汉平原生物质燃烧有机污染排放及其区域环境影响，2016-2017，主持；\n[11] 武汉市环保局：机动车挥发性有机物排放（武汉市环境监测中心监测能力专项），2016-2017，主持；\n[12] 武汉市环境监测中心：军运会环境空气质量监测能力提升-VOCs手工分析采样服务，2019,，主持；\n[13] 武汉市环境监测中心：典型内陆航道船舶的污染排放研究，2018，主持；\n[14] 武汉市环境保护科学研究院：武汉市扬尘源颗粒物排放清单，2017，主持；\n[15] 武汉市环境保护科学研究院：武汉市二氧化碳排放清单核查，2017，主持；\n[16] 武汉市重大科技专项：武汉市大气灰霾成因与来源研究，2016-2017，参与\n发表的主要论文\n(1) Zhan L, Huang H, Zhao S, Wang Z, Zhang G, Cheng H. R*.,Comparison of atmospheric polycyclic aromatic hydrocarbons (PAHs) over six years at a CAWNET background site in central China: Changes of seasonal variations and potential sources. Chemosphere. 2022;299:134298.\n(2) Deng MJ, Chen DH, Zhang G, Cheng HR*. Policy-driven variations in oxidation potential and source apportionment of PM(2.5 )in Wuhan, central China. Science of the Total Environment. 2022;853.\n(3) Zhan L, Cheng H.R, Zhong G, Sun Y, Jiang H, Zhao S, et al. Occurrence of atmospheric current-use and historic-use pesticides at a CAWNET background site in central China. Science of The Total Environment. 2021;775:145802.\n(4) Yuan C, Wang ZW*, Cheng HR*, Liang SW, Hu YZ, Dong XY, et al. Characteristics of water-soluble ions in condensable particulate matter emitted from stationary sources in Wuhan. Fuel. 2021;295.\n(5) Lei X, Cheng H.R*, Peng J, Jiang H, Lyu X, Zeng P, et al. Impact of long-range atmospheric transport on volatile organic compounds and ozone photochemistry at a regional background site in central China. Atmospheric Environment. 2021;246:118093.\n(6)Zhu,J.X.; Cheng, H. R.*; Peng, J.; Zeng,P; Wang, Z.W. Guo, H.;O3 photochemistry on O3 episode days and non-O3 episode days in Wuhan, Central China.Atmospheric Environment 2020, 223, 117236.\n(7) Jiang, H.M,; Xiao, H; Cheng, H.R.*;Wang, Z.W.* A Long-lasting Winter Haze Episode in Xiangyang, Central China: Pollution Characteristics, Chemical Composition, and Health Risk Assessment 2020,https://doi.org/10.4209/aaqr.2020.02.0068.\n(8) Zhan, L. X.; Lin, T.; Cheng, H. R.*; Wang, Z. W.; Cheng, Z. N.; Zhou, D.; Qin, Z. X.; Zhang, G. Atmospheric deposition and air-soil exchange of polybrominated diphenyl ethers (PBDEs) in a background site in Central China. Environmental Science and Pollution Research 2019, 26, 31934-31944.\n(9) Zeng, P.; Lyu, X. P.; Guo, H.; Cheng, H. R*.; Wang, Z. W.*; Liu, X. F.; Zhang, W. H. Spatial variation of sources and photochemistry, of formaldehyde in Wuhan, Central China. Atmospheric Environment 2019, 214.\n(10) Zeng, P.; Guo, H.; Cheng, H. R.*; Wang, Z. W.*; Zeng, L. W.; Lyu, X. P.; Zhan, L. X.; Yang, Z. Aromatic Hydrocarbons in Urban and Suburban Atmospheres in Central China: Spatiotemporal Patterns, Source Implications, and Health Risk Assessment. Atmosphere 2019, 10.\n(11) Zeng, L. W.; Offor, F.; Zhan, L. X.; Lyu, X. P.; Liang, Z. R.; Zhang, L. Y.; Wang, J. Y.; Cheng, H. R.; Guo, H. Comparison of PM2.5 pollution between an African city and an Asian metropolis. Science of the Total Environment 2019, 696.\n(12) Yang, Z.; Cheng, H. R.*; Wang, Z. W.; Peng, J.; Zhu, J. X.; Lyu, X. P.; Guo, H. Chemical characteristics of atmospheric carbonyl compounds and source identification of formaldehyde in Wuhan, Central China. Atmospheric Research 2019, 228, 95-106.\n(13) Lyu, X. P.; Wang, N.; Guo, H.; Xue, L. K.; Jiang, F.; Zeren, Y. Z.; Cheng, H. R.; Cai, Z.; Han, L. H.; Zhou, Y. Causes of a continuous summertime O-3 pollution event in Jinan, a central city in the North China Plain. Atmospheric Chemistry and Physics 2019, 19, 3025-3042.\n(14) Lu, H. X.; Lyu, X. P.; Cheng, H. R.; Ling, Z. H.; Guo, H. Overview on the spatial-temporal characteristics of the ozone formation regime in China. Environmental Science-Processes undefinedamp; Impacts 2019, 21, 916-929.\n(15) Zeng, P.; Lyu, X. P.; Guo, H.*; Cheng, H. R.*; Jiang, F.; Pan, W. Z.; Wang, Z. W.; Liang, S. W.; Hu, Y. Q. Causes of ozone pollution in summer in Wuhan, Central China. Environmental Pollution 2018, 241, 852-861.\n(16) Yang, Z.; Lin, T.; Cheng, H. R.*; Wang, Z. W.; Cheng, Z. N.; Lyu, X. P.; Zhan, L. X.; Zhang, G. Concentration and Seasonal Variation of Halogenated Flame Retardants at a CAWNET Background Site in Central China. Aerosol and Air Quality Research 2018, 18, 3068-3080.\n(17) Wang, Y.; Guo, H.; Zou, S. C.; Lyu, X. P.; Ling, Z. H.; Cheng, H. R.; Zeren, Y. Z. Surface O-3 photochemistry over the South China Sea: Application of a near-explicit chemical mechanism box model. Environmental Pollution 2018, 234, 155-166.\n(18) Lyu, X. P.; Guo, H.*; Cheng, H. R.*; Wang, D. W. New particle formation and growth at a suburban site and a background site in Hong Kong. Chemosphere 2018, 193, 664-674.\n(19) Zhan, L. X.; Lin, T.; Wang, Z. W.; Cheng, Z. N.; Zhang, G.; Lyu, X. P.; Cheng, H. R*. Occurrence and air-soil exchange of organochlorine pesticides and polychlorinated biphenyls at a CAWNET background site in central China: Implications for influencing factors and fate. Chemosphere 2017, 186, 475-487.\n(20) Wang, Y.; Wang, H.; Guo, H.*; Lyu, X. P.; Cheng, H. R.*; Ling, Z. H.; Louie, P. K. K.; Simpson, I. J.; Meinardi, S.; Blake, D. R. Long-term O-3-precursor relationships in Hong Kong: field observation and model simulation. Atmospheric Chemistry and Physics 2017, 17, 10919-10935.\n(21) Lyu, X. P.; Guo, H.; Wang, N.; Simpson, I. J.; Cheng, H. R.; Zeng, L. W.; Saunders, S. M.; Lam, S. H. M.; Meinardi, S.; Blake, D. R. Modeling C-1-C-4 Alkyl Nitrate Photochemistry and Their Impacts on O-3 Production in Urban and Suburban Environments of Hong Kong. Journal of Geophysical Research-Atmospheres 2017, 122, 10539-10556.\n(22) Lyu, X. P.; Guo, H.*; Cheng, H. R.*; Wang, X. M.; Ding, X.; Lu, H. X.; Yao, D. W.; Xu, C. Observation of SOA tracers at amountainous site in Hong Kong: Chemical characteristics, origins and implication on particle growth. Science of the Total Environment 2017, 605, 180-189.\n(23) Guo, H.; Ling, Z. H.; Cheng, H. R.; Simpson, I. J.; Lyu, X. P.; Wang, X. M.; Shao, M.; Lu, H. X.; Ayoko, G.; Zhang, Y. L.; Saunders, S. M.; Lam, S. H. M.; Wang, J. L.; Blake, D. R. Tropospheric volatile organic compounds in China. Science of the Total Environment 2017, 574, 1021-1043.\n(24) Chakraborty, P.; Zhang, G.; Cheng, H. R.; Balasubramanian, P.; Li, J.; Jones, K. C. Passive air sampling of polybrominated diphenyl ethers in New Delhi, Kolkata, Mumbai and Chennai: Levels, homologous profiling and source apportionment. Environmental Pollution 2017, 231, 1181-1187.\n(25) Liu, J. W.; Li, J.; Vonwiller, M.; Liu, D.; Cheng, H. R.; Shen, K. J.; Salazar, G.; Agrios, K.; Zhang, Y. L.; He, Q. F.; Ding, X.; Zhong, G. C.; Wang, X. M.; Szidat, S.; Zhang, G. The importance of non-fossil sources in carbonaceous aerosols in a megacity of central China during the 2013 winter haze episode: A source apportionment constrained by radiocarbon and organic tracers. Atmospheric Environment 2016, 144, 60-68.\n(26) Zhang, F.; Wang, Z. W.; Cheng, H. R.*; Lv, X. P.; Gong, W.; Wang, X. M.; Zhang, G. Seasonal variations and chemical characteristics of PM2.5 in Wuhan, central China. Science of the Total Environment 2015, 518, 97-105.\n(27) Lyu, X. P.; Wang, Z. W.; Cheng, H. R.*; Zhang, F.; Zhang, G.; Wang, X. M.; Ling, Z. H.; Wang, N. Chemical characteristics of submicron particulates (PM1.0) in Wuhan, Central China. Atmospheric Research 2015, 161, 169-178.\n(28) Lam, S. H. M.; Saunders, S. M.; Cheng, H. R.; Guo, H. Examination of regional ozone formation: POCPs for Western Australia and comparisons to other continents. Environmental Modelling undefinedamp; Software 2015, 74, 194-200.\n(29) Zhang, F.; Cheng, H. R.; Wang, Z. W.; Lv, X. P.; Zhu, Z. M.; Zhang, G.; Wang, X. M. Fine particles (PM2.5) at a CAWNET background site in Central China: Chemical compositions, seasonal variations and regional pollution events. Atmospheric Environment 2014, 86, 193-202.\n(30) Cheng, H. R.; Lin, T.; Zhang, G.; Liu, G. Q.; Zhang, W. L.; Qi, S. H.; Jones, K. C.; Zhang, X. W. DDTs and HCHs in sediment cores from the Tibetan Plateau. Chemosphere 2014, 94, 183-189.\n(31) Cheng, H. R.; Gong, W.; Wang, Z. W.; Zhang, F.; Wang, X. M.; Lv, X. P.; Liu, J.; Fu, X. X.; Zhang, G. Ionic composition of submicron particles (PM1.0) during the long-lasting haze period in January 2013 in Wuhan, central China. Journal of Environmental Sciences-China 2014, 26, 810-817.\n(32) Ling, Z. H.; Guo, H.; Zheng, J. Y.; Louie, P. K. K.; Cheng, H. R.; Jiang, F.; Cheung, K.; Wong, L. C.; Feng, X. Q. Establishing a conceptual model for photochemical ozone pollution in subtropical Hong Kong. Atmospheric Environment 2013, 76, 208-220.\n(33) Lam, S. H. M.; Saunders, S. M.; Cheng, H. R.; Guo, H. Examination of a tropospheric ozone control methodology from the explicit representation of POCPs across varying temporal and continent spatial domains. 20th International Congress on Modelling and Simulation (Modsim2013) 2013, 1868-1874.\n(34) Cheng, H. R.; Saunders, S. M.; Guo, H.; Louie, P. K. K.; Jiang, F. Photochemical trajectory modeling of ozone concentrations in Hong Kong. Environmental Pollution 2013, 180, 101-110.\n(35) Cheng, H. R.; Deng, Z. M.; Chakraborty, P.; Liu, D.; Zhang, R. J.; Xu, Y.; Luo, C. L.; Zhang, G.; Li, J. A comparison study of atmospheric polycyclic aromatic hydrocarbons in three Indian cities using PUF disk passive air samplers. Atmospheric Environment 2013, 73, 16-21.\n(36) Lin, T.; Li, J.; Xu, Y.; Liu, X.; Luo, C. L.; Cheng, H. R.; Chen, Y. J.; Zhang, G. Organochlorine pesticides in seawater and the surrounding atmosphere of the marginal seas of China: Spatial distribution, sources and air-water exchange. Science of the Total Environment 2012, 435, 244-252.\n(37) Ling, Z. H.; Guo, H.; Cheng, H. R.; Yu, Y. F. Sources of ambient volatile organic compounds and their contributions to photochemical ozone formation at a site in the Pearl River Delta, southern China. Environmental Pollution 2011, 159, 2310-2319.\n(38) Guo, H.; Cheng, H. R.; Ling, Z. H.; Louie, P. K. K.; Ayoko, G. A. Which emission sources are responsible for the volatile organic compounds in the atmosphere of Pearl River Delta? Journal of Hazardous Materials 2011, 188, 116-124.\n(39) Zhang, Y. L.; Guo, H.; Wang, X. M.; Simpson, I. J.; Barletta, B.; Blake, D. R.; Meinardi, S.; Rowland, F. S.; Cheng, H. R.; Saunders, S. M.; Lam, S. H. M. Emission patterns and spatiotemporal variations of halocarbons in the Pearl River Delta region, southern China. Journal of Geophysical Research-Atmospheres 2010, 115.\n(40) Guo, H.; Simpson, I. J.; Ding, A. J.; Wang, T.; Saunders, S. M.; Wang, T. J.; Cheng, H. R.; Barletta, B.; Meinardi, S.; Blake, D. R.; Rowland, F. S. Carbonyl sulfide, dimethyl sulfide and carbon disulfide in the Pearl River Delta of southern China: Impact of anthropogenic and biogenic sources. Atmospheric Environment 2010, 44, 3805-3813.\n(41) Cheng, H. R.; Guo, H.; Wang, X. M.; Saunders, S. M.; Lam, S. H. M.; Jiang, F.; Wang, T. J.; Ding, A. J.; Lee, S. C.; Ho, K. F. On the relationship between ozone and its precursors in the Pearl River Delta: application of an observation-based model (OBM). Environmental Science and Pollution Research 2010, 17, 547-560.\n(42) Cheng, H. R.; Guo, H.; Saunders, S. M.; Lam, S. H. M.; Jiang, F.; Wang, X. M.; Simpson, I. J.; Blake, D. R.; Louie, P. K. K.; Wang, T. J. Assessing photochemical ozone formation in the Pearl River Delta with a photochemical trajectory model. Atmospheric Environment 2010, 44, 4199-4208.\n(43) Li, J.; Cheng, H. R.; Zhang, G.; Qi, S. H.; Li, X. D. Polycyclic aromatic hydrocarbon (PAH) deposition to and exchange at the air-water interface of Luhu, an urban lake in Guangzhou, China. Environmental Pollution 2009, 157, 273-279.\n(44) Jiang, F.; Guo, H.; Wang, T. J.; Cheng, H. R.; Wang, X. M.; Simpson, I. J.; Ding, A. J.; Saunders, S. M.; Lam, S. H. M.; Blake, D. R. An ozone episode in the Pearl River Delta: Field observation and model simulation. Journal of Geophysical Research-Atmospheres 2009, 115.\n(45) Guo, H.; Kwok, N. H.; Cheng, H. R.; Lee, S. C.; Hung, W. T.; Li, Y. S. Formaldehyde and volatile organic compounds in Hong Kong homes: concentrations and impact factors. Indoor Air 2009, 19, 206-217.\n(46) Guo, H.; Jiang, F.; Cheng, H. R.; Simpson, I. J.; Wang, X. M.; Ding, A. J.; Wang, T. J.; Saunders, S. M.; Wang, T.; Lam, S. H. M.; Blake, D. R.; Zhang, Y. L.; Xie, M. Concurrent observations of air pollutants at two sites in the Pearl River Delta and the implication of regional transport. Atmospheric Chemistry and Physics 2009, 9, 7343-7360.\n(47) Zhang, G.; Li, J.; Cheng, H.; Li, X.; Xu, W.; Jones, K. C. Distribution of organochlorine pesticides in the northern South China Sea: Implications for land outflow and air-sea exchange. Environmental Science undefinedamp; Technology 2007, 41, 3884-3890.\n(48) Cheng, H. R.; Zhang, G.; Jiang, J. X.; Li, X. D.; Liu, X.; Li, J.; Zhao, Y. C. Organochlorine pesticides, polybrominated biphenyl ethers and lead isotopes during the spring time at the Waliguan Baseline Observatory, northwest China: Implication for long-range atmospheric transport. Atmospheric Environment 2007, 41, 4734-4747.\n授课信息\n(1) 环境监测，本科生\n(2) 大气环境化学，本科生\n(3) 大气环境化学，研究生\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

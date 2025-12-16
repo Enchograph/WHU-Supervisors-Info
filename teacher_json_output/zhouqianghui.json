@@ -1,0 +1,158 @@
+{
+  "id": "zhouqianghui",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhouqianghui/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "周强辉",
+    "english_name": "Qianghui Zhou",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "化学",
+        "school": "Shanghai Institute of Organic Chemistry",
+        "period": "2005.9 -- 2010.7",
+        "country": "中国"
+      },
+      {
+        "degree": "本科(学士)",
+        "field": "化学",
+        "school": "Peking University",
+        "period": "2001.9 -- 2005.7",
+        "country": "中国"
+      },
+      {
+        "degree": "Postdoctoral Fellow",
+        "field": "化学",
+        "school": "The Scripps Research Institute",
+        "period": "2011.8 -- 2015.5",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "Shanghai Institute of Organic Chemistry",
+    "academic_honors": [
+      "Thieme Chemistry Journal Awards",
+      "National Thousand Talents Award",
+      "Reaxys Travel Award-ISHC24",
+      "SIOC Postdoctoral Fellowship, SIOC",
+      "Reaxys PhD Prize, Runners-up, Elsevier",
+      "Merit Student Honor, Chinese Academy of Science"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "新颖合成方法学和合成策略的发展",
+      "活性天然产物的高效、实用全合成路线开发",
+      "重要活性天然产物、药物分子及其类似物的化学生物学和药物化学研究",
+      "重要药物分子的新工艺开发"
+    ],
+    "research_interests": [
+      "天然产物合成",
+      "合成方法学",
+      "化学生物学",
+      "药物化学",
+      "工艺化学",
+      "全合成",
+      "有机合成",
+      "药物分子开发"
+    ],
+    "research_description": "周强辉教授领导的武汉大学‘天然产物合成研究室’致力于稀缺活性天然产物的高效全合成，发展新颖的合成方法学和合成策略，开发高效、实用的全合成路线，并开展相关化学生物学和药物化学研究。同时，实验室专注于重要药物分子的新工艺开发，推动合成技术在药物生产中的应用。",
+    "disciplines": [
+      "有机化学",
+      "药物化学",
+      "化学生物学",
+      "工艺化学"
+    ],
+    "field_tags": [
+      "天然产物合成",
+      "全合成",
+      "合成方法学",
+      "药物化学",
+      "化学生物学",
+      "工艺开发",
+      "有机合成",
+      "高效合成"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "Development of a novel synthetic methodology for the efficient synthesis of complex natural products",
+        "keywords": [
+          "天然产物合成",
+          "合成方法学",
+          "全合成",
+          "药物化学"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "有机化学",
+          "合成化学",
+          "药物化学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Practical and scalable synthesis of bioactive natural products for drug discovery applications",
+        "keywords": [
+          "高效合成",
+          "可放大合成",
+          "活性天然产物",
+          "药物开发"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "有机合成",
+          "化学生物学",
+          "工艺化学"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "课题组主页",
+        "url": "http://qhzhou.whu.edu.cn"
+      },
+      {
+        "platform": "X-MOL",
+        "url": "https://x-mol.com/groups/qianghuizhou"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 周强辉\n页面链接: http://jszy.whu.edu.cn/zhouqianghui/zh_CN/index.htm\n==================================================\n武汉大学 周强辉--中文主页--首页\n周强辉\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n入职时间： 2015-06-01\n学科：\n有机化学\n办公地点：武汉大学化学与分子科学学院化北110-116\n联系方式：实验室地址：武汉大学化学与分子科学学院化北110-116\n电话：027-67810585;027-67810578\n电子邮箱：\n2017曾获荣誉当选：Thieme Chemistry Journal Awards 2015曾获荣誉当选：National Thousand Talents Award 2013曾获荣誉当选：Reaxys Travel Award-ISHC24 2011曾获荣誉当选：SIOC Postdoctoral Fellowship, SIOC 2011曾获荣誉当选：Reaxys PhD Prize, Runners-up, Elsevier 2010曾获荣誉当选：Merit Student Honor, Chinese Academy of Science\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n课题组主页：qhzhou.whu.edu.cn；\nX-MOL主页： x-mol.com/groups/qianghuizhou\n研究兴趣\n“天然产物合成实验室”研究方向为稀缺活性天然产物的高效全合成，以及相关的合成方法学、化学生物学和药物化学研究。旨在为具有重要价值的稀缺活性天然产物量身打造新颖的合成方法学，在此基础上发展高效、实用的全合成路线，为进一步的化学生物学和药物化学研究奠定坚实的物质基础。具体分为四个研究方向：\n1．新颖合成方法学和合成策略的发展\n2．活性天然产物的高效、实用全合成路线开发\n3．重要活性天然产物、药物分子及其类似物的化学生物学和药物化学研究\n4．重要药物分子的新工艺开发\n周老师组建的武汉大学“天然产物合成研究室”成立于2015年6月，实验室位于化院北楼110-116房间。欢迎有志于有机合成研究的青年才俊前来交流、切磋和学习；欢迎参加武汉大学“优秀大学生暑期夏令营”的同学参观 “天然产物合成研究室”；欢迎优秀学子报考“天然产物合成研究室”的推免研究生和博士生。\n此外，因研究工作需要，“天然产物合成研究室”长期招募优秀的博士后研究员（年薪20-30万）和研究助理，享受武汉大学相关福利政策，待遇非常优厚，欢迎来信垂询。\n其他联系方式\n邮编 : \n通讯/办公地址 : \n办公室电话 : \n邮箱 : \n教育经历\n2011.8 -- 2015.5\nThe Scripps Research Institute\n化学\nPostdoctoral Fellow\n2010.7 -- 2011.7\nShanghai Institute of Organic Chemistry\n&nbspResearch Associate\n2005.9 -- 2010.7\nShanghai Institute of Organic chemistry\n博士\n&nbspState Key Laboratory of Bioorganic and Natural Products Chemistry\n2001.9 -- 2005.7\nCollege of Chemistry\nPeking University\n化学\n本科(学士)\n学士\n工作经历\n2015.6 -- 至今\nWuhan University\nCollege of Chemistry and Molecular Sciences\nProfessor\n2015.8 -- 至今\nWuhan University\nInstitute for Advanced Studies\nJoint Professor\n研究方向\n1.Novel synthetic methodology and tactic development (target oriented) 2.Efficient and practical (scalable) synthesis of highly valued natural products and derivatives 3.Process chemistry development for important medicines\n团队成员\n团队名称： The Zhou Group Lab for Pratical Nps Synthesis\n团队介绍：We are eagerly looking for excellent students and researchers who are interested in organic synthesis, medicinal chemistry and process chemistry!Applications from potential postdoctoral fellows, graduate students, and researchers with hardworking, pragmatism, ambitions and strong interest in synthetic organic chemistry are highly welcomed!\nQianghui Zhou\nHong-Gang Che...\nShuqing Chen...\nZeshui Liu（...\nChevula Gurum...\nRamesh Deshid...\nGuangyin Qian...\nYing Hu（胡瑛...\nJunlin Wang ...\nChenggui Wu ...\nQianwen Gao（...\nYong Shang（...\nTao Yang（杨...\nYue Liu（刘越...\ninxiang Ye (...\nLisha Li (李...\nChang Liu（刘...\nYuanyuan Ma（...\nFuzhen Song（...\nRuiming Chen(...\nZipei Shen(沈...\nYing Yang（杨...\nMiao Bai（白...\nZhenjie Yang...\nSiwei Zhou (...\nJingyang Zhan...\nGuangming Wan...\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

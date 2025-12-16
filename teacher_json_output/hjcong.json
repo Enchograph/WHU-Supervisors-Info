@@ -1,0 +1,196 @@
+{
+  "id": "hjcong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hjcong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "丛恒将",
+    "english_name": "Dr. Hengjiang Cong",
+    "title": [
+      "副研究员",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": false,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学学士",
+        "field": "应用化学",
+        "school": "石油大学（华东）",
+        "period": "1998.9 -- 2002.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士",
+        "field": "凝聚态物理",
+        "school": "山东大学",
+        "period": "2005.9 -- 2010.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "山东大学",
+    "academic_honors": [],
+    "academic_services": [
+      "中国晶体学会会员",
+      "美国物理学会会员",
+      "JACS、JMCA、ACS AMI、EA等期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "晶态孔材料的结构与缺陷化学",
+      "新能源转化动态现场原位表征",
+      "生物高分子三维结构与功能",
+      "结构解析新方法新技术"
+    ],
+    "research_interests": [
+      "晶态孔材料",
+      "多相催化",
+      "能源材料",
+      "X射线晶体学",
+      "电子显微学",
+      "原位表征",
+      "结构解析",
+      "大科学装置",
+      "功能分子结构"
+    ],
+    "research_description": "主要从事基于现代X射线晶体学及电子显微学的功能分子结构科学研究，以及基于大科学装置的结构表征方法与仪器开发。研究聚焦于晶态孔材料的结构与缺陷化学、新能源转化过程的动态原位表征、生物高分子三维结构与功能，同时致力于发展新型结构解析方法与技术。",
+    "disciplines": [
+      "无机化学",
+      "物理化学",
+      "材料科学",
+      "结构生物学"
+    ],
+    "field_tags": [
+      "晶态孔材料",
+      "原位表征",
+      "X射线晶体学",
+      "电子显微学",
+      "多相催化",
+      "能源材料",
+      "结构解析",
+      "大科学装置",
+      "功能分子结构"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Science",
+        "keywords": [
+          "X射线晶体学",
+          "功能分子结构",
+          "晶态孔材料"
+        ],
+        "journal_name": "Science",
+        "research_fields": [
+          "无机化学",
+          "材料科学",
+          "结构化学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nat. Syn.",
+        "keywords": [
+          "结构表征",
+          "大科学装置",
+          "电子显微学"
+        ],
+        "journal_name": "Nature Synthesis",
+        "research_fields": [
+          "化学合成",
+          "表征技术",
+          "仪器开发"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Chem",
+        "keywords": [
+          "多相催化",
+          "能源材料",
+          "原位表征"
+        ],
+        "journal_name": "Chem",
+        "research_fields": [
+          "催化化学",
+          "能源材料",
+          "结构化学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "J. Am. Chem. Soc.",
+        "keywords": [
+          "晶态孔材料",
+          "缺陷化学",
+          "结构解析"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "无机化学",
+          "材料化学",
+          "结构化学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Angew. Chem. Int. Ed.",
+        "keywords": [
+          "原位表征",
+          "生物高分子",
+          "三维结构"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "生物化学",
+          "结构生物学",
+          "高分子科学"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/hjcong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发",
+      "湖北省自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 丛恒将\n页面链接: http://jszy.whu.edu.cn/hjcong/zh_CN/index.htm\n==================================================\n武汉大学 丛恒将--Dr. 丛恒将--首页\n丛恒将\n副研究员\n博士生导师\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n学科：\n无机化学\n办公地点：化中105\n联系方式：13628615081\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n个人简介\n丛恒将，男，武汉大学化学与分子科学学院副研究员，博士生导师。主要从事基于现代X射线晶体学及电子显微学的功能分子结构科学研究、基于大科学装置的结构表征方法与仪器开发。在Science、Nat. Syn.、Chem、Chem Catal.、J. Am. Chem. Soc.、Angew.、Chem. Sci.等期刊发表合作论文一百余篇。教授多门本科生、研究生课程及实验，目前主持或参与多项国家自然科学基金，国家重点研发以及湖北省自然科学基金等项目。\n欢迎有志于晶态孔材料、多相催化以及能源材料等方向研究的优秀本科生、研究生报考推免研究生以及博士生！！\n其他联系方式\n邮编 : \n通讯/办公地址 : \n移动电话 : \n邮箱 : \n教育经历\n1998.9 -- 2002.6\n石油大学（华东）\n应用化学\n大学本科毕业\n理学学士学位\n2005.9 -- 2010.6\n山东大学\n凝聚态物理\n研究生(博士)毕业\n理学博士学位\n工作经历\n2015.7 -- 至今\n武汉大学\n化学与分子科学学院\n副研究员，大仪平台主任、副主任\n2010.7 -- 2015.6\n山东大学\n生命科学学院\n博士后，负责微生物技术国重室结构生物学测试平台\n社会兼职\n中国晶体学会会员\n美国物理学会会员\n担任多个国际知名化学期刊的审稿人，包括JACS、JMCA、ACS AMI、EA等\n研究方向\n晶态孔材料的结构与缺陷化学\n新能源转化动态现场原位表征\n生物高分子三维结构与功能\n结构解析新方法新技术\n团队成员\n团队名称： 邓鹤翔教授杰青团队 http://hdeng.whu.edu.cn\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

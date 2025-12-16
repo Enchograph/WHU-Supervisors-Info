@@ -1,0 +1,195 @@
+{
+  "id": "cuijingsong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/cuijingsong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "崔竞松",
+    "english_name": "Cui Jingsong",
+    "title": [
+      "副教授"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "国家网络安全学院",
+    "college": "国家网络安全学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机软件与理论",
+        "school": "武汉大学",
+        "period": "2003",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "武大教学成果二等奖",
+      "中国发明协会一等奖",
+      "湖北省挑战杯一等奖",
+      "上海市科学技术一等奖",
+      "教育部科学进步二等奖",
+      "VMware中国大学生云计算创意大赛一等奖",
+      "湖北省科技进步二等奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "安全芯片操作系统",
+      "AI驱动水印设计",
+      "AI驱动蛋白质设计与版权保护",
+      "授时网安"
+    ],
+    "research_interests": [
+      "安全芯片",
+      "人工智能驱动设计",
+      "水印技术",
+      "蛋白质设计",
+      "版权保护",
+      "授时网络安全",
+      "北斗高精度定位系统安全",
+      "标准体系研究"
+    ],
+    "research_description": "崔竞松副教授长期从事安全芯片操作系统、AI驱动水印设计、AI驱动蛋白质设计与版权保护、授时网安等方向的研究。作为核心设计者参与国产安全芯片的设计与实现，主持国家重点研发计划子课题，开展北斗高精度定位系统安全模型设计及标准体系研究。研究成果发表于ACM CCS、USENIX SEC、IEEE HPCA、TIFS、TDSC等国内外顶级学术会议和期刊，拥有发明专利30余项。",
+    "disciplines": [
+      "计算机科学与技术",
+      "网络安全",
+      "人工智能",
+      "生物信息学",
+      "电子与通信工程"
+    ],
+    "field_tags": [
+      "安全芯片",
+      "AI驱动",
+      "水印设计",
+      "蛋白质设计",
+      "版权保护",
+      "授时安全",
+      "北斗系统",
+      "标准体系",
+      "操作系统安全",
+      "恶意代码防护"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "AI驱动水印设计",
+        "keywords": [
+          "AI驱动",
+          "水印设计",
+          "版权保护"
+        ],
+        "journal_name": "IEEE TIFS",
+        "research_fields": [
+          "人工智能",
+          "信息安全",
+          "数字水印"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "AI驱动蛋白质设计与版权保护",
+        "keywords": [
+          "AI驱动",
+          "蛋白质设计",
+          "版权保护",
+          "生物信息学"
+        ],
+        "journal_name": "ACM CCS",
+        "research_fields": [
+          "人工智能",
+          "生物信息安全",
+          "蛋白质工程"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "北斗高精度定位系统安全模型设计",
+        "keywords": [
+          "北斗系统",
+          "高精度定位",
+          "安全模型",
+          "授时网安"
+        ],
+        "journal_name": "IEEE TDSC",
+        "research_fields": [
+          "网络安全",
+          "授时安全",
+          "定位系统安全"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "安全芯片操作系统设计与实现",
+        "keywords": [
+          "安全芯片",
+          "操作系统",
+          "国产芯片",
+          "系统安全"
+        ],
+        "journal_name": "计算机学报",
+        "research_fields": [
+          "系统安全",
+          "安全芯片",
+          "操作系统"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "基于AI的恶意代码检测与防护机制",
+        "keywords": [
+          "恶意代码",
+          "AI检测",
+          "漏洞防护",
+          "系统安全"
+        ],
+        "journal_name": "USENIX Security",
+        "research_fields": [
+          "恶意代码分析",
+          "AI安全",
+          "系统防护"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/cuijingsong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "国家自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 崔竞松\n页面链接: http://jszy.whu.edu.cn/cuijingsong/zh_CN/index.htm\n==================================================\n武汉大学 崔竞松--中文主页--首页\n教师个人主页\n崔竞松\n个人信息\n教师拼音名称：Cui Jingsong\n电子邮箱：\n入职时间：2004-03-01\n所在单位：国家网络安全学院\n学历：研究生毕业\n办公地点：新珈楼A417\n性别：男\n联系方式：QQ：106310240\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n2003年在武汉大学获得博士学位，2004年留校任教。主要研究领域包括：安全芯片操作系统、AI驱动水印设计、AI驱动蛋白质设计与版权保护、授时网安等，在学术刊物和国际会议上发表学术论文50余篇，拥有发明专利30余项。作为核心设计者参与国产安全芯片的设计与实现，作为国家重点研发计划子课题负责人主持研究北斗高精度定位系统安全模型设计并主持相关标准体系研究项目。【个人微信二维码】\n教育经历\n武汉大学  | 计算机软件与理论  | 博士 | 理学博士学位  | 计算机学院\n工作经历\n2012.8-2013.8\n&nbspArizona State University\n| 访问学者\n2004.3-至今\n国家网络安全学院 | 武汉大学  | 在职\n社会兼职\n暂无内容\n研究方向\n更多>>\n安全芯片操作系统\nAI驱动水印设计\nAI驱动蛋白质设计与版权保护\n授时网安\n曾获荣誉\n2023    武大教学成果二等奖\n2023    中国发明协会一等奖\n2021    湖北省挑战杯一等奖\n2020    上海市科学技术一等奖\n2019    教育部科学进步二等奖\n2010    VMware中国大学生云计算创意大赛一等奖\n2007    湖北省科技进步二等奖\n团队成员\n更多>>\n武汉大学国家网络安全学院系统安全与对抗实验室\n系统安全与对抗团队由彭国军、傅建明、唐明、崔竞松等老师共同组建，主要从事芯片安全，恶意代码、软件漏洞的分析、检测与防护机制构建等。团队曾获批国家教学成果奖一等奖，湖北省科技进步奖二等奖、武汉大学杰出教学贡献校长奖等。团队成果在重要企业、国家重要单位等得到有效应用，相关成果发表在ACM CCS、USENIX SEC、IEEE HPCA、CSUR、TIFS、TDSC、计算机学报、计算机研究与发展、软件学报等国内外顶级学术会议和期刊。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

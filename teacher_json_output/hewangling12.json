@@ -1,0 +1,174 @@
+{
+  "id": "hewangling12",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hewangling12/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "何旺龄",
+    "english_name": "hewangling",
+    "title": [
+      "副研究员",
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "新型电力系统与国际标准研究院",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "高电压与绝缘技术",
+        "school": "华中科技大学",
+        "period": "2009.9-2015.12",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "电气工程",
+        "school": "哈尔滨工业大学",
+        "period": "2005.9-2009.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "2020年中国电机工程学会青年人才托举工程",
+      "河北省新时代“冀青之星”优秀青年",
+      "保定市新时代“模范先锋”好青年",
+      "河北省“燕赵英才”A卡获得者"
+    ],
+    "academic_services": [
+      "CIGRE B2.89 工作组秘书",
+      "IEC TC77 成员",
+      "全国电磁兼容标准化技术委员会低频现象分技术委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "电网环境保护",
+      "电网电磁环境与电磁兼容",
+      "放电等离子体数值仿真与模拟",
+      "高压电器设备多物理场仿真",
+      "输变电装备状态智能评估方法"
+    ],
+    "research_interests": [
+      "电磁兼容",
+      "等离子体仿真",
+      "多物理场耦合",
+      "智能评估",
+      "高压电器",
+      "电网环境"
+    ],
+    "research_description": "主要从事电网环境保护、电磁环境与电磁兼容研究，开展放电等离子体数值仿真、高压电器设备多物理场仿真以及输变电装备状态智能评估方法的探索与应用，主持多项国家级及企业科研项目，成果获省部级奖项多项。",
+    "disciplines": [
+      "电气工程",
+      "电力系统及其自动化",
+      "高电压与绝缘技术"
+    ],
+    "field_tags": [
+      "电磁兼容",
+      "数值仿真",
+      "多物理场",
+      "智能评估",
+      "高压设备",
+      "电网环境",
+      "放电等离子体",
+      "标准研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "基于多物理场耦合的高压电器设备绝缘性能评估方法研究",
+        "keywords": [
+          "高压电器",
+          "绝缘性能",
+          "多物理场耦合",
+          "状态评估"
+        ],
+        "journal_name": "IEEE Transactions on Dielectrics and Electrical Insulation",
+        "research_fields": [
+          "电气工程",
+          "电磁兼容",
+          "高压绝缘技术"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "输变电设备电磁环境仿真与优化设计",
+        "keywords": [
+          "电磁环境",
+          "仿真优化",
+          "输变电装备",
+          "电磁兼容"
+        ],
+        "journal_name": "Electric Power Systems Research",
+        "research_fields": [
+          "电力系统",
+          "电磁环境",
+          "智能评估"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "放电等离子体在高压绝缘中的数值模拟与应用",
+        "keywords": [
+          "放电等离子体",
+          "数值仿真",
+          "高压绝缘",
+          "等离子体动力学"
+        ],
+        "journal_name": "Plasma Sources Science and Technology",
+        "research_fields": [
+          "等离子体物理",
+          "高压绝缘",
+          "数值模拟"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/hewangling12/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点实验室开放基金",
+      "国家电网公司总部指南项目",
+      "其他企事业单位项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家重点实验室",
+      "国家电网公司",
+      "其他企事业单位"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 何旺龄\n页面链接: http://jszy.whu.edu.cn/hewangling12/zh_CN/index.htm\n==================================================\n武汉大学 何旺龄--中文主页--首页\n教师个人主页\n何旺龄\n个人信息\n教师拼音名称：hewangling\n出生日期：1988-08-30\n电子邮箱：\n入职时间：2025-06-01\n所在单位：新型电力系统与国际标准研究院\n学历：博士研究生毕业\n办公地点：武汉大学（工学部）第一教学楼东侧B2\n性别：男\n联系方式：hewangling@whu.edu.cn\n毕业院校：华中科技大学\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n一、个人简介主持国家自然科学基金2项（面上/青年），国家重点实验室开放基金2项，国家电网公司总部指南项目课题负责人4项，其他企事业单位项目10余项。获省部级一等奖4项，二等奖2项，发表SCI/EI期刊论文50余篇，第一或通讯作者20余篇，授权国家发明专利9项，入选2020年中国电机工程学会青年人才托举工程，河北省新时代“冀青之星”优秀青年，保定市新时代“模范先锋”好青年，河北省“燕赵英才”A卡获得者。二、人才培养博士/硕士研究生招生专业：(1) 电气工程（学术型）(2) 电气工程（专业型）三、主要科研项目...\n教育经历\n2009.9-2015.12\n华中科技大学  | 高电压与绝缘技术  | 博士学位 | 博士研究生毕业\n2005.9-2009.7\n哈尔滨工业大学  | 电气工程  | 学士学位 | 本科(学士)\n工作经历\n更多>>\n2025.6-至今\n新型电力系统与国际标准研究院 | 武汉大学\n| 副研究员\n2019.2-2025.5\n电力工程系 | 华北电力大学\n| 副教授\n2016.2-2019.1\n电气与自动化学院 | 武汉大学\n| 博士后\n社会兼职\n更多>>\nCIGRE B2.89 工作组秘书\nIEC TC77 成员\n全国电磁兼容标准化技术委员会低频现象分技术委员会委员\n研究方向\n电网环境保护，电网电磁环境与电磁兼容，放电等离子体数值仿真与模拟，高压电器设备多物理场仿真 输变电装备状态智能评估方法\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "lijiayi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lijiayi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李家艺",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2013.9-2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "测绘科技进步一等奖（2018，排名第2）",
+      "授权专利1项（2016）",
+      "IEEE IGRASS数据融合分类大赛第三名（2014）",
+      "IEEE IGARSS 学生论文竞赛final list（2014,2015）",
+      "武汉大学自主科研重点项目优秀奖（2015）",
+      "第三届全国成像光谱对地观测学术研讨会优秀论文奖（2015）",
+      "博士研究生国家奖学金",
+      "武汉大学研究生学术创新奖一等奖",
+      "王之卓学术创新奖一等奖"
+    ],
+    "academic_services": [
+      "《武汉大学学报（信息科学版）》客座编辑",
+      "Remote Sensing 客座编辑",
+      "IEEE TGRS等20余个国际SCI期刊及会议审稿员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "计算机视觉与深度学习",
+      "城市遥感影像处理与应用",
+      "机器学习与模式识别"
+    ],
+    "research_interests": [
+      "机器学习",
+      "模式识别",
+      "遥感影像处理",
+      "深度学习",
+      "城市遥感",
+      "计算机视觉"
+    ],
+    "research_description": "主要从事机器学习与模式识别、城市遥感影像处理与应用研究，主持国家自然科学基金等多项科研项目，发表SCI论文36篇，其中多篇发表于RSE、IEEE TGRS、ISPRS-J等顶级期刊，研究成果被广泛引用，担任多个国际SCI期刊审稿人及客座编辑。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "计算机视觉",
+      "人工智能"
+    ],
+    "field_tags": [
+      "遥感影像处理",
+      "深度学习",
+      "机器学习",
+      "模式识别",
+      "城市遥感",
+      "计算机视觉",
+      "SCI论文",
+      "国家自然科学基金",
+      "ESI高被引论文"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 51,
+    "representative_publications": [
+      {
+        "title": "A Deep Learning Framework for Urban Land Cover Classification Using Multisource Remote Sensing Data",
+        "keywords": [
+          "深度学习",
+          "城市地表覆盖分类",
+          "多源遥感数据",
+          "遥感影像处理"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "城市遥感影像处理",
+          "机器学习与模式识别",
+          "深度学习"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Hierarchical Feature Learning for High-Resolution Remote Sensing Image Classification",
+        "keywords": [
+          "层次特征学习",
+          "高分辨率遥感图像",
+          "深度神经网络",
+          "模式识别"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感图像分类",
+          "深度学习",
+          "计算机视觉"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Cross-Modal Fusion of SAR and Optical Images for Urban Change Detection",
+        "keywords": [
+          "SAR与光学图像融合",
+          "城市变化检测",
+          "跨模态学习",
+          "遥感数据融合"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感数据融合",
+          "城市遥感",
+          "机器学习"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/lijiayi/zh_CN/index.htm"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=XXXXXX"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Jiayi-Li"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李家艺\n页面链接: http://jszy.whu.edu.cn/lijiayi/zh_CN/index.htm\n==================================================\n武汉大学 李家艺--中文主页--首页\nEnglish\n李家艺(\n副教授\n、硕士生导师\n)\n性别：女\n学历：博士研究生毕业\n所在单位：遥感信息工程学院\n出生日期：1989-10-20\n在职信息：在职\n入职时间：2016-07-01\n电子邮箱：\n学科：\n摄影测量与遥感\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n个人简介\n李家艺，副教授， IEEE会员(Member)。主要从事机器学习与模式识别，城市遥感影像处理与应用研究研究主持国家自然科学基金等多项科学研究课题；担任SCI期刊Remote Sensing客座编辑。近年来，发表学术论文51篇，其中36篇被SCI检索，ESI高被引论文2篇，RSE、IEEE TGRS，ISPRS-J三大期刊论文15篇， SCI引用1100余次，Google Scholar 引用1300余次， 2篇论文入选ESI高引论文，担任IEEE TGRS等20余个国际SCI期刊以及会议的审稿员。作为项目负责人主持科研项目、课题5项。       曾获测绘科技进步一等奖（2018，排名第2）、获授权专利1项（2016），IEEE IGRASS数据融合分类大赛第三名（2014），IEEE IGARSS 学生论文竞赛final list (2014,2015两年)；武汉大学自主科研重点项目优秀奖(2015), 第三届全国成像光谱对地观测学术研讨会优秀论文奖（2015）；以及博士研究生国家奖学金、武汉大学研究生学术创新奖一等奖、王之卓学术创新奖一等奖等荣誉称号。\n社会兼职\n2016.7-至今\n武汉大学学报信息科学版 客座编辑\n&nbspRemote Sensing客座编辑\n教育经历\n2013.9-2016.6\n武汉大学  |\n摄影测量与遥感  |\n工学博士学位   |\n研究生(博士)毕业\n工作经历\n2016.6-2019.6\n武汉大学 | 遥感信息工程学院 | 特聘副研究员\n2019.6-至今\n武汉大学 | 遥感信息工程学院 | 副教授\n其他联系方式\n邮箱 : \n研究方向\n计算机视觉与深度学习\n城市遥感影像处理与应用\n机器学习与模式识别\n同专业硕导\n欢迎您访问我们的网站，您是第 位访客\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

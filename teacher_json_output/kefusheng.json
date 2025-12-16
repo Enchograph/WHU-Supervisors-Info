@@ -1,0 +1,119 @@
+{
+  "id": "kefusheng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/kefusheng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "柯福生",
+    "english_name": "Fu-Sheng Ke",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士学位",
+        "field": "化学教育",
+        "school": "赣南师范学院",
+        "period": "2000-9 至 2004.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士学位",
+        "field": "物理化学",
+        "school": "厦门大学",
+        "period": "2004-9 至 2007.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士学位",
+        "field": "物理化学",
+        "school": "厦门大学",
+        "period": "2007-9 至 2010.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "厦门大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "电化学储能与转换",
+      "锂离子电池电极材料及界面研究",
+      "电化学催化还原氧化C1小分子",
+      "电催化器件设计与优化"
+    ],
+    "research_interests": [
+      "锂-硫电池",
+      "高性能锂电池电极材料",
+      "电催化还原CO2",
+      "原子催化剂设计",
+      "原位表征技术",
+      "功能材料合成",
+      "电极界面过程研究"
+    ],
+    "research_description": "围绕电化学能源储存与转换，重点研究锂离子电池关键材料的设计与界面过程，发展电化学原位技术；同时致力于电化学还原氧化C1小分子（如CO2、CO、CH4）以实现电能向化学能的高效转换；涵盖新型高性能电池体系、电催化器件优化、高活性催化剂与高比容量电极材料的设计与合成，以及原位XRD、原位红外光谱、原位拉曼光谱等表征技术的应用。",
+    "disciplines": [
+      "物理化学",
+      "无机化学",
+      "材料科学与工程",
+      "电化学"
+    ],
+    "field_tags": [
+      "电化学储能",
+      "锂离子电池",
+      "锂硫电池",
+      "CO2还原",
+      "电催化",
+      "原位表征",
+      "功能材料",
+      "能源转换",
+      "界面工程"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": []
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国际合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "Argonne National Laboratory",
+      "Rice University",
+      "Cornell University",
+      "中国科学院物理研究所",
+      "厦门大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 柯福生\n页面链接: http://jszy.whu.edu.cn/kefusheng/zh_CN/index.htm\n==================================================\n武汉大学 柯福生--柯福生团队--首页\nEnglish\n中文\n柯福生\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n入职时间：2013-09-01\n学历：研究生毕业\n办公地点：化西211\n性别：男\n联系方式：13971221326\n职称：副教授\n在职信息：在职\n所属院系：\n化学与分子科学学院\n学科：\n物理化学\n无机化学\n个人简介\n主要研究方向\n围绕“电化学能源储存与转换”展开，研究对象主要包括（1）锂离子电池关键材料的设计及发展电化学原位技术研究其界面过程，（2）电化学还原氧化C1小分子，如CO2、CO、CH4等，将电能和C1储存转换为高品质化学能。具体方向如下：\n一、电能的快速存储，发展具有高能量密度和功率密度的电池体系\n（1）新型高性能锂-硫电池\n（2）高性能锂电池电极材料界面的设计与调控\n二、电能的高效转换，通过电解将电能高效转换成化学能，如电解水和电解CO2，将电能与H2O和C1（CO2、CO、CH4）小分子储存转换为化学能，即得到更高价值化学品\n（1）原子催化剂的设计与制备\n（2）电催化还原氧化器件的设计与优化\n三、功能材料的设计与合成，如高活性和稳定性催化剂、高比容量和高倍率电极材料等\n四、发展电化学原位表征技术研究电极的界面过程，包括原位XRD、原位红外光谱和原位拉曼光谱等\n2013年回国工作以来，以通讯作者(含共同)在Sci.Adv.(1篇,2020),Angew. Chem. Int. Ed.(4篇,2018、2024、2024、2025),Adv. Energy Mater.(2篇,2020、2023),ACS Energy Lett.(2篇，2018、2020), Nano Energy(2篇,2013、2018),Energy Storage Mater. (1篇,2024) 等杂志发表论文20篇。\n目前与国内外（厦门大学、中国科学院物理研究所、Argonne National Laboratory、Rice University、Cornell University等）科研机构有实质性合作。可以外派到合作单位交流或推荐出去读博士。\n请联系柯福生，Email: kefs@whu.edu.cn; 电话（微信）：13971221326\n热烈欢迎具有化学或材料学背景的学生加入！！！\n代表性成果\n(1) Caihong Zhang#, Zhen Luo#, Kean Chen, Chunxing Yan, Lezhi Yi, Chengtao Gong*, Yuliang Cao, Fu-Sheng Ke*, Urea-linked Covalent Organic Framework as a Li-ion Guided Channel Enabling Ultra-Stable Lithium Metal Anode in Carbonate-based Electrolyte, Angew. Chem. Int. Ed. 2025, e20250031. (https://doi.org/10.1002/anie.20250031)\n(2) Yang Xiao#, Jie Lu#, Kean Chen, Yuliang Cao, Chengtao Gong*, Fu-Sheng Ke*, Linkage Engineering in Covalent Organic Frameworks for Metal-Free Electrocatalytic C2H4 Production from CO2, Angew. Chem. Int. Ed. 2024, 63, e202404738. (https://doi.org/10.1002/anie.202404738)\n(3) Yingchuan Zhang#, Wanzhang Zhang#, Fupeng Zhang#, Yang Xiao, Guangri Jia, Wenchao Wang, Fu-Sheng Ke*, Zhengxiao Guo*, Hydrogen-Bond-Enhanced Photoreforming of Biomass Furans over a Urea-Incorporated Cu(II) Porphyrin Framework, Angew. Chem. Int. Ed. 2024, 63, e202402694.(https://doi.org/10.1002/anie.202402694)\n(4) Yiye Guo#, Mouren Miao#, Yun-Xiao Wang*, Chunxing Yan, Jin Liu, Yuliang Cao, Hanxi Yang, Xinping Ai*, Fu-Sheng Ke*, A high-voltage and low-solvating electrolyte towards promising micro-Si/ Ni-rich NMC full cells, Energy Storage Mater. 2024, 67, 103258. (https://doi.org/10.1016/j.ensm.2024.103258)\n(5) Chang-Ding Qiu#, Youcheng Hu#, Kewei Cao#, Xiangjiang Wu, Bi-Hong Huang, Jin Liu, Yun-Xiao Wang*, Laibing Luo, Dong Gu*, Xinping Ai, Yuliang Cao, Shengli Chen*, Fu-Sheng Ke*, Engineering Peculiar Cathode Electrolyte Interphase toward Sustainable and High-Rate Li–S Batteries, Adv. Energy Mater. 2023, 13, 2300229. (https://doi.org/10.1002/aenm.202300229)\n(6) Bing-Qing Xiong#, Xinwei Zhou#, Gui-Liang Xu*, Xiang Liu, Youcheng Hu, Yuzi Liu, Likun Zhu, Chen-Gang Shi, Yu-Hao Hong, Si-Cheng Wan, Cheng-Jun Sun, Shengli Chen, Ling Huang, Shi-Gang Sun, Khalil Amine*, Fu-Sheng Ke*, In Situ Construction of an Ultrarobust and Lithiophilic Li-Enriched Li−N Nanoshield for High-Performance Ge-Based Anode Materials, ACS Energy Lett. 2020, 5, 3490-3497. (https://dx.doi.org/10.1021/acsenergylett.0c02121)\n(7) Bing-Qing Xiong#, Xinwei Zhou#, Gui-Liang Xu*, Yuzi Liu, Likun Zhu, Youcheng Hu, Shou-Yu Shen, Yu-Hao Hong, Si-Cheng Wan, Xiao-Chen Liu, Xiang Liu, Shengli Chen, Ling Huang, Shi-Gang Sun, Khalil Amine*, Fu-Sheng Ke*, Boosting Superior Lithium Storage Performance of Alloy-Based Anode Materials via Ultraconformal Sb Coating–Derived Favorable Solid-Electrolyte Interphase, Adv. Energy Mater. 2020, 10, 1903186. (https://doi.org/10.1002/aenm.201903186.)\n(8) Xiao-Chen Liu#, Shuyang Zhao#, Xueping Sun, Liangzi Deng, Xiaolong Zou, Youcheng Hu,Yun-Xiao Wang, Ching-Wu Chu, Jia Li, Jingjie Wu*, Fu-Sheng Ke*, Pulickel M. Ajayan*, Spontaneous self-intercalation of copper atoms into transition metal dichalcogenides, Sci. Adv. 2020, 6, eaay4092. (https://www.science.org/doi/10.1126/sciadv.aay4092)\n(9) Haoqing Jiang#, Xiao-Chen Liu#, Yushan Wu, Yufei Shu, Xuan Gong, Fu-Sheng Ke*, Hexiang Deng*, Metal–Organic Frameworks for High Charge–Discharge Rates in Lithium–Sulfur Batteries, Angew. Chem. Int. Ed. 2018, 57, 3916-3921. (https://doi.org/10.1002/anie.201712872)\n(10) Xiao-Chen Liu#, Yao Yang#, Jingjie Wu, Miao Liu, Sophia Zhou, Barnaby D. A. Levin, Xiao-Dong Zhou, Hengjiang Cong, David A. Muller, Pulickel M. Ajayan, Héctor D. Abruña*, Fu-Sheng Ke*, Dynamic Hosts for High-Performance Li−S Batteries Studied by Cryogenic Transmission Electron Microscopy and in Situ X‑ray Diffraction, ACS Energy Lett. 2018, 3, 1325-1330. (https://pubs.acs.org/doi/10.1021/acsenergylett.8b00561)\n(11) Xiao-Chen Liu#, Sophia P. Zhou#, Miao Liu, Gui-Liang Xu, Xiao-Dong Zhou, Ling Huang, Shi-Gang Sun, Khalil Amine*, Fu-Sheng Ke*, Utilizing a metal as a sulfur host for high performance Li-S batteries, Nano Energy 2018, 50, 685-690. (https://doi.org/10.1016/j.nanoen.2018.06.011)\n著作\nFu-Sheng Ke*, Wan Si-Cheng, Applications of metal-organic frameworks for lithium-sulfur batteries, Chapter for Book entitled \"Lithium-Sulfur Batteries: Advances in High-Energy Density Batteries\", Elsevier, 2022.06.17\n团队成员\nhttp://hdeng.whu.edu.cn/\n工作经历\n2013-9····至今\n化学与分子科学学院\n| 武汉大学\n| 在岗\n| 副教授\n2010-8····2013-8\n化学工程\n| 美国南卡罗来纳大学\n| 博士后\n教育经历\n2000-9····2004.6\n赣南师范学院\n|\n化学教育\n| 学士学位\n|\n本科(学士)\n2004-9····2007.6\n厦门大学\n|\n物理化学\n| 硕士学位\n|\n研究生毕业 导师：黄令教授\n2007-9····2010.7\n厦门大学\n|\n物理化学\n| 理学博士学位\n|\n研究生毕业 导师：孙世刚院士\n社会兼职\n暂无内容\n研究方向\n[1].电化学储能与转换，包括锂离子电池电极材料及界面研究，电化学催化还原氧化C1小分子（CO2，CO, CH4等）及其器件的设计与优化。\n其他联系方式\n通讯/办公地址：\n移动电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

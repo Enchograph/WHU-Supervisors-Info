@@ -1,0 +1,165 @@
+{
+  "id": "zhangcan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangcan/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张灿",
+    "english_name": "Zhang Can",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "应用数学系",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "数学基地班",
+        "school": "武汉大学",
+        "period": "2006.9-2010.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "运筹学与控制论",
+        "school": "武汉大学",
+        "period": "2010.9-2014.12",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家优秀青年基金获得者"
+    ],
+    "academic_services": [
+      "湖北省数学会理事",
+      "武汉大学数学与统计学院学术委员会"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "分布参数系统的控制理论",
+      "偏微分方程的能控性与能稳性",
+      "最优控制理论",
+      "无穷维系统控制",
+      "非线性偏微分方程的控制问题"
+    ],
+    "research_interests": [
+      "热方程能控性",
+      "能观性",
+      "时间最优控制",
+      "范数最优控制",
+      "周期控制系统稳定性",
+      "控制理论应用"
+    ],
+    "research_description": "张灿教授主要从事分布参数系统的控制理论研究，聚焦于偏微分方程的能控性、能稳性与最优控制问题。代表性成果包括证明热方程在可测集上的能控性，并建立了无穷维系统最优控制的长时间渐进理论。研究还涉及常微分方程的最优控制、周期控制系统的稳定性、非线性偏微分方程的控制性以及控制理论在实际生产中的应用。",
+    "disciplines": [
+      "控制科学与工程",
+      "应用数学",
+      "偏微分方程",
+      "运筹学与控制论"
+    ],
+    "field_tags": [
+      "控制理论",
+      "偏微分方程",
+      "能控性",
+      "能稳性",
+      "最优控制",
+      "无穷维系统",
+      "热方程",
+      "数学建模",
+      "应用数学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "证明热方程在可测集上的能控性",
+        "keywords": [
+          "热方程",
+          "能控性",
+          "可测集",
+          "分布参数系统"
+        ],
+        "journal_name": "Journal of the European Mathematical Society",
+        "research_fields": [
+          "控制理论",
+          "偏微分方程",
+          "无穷维系统"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "建立无穷维系统最优控制长时间渐进理论",
+        "keywords": [
+          "最优控制",
+          "无穷维系统",
+          "渐进理论",
+          "控制稳定性"
+        ],
+        "journal_name": "Journal of Mathematical Pures et Appliquées",
+        "research_fields": [
+          "最优控制",
+          "系统稳定性",
+          "数学控制理论"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "偏微分方程的能控与能稳性研究",
+        "keywords": [
+          "偏微分方程",
+          "能控性",
+          "能稳性",
+          "控制理论"
+        ],
+        "journal_name": "SIAM Journal on Control and Optimization",
+        "research_fields": [
+          "控制理论",
+          "偏微分方程",
+          "系统控制"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangcan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家优秀青年基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张灿\n页面链接: http://jszy.whu.edu.cn/zhangcan/zh_CN/index.htm\n==================================================\n武汉大学 张灿--中文主页--首页\n教师个人主页\n张灿\n个人信息\n教师拼音名称：Zhang Can\n电子邮箱：\n所在单位：数学与统计学院\n学历：博士研究生毕业\n办公地点：武汉大学雷军科技楼A522\n性别：男\n联系方式：13618634875\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n张灿，武汉大学数学与统计学院教授、博士生导师，兼任应用数学系主任。2010年本科毕业于武汉大学，2014年于该校获博士学位 (师从汪更生教授)，并留校任教至今。2015年至2018年在法国索邦大学、西班牙巴斯克大学从事博士后研究。研究方向为分布参数系统的控制理论，特别是偏微分方程的能控、能稳与最优控制问题。代表工作包括证明热方程在可测集上的能控性, 并建立无穷维系统最优控制长时间渐进理论。发表学术论文30余篇，包括J. Eur. Math. Soc., J. Math. Pures Appl, SIAM J. Control Optim., ESAIM Control Opt...\n教育经历\n2006.9-2010.6\n武汉大学  | 数学基地班  | 学士 | 本科毕业\n2010.9-2014.12\n武汉大学  | 运筹学与控制论  | 博士学位 | 博士研究生毕业\n工作经历\n更多>>\n2015.1-至今\n数学与统计学院 | 武汉大学\n2015.3-2017.3\n法国巴黎六大\n| 博士后\n2017.5-2018.9\n西班牙巴斯克大学  | 博士后\n社会兼职\n湖北省数学会理事\n武汉大学数学与统计学院学术委员会\n研究方向\n数学控制理论\n学术荣誉\n2024    国家优秀青年基金获得者\n团队成员\n更多>>\n数学控制论\n主要成员：武汉大学王丽娟教授、雷玲副教授；汕头大学段月亮讲师；武汉大学博士生曾兴吴、肖宇、卢乐、刘博锐；硕士生叶世超、吴柯、范恺、刘裔天。研究方向：常微分方程的时间最优控制、范数最优控制问题；周期控制系统的稳定性；热方程的能观性与能控性；非线性偏微分方程的能控性与能稳性；控制理论在实际生产中的应用等。欢迎加入：如有兴趣报考硕士生和博士生，及申请博士后, 欢迎邮件联系。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

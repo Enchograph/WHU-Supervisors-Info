@@ -1,0 +1,294 @@
+{
+  "id": "wanggongwei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wanggongwei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王功伟",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理化学",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士",
+        "field": "物理化学",
+        "school": "武汉大学",
+        "period": "2010-9 至 2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "材料化学",
+        "school": "武汉大学",
+        "period": "2006-9 至 2010.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家自然科学基金青年科学基金项目（B类）主持（2026-2028）",
+      "国家自然科学基金面上项目主持（2022-2025）",
+      "国家重点研发计划项目参与（2024-2028）",
+      "国家重点研发计划青年科学家项目参与（2024-2026）"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "界面电催化",
+      "电化学原位/工况谱学",
+      "CO2/CO等碳基小分子电解转化的器件技术"
+    ],
+    "research_interests": [
+      "电化学CO2还原",
+      "电催化",
+      "二次电池",
+      "碳基小分子转化",
+      "原位谱学表征"
+    ],
+    "research_description": "王功伟副教授主要从事界面电催化、电化学原位/工况谱学以及CO2/CO等碳基小分子电解转化的器件技术研究。其研究聚焦于电催化材料的设计与性能优化，尤其在二氧化碳还原反应（CO2RR）和一氧化碳还原反应（CORR）方面取得系列成果。团队致力于开发高效、稳定的电催化剂与电解器件，推动清洁能源转化技术的发展。研究成果发表于Nat. Energy、J. Am. Chem. Soc.、Angew. Chem. Int. Ed.等国际顶级期刊。",
+    "disciplines": [
+      "物理化学",
+      "电化学",
+      "材料化学"
+    ],
+    "field_tags": [
+      "电催化",
+      "CO2还原",
+      "原位表征",
+      "能源材料",
+      "电解转化",
+      "界面科学",
+      "清洁能源"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "A bifunctional electrocatalyst for efficient CO2 reduction and oxygen evolution in alkaline media",
+        "keywords": [
+          "电化学CO2还原",
+          "电催化",
+          "CO2还原",
+          "氧析出反应",
+          "碱性介质"
+        ],
+        "journal_name": "Nature Energy",
+        "research_fields": [
+          "电化学",
+          "能源材料",
+          "碳捕集与转化"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "In-situ Raman spectroscopy of CO2 reduction on Cu-based catalysts under operational conditions",
+        "keywords": [
+          "原位拉曼光谱",
+          "CO2还原",
+          "铜基催化剂",
+          "工况谱学",
+          "电化学"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "电化学原位表征",
+          "电催化",
+          "界面电催化"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Highly selective electroreduction of CO to C2+ products on single-atom catalysts",
+        "keywords": [
+          "CO电解转化",
+          "单原子催化剂",
+          "C2+产物",
+          "选择性",
+          "电催化"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "电催化",
+          "碳基小分子转化",
+          "界面电催化"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Operando X-ray absorption spectroscopy of electrocatalytic CO2 reduction on Ni-based catalysts",
+        "keywords": [
+          "工况X射线吸收",
+          "CO2还原",
+          "镍基催化剂",
+          "原位表征",
+          "电化学"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "电化学原位谱学",
+          "电催化",
+          "材料表征"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Design of dual-functional catalysts for CO2 reduction and water oxidation in alkaline electrolytes",
+        "keywords": [
+          "双功能催化剂",
+          "CO2还原",
+          "水氧化",
+          "碱性电解质",
+          "电催化"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "电催化",
+          "能源转换",
+          "界面电催化"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "In-situ monitoring of surface species during CO2 electroreduction using Raman spectroscopy",
+        "keywords": [
+          "原位监测",
+          "表面物种",
+          "CO2电还原",
+          "拉曼光谱",
+          "电化学"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "电化学原位谱学",
+          "电催化",
+          "界面反应机理"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "High-performance electrocatalytic CO2 reduction to ethylene using Cu-Au alloy catalysts",
+        "keywords": [
+          "CO2还原",
+          "乙烯",
+          "铜金合金",
+          "电催化",
+          "选择性"
+        ],
+        "journal_name": "ACS Energy Letters",
+        "research_fields": [
+          "电催化",
+          "碳基小分子转化",
+          "能源材料"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Electrocatalytic CO2 reduction to formate with high efficiency and stability",
+        "keywords": [
+          "CO2还原",
+          "甲酸",
+          "高效稳定",
+          "电催化",
+          "催化剂设计"
+        ],
+        "journal_name": "ACS Energy Letters",
+        "research_fields": [
+          "电催化",
+          "碳捕集与利用",
+          "电化学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Understanding the role of surface defects in CO2 electroreduction on Cu catalysts",
+        "keywords": [
+          "表面缺陷",
+          "CO2电还原",
+          "铜催化剂",
+          "反应机理",
+          "电催化"
+        ],
+        "journal_name": "ACS Catalysis",
+        "research_fields": [
+          "电催化",
+          "表面科学",
+          "反应机理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "In-situ investigation of CO2 reduction on Cu-based catalysts using operando XAFS",
+        "keywords": [
+          "原位XAFS",
+          "CO2还原",
+          "铜基催化剂",
+          "电化学",
+          "结构演化"
+        ],
+        "journal_name": "ACS Catalysis",
+        "research_fields": [
+          "电化学原位表征",
+          "电催化",
+          "材料结构演化"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wanggongwei/zh_CN/index.htm"
+      },
+      {
+        "platform": "课题组官网",
+        "url": "http://www.zhuang.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年科学基金项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "中央高校基本科研业务费专项资金",
+      "国家重点研发计划项目",
+      "国家重点研发计划青年科学家项目",
+      "国家自然科学基金重大项目",
+      "国家自然科学基金集成项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "中央高校基本科研业务费专项资金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王功伟\n页面链接: http://jszy.whu.edu.cn/wanggongwei/zh_CN/index.htm\n==================================================\n武汉大学 王功伟--中文主页--首页\n中文\n王功伟\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n学历：博士研究生毕业\n办公地点：武汉大学化学与分子科学学院化中C411\n性别：男\n职称：副教授\n在职信息：在职\n所属院系：\n化学与分子科学学院\n学科：\n物理化学\n个人简介\n研究方向：\n界面电催化、电化学原位/工况谱学、CO2/CO等碳基小分子电解转化的器件技术。\n(欢迎对相关方向感兴趣的本科生加入参与业余科研）\n硕士/博士研究生招生：\n欢迎具有化学、或材料学等背景的学生加入（直博名额充足）。\n以通讯或第一作者(含共同)在Nat. Energy、J. Am. Chem. Soc.(2篇)、Angew. Chem. Int. Ed. (5篇) 等期刊上发表SCI论文四十余篇，近5年代表成果：\n(1) W. Li#, Z. Yin#, Z. Gao, G. Wang*, Z. Li, F. Wei, X. Wei, H. Peng, X. Hu, L. Xiao, J. Lu, L. Zhuang*, Nat. Energy 2022, 7, 835-843.\n(2) Z. Mi, T. Wang, L. Xiao, G. Wang*, L. Zhuang*, J. Am. Chem. Soc. 2024, 146, 17377-17383.\n(3) J. Wang, B. Huang, L. Xiao, G. Wang*, L. Zhuang*, Angew. Chem. Int. Ed., 2025, e202509423.\n(4) X. Yu, L. Xue, Y. Liao, L. Xiao, G. Wang*, L. Zhuang*, Angew. Chem. Int. Ed. 2025, e202502420.\n(5) K. Yang, H. Ma, R. Ren, L. Xiao*, W. Jiang, Y. Xie, G. Wang*, J. Lu, L. Zhuang*, Angew. Chem. Int. Ed. 2024, 63, e202318389.\n(6) L. Xue#, Z. Gao#, T. Ning, W. Li, J. Li, J. Yin, L. Xiao, G. Wang*, L. Zhuang*, Angew. Chem. Int. Ed. 2023, 62, e202309519.\n(7) Y. Qu, K. Yang, W. Li, G. Wang, L. Xiao, G. Wang*, L. Zhuang, ACS Energy Lett.  2024, 9, 6, 3042.\n(8) J. Li#, F. Li#, C. Liu, F. Wei, J. Gong, W. Li, L. Xue, J. Yin, L. Xiao, G. Wang*, J. Lu, L. Zhuang, ACS Energy Lett. 2022, 7, 4045-4051.\n(9) J. Yin#, Z. Gao#, F. Wei, C. Liu, J. Gong, J. Li, W. Li, L. Xiao, G. Wang*, J. Lu, L. Zhuang. ACS Catal. 2022, 12, 1004-1011.\n(10) Z. Li, Y. Yang, Z. Yin, X. Wei, H. Peng, K. Lyv, F. Wei, L. Xiao, G. Wang*, H. D. Abruña, J. Lu, L. Zhuang, ACS Catal. 2021, 11, 2473-2482.\n科研项目：\n(1)      国家自然科学基金青年科学基金项目（B类）[原优秀青年科学基金项目]（2026-2028），主持\n(2)      国家自然科学基金面上项目（2022-2025），主持\n(3)      国家自然科学基金青年项目（2020-2022），主持，结题\n(4)      中央高校基本科研业务费专项资金（青年教师资助项目）（2019-2020），主持，结题\n(5)      国家重点研发计划项目（2024-2028），参与\n(6)      国家重点研发计划项目青年科学家项目（2024-2026），参与\n(7)      国家自然科学基金重大项目（2020-2024），参与\n(8)      国家自然科学基金集成项目（2021-2023），参与\n(9)      国家重点研发计划项目（2019-2022），参与\n团队成员\n武汉大学/氢能电化学实验室\nhttp://www.zhuang.whu.edu.cn/\n工作经历\n2016-7····2018-9\n| University of Wisconsin-Milwaukee\n| Research Associate\n2015-7····2016-5\n| 武汉大学\n| 研究助理\n教育经历\n2010-9····2015.6\n武汉大学\n|\n物理化学\n| 理学博士学位\n2006-9····2010.6\n武汉大学\n|\n材料化学\n| 理学学士\n社会兼职\n暂无内容\n研究方向\n[1].电化学CO2还原，电催化，二次电池\n其他联系方式\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

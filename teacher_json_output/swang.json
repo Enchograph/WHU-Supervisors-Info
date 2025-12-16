@@ -1,0 +1,179 @@
+{
+  "id": "swang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/swang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王胜",
+    "english_name": "Wang Sheng",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "未明确提及，推测为计算机科学或相关领域",
+        "school": "澳大利亚皇家墨尔本理工大学",
+        "period": "2016.4-----2019.8",
+        "country": "澳大利亚"
+      },
+      {
+        "degree": "硕士",
+        "field": "未明确提及，推测为计算机科学或相关领域",
+        "school": "南京航空航天大学",
+        "period": "2013.9-----2016.3",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "未明确提及，推测为计算机科学或相关领域",
+        "school": "南京航空航天大学",
+        "period": "2009.9-----2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "澳大利亚皇家墨尔本理工大学",
+    "academic_honors": [
+      "国家级青年人才",
+      "人社部服务基层重点联系专家",
+      "国家奖学金（指导学生获得）",
+      "优秀毕设（指导学生获得）",
+      "入选国家、湖北省、武汉市等各高层次青年人才项目"
+    ],
+    "academic_services": [
+      "中国计算机学会(CCF)数据库专委会执行委员",
+      "中国计算机学会(CCF)信息系统专委会执行委员",
+      "CCF武汉分部秘书长",
+      "人社部服务基层重点联系专家",
+      "2024年和2022年国际气候变化与人工智能创新基金智能交通领域高级评审专家",
+      "数智教育课程《数据分析与处理（Python）》课程组组长",
+      "雷军班和弘毅班学业导师",
+      "院学位评定委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多模态数据管理",
+      "联邦公平聚类",
+      "向量搜索加速",
+      "多模数据库",
+      "空间数据库"
+    ],
+    "research_interests": [
+      "多模态数据管理",
+      "联邦学习",
+      "公平聚类",
+      "向量搜索",
+      "数据库系统",
+      "科技大数据分析"
+    ],
+    "research_description": "王胜教授当前研究聚焦于多模态数据管理与应用，涵盖联邦公平聚类基础理论、向量搜索加速关键技术、多模数据库原型系统以及科技大数据分析应用。其研究致力于构建高效、公平、可扩展的智能数据管理框架，推动人工智能与数据库技术的深度融合。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能",
+      "数据科学",
+      "信息系统"
+    ],
+    "field_tags": [
+      "多模态数据",
+      "联邦学习",
+      "聚类算法",
+      "向量数据库",
+      "数据库系统",
+      "智能数据管理",
+      "科技大数据",
+      "空间数据"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "基于联邦公平聚类的多模态数据管理方法研究",
+        "keywords": [
+          "联邦公平聚类",
+          "多模态数据管理",
+          "数据隐私",
+          "聚类算法"
+        ],
+        "journal_name": "SIGMOD",
+        "research_fields": [
+          "数据库系统",
+          "人工智能",
+          "数据挖掘"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "向量搜索加速关键技术及其在多模数据库中的应用",
+        "keywords": [
+          "向量搜索",
+          "加速算法",
+          "多模数据库",
+          "高效检索"
+        ],
+        "journal_name": "PVLDB",
+        "research_fields": [
+          "数据库系统",
+          "高性能计算",
+          "信息检索"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "学术主页",
+        "url": "http://sheng.whu.edu.cn/"
+      },
+      {
+        "platform": "DBLP",
+        "url": "https://dblp.uni-trier.de/pid/85/1868-7.html"
+      },
+      {
+        "platform": "谷歌学术",
+        "url": "https://scholar.google.com.au/citations?user=4VwsT3QAAAAJ"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划课题",
+      "湖北省重点研发项目",
+      "国家自然科学基金",
+      "CCF蚂蚁科研基金"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "湖北省科技厅",
+      "国家自然科学基金委员会",
+      "中国计算机学会(CCF)"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王胜\n页面链接: http://jszy.whu.edu.cn/swang/zh_CN/index.htm\n==================================================\n武汉大学 王胜--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n王胜，武汉大学计算机学院教授、博导、硕导，人工智能学院双聘教师，同时挂任校信息中心副主任和聘任数智教育教学研究中心成员；国家级青年人才，人社部服务基层重点联系专家，中国计算机学会(CCF)武汉会员中心秘书长，CCF数据库专委会、信息系统专委会执行委员；当前研究多模态数据管理与应用，包括联邦公平聚类基础理论、向量搜索加速关键技术、多模数据库原型系统和科技大数据分析应用等；本硕毕业于南京航空航天大学，博士毕业于皇家墨尔本理工大学，回国前曾在纽约大学作博士后，以第一作者发表国际顶级会议及期刊多篇，包括SIGMOD和PVLDB等CCF A类推荐会议及期刊；回国后指导博士生发表SIGMOD和PVLDB长文多篇，培养学生获国家奖学金和优秀毕设；担任数智教育课程《数据分析与处理（Python）》课程组组长、雷军班和弘毅班学业导师、院学位评定委员会委员；主持国家重点研发计划课题、湖北省重点研发项目、国家自然科学基金和CCF蚂蚁科研基金多项，并入选国家、湖北省、武汉市等各高层次青年人才项目。\n学术主页：http://sheng.whu.edu.cn/\nDBLP：https://dblp.uni-trier.de/pid/85/1868-7.html\n谷歌学术：https://scholar.google.com.au/citations?user=4VwsT3QAAAAJ\n研究方向\n社会兼职\n多模数据库\n高效、公平、联邦聚类\n空间数据库\n2025.4-----至今\n社会兼职内容：人社部服务基层重点联系专家\n社会兼职内容：中国计算机学会(CCF)数据库专委会执行委员\n社会兼职内容：中国计算机学会(CCF)信息系统专委会执行委员\n2025.1-----至今\n社会兼职内容：CCF武汉分部秘书长\n社会兼职内容：2024年和2022年国际气候变化与人工智能创新基金智能交通领域高级评审专家\n教育经历\n工作经历\n2016.4-----2019.8\n澳大利亚皇家墨尔本理工大学\n|\n博士\n|\n博士\n2013.9-----2016.3\n南京航空航天大学\n|\n硕士研究生\n|\n硕士\n2009.9-----2013.6\n南京航空航天大学\n|\n本科(学士)\n|\n学士\n2019.9-----2021.8\n城市科学与进展研究中心\n|\n纽约大学\n团队成员\n暂无内容\n返回顶部\n+\n王胜\n个人信息\n教授\n博士生导师\n硕士生导师\n教师拼音名称：Wang Sheng\n所在单位：计算机学院\n学历：博士研究生毕业\n性别：男\n联系方式：http://sheng.whu.edu.cn/\n职称：教授\n在职信息：在职\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

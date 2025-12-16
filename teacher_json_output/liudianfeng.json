@@ -1,0 +1,228 @@
+{
+  "id": "liudianfeng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liudianfeng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘殿锋",
+    "english_name": "Liu Dianfeng",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "土地资源管理",
+        "school": "武汉大学",
+        "period": "2006.9 -- 2011.6",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "资源环境与城乡规划管理",
+        "school": "武汉大学",
+        "period": "2002.9 -- 2006.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家重大人才计划青年学者",
+      "自然资源部青年科技人才",
+      "全国高校GIS创新人物",
+      "地理信息科技进步特等奖",
+      "河南省科技进步二等奖",
+      "地理信息科技进步一等奖",
+      "地理信息科技进步二等奖",
+      "国土资源科技奖一等奖",
+      "国土资源科技奖二等奖",
+      "国家高等教育教学成果二等奖",
+      "湖北省教学成果奖一等奖",
+      "武汉大学教学成果一等奖"
+    ],
+    "academic_services": [
+      "中国国土经济学会理事",
+      "中国农村发展学会理事",
+      "中国国土经济学会青年工作委员会副主任委员",
+      "中国自然资源学会资源大数据与人工智能分会副秘书长",
+      "中国地理学会地理工程分会委员",
+      "湖北省地理学会理事",
+      "湖北省国土空间规划学会国土空间生态修复专委会副主任委员",
+      "《地理科学》期刊编委",
+      "《Land》期刊编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "城市空间演化及生态效应",
+      "土地利用优化配置与模拟",
+      "地理信息系统建模",
+      "国土空间规划与整治",
+      "乡村地域系统模拟"
+    ],
+    "research_interests": [
+      "城镇化与国土空间优化决策",
+      "地理建模",
+      "空间分析",
+      "生态效应评估",
+      "乡村发展潜力",
+      "多规合一",
+      "智能优化",
+      "生态系统服务",
+      "碳排放与低碳发展",
+      "土地利用变化"
+    ],
+    "research_description": "主要从事城镇化与国土空间优化决策研究，采用地理建模、空间分析等手段开展城市空间演化及生态效应、土地利用优化与模拟、国土空间规划、乡村地域系统模拟等研究。主持国家自然科学基金4项、省部级项目5项，参与国家重点研发、国家科技支撑计划、863计划等重大项目。研究成果发表于Earth's Future、Land Use Policy、Sustainable Cities and Society等高水平期刊，获地理信息科技进步特等奖、国土资源科技进步一等奖等省部级科技奖励6项。",
+    "disciplines": [
+      "人文地理学",
+      "土地资源管理",
+      "地图学与地理信息系统",
+      "资源与环境科学",
+      "城乡规划"
+    ],
+    "field_tags": [
+      "城市空间演化",
+      "土地利用优化",
+      "国土空间规划",
+      "乡村发展",
+      "地理信息系统",
+      "生态效应",
+      "空间模拟",
+      "智能优化",
+      "可持续发展",
+      "大数据与人工智能"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "Assessing assisted natural regeneration as a cost-efficient mitigation for climate change and biodiversity loss in China",
+        "keywords": [
+          "生态恢复",
+          "气候变化",
+          "生物多样性",
+          "中国"
+        ],
+        "journal_name": "Earth’s Future",
+        "research_fields": [
+          "环境科学",
+          "生态学",
+          "可持续发展"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "An integrated framework for measuring sustainable rural development towards the SDGs",
+        "keywords": [
+          "乡村振兴",
+          "可持续发展目标",
+          "土地利用",
+          "综合评估"
+        ],
+        "journal_name": "Land Use Policy",
+        "research_fields": [
+          "土地利用规划",
+          "可持续发展",
+          "乡村发展"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Assessing spatial heterogeneous response of ecosystem service relationships to land use intensification",
+        "keywords": [
+          "生态系统服务",
+          "土地利用强度",
+          "空间异质性",
+          "生态响应"
+        ],
+        "journal_name": "Ecological Indicators",
+        "research_fields": [
+          "生态学",
+          "土地利用",
+          "环境评估"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Estimation of Maize yield incorporating the synergistic effect of climatic and land use change in Jilin, China",
+        "keywords": [
+          "玉米产量",
+          "气候变化",
+          "土地利用变化",
+          "吉林省"
+        ],
+        "journal_name": "Journal of Geographical Sciences",
+        "research_fields": [
+          "农业地理",
+          "气候变化",
+          "空间建模"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Urban simulation incorporating coordination relationships of multiple ecosystem services",
+        "keywords": [
+          "城市模拟",
+          "生态系统服务",
+          "多目标优化",
+          "城市可持续性"
+        ],
+        "journal_name": "Sustainable Cities and Society",
+        "research_fields": [
+          "城市规划",
+          "生态城市",
+          "空间模拟"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liudianfeng/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发项目",
+      "863计划",
+      "科技支撑计划",
+      "中央高校基本科研业务费专项资金",
+      "测绘地理信息公益性行业科研专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "自然资源部",
+      "中央高校基本科研业务费"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘殿锋\n页面链接: http://jszy.whu.edu.cn/liudianfeng/zh_CN/index.htm\n==================================================\n武汉大学 刘殿锋--中文主页--首页\n刘殿锋\n教授\n主要任职：教授\n其他任职：国土经济学会理事、国土经济学会青年工作委员会副主任委员、自然资源学会资源大数据与人工智能分会副秘书长、农村发展学会理事、湖北省地理学会理事、湖北省国土空间规划学会国土空间生态修复专委会副主任委员\n毕业院校：武汉大学\n所在单位：资源与环境科学学院\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n内蒙古赤峰人，教授，博士生导师，入选国家重大人才计划青年学者、自然资源部青年科技人才、全国高校GIS创新人物。\n2006、2011年分别获得武汉大学本科、博士学位，2015年前往美国北卡罗莱纳大学访问交流。兼任中国国土经济学会理事、中国农村发展学会理事、中国国土经济学会青年工作委员会副主任委员、中国自然资源学会资源大数据与人工智能分会副秘书长、中国地理学会地理工程分会委员、湖北省地理学会理事、湖北省国土空间规划学会国土空间生态修复专委会副主任委员，及《地理科学》、《Land》等期刊编委，是“土地资源空间优化配置与模拟”自然资源部科技创新团队核心成员。\n主要从事城镇化与国土空间优化决策研究，具体采用地理建模、空间分析等手段开展城市空间演化及生态效应、土地利用优化与模拟、国土空间规划、乡村地域系统模拟等研究。主持国家自然科学基金4项、省部级项目5项，作为技术负责人参与国家重点研发、国家科技支撑计划、863计划等国家项目多项。发表SCI/EI论文80余篇，授权发明专利10余项，登记软件著作权5项。荣获地理信息科技进步特等奖、国土资源科技进步一等奖等省部级科技奖励6项，国家教学成果二等奖、湖北省教学成果一等奖等教学成果奖励3项。\n招生方向\n博士研究生：人文地理、土地资源管理、地图学与地理信息系统、资源与环境\n硕士研究生：人文地理、土地资源管理、地图学与地理信息系统、测绘工程、自然地理\n主要科研项目\n[1] 2026-2029，国家自然科学基金面上项目，***城市模拟建模研究，主持\n[2] 2023-2027，国家自然科学基金重大项目，乡村地域系统诊断与模拟***，骨干参与\n[3] 2022-2025，国家自然科学基金面上项目，***城市演化情景模拟，主持\n[4] 2018-2021，国家自然科学基金面上项目，***土地利用优化配置，主持\n[5] 2018-2022，国家重点研发项目，乡村发展潜力***，骨干参与\n[6] 2015-2017，国家自然科学基金青年项目，***空间抽样优化，主持\n[7] 2018-2020，中央高校基本科研业务费专项资金，***区域土地利用优化配置，主持\n[8] 2014-2015，测绘地理信息公益性行业科研专项，地理国情时空数据挖掘***，技术负责\n[9] 2011-2013，国家十二五863计划课题，高性能空间优化***，技术负责\n主要科研成果\nQiu, M.L., Liu, D.F.*, Zhao, Y.X., Tong, Z.M., He, J.H., Fortin, M.J., Huang, J.L.*. (2025). Assessing assisted natural regeneration as a cost-efficient mitigation for climate change and biodiversity loss in China. Earth’s Future, 13, e2024EF005257.\nLiu, Dianfeng, Li, Fuxiang, Qiu, Mingli, Zhang, Yang, Zhaoxiao, He, Jianhua. (2024). An integrated framework for measuring sustainable rural development towards the SDGs. Land Use Policy, 147, 107339.\nQiu, Mingli, Liu, Dianfeng*. (2023). Assessing spatial heterogeneous response of ecosystem service relationships to land use intensification. Ecological Indicators, 154,110721.\nWen, Xinyuan, Liu, Dianfeng*, Qiu, Mingli, Wang, Yinjie, Niu, Jiqiang, Liu, Yaolin.(2023). Esitimation of Maize yield incorporating the synergistic effect of climatic and land use change in Jilin, China. Journal of Geographical Sciences, 33, 1725-1753.\nSun, Yingying, Liu, Dianfeng*, Wang, Peng. (2022). Urban simulation incorporating coordination relationships of multiple ecosystem services. Sustainable Cities and Society, 76, 103432.\nHuang, Junlong, Tang, Zhuo,Liu, Dianfeng*, He, Jianhua. (2020). Ecological response to urban development in a changing socio-economic and climate context: Policy implications for balancing regional development and habitat conservation. Land Use Policy, 97, 104772.\nYan Zhang, Yanfang Liu, Yiheng Wang, Dianfeng Liu*, et al. (2020). Urban expansion simulation towards low-carbon development: A case study of Wuhan, China. Sustainable Cities and Society, 63,102455.\nYang Hang, Huang Junlong, Liu Dianfeng*. (2020). Linking climate change and socioeconomic development to urban land use simulation: Analysis of their concurrent effects on carbon storage. Applied Geography, 115, 102135.\nZhao, Hongzhuo, Liu Dianfeng*, et al. (2021). Incorporating spatio-temporal connectivity for prioritized conservation of individual habitat patches in a dynamic landscape. Ecological Indicators, 124, 107414.\nLiu, Xiaojing, Liu, Dianfeng*, et al. (2020). Exploring the spatio-temporal impacts of farmland reforestation on ecological connectivity using circuit theory: A case study in the agro-pastoral ecotone of North China. Journal of Geographical Sciences, 30(9): 1419-1435.\nZhenzhen Pan, Jianhua He*, Dianfeng Liu*, Jianwei Wang. (2020). Predicting the joint effects of future climate and land use change on ecosystem health in the Middle Reaches of the Yangtze River Economic Belt, China. Applied Geography, 124, 102293.\nZhao, Xiang, Ma, Xiaoya, Tang, Wenwu, Liu, Dianfeng*. (2019). An adaptive agent-based optimization model for spatial planning: A case study of Anyue County, China. Sustainable Cities and Society, 51, 101733.\nKong Xuesong, Liu Dianfeng*, Tian Yasi, Liu Yaolin. (2021). Multi-objective spatial reconstruction of rural settlements considering intervillage social connections. Journal of Rural Studies, 84: 254-264.\nLiu Dianfeng, Kong Xuesong, Zhou Boyuan, Tian Yasi, Liu Yaolin, Wang Hua. (2019). Spatial optimization of rural settlement relocation by incorporating inter‐village social connections under future policy scenarios. Transactions in GIS, doi: 10.1111/tgis.12528.\nLiu Dianfeng,Tang Wenwu, Liu Yaolin, et al. (2017). Optimal rural land use allocation in central China: Linking the effect of spatiotemporal patterns and policy interventions. Applied Geography, 86(9):165-182.\nLiu, Wei, Liu, Dianfeng*, Liu, Yang. (2022). Spatially Heterogeneous Response of Carbon Storage to Land Use Changes in Pearl River Delta Urban Agglomeration, China. Chinese Geographical Science, 33, 271-286.\nLiu Yaolin, Liu Dianfeng, Liu Yanfang, He Jianhua, et al. Rural land use spatial allocation in the semiarid loess hilly area in China: Using a Particle Swarm Optimization model equipped with multi-objective optimization techniques. Science China Earth Sciences, 2012, 55(7):1166-1177.\n学术奖励荣誉\n[1] 地理信息科技进步特等奖，大数据辅助多规合一关键技术（排名3/15），2018，\n[2] 河南省科技进步二等奖，面向国土空间规划的智能优化关键技术及应用示范（排3/12），2020\n[3] 地理信息科技进步一等奖，智能空间优化关键技术与应用（排名3/15），2014\n[4] 地理信息科技进步二等奖，国土空间规划智能评价与优化关键技术研究及应用（排2/10），2022\n[5] 国土资源科技奖一等奖，国土大数据高性能分析计算与空间优化关键技术及应用（排10/15），2020\n[6] 国土资源科技奖二等奖，土地利用与生态保护协同优化关键技术与应用（排名7/10），2023\n教学获奖荣誉\n[1] 国家高等教育教学成果二等奖（2023，排名6/12）\n[2] 湖北省教学成果奖一等奖（2022，排名6/10）\n[3] 武汉大学教学成果一等奖（2023，排名3）\n[4] 湖北省优秀本科学位论文指导教师，2015\n[5] 武汉大学优秀本科学位论文指导教师，2017,2018,2022\n[6] 指导大学生获得全国大学生测绘学科创新创业智能大赛科技论文竞赛、SuperMap杯高校GIS大赛、全国大学生土地国情调查大赛等学科竞赛一等奖、二等奖多项\n教育经历\n2006.9 -- 2011.6\n武汉大学\n土地资源管理\n博士\n管理学博士学位\n2002.9 -- 2006.6\n武汉大学\n资源环境与城乡规划管理\n本科\n学士\n工作经历\n2014.12 -- 至今\n武汉大学\n资源与环境科学学院\n副教授、教授、硕士生导师、博士生导师\n2015.10 -- 2016.10\nUniversity of North Carolina at Charlotte\n访问学者\n2011.9 -- 2014.12\n武汉大学\n资源与环境科学学院\n师资博士后、讲师\n研究方向\n城市空间演化及生态效应\n土地利用优化配置与模拟\n地理信息系统建模\n国土空间规划与整治\n乡村地域系统模拟\n团队成员\n团队名称： “土地资源空间优化配置与模拟”自然资源部科技创新团队\n团队介绍：自然资源部高层次创新型科技人才培养工程科技创新团队\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

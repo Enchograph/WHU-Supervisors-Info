@@ -1,0 +1,141 @@
+{
+  "id": "duyuhao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/duyuhao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "杜宇昊",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "化学生物学",
+        "school": "武汉大学",
+        "period": "2004-2009",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "小分子探针的开发",
+      "核酸表观遗传修饰的检测"
+    ],
+    "research_interests": [
+      "非规则核酸识别",
+      "DNA甲基化检测",
+      "Z型DNA识别",
+      "G四链体结构探针",
+      "交联核酸检测",
+      "光响应探针",
+      "纳米材料结合",
+      "microRNA检测",
+      "环状RNA检测",
+      "表观遗传调控"
+    ],
+    "research_description": "长期从事化学生物学研究，专注于小分子探针的开发与核酸表观遗传修饰的检测。研究涵盖甲基化核酸、Z型DNA、碱基错配、G四链体、交联核酸等非规则核酸结构的特异性识别，开发具有高选择性和高灵敏度的检测方法，并将探针与光响应分子、药物分子及纳米材料结合，实现生物学检测与治疗的双重功能。研究已应用于临床肿瘤样品分析，致力于推动核酸修饰检测技术在疾病诊断与治疗中的应用。",
+    "disciplines": [
+      "化学生物学",
+      "分析化学",
+      "生物化学",
+      "分子生物学"
+    ],
+    "field_tags": [
+      "小分子探针",
+      "核酸探针",
+      "DNA甲基化",
+      "表观遗传学",
+      "生物检测",
+      "肿瘤诊断",
+      "光响应材料",
+      "纳米探针",
+      "RNA修饰",
+      "药物设计"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "新型可诱导DNA甲基转移酶和组蛋白甲基转移酶抑制剂的设计合成，构效关系和活性研究",
+        "keywords": [
+          "小分子探针",
+          "DNA甲基转移酶抑制剂",
+          "组蛋白甲基转移酶抑制剂",
+          "构效关系",
+          "活性研究"
+        ],
+        "journal_name": "国家自然科学基金青年项目",
+        "research_fields": [
+          "化学生物学",
+          "表观遗传学",
+          "小分子探针开发"
+        ],
+        "publication_year": 2013
+      },
+      {
+        "title": "DNA中甲基、羟甲基、醛基胞嘧啶多位点检测及胞嘧啶羟甲基修饰的方法研究",
+        "keywords": [
+          "DNA甲基化检测",
+          "羟甲基胞嘧啶",
+          "醛基胞嘧啶",
+          "多位点检测",
+          "表观遗传修饰"
+        ],
+        "journal_name": "国家自然科学基金面上项目",
+        "research_fields": [
+          "核酸表观遗传修饰检测",
+          "化学生物学",
+          "生物分析方法"
+        ],
+        "publication_year": 2015
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/duyuhao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家自然科学基金面上项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杜宇昊\n页面链接: http://jszy.whu.edu.cn/duyuhao/zh_CN/index.htm\n==================================================\n武汉大学 杜宇昊--中文主页--首页\n杜宇昊\n副教授\n硕士生导师\n性别：男\n出生日期：1981-08-14\n学历：研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n入职时间： 2013-04-01\n办公地点：化学与分子科学学院化西404\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n一直从事化学生物学的研究，在小分子探针、修饰核酸、蛋白抑制剂领域有着扎实的工作基础和经验积累。所在实验室为中国科学院院士周翔教授主持的核酸化学生物学实验室。在博士期间就从事与核酸分子探针的研究，接着在青年基金《新型可诱导DNA甲基转移酶和组蛋白甲基转移酶抑制剂的设计合成，构效关系和活性研究》及面上项目《DNA中甲基、羟甲基、醛基胞嘧啶多位点检测及胞嘧啶羟甲基修饰的方法研究》的资助下，开展了独立研究工作。\n其他联系方式\n通讯/办公地址 : \n移动电话 : \n邮箱 : \n研究方向\n（1）小分子探针的开发：开发针对非规则核酸如甲基化核酸、Z型DNA、碱基错配、G四链体结构、交联核酸的小分子探针，能够选择性的作用于这些特殊核酸结构及位点，并且将探针分子与光响应的小分子、药物分子、纳米材料结合，达到生物学研究中的选择性检测或治疗的目的。 （2）核酸表观遗传修饰的检测：开发针对DNA甲基化、microRNA、环状RNA的高选择性、高灵敏度的检测方法，并实现了在临床肿瘤样品中的应用。 我们围绕着修饰核酸，包括表观遗传学修饰以及人工修饰的核酸，在核酸的检测、调控方面取得了一些成果，发现了一些比较好的检测方法和调控手段，下一步我们希望在现有基础上利用这些研究方法\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

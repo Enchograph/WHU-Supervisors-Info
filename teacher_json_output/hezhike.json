@@ -1,0 +1,221 @@
+{
+  "id": "hezhike",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hezhike/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "何治柯",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "分析化学",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "分析化学",
+        "school": "武汉大学",
+        "period": "1990.9 -- 1995.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "武汉大学珞珈杰出学者",
+      "国务院政府特殊津贴",
+      "湖北省优秀博士论文指导教师",
+      "药明康德生命化学研究学者奖",
+      "国家级教学成果奖R04",
+      "湖北省自然科学二等奖（3次）",
+      "湖北省归国华侨联谊会梁亮胜侨界科技奖励三等奖（2次）"
+    ],
+    "academic_services": [
+      "《分析科学学报》副主编",
+      "《化学传感器》编委",
+      "Chem. Rev, JACS, Angew Chem Int Ed, Nano Letter，ACS Nano, Biosens Bioelectron., Anal. Chem.等期刊审稿人",
+      "中国化学会会员",
+      "湖北省仪器仪表学会常务理事",
+      "国家级及省部级项目、人才及成果评审专家",
+      "华中科技大学客座教授",
+      "长江大学客座教授"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "量子点纳米材料制备",
+      "生物医学分析",
+      "微流控芯片技术",
+      "生物传感器开发"
+    ],
+    "research_interests": [
+      "量子点材料",
+      "生物传感",
+      "纳米材料",
+      "微流控技术",
+      "分析化学",
+      "DNA/RNA探针",
+      "CRISPR/Cas系统",
+      "荧光探针",
+      "适体功能化材料"
+    ],
+    "research_description": "何治柯教授长期从事量子点等纳米材料的制备及其在生物医学分析中的应用研究，涵盖裸量子点、核/壳结构量子点、掺杂量子点、量子点水凝胶微球、DNA/适体/抗体/酶功能化量子点、双色荧光量子点、点击反应量子点、量子点信标及CRISPR/Cas DNA/RNA-量子点底物探针等新型功能材料的开发。同时，团队致力于微流控芯片技术及其在分析化学与生物医学检测中的应用，推动高灵敏、高选择性分析方法的发展。研究成果发表于J. Am. Chem. Soc.、Angew. Chem. Int. Ed.、ACS Nano、Biomaterials、Anal. Chem.等国际权威期刊，获多项国家及省部级科研奖励。",
+    "disciplines": [
+      "分析化学",
+      "材料化学",
+      "生物医学工程",
+      "纳米科技"
+    ],
+    "field_tags": [
+      "量子点",
+      "生物传感",
+      "纳米材料",
+      "微流控",
+      "分析化学",
+      "生物医学应用",
+      "荧光探针",
+      "CRISPR/Cas",
+      "功能化材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 300,
+    "representative_publications": [
+      {
+        "title": "J. Am. Chem. Soc.（封面文章）",
+        "keywords": [
+          "量子点",
+          "生物传感",
+          "纳米材料",
+          "荧光探针"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "分析化学",
+          "纳米材料",
+          "生物医学分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Angew. Chem. Int. Ed.",
+        "keywords": [
+          "量子点",
+          "适体功能化",
+          "CRISPR/Cas",
+          "DNA探针"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "分析化学",
+          "生物分析",
+          "分子识别"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "ACS Nano",
+        "keywords": [
+          "量子点水凝胶微球",
+          "双色荧光",
+          "点击反应",
+          "生物成像"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "纳米材料",
+          "生物医学应用",
+          "微流控技术"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Biomaterials",
+        "keywords": [
+          "量子点信标",
+          "DNA/RNA检测",
+          "生物传感器",
+          "疾病诊断"
+        ],
+        "journal_name": "Biomaterials",
+        "research_fields": [
+          "生物材料",
+          "生物传感",
+          "疾病检测"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Chem. Bio.",
+        "keywords": [
+          "量子点探针",
+          "酶功能化",
+          "信号放大",
+          "分析检测"
+        ],
+        "journal_name": "Chemical Biology",
+        "research_fields": [
+          "化学生物学",
+          "分析化学",
+          "生物传感"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/hezhike/zh_CN/index.htm"
+      },
+      {
+        "platform": "全球学者库",
+        "url": "http://www.globalauthorid.com/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "中德国际合作项目",
+      "国家自然科学基金重大项目",
+      "创新研究群体项目",
+      "国家科技部重大研究计划",
+      "973计划",
+      "863计划",
+      "教育部创新团队",
+      "湖北省创新群体",
+      "科技攻关项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家科技部",
+      "教育部",
+      "湖北省科技厅",
+      "中德合作项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 何治柯\n页面链接: http://jszy.whu.edu.cn/hezhike/zh_CN/index.htm\n==================================================\n武汉大学 何治柯--中文主页--首页\n何治柯\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n学科：\n分析化学\n联系方式：武汉大学化学与分子科学学院\n电子邮箱：\n2016曾获荣誉当选：武汉大学珞珈杰出学者 2014曾获荣誉当选：国务院政府特殊津贴 2013曾获荣誉当选：湖北省优秀博士论文指导教师 2012曾获荣誉当选：药明康德生命化学研究学者奖 2009曾获荣誉当选：国家级教学成果奖R04\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n何治柯，博士，武汉大学二级教授，博士生导师，珞珈杰出学者，德国洪堡学者，享受国务院政府特殊津贴。教书育人：曾获国家级教学成果二等奖、湖北省教学成果一等奖和武汉大学优秀教学成果特等奖（R04）；参编普通高等教育“十一五”及“十二五”国家级规划教材<<分析化学>>下册各一章及大百科全书词条（2条），所参编的十二五”国家级规划教材荣获全国优秀教材（高等教育类）二等奖和武汉大学优秀教材特等奖。曾获湖北省优秀博士论文指导教师（3次）、武汉大学蓝月亮优秀研究生导师（3次）及武汉大学十大杰出青年提名奖；与世界顶尖大学（哈佛大学、伊利诺伊大学香槟分校及佐治亚理工学院）联合培养博士研究生3人。科研奖励：曾获第六届药明康德生命化学研究学者奖、湖北省自然科学二等奖（3次）和湖北省归国华侨联谊会梁亮胜侨界科技奖励三等奖（2次）。科研经历：作为洪堡学者，曾分别在德国Halle大学、Bielefeld大学、Dortmund大学和Brauschweig 工业大学访问研究；作为Postdoctoral Research Fellow，曾在香港理工大学从事传感器研究；作为联合培养博士研究生的中方导师，曾应邀访问哈佛大学和伊利诺伊大学香槟分校。科研项目：共主持及参与省部级以上项目二十余项，其中主持国家自然科学基金面上项目十余项，主持中德国际合作项目一项，参与国家自然科学基金重大项目、创新研究群体项目（2项，滚动支持），国家科技部重大研究计划及973计划（4项，其中担任一个973计划项目课题组长）、863计划，教育部创新团队、湖北省创新群体（2）及科技攻关等项目。科研成果：在J.  Am. Chem. Soc.（封面文章）, Angew. Chem. Int. Ed., ACS Nano, Biomaterials, Chem. Bio., Small, Chem. Commun., Biosens Bioelectron., Anal. Chem.,《中国科学》,《化学学报》和《分析化学》等刊物发表学术论文300余篇，一篇论文入选领跑者5000—中国精品科技期刊顶尖学术论文。参编专著4章，鉴定成果3项，授权专利18项，其中2项为美国专利，转让美国专利成果1项。所制备的量子点系列材料包括裸量子点、核/壳结构量子点、掺杂量子点、量子点水凝胶微球、DNA功能化量子点、适体功能化量子点、抗体功能化量子点、酶功能化量子点、双色荧光量子点、点击反应量子点、量子点信标、CRISPR/Cas DNA/RNA-量子点底物探针等。科研服务：曾担任国家级及省（湖南、湖北、河南、河北、广东、广西、山东、江西、陕西、江苏、西藏、黑龙江等）部级项目、人才及成果评审专家、曾应邀到国家大型企业进行量子点及生物传感技术交流与指导、曾受聘华中科技大学和长江大学客座教授、也曾作为国际杂志 Chem. Rev，JACS, Angew Chem Int Ed, Nano Letter，ACS Nano, Biosens Bioelectron.和 Anal. Chem.等的审稿人；现任中国化学会会员、湖北省仪器仪表学会常务理事、《分析科学学报》副主编及《化学传感器》编委。\n2021年10月，全球学者库网站(http://www.globalauthorid.com/)公布了全球前10万顶尖科学家榜单，何治柯博士位列全球30380位；在国内入围的11642人中位列2411位（请点击其他栏目-我的相册-武汉大学喜报）。\n教育经历\n1990.9 -- 1995.6\n武汉大学\n分析化学\n研究生毕业\n博士\n工作经历\n1995.7 -- 至今\n武汉大学\n社会兼职\n2013.1 -- 至今\n《分析科学学报》副主编\n团队成员\n团队名称： He' Group\n团队介绍：何治柯教授和吉邢虎副教授，主要从事量子点等纳米材料制备及生物医学分析应用、微流控芯片技术及分析应用研究\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

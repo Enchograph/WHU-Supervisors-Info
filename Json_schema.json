@@ -1,0 +1,358 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "导师可提取特征信息",
+    "description": "基于公开教师页面可实际提取的导师特征",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string",
+            "description": "唯一标识符（txt文本名）"
+        },
+        "source": {
+            "type": "object",
+            "description": "数据来源信息",
+            "properties": {
+                "url": {
+                    "type": "string",
+                    "format": "uri",
+                    "description": "教师页面URL"
+                },
+                "crawl_date": {
+                    "type": "string",
+                    "format": "date",
+                    "description": "抓取日期"
+                }
+            },
+            "required": [
+                "url"
+            ]
+        },
+        "basic_info": {
+            "type": "object",
+            "description": "基础信息（通常可直接获取）",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "教师姓名"
+                },
+                "english_name": {
+                    "type": "string",
+                    "description": "英文名（如有）"
+                },
+                "title": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "职称列表（如：教授、博导、硕导）"
+                },
+                "is_phd_supervisor": {
+                    "type": "boolean",
+                    "description": "是否为博导（可从文本推断）"
+                },
+                "is_master_supervisor": {
+                    "type": "boolean",
+                    "description": "是否为硕导（可从文本推断）"
+                },
+                "department": {
+                    "type": "string",
+                    "description": "所属院系"
+                },
+                "college": {
+                    "type": "string",
+                    "description": "所属学院"
+                },
+                "employment_status": {
+                    "type": "string",
+                    "description": "在职状态（通常为在职）"
+                }
+            },
+            "required": [
+                "name",
+                "title",
+                "department"
+            ]
+        },
+        "academic_info": {
+            "type": "object",
+            "description": "学术背景信息（通常可获取）",
+            "properties": {
+                "education_background": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "degree": {
+                                "type": "string",
+                                "description": "学位（学士、硕士、博士等）"
+                            },
+                            "field": {
+                                "type": "string",
+                                "description": "专业/研究领域"
+                            },
+                            "school": {
+                                "type": "string",
+                                "description": "学校/机构名称"
+                            },
+                            "period": {
+                                "type": "string",
+                                "description": "学习期间（如：1998-2002）"
+                            },
+                            "country": {
+                                "type": "string",
+                                "description": "所在国家（可选）"
+                            }
+                        },
+                        "required": [
+                            "degree",
+                            "field",
+                            "school",
+                            "period"
+                        ]
+                    },
+                    "description": "教育背景详情列表"
+                },
+                "graduation_school": {
+                    "type": "string",
+                    "description": "最高学历毕业院校"
+                },
+                "academic_honors": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "学术荣誉（从简介中提取关键词）"
+                },
+                "academic_services": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "学术任职（期刊编委、学会委员等）"
+                }
+            },
+            "required": [
+                "education_background"
+            ]
+        },
+        "research_info": {
+            "type": "object",
+            "description": "研究信息（核心可获取部分）",
+            "properties": {
+                "research_directions": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "研究方向列表（通常有专门栏目）"
+                },
+                "research_interests": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "研究兴趣关键词（从简介中提取）"
+                },
+                "research_description": {
+                    "type": "string",
+                    "description": "研究描述文本（个人简介中相关部分）"
+                },
+                "disciplines": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "所属学科"
+                },
+                "field_tags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "领域标签（自动提取的关键词）"
+                }
+            },
+            "required": [
+                "research_directions",
+                "research_interests"
+            ]
+        },
+        "publication_info": {
+            "type": "object",
+            "description": "发表信息（部分可获取）",
+            "properties": {
+                "publication_count": {
+                    "type": "integer",
+                    "description": "论文数量（如提到）"
+                },
+                "representative_publications": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "title": {
+                                "type": "string",
+                                "description": "文章题目"
+                            },
+                            "keywords": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                },
+                                "description": "文章关键词列表"
+                            },
+                            "journal_name": {
+                                "type": "string",
+                                "description": "发表于的期刊名称"
+                            },
+                            "research_fields": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                },
+                                "description": "相关研究领域"
+                            },
+                            "publication_year": {
+                                "type": "integer",
+                                "description": "发表年份（可选）",
+                                "minimum": 1900,
+                                "maximum": 2100
+                            }
+                        },
+                        "required": [
+                            "title",
+                            "keywords",
+                            "journal_name",
+                            "research_fields"
+                        ]
+                    },
+                    "description": "代表性论文列表"
+                },
+                "profile_links": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "platform": {
+                                "type": "string",
+                                "enum": [
+                                    "ORCID",
+                                    "Google Scholar",
+                                    "Publons",
+                                    "ResearchGate",
+                                    "个人网站",
+                                    "其他"
+                                ]
+                            },
+                            "url": {
+                                "type": "string",
+                                "format": "uri"
+                            }
+                        },
+                        "required": [
+                            "platform",
+                            "url"
+                        ]
+                    },
+                    "description": "学术主页链接"
+                }
+            }
+        },
+        "project_info": {
+            "type": "object",
+            "description": "项目信息（部分可获取）",
+            "properties": {
+                "project_types": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "项目类型（从描述中提取：国家自然科学基金、973、863等）"
+                },
+                "funding_agencies": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "description": "资助机构"
+                },
+                "has_international_project": {
+                    "type": "boolean",
+                    "description": "是否有国际合作项目（从描述推断）"
+                }
+            }
+        },
+        "derived_features": {
+            "type": "object",
+            "description": "从文本中推导的特征",
+            "properties": {
+                "research_style": {
+                    "type": "object",
+                    "properties": {
+                        "is_experimental": {
+                            "type": "boolean",
+                            "description": "是否偏实验（从关键词推断）"
+                        },
+                        "is_theoretical": {
+                            "type": "boolean",
+                            "description": "是否偏理论"
+                        },
+                        "is_applied": {
+                            "type": "boolean",
+                            "description": "是否偏应用"
+                        },
+                        "is_interdisciplinary": {
+                            "type": "boolean",
+                            "description": "是否交叉学科"
+                        }
+                    }
+                },
+                "seniority_level": {
+                    "type": "string",
+                    "enum": [
+                        "junior",
+                        "mid",
+                        "senior",
+                        "distinguished"
+                    ],
+                    "description": "资历级别（从职称和荣誉推断）"
+                },
+                "activity_level": {
+                    "type": "string",
+                    "enum": [
+                        "high",
+                        "medium",
+                        "low"
+                    ],
+                    "description": "活跃程度（从项目、发表数量推断）"
+                }
+            }
+        },
+        "extracted_text": {
+            "type": "object",
+            "description": "原始提取的文本块",
+            "properties": {
+                "personal_profile": {
+                    "type": "string",
+                    "description": "个人简介全文"
+                },
+                "research_section": {
+                    "type": "string",
+                    "description": "研究方向全文"
+                },
+                "education_section": {
+                    "type": "string",
+                    "description": "教育背景全文"
+                }
+            }
+        }
+    },
+    "required": [
+        "id",
+        "source",
+        "basic_info",
+        "academic_info",
+        "research_info",
+        "extracted_text"
+    ]
+}

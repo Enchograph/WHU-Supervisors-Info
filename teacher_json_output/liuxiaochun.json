@@ -1,0 +1,133 @@
+{
+  "id": "liuxiaochun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuxiaochun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘晓春",
+    "english_name": "Liu Xiaochun",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "数学与统计学院",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士后",
+        "field": "物理与数学",
+        "school": "武汉物理与数学研究所",
+        "period": "2000-07至2002-06",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2024-2025年度武汉大学“师德标兵”荣誉称号",
+      "2024年武汉大学第六届“查全性教授1977奖教金”",
+      "武汉大学 2020-2021 学年本科优秀教学业绩奖",
+      "武汉大学 2015 届“弘毅学堂”优秀教育工作者荣誉称号",
+      "2018年武汉大学教师板书技能微赛优秀奖",
+      "2016年度教育部自然科学奖一等奖（第二完成人）"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "偏微分方程",
+      "退化型偏微分方程"
+    ],
+    "research_interests": [
+      "退化型偏微分方程",
+      "非线性偏微分方程",
+      "数学分析",
+      "方程解的性质研究"
+    ],
+    "research_description": "刘晓春教授长期从事偏微分方程领域的研究，尤其专注于退化型偏微分方程中的若干关键问题。她在该领域已发表SCI论文50余篇，出版英文学术专著1部，主持多项国家自然科学基金项目，研究成果获教育部自然科学奖一等奖（第二完成人）。研究聚焦于方程解的存在性、唯一性、正则性及渐近行为等核心问题。",
+    "disciplines": [
+      "基础数学",
+      "应用数学"
+    ],
+    "field_tags": [
+      "偏微分方程",
+      "退化方程",
+      "数学分析",
+      "非线性分析",
+      "科学计算",
+      "数学物理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "退化型偏微分方程中的若干问题研究",
+        "keywords": [
+          "退化型偏微分方程",
+          "偏微分方程",
+          "数学分析"
+        ],
+        "journal_name": "JDE, JFA, CVPDE, SCM",
+        "research_fields": [
+          "偏微分方程",
+          "基础数学"
+        ],
+        "publication_year": 2016
+      },
+      {
+        "title": "Springer旗下Birkhaeuser出版社出版的英文学术专著",
+        "keywords": [
+          "偏微分方程",
+          "学术专著",
+          "Springer"
+        ],
+        "journal_name": "Birkhaeuser",
+        "research_fields": [
+          "基础数学",
+          "偏微分方程"
+        ],
+        "publication_year": 2016
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuxiaochun/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金重点项目子课题",
+      "教育部自然科学奖项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "教育部"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": false
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘晓春\n页面链接: http://jszy.whu.edu.cn/liuxiaochun/zh_CN/index.htm\n==================================================\n武汉大学 刘晓春--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n刘晓春\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Liu Xiaochun\n电子邮箱：\n入职时间：2002-07-01\n所在单位：数学与统计学院\n学历：研究生毕业\n职称：教授\n在职信息：在职\n所属院系：数学与统计学院\n学科：\n基础数学\n联系方式Contact information\n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n个人简介\n刘晓春，女，武汉大学数学与统计学院，教授。\n科研与学术工作经历：\n(1)2008-06至现在，武汉大学，数学与统计学院，博士生导师\n(2)2007-11至现在，武汉大学，数学与统计学院，教授\n(3)2002-07至2007-10，武汉大学，数学与统计学院，副教授\n(4)2000-07至2002-06，武汉物理与数学研究所，博士后\n研究成果\n已发表SCI学术论文50余篇，包括JDE， JFA，CVPDE， SCM等学术期刊，在Springer旗下的Birhaeuser出版社出版学术专著1部\n近年来所获成绩如下：\n一、    教学方面：\n1、2024-2025年度武汉大学“师德标兵”荣誉称号\n2、2024年获得武汉大学第六届“查全性教授1977奖教金”\n3、“武汉大学 2020-2021 学年本科优秀教学业绩奖”；\n4、武汉大学 2015 届“弘毅学堂”优秀教育工作者荣誉称号；\n5、获2018年武汉大学教师板书技能微赛优秀奖；\n6、获批武汉大学本科教育质量建设综合改革项目子课题“课程思政角度下的《数学分析》教学探讨”\n二、科研方面：\n1、项目“退化型偏微分方程中的若干问题研究”获 2016 年度教育部自然科学奖一等奖（刘晓春老师为第二完成人）；\n2、主持国家自然科学基金面上项目 3 项，国家自然科学基金重点项目子课题1项；\n3、 发表SCI科研论文40余篇，在Springer旗下Birkhaeuser出版社出版英文学术专著1部；\n三、人才培养方面：\n1、 指导武汉大学大学生创新创业训练项目校级项目2项；\n2、指导本科生毕业论文多人，其中指导本科生熊乘风的学士学位论文获武汉大学2020届优秀学士学位论文。\n3、指导硕士研究生40余名，博士研究生10余名，其中2人获国家奖学金，1人获研究生学术创新奖二等奖。1名博士毕业后成功申请上海交通大学“吴文俊”博士后。\n研究方向 Personal profile\n偏微分方程\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

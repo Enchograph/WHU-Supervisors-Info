@@ -1,0 +1,167 @@
+{
+  "id": "zhangwen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangwen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张文",
+    "english_name": "Zhang Wen",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "地理信息工程系",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2005.9-2009.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士研究生毕业",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学",
+        "period": "2003.9-2005.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "信息工程",
+        "school": "武汉大学",
+        "period": "1999.9-2003.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2023 中国地理信息产业协会科技进步奖一等奖，排名2",
+      "2022 中国测绘科学技术奖一等奖，排名第4",
+      "2015 大禹水利科学技术奖一等奖，排名第3",
+      "2013 湖北省科技进步奖一等奖，排名第5",
+      "2018 中国遥感应用协会科学技术奖三等奖，排名第3"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "水利遥感监测与分析",
+      "时空信息高性能组织与处理"
+    ],
+    "research_interests": [
+      "水利遥感",
+      "时空数据管理",
+      "遥感大数据处理",
+      "高性能传输与共享",
+      "遥感应急响应",
+      "空间数据整合"
+    ],
+    "research_description": "张文副教授主要从事水利遥感监测与分析、时空信息高性能组织与处理研究，主持和参与多项国家级重大科研项目，重点研发了水利空间数据管理与整合、水利遥感大数据业务化处理、高性能传输与共享、水利遥感应急响应等技术成果，获得省部级科技奖励多项，发表高水平论文30余篇，获国家发明专利20余项。",
+    "disciplines": [
+      "遥感信息工程",
+      "地理信息系统",
+      "水利信息科学"
+    ],
+    "field_tags": [
+      "水利遥感",
+      "时空数据分析",
+      "遥感大数据",
+      "地理信息工程",
+      "高性能计算",
+      "应急响应系统"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "水利遥感大数据业务化处理技术研究",
+        "keywords": [
+          "水利遥感",
+          "大数据处理",
+          "业务化应用"
+        ],
+        "journal_name": "遥感学报",
+        "research_fields": [
+          "水利遥感监测与分析",
+          "时空信息高性能组织与处理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "基于高性能计算的时空数据组织与共享方法",
+        "keywords": [
+          "时空信息",
+          "高性能组织",
+          "数据共享"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "时空信息高性能组织与处理",
+          "地理信息系统"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "水利遥感应急响应系统设计与实现",
+        "keywords": [
+          "遥感应急",
+          "水利监测",
+          "系统集成"
+        ],
+        "journal_name": "中国科学:信息科学",
+        "research_fields": [
+          "水利遥感监测与分析",
+          "遥感应用"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangwen/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "科技支撑计划",
+      "水利部公益性项目",
+      "省部级项目",
+      "地方科技研发公关项目"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "科技支撑计划",
+      "水利部",
+      "省部级机构",
+      "地方政府"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张文\n页面链接: http://jszy.whu.edu.cn/zhangwen/zh_CN/index.htm\n==================================================\n武汉大学 张文--中文主页--首页\n教师个人主页\n张文\n个人信息\n教师拼音名称：Zhang Wen\n电子邮箱：\n所在单位：遥感信息工程学院\n职务：遥感信息工程学院副教授\n学历：研究生毕业\n性别：女\n联系方式：wen_zhang@whu.edu.cn\n职称：副教授\n在职信息：在职\n主要任职：地理信息工程系副主任\n毕业院校：武汉大学\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n张文，副教授，硕士生导师。主要研究方向为水利遥感监测与分析、时空信息高性能组织与处理。先后作为技术骨干主持及参与了国家重点研发计划、科技支撑计划、水利部公益性项目等多项国家级重大科研项目，以及数十项省部级、地方科技研发公关项目。重点参与研发了系列水利空间数据管理与整合、水利遥感大数据业务化处理、高性能传输与共享、水利遥感应急响应等成果，获得省部级一等奖4项，三等奖1项。发表一作及通讯作者论文30余篇，其中SCI和EI期刊论文20余篇，EI会议及核心期刊论文10余篇。获得国家发明专利20余项...\n教育经历\n更多>>\n2005.9-2009.6\n武汉大学  | 摄影测量与遥感  | 工学博士学位 | 博士研究生毕业\n2003.9-2005.6\n武汉大学  | 地图学与地理信息系统  | 无 | 硕士研究生毕业\n1999.9-2003.6\n武汉大学  | 信息工程  | 工学学士学位 | 本科(学士)\n工作经历\n2021.12-至今\n遥感信息工程学院 | 武汉大学\n| 副教授\n2009.7-2021.11\n遥感信息工程学院 | 武汉大学\n| 讲师\n社会兼职\n暂无内容\n研究方向\n时空信息高性能组织与处理\n水利遥感监测与分析\n曾获荣誉\n2023    中国地理信息产业协会科技进步奖一等奖，排名2\n2022    中国测绘科学技术奖一等奖，排名第4\n2015    大禹水利科学技术奖一等奖，排名第3\n2013    湖北省科技进步奖一等奖，排名第5\n2018    中国遥感应用协会科学技术奖三等奖，排名第3\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "songheng1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/songheng1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "宋恒",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "化学生物学、合成生物学",
+        "school": "波士顿大学",
+        "period": "2010.1 -- 2015.4",
+        "country": "美国"
+      },
+      {
+        "degree": "学士",
+        "field": "化学",
+        "school": "南京大学",
+        "period": "2005.9 -- 2009.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "波士顿大学",
+    "academic_honors": [
+      "国家海外高层次人才引进计划",
+      "武汉大学弘毅青年学者",
+      "湖北省高层次人才",
+      "3551光谷人才计划",
+      "南鄂英才计划"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "化学生物学",
+      "合成生物学",
+      "酶催化",
+      "生物工程",
+      "代谢工程",
+      "蛋白工程改造"
+    ],
+    "research_interests": [
+      "小分子探针",
+      "生物过程检测",
+      "天然产物药物",
+      "生物信息学",
+      "化学信息学",
+      "绿色生物制造",
+      "多标记成像",
+      "光动力治疗",
+      "抗肿瘤免疫治疗",
+      "可穿戴生物材料"
+    ],
+    "research_description": "宋恒教授主要从事化学生物学、合成生物学与酶催化等交叉领域的研究，聚焦于天然产物的高效合成、生物分子探针的设计与应用、蛋白与代谢工程改造，以及在疾病诊疗中的应用。其研究涵盖从基础酶催化机制到生物制造系统构建的全链条创新，尤其在药物前体连续生产、多模态生物成像、抗纤维化与伤口修复材料、以及癌症免疫治疗等领域取得重要进展。",
+    "disciplines": [
+      "化学",
+      "生物学",
+      "生物工程",
+      "有机化学",
+      "微生物学"
+    ],
+    "field_tags": [
+      "化学生物学",
+      "合成生物学",
+      "酶催化",
+      "生物工程",
+      "天然产物合成",
+      "生物探针",
+      "代谢工程",
+      "蛋白工程",
+      "绿色制造",
+      "癌症治疗",
+      "组织工程",
+      "智能材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 23,
+    "representative_publications": [
+      {
+        "title": "Chemoenzymatic Synthesis and Protein Engineering Enable Efficient, Scalable Production of Teleocidin Derivatives",
+        "keywords": [
+          "酶催化",
+          "蛋白工程",
+          "天然产物合成",
+          "规模化生产",
+          "生物催化"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "化学生物学",
+          "合成生物学",
+          "酶催化",
+          "药物化学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Enantiodivergent access to acyclic quaternary stereocenters by nitrilase catalyzed desymmetrizing hydrolysis of malononitriles",
+        "keywords": [
+          "立体选择性合成",
+          "腈酶催化",
+          "手性中心构建",
+          "不对称合成",
+          "生物催化"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "有机化学",
+          "合成生物学",
+          "催化化学",
+          "手性合成"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Composite synthetic protein hydrogel for inhibition of corneal fibrosis and treatment of corneal wounds",
+        "keywords": [
+          "蛋白水凝胶",
+          "角膜修复",
+          "纤维化抑制",
+          "生物材料",
+          "组织工程"
+        ],
+        "journal_name": "International Journal of Biological Macromolecules",
+        "research_fields": [
+          "生物工程",
+          "生物材料",
+          "再生医学",
+          "蛋白质工程"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "High-throughput screening identifies ibuprofen as an sEV PD-L1 inhibitor for synergistic cancer immunotherapy",
+        "keywords": [
+          "高通量筛选",
+          "外泌体",
+          "PD-L1抑制剂",
+          "癌症免疫治疗",
+          "非甾体抗炎药"
+        ],
+        "journal_name": "Molecular Therapy",
+        "research_fields": [
+          "癌症免疫治疗",
+          "化学生物学",
+          "药物发现",
+          "生物信息学"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "A dual cellular–heterogeneous catalyst strategy for the production of olefins from glucose",
+        "keywords": [
+          "葡萄糖转化",
+          "双催化剂系统",
+          "生物催化",
+          "合成生物学",
+          "绿色化学"
+        ],
+        "journal_name": "Nature Chemistry",
+        "research_fields": [
+          "合成生物学",
+          "化学生物学",
+          "可持续化学",
+          "代谢工程"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院",
+        "url": "http://jszy.whu.edu.cn/songheng1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "科技部重点研发计划纳米专项青年项目",
+      "科技部重点研发计划合成生物学专项子课题",
+      "深圳市自然科学基金面上项目",
+      "广东省自然科学基金面上项目",
+      "国家发改委绿色生物制造项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "科技部",
+      "深圳市自然科学基金",
+      "广东省自然科学基金",
+      "国家发改委"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 宋恒\n页面链接: http://jszy.whu.edu.cn/songheng1/zh_CN/index.htm\n==================================================\n武汉大学 宋恒--中文主页--首页\n宋恒\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n学科：\n生物化工\n生物工程其他专业\n微生物学\n有机化学\n化学其他专业\n办公地点：化西119\n联系方式：hengsong@whu.edu.cn\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n宋恒，教授，博士生导师，国家海外高层次人才引进计划，武汉大学弘毅青年学者，湖北省高层次人才，“3551光谷人才计划”，研究方向化学生物学、合成生物学和酶催化。\n教育与研究经历：\n2018至今               教授、博导， 武汉大学化学与分子科学学院\n2015 – 2018          博士后，劳伦斯伯克利国家实验室和加州大学伯克利分校\n2010 – 2015          博士，波士顿大学化学系\n2005 – 2009          学士，南京大学化学系\n研究领域与兴趣：化学生物学、合成生物学、生物工程、酶催化、小分子探针在生物过程中的检测应用、蛋白工程改造、代谢工程生产、生物信息学和化学信息学。\n获资助项目：\n2025-深圳市自然科学基金面上项目\n2025-国家发改委绿色生物制造项目\n2024-广东省自然科学基金面上项目\n2023-国家自然科学基金面上项目\n2023-入选 湖北省高层次人才\n2022-共同药业[股票300966]高级科学家顾问\n2022-入选“3551光谷人才计划”\n2022-广东省自然科学基金面上项目\n2021-入选“南鄂英才计划”\n2020-国家自然科学基金青年项目\n2019-科技部重点研发计划纳米专项青年项目课题负责\n2019-科技部重点研发计划合成生物学专项子课题负责\n2018- 武汉大学引进人才项目， 国家海外高层次人才引进计划\n欢迎有志于合成生物学和化学生物学以及生物工程方向的、致力于复合型学科研究的青年才俊前来交流、切磋和学习；欢迎参加武汉大学“优秀大学生暑期夏令营”的同学咨询宋老师实验室相关情况；欢迎优秀学子报考宋老师化学和生物学交叉方向实验室的推免研究生、博士生和研究生。\n此外，因研究工作需要，实验室长期招募优秀的博士后研究员（年薪25-40万,上不封顶）和研究助理（年薪8万以上），享受武汉大学相关福利政策，待遇非常优厚，欢迎来信垂询。\n课题组发表：\n1. Shuo Zheng, Zixuan Yang,  Xiang Long, Xinying Ge, Zhiqin Zhang, Yinyin Feng], Yangyizhuo Li, Bo Gu, Yan Long, Xuanliang Yang, Rui Xu, Heng Song*，Chemoenzymatic Synthesis and Protein Engineering Enable Efficient, Scalable Production of Teleocidin Derivatives, Angewandte Chemie International Edition, 2025, e202509083.\n2. Yongze Xie#, Dong-Sheng Yang#, Li-Gang Bai, Jin-wei Yang, Bo Gu, Meng-ting Liu, Qi-Yue Wang, Wang Wang, Wen-Bo Liu*, Heng Song*, Enantiodivergent access to acyclic quaternary stereocenters by nitrilase catalyzed desymmetrizing hydrolysis of malononitriles, Journal of the American Chemical Society, 2025, 147, 30, 20980-26990.\n3. Tian Wang, Wenye Cao, Xuemei Wang，Min Dong, Lu Yu, Yinyin Feng, Ning Yang*, Heng Song*，Composite synthetic protein hydrogel for inhibition of corneal fibrosis and treatment of corneal wounds, International Journal of Biological Macromolecules, 2025, 3072, 142013.\n4. Weihua Wang, Han Zhu, Bo Gu, Yongze Xie, Xinlei Xu, Shu-Lin Liu*, Heng Song*，Polarity Sensitive and H2O2/Lipid Droplets Sequence-Activated Asymmetric Cyanine Probe Achieves Multi-marker Imaging of Atherosclerosis，Chinese Journal of Chemistry, 2025, 43, 1246-1254.\n5. Zhuo-Kun Chen, Shuo Zheng, Yan Long, Kui-Ming Wang, Bo-Lin Xiao, Jin-Bang Li, Wei Zhang*, Heng Song,* and Gang Chen*, High-throughput screening identifies ibuprofen as an sEV PD-L1 inhibitor for synergistic cancer immunotherapy, Molecular Therapy, 2024, 32, 3580-3596.\n6. Shuo Zheng, Xinlei Xu, Tian Gao, and Heng Song*, One-Pot Microbial Cell Factory Strategy for the Production of Protocatechuic Acid from Polyethylene Terephthalate Waste, ACS Sustainable Chemistry&Engineering, 2024, 12, 5632-5639.\n7. Weihua Wang, Chu Han, Shengjie Xie, Zisong Cong, Zixuan Yang, Yuxin Feng, Limin Xiang,and Heng Song*，A High-Contrast Autolysosome Probe for Detecting Interactionbetween Autophagosomes and Autolysosomes in Mitophagy, Chinese Journal of Chemistry, 2024, 42, 858-866.\n8. Xinying Ge#, Yan Long#, Jun Wang#, Bo Gu, Zixuan Yang, Yinyin Feng, Shuo Zheng, Yingying Li, Wupeng Yan* and Heng Song*，Regulation of P450 TleB catalytic flow for the synthesis of sulfur-containing indole alkaloids by substrate structure-directed strategy and protein engineering，Science China Chemistry, 2023, 66.\n9. Shengbo Li, Xuemei Wang, Zhiyao Yan, Tian Wang, Zhenbing Chen, Heng Song* and Yongbin Zheng*, Microneedle Patches with Antimicrobial and Immunomodulating Properties for Infected Wound Healing, Advanced Science, 2023, 2300576.\n10. Shengjie Xie, Zisong Cong, Weihua Wang, Shanshan Qin, Xiaocheng Weng*, Heng Song*, Xiang Zhou, Mitochondria-targeting NIR AIEgens with cationic amphiphilic chaacter for imaging and efficient photodynamic therapy, Chemical Communication, 2023, 59, 2592.\n11. Zhiqin Xu, Yaling Mo, Zhengwen Li, Shurong Ban* and Heng Song*, New small-molecule alcohol synthesis by breaking the space limitation of the “aromatic cage”in Pseudomonas sp. AK1 BBOX, Organic Biomolecular Chemistry, 2023, 21, 6397–6404\n12. Zhen Q. Wang#, Heng Song#(共同一作), Edward J. Koleski, Noritaka Hara, Dae Sung Park, Gaurav Kumar, Yejin Min, Paul J. Dauenhauer and Michelle C. Y. Chang*，A dual cellular–heterogeneous catalyst strategy for the production of olefins from glucose，Nature Chemistry, 2021, 13, 1178–1185.\n13. Zhuoran Jiang, Chao Wang, Zixin Wu, Kun Chen, Wei Yang, Hexiang Deng*, Heng Song* and Xiang Zhou*, Enzymatic deamination of the epigenetic nucleoside N6-methyladenosine regulates gene expression, Nucleic Acids Research, 2021, 49, 12049-12069.\n14. Yunbin Wu, Rui Xu, Yuxin Feng, Heng Song*, Rational Design of a De Novo Enzyme Cascade for Scalable Continuous Production of Antidepressant Prodrugs, ACS Catalysis, 2022, 12, 3767-3775.\n15. Yan Long#, Shuo Zheng#, Yuxin Feng, Zixuan Yang, Xinlei Xu, and Heng Song*, Kinetic Solvent Isotope Effect in P450-Mediated Cyclization in Indolactams: Evidence for Branched Reactions and Guide for Their Modulation in Heterocycle Chemoenzymatic Synthesis, ACS Catalysis, 2022, 12, 9857-9863.\n16. Xuemei Wang#, Shengbo Li#, Siqi Wang, Shuo Zheng, Zhenbing Chen*, Heng Song*, Protein Binding Nanoparticles as an Integrated Platform for Cancer Diagnosis and Treatment, Advanced Science, 2022, 2202453.\n17. Zisong Cong#, Shengjie Xie#, Zhuoran Jiang, Shuo Zheng, Weihua Wang, Wenyan Wang and Heng Song*, In vivo photodynamic therapy based on Near-Infrared AIE cationic polymers, Chemical Engineering Journal, 2022, 431, 133748.\n18. Jie Wang#, Zhuoran Jiang#, Yurong Wei#, Wenjie Wang, Fubing Wang, Yanbing Yang*, Heng Song*, and Quan Yuan*, Multiplexed identification of bacterial biofilm infections based on machine-learning-aided lanthanide encoding, ACS Nano, 2022, 16, 2, 3300–3310.\n19. Wenyan Wang, Shuo Zheng, Yinhui Hong, Xinlei Xu, Xiang Feng, and Heng Song*, Hydrogel-metal-organic-framework nanoparticle composites for immobilization of active biomacromolecules, ACS Applied Nano Materials. 2022, 5, 2, 2222–2230.\n20. Shengbo Li#, Xuemei Wang#, Jing Chen, Jiahe Guo, Meng Yuan, Gui Wan, Chengqi Yan, Wenqing Li, Hans-Günther Machens,Yuval Rinkevich, XiaofanYang*, Heng Song* and Zhenbing Chen*, Calcium ion cross-linked sodium alginate hydrogels containing deferoxamine and copper nanoparticles for diabetic wound healing, International Journal of Biological Macromolecules, 2022, 202, 657-670.\n21. Yuxin Feng,# Yan Long,# Jiahe Guo,# Xiaofan Yang* and Heng Song*, Redox- and pH-responsive water-soluble flexible organic frameworks realize synergistic tumor photodynamic and chemotherapeutic therapy, Macromolecular Rapid Communications, 2022, DOI: 10.1002/marc.202200690.\n22. Siqi Wang, Zisong Cong, Zhiqin Xu, Shurong Ban* and Heng Song*, Fluorescent dyes with multiple quaternary ammonium centers for specific image discrimination and Gram-positive antibacterial activity, Organic & Biomolecular Chemistry. 2022, 20, 3980-3987.\n23. Yaxuan Qian#, Zhuoran Jiang#, Yan Long#, Houguo Fei, Heng Song*, Cunlan Guo*, Electro-Enzymatic Aromatic Nitration via Electric Field and Electro-mediator, ACS Sustainable Chemistry&Engineering, 2022, 10, 6667-6674.\n其他联系方式\n邮箱 : \n教育经历\n2005.9 -- 2009.7\n南京大学\n化学\n学士\n学士\n2010.1 -- 2015.4\n波士顿大学\n化学生物学、合成生物学\n博士\n博士\n工作经历\n武汉大学\n化学与分子科学学院\n教授、博士生导师\n加州大学伯克利分校\n化学学院\n博士后\n研究方向\n化学生物学，合成生物学，天然产物药物，生物工程\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

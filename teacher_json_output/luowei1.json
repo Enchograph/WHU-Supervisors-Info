@@ -1,0 +1,361 @@
+{
+  "id": "luowei1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/luowei1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "罗威",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士",
+        "field": "无机化学",
+        "school": "武汉大学化学与分子科学学院",
+        "period": "2003.9-2008.7",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "金属磷化学",
+        "school": "新加坡南洋理工大学化学系",
+        "period": "2009.7-2010.8",
+        "country": "新加坡"
+      },
+      {
+        "degree": "博士后",
+        "field": "含硼氮杂环化合物的储氢研究",
+        "school": "美国俄勒冈大学化学系",
+        "period": "2010.9-2012",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家级青年人才计划",
+      "湖北省人才计划",
+      "湖北省杰出青年基金"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "储氢材料",
+      "燃料电池",
+      "电解水制氢",
+      "电催化材料",
+      "界面水结构调控",
+      "金属催化剂设计"
+    ],
+    "research_interests": [
+      "氢氧化反应电催化",
+      "析氧反应电催化",
+      "界面水分子结构",
+      "金属磷化物催化剂",
+      "硼掺杂催化剂",
+      "高熵合金催化剂",
+      "非贵金属催化剂",
+      "酸性/碱性电解环境"
+    ],
+    "research_description": "罗威教授长期致力于能源转换与存储材料的开发，聚焦于高效电催化材料的设计与机理研究，特别是在储氢材料、燃料电池及电解水制氢领域。研究重点包括：通过调控催化剂表面与电解质界面的水分子结构，提升氢氧化反应（HOR）和析氧反应（OER）的催化活性与稳定性；开发基于Ru、Rh、Pd、Co等金属的新型电催化剂，探索其在酸性和碱性条件下的pH通用性；利用原子级调控、异质结构设计、掺杂工程等手段优化催化剂的电子结构与表面反应动力学。近年来在Nat. Commun., JACS, Angew. Chem. Int. Ed., Adv. Mater., Chem. Sci.等国际顶级期刊发表论文120余篇，多篇入选ESI高被引和热点论文。",
+    "disciplines": [
+      "化学",
+      "材料科学",
+      "电化学",
+      "能源科学"
+    ],
+    "field_tags": [
+      "电催化",
+      "氢能源",
+      "燃料电池",
+      "电解水",
+      "界面科学",
+      "金属催化剂",
+      "纳米材料",
+      "能源转换"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 120,
+    "representative_publications": [
+      {
+        "title": "Boosting acidic oxygen evolution electrocatalysis by engineering the interfacial water at the electrified RuO2-electrolyte interface",
+        "keywords": [
+          "RuO2",
+          "interfacial water",
+          "acidic oxygen evolution",
+          "electrocatalysis"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "电催化",
+          "储氢材料",
+          "燃料电池"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Interfacial engineering of Ru-RuSb2 for enhanced activity and stability towards alkaline hydrogen oxidation reaction",
+        "keywords": [
+          "Ru-RuSb2",
+          "alkaline hydrogen oxidation",
+          "interfacial engineering",
+          "electrocatalyst"
+        ],
+        "journal_name": "Chem. Sci.",
+        "research_fields": [
+          "电催化",
+          "氢氧化反应",
+          "材料设计"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Cation-driven modulation of interfacial solvation structures for enhanced alkaline hydrogen oxidation kinetics",
+        "keywords": [
+          "cation-driven",
+          "interfacial solvation",
+          "alkaline hydrogen oxidation",
+          "kinetics"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "电催化",
+          "界面化学",
+          "反应机理"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Interstitial nitrogen modified Rh nanocrystal for efficient and CO-resistant alkaline hydrogen oxidation electrocatalysis",
+        "keywords": [
+          "interstitial nitrogen",
+          "Rh nanocrystal",
+          "CO-resistant",
+          "alkaline hydrogen oxidation"
+        ],
+        "journal_name": "Chem. Sci.",
+        "research_fields": [
+          "电催化",
+          "纳米材料",
+          "抗中毒催化剂"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Role of interfacial water in improving the activity and stability of lattice-oxygen-mediated acidic oxygen evolution on RuO2",
+        "keywords": [
+          "interfacial water",
+          "lattice-oxygen-mediated",
+          "acidic oxygen evolution",
+          "RuO2"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "电催化",
+          "氧析出反应",
+          "界面水结构"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "MoN supported Pt nanocluster catalysts with regulated interfacial water structures for boosting alkaline hydrogen oxidation reaction",
+        "keywords": [
+          "MoN",
+          "Pt nanocluster",
+          "interfacial water",
+          "alkaline hydrogen oxidation"
+        ],
+        "journal_name": "Adv. Funct. Mater.",
+        "research_fields": [
+          "电催化",
+          "纳米催化剂",
+          "界面调控"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Dynamic surface reconstruction engineers interfacial water structure for efficient alkaline hydrogen oxidation",
+        "keywords": [
+          "dynamic surface reconstruction",
+          "interfacial water",
+          "alkaline hydrogen oxidation",
+          "electrocatalysis"
+        ],
+        "journal_name": "Chem. Sci.",
+        "research_fields": [
+          "电催化",
+          "表面重构",
+          "反应动力学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Constructing ordered oxophilic tin sites on platinum to achieve high-performance and anti-CO poisoning hydrogen oxidation reaction under alkaline electrolyte",
+        "keywords": [
+          "oxophilic tin sites",
+          "platinum",
+          "anti-CO poisoning",
+          "alkaline hydrogen oxidation"
+        ],
+        "journal_name": "ACS Catal.",
+        "research_fields": [
+          "电催化",
+          "抗中毒催化剂",
+          "铂基材料"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "An interstitial boron inserted metastable hexagonal Rh nanocrystal for efficient hydrogen oxidation electrocatalysis",
+        "keywords": [
+          "interstitial boron",
+          "metastable hexagonal Rh",
+          "hydrogen oxidation",
+          "electrocatalysis"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "电催化",
+          "金属纳米晶",
+          "掺杂效应"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Hydroxyl-binding induced hydrogen bond network connectivity on Ru-based catalysts for efficient alkaline hydrogen oxidation electrocatalysis",
+        "keywords": [
+          "hydroxyl-binding",
+          "hydrogen bond network",
+          "Ru-based catalysts",
+          "alkaline hydrogen oxidation"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "电催化",
+          "界面相互作用",
+          "反应机理"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Unveiling the structure and dissociation of interfacial water on RuO2 for efficient acidic oxygen evolution reaction",
+        "keywords": [
+          "interfacial water",
+          "RuO2",
+          "acidic oxygen evolution",
+          "water dissociation"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "电催化",
+          "界面水结构",
+          "氧析出反应"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Understanding alkaline hydrogen oxidation reaction on PdNiRuIrRh high-entropy-alloy by machine learning potential",
+        "keywords": [
+          "high-entropy alloy",
+          "machine learning",
+          "alkaline hydrogen oxidation",
+          "electrocatalysis"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "电催化",
+          "高熵合金",
+          "计算材料学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Stabilizing atomic Ru species in conjugated sp2 carbon-linked covalent organic framework for acidic water oxidation",
+        "keywords": [
+          "atomic Ru",
+          "covalent organic framework",
+          "acidic water oxidation",
+          "sp2 carbon"
+        ],
+        "journal_name": "Nat. Commun.",
+        "research_fields": [
+          "电催化",
+          "原子级催化剂",
+          "共价有机框架"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "A highly-efficient boron interstitially inserted Ru anode catalyst for anion exchange membrane fuel cells",
+        "keywords": [
+          "boron interstitial",
+          "Ru anode",
+          "anion exchange membrane",
+          "fuel cells"
+        ],
+        "journal_name": "Adv. Mater.",
+        "research_fields": [
+          "燃料电池",
+          "电催化剂",
+          "材料设计"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Unveiling the electrolyte cations dependent kinetics on CoOOH-catalyzed oxygen evolution reaction",
+        "keywords": [
+          "electrolyte cations",
+          "CoOOH",
+          "oxygen evolution",
+          "kinetics"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "电催化",
+          "电解质效应",
+          "反应动力学"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院",
+        "url": "http://jszy.whu.edu.cn/luowei1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 罗威\n页面链接: http://jszy.whu.edu.cn/luowei1/zh_CN/index.htm\n==================================================\n武汉大学 罗威--中文主页--首页\nEnglish\n中文\n罗威\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n出生日期：1981-10-25\n电子邮箱：\n入职时间：2012-03-01\n学历：研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n所属院系：\n化学与分子科学学院\n学科：\n个人简介\n教育与研究经历\n2003.9-2008.7, 武汉大学化学与分子科学学院无机化学专业, 理学博士, 主要从事多核金属配合物, 金属冠醚的合成, 组装和性质研究, 导师是季振平教授和程功臻教授\n2009.7-2010.8, 新加坡南洋理工大学化学系, 博士后, 主要从事金属磷化学相关的研究, 导师是中国科学院外籍院士Prof. Francois Mathey\n2010.9-2012, 美国俄勒冈大学化学系, 博士后, 主要从事含硼氮杂环化合物的储氢研究, 导师是Prof. Shih-Yuan Liu\n2012.3-2015.11, 武汉大学化学与分子科学学院 副教授\n2015.11 武汉大学化学与分子科学学院 教授（破格晋升）\n2016.2-2017.2, 美国加州大学河滨分校，访问学者，导师是殷亚东教授\n研究领域与兴趣\n储氢材料、燃料电池、电解水制氢\n2012年回国独立工作以来，以通讯作者身份在Nat. Commun., JACS, Angew. Chem. Int. Ed., CCSChem., Adv. Mater., CHEM等杂志发表论文120余篇，20余篇论文入选ESI高被引和ESI热点论文。入选国家级青年人才计划，湖北省人才计划，湖北省杰出青年基金。\n热烈欢迎校内外具有化学和材料背景的本科生、研究生和博士后加入本研究小组!\n1. Juan Zhu, Xingye Sun, Ningdong Feng, Bingbing Zhao, Ming Qiu*, Jun Xu, Wei Luo*. Boosting acidic oxygen evolution electrocatalysis by engineering the interfacial water at the electrified RuO2-electrolyte interface. J. Am. Chem. Soc., 2025, ASAP.\n2. Chaoyi Yang, Zihao Dai, Jianchao Yue, Wei Luo*. Interfacial engineering of Ru-RuSb2 for enhanced activity and stability towards alkaline hydrogen oxidation reaction. Chem. Sci., 2025, 16, 14742-14749.\n3. Yana Men, Xiaomei Men, Peng Li, Lei Li, Xiaoyan Wang, Xiaozhi Su*, Leijie Zhang, Shengli Chen*, Wei Luo*. Cation-driven modulation of interfacial solvation structures for enhanced alkaline hydrogen oxidation kinetics. J. Am. Chem. Soc., 2025, 147, 21672-21685.\n4. Jianchao Yue, Chaoyi Yang, Yu Zhang, Qianqian Xiong, Wei Luo*. Interstitial nitrogen modified Rh nanocrystal for efficient and CO-resistant alkaline hydrogen oxidation electrocatalysis. Chem. Sci., 2025, 16, 12096-12103.\n5. Liqing Wu, Wenxia Huang, Dongyang Li, Bingbing Zhao, Haiqing Zhou, Wei Luo*. Role of interfacial water in improving the activity and stability of lattice-oxygen-mediated acidic oxygen evolution on RuO2. Angew. Chem. Int. Ed., 2025, 64, e202420848.\n6. Yiming Jin, Zixuan Han, Wei Luo*. MoN supported Pt nanocluster catalysts with regulated interfacial water structures for boosting alkaline hydrogen oxidation reaction. Adv. Funct. Mater., 2025, 35, 2501377.\n7. Chaoyi Yang, Zihao Dai, Jianchao Yue, Guangqin Wang, Wei Luo*. Dynamic surface reconstruction engineers interfacial water structure for efficient alkaline hydrogen oxidation. Chem. Sci., 2025, 16, 5266-5274.\n8. Chaoyi Yang, Guangqin Wang, Jianchao Yue, Zihao Dai, Wei Luo*. Constructing ordered oxophilic tin sites on platinum to achieve high-performance and anti-CO poisoning hydrogen oxidation reaction under alkaline electrolyte. ACS Catal., 2025, 15, 869-876.\n9. Pengyu Han, Liqing Wu, Yu Zhang, Jianchao Yue, Yiming Jin, Hongnan Jia, Wei Luo*. An interstitial boron inserted metastable hexagonal Rh nanocrystal for efficient hydrogen oxidation electrocatalysis. Angew. Chem. Int. Ed., 2025, 64, e202419320 (hot paper).\n10. Jianchao Yue, Yunbo Li, Chaoyi Yang, Wei Luo*. Hydroxyl-binding induced hydrogen bond network connectivity on Ru-based catalysts for efficient alkaline hydrogen oxidation electrocatalysis. Angew. Chem. Int. Ed., 2025, 64, e202415447.\n11. Liqing Wu, Wenxia Huang, Dongyang Li, Hongnan Jia, Bingbing Zhao, Juan Zhu, Haiqing Zhou, Wei Luo*. Unveiling the structure and dissociation of interfacial water on RuO2 for efficient acidic oxygen evolution reaction. Angew. Chem. Int. Ed., 2025, 64, e202413334.\n12. Yana Men, Yue Tan, Peng Li, Yaling Jiang, Lei Li, Xiaozhi Su, Xiaomei Men, Xueping Sun, Shengli Chen, Wei Luo*. Boosting alkaline hydrogen oxidation kinetics through interfacial environments induced surface migration of adsorbed hydroxyl. Angew. Chem. Int. Ed., 2024, 63, e202411341.\n13. Hongnan Jia, Na Yao, Zhichang Liao, Liqing Wu, Juan Zhu, Yunhao Lao, Wei Luo*. Understanding the role of spin state in cobalt oxyhydroxides for water oxidation. Angew. Chem. Int. Ed., 2024, 63, e202408005 (VIP).\n14. Yiming Jin, Xinran Fan, Wenjing Cheng, Yuheng Zhou, Li Xiao, Wei Luo*. The role of phosphorus on alkaline hydrogen oxidation electrocatalysis for ruthenium phosphides. Angew. Chem. Int. Ed., 2024, 63, e202406888 (hot paper).\n15. Hongnan Jia, Na Yao, Yiming Jin, Liqing Wu, Juan Zhu, Wei Luo*. Stabilizing atomic Ru species in conjugated sp2 carbon-linked covalent organic framework for acidic water oxidation. Nat. Commun., 2024, 15, 5419.\n16. Pengyu Han, Xinyi Yang, Liqing Wu, Hongnan Jia, Wei Luo*. Revealing the role of bridging oxygen in carbon shell coated Ni interface for enhanced alkaline hydrogen oxidation reaction. Chem. Sci., 2024, 15, 5633-5641.\n17. Chaoyi Yang, Jianchao Yue, Guangqin Wang, Wei Luo*. Activating and identifying the active site of RuS2 for alkaline hydrogen oxidation electrocatalysis. Angew. Chem. Int. Ed., 2024, 63, e202401453.\n18. Pengyu Han, Xinyi Yang, Liqing Wu, Hongnan Jia, Jingchao Chen, Wenwen Shi, Gongzhen Cheng, Wei Luo*. A highly-efficient boron interstitially inserted Ru anode catalyst for anion exchange membrane fuel cells. Adv. Mater., 2024, 36, 2304496.\n19. Hongnan Jia, Na Yao, Can Yu, Hengjiang Cong, Wei Luo*. Unveiling the electrolyte cations dependent kinetics on CoOOH-catalyzed oxygen evolution reaction. Angew. Chem. Int. Ed., 2023, 62, e202313886 (VIP).\n20. Chaoyi Yang, Yunbo Li, Jianchao Yue, Hengjiang Cong, Wei Luo*. Promoting water formation in sulphate-functionalized Ru for efficient hydrogen oxidation reaction under alkaline electrolyte. Chem. Sci., 2023, 14, 6289-6294.\n21. Lixin Su, Junxiang Chen, Fulin Yang, Peng Li, Yiming Jin, Wei Luo*, Shengli Chen*. Electric-double-layer origin of the kinetic pH effect of hydrogen electrocatalysis revealed by a universal hydroxide adsorption-dependent inflection-point behavior. J. Am. Chem. Soc., 2023, 145, 12051-12058.\n22. Yana Men, Dean Wu, Youcheng Hu, Lei Li, Peng Li, Shuangfeng Jia, Jianbo Wang, Gongzhen Cheng, Shengli Chen*, Wei Luo*. Understanding alkaline hydrogen oxidation reaction on PdNiRuIrRh high-entroy-alloy by machine learning potential. Angew. Chem. Int. Ed., 2023, 62, e202217976.\n23. Na Yao, Hongnan Jia, Juan Zhu, Zhaoping Shi, Hengjiang Cong, Junjie Ge, Wei Luo*. Atomically dispersed Ru oxide catalyst with lattice oxygen participation for efficient acidic water oxidation. Chem, 2023, 9, 1882-1896. (highlighted by Yunling Jiang, Yao Zheng, Shizhang Qiao*, An effective strategy to boost lattice-oxygen-mediated acidic oxygen evolution, Chem, 2023, 9, 1628-1629; and Chun Hu, Xiaoqing Huang*, An effective route to enhance Ru-based acidic water oxidation electrocatalyst, Matter, 2023, 6, 2099-2105)\n24. Liqing Wu, Lixin Su, Qing Liang, Wei Zhang*, Yana Men, Wei Luo*. Boosting hydrogen oxidation kinetics by promoting interfacial water adsorption on d-p hybridized Ru catalysts. ACS Catal., 2023, 13, 4127-4133.\n25. Yunbo Li, Chaoyi Yang, Jianchao Yue, Hengjiang Cong, Wei Luo*. Polymorphism-interface-induced work function regulating on Ru nanocatalyst for enhanced alkaline hydrogen oxidation reaction. Adv. Funct. Mater., 2023, 33, 2211586.\n26. Lixin Su, Yiming Jin, Dan Gong, Xin Ge, Wei Zhang*, Xinran Fan, Wei Luo*. The role of discrepant reactive intermediates on Ru-Ru2P heterostructure for pH-universal hydrogen oxidation reaction. Angew. Chem. Int. Ed., 2023, 62, e202215585.\n27. Yana Men, Xiaozhi Su, Peng Li, Yue Tan, Chuangxin Ge, Shuangfeng Jia, Lei Li, Jianbo Wang, Gongzhen Cheng, Lin Zhuang, Shengli Chen*, Wei Luo*. Oxygen-inserted top-surface layers of Ni for boosting alkaline hydrogen oxidation electrocatalysis. J. Am. Chem. Soc., 2022, 144, 12661-12672 (ESI).\n28. Na Yao, Gongwei Wang, Hongnan Jia, Jinlong Yin, Hengjiang Cong, Shengli Chen, Wei Luo*. Intermolecular energy gap-induced formation of high-valent cobalt species in CoOOH surface layer on cobalt sulfides for efficient water oxidation. Angew. Chem. Int. Ed., 2022, 61, e202117178 (ESI).\n29. Lixin Su, Yuanmeng Zhao, Yiming Jin, Zeyu Liu, Hansong Cui, Wei Luo*. Identifying the role of hydroxyle binding energy in a non-monotonous behavior of Pd-Pd4S for hydrogen oxidation reaction. Adv. Funct. Mater., 2022, 32, 2113047.\n30. Lixin Su, Dan Gong, Na Yao, Yunbo Li, Zhen Li, Wei Luo*. Modification of the intermediate binding energies on Ni/Ni3N heterostructure for enhanced alkaline hydrogen oxidation reaction. Adv. Funct. Mater., 2021, 31, 2106156.\n31. Yuanmeng Zhao, Fulin Yang, Wei Zhang, Qihao Li, Xuewei Wang, Lixin Su, Xuemei Hu, Yan Wang, Zizhun Wang, Lin Zhuang, Shengli Chen, Wei Luo*. High-performance Ru2P anodic catalyst for alkaline polymer electrolyte fuel cells. CCS Chem., 2021, 3, 1823-1835.\n32. Yuanmeng Zhao, Hengjiang Cong, Peng Li, Dean Wu, Shengli Chen, Wei Luo*. Hexagonal RuSe2 nanosheets for highly efficient hydrogen evolution electrocatalysis. Angew. Chem. Int. Ed., 2021, 60, 7013-7017 (VIP, ESI).\n33. Fulin Yang, Pengyu Han, Na Yao, Gongzhen Cheng, Shengli Chen, Wei Luo*. Inter-regulated d-band centers of the Ni3B/Ni heterostructure for boosting hydrogen electrooxidation in alkaline media. Chem. Sci., 2020, 11, 12118-12123.\n34. Yuanmeng Zhao, Xuewei Wang, Gongzhen Cheng, Wei Luo*. Phosphorus-induced activation of ruthenium for boosting hydrogen oxidation and evolution electrocatalysis. ACS Catal., 2020, 10, 11751-11757.\n35. Luhong Fu, Fulin Yang, Youcheng Hu, Yunbo Li, Shengli Chen, Wei Luo*. Discrepant roles of adsorbed OH* species on IrWOx for boosting alkaline hydrogen electrocatalysis. Sci. Bull., 2020, 65, 1735-1742.\n36. Luhong Fu, Yubo Li, Na Yao, Fulin Yang, Gongzhen Cheng, Wei Luo*. IrMo Nanocatalysts for efficient alkaline hydrogen electrocatalysis. ACS Catal., 2020, 10, 7322-7327.\n37. Na Yao, Peng Li, Zirui Zhou, Yuanmeng Zhao, Gongzhen Cheng, Shengli Chen*, Wei Luo*. Synergistically tuning water and hydrogen binding abilities over Co4N by Cr doping for exceptional alkaline hydrogen evolution electrocatalysis. Adv. Energy Mater., 2019, 9, 1902449. (ESI, Front Cover)\n38. Fulin Yang, Xi Bao, Peng Li, Xuewei Wang, Gongzhen Cheng, Shengli Chen*, Wei Luo*. Boosting hydrogen oxidation activity of Ni in alkaline media through oxygen-vacancy-rich CeO2/Ni heterostructures. Angew. Chem. Int. Ed., 2019, 58, 14179-14183 (ESI).\n39. Teng Liu, Peng Li, Na Yao, Taige Kong, Gongzhen Cheng, Shengli Chen*, Wei Luo*. Self-sacrificial template-directed vapor-phase growth of MOF assemblies and surface vulcanization for efficient water splitting. Adv. Mater., 2019, 31, 1806672. (ESI hop paper)\n40. Yana Men, Peng Li, Juanhua Zhou, Gongzhen Cheng, Shengli Chen*, Wei Luo*. Tailoring the electronic structure of Co2P by N doping for boosting hydrogen evolution reaction at all pH values. ACS Catal., 2019, 9, 3744-3752 (ESI, hot paper).\n41. Teng Liu, Peng Li, Na Yao, Gongzhen Cheng, Shengli Chen,* Wei Luo*, Yadong Yin*. CoP-doped MOF-based electrocatalyst for pH-universal hydrogen evolution reaction. Angew. Chem. Int. Ed., 2019, 58, 4679-4684 (ESI, hot paper).\n42. Fulin Yang, Yuanmeng Zhao, Yeshuang Du, Yongting Chen, Gongzhen Cheng, Shengli Chen*, Wei Luo*. A monodisperse Rh2P-based electrocatalyst for highly efficient and pH-universal hydrogen evolution reaction. Adv. Energy Mater., 2018, 8, 1703489.\n43. Fulin Yang, Yongting Chen, Gongzhen Cheng, Shengli Chen,* Wei Luo.* Ultrathin nitrogen-doped carbon coated with CoP for efficient hydrogen evolution. ACS Catal., 2017, 7, 3824-3831 (ESI).\n44. Cheng Du, Lan Yang, Fulin Yang, Gongzhen Cheng, Wei Luo.* Nest-like NiCoP for highly efficient overall water splitting. ACS Catal., 2017, 7, 4131-4137 (ESI).\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

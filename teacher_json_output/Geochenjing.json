@@ -1,0 +1,202 @@
+{
+  "id": "Geochenjing",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/Geochenjing/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈静",
+    "english_name": "",
+    "title": [
+      "研究员",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程国家重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2001.9 -- 2004.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学（武汉测绘科技大学）",
+        "period": "1998.9 -- 2001.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "测量工程",
+        "school": "东华理工大学（华东地质学院）",
+        "period": "1994.9 -- 1998.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省优秀博士论文获得者（2005年）",
+      "国家科技进步二等奖",
+      "地理信息科技进步一等奖",
+      "测绘科技进步一等奖3项"
+    ],
+    "academic_services": [
+      "中国图象图形学学会可视化与可视分析专业委员会委员",
+      "中核三维地理信息工程技术研究中心技术委员会委员",
+      "International Journal of Geographical Information Science 审稿人",
+      "International Journal of Digital Earth 审稿人",
+      "Transactions on Spatial Algorithms and Systems 审稿人",
+      "IEEE MultiMedia 审稿人",
+      "《测绘学报》审稿人",
+      "《武汉大学学报信息科学版》审稿人",
+      "《国防科技大学学报》审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "生成式三维地理空间场景建模与可视化",
+      "基于神经辐射场（NeRF）的三维地理空间场景建模与可视化",
+      "基于3D高斯的地理空间场景建模与可视化",
+      "三维场景理解与分析",
+      "三维地理信息系统",
+      "虚拟GIS",
+      "移动GIS",
+      "三维虚拟地球技术"
+    ],
+    "research_interests": [
+      "AIGC-Geo3D",
+      "NeRF",
+      "3D高斯",
+      "点云变化检测",
+      "三维语义分割",
+      "三维实例分割",
+      "三维语义变化模型",
+      "三维实例变化模型",
+      "多维时空大数据分析",
+      "虚拟现实GIS",
+      "增强现实GIS",
+      "地理信息公共服务平台",
+      "智慧城市应用"
+    ],
+    "research_description": "主要从事生成式三维地理空间场景建模与可视化（AIGC-Geo3D）、基于神经辐射场（NeRF）和3D高斯的三维地理空间场景建模与可视化、三维场景理解与分析、基于AI的点云三维场景和对象变化检测方法、三维语义分割与实例分割、三维语义变化模型与实例变化模型等研究。在三维地理信息系统、虚拟GIS、移动GIS、三维虚拟地球技术、地理信息公共服务平台与智慧城市应用等方面有深入研究。主持国家自然科学基金项目、国家重点研发计划子课题等，参与国家“973”“863”计划，成果应用于“天地图”等重大工程。",
+    "disciplines": [
+      "地图学与地理信息系统",
+      "地图制图学与地理信息工程"
+    ],
+    "field_tags": [
+      "三维重建",
+      "神经辐射场",
+      "3D高斯",
+      "点云处理",
+      "场景变化检测",
+      "语义分割",
+      "实例分割",
+      "虚拟地球",
+      "地理信息系统",
+      "智慧城市",
+      "AIGC",
+      "时空大数据",
+      "可视化",
+      "GIS"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "基于神经辐射场的三维地理空间场景建模与可视化",
+        "keywords": [
+          "神经辐射场",
+          "三维地理空间",
+          "场景建模",
+          "可视化"
+        ],
+        "journal_name": "International Journal of Geographical Information Science",
+        "research_fields": [
+          "三维地理信息系统",
+          "AIGC-Geo3D",
+          "神经辐射场"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于3D高斯的地理空间场景建模方法研究",
+        "keywords": [
+          "3D高斯",
+          "地理空间建模",
+          "三维可视化",
+          "场景重建"
+        ],
+        "journal_name": "武汉大学学报(信息科学版)",
+        "research_fields": [
+          "三维地理信息系统",
+          "三维场景建模",
+          "点云处理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "基于AI的点云三维场景变化检测方法",
+        "keywords": [
+          "点云变化检测",
+          "AI",
+          "三维场景理解",
+          "变化模型"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "三维语义分割",
+          "三维实例分割",
+          "变化检测"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/Geochenjing/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年基金",
+      "国家自然科学基金面上项目",
+      "国家重点研发计划项目子课题",
+      "国家“973”计划",
+      "国家“863”计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "国家“973”计划",
+      "国家“863”计划"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈静\n页面链接: http://jszy.whu.edu.cn/Geochenjing/zh_CN/index.htm\n==================================================\n武汉大学 陈静--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n陈静，男，博士，研究员，博士生导师，湖北省优秀博士论文获得者（2005年）。主要从事生成式三维地理空间场景建模与可视化（AIGC-Geo3D），基于神经辐射场（NeRF）的三维地理空间场景（室内外）建模与可视化，基于3D高斯的地理空间场景建模与可视化，三维场景理解与分析。基于AI的点云三维场景和对象变化检测方法，场景变化模型，三维语义分割，三维实例分割，三维语义变化模型，三维实例变化模型等，三维地理信息系统，虚拟GIS，移动GIS，三维虚拟地球技术，地理信息公共服务平台与智慧城市应用等方面工作。主持国家自然科学基金青年基金和国家自然科学基金面上项目，国家重点研发计划项目子课题，参与国家“973”计划，国家“863”计划等项目研究工作。\n作为开放式虚拟地球集成共享平台GeoGlobe的核心研发人员之一，技术负责国内早期省级地理信息公共服务平台“黑龙江省地理信息公共服务平台”的研发与应用工作，并将GeoGlobe应用于“国家地理信息公共服务平台-天地图”等重大工程建设中。发表SCI/EI/CSCD论文30余篇，获得国家科技进步二等奖1项，地理信息科技进步一等奖1项，测绘科技进步一等奖3项。获得国家发明专利4项，软件著作权登记4项。\n现担任中国图象图形学学会可视化与可视分析专业委员会委员，中核三维地理信息工程技术研究中心技术委员会委员,International Journal of Geographical Information Science，International Journal of Digital Earth，Transactions on Spatial Algorithms and Systems，IEEE MultiMedia，《测绘学报》、《武汉大学学报信息科学版》，《国防科技大学学报》等期刊审稿人。\n教育经历\n2001.9 --\n2004.6\n武汉大学\n摄影测量与遥感\n研究生毕业\n博士学位\n测绘遥感信息工程国家重点实验室\n1998.9 --\n2001.6\n武汉大学（武汉测绘科技大学）\n摄影测量与遥感\n研究生毕业\n硕士学位\n测绘遥感信息工程国家重点实验室\n1994.9 --\n1998.6\n东华理工大学（华东地质学院）\n测量工程\n大学本科毕业\n学士\n工作经历\n2013.11 -- 至今\n武汉大学\n测绘遥感信息工程国家重点实验室\n研究员\n2006.11 -- 2013.10\n武汉大学\n测绘遥感信息工程国家重点实验室\n副教授\n2004.11 -- 2006.10\n武汉大学\n测绘遥感信息工程国家重点实验室\n讲师\n2004.7 -- 2004.10\n武汉大学\n测绘遥感信息工程国家重点实验室\n助教\n社会兼职\n[1]\n2022.11 -- .\n中核三维地理信息工程技术研究中心技术委员会委员\n[2]\n2021.4 -- .\n中国图象图形学学会可视化与可视分析专业委员会委员\n[3]\nInternational Journal of Geographical Information Science，Transactions in GIS，International Journal of Digital Earth，Transactions on Spatial Algorithms and Systems，IEEE MultiMedia，《测绘学报》、《武汉大学学报信息科学版》，《国防科技大学学报》和《测绘地理信息》等期刊审稿人\n研究方向\n[1]神经辐射场NeRF的三维重建与可视化方法\n[2]多维时空大数据分析方法\n[3]虚拟现实与增强现实GIS\n[4]三维虚拟地球技术\n[5]三维地理信息系统\n团队成员\n暂无内容\n陈静\n同专业博导\n同专业硕导\n研究员\n博士生导师\n硕士生导师\n性别： 男\n学历： 研究生毕业\n所在单位：测绘遥感信息工程全国重点实验室\n学科：\n地图学与地理信息系统\n地图制图学与地理信息工程\n办公地点： 武汉大学信息学部星湖科研大楼509A\n电子邮箱：\n邮编 : \n通讯/办公地址 : \n邮箱 : \n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "runwang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/runwang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "汪润",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "国家网络安全学院",
+    "college": "国家网络安全学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "信息安全",
+        "school": "武汉大学",
+        "period": "2018",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "信息安全相关领域",
+        "school": "新加坡南洋理工大学",
+        "period": "2019-2021",
+        "country": "新加坡"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "全国博士后创新人才支持计划",
+      "湖北省高层次青年人才计划",
+      "武汉市高层次青年人才计划"
+    ],
+    "academic_services": [
+      "IEEE TPAMI 程序委员会委员",
+      "TDSC 程序委员会委员",
+      "TIFS 程序委员会委员",
+      "NeurIPS 程序委员会委员",
+      "ICML 程序委员会委员",
+      "CVPR 程序委员会委员",
+      "ICCV 程序委员会委员",
+      "IEEE S&P 审稿人",
+      "Usenix Security 审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "生成式人工智能安全与隐私",
+      "软件与系统安全",
+      "可信人工智能"
+    ],
+    "research_interests": [
+      "生成式AI安全",
+      "隐私保护",
+      "算法安全性",
+      "代码安全",
+      "系统安全",
+      "可信AI"
+    ],
+    "research_description": "汪润副教授主要从事生成式人工智能安全与隐私、软件与系统安全等方向的研究，致力于可信人工智能与系统安全的理论与技术探索。研究成果发表于IEEE S&P、Usenix Security、NeurIPS、ICML、IJCV等国际顶级会议和期刊，主持和承担国家自然科学基金、国家重点研发计划、国防重大专项等科研项目。",
+    "disciplines": [
+      "网络安全",
+      "人工智能",
+      "计算机科学"
+    ],
+    "field_tags": [
+      "生成式人工智能",
+      "AI安全",
+      "隐私保护",
+      "软件安全",
+      "系统安全",
+      "可信AI",
+      "机器学习安全",
+      "网络安全"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "生成式人工智能安全与隐私相关研究",
+        "keywords": [
+          "生成式人工智能安全",
+          "隐私保护",
+          "可信人工智能",
+          "模型安全"
+        ],
+        "journal_name": "IEEE S&P, Usenix Security, NeurIPS, ICML, IJCV",
+        "research_fields": [
+          "生成式人工智能安全",
+          "软件与系统安全",
+          "可信人工智能"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "GitHub",
+        "url": "http://wangrun.github.io/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国防重大专项",
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "国防科技部门"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 汪润\n页面链接: http://jszy.whu.edu.cn/runwang/zh_CN/index.htm\n==================================================\n武汉大学 汪润--中文主页--首页\n汪润\n副教授\n博士生导师\n硕士生导师\n性别：男\n出生日期：1991-09-28\n学历：博士研究生毕业\n在职信息：在职\n所在单位：国家网络安全学院\n办公地点：新珈楼B532\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n汪润，武汉大学国家网络安全学院副教授，博士生导师。2018年在武汉大学获得信息安全专业博士学位，2019-2021年在新加坡南洋理工大学从事博士后研究工作，2021年加入武汉大学国家网络安全学院。入选全国博士后创新人才支持计划、湖北省高层次青年人才计划、武汉市高层次青年人才计划等。主要研究领域为生成式人工智能安全与隐私，软件与系统安全。主要研究成果先后发表在IEEE S&P、Usenix Security、NeurIPS、ICML、IJCV等国际顶级学术期刊和会议上，主持和承担国防重大专项、国家自然科学基金、国家重点研发计划等科研项目，担任IEEE TPAMI、TDSC、TIFS、NeurIPS、ICML、CVPR、ICCV等国际顶级学术会议程序委员会委员和审稿人。指导本科生和研究生获得第八届“互联网+”全国金奖、 第十九届“挑战杯”竞赛“揭榜挂帅”专项赛全国一等奖、第十五届、十六届中国大学生计算机设计大赛全国一等奖、第一届中国研究生网络安全创新大赛全国一等奖，第十六届全国大学生信息安全竞赛作品赛全国一等奖（最具创新创业价值奖）, 获得“互联网+”优秀创新创业导师、本科生全国信息安全大赛优秀指导教师、研究生网络安全创新大赛优秀指导教师等称号。详细信息参照课题组主页：http://wangrun.github.io/\n课题组常年招收博士/硕士/本科生，研究方向：可信人工智能（算法能力强者优先）、软件与系统安全（代码能力强者优先），要求对探索新事物有强烈的好奇心，具备较好的科研基础和参与科研的激情，有兴趣的请与我邮箱联系。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

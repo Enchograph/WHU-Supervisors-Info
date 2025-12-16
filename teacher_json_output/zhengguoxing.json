@@ -1,0 +1,220 @@
+{
+  "id": "zhengguoxing",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhengguoxing/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "郑国兴",
+    "english_name": "Zheng Guoxing",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电子信息学院",
+    "college": "电子信息学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "光学工程",
+        "school": "武汉大学",
+        "period": "研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "教育部技术发明一等奖",
+      "中国光学工程学会自然科学二等奖",
+      "测绘科技进步奖一等奖",
+      "测绘科技进步奖二等奖",
+      "爱思唯尔中国高被引学者",
+      "斯坦福全球前2%顶尖科学家榜单",
+      "湖北省优秀科技论文",
+      "ESI高被引论文",
+      "热点论文"
+    ],
+    "academic_services": [
+      "中国光学学会光学教育专业委员会常务委员",
+      "中国电子学会高校电子信息学科建设专家委员会常务委员",
+      "中国通信学会光通信委员会委员",
+      "湖北省光学学会常务理事",
+      "《光电工程》等6个中英文期刊编委/副编辑",
+      "IEEE Senior Member",
+      "OPTICA Senior Member"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "光学超表面",
+      "超构透镜",
+      "计算全息术",
+      "衍射光学",
+      "激光光束整形",
+      "光学设计",
+      "微纳光学"
+    ],
+    "research_interests": [
+      "超表面器件",
+      "全息显示",
+      "纳米印刷",
+      "光场调控",
+      "偏振成像",
+      "结构色",
+      "智能光学系统",
+      "光通信",
+      "3D重建",
+      "信息安全加密"
+    ],
+    "research_description": "郑国兴教授主要从事光学超(构)表面、器件与系统集成研究，聚焦于微纳光学、超表面、超构透镜、计算全息术等基础研究，以及衍射光学、激光光束整形、光学设计等高新技术方向。其研究涵盖多功能超表面设计、全息与纳米印刷融合、动态光场调控、智能光学识别、光纤模式复用、偏振与波长复用加密、3D成像与实时重构等前沿领域，成果广泛应用于信息安全、光通信、增强现实、智能传感和高精度光学系统中。",
+    "disciplines": [
+      "光学工程",
+      "电子科学与技术",
+      "信息与通信工程",
+      "材料科学与工程"
+    ],
+    "field_tags": [
+      "超表面",
+      "金属镜",
+      "计算全息",
+      "衍射光学",
+      "光通信",
+      "信息安全",
+      "3D成像",
+      "纳米印刷",
+      "智能光学",
+      "微纳光子学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 130,
+    "representative_publications": [
+      {
+        "title": "Metasurface holograms reaching 80% efficiency",
+        "keywords": [
+          "超表面",
+          "全息术",
+          "效率",
+          "纳米结构"
+        ],
+        "journal_name": "Nature Nanotechnology",
+        "research_fields": [
+          "微纳光学",
+          "超构表面",
+          "光学设计"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "High-power laser diode array beam-shaping by rhomboid prism arrays",
+        "keywords": [
+          "激光二极管阵列",
+          "光束整形",
+          "棱镜阵列"
+        ],
+        "journal_name": "JOURNAL OF OPTICS A-PURE AND APPLIED OPTICS",
+        "research_fields": [
+          "激光光束整形",
+          "光学设计",
+          "衍射光学"
+        ],
+        "publication_year": 2008
+      },
+      {
+        "title": "Focusing microwaves into subwavelength dimensions with a half-cylindrical hyperlens based on split ring resonators",
+        "keywords": [
+          "超透镜",
+          "微波聚焦",
+          "分裂环谐振器"
+        ],
+        "journal_name": "CHINESE OPTICS LETTERS",
+        "research_fields": [
+          "超构材料",
+          "微波光学",
+          "电磁调控"
+        ],
+        "publication_year": 2014
+      },
+      {
+        "title": "Focusing a beam beyond the diffraction limit using a hyperlens-based device",
+        "keywords": [
+          "衍射极限",
+          "超透镜",
+          "光聚焦"
+        ],
+        "journal_name": "CHINESE PHYSICS B",
+        "research_fields": [
+          "超构材料",
+          "光学成像",
+          "电磁波调控"
+        ],
+        "publication_year": 2011
+      },
+      {
+        "title": "Helicity multiplexed broadband metasurface holograms",
+        "keywords": [
+          "手性复用",
+          "宽带全息",
+          "超表面"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "超构表面",
+          "计算全息术",
+          "光学加密"
+        ],
+        "publication_year": 2015
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=Guoxing_Zheng"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Guoxing-Zheng"
+      },
+      {
+        "platform": "科研之友",
+        "url": "http://www.scholarmate.com/P/zhengguoxing"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "973项目",
+      "湖北省杰出青年基金",
+      "湖北省科技创新战略团队"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "湖北省科技厅"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 郑国兴\n页面链接: http://jszy.whu.edu.cn/zhengguoxing/zh_CN/index.htm\n==================================================\n武汉大学 郑国兴--中文主页--科学研究(Research)\n教师个人主页\n科学研究(Research)\n教师简介 & 研究领域 (PI CV & Research interest)\n论文列表(Selected Publications)\n科研团队(Team)\n科研项目(Projects)\n专利(Patents)\ntest\n信息发布(Info & News)\n研究生(Students)\n教师简介(PI CV)\n实验室荣誉(Honor)\n实验室活动(Activities)\n教学情况(Teaching)\n教学资源\n授课信息\n教学成果\nEnglish\n郑国兴\n个人信息\n教师拼音名称：Zheng Guoxing\n电子邮箱：\n所在单位：电子信息学院\n学历：研究生毕业\n办公地点：电子信息学院\n性别：男\n联系方式：QQ：397217811(联系请报姓名和事宜)\n职称：教授\n在职信息：在职\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n当前位置:\n中文主页\n>>\n科学研究(Research)\n教师简介 & 研究领域 (PI CV & Research interest)\n郑国兴，男，工学博士，现任武汉大学电子信息学院院长，教育部重大人才工程特聘教授，主要从事光学超(构)表面、器件与系统集成研究。发表期刊论文130余篇，最高单引>3k，连续入选\"爱思唯尔中国高被引学者\"及\"斯坦福全球前2%顶尖科学家榜单\"，授权国家发明专利150余件。主持科研项目30余项，包括5项国家自然科学基金项目，两任国家重点研发计划项目负责人，173项目负责人，湖北省杰青，湖北省科技创新战略团队带头人等。研究成果获教育部技术发明一等奖、中国光学工程学会自然科学二等奖、测绘科技进步奖一等奖、二等奖等。主要学术/学会任职有：中国光学学会光学教育专业委员会常务委员、中国电子学会高校电子信息学科建设专家委员会常务委员、中国通信学会光通信委员会委员、湖北省光学学会常务理事、《光电工程》等6个中英文期刊编委/副编辑、IEEE、OPTICA等学术组织senior member等。\n研究领域(Research interest)：\n■ 基础研究(Fundamental research)：微纳光学(Micro-nano Optics)、超表面(Metasurfaces)、超构透镜(Metalens)、计算全息术(Computer Generated Holography)■ 高新技术(High technology)：衍射光学(Diffractive Optics)、激光光束整形(Laser Beam Shaping)、光学设计(Optical Design)\n社交账号：\n科研之友：http://www.scholarmate.com/P/zhengguoxing\nUsername for Google Scholar and Researchgate: Guoxing Zheng\n论文列表(Selected Publications)\n2025年：\n1. Jiahao Wang, Wen Chen, Dongyu Hu, Yingxin Xie, Zile Li*, Peng Chen*, Guoxing Zheng*,  Metamerism Recognition Using a Hybrid Operation Optical Differentiator with Dispersion Assistance, Electromagnetic Science, (2025).☛Link\n2. Zhengren Zhang*, Mengran Yang, Anjun Qu, Zile Li*, Shaohua Yu, Guoxing Zheng*, Metasurface-Driven Adaptive Structured Light: Achieving Integrated Real-Time 3D Reconstruction and Forward Ranging in Multi-Scene, Advanced Science, 12(39), e07339 (2025).☛Link\n3. Yu Zhao, Huijiao Wang, Tian Huang, Zile Li, Jing Chen, Lei Yu*, Guoxing Zheng*, Tripolarization and multimode holography via a neural metasurface for high-capacity security encryption, Intelligent Opto-Electronics, 1, 250001 (2025).☛Link (cover)\n4. Yu Zhao, Huijiao Wang, Zile Li, Tian Huang, Chao Yang, Ying Qiu, Yuhan Gong, Zhou Zhou, Congling Liang, Lei Yu*, Jin Tao*, Shaohua Yu, Guoxing Zheng*，A Neuro Metasurface Mode-Router for Fiber Mode Demultiplexing and Communications, Engineering,  45, 88-96 (2025). ☛Link\n5. Qingsong Yao, Yiming Ma, Chenfei Ma, Haonan Zhang, Tian Huang, Guoxing Zheng*, Shaohua Yu, Zile Li*，Flat Optical Rotator Enabled by Conformal Mapping, Laser & Photonics Reviews, (2025). ☛Link\n6. Tian Huang, Yingxin Xie, Nana Chen, Haonan Zhang, Zhou Zhou, Chen Chen, Guoxing Zheng*, Shaohua Yu, Zile Li*，Snapshot Chiral Spectro-Polarimetric Imaging via a Microcavity-Metalens-Integrated Chip, Advanced Optical Materials,  13(33), e00864 (2025). ☛Link (back cover)\n7. Dongyu Hu, Zhiyao Zhang, Zefang Xie, Xuan Chen, Chen Lin, Qianqian Yu, Gongfa Li, Zile Li, Shunping Zhang, and Guoxing Zheng*, Liquid crystal-based image holography with broadband response and polarization insensitivity,  Optics Letters,  5(2), 407-410 (2025). ☛Link\n8. Zejing Wang, Zhe Li, Chengwei Wan, Shuai Wan, Chenjie Dai, Guoxing Zheng, Zhongyang Li*, Gesture-Interactive Dynamic Holo-Display via Topography Flexible Metasurfaces,   ACS Nano,  19(1), 1286–1294 (2025). ☛ Link\n9. Xuan Zhang, Jiahao Xiong, Ai Fu, Guoxing Zheng, Zile Li*, Hong-Chao Liu*, Metasurface-based single-pixel recognition through scattering media,   Applied Physics Letters,  126(4), 041101 (2025). ☛ Link\n10. Yu Zhao, Huijiao Wang, Tian Huang, Zile Li*,Lei Yu*, Guoxing Zheng, Metasurface-enabled intelligent recognition and visualization for fiber modes, Chinese Optics Letters, 23(11), (2025). ☛ Link\n11.  Haonan Zhang, Zhiwei Huang, Yiming Ma, Chen Lin, Yan Tong, Guoxing Zheng, and Zile Li*, Aberration-corrected beam scanning system based on cascaded metalens arrays [Invited], Optical Material Express, 15(11), 2759-2769 (2025). ☛ Link\n12. Shouqi Zhang, Yongquan Zeng, Xing Hong, Wen Zhao, Yifan Li, Wei Guo, Yiying Liu, Zihang Cui, Liangui Deng, Zhiqiang Guan, Guoxing Zheng, Jin Tao, Guozhen Liang, Shaohua Yu, Qi Jie Wang, C. T. Chan and Cuicui Lu, Topological nanorainbow laser, Science Advances, 11, eady6039 (2025). ☛ Link\n13.  陈娜娜，黄天，黄志伟，陈晶，李子乐，郑国兴*，基于双结构超表面的三波长全息显示与加密（特邀），激光与光电子学进展, 2025, 62(17): 1739019.☛ Link\n2024年：\n1. Tie Jun Cui, Shuang Zhang, Andrea Alu, ..., Guoxing Zheng, ..., Roadmap on electromagnetic metamaterials and metasurfaces,  JPhys Photonics,  6, 032502 (2024). ☛Link\n2. 黄天，张浩楠，赵雨，李子乐*，郑国兴，余少华，基于超构表面的偏振成像器件研究进展，中国激光, 51(17), 1700004 (2024). ☛Link\n3. Zhou Zhou, Yiheng Zhang, Yingxin Xie, Tian Huang, Zile Li*, Peng Chen*, Yan-qing Lu, Shaohua Yu, Shuang Zhang & Guoxing Zheng*, Electrically tunable planar liquid-crystal singlets for simultaneous spectrometry and imaging, Light: Science & Applications, 13, 242 (2024).☛Link, 媒体介绍：Link\n4. Chang Peng, Tian Huang, Chen Chen, Hongchao Liu, Xiao Liang, Zile Li*, Shaohua Yu*, and Guoxing Zheng*, Switchable Two-Dimensional AND and Exclusive OR Operation Based on Dual-Wavelength Metasurfaces,  ACS Nano,  18(5)，4424-4431 (2024). ☛Link (《Advances in Engineering》的报道：Link)\n5. Congling Liang, Tian Huang, Qi Dai*, Zile Li*, Shaohua Yu*, A Single-Sized Metasurface for Image Steganography and Multi-Key Information Encryption, Engineering,  41, 61-70 (2024). ☛Link\n6. Xiao Liang, Dong Zhu, Qi Dai, Yingxin Xie, Zhou Zhou, Chang Peng, Zile Li*, Peng Chen*,  Yan-Qing Lu, Shaohua Yu, Guoxing Zheng*, All-Optical Multi-Order Multiplexing Differentiation Based on Dynamic Liquid Crystals, Laser & Photonics Reviews,  18(9), 240032 (2024). ☛Link\n7. Zhengren Zhang*, Anjun Qu, Mengran Yang, Zile Li*, Tian Huang, Shuqi Chen, Hua Cheng, Shaohua Yu, Guoxing Zheng*, Super-Large Field-of-View, High-Accurate and Real-Time 3D Scene Reconstruction Based on Metasurface-Enabled Structured Light, Laser & Photonics Reviews,  19(5) 2401120 (2024). ☛Link\n8 Tian Huang, Yingxin Xie, Zhiyao Zhang, Yu Zhao, Dongyu Hu, Shaohua Yu, Guoxing Zheng, Gongfa Li, Zile Li*, Wavelength Decoupling Based on Minimalist Metasurfaces Enabling Bicolor Display and Information Encryption, Laser & Photonics Reviews,  19(6) 2401599 (2024). ☛Link\n9. Ke Xu, Yuncheng Liu, Xuhao Fan, Xinger Wang, Xuan Yu, Zhilin Teng, Guoxing Zheng, Wei Xiong*, Hui Gao*, Simultaneous Dynamic Display of Meta-Hologram and Meta-Nanoprinting with High Frame Rates, Laser & Photonics Reviews,  19(6) 2400815 (2024). ☛Link (cover)\n10. Congling Liang, Qi Dai, Tian Huang, Hong-Chao Liu, Zhiqiang Guan, Rao Fu, Jin Tao, Zile Li*, Shaohua Yu, Guoxing Zheng*, Single-celled metasurface for labeled vortex beam generator, Journal of Materiomics, 10(4), 811-818 (2024). ☛Link\n11. Congling Liang, Jiahao Wang, Tian Huang, Qi Dai, Zile Li, Shaohua Yu, Gongfa Li and Guoxing Zheng*, Structural-color meta-nanoprinting embedding multi-domain spatial light field information, Nanophotonics, 13(9), 1665-1675  (2024). ☛Link（中文介绍☛Link)\n12. Yu Zhao, Huijiao Wang, Tian Huang, Zhiqiang Guan, Zile Li, Lei Yu*, Shaohua Yu and Guoxing Zheng*，Neural network-assisted meta-router for fiber mode and polarization demultiplexing, Nanophotonics,  13(22), 4181- 4189 (2024). ☛Link\n13. Mian Wu, Chao Yang, Yuhan Gong , Lin Wu, Ming Luo , Ying Qiu, Yongquan Zeng , Zile Li, Zichen Liu, Chao Li, Hanbing Li, Xi Xiao , Zhixue He, Guoxing Zheng, Shaohua Yu* and Jin Tao*, Bidirectional high-speed optical wireless communication with tunable large field of view assisted by liquid crystal metadevice, Nanophotonics, 13(23), 4347-4356 (2024). ☛Link\n14. Tian Huang, Congling Liang, Yu Zhao, Zile Li, Guoxing Zheng*, Qi Dai*, Dielectric topological metasurfaces based in-plane control of light propagation by using valley degrees of freedom, Optics and Lasers in Engineering, 178, 108243  (2024). ☛Link\n15. Yingxin Xie, Tian Huang, Zhiwei Huang, Yongquan Zeng, Zile Li, and Guoxing Zheng*，Experimental retrieval of metaholographic images via evanescent wave using a single-layer nanostructure for encryption, Optics Letters,  49(24), 7056-7059 (2024). ☛Link\n16. Congling Liang, Tian Huang, Zile Li, Zhiqiang Guan*, Gongfa Li, Shunping Zhang, and Guoxing Zheng*, Minimalist design of multifunctional metasurfaces for helicity multiplexed holography and nanoprinting, Optics Express, 32(15), 26359-26373 (2024). ☛Link\n17. Jiahao Wang, Zile Li, Zhiqiang Guan*, Shunping Zhang, Gongfa Li, Guoxing Zheng*, Upper limit on the polarization-assisted amplitude modulation capability of cascaded single-cell wave-plate-like metasurfaces, Optics Express, 32(16), 28611-28621 (2024). ☛Link\n18. Zihui Lin, Tian Huang, Zhiyao Zhang, Nana Chen, Zile Li, Zhiqiang Guan, Shunping Zhang, Gongfa Li, Guoxing Zheng, and Qi Dai*, Tri-channel metasurface fusion of continuously varying gray levels for nanoprinting and holographic displays, Optics Express, 32(21), 36976-36985 (2024). ☛Link\n2023年：\n1. Xiao Liang, Zhou Zhou, Zile Li*, Jiaxin Li, Chang Peng, Hao Cui, Kai Wei, Zhixue He, Shaohua Yu*, Guoxing Zheng*, All-Optical Multiplexed Meta-Differentiator for Tri-Mode Surface Morphology Observation, Advanced Materials, 35(29), 202301505, (2023). ☛Link  (入选湖北省优秀科技论文2023）\n2. Jiahao Xiong, Zhi-Hong Zhang, Zile Li, Peixia Zheng, Jiaxin Li, Xuan Zhang, Zihan Gao, Zhipeng Wei, Guoxing Zheng*, Shuang-Peng Wang* & Hong-Chao Liu*,  Perovskite single-pixel detector for dual-color metasurface imaging recognition in complex environment, Light: Science & Applications, 12, 286 (2023).☛Link (Featured & top dowloaded paper）\n3. Jiahao Wang, Guodong Zhu, Weiguo Zhang*, Zhou Zhou, Zile Li, Guoxing Zheng*, Cascaded metasurface for separated information encryption [Invited], Chinese Optics Letters, 21(2), 020003, (2023). ☛Link\n4. Kuixian Chen, Zile Li, Zhiqiang Guan, Jiaxin Li, Qi Dai, Rao Fu, Liangui Deng, Hao Cui*, and Guoxing Zheng*, Phase-assisted Bessel-metasurface: a single-sized approach for simultaneous printing and holography, Optics Express, 31(6), 9543-9553 (2023). ☛Link\n5. Liangui Deng, Zile Li*, Zhiqiang Guan, Jin Tao, Gongfa Li, Xiaoli Zhu, Qi Dai, Rao Fu, Zhou Zhou, Yan Yang*, Shaohua Yu, Guoxing Zheng*, Full Complex-Amplitude Engineering by Orientation-Assisted Bilayer Metasurfaces, Advanced Optical Materials, 11(9), 2203095, (2023). ☛Link\n6. Jin Tao, Quan You, Zile Li, Liangui Deng, Mian Wu, Ming Luo, Lin Wu, Rao Fu, Zichen Liu, Chao Yang, Chao Li, Zhixue He, Xi Xiao,* Guoxing Zheng* and Shaohua Yu*, Beam-steering meta-devices for intelligent optical wireless-broadcasting communications, Advanced Photonics Research, 4(9), 2300127, (2023) ☛Link\n7. Xianjing Huang, Dong Zhu, Zhou Zhou, Kuixian Chen, Guoxing Zheng, Peng Chen*, Yan-Qing Lu and Zile Li*, Tiger Amulet inspired high-security holographic encryption via liquid crystals, Nanophotonics, 12(9), 1787-1795 (2023). ☛Link\n8. Jin Tao , Quan You , Chao Yang , Zile Li*, Liangui Deng , Mian Wu , Ming Luo , Lin Wu , Chao Li , Zichen Liu , Zhixue He , Xi Xiao* , Guoxing Zheng and Shaohua Yu, Beam-steering Metasurfaces Assisted Coherent Optical Wireless Multichannel Communication System, Nanophotonics, 12(17), 3511-3518 (2023) ☛Link (入选湖北省优秀科技论文2023)\n9. Shuai Wan, Chenjie Dai, Zhe Li, Liangui Deng, Yangyang Shi, Wanlin Hu, Guoxing Zheng, Shuang Zhang*, Zhongyang Li*, Toward Water-Immersion Programmable Meta-Display, Advanced Science, 10(5),  (2023) ☛Link\n10. 周宇翀,  丁玮珺,  李子乐,  刘宏超,  付娆,  戴琦*,  郑国兴*, 融合空频复用和近远场复用的多功能超表面图像显示, 光电工程, 50(8), 230153, (2023) ☛Link\n11. Yichen Zeng, Song Han, Guoxing Zheng, Zhongyang Li, and Yongquan Zeng*, In-plane emission manipulation of random optical modes by using a zero-index material, Optics Express, 31(16), 26565-26576 (2023). ☛Link (编辑精选editors' pick)\n2022年：\n1. Jin Tao, Quan You, Zile Li, Ming Luo, Zichen Liu, Ying Qiu, Yan Yang, Yongquan Zeng, Zhixue He, Xi Xiao*, Guoxing Zheng*, Shaohua Yu*, Mass-manufactured beam-steering metasurfaces for high-speed full-duplex optical wireless broadcasting communications, Advanced Materials, 34(6), 2106080, (2022). ☛Link (入选湖北省优秀科技论文（2021-2023）& 湖北省实验室亮点成果（2023年）& ESI高被引论文，中文媒体介绍：中国光学☛Link，光电科技情报网☛Link，中国照明网☛Link)\n2. Rao Fu, Kuixian Chen, Zile Li, Shaohua Yu*, Guoxing Zheng*, Metasurface-based nanoprinting: principle, design and advances. Opto-Electronic Science, 1(10), 220011 (2022).(封面论文Cover) ☛Link (中文媒体介绍：光电期刊☛Link, EurekAlert!☛Link, AlphaGalileo☛Link, Phys.org☛Link, newsbreak☛Link, zhihu☛Link, pubcard☛Link,  twitter: ☛Link)\n3. Kuixian Chen, Chunting Xu, Zhou Zhou, Zile Li*, Peng Chen*, Guoxing Zheng*, Wei Hu & Yanqing Lu, Multifunctional Liquid Crystal Device for Grayscale Pattern Display and Holography with Tunable Spectral-Response, Laser & Photonics Reviews, 16(3), 2100591, (2022). ☛Link (中文媒体介绍：两江科技评论☛Link，ASNChina☛Link)\n4. Kuixian Chen, Zhiqiang Guan, Zile Li, Yan Yang, Zhixue He, Shaohua Yu*, Guoxing Zheng*, Computer-Generated Holographic Nanoprinting, Laser & Photonics Reviews, 17(1), 2200448, (2022). ☛Link (中文媒体介绍：ASNChina☛Link，搜狐☛Link)\n5. Jiaxin Li, Zhiqiang Guan, Hong-Chao Liu, Zhixue He, Zile Li*, Shaohua Yu*, Guoxing Zheng*, Metasurface-Assisted Indirect-Observation Cryptographic System, Laser & Photonics Reviews, 17(1), 202200342, (2022).  ☛Link (中文媒体介绍：ASNChina☛Link)\n6. Liangui Deng, Zile Li, Zhou Zhou, Zhixue He, Yongquan Zeng, Guoxing Zheng* and Shaohua Yu*, Bilayer-Metasurface Design, Fabrication, and Functionalization for Full-Space Light Manipulation, Advanced Optical Materials, 10(7), 2102179, (2022). ☛Link\n7. Peixia Zheng, Jiaxin Li, Zile Li, Mingzheng Ge, Shuang Zhang*, Guoxing Zheng*, Hong-Chao Liu*, Compressive Imaging Encryption with Secret Sharing Metasurfaces, Advanced Optical Materials, 10(15), 2200257, (2022). ☛Link  (中文媒体介绍：ASNChina☛Link)\n8. Zhou Zhou, Yiqun Wang, Chen Chen, Rao Fu, Zhiqiang Guan, Zile Li*, Guoxing Zheng and Shaohua Yu, Multifold Integration of Printed and Holographic Meta-Image Displays Enabled by Dual-Degeneracy, Small, 18(13), 2106148 (2022). ☛Link\n9. Shiyi Luan, Fei Peng, Guoxing Zheng*, Chengqun Gui*, Yi Song*, Sheng Liu. High-speed, large-area and high-precision fabrication of aspheric micro-lens array based on 12-bit direct laser writing lithography, Light: Advanced Manufacturing, 3, 47(2022). ☛Link  (中文媒体介绍：中国光学☛Link)\n10. Qi Dai, Guodong Zhu, Weiguo Zhang*, Jiaxin Li, Zile Li, Hao Cui, Kai Wei, Zhixue He, Zhiqiang Guan, and Guoxing Zheng*, Dual-channel anticounterfeiting color-nanoprinting with a single-size nanostructured metasurface, Optics Express, 30(19), 33574-33587 (2022). ☛Link\n11. Naixuan Zhao, Zile Li, Guodong Zhu, Jiaxin Li, Liangui Deng, Qi Dai*, Weiguo Zhang*, Zhixue He, and Guoxing Zheng, Tri-channel metasurface for watermarked structural-color nanoprinting and holographic imaging, Optics Express, 30(21), 37554-37565 (2022). (编辑精选editors' pick) ☛Link (该工作入选Optica新闻专访：☛Link，并被多家权威学术媒体转载，如：Phys.org☛Link，EurekAlert!☛Link)\n12. Kuixian Chen, Jiaxin Li, Guodong Zhu, Weiguo Zhang, Zhixue He, Guoxing Zheng, and Zile Li*, Phase-assisted angular-multiplexing nanoprinting based on the Jacobi-Anger expansion, Optics Express, 30(26), 46552-46559 (2022). ☛Link\n13. Xin Shan, Zile Li*, Jiaxin Li, Rao Fu, Zhou Zhou, Zhixue He and Guoxing Zheng*, Broadband continuous achromatic and super-dispersive metalens in near-infrared band, Journal of Applied Physics, 131, 023103 (2022). ☛Link\n14. Jiaxin Li, Zhou Zhou, Zile Li* and Guoxing Zheng*, Single-sized metasurface for simultaneous pseudo-color nanoprinting and holographic image display, Frontiers in Nanotechnology, 4 (2022). ☛Link\n15. 彭畅，李子乐，贺志学，郑国兴*，主动式液晶超表面研究进展，应用光学，43(4), (2022). (获评优秀论文奖)☛Link\n16. Yangyang Shi, Chengwei Wan, Chenjie Dai, Zejing Wang, Shuai Wan, Guoxing Zheng, Shuang Zhang, Zhongyang Li*, Augmented Reality Enabled by On-Chip Meta-Holography Multiplexing, Laser & Photonics Reviews,  16(6), 2100638 (2022). ☛Link\n17. Shiyi Luan, Hao Cao, Hongfeng Deng, Guoxing Zheng, Yi Song*, and Chengqun Gui*, Artificial Hyper Compound Eyes Enable Variable-Focus Imaging on both Curved and Flat Surfaces, ACS Applied Materials & Interfaces, (2022). ☛Link\n18. Zejing Wang, Chenjie Dai, Jian Zhang, Dandan Wang, Yangyang Shi, Xinyu Wang, Guoxing Zheng, Xuefeng Zhang*, Zhongyang Li*, Real-Time Tunable Nanoprinting-Multiplexing with Simultaneous Meta-Holography Displays by Stepwise Nanocavities, Advanced Functional Materials, 32 (9), 2110022 (2022). (ESI高被引论文)☛Link\n2021年：\n1. Peixia Zheng, Qi Dai, Zile Li, Zhiyuan Ye, Jun Xiong, Hong-Chao Liu*, Guoxing Zheng*, Shuang Zhang*, Metasurface-based key for computational imaging encryption, Science Advances, 7(21), eabg0363 (2021). (ESI高被引论文&热点论文)☛Link  (中文媒体介绍：网易☛Link，新浪☛Link)\n2. Jiaxin Li, Yiqun Wang, Chen Chen, Rao Fu, Zhou Zhou, Zile Li, Guoxing Zheng*, Shaohua Yu*, Cheng‐Wei Qiu*, and Shuang Zhang, From Lingering to Rift: Metasurface Decoupling for Near‐ and Far‐Field Functionalization, Advanced Materials, 33(16), 2007507, (2021). (ESI高被引论文)☛Link (中文媒体介绍：基金委☛Link，中国光学☛Link，澎湃新闻☛Link)\n3. Renyuan Ren, Zile Li, Liangui Deng, Xin Shan, Qi Dai, Zhiqiang Guan, Guoxing Zheng* and Shaohua Yu, Non-orthogonal polarization multiplexed metasurfaces for tri-channel polychromatic image displays and information encryption, Nanophotonics, 10(11), 2903-2914, (2021). ☛Link\n4. Zile Li, Liangui Deng, JuanDeng, Zhixue He, Jin Tao, Guoxing Zheng* and Shaohua Yu*, Metasurface enabled three-in-one nanoprints by multifunctional manipulations of light, iScience, 24(12), 103510, (2021).☛Link\n5. Zile Li, Qi Dai, Liangui Deng, Guoxing Zheng*, Gongfa Li, Structural-color nanoprinting with hidden watermarks, Optics Letters, 46(3), 480-483 (2021).☛Link\n6. Xin Shan, Zile Li*, Qi Dai, Jiaxin Li, Rao Fu, Zhixue He, Jin Tao, and Guoxing Zheng, Metasurfaces with single-sized antennas for reconstructing full-color holographic images without cross talk,Optics Letters, 46(21), 5417-5420 (2021).☛Link\n7. Guoxing Zheng,  Nan Zhou, Liangui Deng,  Gongfa Li, Jin Tao, Zile Li*, Full-space metasurface holograms in visible range, Optics Express,  29(2), 2920-2930 (2021).(编辑精选editors' pick)☛Link (中文媒体介绍：搜狐☛Link)\n8. Zile Li, Renyuan Ren, Juan Deng, Liangui Deng, Gongfa Li and Guoxing Zheng*, Non-orthogonal-polarization multiplexed metasurfaces for tri-channel gray-imaging, Optics Express,  29(1), 134-144 (2021).(编辑精选editors' pick) ☛Link\n9. Congling Liang#, Liangui Deng#, Qi Dai, Zile Li, Guoxing Zheng*, Zhiqiang Guan, and Gongfa Li, Single-celled multifunctional metasurfaces merging structural-color nanoprinting and holography, Optics Express, 29(7), 10737-10748 (2021). (编辑精选editors' pick)☛Link\n10. Guoxing Zheng,  Rao Fu, Liangui Deng,  Gongfa Li,  Zile Li*, On-axis three-dimensional meta-holography enabled with continuous-amplitude modulation of light, Optics Express, 29(4), 6147-6157 (2021). ☛Link\n11. Xiao Liang, Liangui Deng, Xin Shan, Zile Li, Zhou Zhou, Zhiqiang Guan, and Guoxing Zheng*, Asymmetric hologram with a single-size nanostructured metasurface, Optics Express, 29(13), 19964-19974 (2021). ☛Link\n12. Rao Fu, Xin Shan, Liangui Deng, Qi Dai, Zhiqiang Guan, Zile Li*, and Guoxing Zheng, Multiplexing meta-hologram with separate control of amplitude and phase, Optics Express,  29(17), 27696-27707 (2021). ☛Link\n13. Jiaxin Li, Zile Li, Liangui Deng, Qi Dai, Rao Fu, Juan Deng, and Guoxing Zheng*, Dichroic polarizing metasurfaces for color control and pseudo-color encoding, IEEE Photonics Technology Letters, 33(2), 77-80 (2021).☛Link\n14. 付娆，李子乐，郑国兴*， 超构表面的振幅调控及其功能器件研究进展，中国光学，14(4), 1-14 (2021).☛Link\n15. Chengwei Wan, Chenjie Dai, Jian Zhang, Shuai Wan, Zile Li, Guoxing Zheng, Xuefeng Zhang*, Zhongyang Li*, 3D Meta‐Prisms for Versatile Beam Steering by Hybridizing Plasmonic and Diffractive Effect in the Broadband Visible Regime, Small, 2100561, (2021).☛Link\n16. Zhe Li, Chengwei Wan, Chenjie Dai, Jian Zhang, Guoxing Zheng, Zhongyang Li*, Actively Switchable Beam-Steering via Hydrophilic/Hydrophobic-Selective Design of Water-Immersed Metasurface, Advanced Optical Materials, 2100297 (2021). ☛Link\n17. Shuai Wan, Chengwei Wan, Chenjie Dai, Zhe Li, Jiao Tang, Guoxing Zheng, Zhongyang Li*, Angular-Multiplexing Metasurface: Building Up Independent-Encoded Amplitude/Phase Dictionary for Angular Illumination, Advanced Optical Materials, 2101547 (2021). ☛Link\n18. Chenjie Dai, Chengwei Wan, Zhe Li, Zejing Wang, Rui Yang, Guoxing Zheng, Zhongyang Li*, Stepwise Dual-Fabry–Pérot Nanocavity for Grayscale Imaging Encryption/Concealment with Holographic Multiplexing,Advanced Optical Materials, 2100950 (2021). ☛Link\n19. Jin Tao, Lin Wu, Yan Yang, Zichen Liu, Ying Qiu, Guoxing Zheng, Shaohua Yu*, Light Spin Angular Momentum Spatial Mode Converter Based on Dielectric Metasurface, Journal of Lightwave Technology, 29(8), 2438-2442 (2021). ☛Link\n2020年：\n1. Qi Dai, Zhiqiang Guan, Sheng Chang, Liangui Deng, Jin Tao, Zhongyang Li, Zile Li,* Shaohua Yu,* Guoxing Zheng,* and Shuang Zhang, A Single-Celled Tri-Functional Metasurface Enabled with Triple Manipulations of Light, Advanced Functional Materials,  30(50), 2003990, (2020).☛Link\n2. Liangui Deng, Juan Deng, Zhiqiang Guan, Jin Tao#, Yang Chen, Yan Yang, Daxiao Zhang, Jibo Tang, Zhongyang Li, Zile Li*, Shaohua Yu*, Guoxing Zheng*, Hongxing Xu*, Cheng-Wei Qiu and Shuang Zhang, Malus-metasurface-assisted polarization multiplexing, Light: Science & Applications, 9, 101 (2020).(ESI高被引论文)☛Link\n3. Juan Deng, Liangui Deng, Zhiqiang Guan, Jin Tao, Gongfa Li, Zhongyang Li, Zile Li*, Shaohua Yu*, and Guoxing Zheng*, Multiplexed anticounterfeiting meta-image displays with single-sized nanostructures, Nano Letters, 20(3), 1830-1838, (2020).(ESI高被引论文)☛Link\n4. Zile Li, Chen Chen, Zhiqiang Guan, Jin Tao, Sheng Chang, Qi Dai, Ying Xiao, Yuan Cui, Yiqun Wang,* Shaohua Yu,* Guoxing Zheng*, and Shuang Zhang, Three-Channel Metasurfaces for Simultaneous Meta-Holography and Meta-Nanoprinting: A Single-Cell Design Approach, Laser & Photonics Reviews, 14(6), 2000032, (2020). (ESI高被引论文)☛Link\n5. Zile Li, Shaohua Yu, Guoxing Zheng*,Advances in exploiting the degrees of freedom in nanostructured metasurface design: from 1 to 3 to more, Nanophotonics, 9(12): 3699-3731 (2020).☛Link\n6. Rao Fu, Liangui Deng, Zhiqiang Guan, Sheng Chang, Jin Tao,  Zile Li*  and Guoxing Zheng*, Zero-order-free meta-holograms in a broadband visible range, Photonics Research, 8(5), 723-728 (2020).☛Link\n7. Qi Dai, Nan Zhou, Liangui Deng, Juan Deng, Zile Li*, and Guoxing Zheng*, Dual-channel binary gray-image display enabled with Malus-assisted metasurfaces, Physical Review Applied, 14(3), 034002 (2020). ☛Link\n8. Qi Dai, Zile Li, Liangui Deng, Nan Zhou, Juan Deng, Jin Tao, and Guoxing Zheng*, Single-size nanostructured metasurface for dual-channel vortex beam generation,Optics Letters, 45(13), 3773-3776 (2020).☛Link\n9. Xin Shan, Liangui Deng, Qi Dai, Zhou Zhou, Congling Liang, Zile Li*,and Guoxing Zheng*,Silicon-on-insulator based multifunctional metasurface with simultaneous polarization and geometric phase controls, Optics Express, 28(18), 26359-26369 (2020).☛Link\n10. Kuixian Chen, Juan Deng, Nan Zhou, Congling Liang, Renyuan Ren, Liangui Deng, Zhou Zhou, Jin Tao, Zile Li*, and Guoxing Zheng*,2π-space uniform-backscattering metasurfaces enabled with geometric phase and magnetic resonance in visible light, Optics Express , 28(8), 12331-12341 (2020). ☛Link\n11. Rui Yang, Chenjie Dai, Chengwei Wan, Guoxing Zheng, Zhongyang Li*, Planar ultrathin omni-directional perfect absorber utilizing amorphous silicon for photovoltaics, Optical Materials Express, 10 (2), 532-539 (2020).☛Link\n12. Panpan Rao, Long Wang, Yue Cheng, Xi Wang*, Haitao Li, Guoxing Zheng*, Zile Li, Chan Jiang, Qing Zhou, and Congxin Huang, Near-infrared light driven tissue-penetrating cardiac optogenetics via upconversion nanoparticles in vivo, Biomedical Optics Express, 11, 1401-1416 (2020). ☛Link\n13. Li Zile, Zhou Zhou, Liang Congling, Zheng Guoxing*, 融合计算全息术与纳米印刷术的多功能超表面研究进展(Advances in the research of multifunctional metasurfaces merging computer-generated holography and nanoprinting), 红外与激光工程(Infrared and Laser Engineering), 49(9): 20201036 (2020).（中文综述Review article in Chinese）☛Link\n2019年：\n1. Juan Deng, Yan Yang, Jin Tao, Liangui Deng#, Daoqun Liu, Zhiqiang Guan, Gongfa Li, Zile Li*, Shaohua Yu*, Guoxing Zheng*, Zhongyang Li, and Shuang Zhang, Spatial frequency multiplexed meta-holography and meta-nanoprinting, ACS Nano, 13(8), 9237-9426, (2019).☛Link (中文媒体介绍：腾讯网☛Link)\n2. Qi Dai, Liangui Deng, Juan Deng, Jin Tao, Yan Yang, Ming Chen, Zhongyang Li, Zile Li*, Guoxing Zheng*, Ultracompact, high-resolution and continuous grayscale image display based on resonant dielectric metasurfaces, Optics Express, 27(20), 27927-27935 (2019).☛Link (中文媒体介绍：光行天下☛Link)\n3. Rao Fu, Zile Li, Guoxing Zheng*, Ming Chen, Yan Yang, Jin Tao*, Lin Wu, and Qiling Deng, Reconfigurable step-zoom metalens without optical and mechanical compensations,Optics Express, 27(9), 12221-12230 (2019).☛Link\n4. Yuan Cui, Guoxing Zheng, Ming Chen, Yilun Zhang, Yan Yang, Jin Tao, Taotao He, Zile Li*, Reconfigurable continuous-zoom metalens in visible band, Chinese Optics Letters, 17(11), 111603 (2019). ☛Link\n5. Chengwei Wan, Rui Yang, Yangyang Shi, Guoxing Zheng, Zhongyang Li*, Visible-frequency meta-gratings for light steering, beam splitting and absorption tunable functionality, Optics Express, 27 (26), 37318-37326 (2019). ☛Link\n6. Chunmei Zhang, Fengliang Dong, Yuttana Intaravanne, Xiaofei Zang, Lihua Xu, Zhiwei Song, Guoxing Zheng, Wei Wang, Weiguo Chu, Xianzhong Chen*，Multichannel metasurfaces for anticounterfeiting，Physical Review Applied, 12(3), 034028 (2019). ☛Link\n7. Jin Tao*, Lin Wu, Guoxing Zheng, Shaohua Yu*,Cherenkov polaritonic radiation in a natural hyperbolic material, Carbon, 150,136-141, (2019).☛Link\n8. 戴琦，付娆，邓联贵，李嘉鑫，郑国兴*, 超表面图像显示技术研究，应用光学，40(6), 1045-1049 (2019)(获评优秀论文奖).☛Link\n9. 陈奎先，王宇，何桃桃，崔圆， 陶金，李子乐，郑国兴*, 基于超表面材料的扇出衍射光学元件，应用光学，40(2), 306-310 (2019).(获评优秀论文奖).☛Link\n2018年：\n1. Zile Li, Qi Dai, Muhammad Q. Mehmood, Guangwei Hu, Boris Luk’yanchuk, Jin Tao, Chenglong Hao, Inki Kim, Heonyeong Jeong, Guoxing Zheng*, Shaohua Yu*, Andrea Alu, Junsuk Rho* and Cheng-Wei Qiu*, Full-space Cloud of Random Points with a Scrambling Metasurface, Light: Science & Applications, 7, 63 (2018).  ☛Link\n2. Jianxiong Li, Simon Kamin,Guoxing Zheng, Frank Neubrech, Shuang Zhang,* and Na Liu*, Addressable metasurfaces for dynamic holography and optical information encryption, Science Advances, 4(6), eaar6768 (2018). (ESI高被引&热点论文)☛Link\n3. Jin Tao*, Lin Wu, Guoxing Zheng, Graphene surface-polariton in-plane Cherenkov radiation, Carbon, 133, 249-253 (2018). ☛Link\n4. Lin Wu*, Jin Tao*, and Guoxing Zheng, Controlling phase of arbitrary polarizations using both the geometric phase and the propagation phase, Physical Review B, 97, 245426 (2018). ☛Link\n5. Juan Deng, Zile Li, Guoxing Zheng*, Jin Tao, Qi Dai, Liangui Deng, Ping’An He, Qiling Deng, Qingzhou Mao, Depth perception based 3D holograms enabled with polarization-independent metasurfaces, Optics Express, 26(9), 11843-11849 (2018). ☛Link\n2017年：\n1. Zile Li, Inki Kim, Lei Zhang, Muhammad Q. Mehmood, Muhammad S. Anwar, Murtaza Saleem,Dasol Lee, Ki Tae Nam, Shuang Zhang, Boris Luk’yanchuk, Yu Wang, Guoxing Zheng*, Junsuk Rho*, and Cheng-Wei Qiu*, Dielectric Meta-holograms Enabled with Dual Magnetic Resonances in Visible Light, ACS Nano, 11 (9), 9382–9389 (2017). ☛Link\n2. Hong-Chao Liu*, Biao Yang, Qinghua Guo, Jinhui Shi, Chunying Guan, Guoxing Zheng, Holger Mühlenbernd, Guixin Li, Thomas Zentgraf and Shuang Zhang*, Single-pixel computational ghost imaging with helicity-dependent metasurface hologram, Science Advances, 3(9), e1701477 (2017). ☛Link\n3. Fuyong Yue, Xiaofei Zang, Dandan Wen, Zile Li, Chunmei Zhang, Huigang Liu, Brian Gerardot, Wei Wang, Guoxing Zheng*, and Xianzhong Chen*, Geometric Phase Generated Optical Illusion, Scientific Reports, 7, 11440, (2017). ☛Link\n4. Guoxing Zheng, Weibiao Wu, Zile Li, Shuang Zhang*, Muhammad Qasim Mehmood, Ping’An He, Song Li, Dual field-of-view step-zoom metalens, Optics Letters, 42(7), 1261-1264 (2017). ☛Link\n5. 王宇，陶金，刘子晨，尤全，杨奇，刘勇，毛庆洲，吴伟标，何平安，李松，郑国兴*，基于硅基超表面材料的光功率分配技术研究 (特邀)，光通信研究，204(06), 38-41 (2017).☛Link\n6. 郑国兴*，吕良宇，李松，李子乐，何平安，基于超表面材料的光波相位精密操控新技术，应用光学，38(2), 153-158 (2017).(获评优秀论文奖).☛Link\n2016年：\nGuoxing Zheng*, Guogen Liu, Mitchell Guy Kenney, Zile Li, Ping’an He, Song Li, Zhi Ren, and Qiling Deng, Ultracompact high-efficiency polarising beam splitter based on silicon nanobrick arrays, Optics Express, 24(6), 6749-6757, (2016). ☛Link\n2015年：\n1. Guoxing Zheng, Holger Mühlenbernd, Mitchell Kenney, Guixin Li*, Thomas Zentgraf* and Shuang Zhang*, Metasurface holograms reaching 80% efficiency. Nature Nanotechnology, 10, 308-312, (2015).(ESI高被引&热点论文),citations>3k次☛ Link\n2. Dandan Wen, Fuyong Yue, Guixin Li, Guoxing Zheng, Kinlong Chan, Shumei Chen, Ming Chen, King Fai Li, Wing-Han Wong, Kok Wai Cheah, Edwin Pun*, Shuang Zhang*, and Xianzhong Chen*, Helicity multiplexed broadband metasurface holograms, Nature Communications,  6, 8241 (2015). (ESI高被引&热点论文)☛Link\n3. Zile Li, Guoxing Zheng*, Ping’an He, Song Li, Qiling Deng, Jiangnan Zhao, Yong Ai, All silicon nanorod-based Dammann gratings, Optics Letters, 40(18), 4285-4288, (2015). ☛Link\n科研团队(Team)\n[1].\n研究团队教师简介\n科研项目(Projects)\n暂无内容\n专利(Patents)\n更多>>\n[1].\n郑国兴\n可实现全息加密的双层超表面.\n电子信息学院.\n[2].\n郑国兴\n可实现纳米印刷加密的双层超表面.\n电子信息学院.\n[3].\n郑国兴\n实现四通道二维码的超表面及其设计方法.\n电子信息学院.\n[4].\n郑国兴\n基于三通道超表面的移位加密系统及其设计方法.\n电子信息学院.\n[5].\n郑国兴\n基于超表面的一阶二阶复用光场微分器件及其设计方法.\n电子信息学院.\ntest\n更多>>\n[1].\n郑国兴\n基于超表面材料的光波相位精密操控新技术.\n应用光学.\n38\n(2).\n2017.\n[2].\n郑国兴\nHigh-power laser diode array beam-shaping by rhomboid prism arrays.\nJOURNAL OF OPTICS A-PURE AND APPLIED OPTICS.\n10\n(7).\n2008.\n[3].\n郑国兴\nMetasurface holograms reaching 80% efficiency.\nNATURE NANOTECHNOLOGY.\n10\n(4).\n2015.\n[4].\n郑国兴\nFocusing microwaves into subwavelength dimensions with a half-cylindrical hyperlens based on split ring resonators.\nCHINESE OPTICS LETTERS.\n12\n(8).\n2014.\n[5].\n郑国兴\nFocusing a beam beyond the diffraction limit using a hyperlens-based device.\nCHINESE PHYSICS B.\n20\n(11).\n2011.\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

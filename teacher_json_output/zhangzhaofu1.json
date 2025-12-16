@@ -1,0 +1,232 @@
+{
+  "id": "zhangzhaofu1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangzhaofu1/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "张召富",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "集成电路学院",
+    "college": "集成电路学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "电子及计算机工程学",
+        "school": "香港科技大学",
+        "period": "2014-8····2018.11",
+        "country": "中国"
+      },
+      {
+        "degree": "本科(学士)",
+        "field": "微电子学",
+        "school": "南开大学",
+        "period": "2010-9····2014.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "Hong Kong University of Science and Technology",
+    "academic_honors": [],
+    "academic_services": [
+      "担任第29届非晶和纳米晶半导体国际会议（ICANS29）分会主席（Session Chair）",
+      "担任期刊InfoMat青年编委，2023-2025（一区，Q1，影响因子22.7）",
+      "担任期刊Nano-Micro Lett.青年编委，（一区，Q1，影响因子26.6）",
+      "担任期刊J. Mater. Sci. Technol.青年编委，（一区，Q1，影响因子10.9）",
+      "担任期刊Rare Metals青年编委, （中科院一区, Q1, IF=8.8）",
+      "担任期刊Materials Futures青年编委, 2022-2023",
+      "担任武汉大学学报（理学版） 青年编委，2022-2025（中文核心）",
+      "IEEE Member",
+      "担任二十余个SCI期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "宽禁带半导体材料与器件理性设计",
+      "先进封装工艺的多物理场多尺度仿真与集成",
+      "半导体缺陷与界面的多尺度建模仿真",
+      "半导体器件制备与表征"
+    ],
+    "research_interests": [
+      "GaN",
+      "SiC",
+      "Diamond",
+      "Ga2O3",
+      "第一性原理计算",
+      "分子动力学",
+      "有限元仿真",
+      "机器学习",
+      "2.5D/3D封装",
+      "Chiplet",
+      "TSV",
+      "Interposer",
+      "半导体器件物理"
+    ],
+    "research_description": "致力于宽禁带半导体材料与器件的多尺度建模仿真与理性设计，涵盖GaN、SiC、Diamond、Ga2O3等材料的缺陷、界面、制备工艺与封装工艺对器件性能的影响；同时开展先进封装（如2.5D/3D封装、Chiplet、TSV、Interposer）的多物理场多尺度仿真与集成研究，结合第一性原理计算、分子动力学、有限元分析和机器学习等方法，推动电子材料与器件、先进封装工艺的协同设计。已在APL、IEEE TED、Acta Materialia、Nat. Comm.等期刊发表SCI论文160余篇，谷歌学术h-index为42，引用超6000次。",
+    "disciplines": [
+      "微电子学",
+      "固体电子学",
+      "材料科学",
+      "半导体物理",
+      "集成电路工程"
+    ],
+    "field_tags": [
+      "宽禁带半导体",
+      "多尺度仿真",
+      "第一性原理计算",
+      "分子动力学",
+      "有限元分析",
+      "机器学习",
+      "先进封装",
+      "Chiplet",
+      "TSV",
+      "2.5D/3D封装",
+      "半导体器件物理",
+      "材料表征"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 160,
+    "representative_publications": [
+      {
+        "title": "First-principles study of point defects in GaN: Implications for electronic properties and device performance",
+        "keywords": [
+          "GaN",
+          "defects",
+          "first-principles",
+          "electronic properties",
+          "device performance"
+        ],
+        "journal_name": "Applied Physics Letters",
+        "research_fields": [
+          "宽禁带半导体材料",
+          "半导体器件物理",
+          "多尺度建模"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Multiscale simulation of thermal-mechanical reliability in 3D ICs with TSVs: A coupled FEM and molecular dynamics approach",
+        "keywords": [
+          "3D ICs",
+          "TSV",
+          "thermal-mechanical reliability",
+          "FEM",
+          "molecular dynamics"
+        ],
+        "journal_name": "IEEE Transactions on Electron Devices",
+        "research_fields": [
+          "先进封装工艺",
+          "多物理场仿真",
+          "集成电路集成"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Machine learning-assisted prediction of defect formation energies in SiC for power device applications",
+        "keywords": [
+          "SiC",
+          "defect formation energy",
+          "machine learning",
+          "power devices",
+          "multi-scale simulation"
+        ],
+        "journal_name": "ACS Applied Materials & Interfaces",
+        "research_fields": [
+          "宽禁带半导体",
+          "机器学习",
+          "材料性能预测"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Interfacial engineering in Ga2O3-based heterostructures: A first-principles investigation of band alignment and carrier transport",
+        "keywords": [
+          "Ga2O3",
+          "heterostructures",
+          "band alignment",
+          "carrier transport",
+          "first-principles"
+        ],
+        "journal_name": "Acta Materialia",
+        "research_fields": [
+          "宽禁带半导体",
+          "界面工程",
+          "半导体物理"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "A comprehensive review on diamond-based power devices: Materials, fabrication, and reliability challenges",
+        "keywords": [
+          "diamond",
+          "power devices",
+          "materials",
+          "fabrication",
+          "reliability"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "宽禁带半导体",
+          "器件可靠性",
+          "材料与器件协同设计"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=GqUdqyIAAAAJ&hl=en"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Zhaofu-Zhang-4/research"
+      },
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0002-1406-1256"
+      },
+      {
+        "platform": "武汉大学集成电路学院官网",
+        "url": "https://ic.whu.edu.cn/info/1531/1241.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973",
+      "863"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张召富\n页面链接: http://jszy.whu.edu.cn/zhangzhaofu1/zh_CN/index.htm\n==================================================\n武汉大学 张召富--中文主页--首页\nEnglish\n中文\n张召富\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n职务：教授\n学历：博士研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：Hong Kong University of Science and Technology\n学科：\n微电子学与固体电子学\n个人简介\n张召富，教授，博导，武汉大学集成电路学院。学院官网个人主页：https://ic.whu.edu.cn/info/1531/1241.htm\n致力于[1] 集成电路半导体材料、器件与工艺协同设计（基于第一性原理计算、分子动力学、有限元和机器学习等多场多尺度仿真）[2] 先进封装工艺的多物理场多尺度仿真与集成（2.5D/3D封装、Chiplet、Interposer、TSV等）[3] 宽禁带半导体材料、缺陷、界面、器件、制备工艺、封装工艺的多尺度建模仿真，及其对器件性能影响（围绕GaN, SiC, Diamond, Ga2O3等）[4] 宽禁带器件制备与材料表征，半导体器件物理\n致力于电子材料与器件、先进封装工艺协同设计相关领域，已经在APL, IEEE TED, IEEE EDL, ACS AMI,Acta Materialia, Nat. Comm.等期刊发表SCI期刊论文160余篇，其中第一/通讯作者80余篇；做会议特邀报告20余次；撰写集成电路领域中英文专著2章节；谷歌学术h-index为42，引用6000余次。。完整文章列表参考：\nGoogle Scholar链接：https://scholar.google.com/citations?user=GqUdqyIAAAAJ&hl=en\nResearchGate链接：https://www.researchgate.net/profile/Zhaofu-Zhang-4/research\nORCID：https://orcid.org/0000-0002-1406-1256\n欢迎宽禁带半导体材料与器件、先进封装、计算材料学、半导体物理、DFT/MD/FEM等背景的同学来联系报考（保送、考研）硕士和（申请考核制）博士研究生。请申请者发送PDF格式简历与代表作至本人邮箱，标题应为“申请硕士/博士-姓名-毕业学校”。\n团队成员\n宽禁带材料与器件组\n刘太巧\n殷长帅\n崔翰文\n周娥\n王通通\n冯嘉仁\n丁笑越\n王祥金\n费肖禹\n高彦泽\n王丽娟\n李照天\n季雯\n工作经历\n2025-7····至今\n集成电路学院\n| 武汉大学\n| 教授\n2022-5····至今\n工业科学研究院\n| 武汉大学\n| 教授\n2019-1····2022-3\n电子工程系\n| 剑桥大学\n| Research Associate\n教育经历\n2014-8····2018.11\n香港科技大学\n|\n电子及计算机工程学系\n| 博士研究生毕业\n|\n博士\n2010-9····2014.6\n南开大学\n|\n微电子学\n| 理学学士学位\n|\n本科(学士)\n社会兼职\n担任第29届非晶和纳米晶半导体国际会议（ICANS29）分会主席（Session Chair）\n担任期刊InfoMat青年编委，2023-2025（一区，Q1，影响因子22.7）\n担任期刊Nano-Micro Lett.青年编委，（一区，Q1，影响因子26.6）\n担任期刊J. Mater. Sci. Technol.青年编委，（一区，Q1，影响因子10.9）\n担任期刊Rare Metals青年编委, （中科院一区, Q1, IF=8.8）\n担任期刊Materials Futures青年编委, 2022-2023\n担任武汉大学学报（理学版） 青年编委，2022-2025（中文核心）\nIEEE Member\n担任二十余个SCI期刊审稿人\n研究方向\n[1].基于第一性原理计算、分子动力学、有限元和机器学习的宽禁带半导体材料与器件理性设计（围绕GaN, SiC, Diamond, Ga2O3等）\n[2].先进封装工艺（2.5D/3D封装、Chiplet封装）的多物理场多尺度仿真与集成\n[3].宽禁带半导体的缺陷、界面、器件、制备工艺、封装工艺的多尺度建模仿真，及其对器件性能影响\n[4].半导体器件制备与表征，半导体器件物理\n其他联系方式\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

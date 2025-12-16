@@ -1,0 +1,219 @@
+{
+  "id": "zhanglefei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhanglefei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张乐飞",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "未明确提及",
+        "school": "武汉大学",
+        "period": "未明确提及",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "未明确提及",
+        "school": "武汉大学",
+        "period": "未明确提及",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "科睿唯安全球高被引学者（2022-2024）",
+      "IJCAI杰出论文",
+      "湖北省自然科学一等奖（2次）",
+      "湖北省自然科学二等奖",
+      "中国图象图形学学会自然科学二等奖",
+      "湖北专利奖银奖"
+    ],
+    "academic_services": [
+      "副编辑, IEEE TGRS",
+      "副编辑, IEEE GRSL",
+      "领域主编, Remote Sensing",
+      "副编辑, Pattern Recognition",
+      "编委, Information Fusion",
+      "IEEE GRSS武汉分会主席"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多模态遥感信息智能处理",
+      "高光谱遥感图像信息处理",
+      "大模型驱动的遥感数据处理",
+      "医学图像处理",
+      "计算机视觉"
+    ],
+    "research_interests": [
+      "多模态数据融合",
+      "高光谱遥感",
+      "张量低秩表达",
+      "矩阵分解",
+      "深度聚类",
+      "图神经网络",
+      "可信大语言模型",
+      "低幻觉生成",
+      "遥感图像目标探测",
+      "非监督学习"
+    ],
+    "research_description": "张乐飞教授主要从事人工智能在遥感与医学图像处理中的应用研究，聚焦于大模型驱动的多模态遥感信息智能处理、高光谱遥感图像的目标探测与精细分类、基于矩阵分解与张量低秩表达的多视图数据特征提取与深度聚类方法。研究涵盖计算机视觉、遥感信息处理、医学图像分析等领域，致力于构建低维表达与认知理论框架，推动可信人工智能在空间信息智能分析与服务中的应用。",
+    "disciplines": [
+      "计算机科学与技术",
+      "遥感科学与技术",
+      "人工智能",
+      "信息与通信工程"
+    ],
+    "field_tags": [
+      "人工智能",
+      "遥感信息处理",
+      "多模态学习",
+      "高光谱图像分析",
+      "大模型",
+      "深度学习",
+      "医学图像处理",
+      "计算机视觉",
+      "可信AI",
+      "张量分析"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "大模型驱动的多模态遥感信息智能处理及验证",
+        "keywords": [
+          "多模态遥感",
+          "大模型",
+          "智能处理",
+          "信息融合"
+        ],
+        "journal_name": "IEEE TGRS",
+        "research_fields": [
+          "人工智能",
+          "遥感信息处理",
+          "多模态学习"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "高光谱遥感图像信息处理",
+        "keywords": [
+          "高光谱遥感",
+          "图像处理",
+          "特征提取",
+          "非监督学习"
+        ],
+        "journal_name": "IEEE TGRS",
+        "research_fields": [
+          "遥感图像处理",
+          "机器学习",
+          "模式识别"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于矩阵分解的多视图数据特征提取与深度聚类",
+        "keywords": [
+          "多视图数据",
+          "矩阵分解",
+          "深度聚类",
+          "特征提取"
+        ],
+        "journal_name": "Pattern Recognition",
+        "research_fields": [
+          "数据挖掘",
+          "机器学习",
+          "模式识别"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "高光谱遥感图像的张量低秩表达与非监督学习方法研究",
+        "keywords": [
+          "张量低秩",
+          "高光谱图像",
+          "非监督学习",
+          "张量分解"
+        ],
+        "journal_name": "IEEE GRSL",
+        "research_fields": [
+          "遥感图像分析",
+          "张量方法",
+          "无监督学习"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "一种基于图构造的高光谱遥感影像异常目标探测方法",
+        "keywords": [
+          "图构造",
+          "异常目标探测",
+          "高光谱遥感",
+          "图神经网络"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "遥感图像处理",
+          "图神经网络",
+          "异常检测"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=BLKHwNwAAAAJ"
+      },
+      {
+        "platform": "DBLP",
+        "url": "https://dblp.org/pers/hd/z/Zhang:Lefei"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金重点项目",
+      "国家自然科学基金优青项目",
+      "国家自然科学基金面上项目",
+      "湖北省重点研发项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省科技厅"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张乐飞\n页面链接: http://jszy.whu.edu.cn/zhanglefei/zh_CN/index.htm\n==================================================\n武汉大学 张乐飞--中文主页--首页\nEnglish\n中文\n张乐飞\n首页\n科学研究\n教学研究\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n职务：副院长\n学历：研究生毕业\n办公地点：A416\n性别：男\n联系方式：+86-27-68772208\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：\n计算机学院\n学科：\n个人简介\n武汉大学计算机学院副院长、教授，从事人工智能应用研究，发表IEEE汇刊和CCF A类会议论文80余篇，ESI高被引论文27篇，论文被引用1.4万余次，获人工智能会议IJCAI杰出论文，入选科睿唯安全球高被引学者（2022-2024）。主持国家自然科学基金重点、优青、面上等项目，主持完成湖北省自然科学二等奖和中国图象图形学学会自然科学二等奖，担任IEEE GRSS武汉分会主席以及TGRS、PR等期刊副编辑，指导研究生获得第六届中国研究生人工智能创新大赛冠军。\n教学\n《机器学习》（课程组长），2025-2026第一学期，计算机学院本科生\n论文\nGoogle学术：https://scholar.google.com/citations?user=BLKHwNwAAAAJ\nDBLP：https://dblp.org/pers/hd/z/Zhang:Lefei\n项目\n国家自然科学基金重点项目：大模型驱动的多模态遥感信息智能处理及验证\n国家自然科学基金优青项目：高光谱遥感图像信息处理\n国家自然科学基金面上项目：基于矩阵分解的多视图数据特征提取与深度聚类\n国家自然科学基金面上项目：高光谱遥感图像的张量低秩表达与非监督学习方法研究\n湖北省重点研发项目：低幻觉可信大语言模型关键技术研究及应用\n获奖\n中国图象图形学学会自然科学二等奖：高光谱遥感图像目标探测与精细分类\n湖北省自然科学二等奖：多源特征协同降维表示与模式分类\n湖北专利奖银奖：一种基于图构造的高光谱遥感影像异常目标探测方法\n湖北省自然科学一等奖：高维图谱数据的低维表达与认知理论研究\n湖北省自然科学一等奖：空间信息智能分析与服务的理论与方法\n招生\n2026年9月入学\n博士生2名：多模态遥感大模型\n硕士生5名：计算机视觉/遥感信息处理/医学图像处理\n团队成员\n暂无内容\n工作经历\n| 武汉大学\n| 教授\n| 武汉大学\n| 副教授\n| 香港理工大学\n| 香江学者\n| 武汉大学\n| 讲师\n| 武汉大学\n| 博士后\n教育经历\n武汉大学\n|\n博士\n武汉大学\n|\n本科\n社会兼职\n副编辑, IEEE TGRS\n副编辑, IEEE GRSL\n领域主编, Remote Sensing\n副编辑, Pattern Recognition\n编委，Information Fusion\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

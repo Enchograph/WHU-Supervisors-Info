@@ -1,0 +1,98 @@
+{
+  "id": "hange",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hange/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "韩舸",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [],
+    "graduation_school": "",
+    "academic_honors": [
+      "ESI高被引论文10篇",
+      "热点论文1篇"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "激光雷达研制",
+      "新型人为碳排放核查方法",
+      "陆地碳汇的定量遥感",
+      "利用红外高光谱技术的CO2/CH4浓度反演"
+    ],
+    "research_interests": [
+      "遥感碳监测",
+      "激光雷达反演",
+      "碳排放核查",
+      "CO2/CH4浓度监测",
+      "太阳诱导荧光与碳汇关系",
+      "干旱对植被生产力影响",
+      "空间激光雷达观测",
+      "卫星与地面协同观测"
+    ],
+    "research_description": "韩舸副教授长期从事遥感碳监测相关的仪器研制、方法创新和行业应用研究，聚焦于激光雷达技术开发、新型人为碳排放核查方法、陆地碳汇的定量遥感以及基于红外高光谱技术的CO2/CH4浓度反演。主持多项国家重点研发计划、国家自然科学基金项目，发表大量高水平论文，涵盖卫星遥感、激光雷达观测、碳排放量化与环境变化响应等方向。",
+    "disciplines": [
+      "遥感科学与技术",
+      "环境科学与工程",
+      "地球物理学",
+      "大气科学"
+    ],
+    "field_tags": [
+      "遥感碳监测",
+      "激光雷达",
+      "碳排放核查",
+      "CO2反演",
+      "CH4监测",
+      "太阳诱导荧光",
+      "空间观测",
+      "高光谱遥感",
+      "碳汇量化",
+      "环境遥感"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": []
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "重点研发课题",
+      "重大仪器研制专项子课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 韩舸\n页面链接: http://jszy.whu.edu.cn/hange/zh_CN/index.htm\n==================================================\n武汉大学 韩舸--中文主页--首页\nEnglish\n中文\n韩舸\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n硕士生导师\n电子邮箱：\n学历：博士研究生毕业\n办公地点：教学实验大楼附楼306\n性别：男\n联系方式：邮箱：udhan@whu.edu.cn\nQQ：570983506\n职称：副教授\n在职信息：在职\n所属院系：\n遥感信息工程学院\n学科：\n个人简介\n韩舸，工学博士，副教授，博士研究生导师。长期从事遥感碳监测相关的仪器研制、方法创新和行业应用研究工作。\n主持重点研发课题，基金委面上、青年项目、重大仪器研制专项子课题等20余研究课题。发表科研论文70余篇，其中第一/通讯的SCI论文40余篇（ESI高被引论文10篇，热点论文1篇），发明专利10余项，和软件著作权2项。\n近年来发表的部分论文：\n2025\n18.Rapid Methane Flux Estimation Combining MethaneSATand Sentinel‐5P Observations: A Case Study ofTurkmenistan.  Y Huang, G Han*, J Yi, T Shi, Y Zhang, H Luo, H Mao, S Li, F Mao, and W Gong*. Geophysical Research Letters 52 (21), e2025GL119369, 2025. (中科院二区)\n17.Urban Area Observing System (UAOS) Simulation Experiment Using DQ-1 Total Column Concentration Observations.  J Yi , Y Huang , Z Pei , and G Han*. Atmospheric Chemistry and Physics 25 (20), 13687-13710, 2025. (中科院一区)\n16.First Global XCO2 Observations from Spaceborne Lidar: Methodology and Initial Result.  G Han, H Zhang, Y Huang, W Chen, H Mao, X Zhang, X Ma, S Li, H Zhang, J Liu, F Mao, W Gong. Remote Sensing of Environment 330, 114954,2025.(中科院一区)\n2024\n15.Quantifying CO2 emissions of power plants with Aerosols and Carbon Dioxide Lidar onboard DQ-1. G Han, Y Huang, T Shi, H Zhang, S Li, H Zhang, W Chen, J Liu, W Gong. Remote Sensing of Environment 313, 114368. (中科院一区,ESI高被引论文)\n14.Unveiling Unprecedented Methane Hotspots in China's Leading Coal Production Hub: A Satellite Mapping Revelation. G Han, Z Pei, T Shi, H Mao, S Li, F Mao, X Ma, X Zhang, W Gong. Geophysical Research Letters 51 (10), e2024GL109065. (中科院一区,ESI高被引论文)\n13.Contrasting responses of relationship between solar-induced fluorescence and gross primary production to drought across aridity gradients,R Qiu,G Han*,X Li,J Xiao, J Liu,S Wang, S Li,W Gong. Remote Sensing of Environment,2024.  (中科院一区,ESI高被引论文)\n2023\n12.Quantifying Strong Point Sources Emissions of CO2 using spaceborne LIDAR :Method Development and Potential Analysis. T Shi, G Han*, X Ma, Z Pei, W Chen, J Liu, Xi Zhang, S Li, W Gong, Energy Conversion and Management,292, 117346,2023.(中科院一区)\n11.Improving quantification of methane point sources from hyperspectral imaging spectroscopy. Z Pei. G Han*, H Mao, C Chen, T Shi, K Yang, X Ma, W Gong, Remote Sensing of Environment,295,113652,2023.  (中科院一区,ESI高被引论文)\n10.Quantifying factory-scale CO2/CH4 emission based on mobile measurements and EMISSION-PARTITION model: cases in China. T Shi, G Han*, X Ma, H Mao, C Chen, Z Han, Z Pei, H Zhang, S Li, W Gong.Environmental Research Letters 18 (3), 034028，2023. (中科院二区,ESI高被引论文)\n2022\n9. Monitoring drought impacts on crop productivity of the US Midwest with solar-induced fluorescence: GOSIF outperforms GOME-2 SIF and MODIS NDVI, EVI, and NIRv. R Qiu, X Li, G Han*, J Xiao, X Ma, W Gong. Agricultural and Forest Meteorology 323, 109038,2022 (中科院一区,ESI高被引论文)\n8. A method for estimating the background column concentration of CO2 using the lagrangian approach.Z Pei, G Han*, X Ma, T Shi, W Gong. IEEE Transactions on Geoscience and Remote Sensing, 2022 (中科院一区, ESI高被引论文)\n7. A Novel Active-Passive Collaborative Approach for XCO2 retrieving using spaceborne sensors. MENGYANG CAI, GE HAN*, XIN MA, ZHIPENG PEI AND WEI GONG. Optics Letters,2022 (中科院二区)\n2021\n6. Quantifying CO2 Uptakes Over Oceans Using LIDAR: A Tentative Experiment in Bohai Bay. T Shi, G Han*, X Ma, W Gong, W Chen, J Liu, X Zhang, Z Pei, H Gou, L Bu. Geophysical Research Letters 48 (9), e2020GL091160,2021(中科院一区,ESI高被引论文)\n5. Potential of Ground-Based Multiwavelength Differential Absorption LiDAR to Measure δ¹³C in Open Detected Path. T Shi, G Han*, X Ma, W Gong, Z Pei, H Xu, R Qiu, H Zhang, J Zhang. IEEE Geoscience and Remote Sensing Letters 19, 1-4,2021. (中科院三区)\n4. Design of Inversion Procedure for the Airborne CO2-IPDA LIDAR: A Preliminary Study. C Xiang, X Ma, X Zhang, G Han*, W Zhang, B Chen, A Liang, W Gong. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2021. (中科院二区)\n2020\n3. Response of major air pollutants to COVID-19 lockdowns in China. Z Pei, G Han*, X Ma, H Su, W Gong.  Science of the Total Environment 743, 1408792. 2020. (中科院一区, ESI高被引, 热点论文)\n2. An inversion method for estimating strong point carbon dioxide emissions using a differential absorption Lidar. T Shi, G Han*, X Ma, M Zhang, Z Pei, H Xu, R Qiu, H Zhang, W Gong. Journal of Cleaner Production 271, 122434. 2020(中科院一区)\n1. Obtaining Gradients of XCO2 in Atmosphere Using the Constrained Linear Least-Squares Technique and Multi-Wavelength IPDA LiDAR. G Han, T Shi, X Ma, H Xu, M Zhang, Q Liu, W Gong. Remote Sensing 12 (15), 2395. 2020  (中科院二区)\n课题组成员与活动：\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n[1].激光雷达研制\n[2].新型人为碳排放核查方法\n[3].陆地碳汇的定量遥感\n[4].利用红外高光谱技术的CO2/CH4浓度反演\n其他联系方式\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

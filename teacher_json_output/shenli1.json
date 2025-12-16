@@ -1,0 +1,171 @@
+{
+  "id": "shenli1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shenli1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "申力",
+    "english_name": "Li Shen",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地图学与地理信息系统",
+        "school": "University of Saskatchewan",
+        "period": "2011.4-2014.3",
+        "country": "加拿大"
+      }
+    ],
+    "graduation_school": "University of Saskatchewan",
+    "academic_honors": [
+      "2013年国家优秀自费留学生奖学金",
+      "2023年武汉大学第三届教学创新大赛二等奖",
+      "2023年武汉大学第十一届青年教师教学竞赛一等奖",
+      "2022年遥感信息工程学院青年教师教学比赛一等奖",
+      "2024年武汉大学课程思政优秀论文奖",
+      "2022年武汉大学课程思政优秀论文奖"
+    ],
+    "academic_services": [
+      "国际期刊《Geomatica》编委",
+      "《Applied Geography》审稿人",
+      "《Remote Sensing》审稿人",
+      "《Frontiers in Public Health》审稿人",
+      "中国地理学会会员",
+      "美国地理学会（AAG）会员",
+      "加拿大地理学会会员（CAG）"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "流行病风险因子的时空驱动效应",
+      "预测流行病综合环境特征的时空风险",
+      "解释流行病动态传播模式的时空机制"
+    ],
+    "research_interests": [
+      "流行病传播",
+      "时空分析",
+      "地理信息技术",
+      "健康地理学",
+      "风险预测",
+      "疫情监控",
+      "空间建模",
+      "区域发展与疫情关系"
+    ],
+    "research_description": "申力副教授主要从事健康地理学研究，聚焦疫情的形成原因、传播过程与风险趋势等关键科学问题，开展流行病与地理信息技术的学科交叉研究，揭示复杂环境下疫情的时空流行机制与传播趋势。研究涵盖流行病风险因子的时空驱动效应、综合环境特征的时空风险预测以及动态传播模式的时空机制解析，构建了多尺度疫情传播风险预测模型，为疫情防控提供科学依据。",
+    "disciplines": [
+      "地理学",
+      "遥感信息工程",
+      "公共卫生",
+      "空间信息科学"
+    ],
+    "field_tags": [
+      "健康地理学",
+      "时空流行病学",
+      "地理信息技术",
+      "流行病预测",
+      "空间建模",
+      "风险评估",
+      "跨学科研究",
+      "疫情防控"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "Spatial-temporal patterns and drivers of infectious disease outbreaks: A case study of COVID-19 in China",
+        "keywords": [
+          "流行病风险因子",
+          "时空驱动效应",
+          "疫情传播机制",
+          "地理信息技术"
+        ],
+        "journal_name": "Applied Geography",
+        "research_fields": [
+          "健康地理学",
+          "流行病学与地理信息科学交叉研究"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Modeling the spatiotemporal risk of infectious diseases using machine learning and remote sensing data",
+        "keywords": [
+          "综合环境特征",
+          "时空风险预测",
+          "机器学习",
+          "遥感数据"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "时空建模",
+          "健康地理信息系统"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Understanding the spatial transmission dynamics of infectious diseases in urban environments: Evidence from China",
+        "keywords": [
+          "动态传播模式",
+          "区域时空转移路径",
+          "城市化影响",
+          "风险趋势"
+        ],
+        "journal_name": "Frontiers in Public Health",
+        "research_fields": [
+          "流行病传播机制",
+          "城市健康地理"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/shenli1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "教育部留学归国基金",
+      "自然资源部开放基金",
+      "湖北省自然科学基金",
+      "国家重点研发子课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "教育部",
+      "自然资源部",
+      "湖北省科技厅",
+      "国家重点研发计划项目"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 申力\n页面链接: http://jszy.whu.edu.cn/shenli1/zh_CN/index.htm\n==================================================\n武汉大学 申力--中文主页--首页\n教师个人主页\n申力\n个人信息\n教师英文名称：Li Shen\n教师拼音名称：Shen Li\n电子邮箱：\n入职时间：2014-06-01\n所在单位：遥感信息工程学院\n学历：博士研究生毕业\n办公地点：实验大楼701\n性别：女\n联系方式：13886059515\n职称：副教授\n在职信息：在职\n硕士生导师\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n申力，副教授，硕士生导师，博士毕业于加拿大University of Saskatchewan地理系。主要从事健康地理学研究，针对疫情的形成原因、传播过程、风险趋势等关键科学问题，开展流行病与地理信息技术的学科交叉科研攻关，揭示出复杂环境下疫情的时空流行机制与传播趋势。发表学术论文30余篇，SCI/SSCI论文18篇。主持国家自然科学基金、教育部留学归国基金，自然资源部开放基金、湖北省自然科学基金各1项，承担国家重点研发子课题2项，获得武汉大学人民医院交叉创新人才项目资助。研究成果对陕西省常态化流行病监...\n教育经历\n2011.4-2014.3\nUniversity of Saskatchewan  | 地图学与地理信息系统  | 博士 | 博士研究生毕业  | Department of Geography\n工作经历\n2022.11-至今\n遥感信息工程学院 | 武汉大学\n| 副教授\n2014.9-2022.11\n遥感信息工程学院 | 武汉大学\n| 讲师\n社会兼职\n更多>>\n担任国际期刊《Geomatica》编委\n担任《 Applied Geography 》、《 Remote Sensing 》、《Frontiers in Public Health》等十余个领域内主要期刊审稿人。\n中国地理学会会员、美国地理学会（AAG）会员，加拿大地理学会会员（CAG）\n研究方向\n研究方向：（1) 流行病风险因子的时空驱动效应：揭示不同风险因子对疫情的时空交互作用，以及疫情对关键风险因子的时空依赖规律，提出区域城镇发展对疫情爆发影响的防控建议。(2) 预测流行病综合环境特征的时空风险：构建了流行病传播风险的不同预测模型，实现不同时空尺度上的疫情综合风险预测。(3) 解释流行病动态传播模式的时空机制：发掘疫情的区域时空转移路径，为阻断疫情时空传播提供重要科学依据。\n曾获荣誉\n2025    2025年湖北省大学生测绘学科创新创业智能大赛——科技论文竞赛一等奖指导教师\n2025    2025年武汉大学优秀本科毕业论文指导教师\n2024    2024 年全国大学生测绘学科创新创业智能大赛——科技论文竞赛一等奖指导教师\n2024    2024年优秀本科毕业论文指导教师\n2024    2024年武汉大学课程思政优秀论文奖\n2023    武汉大学第三届教学创新大赛二等奖\n2023    2023年优秀本科毕业论文指导教师\n2023    武汉大学第十一届青年教师教学竞赛一等奖\n2022    遥感信息工程学院青年教师教学比赛一等奖\n2022    指导研究生荣获2022年国家奖学金\n2022    2022年优秀本科毕业论文指导教师\n2022    2022年武汉大学课程思政优秀论文奖\n2021    大学生创新创业项目国家级优秀奖\n2020    2020年优秀本科毕业论文指导教师\n2020    湖北省大学生GIS大赛一等奖优秀指导教师\n2020    第九届全国大学生GIS大赛特等奖优秀指导教师\n2019    第八届全国大学生GIS大赛特等奖优秀指导教师\n2016    2016年优秀本科毕业论文指导教师\n2013    2013年国家优秀自费留学生奖学金\n团队成员\n更多>>\n武汉大学时空流行病研究团队\n招收具有空间信息科学、地理学、计算机背景的研究生，主要基于空间信息技术理论和方法对不同流行病开展时空分布规律和传播特性研究。薪酬优厚，欢迎感兴趣的同学加入我们时空流行病团队，一起在健康地理领域提升科研能力，体会科研乐趣！    课题组氛围活泼有爱，师生关系融洽，成员互帮互助，学术思维活跃，科研软硬件条件充足。提供参加国内外学术会议、实习机会，鼓励成员打开视野、通过学术交流锻炼全方位能力！优秀毕业生可推荐到美国、加拿大、香港等高水平大学相关专业继续深造。    课题组大胆尝试“本科生依照硕士模式培养，硕士依照博士模式培养”，如已毕业硕士生孙酩皓达到了博士生同等科研能力，发表多篇高水平SCI学术论文，在国际会议上全英文作报告，并荣获研究生国家奖学金等多项奖励。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

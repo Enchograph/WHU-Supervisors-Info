@@ -1,0 +1,192 @@
+{
+  "id": "ningjianting",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/ningjianting/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "宁建廷",
+    "english_name": "Ning Jianting",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "国家网络安全学院",
+    "college": "国家网络安全学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "网络空间安全",
+        "school": "上海交通大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "上海交通大学",
+    "academic_honors": [
+      "欧洲计算安全年会ESORICS 2020最佳论文奖",
+      "2021-2022年度中国密码学会优秀青年奖"
+    ],
+    "academic_services": [
+      "IEEE Transactions on Information Forensics and Security 编委",
+      "《计算机技术与发展》专题/青年编委",
+      "《信息安全学报》专题/青年编委",
+      "《Cybersecurity》专题/青年编委",
+      "IEEE S&P 2021 Shadow PC",
+      "ESORICS 2020-2022 PC",
+      "中国密码学会第三届安全协议专委会委员",
+      "中国中文信息学会第二届大数据安全与隐私计算专委会委员",
+      "国家、多省重大与人才项目会评专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "公钥密码学",
+      "数据安全",
+      "区块链安全",
+      "人工智能安全",
+      "隐私保护技术"
+    ],
+    "research_interests": [
+      "密码学",
+      "数据安全",
+      "区块链",
+      "人工智能安全",
+      "隐私保护",
+      "安全协议",
+      "大数据安全",
+      "隐私计算"
+    ],
+    "research_description": "长期从事公钥密码学与数据安全、区块链与人工智能安全、隐私保护技术等领域的研究工作，已在ACM CCS、NDSS、ASIACRYPT、ESORICS、ACSAC、IEEE汇刊（IEEE TIFS、IEEE TDSC等）等网络与信息安全领域学术会议和期刊发表学术论文100余篇，获欧洲计算安全年会ESORICS 2020最佳论文奖、2021-2022年度中国密码学会优秀青年奖。",
+    "disciplines": [
+      "网络空间安全",
+      "密码学",
+      "信息安全"
+    ],
+    "field_tags": [
+      "公钥密码学",
+      "数据安全",
+      "区块链",
+      "人工智能安全",
+      "隐私保护",
+      "安全协议",
+      "大数据安全",
+      "隐私计算",
+      "网络安全",
+      "信息对抗"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Best Paper Award at ESORICS 2020",
+        "keywords": [
+          "公钥密码学",
+          "数据安全",
+          "隐私保护",
+          "区块链安全"
+        ],
+        "journal_name": "ESORICS",
+        "research_fields": [
+          "网络与信息安全",
+          "密码学",
+          "隐私保护技术"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "ACM CCS Conference Papers",
+        "keywords": [
+          "人工智能安全",
+          "安全协议",
+          "数据隐私"
+        ],
+        "journal_name": "ACM CCS",
+        "research_fields": [
+          "网络安全",
+          "人工智能安全",
+          "隐私保护"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "NDSS Conference Papers",
+        "keywords": [
+          "区块链",
+          "安全协议",
+          "系统安全"
+        ],
+        "journal_name": "NDSS",
+        "research_fields": [
+          "网络安全",
+          "区块链技术",
+          "系统安全"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "ASIACRYPT Conference Papers",
+        "keywords": [
+          "公钥密码学",
+          "密码协议",
+          "安全证明"
+        ],
+        "journal_name": "ASIACRYPT",
+        "research_fields": [
+          "密码学",
+          "理论安全",
+          "公钥基础设施"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "IEEE TIFS and IEEE TDSC Journal Articles",
+        "keywords": [
+          "信息取证",
+          "数据安全",
+          "安全建模"
+        ],
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "research_fields": [
+          "信息安全",
+          "信息取证",
+          "数据安全"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/ningjianting/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 宁建廷\n页面链接: http://jszy.whu.edu.cn/ningjianting/zh_CN/index.htm\n==================================================\n武汉大学 宁建廷--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n宁建廷，男，武汉大学国家网络安全学院教授/博导，国家级青年人才、福建省闽江学者奖励计划特聘教授等获得者。长期从事公钥密码学与数据安全、区块链与人工智能安全、隐私保护技术等领域的研究工作。获欧洲计算安全年会ESORICS 2020最佳论文奖、2021-2022年度中国密码学会优秀青年奖，在ACM CCS、NDSS、ASIACRYPT、ESORICS、ACSAC、IEEE汇刊（IEEE TIFS、IEEE TDSC等）等网络与信息安全领域学术会议和期刊发表学术论文100余篇；担任IEEE Transactions on Information Forensics and Security等国际SCI期刊编委，《计算机技术与发展》、《信息安全学报》、《Cybersecurity》专题/青年编委、IEEE S&P 2021 Shadow PC、ESORICS 2020-2022 PC等国际会议的程序委员会委员；中国密码学会第三届安全协议专委会委员、中国中文信息学会第二届大数据安全与隐私计算专委会委员等；担任国家、多省重大与人才项目会评专家等。长期招收博士后、博士、硕士，欢迎本校大二、大三及保研同学提前加入课题组，开展大学生创新创业训练计划及其他各类科研/竞赛项目。联系方式：jtning88@gmail.com，jtning@whu.edu.cn。\n研究方向\n社会兼职\n密码学与数据安全、区块链与人工智能安全、隐私保护技术等\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n宁建廷\n同专业硕导>>\n同专业博导>>\n个人信息\n博士生导师\n硕士生导师\n教师拼音名称：Ning Jianting\n出生日期：1988-06-17\n电子邮箱：\n所在单位：国家网络安全学院\n学历：博士研究生毕业\n办公地点：武汉市东西湖区临空港大道国家网络安全人才与创新基地网安学院新珈楼C409\n性别：男\n联系方式：jtning88@gmail.com;jtning@whu.edu.cn\n在职信息：报到中\n毕业院校：上海交通大学\n学科：网络空间安全\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

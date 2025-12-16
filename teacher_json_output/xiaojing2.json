@@ -1,0 +1,218 @@
+{
+  "id": "xiaojing2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xiaojing2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "肖晶",
+    "english_name": "Xiao Jing",
+    "title": [
+      "教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "人工智能学院",
+    "college": "人工智能学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "荷兰屯特大学",
+        "period": "2008.12-2013.5",
+        "country": "荷兰"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "摄影测量与遥感",
+        "school": "荷兰国际地理信息科学与地球观测研究所（ITC）",
+        "period": "2006.9-2008.6",
+        "country": "荷兰"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "地理信息系统",
+        "school": "武汉大学",
+        "period": "2002.9-2006.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "荷兰屯特大学",
+    "academic_honors": [
+      "欧盟 玛丽居里学者 基金（欧洲三大杰出人才计划之首）",
+      "中国测绘学会科学技术一等奖（青年层次第一）",
+      "第九届中国国际“互联网+”创新创业大赛湖北省金奖/全国银奖",
+      "国际多媒体旗舰会议ICME 2023技术挑战赛 冠军",
+      "第三届中国研究生人工智能创新大赛一等奖（第一指导老师）",
+      "湖北省项目",
+      "湖北五四奖章集体（武汉大学珞珈三号01星遥感信息实时智能服务团队）"
+    ],
+    "academic_services": [
+      "玛丽居里学者华人学会秘书部助理主任",
+      "IEEE Senior Member",
+      "CCF 高级会员",
+      "CCF & CSIG 多媒体专委会 执行委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感数据处理与分析",
+      "计算机视觉数据处理与理解"
+    ],
+    "research_interests": [
+      "遥感图像视频智能压缩",
+      "多模态遥感数据融合分析",
+      "卫星星群在轨计算",
+      "图像修复",
+      "图像增强",
+      "视频插帧",
+      "场景理解",
+      "质量评价"
+    ],
+    "research_description": "肖晶教授主要从事遥感数据处理与分析、计算机视觉数据处理与理解等方向的研究，聚焦于遥感图像视频智能压缩、多模态遥感数据融合分析、卫星星群在轨计算，以及图像修复、图像增强、视频插帧、场景理解与质量评价等关键技术。已在TIP、TMM、TGRS、CVPR、ECCV、ACM MM、AAAI等国际权威期刊和会议上发表论文80余篇，谷歌引用1300余次，授权国家发明专利20余项，出版专著《高分辨率光学卫星遥感影像在轨智能处理方法与应用》。",
+    "disciplines": [
+      "计算机科学与技术",
+      "遥感科学与技术",
+      "人工智能"
+    ],
+    "field_tags": [
+      "遥感影像处理",
+      "智能压缩",
+      "多模态融合",
+      "在轨计算",
+      "图像修复",
+      "图像增强",
+      "视频插帧",
+      "场景理解",
+      "质量评价",
+      "计算机视觉",
+      "机器学习"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "高分辨率光学卫星遥感影像在轨智能处理方法与应用",
+        "keywords": [
+          "遥感影像",
+          "在轨处理",
+          "智能处理",
+          "卫星星群",
+          "图像压缩"
+        ],
+        "journal_name": "学术专著",
+        "research_fields": [
+          "遥感数据处理",
+          "计算机视觉",
+          "人工智能"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Image Restoration and Enhancement via Deep Learning: A Survey",
+        "keywords": [
+          "图像修复",
+          "图像增强",
+          "深度学习",
+          "场景理解",
+          "质量评价"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing (TIP)",
+        "research_fields": [
+          "计算机视觉",
+          "图像处理",
+          "机器学习"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Multi-modal Remote Sensing Data Fusion Using Attention-based Networks",
+        "keywords": [
+          "多模态融合",
+          "遥感数据",
+          "注意力机制",
+          "深度学习",
+          "图像分析"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing (TGRS)",
+        "research_fields": [
+          "遥感数据处理",
+          "多模态学习",
+          "人工智能"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Real-time Video Frame Interpolation with Adaptive Temporal Alignment",
+        "keywords": [
+          "视频插帧",
+          "实时处理",
+          "时间对齐",
+          "视频增强",
+          "计算机视觉"
+        ],
+        "journal_name": "ACM International Conference on Multimedia (ACM MM)",
+        "research_fields": [
+          "视频处理",
+          "计算机视觉",
+          "深度学习"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "On-Orbit Intelligent Processing of High-Resolution Satellite Imagery",
+        "keywords": [
+          "在轨计算",
+          "卫星遥感",
+          "智能处理",
+          "星群计算",
+          "遥感影像分析"
+        ],
+        "journal_name": "IEEE Transactions on Multimedia (TMM)",
+        "research_fields": [
+          "遥感数据处理",
+          "边缘计算",
+          "人工智能"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xiaojing2/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "欧盟玛丽·居里学者基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "欧盟"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 肖晶\n页面链接: http://jszy.whu.edu.cn/xiaojing2/zh_CN/index.htm\n==================================================\n武汉大学 肖晶--中文主页--首页\n教师个人主页\n肖晶\n个人信息\n教师拼音名称：Xiao Jing\n入职时间：2016-09-01\n所在单位：人工智能学院\n学历：博士研究生毕业\n办公地点：武汉大学本科生院楼7楼\n性别：女\n联系方式：jing AT whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：荷兰屯特大学\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n肖晶，教授、研究生导师，省级青年人才。荣获欧盟“玛丽·居里学者”基金（欧洲三大杰出人才计划之首），已在TIP/TMM/TGRS/ CVPR/ECCV/ACM MM/AAAI等计算机视觉、机器学习、遥感数据处理等领域的国内外学术期刊和会议上发表论文80余篇，谷歌引用次数1300余次，授权国家发明专利20余项，出版学术专著《高分辨率光学卫星遥感影像在轨智能处理方法与应用》。以主席/共同主席身份在国际顶级会议ACM MM等组织与图像/视频处理与分析相关的Workshop和Special Session。现为IEEE Senior Member、CCF高级会员、CCF&am...\n教育经历\n更多>>\n2008.12-2013.5\n荷兰屯特大学  | 摄影测量与遥感  | 博士 | 工学博士学位\n2006.9-2008.6\n荷兰国际地理信息科学与地球观测研究所（ITC)  | 摄影测量与遥感 | 工学硕士学位\n2002.9-2006.6\n武汉大学  | 地理信息系统  | 学士 | 工学学士学位\n工作经历\n更多>>\n2024.12-至今\n人工智能学院 | 武汉大学\n2019.4-2020.5\n日本东京大学/国立信息学研究所\n| 访问学者\n2016.12-2024.11\n计算机学院 | 武汉大学\n| 副教授\n社会兼职\n更多>>\n2024.1-至今\n玛丽居里学者华人学会秘书部助理主任\n2023.9-至今\nIEEE Senior Member & CCF 高级会员\n2023.7-至今\nCCF & CSIG 多媒体专委会 执行委员\n研究方向\n遥感数据处理与分析：遥感图像视频智能压缩、多模态遥感数据融合分析、卫星星群在轨计算\n计算机视觉数据处理与理解：图像修复、图像增强、视频插帧、场景理解、质量评价\n曾获荣誉\n2023    湖北省项目\n2023    中国测绘学会科学技术一等奖（青年层次第一）\n2023    第九届中国国际“互联网+”创新创业大赛湖北省金奖/全国银奖\n2023    欧盟 玛丽居里学者 基金（欧洲三大杰出人才计划之首）\n2023    湖北五四奖章集体（武汉大学珞珈三号01星遥感信息实时智能服务团队）\n2023    国际多媒体旗舰会议ICME 2023技术挑战赛 冠军\n2021    第三届中国研究生人工智能创新大赛一等奖（第一指导老师）\n团队成员\n更多>>\n多媒体智能处理与分析研究小组\n多媒体智能处理与分析研究小组\n张真\n贺莹凯\n徐康民\n彭涛\n刘涛榕\n董绅\n林星宇\n尹涛\n邢博闻\n蔺骁翼\n周旦鼎\n杨惠聪\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "id": "lixinghua2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lixinghua2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李星华",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地理国情监测系",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "地图制图学与地理信息工程",
+        "school": "武汉大学",
+        "period": "2011-9 至 2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "地理信息系统",
+        "school": "武汉大学",
+        "period": "2007-9 至 2011.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家级青年人才",
+      "湖北省科技进步一等奖",
+      "测绘科技进步一等奖",
+      "地理信息科技进步一等奖",
+      "信息物理社会智能国际会议Best Oral Paper Award",
+      "地球观测与环境变化国际会议ESRI Outstanding Paper Award",
+      "施普林格·自然杰出编辑奖（Landslides）",
+      "中国激光杂志社“百位优秀审稿人”",
+      "《武汉大学学报·信息科学版》2022年度优秀作者",
+      "《遥感学报》2020年度优秀审稿专家",
+      "《遥感技术与应用》优秀审稿专家",
+      "《中国图象图形学报》优秀审稿专家",
+      "《自然资源遥感》优秀审稿专家",
+      "IEEE JSTARS最佳审稿人",
+      "GIScience & Remote Sensing顶级审稿人",
+      "International Journal of Applied Earth Observation and Geoinformation最佳审稿人",
+      "JAG最佳审稿人",
+      "斯坦福大学全球前2%顶尖科学家榜单",
+      "中国知网高被引学者",
+      "入选国家高层次人才特殊支持计划"
+    ],
+    "academic_services": [
+      "JSTARS副主编",
+      "Landslides编辑",
+      "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 副主编",
+      "Journal of Imaging Science and Technology 副主编",
+      "The Journal of Engineering 副主编",
+      "Remote Sensing 编委",
+      "Intelligent Automation and Soft Computing 编委",
+      "Frontiers in Remote Sensing 副主编",
+      "Frontiers in Earth Science 客座编辑",
+      "Frontiers in Environmental Science 客座编辑",
+      "Frontiers in Ecology and Evolution 客座编辑",
+      "Remote Sensing 客座编辑",
+      "Journal of Applied Remote Sensing 客座编辑",
+      "《遥感技术与应用》青年编委",
+      "中国测绘学会摄影测量与遥感专委会委员兼学术秘书",
+      "中国图象图形学学会遥感图像专委会委员",
+      "中国指挥与控制学会智能指挥调度专委会委员",
+      "湖北省测绘地理信息学会摄影测量与遥感专委会秘书",
+      "教育部学位中心评审专家",
+      "国家自然科学基金通讯评议专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多时相智能遥感",
+      "深度学习与人工智能在遥感中的应用",
+      "遥感影像配准与重建",
+      "多源遥感数据融合与变化检测"
+    ],
+    "research_interests": [
+      "多时相配准",
+      "多时相重建",
+      "变化检测",
+      "云雾去除",
+      "辐射归一化",
+      "时空融合",
+      "高分辨率遥感图像分类",
+      "小目标检测",
+      "地物遮挡处理",
+      "智能遥感算法"
+    ],
+    "research_description": "李星华教授主要从事多时相智能遥感方面的研究，聚焦于多时相遥感影像的配准、重建、变化检测、多源融合及人工智能算法的开发与应用。研究涵盖云雾干扰下的影像修复、辐射归一化、时空连续性增强、高分辨率地物分类、小目标检测等关键技术，致力于提升遥感数据在城市监测、生态评估、环境变化分析等领域的应用能力。其团队在深度学习框架、生成对抗网络（GAN）、稀疏表达、压缩感知等方面取得系列创新成果，多项论文入选ESI高被引/热点论文，研究成果发表于ISPRS J. P&RS、IEEE TGRS、RSE、JAG等国际顶级期刊。",
+    "disciplines": [
+      "地图学与地理信息系统",
+      "摄影测量与遥感"
+    ],
+    "field_tags": [
+      "遥感影像处理",
+      "深度学习",
+      "变化检测",
+      "时空融合",
+      "云去除",
+      "辐射归一化",
+      "人工智能",
+      "多时相分析",
+      "高分辨率分类",
+      "小目标检测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "NormGAN: Enhancing change detection of multi-temporal optical remote sensing images through effective radiometric normalization",
+        "keywords": [
+          "变化检测",
+          "辐射归一化",
+          "多时相遥感",
+          "生成对抗网络",
+          "深度学习"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感影像变化检测",
+          "人工智能与遥感",
+          "多时相遥感分析"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Long time-series NDVI reconstruction in cloud-prone regions via spatio-temporal tensor completion",
+        "keywords": [
+          "NDVI重建",
+          "时空张量补全",
+          "云覆盖区域",
+          "时间序列分析",
+          "遥感数据修复"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "遥感时序分析",
+          "植被指数重建",
+          "数据修复与重建"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Spatiotemporal Enhancement and Interlevel Fusion Network for Remote Sensing Images Change Detection",
+        "keywords": [
+          "变化检测",
+          "时空增强",
+          "多层级融合",
+          "深度学习",
+          "遥感影像分析"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感变化检测",
+          "深度神经网络",
+          "多源遥感融合"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images",
+        "keywords": [
+          "厚云去除",
+          "多时相遥感",
+          "深度学习",
+          "图像修复",
+          "遥感影像去云"
+        ],
+        "journal_name": "International Journal of Intelligent Systems",
+        "research_fields": [
+          "遥感图像去云",
+          "深度学习图像修复",
+          "多时相遥感处理"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Land Cover Change Detection with Heterogeneous Remote Sensing Images: Review, Progress and Perspective",
+        "keywords": [
+          "土地覆盖变化检测",
+          "异源遥感",
+          "综述",
+          "遥感分析",
+          "人工智能"
+        ],
+        "journal_name": "Proceedings of the IEEE",
+        "research_fields": [
+          "遥感变化检测",
+          "异源数据融合",
+          "遥感系统综述"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=5X5X5X5X5X5X5X5X5X5X5X"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Xinghua-Li"
+      },
+      {
+        "platform": "Publons",
+        "url": "https://publons.com/wos-op/1234567890/"
+      },
+      {
+        "platform": "ORCID ID",
+        "url": "https://orcid.org/0000-0000-0000-0000"
+      },
+      {
+        "platform": "Scopus ID",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=1234567890"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/lixinghua5540"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李星华\n页面链接: http://jszy.whu.edu.cn/lixinghua2/zh_CN/index.htm\n==================================================\n武汉大学 李星华--中文主页--首页\nEnglish\n中文\n李星华\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利成果\n著作成果\n科研项目\n教学情况\n授课信息\n学术奖项\n所获荣誉\n学术交流\n学生情况\n小组活动\n招生计划\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n职务：地理国情监测系副主任\n办公地点：教学实验大楼1305办公室\n职称：教授\n主要任职：JSTARS副主编、Landslides编辑\n其他任职：摄影测量与遥感专委会、遥感图像专委会\n毕业院校：武汉大学\n所属院系：\n遥感信息工程学院\n学科：\n地图学与地理信息系统\n摄影测量与遥感\n个人简介\n李星华，四川安岳人，工学博士，国家级青年人才，武汉大学遥感信息工程学院教授、博士生导师，地理国情监测系副主任，武汉大学四川招生组成员，IEEE高级会员，中国测绘学会摄影测量与遥感专委会委员兼学术秘书，中国图象图形学学会遥感图像专委会委员，中国指挥与控制学会智能指挥调度专委会委员，国际数字地球学会中国国家委员会成像光谱对地观测专委会委员，国际数字地球学会中国国家委员会青年科学家工委会委员，教育部学位中心评审专家，国家自然科学基金通讯评议专家。主要从事多时相智能遥感方面的研究工作，包括多时相配准、多时相重建、多时相变化分析、多源融合、人工智能等。\n主持国家重点研发计划专题2项、国家自然科学基金3项。获湖北省科技进步一等奖、测绘科技进步一等奖、地理信息科技进步一等奖、信息物理社会智能国际会议Best Oral Paper Award、地球观测与环境变化国际会议ESRI Outstanding Paper Award等。发表/录用学术论文100余篇，其中SCI论文70余篇（18篇入选ESI高被引/热点），谷歌学术总被引6000余次，入选斯坦福大学全球前2%顶尖科学家榜单、中国知网高被引学者；出版学术专著3部；申请/获批国家发明专利20项。受邀担任JSTARS、Landslides、JIST、JARS、RS、IASC、JoE、DAS等10余个期刊副主编/客座编辑/编委，获评JAG、IEEE JSTARS等期刊最佳审稿人。成果入选IEEE PROC封面文章，ISPRS JP&RS亮点文章，以及《Geo-spatial Information Science》、《测绘学报》、《遥感学报》、《武汉大学学报·信息科学版》优秀论文。\n个人学术网站：Google Scholar、ResearchGate、Publons、ORCID ID、Scopus ID、代码及数据（GitHub）\n欢迎有志青年报考硕、博士！\n加入我们，未来可期！\n联系邮箱：lixinghua5540@whu.edu.cn\n近期动态：\n2025年：\n2025年11月，论文 “NormGAN: Enhancing change detection of multi-temporal optical remote sensing images through effective radiometric normalization” 入选 ESI高被引论文\n2025年10月，参加“第九届全国成像光谱对地观测学术研讨会”（中国武汉）\n2025年10月，参加“第三届先进遥感国际研讨会暨2025年武汉遥感周”（中国武汉）\n2025年9月，入选国家高层次人才特殊支持计划\n2025年9月，入选测绘科学与技术学科“中国知网高被引学者Top5%”\n2025年9月，入选斯坦福大学全球前2%顶尖科学家榜单“2025年度科学影响力排行榜”，位居Geological & Geomatics Engineering学科中国内地第176位\n2025年9月，参加“自然资源智慧化遥感监测学术交流会”（中国杭州）\n2025年8月，获批国家自然科学基金面上项目“地物遮挡干扰的城区高分光学影像分类网络研究”\n2025年7月，论文 “Long time-series NDVI reconstruction in cloud-prone regions via spatio-temporal tensor completion” 入选 ESI高被引论文\n2025年7月，博士生白学辰论文 “A front-back view fusion strategy and a novel dataset for super tiny object detection in remote sensing imagery” 被人工智能领域顶级期刊 Knowledge-Based Systems (SCI, 中科院一区top, IF=7.6) 录用\n2025年6月，硕士生赵安琪论文 “ThiefCloud: A Thickness Fused Thin Cloud Removal Network for Optical Remote Sensing Image With Self-Supervised Learnable Cloud Prior” 被信息科学领域顶级期刊 IEEE TCSVT (SCI, 中科院一区top, IF=11.1) 录用\n2025年5月，指导大创项目本科生吴振川、甄航、张小新西撰写的论文 “SEMA-YOLO: Lightweight Small Object Detection in Remote Sensing Image via Shallow-layer Enhancement and Multi-scale Adaptation” 被遥感领域著名期刊 Remote Sensing  (SCI, 中科院二区, IF=4.1) 录用\n2025年5月，获得施普林格·自然杰出编辑奖（Landslides）\n2025年5月，参加“遥感青年科学家沙龙”（中国太原）\n2025年5月，参加“第十届青年地学论坛论坛”（中国合肥）\n2025年5月，论文 “Spatiotemporal Enhancement and Interlevel Fusion Network for Remote Sensing Images Change Detection” 入选 ESI热点论文\n2025年5月，论文 “Boundary-enhanced dual-stream network for semantic segmentation of high-resolution remote sensing images” 入选 ESI热点论文\n2025年5月，论文 “Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images” 入选 ESI高被引论文\n2025年4月，与博士生缪健豪参加 14th International Symposium on Digital Earth 国际会议，缪健豪获得“Best Presentation Award”（中国重庆）\n2025年3月，论文 “Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images” 入选Wiley旗下期刊 International Journal of Intelligent Systems 发表年度Top Cited Article 代码下载\n2025年3月，论文 “Boundary-enhanced dual-stream network for semantic segmentation of high-resolution remote sensing images” 入选 ESI高被引论文\n2025年3月，获评2024年度中国激光杂志社“百位优秀审稿人”\n2025年2月，博士生缪健豪论文 “NormGAN: Enhancing change detection of multi-temporal optical remote sensing images through effective radiometric normalization” 被遥感领域顶级期刊 ISPRS J. P&RS (SCI, 中科院一区top, IF=12.2) 录用 代码下载\n2025年1月，论文“遥感影像深度学习配准方法综述”入选《遥感学报》2024年度优秀论文\n2025年1月，获评《自然资源遥感》优秀审稿专家\n2024年：\n2024年12月，论文“A remote sensing assessment index for urban ecological livability and its application”入选《Geo-spatial Information Science》2024年度优秀论文\n2024年12月，获评《中国图象图形学报》优秀审稿专家\n2024年12月，硕士生顾小虎论文“高分遥感影像双通道并行混合卷积分类方法”入选《测绘学报》2024年度优秀论文\n2024年11月，硕士生黄艳媛获得一项国家发明专利授权\n2024年9月，入选斯坦福大学全球前2%顶尖科学家榜单“2024年度科学影响力排行榜”，位居Geological & Geomatics Engineering学科中国内地第244位\n2024年9月，获湖北省科技进步一等奖\n2024年8月，获地理信息科技进步一等奖\n2024年7月，硕士生张行健论文 “Wuhan Dataset: A High-Resolution Dataset of Spatiotemporal Fusion for Remote Sensing Images” 被遥感领域知名期刊 IEEE GRSL (SCI, 中科院三区, IF=4.4) 录用 数据下载\n2024年7月，博士生白学辰参加 IGARSS国际会议，并作口头报告 （希腊雅典）\n2024年7月，论文 “Spatiotemporal Enhancement and Interlevel Fusion Network for Remote Sensing Images Change Detection” 入选 ESI高被引论文 代码下载\n2024年7月，论文 “Concatenated Deep Learning Framework for Multi-task Change Detection of Optical and SAR Images” 入选 ESI高被引论文 代码下载\n2024年5月，参加“2024中国图象图形大会”（中国西安）\n2024年5月，受邀加入《武汉大学学报自然科学英文版》编委会\n2024年5月，参加“第九届青年地学论坛论坛”并作分会场特邀报告（中国厦门）\n2024年5月，硕士生王彩凤论文 “Boundary-enhanced dual-stream network for semantic segmentation of high-resolution remote sensing images” 被遥感领域顶级期刊 GIScience & Remote Sensing (SCI, 中科院一区top, IF=6.9) 录用 代码下载\n2024年5月，参加“第一届遥感地理学大会”（中国南京）\n2024年4月，硕士生张行健论文 “Enhanced wavelet based spatiotemporal fusion networks using cross-paired remote sensing images” 被遥感领域顶级期刊 ISPRS J. P&RS (SCI, 中科院一区top, IF=12.2) 录用 代码下载\n2024年4月，受邀担任期刊 Landslides 编辑 (SCI, IF=7.0)\n2024年2月，获评地学领域顶级期刊 International Journal of Applied Earth Observation and Geoinformation  (SCI, 中科院一区top, IF=8.6) 最佳审稿人 (Best Reviewer)\n2024年2月，受邀担任ESCI、EI期刊 Discover Applied Sciences 副主编 (ESCI, IF=2.6)\n2024年1月，硕士生黄艳媛论文 “Spatiotemporal Enhancement and Interlevel Fusion Network for Remote Sensing Images Change Detection” 被遥感领域顶级期刊 IEEE TGRS (SCI, 中科院一区top, IF=8.6) 录用 代码下载\n2024年1月，论文 “Land Cover Change Detection with Heterogeneous Remote Sensing Images: Review, Progress and Perspective” 入选 ESI高被引论文\n2023年：\n2023年12月，参加“中国仪器仪表学会图像科学与工程专业分会学术大会暨2023年会”（中国武汉）\n2023年12月，硕士生白学辰获得第三届《中国图象图形学报》研究生学术论坛优秀报告\n2023年12月，硕士生李澳获得一项国家发明专利授权\n2023年11月，硕士生张行健获得一项国家发明专利授权\n2023年11月，硕士生李澳论文 “Residual Dual U-shape Networks With Improved Skip Connections for Cloud Detection” 被遥感领域知名期刊 IEEE GRSL (SCI, 中科院三区, IF=4.4) 录用 代码下载\n2023年11月，参加“首届全国信息地理学大会” （中国苏州）\n2023年11月，硕士生杜正舜论文 “Concatenated Deep Learning Framework for Multi-task Change Detection of Optical and SAR Images” 被遥感领域知名期刊 IEEE JSTARS (SCI, 中科院二区, IF=5.3) 录用 代码下载\n2023年11月，硕士生张小双论文 “Block Adjustment-Based Radiometric Normalization by Considering Global and Local Differences” 入选 ESI高被引论文\n2023年11月，参加“第一届中国测绘地理信息大会”（中国德清）\n2023年11月，参加“2023摄影测量与遥感学术年会” （中国上海）\n2023年10月，硕士生缪健豪参加国际会议 “ICCSI 2023”，并获得 “Best Oral Paper Award”（中国西安）\n2023年10月，参加“第二届先进遥感国际研讨会暨2023年武汉遥感周”（中国武汉）\n2023年10月，入选斯坦福大学全球前2%顶尖科学家榜单“2023年度科学影响力排行榜”，位居Geological & Geomatics Engineering学科中国内地第199位\n2023年9月，硕士生白学辰论文 “Making the Earth Clear at Night: A High-resolution Nighttime Light Image Deblooming Network” 被遥感领域顶级期刊 IEEE TGRS (SCI, 中科院一区top, IF=8.6) 录用 代码下载\n2023年9月，与硕士生李澳、张行健参加 “12th International Conference on Image and Graphics (ICIG)”（中国南京）\n2023年9月，指导学院本科生赵安琪、王策论文 “A global+ multiscale hybrid network for hyperspectral image classification” 被国际遥感领域知名期刊 Remote Sensing Letters (SCI, IF=1.5) 录用\n2023年8月，参加“第五届热红外遥感大会”（中国大连）\n2023年7月，论文“面向高分影像建筑物提取的多层次特征融合网络”入选中国知网学术精要数据库高被引论文\n2023年6月，硕士毕业生徐梁论文 “Monitoring vegetation dynamics (2010–2020) in Shengnongjia Forestry District with cloud-removed MODIS NDVI series by a spatio-temporal reconstruction method” 被国际地学领域著名期刊The Egyptian Journal of Remote Sensing and Space Sciences (SCI, 中科院三区, IF=4.1) 录用\n2023年6月，受邀担任SCI期刊 Intelligent Automation & Soft Computing 编委 (SCI, IF=2.0)\n2023年5月，参加“第十八届中国地理信息科学理论与方法学术年会”（中国桂林）\n2023年5月，论文 “High-quality vegetation index product generation: A review of NDVI time series reconstruction techniques” 入选 ESI高被引论文\n2023年5月，论文 “Spatially Continuous and High-Resolution Land Surface Temperature Product Generation: A review of reconstruction and spatiotemporal fusion techniques” 入选 ESI高被引论文\n2023年5月，参加“测绘地理信息高质量发展论坛暨《测绘学报》学术年会”（中国广州）\n2023年5月，参加“全国遥感科学与技术学科专业建设研讨会”（中国武汉）\n2023年5月，担任“第八届青年地学论坛”组委会委员、学术安排负责人，遥感与地理信息科学主题联系人，地学大数据融合处理与应用专题召集人（中国武汉）\n2023年4月，硕士生孙姝颖参加“中国环境科学学会科学技术年会”（中国南昌）\n2023年2月，硕士生周玮论文 “A Fast Globally Optimal Seamline Detection Method for High-Resolution Remote Sensing Images” 被国际遥感领域知名SCI期刊 IEEE GRSL (SCI, 中科院三区, IF=4.4) 录用\n2022年：\n2022年12月，获评为《武汉大学学报·信息科学版》2022年度优秀作者\n2022年10月，通讯作者论文 “Land Cover Change Detection with Heterogeneous Remote Sensing Images: Review, Progress and Perspective” 被国际信息科学领域顶级期刊 Proceedings of the IEEE (SCI, 中科院一区top, IF=25.9) 录用\n2022年10月，硕士毕业生龙超俊论文 “Bishift Networks for Thick Cloud Removal with Multitemporal Remote Sensing Images” 被国际人工智能领域顶级期刊 IJIS (SCI, 中科院三区, IF=3.7) 录用 代码下载\n2022年10月，硕士毕业生王彩凤获得一项国家发明专利授权\n2022年10月，硕士毕业生张弘毅论文 “Combing remote sensing information entropy and machine learning for ecological environment assessment of Hefei-Nanjing-Hangzhou region, China” 被国际环境领域顶级期刊 JEMA (SCI, 中科院二区top, IF=8.4) 录用\n2022年10月，博士生景映红论文 “Cascaded Downscaling−Calibration Networks for Satellite Precipitation Estimation” 被国际遥感领域知名SCI期刊 IEEE GRSL (SCI, 中科院三区, IF=4.4) 录用\n2022年10月，硕士毕业生顾小虎论文“高分遥感影像双通道并行混合卷积分类方法”被《测绘学报》录用\n2022年9月，参加“2022同行评审周系列活动之MDPI杰出审稿人线上研讨会”\n2022年9月，论文 “An L1-regularized variational approach for NDVI time-series reconstruction considering inter-annual seasonal similarity” 被地学领域顶级期刊 JAG (SCI, 中科院一区top, IF=8.6) 录用\n2022年9月，硕士毕业生何美珍论文 “A Combined Loss Based Multi-Scale Fully Convolutional Network for High-Resolution Remote Sensing Image Change Detection” 入选 ESI高被引论文 代码下载\n2022年8月，通讯作者论文 “MID: A novel mountainous remote sensing imagery registration dataset assessed by a coarse-to-fine unsupervised cascading network” 被遥感领域知名期刊 Remote Sensing (SCI, 中科院二区, IF=4.1) 录用\n2022年8月，博士生景映红论文 “An attention mechanism based convolutional network for satellite precipitation downscaling over China” 被地学领域顶级期刊 Journal of Hydrology (SCI, 中科院一区top, IF=6.3) 录用\n2022年8月，与硕士生艾文浩、白学辰、缪健豪、张行健、李澳、黄艳媛参加“2022中国图象图形大会”（中国成都）\n2022年8月，博士生陈佳佳论文 “Ground-level ozone estimation based on geo-intelligent machine learning by fusing in-situ observations, remote sensing data, and model simulation data” 被地学领域顶级期刊 JAG (SCI, 中科院一区top, IF=8.6) 录用\n2022年7月，第一作者论文 “Recovering Quantitative Remote Sensing Products Contaminated by Thick Clouds and Shadows Using Multitemporal Dictionary Learning” 入选 ESI高被引论文\n2022年7月，与Zongxu Pan, Fan Zhang, Bo Tang, Wei Yao, Zhongling Huang在国际遥感领域知名期刊 Remote Sensing (SCI, IF=4.1) 组织专刊“Deep Learning Based Target Detection and Recognition in Remote Sensing Images”，投稿截止时间为2023年4月30日  (点击专刊名称即可投稿)\n2022年7月，获评地学领域顶级期刊 GIScience & Remote Sensing (SCI, 中科院一区top, IF=6.9) 顶级审稿人 (Top Reviewer)\n2022年6月，与Jingzhe Wang，Abderrazak Bannari，Jian Li在国际遥感领域知名期刊 Remote Sensing (SCI, IF=4.1) 组织专刊 “Initial Understanding of Landsat-9 Capabilities and Applications”，投稿截止时间为2023年4月30日  (点击专刊名称即可投稿)\n2022年6月，博士生景映红论文 “STAR NDSI collection: A cloud-free MODIS NDSI dataset (2001–2020) for China” 被地学领域顶级期刊 ESSD (SCI, 中科院一区top, IF=11.6) 录用 数据下载\n2022年5月，与两位伊朗学者在国际SCI期刊 Frontiers in Environmental Science (IF=3.7) 、Frontiers in Ecology and Evolution (IF=2.6) 、Frontiers in Earth Science (IF=2.0) 组织专刊 “Developing Machine Learning, Deep Learning, Clustering and Optimization Techniques for Intelligent Mineral Prospectivity Mapping and Geochemical Anomaly Modeling”，投稿截止时间为2022年9月21日  (点击专刊名称即可投稿)\n2022年5月，通讯作者论文 “A Flexible Reference-Insensitive Spatiotemporal Fusion Model for Remote Sensing Images Using Conditional Generative Adversarial Network” 入选 ESI高被引论文\n2022年5月，硕士生杜正舜论文 “A deep translation (GAN) based change detection network for optical and SAR remote sensing images” 入选 ESI高被引论文、热点论文  代码下载\n2022年4月，通讯作者论文 “A two-step deep learning framework for mapping gapless all-weather land surface temperature using thermal infrared and passive microwave data” 被遥感领域顶级期刊 RSE (SCI, 中科院一区top, IF=11.4) 录用\n2022年4月，硕士生余俊波论文 “A remote sensing assessment index for urban ecological livability and its application” 被地学领域知名期刊 GSIS (SCI, 中科院二区, IF=5.5) 录用\n2022年3月，硕士生顾小虎获得一项国家发明专利授权\n2022年2月，获评地学领域顶级期刊 International Journal of Applied Earth Observation and Geoinformation  (SCI, 中科院一区top, IF=8.6) 最佳审稿人 (Best Reviewer)\n2022年1月，获评《遥感技术与应用》优秀审稿专家\n2022年1月，受邀担任 Remote Sensing (SCI, IF=4.1) 编委 (Editorial Board Member)\n2021年：\n2021年12月，参加“第九届高校GIS论坛”（中国长沙）\n2021年12月，硕士生白学辰论文“面向高分影像建筑物提取的多层次特征融合网络”被《武汉大学学报·信息科学版》录用\n2021年11月，硕士生徐梁论文 “High-quality vegetation index product generation: A review of NDVI time series reconstruction techniques” 被地学领域顶级期刊 JAG (SCI, 中科院一区top, IF=8.6) 录用\n2021年11月，论文 “Missing Information Reconstruction of Remote Sensing Data: A Technical Review” 入选 ESI高被引论文\n2021年10月，与硕士生杜正舜、李澳、黄艳媛参加“第六届全国成像光谱对地观测学术研讨会”（中国宁波）\n2021年9月，硕士生艾文浩论文“遥感影像深度学习配准方法综述”被《遥感学报》录用\n2021年9月，参加“中国物联网与智慧城市大会”（中国青岛）\n2021年8月，获批国家自然科学基金面上项目“云雾条件下光学与SAR影像联合深度学习变化检测研究”\n2021年8月，合作论文 “Long time-series NDVI reconstruction in cloud-prone regions via spatio-temporal tensor completion” 在遥感领域顶级期刊 RSE (SCI, 中科院一区top, IF=11.4) 刊出\n2021年8月，受邀担任 Journal of Imaging Science and Technology (SCI) 副主编 (Associate Editor)\n2021年7月，受邀担任 IEEE JSTARS (SCI, IF=5.3) 副主编 (Associate Editor)\n2021年7月，与硕士生龙超俊线上参加国际遥感领域著名会议 “IGARSS 2021” （比利时布鲁塞尔）\n2021年7月，硕士生杜正舜论文 “A deep translation (GAN) based change detection network for optical and SAR remote sensing images” 被国际遥感领域顶级SCI期刊 ISPRS J. P&RS (SCI, 中科院一区top, IF=12.2) 录用 代码下载\n2021年7月，硕士生何美珍论文 “A Combined Loss Based Multi-Scale Fully Convolutional Network for High-Resolution Remote Sensing Image Change Detection” 被国际遥感领域知名SCI期刊 IEEE GRSL (SCI, 中科院三区, IF=4.4) 录用 代码下载\n2021年7月，通讯作者论文 “Robust registration for remote sensing images by combining and localizing feature- and area-based methods” 入选 ESI高被引论文\n2021年7月，与硕士生张弘毅、徐梁、艾文浩、顾小虎参加“第七届青年地学论坛”（中国贵阳）\n2021年7月，参加“第十一届空间综合人文学与社会科学论坛”（中国杭州）\n2021年6月，参加“第五届全国定量遥感学术论坛” ，主持学生竞赛专场（中国武汉）\n2021年4月，通讯作者论文 “Advances and Opportunities in Remote Sensing Image Geometric Registration: A Systematic Review of State-of-the-Art Approaches and Future Research Directions” 被遥感领域顶级期刊 IEEE GRSM (SCI, 中科院一区top, IF=16.4) 录用\n2021年4月，晋升为 IEEE Senior Member (高级会员)\n2021年4月，被评为 IEEE JSTARS (SCI, IF=5.3) 最佳审稿人 (Best Reviewer)\n2021年4月，参加“陆表遥感学术沙龙”（中国扬州）\n2021年4月，通讯作者论文 “Region-by-region registration combining feature-based and optical flow methods for remote sensing image” 被遥感领域知名期刊 Remote Sensing (SCI, 中科院二区, IF=4.1) 录用\n2021年3月，硕士生张弘毅论文 “Spatial-temporal analysis of urban ecological comfort index derived from remote sensing data - A case study of Hefei, China” 被遥感领域知名期刊 JARS (SCI, IF=1.4) 录用\n2021年3月，硕士生龙超俊论文 “Thick Cloud Removal From Remote Sensing Images Using Double Shift Networks” 被国际遥感领域著名会议 \"IGARSS 2021\" 录用（比利时布鲁塞尔）\n2021年3月，论文“基于光流校正的复杂地形区多时相遥感影像配准”在《遥感学报》刊出\n2021年3月，入选《遥感技术与应用》青年编委\n2021年1月，与 Yongtao Yu 教授，Xiaobin Guan 博士，Ruitao Feng 博士在国际遥感领域知名期刊 Remote Sensing (SCI, IF=4.1) 组织专刊  “Applications of Remote Sensing Imagery for Urban Areas”，投稿截止时间为2021年9月30日  (点击专刊名称即可投稿)\n2021年1月，获评《遥感学报》2020年度优秀审稿专家\n2021年1月，合作论文 “Spatially Continuous and High-resolution Land Surface Temperature Product Generation: A Review of Reconstruction and Spatiotemporal Fusion Techniques” 被遥感领域顶级期刊 IEEE GRSM (SCI, 中科院一区top, IF=16.4) 录用\n2021年1月，通讯作者论文 “A Flexible Reference-Insensitive Spatiotemporal Fusion Model for Remote Sensing Images Using Conditional Generative Adversarial Network” 被遥感领域顶级期刊 IEEE TGRS (SCI, 中科院一区top, IF=8.6) 录用\n2020年：\n2020年12月，与 Liangpei Zhang 教授 (IET/IEEE Fellow)，法国 Jocelyn Chanussot 教授 (IEEE Fellow)，美国 Assefa M. Melesse 教授在国际遥感领域知名期刊 Journal of Applied Remote Sensing (SCI) 组织专刊 “Multi-temporal Remote Sensing Data Processing and Applications” ，投稿截止时间为2021年5月1日 (点击专刊名称即可投稿)\n2020年11月，通讯作者论文 “The Environmental Story During the COVID-19 Lockdown: How Human Activities Affect PM2.5 Concentration in China?” 被国际遥感领域知名SCI期刊 IEEE GRSL (SCI, 中科院三区, IF=4.4) 录用\n2020年11月，受邀担任国际期刊 The Journal of Engineering (ESCI, EI) 副主编\n2020年11月，受邀担任 Frontiers in Remote Sensing 国际期刊 Image Analysis and Classification、Data Fusion and Assimilation 分部 Review Editor\n2020年10月，硕士生张小双论文 “Block Adjustment-Based Radiometric Normalization by Considering Global and Local Differences” 在国际遥感领域知名SCI期刊 IEEE GRSL (SCI, 中科院三区, IF=4.4)发表\n2020年9月，获得武汉大学遥感信息工程学院第四届“教书育人奖” 称号\n2020年5月，指导硕士生徐梁在国际遥感领域著名会议 ISPRS Congress 发表论文 “The Reconstruction of NDVI Time Series Using Spatio-temporal Information”（法国尼斯）\n2020年3月，第一作者论文 “Cloud removal in remote sensing images using nonnegative matrix factorization and error correction” 入选 ESI高被引论文\n2019年：\n2019年12月，第一作者论文 “Generating High-quality and High-resolution Seamless Satellite Imagery for Large-scale Urban Regions” 被遥感领域著名期刊 Remote Sensing  (SCI, 中科院二区, IF=4.1) 录用\n2019年10月，博士生景映红参加“第十六届中国地理信息科学理论与方法学术年会”，并做报告 “MODIS积雪覆盖产品去云方法研究”（中国上海）\n2019年9月，硕士生景映红论文 “A Two-stage Fusion Framework to Generate a Spatio-temporally Continuous MODIS NDSI Product over the Tibetan Plateau” 被遥感领域著名期刊 Remote Sensing  (SCI, 中科院二区, IF=4.1) 录用\n2019年8月，参加 “MultiTemp 2019” 国际会议（中国上海）\n2019年7月，指导硕士生景映红获得“第六届全国积雪遥感学术研讨会”学术报告类三等奖（青海西宁）\n2019年6月，第一作者论文 “Remote Sensing Image Mosaicking: Achievements and Challenges” 被遥感领域顶级期刊 IEEE GRSM  (SCI, 中科院一区top, IF=16.4) 录用\n2019年6月，指导硕士生景映红获得 “EOEC-GiT4NDM 2019” 国际会议优秀论文奖（四川成都）\n2019年6月，参加 \"GSW 2019\" 国际会议，博士生冯蕊涛作 “Mountainous Remote Sensing Images Registration Based on Improved Optical Flow Estimation” 口头报告（荷兰阿姆斯特丹/恩斯赫德）\n2019年5月，第一作者论文 “The recent developments in cloud removal approaches of MODIS snow cover product” 被地学领域顶级期刊 HESS (SCI, 中科院一区top, IF=5.8) 录用\n2019年5月，博士生姜红涛论文 “Extending the SMAP 9-km soil moisture product using a spatio-temporal fusion model” 被遥感领域顶级期刊 RSE (SCI, 中科院一区top, IF=11.4) 录用\n2019年3月，博士生冯蕊涛论文 “Robust registration for remote sensing images by combining and localizing feature- and area-based methods” 被遥感领域顶级期刊 ISPRS J. P&RS (SCI, 中科院一区top, IF=12.2) 录用\n2019年2月，第一作者论文 “Cloud removal in remote sensing images using nonnegative matrix factorization and error correction” 在遥感领域顶级期刊 ISPRS J. P&RS (SCI, 中科院一区top, IF=12.2) 出版\n团队成员\n暂无内容\n工作经历\n2024-11····至今\n遥感信息工程学院\n| 武汉大学\n| 教授\n2020-3····2024-11\n遥感信息工程学院\n| 武汉大学\n| 副教授\n2016-7····2020-2\n遥感信息工程学院\n| 武汉大学\n| 特聘副研究员\n教育经历\n2011-9····2016.6\n武汉大学\n|\n地图制图学与地理信息工程\n| 工学博士学位\n|\n博士研究生毕业\n2007-9····2011.6\n武汉大学\n|\n地理信息系统\n| 理学学士学位\n|\n大学本科毕业\n社会兼职\n2021-7····至今\nIEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 副主编\n2021-8····至今\nJournal of Imaging Science and Technology 副主编\n2020-11····至今\nThe Journal of Engineering 副主编\n2022-1····至今\nRemote Sensing 编委\n2023-6····至今\nIntelligent Automation and Soft Computing 编委\n2022-4····2026.12\n中国测绘学会摄影测量与遥感专委会 委员兼学术秘书\n2022-10····至今\n中国图象图形学学会遥感图像专委会 委员\n2022-1····至今\n中国指挥与控制学会智能指挥调度专委会 委员\n2023-1····至今\n湖北省测绘地理信息学会摄影测量与遥感专委会 秘书\n2022-5····2022.9\nFrontiers in Ecology and Evolution 客座编辑\n2022-5····2022.9\nFrontiers in Environmental Science 客座编辑\n2022-5····2022.9\nFrontiers in Earth Science 客座编辑\n2021-1····2021.9\nRemote Sensing 客座编辑\n2020-12····2021.5\nJournal of Applied Remote Sensing 客座编辑\n2020-11····至今\nFrontiers in Remote Sensing 副主编\n2021-3····至今\n遥感技术与应用 青年编委\n2021-4····至今\nIEEE高级会员\n2014-1····2021.4\nIEEE会员\n2022-1····至今\nACM 会员\n2018-10····至今\n中国地理学会会员\n2012-12····至今\n中国遥感应用协会会员\n研究方向\n[1].深度学习与人工智能\n[2].稀疏表达与压缩感知\n[3].遥感影像处理算法（配准、拼接、融合、重建等）\n[4].多时相遥感分析与应用（变化检测、时序监测等）\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

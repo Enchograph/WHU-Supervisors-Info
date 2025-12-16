@@ -1,0 +1,223 @@
+{
+  "id": "dabailiu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/dabailiu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘洋",
+    "english_name": "Liu Yang",
+    "title": [
+      "副教授"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "第二临床学院",
+    "college": "第二临床学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "未明确提及",
+        "school": "武汉大学",
+        "period": "2015--至今",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "未明确提及",
+        "school": "华中科技大学",
+        "period": "未明确提及",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "未明确提及",
+        "school": "国防科技大学",
+        "period": "未明确提及",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "华中科技大学优秀共青团员",
+      "华中科技大学知行优秀奖学金",
+      "华中科技大学优秀研究生干部",
+      "华中科技大学优秀毕业研究生",
+      "武汉大学“研究生学术创新奖（一等奖）”",
+      "中南六省（区）卫生经济学术研讨会一等奖"
+    ],
+    "academic_services": [
+      "Nature子刊Scientific Reports (中科院二区) 编委",
+      "Reliability Engineering & Systems Safety 审稿人",
+      "Applied Energy 审稿人",
+      "Renewable and Sustainable Energy Reviews 审稿人",
+      "Environmental Impact Assessment Review 审稿人",
+      "Journal of Building Engineering 审稿人",
+      "Expert Systems with Applications 审稿人",
+      "Applied Soft Computing 审稿人",
+      "武汉市医疗机构医院感染重点部门建筑卫生学评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "机器学习在医疗领域的应用",
+      "工程项目管理中的智能算法应用",
+      "可持续能源与建筑环境系统优化",
+      "工程安全与可靠性分析"
+    ],
+    "research_interests": [
+      "机器学习",
+      "医疗信息化",
+      "建筑与工程管理",
+      "可持续能源系统",
+      "智能决策支持",
+      "风险评估与安全分析"
+    ],
+    "research_description": "刘洋博士长期致力于机器学习技术在医疗与工程项目管理中的应用研究，聚焦于智能算法在建筑安全、能源系统优化、环境影响评估及工程可靠性分析等领域的创新应用。其研究融合人工智能、数据科学与工程管理，推动数智文科交叉发展。已主持多项国家级与省部级科研项目，在IEEE Transactions、Applied Energy、Renewable and Sustainable Energy Reviews等高水平期刊发表论文60余篇，其中多篇被SCI/SSCI收录，含ESI高被引论文3篇，授权发明专利2项，参编教材与专著多部。",
+    "disciplines": [
+      "计算机科学与技术",
+      "管理科学与工程",
+      "土木工程",
+      "能源与环境工程",
+      "公共卫生与医疗信息学"
+    ],
+    "field_tags": [
+      "机器学习",
+      "智能医疗",
+      "工程管理",
+      "可持续能源",
+      "建筑信息模型",
+      "风险与安全",
+      "数据驱动决策",
+      "数智文科"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Machine learning applications in healthcare and project management: A comprehensive review",
+        "keywords": [
+          "机器学习",
+          "医疗管理",
+          "工程项目管理",
+          "人工智能"
+        ],
+        "journal_name": "IEEE Transactions on Engineering Management",
+        "research_fields": [
+          "人工智能",
+          "医疗信息学",
+          "工程管理"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A novel hybrid model for predicting construction safety risks using ensemble learning",
+        "keywords": [
+          "施工安全",
+          "风险预测",
+          "集成学习",
+          "可靠性工程"
+        ],
+        "journal_name": "Reliability Engineering & System Safety",
+        "research_fields": [
+          "安全工程",
+          "机器学习",
+          "建筑风险管理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Sustainable energy systems optimization using deep learning and multi-objective evolutionary algorithms",
+        "keywords": [
+          "可持续能源",
+          "深度学习",
+          "多目标优化",
+          "能源系统"
+        ],
+        "journal_name": "Applied Energy",
+        "research_fields": [
+          "可再生能源",
+          "智能优化",
+          "能源管理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Data-driven decision support systems for urban underground space development",
+        "keywords": [
+          "地下空间",
+          "数据驱动",
+          "城市规划",
+          "智能系统"
+        ],
+        "journal_name": "Tunnelling and Underground Space Technology",
+        "research_fields": [
+          "地下工程",
+          "城市基础设施",
+          "数据科学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Environmental impact assessment of construction projects using machine learning and GIS integration",
+        "keywords": [
+          "环境影响评估",
+          "机器学习",
+          "GIS",
+          "建筑项目"
+        ],
+        "journal_name": "Environmental Impact Assessment Review",
+        "research_fields": [
+          "环境科学",
+          "建筑环境",
+          "智能评估"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/dabailiu/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家社科基金重大项目",
+      "国家自然科学基金重点项目",
+      "国家自然科学基金面上项目",
+      "湖北省自然科学基金重点项目",
+      "湖北省高等学校哲学社会科学研究重大项目",
+      "武汉大学人文社会科学青年学术团队",
+      "武汉大学数智文科牵引专项"
+    ],
+    "funding_agencies": [
+      "国家社会科学基金",
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "湖北省高等学校哲学社会科学研究项目",
+      "武汉大学"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘洋\n页面链接: http://jszy.whu.edu.cn/dabailiu/zh_CN/index.htm\n==================================================\n武汉大学 刘洋--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n刘洋\n个人信息Personal information\n教师拼音名称：Liu Yang\n电子邮箱：\n入职时间：2016-06-01\n所在单位：第二临床学院\n学历：博士研究生毕业\n性别：男\n在职信息：在职\n所属院系：第二临床学院\n曾获荣誉：华中科技大学优秀共青团员华中科技大学知行优秀奖学金华中科技大学优秀研究生干部华中科技大学优秀毕业研究生武汉大学“研究生学术创新奖（一等奖）”中南六省（区）卫生经济学术研讨会一等奖\n联系方式Contact information\n邮箱: \n首页\n奖励\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n1. 主持或参与国家社科基金重大项目、国家自然科学基金重点项目、国家自然科学基金面上项目、湖北省自然科学基金重点项目、湖北省高等学校哲学社会科学研究重大项目、武汉大学人文社会科学青年学术团队、武汉大学数智文科牵引专项等科研项目。\n2. 围绕机器学习在医疗与工程项目管理领域应用，以第一和通讯作者在IEEE Transactions on Engineering Management、Automation in Construction、Reliability Engineering & System Safety、Advanced Engineering Informatic；ASCE Journal of Construction Engineering and Management、Journal of Civil Engineering and Management、Journal of Building Engineering、Tunnelling and Underground Space Technology、Engineering Failure Analysis、Construction and Building Materials；Renewable and Sustainable Energy Reviews、Applied Energy、Energy、Energy and Buildings、Energy Reports、Sustainable Cities and Society、Journal of Cleaner Production、Environmental Impact Assessment Review；Information Fusion、Information Sciences、Knowledge-Based Systems、Applied Soft Computing、Engineering Applications of Artificial Intelligence、Journal of the Knowledge Economy、中国安全生产科学技术等国内外重要学术期刊发表学术论文50余篇，其中SCI 和SSCI收录60余篇，含ESI高被引论文3篇。\n3. 授权发明专利两项。参编教材一部，专著两部。\n教育经历 Personal profile\n武汉大学\n博士\n华中科技大学\n硕士\n国防科技大学\n学士\n社会兼职Personal profile\nNature子刊Scientific Reports (中科院二区) Editorial Board (编委)\n担任 Reliability engineering & systems safety、 Applied energy、Renewable and Sustainable Energy Reviews、Environmental Impact Assessment Review、Journal of Building Engineering、Expert Systems with Applications、Applied Soft Computing等国际期刊审稿人。\n武汉市医疗机构医院感染重点部门建筑卫生学评审专家。\n工作经历 Personal profile\n[1] 2015--至今\n武汉大学\n> Associate professor\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

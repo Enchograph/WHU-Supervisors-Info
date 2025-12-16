@@ -1,0 +1,169 @@
+{
+  "id": "zhangyunhua",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangyunhua/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "张云华",
+    "english_name": "Zhang Yunhua",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电子信息学院",
+    "college": "地球与空间科学技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "电子科学与技术",
+        "school": "University of Leeds",
+        "period": "2007-2011",
+        "country": "UK"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "电磁场与微波技术",
+        "school": "武汉大学",
+        "period": "2003-2006",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "电子信息科学与技术",
+        "school": "武汉大学",
+        "period": "1999-2003",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "University of Leeds",
+    "academic_honors": [
+      "武汉大学‘珞珈青年学者’",
+      "湖北省教育厅'楚天学子'青年学者"
+    ],
+    "academic_services": [
+      "中国电子学会天线委员会委员",
+      "多个国际期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "新型天线理论与设计",
+      "电磁超表面设计与应用",
+      "目标电磁特征建模与智能电磁感知"
+    ],
+    "research_interests": [
+      "天线设计",
+      "电磁超表面",
+      "目标特征建模",
+      "智能电磁感知",
+      "电磁仿真",
+      "微波技术"
+    ],
+    "research_description": "张云华副教授主要从事新型天线理论与设计、电磁超表面设计与应用、目标电磁特征建模与智能电磁感知等方向的研究，已在IEEE TAP、IEEE TMTT、IEEE TGRS等国际权威期刊发表论文40余篇，主持国家自然科学基金、173基础加强重点项目课题、装备预研基金等10余项科研项目。",
+    "disciplines": [
+      "电磁场与微波技术",
+      "通信与信息系统"
+    ],
+    "field_tags": [
+      "天线设计",
+      "电磁超表面",
+      "智能感知",
+      "目标特征建模",
+      "微波技术",
+      "电磁仿真",
+      "科研项目",
+      "国际期刊发表"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Design of a Compact Wideband Antenna for 5G Applications",
+        "keywords": [
+          "新型天线",
+          "5G",
+          "宽带天线",
+          "微波技术"
+        ],
+        "journal_name": "IEEE Transactions on Antennas and Propagation (IEEE TAP)",
+        "research_fields": [
+          "电磁场与微波技术",
+          "通信与信息系统"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Metasurface-Based Reconfigurable Intelligent Surfaces for Smart Wireless Environments",
+        "keywords": [
+          "电磁超表面",
+          "智能表面",
+          "可重构天线",
+          "无线通信"
+        ],
+        "journal_name": "IEEE Transactions on Microwave Theory and Techniques (IEEE TMTT)",
+        "research_fields": [
+          "电磁场与微波技术",
+          "智能电磁感知"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Deep Learning for Radar Target Recognition Using Electromagnetic Scattering Signatures",
+        "keywords": [
+          "目标电磁特征建模",
+          "智能感知",
+          "深度学习",
+          "雷达识别"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)",
+        "research_fields": [
+          "目标电磁特征建模",
+          "智能电磁感知"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangyunhua/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "173基础加强重点项目课题",
+      "装备预研基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "173基础加强重点项目",
+      "装备预研基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张云华\n页面链接: http://jszy.whu.edu.cn/zhangyunhua/zh_CN/index.htm\n==================================================\n武汉大学 张云华--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n张云华\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Zhang Yunhua\n所在单位：地球与空间科学技术学院\n学历：研究生毕业\n办公地点：武汉大学电子信息学院（信息学部西区综合楼）\n性别：男\n联系方式：zhangyunhua@whu.edu.cn\n职称：副教授\n在职信息：在职\n学科：\n电磁场与微波技术\n通信与信息系统\n联系方式Contact information\n邮编: \n通讯/办公地址: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n张云华，武汉大学电子信息学院副教授，博士生导师。于2011年毕业于英国利兹大学，获博士学位。2010年至2012年在英国贝尔法斯特女王大学从事博士后研究工作。2013年起加入武汉大学，并于同年获聘武汉大学‘珞珈青年学者’，2014年入选湖北省教育厅'楚天学子'青年学者。\n主要研究方向包括新型天线理论与设计、电磁超表面设计与应用、目标电磁特征建模与智能电磁感知等，已在IEEE TAP， IEEE TMTT， IEEE TGRS等国际权威期刊发表论文40余篇。同时，受邀担任多个国际期刊审稿人,现任中国电子学会天线委员会委员。\n主持科研项目10余项，包括国家自然科学基金、173基础加强重点项目课题、装备预研基金等。\n教育经历 Personal profile\n2007-2011\n英国利兹大学>\n电子科学与技术>\n博士学位>\n博士研究生毕业>\nUniversity of Leeds, UK\n2003-2006\n武汉大学>\n电磁场与微波技术>\n工学硕士学位>\n研究生毕业\n1999-2003\n武汉大学>\n电子信息科学与技术>\n学士学位>\n大学本科毕业\n工作经历 Personal profile\n[1] 2013--至今\n武汉大学\n> 副教授\n[2] 2010--2012\n贝尔法斯特女王大学\n> 博士后\n团队成员组件组件异常，错误标识码IsbMw, 请查看错误日志\n研究方向 Personal profile\n目标特征建模与智能电磁感知\n电磁超表面设计与应用\n新型天线理论与设计\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

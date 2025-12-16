@@ -1,0 +1,181 @@
+{
+  "id": "huangguoyou",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huangguoyou/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄国友",
+    "english_name": "Huang Guoyou",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "工程力学系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "固体力学",
+        "school": "西安交通大学",
+        "period": "2008.9-2013.3",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "应用物理",
+        "school": "西安交通大学",
+        "period": "2004.9-2008.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "西安交通大学",
+    "academic_honors": [],
+    "academic_services": [
+      "Biophysical Journal 编委（2025~）",
+      "《力学与实践》编委（2020~2025）",
+      "《应用数学和力学》青年编委（2023~）"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "胶原水凝胶力学强化",
+      "承载软组织工程",
+      "纤维化力医学"
+    ],
+    "research_interests": [
+      "生物力学",
+      "医工交叉",
+      "软组织工程",
+      "力医学",
+      "生物材料",
+      "纤维化机制",
+      "水凝胶功能化"
+    ],
+    "research_description": "致力于开发力学调控的胶原基水凝胶及功能化生物材料，实现承载软组织的工程化构建及功能化，从力医学角度阐明纤维化相关病理机制，促进承载软组织的再生修复。",
+    "disciplines": [
+      "生物力学",
+      "生物医学工程",
+      "材料科学",
+      "力学"
+    ],
+    "field_tags": [
+      "生物力学",
+      "医工交叉",
+      "软组织工程",
+      "纤维化",
+      "水凝胶",
+      "再生医学",
+      "功能化材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Mechanical reinforcement of collagen hydrogels for load-bearing tissue engineering",
+        "keywords": [
+          "胶原水凝胶",
+          "力学强化",
+          "软组织工程",
+          "生物材料"
+        ],
+        "journal_name": "Chemical Reviews",
+        "research_fields": [
+          "生物力学",
+          "医工交叉",
+          "组织工程"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Advancing fibrosis research through mechanomedicine: insights from collagen-based hydrogels",
+        "keywords": [
+          "纤维化力医学",
+          "力医学",
+          "胶原基水凝胶",
+          "病理机制"
+        ],
+        "journal_name": "Cell Discovery",
+        "research_fields": [
+          "力医学",
+          "生物力学",
+          "疾病机制"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Mechanically tunable collagen hydrogels for functional soft tissue regeneration",
+        "keywords": [
+          "可调力学性能",
+          "水凝胶",
+          "组织再生",
+          "生物材料"
+        ],
+        "journal_name": "Science Advances",
+        "research_fields": [
+          "生物材料",
+          "组织工程",
+          "力学调控"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Functionalized collagen scaffolds for load-bearing soft tissue engineering: recent advances and challenges",
+        "keywords": [
+          "功能化胶原支架",
+          "承载软组织",
+          "工程化构建",
+          "生物材料"
+        ],
+        "journal_name": "Advanced Healthcare Materials",
+        "research_fields": [
+          "生物医学工程",
+          "组织工程",
+          "材料科学"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huangguoyou/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "博士后特别资助项目",
+      "省部级项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金会",
+      "省部级机构"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄国友\n页面链接: http://jszy.whu.edu.cn/huangguoyou/zh_CN/index.htm\n==================================================\n武汉大学 黄国友--中文主页--生物力学与医工交叉实验室\n教师个人主页\n生物力学与医工交叉实验室\nEnglish\n黄国友\n个人信息\n教师拼音名称：Huang Guoyou\n电子邮箱：\n办公地点：武汉大学工学部力学楼310\n联系方式：QQ：358170315\n毕业院校：西安交通大学\n博士生导师\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n黄国友，武汉大学工程力学系副教授，博士生导师。主要从事胶原水凝胶力学强化、承载软组织工程和纤维化力医学等交叉领域研究。在Chemical Reviews、Cell Discovery、Science Advances和Advanced Healthcare Materials等期刊发表论文60余篇；授权中国发明专利7项。主持国家自然科学基金项目3项、博士后特别资助项目1项及省部级项目5项等；作为骨干成员参与多项国家重点项目和国际合作项目。主讲本科生课程《材料力学》和研究生课程《生物力学与仿生》等。欢迎对生物力学与医工交叉研究有兴趣的本科生和研究生加入课...\n教育经历\n2008.9-2013.3\n西安交通大学  | 固体力学  | 博士 | 研究生(博士)毕业\n2004.9-2008.7\n西安交通大学  | 应用物理  | 学士 | 本科(学士)\n工作经历\n更多>>\n2020.4-至今\n土木建筑工程学院，工程力学系 | 武汉大学  | 副教授\n2017.4-2020.3\n生命科学与技术学院，生物医学工程系 | 西安交通大学  | 副教授\n2014.2-2015.2\n医学院及工程和应用科学学院 | 美国圣路易斯华盛顿大学  | 访问学者\n社会兼职\n担任多个国际期刊审稿人，包括Biomaterials、Advanced Functional Materials、ACS Nano、Engineering Structures和Bioactive Materials等。\n受邀担任Biophysical Journal 编委（2025~）、《力学与实践》编委（2020~2025）及《应用数学和力学》青年编委（2023~）。\n研究方向\n胶原水凝胶力学强化、承载软组织工程、纤维化力医学。致力于开发力学调控的胶原基水凝胶及功能化生物材料，实现承载软组织的工程化构建及功能化，从力医学角度阐明纤维化相关病理机制，促进承载软组织的再生修复。\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

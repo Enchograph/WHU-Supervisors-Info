@@ -1,0 +1,202 @@
+{
+  "id": "drwanghao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/drwanghao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王豪",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "微电子",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "微电子学与固体电子学",
+        "school": "武汉大学",
+        "period": "2003",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士",
+        "field": "微电子学与固体电子学",
+        "school": "武汉大学",
+        "period": "2006",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "微电子学与固体电子学",
+        "school": "武汉大学",
+        "period": "2009",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "IEEE Member",
+      "学术期刊评审",
+      "学习竞赛评审",
+      "学术项目评审",
+      "学位论文评审"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "纳电子器件数值模拟",
+      "新器件电路模型与电路应用"
+    ],
+    "research_interests": [
+      "计算电子学",
+      "AI电路应用",
+      "自旋电子学",
+      "量子图神经网络",
+      "半导体器件仿真",
+      "磁性隧道结",
+      "场效应晶体管优化"
+    ],
+    "research_description": "基于计算电子学方法，开展纳电子器件的数值模拟与电路应用研究，重点探索自旋电子器件、新型场效应晶体管（如碳纳米管TFETs）及基于图神经网络的原子级半导体器件仿真技术。研究涵盖场调制自旋塞贝克效应、无场自旋轨道矩开关、垂直磁各向异性调控等前沿方向，并推动人工智能技术在集成电路设计与疾病诊断中的跨学科应用。",
+    "disciplines": [
+      "微电子学与固体电子学",
+      "电子信息",
+      "集成电路工程",
+      "物理电子学"
+    ],
+    "field_tags": [
+      "纳电子器件",
+      "数值模拟",
+      "自旋电子学",
+      "AI芯片",
+      "量子计算",
+      "半导体仿真",
+      "磁性器件",
+      "图神经网络",
+      "集成电路设计"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 10,
+    "representative_publications": [
+      {
+        "title": "Electric field-tuned spin Seebeck effect in doped SiC nanoribbons",
+        "keywords": [
+          "自旋塞贝克效应",
+          "碳化硅纳米带",
+          "电场调控",
+          "计算电子学"
+        ],
+        "journal_name": "Journal of Computational Electronics",
+        "research_fields": [
+          "纳电子器件",
+          "自旋电子学",
+          "计算电子学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Graph Representation Framework for Accelerating Atomic-Level Semiconductor Device Simulation",
+        "keywords": [
+          "图表示框架",
+          "原子级模拟",
+          "半导体器件",
+          "加速计算"
+        ],
+        "journal_name": "IEEE Transactions on Electron Devices",
+        "research_fields": [
+          "半导体器件模拟",
+          "图神经网络",
+          "集成电路设计"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "A novel field-free SOT magnetic tunnel junction with local VCMA-induced switching",
+        "keywords": [
+          "无场自旋轨道矩",
+          "磁性隧道结",
+          "VCMA效应",
+          "磁存储"
+        ],
+        "journal_name": "Journal of Magnetism and Magnetic Materials",
+        "research_fields": [
+          "自旋电子学",
+          "磁存储器件",
+          "纳米磁性材料"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "A Spatial-Based Quantum Graph Convolutional Neural Network and Its Full-Quantum Circuit Implementation",
+        "keywords": [
+          "空间量子图卷积",
+          "全量子电路",
+          "量子机器学习",
+          "神经网络"
+        ],
+        "journal_name": "Advanced Quantum Technologies",
+        "research_fields": [
+          "量子计算",
+          "量子机器学习",
+          "量子电路设计"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "JAMC: A jigsaw-based autoencoder with masked contrastive learning for cardiovascular disease diagnosis",
+        "keywords": [
+          "拼图自编码器",
+          "掩码对比学习",
+          "心脏病诊断",
+          "深度学习"
+        ],
+        "journal_name": "Knowledge-Based Systems",
+        "research_fields": [
+          "人工智能医疗",
+          "深度学习",
+          "生物信息学"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/?user=0eovXlAAAAAJ"
+      },
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0001-5279-3645"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王豪\n页面链接: http://jszy.whu.edu.cn/drwanghao/zh_CN/index.htm\n==================================================\n武汉大学 王豪--中文主页--首页\n王豪\n副教授\n硕士生导师\n主要任职：微电子\n性别：男\n学历：研究生毕业\n所在单位：物理科学与技术学院\n办公地点：新楼D-119\n联系方式：电话:027-68752481-8088\n邮箱：wanghao(at)whu.edu.cn\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n2003、2006、2009年于武汉大学获工学学士、硕士、博士学位。2011年至2012年，香港科技大学博士后。先后承担《半导体物理》、《模拟IC设计》、《电子线路》、《微电子学数值技术》、《电子线路实验》等课程。\n基于计算电子学方法，在纳电子器件及其AI电路应用领域展开工作，在微电子学与固体电子学、电子信息、集成电路工程、物理电子等专业招收学硕、专硕。\n指导学生获得中国研究生创“芯”大赛国家一等奖（创芯之星竞演）、光谷赛道（企业命题）一等奖、大学生集成电路创新创业大赛国家一等奖、大学生物理实验竞赛（创新赛）国家一等奖、国家大学生创新创业训练计划优秀结题项目、武汉大学优秀学士学位论文等。\nPostgraduate work recently:[1] J. Huang, H. Su, J. He, Q. Huang, H. Wang*, and S. Chang*, \"Electric field-tuned spin Seebeck effect in doped SiC nanoribbons,\" Journal of Computational Electronics, vol. 24, p. 154, 2025. (Cover Art 封面图片)\n[2] T. Wang, Z. Wang, J. He, H. Wang*, S. Chang*, \"Graph Representation Framework for Accelerating Atomic-Level Semiconductor Device Simulation,\" IEEE Transactions on Electron Devices, vol. 72, pp. 2625-2632, 2025.\n[3] R. Zhou, H. Zhang, J. He, Q. Huang, H. Wang*, S. Chang*, \"A novel field-free SOT magnetic tunnel junction with local VCMA-induced switching,\" Journal of Magnetism and Magnetic Materials, vol. 627, p. 173077, 2025.\n[4] Y. Zeng, J. He, Q. Huang, H. Wang*, S. Chang*, \"A Spatial-Based Quantum Graph Convolutional Neural Network and Its Full-Quantum Circuit Implementation,\" Advanced Quantum Technologies, p. 2400395, 2025.\n[5] Y. Ge, H. Zhang, J. Shi, D. Luo, S. Chang, J. He, Q. Huang*, H. Wang*, \"JAMC: A jigsaw-based autoencoder with masked contrastive learning for cardiovascular disease diagnosis,\" Knowledge-Based Systems, vol. 311, p. 113090, 2025. Undergraduate training:\nM. Wang, R. Zhou, H. Wang*, S. Chang*, \"Field-free spin-orbit torque switching in orthogonal magnetization configuration with interlayer DMI and tilted perpendicular magnetic anisotropy axes,\" Journal of Magnetism and Magnetic Materials, vol. 614, p. 172748, 2025.\nBook chapter:H. Wang, “Carbon Nanotube TFETs: Structure optimization with numerical simulations”, Tunneling Field Effect Transistor Technology, 2016 –Springer International Publishing. DOI:10.1007/978-3-319-31653-6_7\nScholar:  https://scholar.google.com/?user=0eovXlAAAAAJ  ORCID:  https://orcid.org/0000-0001-5279-3645\n教育经历\n2006.9 -- 2009.12\n武汉大学\n微电子学与固体电子学\n工学博士学位\n博士\n工作经历\n2018.11 -- 至今\n物理学院\n副教授\n社会兼职\nIEEE Member. 学术期刊评审、学习竞赛评审、学术项目评审、学位论文评审等。\n研究方向\n纳电子器件数值模拟和电路应用(点击顶部导航栏->科学研究->研究方向)\n新器件电路模型和电路应用(点击顶部导航栏->科学研究->研究方向)\n团队成员\n团队名称： 研究生、本科生\n团队介绍：在微电子学与固体电子学、电子信息、集成电路工程等专业招收学硕、专硕。在微电子、物理、弘毅学堂等专业招收本科生参加业余科研、大学生创新创业训练项目、大学生集成电路创新实践竞赛等。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

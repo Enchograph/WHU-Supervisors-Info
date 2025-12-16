@@ -1,0 +1,216 @@
+{
+  "id": "li_yi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/li_yi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李祎",
+    "english_name": "",
+    "title": [
+      "副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "高电压绝缘监测实验室",
+    "college": "电气与自动化学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "电气工程",
+        "school": "武汉大学",
+        "period": "2016.9-2021.6",
+        "country": "中国"
+      },
+      {
+        "degree": "访问学者",
+        "field": "材料学",
+        "school": "南洋理工大学",
+        "period": "2019.10-2020.10",
+        "country": "新加坡"
+      },
+      {
+        "degree": "工学学士",
+        "field": "电气工程",
+        "school": "武汉大学",
+        "period": "2012.9-2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "管理学学士",
+        "field": "工商管理",
+        "school": "武汉大学",
+        "period": "2012.9-2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "第六批博士后创新人才支持计划",
+      "中国科协高端科技创新智库青年项目",
+      "斯坦福大学“年度科学影响力排行榜”全球前2%学者榜单（World’s Top 2％ Scientists）",
+      "中国电工技术学会首届优秀博士学位论文提名奖",
+      "英国工程技术学会最佳论文奖（High Voltage Premium Award）",
+      "湖北省科协优秀科技论文"
+    ],
+    "academic_services": [
+      "中国复合材料学会介电高分子复合材料及应用专委会委员",
+      "中国电机工程学会智能感知专委会标准化工作组成员",
+      "IEEE PES智能感知技术分委会委员",
+      "CIGRE A3.47工作组成员",
+      "IEEE PES 配电专委会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "电力装备状态监测与故障诊断",
+      "电力装备微纳传感方法与器件",
+      "储能电介质及器件",
+      "环保型绝缘材料"
+    ],
+    "research_interests": [
+      "环保型绝缘材料",
+      "储能电介质",
+      "微纳传感",
+      "电力装备监测",
+      "先进电工材料"
+    ],
+    "research_description": "李祎主要从事电力装备状态监测与先进电工材料领域的研究，聚焦环保型绝缘材料、储能电介质及器件、电力装备微纳传感方法与器件等方向。研究成果发表于Nat. Commun., Adv. Mater., Energ. Environ. Sci., Adv. Funct. Mater., IEEE Trans.系列, High Volt.等高水平期刊，主持多项国家自然科学基金及省部级科研项目，获多项专利与科技奖励，入选全球前2%顶尖科学家榜单。",
+    "disciplines": [
+      "电气工程",
+      "材料科学与工程",
+      "高电压与绝缘技术"
+    ],
+    "field_tags": [
+      "绝缘材料",
+      "电介质",
+      "状态监测",
+      "微纳传感",
+      "储能器件",
+      "环保绝缘",
+      "电力装备",
+      "高电压技术"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Environmental-friendly insulating materials for high-voltage applications",
+        "keywords": [
+          "环保型绝缘材料",
+          "高电压应用",
+          "电介质",
+          "可持续材料"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "高电压与绝缘技术",
+          "先进电工材料"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Advanced dielectric materials for energy storage devices",
+        "keywords": [
+          "储能电介质",
+          "电容器",
+          "介电性能",
+          "纳米复合材料"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "储能材料",
+          "电介质器件"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Micro-nano sensing technologies for power equipment monitoring",
+        "keywords": [
+          "微纳传感",
+          "电力装备监测",
+          "智能感知",
+          "在线诊断"
+        ],
+        "journal_name": "IEEE Transactions on Dielectrics and Electrical Insulation",
+        "research_fields": [
+          "电力装备状态监测",
+          "智能传感"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "High-performance dielectric composites for high-voltage insulation",
+        "keywords": [
+          "介电复合材料",
+          "高电压绝缘",
+          "热稳定性",
+          "机械性能"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "高电压绝缘技术",
+          "功能材料"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Sustainable insulating gases for next-generation power equipment",
+        "keywords": [
+          "环保绝缘气体",
+          "SF6替代",
+          "气体绝缘",
+          "环境友好"
+        ],
+        "journal_name": "Energy & Environmental Science",
+        "research_fields": [
+          "环保绝缘技术",
+          "绿色电力装备"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学电气与自动化学院官网",
+        "url": "http://jszy.whu.edu.cn/li_yi/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家自然科学基金面上项目",
+      "中国博士后科学基金",
+      "中国科协项目",
+      "航空科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金",
+      "中国科协",
+      "航空科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李祎\n页面链接: http://jszy.whu.edu.cn/li_yi/zh_CN/index.htm\n==================================================\n武汉大学 李祎--中文主页--首页\nEnglish\n李祎\n性别：男\n学历：研究生毕业\n所在单位：电气与自动化学院\n职务：副研究员\n办公地点：武汉大学工学部电工训练中心高电压绝缘监测实验室213\n联系方式：li_yi@whu.edu.cn\n电子邮箱：\n学科：\n高电压与绝缘技术\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n招生信息\n学生信息\n教师博客\n其他栏目\n个人简介\n李祎，武汉大学电气与自动化学院特聘副研究员，硕士生导师。主要从事电力装备状态监测与先进电工材料领域研究，研究方向包括环保型绝缘材料、储能电介质及器件、电力装备微纳传感方法与器件等。近年来，以第一/通讯作者在Nat. Commun., Adv. Mater., Energ. Environ. Sci., Adv. Funct. Mater., IEEE Trans.系列, High Volt.等期刊发表论文40余篇，入选封面论文8篇；合著中文专著1部；授权/受理发明专利20余项；主持国家自然科学基金青年/面上项目、中国博士后科学基金、中国科协、航空科学基金等国家/省部级项目。入选第六批博士后创新人才支持计划、中国科协高端科技创新智库青年项目、斯坦福大学“年度科学影响力排行榜”全球前2%学者榜单（World’s Top 2％ Scientists）；获中国电工技术学会首届优秀博士学位论文提名奖、英国工程技术学会最佳论文奖（High Voltage Premium Award）、湖北省科协优秀科技论文。担任中国复合材料学会介电高分子复合材料及应用专委会委员、中国电机工程学会智能感知专委会标准化工作组成员、IEEE PES智能感知技术分委会委员，CIGRE A3.47工作组成员等。\n社会兼职\n&nbspIEEE PES 配电专委会委员\n教育经历\n2016.9-2021.6\n武汉大学  |\n电气工程  |\n工学博士学位   |\n博士\n2019.10-2020.10\n南洋理工大学  |\n材料学\n2012.9-2016.6\n武汉大学  |\n电气工程  |\n工学学士学位   |\n学士\n2012.9-2016.6\n武汉大学  |\n工商管理  |\n管理学学士学位   |\n学士\n工作经历\n2021.7-至今\n武汉大学 | 电气与自动化学院 | 副研究员\n团队成员\n高电压绝缘监测团队\n高电压绝缘监测团队在国家973计划首席科学家唐炬教授的带领下，现有教授3人，副教授/特聘副研究员2人，博士后1名，博士/硕士研究生40余名。团队依托电网环境保护全国重点实验室，面向国家重大需求和学科前沿，长期开展输变电装备在线监测及故障诊断、直流和环保绝缘气体装备、储能电介质材料及器件、电力自供电传感方法与器件等方面研究。先后负责国家973计划项目2项，国家自然科学基金、国家支撑计划和重点研究计划课题等10余项，省部级科技项目以及横向科研课题60余项。获国家技术发明二等奖和国家科技进步二等奖各1项，湖北省技术发明一等奖和重庆市科技进步一等奖共4项，国家级优秀教学成果一等奖1项，省级优秀教学成果一等奖2项。近年来，出版学术专著7部、教材3本，在国内外重要学术刊物上发表论文380余篇（其中SCI检索150余篇、EI检索180余篇），授权国家发明专利77项。\n唐炬\n张晓星\n曾福平\n潘成\n肖淞\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n研究方向\n电力装备状态监测与故障诊断\n电力装备微纳传感方法与器件\n储能电介质及器件\n环保型绝缘材料\n欢迎您访问我们的网站，您是第 位访客\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

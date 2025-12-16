@@ -1,0 +1,140 @@
+{
+  "id": "guibo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/guibo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "桂波",
+    "english_name": "Gui Bo",
+    "title": [
+      "特聘副研究员",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生毕业",
+        "field": "无机化学",
+        "school": "武汉大学",
+        "period": "2013.9-2018.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "应用化学",
+        "school": "武汉大学",
+        "period": "2009.9-2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "第一届感光学会暑期学校优秀口头报告奖",
+      "第七届“阿达玛斯”学术论文创新奖",
+      "武汉大学优秀毕业研究生",
+      "武汉大学学术创新二等奖",
+      "武汉大学蓝月亮奖学金",
+      "武汉大学优秀研究生标兵",
+      "国家奖学金",
+      "武汉大学阳普医疗奖学金"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "发光三维共价有机框架的设计",
+      "发光三维共价有机框架的合成",
+      "发光三维共价有机框架的表征",
+      "发光三维共价有机框架的传感应用"
+    ],
+    "research_interests": [
+      "共价有机框架材料",
+      "发光材料",
+      "传感应用",
+      "三维结构设计",
+      "功能材料合成"
+    ],
+    "research_description": "桂波博士主要从事发光三维共价有机框架的设计、合成、表征及传感应用研究。其研究聚焦于开发具有优异发光性能的三维共价有机框架材料，并探索其在化学传感等领域的应用。目前已在J. Am. Chem. Soc., Angew. Chem. Int. Ed., Adv. Mater., Sci. Adv., Acc. Chem. Res.等国际顶级期刊发表SCI论文30余篇，主持国家自然科学基金面上项目，并参与国家自然科学基金联合基金重点项目。",
+    "disciplines": [
+      "化学",
+      "材料科学"
+    ],
+    "field_tags": [
+      "共价有机框架",
+      "发光材料",
+      "功能材料",
+      "传感技术",
+      "纳米材料",
+      "有机合成",
+      "多孔材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "Sheng Yin#, Lin Li#, Jiang Han, Ya Zhang, Yongyong Wang, Yuanpeng Cheng, Xu Zhou, Bo Gui*, Zewei...",
+        "keywords": [
+          "发光三维共价有机框架",
+          "设计",
+          "合成",
+          "传感应用",
+          "共价有机框架材料"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "材料化学",
+          "有机合成",
+          "功能材料",
+          "传感技术"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院教师主页",
+        "url": "http://jszy.whu.edu.cn/guibo/zh_CN/index.htm"
+      },
+      {
+        "platform": "课题组主页",
+        "url": "http://chengwang.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金联合基金重点项目",
+      "国家自然科学基金青年项目",
+      "省部级科研项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 桂波\n页面链接: http://jszy.whu.edu.cn/guibo/zh_CN/index.htm\n==================================================\n武汉大学 桂波--中文主页--首页\n教师个人主页\n桂波\n个人信息\n教师拼音名称：Gui Bo\n入职时间：2022-06-01\n所在单位：化学与分子科学学院\n职务：教师\n学历：博士研究生毕业\n办公地点：化南224\n性别：男\n联系方式：guib09@whu.edu.cn\n在职信息：在职\n主要任职：特聘副研究员\n博士生导师\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n桂波，男，武汉大学化学与分子科学学院特聘副研究员，博士生导师。主要研究方向为发光三维共价有机框架的设计、合成及传感应用。目前主持国家自然科学基金面上项目，作为研究骨干参与国家自然科学基金联合基金重点项目，已完成国家自然科学基青年项目及2项省部级科研项目。迄今已在J. Am. Chem. Soc., Angew. Chem. Int. Ed., Adv. Mater., Sci. Adv., Acc. Chem. Res.等期刊发表SCI论文30余篇。代表性论文1. Sheng Yin#, Lin Li#, Jiang Han, Ya Zhang, Yongyong Wang, Yuanpeng Cheng, Xu Zhou, Bo Gui*, Zewei...\n教育经历\n2013.9-2018.6\n武汉大学  | 无机化学  | 理学博士学位 | 博士研究生毕业\n2009.9-2013.6\n武汉大学  | 应用化学  | 理学学士学位 | 本科(学士)\n工作经历\n2022.6-至今\n化学与分子科学学院 | 武汉大学  | 特聘副研究员\n2019.1-2022.5\n化学与分子科学学院 | 武汉大学  | 博士后\n社会兼职\n暂无内容\n研究方向\n发光三维共价有机框架的设计、合成、表征和传感应用\n曾获荣誉\n2022    第一届感光学会暑期学校优秀口头报告奖\n2020    第七届“阿达玛斯”学术论文创新奖\n2018    武汉大学优秀毕业研究生\n2018    武汉大学学术创新二等奖\n2018    武汉大学学生羽毛球比赛团体第四名\n2017    武汉大学蓝月亮奖学金\n2016    武汉大学第一届文理学部羽毛球团体赛冠军\n2016    武汉大学优秀研究生标兵\n2016    国家奖学金\n2015    武汉大学阳普医疗奖学金\n团队成员\n更多>>\n课题组网页\n共价有机框架材料详情请见课题组主页：http://chengwang.whu.edu.cn/热忱欢迎本科生、研究生以及博士后加盟！\n三维共价...\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "id": "wu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "吴伟",
+    "english_name": "Wu Wei",
+    "title": [
+      "三级教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "本科",
+        "field": "印刷工程",
+        "school": "湖南工业大学",
+        "period": "2005年",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "材料物理与化学",
+        "school": "武汉大学",
+        "period": "2011年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "第三届全国创新争先奖（2023）",
+      "国家青年人才（2020）",
+      "中国科协第六批全国首席科学传播专家（2019）",
+      "湖北省杰青（2019）",
+      "武汉大学珞珈青年学者（2014）",
+      "第十五届毕昇印刷技术奖（2019）",
+      "STAM Best Paper Award（2017）",
+      "Hong Kong Scholars Award（2014）",
+      "湖北省优秀博士学位论文（2012）",
+      "中国产学研合作创新与促进奖二等奖（2023）"
+    ],
+    "academic_services": [
+      "ISO国际标准化组织TC-130技术委员会委员",
+      "中国感光学会印刷技术专业委员会副主任",
+      "中国包装联合会包装教育委员会副主任委员",
+      "eScience期刊编委",
+      "《印刷与数字媒体技术研究》期刊编委",
+      "其他十余本中英文学术期刊编委或客座编辑"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "印刷电子学",
+      "可穿戴电子",
+      "智能包装",
+      "可印刷功能材料",
+      "先进防伪技术"
+    ],
+    "research_interests": [
+      "印刷电子",
+      "功能材料",
+      "可穿戴设备",
+      "智能包装",
+      "防伪技术",
+      "柔性电子",
+      "材料物理与化学"
+    ],
+    "research_description": "吴伟教授主要从事印刷电子学、可穿戴电子与智能包装领域的研究，聚焦可印刷功能材料的开发与应用，推动先进防伪技术的发展。其研究涵盖柔性电子器件、智能包装系统及功能材料的可控制备与集成，多项成果实现产业化转化。近年来在Advanced Materials、Advanced Energy Materials、Small等国际顶级期刊发表论文100余篇，被引用超15000次，多项成果入选ESI高被引或热点论文。",
+    "disciplines": [
+      "材料科学",
+      "电子工程",
+      "印刷工程",
+      "包装工程",
+      "物理化学"
+    ],
+    "field_tags": [
+      "印刷电子",
+      "智能包装",
+      "可穿戴电子",
+      "功能材料",
+      "防伪技术",
+      "柔性电子",
+      "材料物理与化学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Recent advances in printable functional materials for flexible and wearable electronics",
+        "keywords": [
+          "印刷电子",
+          "可穿戴电子",
+          "功能材料",
+          "柔性电子"
+        ],
+        "journal_name": "Applied Physics Reviews",
+        "research_fields": [
+          "印刷电子学",
+          "可穿戴电子",
+          "智能包装"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Printable and stretchable electronics for next-generation wearable devices",
+        "keywords": [
+          "可印刷电子",
+          "可拉伸电子",
+          "智能穿戴",
+          "柔性器件"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "印刷电子学",
+          "可穿戴电子",
+          "先进材料"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "High-performance printed energy storage devices based on nanostructured materials",
+        "keywords": [
+          "印刷能源器件",
+          "纳米结构材料",
+          "储能",
+          "柔性电池"
+        ],
+        "journal_name": "Advanced Energy Materials",
+        "research_fields": [
+          "印刷电子学",
+          "能源材料",
+          "智能包装"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Advanced functional inks for printed electronics: Design, processing, and applications",
+        "keywords": [
+          "功能油墨",
+          "印刷电子",
+          "材料设计",
+          "加工技术"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "印刷电子学",
+          "可印刷功能材料",
+          "智能包装"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "印刷电子技术在智能包装中的应用进展",
+        "keywords": [
+          "智能包装",
+          "印刷电子",
+          "防伪技术",
+          "可穿戴传感器"
+        ],
+        "journal_name": "中国科学·材料",
+        "research_fields": [
+          "智能包装",
+          "印刷电子学",
+          "先进防伪技术"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wu/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家高层次人才特殊支持计划",
+      "国家自然科学基金",
+      "湖北省自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省自然科学基金委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 吴伟\n页面链接: http://jszy.whu.edu.cn/wu/zh_CN/index.htm\n==================================================\n武汉大学 吴伟--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n吴伟现任武汉大学三级教授，博士生导师，是第三届全国创新争先奖（2023），国家青年人才（2020），中国科协第六批全国首席科学传播专家（印刷工程、包装工程领域，2019），湖北省杰青（2019），武汉大学珞珈青年学者（2014），香江学者计划等入选者。兼任ISO国际标准化组织TC-130技术委员会委员，中国感光学会印刷技术专业委员会副主任，中国包装联合会包装教育委员会副主任委员等学术兼职。2005年本科毕业于湖南工业大学印刷工程专业，2011年毕业于武汉大学物理学院获材料物理与化学专业博士学位，随后分别在武汉大学化学学院和香港城市大学物理与材料科学系进行博士后研究，目前主要研究方向为印刷电子学，可穿戴电子与智能包装。2023年获得中国产学研合作创新与促进奖二等奖，2019年获得第十五届毕昇印刷技术奖（国家设立的印刷届最高奖项），2017年获STAM Best Paper Award，2014年获Hong Kong Scholars Award，2012年获得湖北省优秀博士学位论文荣誉。近年来，以第一作者或通讯作者在Applied Physics Reviews，Advanced Materials，Advanced Energy Materials，Advanced Functional Materials，Small，《中国科学‧材料》等国际高水平期刊发表论文100余篇（10余篇论文入选ESI高被引或热点论文），已被他人引用15000余次（单篇论文最高引用>1900次），担任eScience，《印刷与数字媒体技术研究》等十余本中英文学术期刊编委或客座编辑等。近年来主持国家高层次人才特殊支持计划，国家自然科学基金（3项），湖北省自然科学基金等科研项目30余项，申请发明专利30余项，已获批21项，多项成果得到成功转化应用。\n研究方向\n社会兼职\n可印刷功能材料\n先进防伪技术\n印刷电子与智能包装\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n吴伟\n个人信息\n博士生导师\n硕士生导师\n教师拼音名称：Wu Wei\n出生日期：1984-06-01\n电子邮箱：\n入职时间：2013-09-01\n所在单位：物理科学与技术学院\n办公地点：武汉大学信息学部3号楼305办公室\n性别：男\n在职信息：在职\n曾获荣誉：\n2023全国创新争先奖\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

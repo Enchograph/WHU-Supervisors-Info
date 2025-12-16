@@ -1,0 +1,207 @@
+{
+  "id": "mluo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/mluo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "罗敏",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "密码科学与技术系",
+    "college": "国家网络安全学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "计算机应用技术",
+        "school": "武汉大学",
+        "period": "2000-9····2003.10",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "计算机应用技术",
+        "school": "武汉大学",
+        "period": "1997-9····2000.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "计算机科学与技术",
+        "school": "武汉大学（原武汉水利电力大学）",
+        "period": "1993-9····1997.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省科技进步一等奖（4）",
+      "武汉市科技进步一等奖（4）",
+      "武汉市自然科学优秀学术论文一等奖（1）"
+    ],
+    "academic_services": [
+      "CCF区块链专业委员会委员",
+      "Journal of Cloud Computing期刊编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "应用密码学",
+      "区块链",
+      "物联网安全"
+    ],
+    "research_interests": [
+      "应用密码学",
+      "区块链技术",
+      "物联网安全",
+      "网络安全",
+      "密码协议",
+      "分布式系统安全"
+    ],
+    "research_description": "罗敏教授主要从事应用密码学、区块链与物联网安全方向的研究，已在IEEE Symposium on Security and Privacy（S&P）、IEEE Network、ACM Computing Surveys、ACM Transactions on Reconfigurable Technology and Systems、IEEE Internet of Things Journal等国内外知名期刊和会议上发表论文30余篇。主持国家自然科学基金面上项目、国家重点研发项目课题、湖北省科技重大专项、广东省科技计划项目、山东省科技计划项目等十余项科研项目，并参与多项企业合作项目。",
+    "disciplines": [
+      "计算机科学与技术",
+      "网络安全",
+      "密码学"
+    ],
+    "field_tags": [
+      "应用密码学",
+      "区块链",
+      "物联网安全",
+      "网络安全",
+      "密码协议",
+      "智能系统安全",
+      "可信计算",
+      "分布式安全"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "论文成果",
+        "keywords": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "journal_name": "IEEE Symposium on Security and Privacy (S&P)",
+        "research_fields": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "论文成果",
+        "keywords": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "journal_name": "IEEE Network",
+        "research_fields": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "论文成果",
+        "keywords": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "journal_name": "ACM Computing Surveys",
+        "research_fields": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "论文成果",
+        "keywords": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "journal_name": "ACM Transactions on Reconfigurable Technology and Systems",
+        "research_fields": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "论文成果",
+        "keywords": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "journal_name": "IEEE Internet of Things Journal",
+        "research_fields": [
+          "应用密码学",
+          "区块链",
+          "物联网安全"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/mluo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家重点研发项目课题",
+      "湖北省科技重大专项",
+      "广东省科技计划项目",
+      "山东省科技计划项目",
+      "企业合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省科技厅",
+      "广东省科技厅",
+      "山东省科技厅",
+      "企业"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 罗敏\n页面链接: http://jszy.whu.edu.cn/mluo/zh_CN/index.htm\n==================================================\n武汉大学 罗敏--中文主页--首页\nEnglish\n中文\n罗敏\n首页\n科学研究\n研究领域\n论文成果\n专利\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n出生日期：1974-09-25\n电子邮箱：\n入职时间：2004-03-01\n职务：密码科学与技术系主任\n学历：研究生毕业\n办公地点：国家网络安全人才与创新基地-武汉大学国家网络安全学院新珈楼C416办公室\n性别：男\n联系方式：mluo@whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：\n国家网络安全学院\n学科：\n个人简介\n武汉大学，国家网络安全学院教授，博士生导师，密码科学与技术系主任，CCF区块链专业委员会委员，Journal of Cloud Computing期刊编委。主要研究方向为应用密码学、区块链、物联网安全。目前在IEEE Symposium on Security and Privacy（S&P）、IEEE Network、ACM Computing Surveys、ACM Transactions on Reconfigurable Technology and Systems、IEEE Internet of Things Journal等国内外知名会议/期刊上发表学术论文30余篇。主持国家自然科学基金面上项目、国家重点研发项目课题、湖北省科技重大专项、广东省科技计划项目、山东省科技计划等十余项国家和省部科研项目，并主持和参与企业合作项目多项。曾获得湖北省科技进步一等奖（4），武汉市科技进步一等奖（4），武汉市自然科学优秀学术论文一等奖（1）。\n团队成员\n暂无内容\n工作经历\n2021-11····至今\n国家网络安全学院\n| 武汉大学\n| 教授\n| 密码科学与技术系\n2013-2····2014-2\nDepartment of Computer Science\n| Purdue University\n| Visiting Scholar\n| 合作导师：Ninghui Li\n2007-12····2021-10\n计算机学院/国家网络安全学院\n| 武汉大学\n| 副教授\n2004-3····2006-12\n计算机学院\n| 武汉大学\n| 讲师\n教育经历\n2000-9····2003.10\n武汉大学\n|\n计算机应用技术\n| 工学博士学位\n|\n博士研究生毕业\n1997-9····2000.6\n武汉大学\n|\n计算机应用技术\n| 工学硕士学位\n|\n研究生(硕士)毕业\n1993-9····1997.6\n武汉大学（原武汉水利电力大学）\n|\n计算机科学与技术\n| 学士学位\n|\n大学本科毕业\n社会兼职\nCCF区块链专委会执行委员\n研究方向\n[1].应用密码学、区块链、物联网安全\n其他联系方式\n邮编：\n通讯/办公地址：\n办公室电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

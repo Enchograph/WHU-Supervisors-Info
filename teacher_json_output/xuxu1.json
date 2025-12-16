@@ -1,0 +1,195 @@
+{
+  "id": "xuxu1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xuxu1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "徐旭",
+    "english_name": "Xu Xu",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "几何拓扑教研室",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "数学与应用数学",
+        "school": "华中科技大学",
+        "period": "2002.9-----2006.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "基础数学",
+        "school": "中国科学院数学与系统科学研究院数学研究所",
+        "period": "2006.9-----2011.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学院数学与系统科学研究院",
+    "academic_honors": [
+      "国家级青年人才计划",
+      "湖北省高层次人才特殊支持计划",
+      "武汉大学弘毅青年学者"
+    ],
+    "academic_services": [
+      "湖北省数学学会副理事长",
+      "武汉大学本科生院教务处副处长",
+      "几何拓扑教研室主任"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "离散共形几何",
+      "微分几何",
+      "广义相对论的数学理论"
+    ],
+    "research_interests": [
+      "离散微分几何",
+      "几何分析",
+      "反演距离",
+      "堆球度量",
+      "堆圆度量",
+      "单值化定理",
+      "α-曲率",
+      "刚性问题",
+      "黎曼映射逼近"
+    ],
+    "research_description": "徐旭教授主要从事离散共形几何、微分几何及广义相对论的数学理论研究。在三维流形堆球度量刚性、曲面上反演距离堆圆度量刚性、离散共形结构刚性与分类、参数化离散单值化定理等方面取得系列重要成果，解决了Koebe-Andreev-Thurston刚性定理的三维推广、Bowers-Stephenson刚性与收敛性猜想、Glickenstein猜想等长期未解问题。其研究工作发表于J. Differential Geom.、Amer. J. Math.、Adv. Math.、Trans. Amer. Math. Soc.等国际知名期刊。",
+    "disciplines": [
+      "数学",
+      "几何学"
+    ],
+    "field_tags": [
+      "离散共形几何",
+      "微分几何",
+      "几何分析",
+      "刚性定理",
+      "单值化定理",
+      "反演距离",
+      "堆圆度量",
+      "堆球度量",
+      "α-曲率",
+      "黎曼映射"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "三维流形上堆球度量的整体刚性",
+        "keywords": [
+          "离散共形几何",
+          "堆球度量",
+          "刚性定理",
+          "Koebe-Andreev-Thurston"
+        ],
+        "journal_name": "J. Differential Geom.",
+        "research_fields": [
+          "几何拓扑",
+          "微分几何"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "曲面上反演距离大于-1时堆圆度量的刚性",
+        "keywords": [
+          "反演距离",
+          "堆圆度量",
+          "Bowers-Stephenson猜想",
+          "刚性"
+        ],
+        "journal_name": "Amer. J. Math.",
+        "research_fields": [
+          "离散共形几何",
+          "几何分析"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "一般形式离散共形结构的刚性与Glickenstein猜想的解决",
+        "keywords": [
+          "离散共形结构",
+          "刚性",
+          "Glickenstein猜想",
+          "曲面参数化"
+        ],
+        "journal_name": "Adv. Math.",
+        "research_fields": [
+          "离散微分几何",
+          "几何分析"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "平面上无穷多个反演距离堆圆的刚性及Jordan区域上的逼近黎曼映射",
+        "keywords": [
+          "反演距离堆圆",
+          "收敛性猜想",
+          "黎曼映射",
+          "Bowers-Stephenson"
+        ],
+        "journal_name": "Trans. Amer. Math. Soc.",
+        "research_fields": [
+          "复几何",
+          "离散共形几何"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "α-曲率与离散单值化定理的参数化版本",
+        "keywords": [
+          "α-曲率",
+          "离散单值化",
+          "顶点伸缩",
+          "反演距离堆圆"
+        ],
+        "journal_name": "Peking Math. J.",
+        "research_fields": [
+          "微分几何",
+          "离散共形几何"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xuxu1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年学生基础研究项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 徐旭\n页面链接: http://jszy.whu.edu.cn/xuxu1/zh_CN/index.htm\n==================================================\n武汉大学 徐旭--中文主页--首页\nEnglish\n首页\n科学研究\n论文成果\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n几何拓扑讨论班\n2025年春季几何拓扑讨论班\n招生信息\n学生信息\n我的相册\n个人简介\n徐  旭\n武汉大学数学与统计学院教授，博士生导师，硕士生导师，主要从事离散共形几何、微分几何、广义相对论的数学理论等方面的研究。\n于2011年在中国科学院数学与系统科学研究院获得博士学位，师从张晓研究员。博士毕业后在武汉大学数学与统计学院工作至今。曾在美国哈佛大学、美国罗格斯大学、德国弗莱堡大学等知名高校进行过学术访问。\n代表性研究工作包括：\n（1）证明了三维流形上堆球度量的整体刚性，将Koebe-Andreev-Thurston刚性定理推广到了三维情形；\n（2）证明了曲面上当反演距离大于-1时关于反演距离堆圆度量的刚性，解决了Bowers-Stephenson刚性猜想；\n（3）证明了曲面上关于一般形式离散共形结构的刚性，解决了Glickenstein猜想；\n（4）证明了平面上无穷多个反演距离堆圆的刚性，并进一步证明了Jordan区域上反演距离堆圆可以逼近黎曼映射，从而解决了Bowers-Stephenson收敛性猜想；\n（5）引入了α-曲率，并证明了曲面上顶点伸缩情形和反演距离堆圆情形的参数化离散单值化定理，从而给出了经典单值化定理的一个合理的离散化版本；\n（6）给出了闭曲面和带边曲面上离散共形结构的分类。\n在 J. Differential Geom. 、Amer. J. Math. 、Peking Math. J.、Adv. Math. 、Trans. Amer. Math. Soc. 、J. Funct. Anal.、Int. Math. Res. Not. IMRN、Calc. Var. Partial Differential Equations 、Comm. Anal. Geom. 、Math. Res. Lett. 、Sci.China Math.等期刊论文发表论文30余篇。\n通讯地址\n湖北省武汉市武昌区八一路299号武汉大学数学与统计学院\n电子信箱：xuxu2@whu.edu.cn\n曾获荣誉\n国家级青年人才计划\n湖北省高层次人才特殊支持计划\n武汉大学弘毅青年学者\n招生信息\n热烈欢迎对离散微分几何、几何分析、微分几何有兴趣的同学攻读我的博士和硕士研究生，联系方式：xuxu2@whu.edu.cn\n学生培养信息\n1、已毕业研究生\n博士：\n郑超（2019.9-2025.06），目前在北京国际数学中心进行博士后研究，博士期间曾获武汉大学研究生学术创新一等奖两次、国家奖学金一次，并入选中国科协青年人才托举工程博士生专项，同时还入选了中国博士后博新计划和北京大学博雅博士后。博士期间发表论文10余篇，包括Peking Math. J.、Trans. Amer. Math. Soc. 、J. Funct. Anal. 、Calc. Var. Partial Differential Equations(3篇)、Int. Math. Res. Not. IMRN、Math. Res. Lett. 等知名数学期刊。\n硕士：\n陈宇翔（2020.09-2023.07）、张思琦（2020.09-2023.07）、葛洪聪（2021.09-2024.07）、邹依霓（2021.09-2024.07）\n2、在读研究生\n博士：卞月容（2024.09-）、熊芷雯（2025.09-）\n硕士：毕天成（2024.09-）、刘保鑫（2024.09-）、万隽驿（2024.09-）、张人文（2024.09-）\n3、本科生培养成果\n（1）指导本科生刘辰科研，获批国家自然科学基金青年学生基础研究项目（本科生） 1 项\n（2）指导本科生任彦鲲科研，获批武汉大学珞珈本科生创新研究基金项目 1 项\n（3）指导本科生宦麟茜本科毕业论文，获本科生优秀毕业论文\n研究方向\n社会兼职\n离散共形几何\n微分几何\n广义相对论\n2025.6-----至今\n社会兼职内容：湖北省数学学会副理事长\n2025.5-----至今\n社会兼职内容：武汉大学本科生院教务处副处长\n教育经历\n工作经历\n2002.9-----2006.6\n华中科技大学\n|\n数学与应用数学\n|\n本科(学士)\n|\n理学学士学位\n2006.9-----2011.6\n中科院数学与系统科学研究院数学研究所\n|\n基础数学\n|\n博士研究生毕业\n|\n理学博士学位\n2024.12-----至今\n武汉大学数学与统计学院，教授\n2019.2-----2019.3\n美国哈佛大学数学科学与应用中心，访问学者\n2018.10-----2020.6\n美国罗格斯大学数学系，访问学者\n2016.12-----2024.11\n武汉大学数学与统计学院，副教授\n2014.9-----2015.9\n德国弗莱堡大学数学研究所，访问学者\n2013.7-----2016.11\n武汉大学数学与统计学院，讲师\n2011.7-----2013.6\n武汉大学数学与统计学院，师资博士后\n团队成员\n暂无内容\n返回顶部\n+\n徐旭\n职务：本科生院教务处副处长主要任职：几何拓扑教研室主任\n个人信息\n教授\n博士生导师\n硕士生导师\n教师英文名称：Xu Xu\n教师拼音名称：Xu Xu\n电子邮箱：\n职务：本科生院教务处副处长\n学历：研究生毕业\n办公地点：武汉大学雷军科技楼A430\n性别：男\n联系方式：xuxu2@whu.edu.cn\n职称：教授\n主要任职：几何拓扑教研室主任\n其他任职：湖北省数学学会副理事长\n毕业院校：中国科学院数学与系统科学研究院\n曾获荣誉：\n国家级青年人才计划\n湖北省高层次人才特殊支持计划\n武汉大学弘毅青年学者\n其他联系方式\n邮编:\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

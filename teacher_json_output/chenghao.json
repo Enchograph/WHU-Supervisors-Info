@@ -1,0 +1,216 @@
+{
+  "id": "chenghao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenghao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "程浩",
+    "english_name": "Cheng Hao",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "土木建筑工程学院",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "岩土工程",
+        "school": "重庆大学",
+        "period": "2011.9 - 2016.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士",
+        "field": "市政工程",
+        "school": "重庆大学",
+        "period": "2007.9 - 2011.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "重庆大学",
+    "academic_honors": [
+      "中国岩石力学与工程学会自然科学奖特等奖 (2023)",
+      "重庆市科技进步一等奖 (2019)",
+      "江西省科技进步一等奖 (2018)",
+      "湖北省科技进步特等奖 (2020)",
+      "福建省水利科学技术二等奖 (2019)"
+    ],
+    "academic_services": [
+      "中国地球物理学会韧性减灾与应急专业委员会，委员，2024.05-至今",
+      "中国岩石力学与工程学会岩石破碎工程专业委员会，委员，2020.09-至今",
+      "中国岩石力学与工程学会，会员，2014.3-至今",
+      "国际岩石力学学会，会员，2013.6-至今"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "岩石材料/工程破坏过程的数值模拟",
+      "边坡、滑坡工程灾害分析与防护",
+      "极端环境岩土工程灾害分析"
+    ],
+    "research_interests": [
+      "岩石破裂数值分析",
+      "边坡滑坡灾害分析",
+      "热-水-力耦合作用",
+      "渗流-变形协同作用",
+      "非连续数值算法",
+      "相场法模拟",
+      "地震作用下边坡稳定性",
+      "裂隙岩体破坏机制",
+      "深部岩体工程灾变机理",
+      "AI技术在岩石力学中的应用"
+    ],
+    "research_description": "程浩博士主要从事岩石力学、边坡滑坡灾害分析、岩石破裂数值分析方法等方面的研究。研究聚焦于复杂环境下岩土工程的灾变机制，涵盖低温富水、动水位、地震等极端条件下的岩质边坡稳定性与破坏过程，结合多场耦合（热-水-力、渗流-变形）理论，发展基于相场法、非连续数值算法和多维空间方法的高性能数值仿真技术。同时，探索AI技术在岩石力学智能助教与灾害预警中的应用，推动岩土工程灾害分析的智能化与精准化。",
+    "disciplines": [
+      "岩土工程",
+      "岩石力学",
+      "地质工程",
+      "土木工程",
+      "人工智能应用"
+    ],
+    "field_tags": [
+      "数值模拟",
+      "边坡稳定性",
+      "滑坡灾害",
+      "裂隙岩体",
+      "相场法",
+      "多场耦合",
+      "非连续介质",
+      "渗流-变形",
+      "地震响应",
+      "AI赋能"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "Stability analysis of unsaturated–saturated soil slopes under rainfall infiltration using the rigorous limit equilibrium method",
+        "keywords": [
+          "边坡稳定性",
+          "降雨入渗",
+          "极限平衡法",
+          "非饱和-饱和土坡"
+        ],
+        "journal_name": "Bulletin of Engineering Geology and the Environment",
+        "research_fields": [
+          "岩土工程",
+          "边坡灾害分析"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "An Analytical Investigation of the Topographic Amplification Effects of Slopes under Seismic Loads",
+        "keywords": [
+          "地震荷载",
+          "地形放大效应",
+          "边坡",
+          "解析分析"
+        ],
+        "journal_name": "International Journal of Geomechanics",
+        "research_fields": [
+          "地震工程",
+          "岩土力学"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Opening-dependent phase field model of hydraulic fracture evolution in porous medium under seepage-stress coupling",
+        "keywords": [
+          "水力裂缝",
+          "相场模型",
+          "渗流-应力耦合",
+          "多孔介质"
+        ],
+        "journal_name": "Theoretical and Applied Fracture Mechanics",
+        "research_fields": [
+          "岩石力学",
+          "裂缝演化"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Experimental study on the progressive failure of double-flawed granite samples subjected to impact loads",
+        "keywords": [
+          "双裂隙花岗岩",
+          "冲击荷载",
+          "渐进破坏",
+          "实验研究"
+        ],
+        "journal_name": "Fatigue and Fracture of Engineering Materials and Structures",
+        "research_fields": [
+          "岩石破坏",
+          "材料力学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Nonlinear Creep Model for Rocks Considering Damage Evolution Based on the Modified Nishihara Model",
+        "keywords": [
+          "岩石蠕变",
+          "损伤演化",
+          "修正Nishihara模型",
+          "非线性本构"
+        ],
+        "journal_name": "International Journal of Geomechanics",
+        "research_fields": [
+          "岩石力学",
+          "本构模型"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学土木建筑工程学院中文主页",
+        "url": "http://jszy.whu.edu.cn/chenghao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "国家自然科学基金重点项目",
+      "国家自然科学基金重大科研仪器研制项目",
+      "广东省自然科学基金面上项目",
+      "中央高校基本科研项目",
+      "武汉大学自主科研项目",
+      "非煤露天矿山灾害防控国家矿山安全监察局重点实验室开放基金",
+      "企业横向项目",
+      "武汉大学本科教育质量建设综合改革子项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "广东省自然科学基金",
+      "中央高校基本科研项目",
+      "非煤露天矿山灾害防控国家矿山安全监察局重点实验室",
+      "企业",
+      "武汉大学"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 程浩\n页面链接: http://jszy.whu.edu.cn/chenghao/zh_CN/index.htm\n==================================================\n武汉大学 程浩--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n团队成员\n招生信息\n最新动态\n个人简介\n程浩，1989年生，工学博士，武汉大学土木建筑工程学院副教授，博士生导师。主要从事岩石力学、边坡滑坡灾害分析、岩石破裂数值分析方法等方面的研究。主持国家自然科学基金项目3项、中央高校基本科研基金等省部级项目4项、企业合作横向项目3项，参与国家自然科学基金重点项目、重大科研仪器研制项目等4项。获省部级科学技术奖励4项（中国岩石力学与工程学会自然科学特等奖，排序第4；重庆市科技进步一等奖，排序第4；湖北省科技进步特等奖，排序第23；江西省科技进步一等奖，排序第10）。已发表SCI检索论文30余篇，均发表在岩土工程领域国际主流期刊，如Eng Geol、Rock Mech Rock Eng和Can Geotech J等。申请国家发明专利40余项，其中已授权发明专利23项。\n欢迎有岩土、采矿、地质等相关专业背景且对“岩石材料/工程破坏过程的数值模拟”、“边坡、滑坡工程灾害分析与防护”和“极端环境岩土工程灾害分析”等研究方向感兴趣的本科生和硕/博士研究生加入课题组共同研究。\n1. 承担科研项目情况\n[1] 武汉大学本科教育质量建设综合改革子项目: AI技术赋能岩石力学智能助教课堂建设及应用, 2025-01 至 2026-12 (主持)\n[2] 国家自然科学基金面上项目(12572459): 低温富水环境下岩质边坡灾变过程的热-水-力耦合作用机制研究, 2026-01 至 2029-12 (主持)\n[3] 国家自然科学基金面上项目(12272280): 渗流-变形协同作用下库岸岩质边坡灾变机制及高性能数值仿真, 2023-01 至 2026-12 (主持)\n[4] 国家自然科学基金青年项目(51809198): 地震作用下反倾岩质边坡破坏全过程的机制研究, 2019-01 至 2021-12 (主持)\n[5] 广东省自然科学基金面上项目: 动水位条件下裂隙岩质边坡的非连续数值算法与灾变机制研究, 2024-01 至 2026-12 (主持)\n[6] 中央高校基本科研项目: 裂隙岩体中裂纹起裂、扩展和连接过程的非线性研究, 2018-01-01至2019-12-31 (主持)\n[7] 武汉大学自主科研项目: 地震作用下反倾岩质边坡的弯曲断裂模型研究, 2018-01 至 2019-12 (主持)\n[8] 非煤露天矿山灾害防控国家矿山安全监察局重点实验室开放基金: 不良地质岩质高陡边坡安全评价与灾害预警技术研究, 2025-01 至 2026-12 (主持)\n[9] 企业横向项目: 强降雨条件下不良地质路段岩质高边坡安全评价与数值仿真平台建设, 2025-05 至 2026-12 (主持)\n[10] 企业横向项目: 脚手架式跨越架综合受力分析研究及软件开发, 2018-05 至 2019-07 (主持)\n[11] 企业横向项目: 堆石混凝土技术的适用性评价体系研究及应用, 2018-08 至 2019-07 (主持)\n[12] 国家自然科学基金重点项目: 多场耦合环境下深部重大岩体工程流变大变形灾变机理与模拟、监测与预警, 2019-01 至 2023-12 (参与)\n[13] 国家自然科学基金重大科研仪器研制项目: 基于液态金属柔性传感器的深部岩体灾变监测与预警系统研制, 2021-01 至 2025-12 (参与)\n2. 获奖情况\n[1] 中国岩石力学与工程学会自然科学奖特等奖. 岩石裂纹演化过程的多物理场表征方法和非局部数值计算理论. 2023-12-01 (R4)\n[2] 重庆市科技进步一等奖. 山地城镇边坡灾害防控关键技术研究及应用. 2019-12-01 (R4)\n[3] 江西省科技进步一等奖. 金属矿山多重非连续介质开采环境下灾变机理及监控关键技术. 2018-12-01 (R10)\n[4] 湖北省科技进步特等奖. 深部复杂地层TBM安全高效掘进控制关键技术及应用. 2020-06-05 (R23)\n[5] 福建省水利科学技术二等奖. 堆石混凝土技术的适用性评价体系研究及应用. 2019-07-10 (R2)\n3. 代表性论文\n[1] Cheng H, Wu ZJ, Chen H, Zhou XP*. Stability analysis of unsaturated–saturated soil slopes under rainfall infiltration using the rigorous limit equilibrium method. Bulletin of Engineering Geology and the Environment. 83 (4). 147. 2024.\n[2] Cheng H*, Deng P. An Analytical Investigation of the Topographic Amplification Effects of Slopes under Seismic Loads. International Journal of Geomechanics. 24 (3). 04023302. 2024.\n[3] Song YJ, Cheng H*. Opening-dependent phase field model of hydraulic fracture evolution in porous medium under seepage-stress coupling. Theoretical and Applied Fracture Mechanics. 129. 104205. 2024.\n[4] Zhou XP, Yi MH, Zhou JN, Cheng H*, Berto F. Experimental study on the progressive failure of double-flawed granite samples subjected to impact loads. Fatigue and Fracture of Engineering Materials and Structures. 45 (3). 653-670. 2022.\n[5] Cheng H, Zhang YC, Zhou XP*. Nonlinear Creep Model for Rocks Considering Damage Evolution Based on the Modified Nishihara Model. International Journal of Geomechanics. 21 (8). 04021137. 2021.\n[6] Zhou XP, Pan XK, Cheng H*. The Nonlinear Creep Behaviors of Sandstone Under the Different Confining Pressures Based on NMR Technology. Rock Mechanics and Rock Engineering. 54 (9). 4889-4904. 2021.\n[7] Cheng H, Han LY, Wu ZJ,  Zhou XP*. Experimental study on the whole failure process of anti-dip rock slopes subjected to external loading. Bulletin of Engineering Geology and the Environment. 80 (8). 6597-6613. 2021.\n[8] Cheng H, Zhou XP* , Pan XK, Berto F. Damage analysis of sandstone during the creep stage under the different levels of uniaxial stress using NMR measurements. Fatigue and Fracture of Engineering Materials and Structures. 44 (3). 719-732. 2021.\n[9] Cheng H, Zhou XP*. An energy-based criterion of crack branching and its application on the multidimensional space method. International Journal o Solids and Structures. 182. 179-192. 2020.\n[10] Cheng H, Zhou XP*. Numerical Simulation of the Dynamic Frictional Contact Problem for Crack Slip Based on the Multidimensional Space Method. Journal of Engineering Mechanics. 145 (2). 04018128. 2019.\n4. 代表性专利\n[1] 程浩, 彭希扬, 雷相樾, 孟千雨. 基于动态双相场模型的岩石材料拉剪破坏模拟方法及设备, 2025109870889. (发明专利)\n[2] 程浩, 彭希扬, 孟千雨, 雷相樾. 考虑摩擦接触的岩石动态剪切破坏模拟方法及设备, 202510987086X. (发明专利)\n[3] 程浩, 孟千雨, 雷相樾, 彭希扬, 宋勇军. 一种基于相场法的岩石材料剪切破坏及摩擦断裂模拟方法, 2025102264977. (发明专利)\n[4] 程浩, 孟千雨, 彭希扬, 雷相樾, 宋勇军. 一种水力裂缝演化模拟方法、装置及电子设备, 2025102253510. (发明专利)\n[5] 程浩, 雷相樾, 彭希扬, 孟千雨. 一种花岗岩粗糙单节理通道渗流立方定律修正方法及装置, 2025101999675. (发明专利)\n[6] 程浩, 雷相樾, 孟千雨, 彭希扬. 一种地震波边坡地形放大效应分析方法、装置及电子设备, 2025102341920. (发明专利)\n[7] 程浩, 宋勇军, 韩林源. 坡顶载荷作用下反倾岩质边坡稳定性预测方法及系统, 2023103735070. (发明专利)\n[8] 周小平, 程浩. 一种地震荷载作用下三维边坡稳定性预测方法, ZL2013100367800. (发明专利)\n[9] 周小平, 程浩. 一种三维边坡稳定性预测方法, ZL2013100366263. (发明专利)\n[10] 周小平, 程浩. 一种三维蠕变边坡的长期稳定性预测方法, ZL2014104714782. (发明专利)\n5. 学术兼职\n[1] 中国地球物理学会韧性减灾与应急专业委员会, 委员, 2024.05-至今\n[2] 中国岩石力学与工程学会岩石破碎工程专业委员会, 委员, 2020.09-至今\n6. 主讲课程\n[1] 本科生课程：《机器学习》\n[2] 研究生课程：《岩土本构关系》\n研究方向\n社会兼职\n岩石材料/工程破坏过程的数值模拟\n边坡、滑坡工程灾害分析与防护\n极端环境岩土工程灾害分析\n2024.5-----至今\n社会兼职内容：中国地球物理学会韧性减灾与应急专业委员会，委员\n2020.9-----至今\n社会兼职内容：中国岩石力学与工程学会岩石破碎工程专业委员会，委员\n2014.3-----至今\n社会兼职内容：中国岩石力学与工程学会，会员\n2013.6-----至今\n社会兼职内容：国际岩石力学学会，会员\n教育经历\n工作经历\n2011.9-----2016.12\n重庆大学\n|\n岩土工程\n|\n工学博士学位\n2007.9-----2011.6\n重庆大学\n|\n市政工程\n|\n工学学士学位\n2017.10-----2020.9\n土木建筑工程学院\n|\n武汉大学\n2020.10-----至今\n土木建筑工程学院\n|\n武汉大学\n团队成员\n团队名称：数值算法研究小组\n孟千雨\n硕士研究生，从事岩体渗流特性及非连续数值算法研究。\n雷相樾\n硕士研究生，从事极端环境岩体力学特性与非连续数值算法研究。\n明爱松\n硕士研究生，从事裂隙岩体注浆迁移与加固数值算法研究。\n钟秀杰\n博士研究生，从事复杂环境下深部岩体多场多相数值算法研究。\n返回顶部\n+\n程浩\n个人信息\n博士生导师\n硕士生导师\n教师拼音名称：Cheng Hao\n出生日期：1989-02-23\n所在单位：土木建筑工程学院\n学历：博士研究生毕业\n办公地点：工学部第10教学楼南401\n性别：男\n联系方式：邮箱：chenghaomail@whu.edu.cn\n其他联系方式\n通讯/办公地址:\n移动电话:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

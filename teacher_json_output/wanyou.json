@@ -1,0 +1,116 @@
+{
+  "id": "wanyou",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wanyou/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "万幼",
+    "english_name": "Wan You",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "地理信息与地图科学系",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学",
+        "period": "2005.9-2008.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "软件工程",
+        "school": "武汉大学",
+        "period": "2003.9-2005.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "计算机应用技术",
+        "school": "武汉理工大学",
+        "period": "1999.9-2003.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2024 地理信息科技进步二等奖：地理空间大数据自适应变换关键技术及应用",
+      "2023 地理信息科技进步特等奖：城市时空大数据聚合表达与挖掘关键技术及应用"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "智能计算与空间优化",
+      "深度学习与强化学习"
+    ],
+    "research_interests": [
+      "地理大数据分析",
+      "社交网络大数据挖掘",
+      "机器学习",
+      "空间建模",
+      "空间智能算法",
+      "地理空间格局分析",
+      "空间交互模式分析",
+      "结构特征挖掘"
+    ],
+    "research_description": "万幼副教授主要研究面向地理大数据和社交网络大数据，利用机器学习和空间建模技术，设计开发各种空间智能算法，对地理空间的格局、交互模式、结构特征等进行分析和挖掘。",
+    "disciplines": [
+      "地理信息科学",
+      "计算机科学",
+      "空间信息科学",
+      "数据科学"
+    ],
+    "field_tags": [
+      "空间智能",
+      "地理大数据",
+      "机器学习",
+      "空间建模",
+      "深度学习",
+      "强化学习",
+      "智能计算",
+      "空间优化",
+      "社交网络分析",
+      "地理信息系统"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wanyou/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 万幼\n页面链接: http://jszy.whu.edu.cn/wanyou/zh_CN/index.htm\n==================================================\n武汉大学 万幼--中文主页--首页\n教师个人主页\n万幼\n个人信息\n教师拼音名称：Wan You\n电子邮箱：\n所在单位：资源与环境科学学院\n性别：男\n职称：副教授\n毕业院校：武汉大学测绘遥感信息工程国家重点实验室\n硕士生导师\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n万幼，武汉大学资源与环境科学学院地理信息与地图科学系副教授，美国宾夕法尼亚州立大学访问学者，中国科学院地理科学与资源研究所博士后。主讲本科生课程《空间数据库原理》、《空间智能计算》、《地理信息系统原理》，研究生课程《智能计算与空间优化》。主要研究方向是面向地理大数据和社交网络大数据，利用机器学习和空间建模技术，设计开发各种空间智能算法，对地理空间的格局、交互模式、结构特征等进行分析和挖掘。\n教育经历\n更多>>\n2005.9-2008.12\n武汉大学  | 地图学与地理信息系统  | 工学博士学位 | 博士\n2003.9-2005.6\n武汉大学  | 软件工程  | 工学硕士学位 | 硕士研究生\n1999.9-2003.6\n武汉理工大学  | 计算机应用技术  | 工学学士学位 | 本科(学士)\n工作经历\n更多>>\n2011.4-至今\n资源与环境科学学院 | 武汉大学  | 在职\n2013.5-2014.5\n统计系、地理系 | 美国宾夕法尼亚州立大学\n| 访问学者\n2009.2-2011.3\n资源与环境信息系统国家重点实验室 | 中国科学院地理科学与资源研究所\n| 博士后\n社会兼职\n暂无内容\n研究方向\n智能计算与空间优化\n深度学习与强化学习\n曾获荣誉\n2024    地理信息科技进步二等奖：地理空间大数据自适应变换关键技术及应用\n2023    地理信息科技进步特等奖：城市时空大数据聚合表达与挖掘关键技术及应用\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

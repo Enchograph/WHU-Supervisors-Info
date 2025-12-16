@@ -1,0 +1,170 @@
+{
+  "id": "liuyang12345678",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuyang12345678/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘洋",
+    "english_name": "liuyang",
+    "title": [
+      "副主任医师",
+      "副研究员"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "第一临床学院",
+    "college": "第一临床学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "医学相关领域（纳米医学、肿瘤免疫治疗）",
+        "school": "哈佛大学",
+        "period": "国家公派联合培养博士期间",
+        "country": "美国"
+      },
+      {
+        "degree": "博士",
+        "field": "医学相关领域（纳米医学、肿瘤免疫治疗）",
+        "school": "武汉大学",
+        "period": "博士阶段",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "医学相关领域（纳米医学、肿瘤免疫治疗）",
+        "school": "武汉大学",
+        "period": "博士后阶段",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "哈佛大学/武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "Exploration (IF 22.5) 学术编辑",
+      "Military Medical Research (IF 22.9) 科学编辑",
+      "iMeta (IF 33.2) 编委/青年编委",
+      "Interdisciplinary Medicine (IF 13.6) 编委/青年编委",
+      "Chinese Chemical Letters (IF 9.4) 编委/青年编委",
+      "Cell Proliferation 编委",
+      "Responsive Materials 编委",
+      "Nano TransMed 编委",
+      "Chemical Engineering Journal 审稿专家",
+      "Experimental Hematology & Oncology 审稿专家",
+      "Free Radical Biology and Medicine 审稿专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "纳米医学",
+      "肿瘤免疫治疗"
+    ],
+    "research_interests": [
+      "纳米载体",
+      "化学动力学疗法",
+      "光热协同催化",
+      "肿瘤细胞失巢凋亡抵抗",
+      "可穿戴人工肾",
+      "毒素吸附材料"
+    ],
+    "research_description": "开发了铜掺杂树枝状介孔硅纳米载体与氧化铈基纳米酶系统，通过增强化学动力学疗法及光热协同催化效应，靶向抑制肿瘤细胞失巢凋亡抵抗，提供术中止血和术后抗肿瘤复发的治疗方案；同时开发有序排列的自组装硅质沸石材料，为下一代低成本可穿戴人工肾技术提供高效可持续的毒素吸附解决方案。",
+    "disciplines": [
+      "医学",
+      "材料科学",
+      "生物工程",
+      "纳米技术"
+    ],
+    "field_tags": [
+      "纳米医学",
+      "肿瘤治疗",
+      "智能纳米材料",
+      "生物医用材料",
+      "人工肾",
+      "化学动力学疗法",
+      "光热治疗",
+      "肿瘤免疫"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "铜掺杂树枝状介孔硅纳米载体与氧化铈基纳米酶系统用于靶向抑制肿瘤细胞失巢凋亡抵抗",
+        "keywords": [
+          "纳米医学",
+          "肿瘤免疫治疗",
+          "化学动力学疗法",
+          "光热协同催化",
+          "抗肿瘤复发"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "纳米医学",
+          "肿瘤免疫治疗",
+          "生物材料"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "有序排列的自组装硅质沸石材料用于低成本可穿戴人工肾技术",
+        "keywords": [
+          "可穿戴人工肾",
+          "毒素吸附",
+          "纳米材料",
+          "可持续医疗"
+        ],
+        "journal_name": "Biomaterials",
+        "research_fields": [
+          "生物材料",
+          "再生医学",
+          "纳米技术"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuyang12345678/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国际（地区）合作研究与交流项目",
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "湖北省泌尿系统疾病重点实验室开放项目",
+      "中央高校自主科研项目",
+      "武汉大学优秀博士（后）项目",
+      "武汉大学学科交叉与转化医学项目",
+      "武汉大学创新平台支撑项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "湖北省泌尿系统疾病重点实验室",
+      "中央高校",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘洋\n页面链接: http://jszy.whu.edu.cn/liuyang12345678/zh_CN/index.htm\n==================================================\n武汉大学 刘洋--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n刘洋，男，哈佛大学/武汉大学 国家公派联合培养博士、博士后。武汉大学第一临床学院/武汉大学人民医院，副主任医师、副研究员。\n研究方向：纳米医学、肿瘤免疫治疗等。\n主持（参与）项目：\n国际（地区）合作研究与交流项目1项\n国家自然科学基金2项\n湖北省自然科学基金1项\n湖北省泌尿系统疾病重点实验室开放项目1项\n中央高校自主科研项目1项\n武汉大学优秀博士（后）项目1项\n武汉大学学科交叉与转化医学项目1项\n武汉大学创新平台支撑项目2项\n学术成果：\n迄今为止在ACS Nano、Biomaterials、Journal of  Nanobiotechnology、Chemical Engineering Journal 等国际一流期刊上发表论文，累计影响因子逾百分。授权国家发明专利三项。\n学术任职：\nExploration (IF 22.5)学术编辑、Military Medical Research (IF 22.9) 科学编辑，iMeta (IF 33.2)、Interdisciplinary Medicine (IF 13.6)、Chinese Chemical Letters (IF 9.4)、Cell Proliferation、Responsive Materials、Nano TransMed 等期刊编委/青年编委，Chemical Engineering Journal、Experimental Hematology & Oncology、Free Radical Biology and Medicine 等期刊审稿专家。\n学术贡献：\n（1）开发了铜掺杂树枝状介孔硅纳米载体与氧化铈基纳米酶系统，通过增强化学动力学疗法及光热协同催化效应，靶向抑制肿瘤细胞失巢凋亡抵抗，提供了兼具术中止血和术后抗肿瘤复发的有效治疗方案。\n（2）开发了一种有序排列的自组装硅质沸石材料，为下一代低成本可穿戴人工肾技术提供了高效可持续的毒素吸附解决方案。\n研究方向\n社会兼职\n暂无内容\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n刘洋\n个人信息\n硕士生导师\n教师拼音名称：liuyang\n所在单位：第一临床学院\n性别：男\n在职信息：在职\n毕业院校：哈佛大学/武汉大学\n其他联系方式\n邮编:\n通讯/办公地址:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

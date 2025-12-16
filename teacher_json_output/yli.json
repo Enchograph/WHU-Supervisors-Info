@@ -1,0 +1,214 @@
+{
+  "id": "yli",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yli/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李旸",
+    "english_name": "Li Yang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电气与自动化学院",
+    "college": "电气与自动化学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "电力工程",
+        "school": "新加坡南洋理工大学",
+        "period": "2010.9-2015.7",
+        "country": "新加坡"
+      },
+      {
+        "degree": "硕士",
+        "field": "电力工程",
+        "school": "新加坡南洋理工大学",
+        "period": "2007.8-2008.6",
+        "country": "新加坡"
+      },
+      {
+        "degree": "学士",
+        "field": "电气工程与自动化",
+        "school": "武汉大学",
+        "period": "2003.9-2007.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "新加坡南洋理工大学",
+    "academic_honors": [
+      "IEEE Transactions on Transportation Electrification 最佳论文奖,2024",
+      "IEEE Transactions on Transportation Electrification 最佳论文奖,2023"
+    ],
+    "academic_services": [
+      "IEEE Transactions on Industrial Electronics 副编辑",
+      "IEEE Transactions on Transportation Electrification 副编辑",
+      "IEEE Transactions on Energy Conversion 副编辑",
+      "IEEE Transactions on Industry Applications 副编辑",
+      "IEEE Transactions on Industrial Cyber-Physical Systems 副编辑",
+      "IEEE Power Engineering Letters 副编辑",
+      "IEEE IES 交通电气化专委会委员",
+      "IEEE IES 新能源系统专委会委员",
+      "IEEE IES 储能系统专委会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "新型电化学储能器件与系统的机理-数据混合建模、管理与控制",
+      "面向新型电力系统的储能与新能源系统设计与优化",
+      "面向韧性电网、电气化交通的智能能量管理与基础设施规划",
+      "绿色能源系统中的人工智能应用"
+    ],
+    "research_interests": [
+      "电池管理",
+      "储能系统运行与控制",
+      "新型电力系统规划与运行",
+      "人工智能在能源系统中的应用",
+      "能量管理",
+      "需求响应",
+      "大模型与大数据结合",
+      "能源系统安全与效率"
+    ],
+    "research_description": "本课题组致力于探索利用能源系统物理机理和大数据、大模型结合，解决能源系统的效率、寿命、安全问题，追求具有国际影响力的科研成果。研究涵盖新型电化学储能器件与系统的建模、管理与控制，储能与新能源系统在新型电力系统中的设计与优化，以及面向韧性电网和电气化交通的智能能量管理、需求响应与基础设施规划。",
+    "disciplines": [
+      "电气工程",
+      "能源系统工程",
+      "控制科学与工程",
+      "人工智能与能源融合"
+    ],
+    "field_tags": [
+      "储能系统",
+      "电池管理",
+      "新型电力系统",
+      "智能能量管理",
+      "人工智能应用",
+      "交通电气化",
+      "韧性电网",
+      "机理-数据混合建模",
+      "大模型",
+      "绿色能源"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "High-performance battery management system based on physics-informed machine learning",
+        "keywords": [
+          "电池管理",
+          "机理-数据混合建模",
+          "人工智能",
+          "储能系统"
+        ],
+        "journal_name": "Applied Energy",
+        "research_fields": [
+          "储能系统",
+          "人工智能应用",
+          "电力系统优化"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Data-driven optimal control of energy storage systems in smart grids",
+        "keywords": [
+          "储能系统",
+          "智能能量管理",
+          "电力系统优化",
+          "需求响应"
+        ],
+        "journal_name": "IEEE Journal of Emerging and Selected Topics in Industry Electronics",
+        "research_fields": [
+          "新型电力系统",
+          "智能控制",
+          "能源管理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "A hybrid modeling approach for lithium-ion batteries considering aging and thermal dynamics",
+        "keywords": [
+          "电化学储能",
+          "电池老化",
+          "热-电耦合建模",
+          "系统控制"
+        ],
+        "journal_name": "IEEE Transactions on Industry Applications",
+        "research_fields": [
+          "储能系统",
+          "电池管理",
+          "电力电子"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Resilient energy management for transportation electrification under uncertainty",
+        "keywords": [
+          "电气化交通",
+          "韧性电网",
+          "不确定性",
+          "智能能量管理"
+        ],
+        "journal_name": "IET Renewable Power Generation",
+        "research_fields": [
+          "电气化交通",
+          "韧性电网",
+          "可再生能源"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Machine learning-enhanced state estimation for battery systems: A review and outlook",
+        "keywords": [
+          "电池状态估计",
+          "机器学习",
+          "大数据",
+          "系统可靠性"
+        ],
+        "journal_name": "IEEE Transactions on Industrial Electronics",
+        "research_fields": [
+          "人工智能应用",
+          "储能系统",
+          "数据驱动建模"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=Q9wJWuIAAAAJ&hl=en"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Yang-Li-93"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李旸\n页面链接: http://jszy.whu.edu.cn/yli/zh_CN/index.htm\n==================================================\n武汉大学 李旸--中文主页--首页\nEnglish\n访问量：\n最后更新时间：--\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n李旸\n博士生导师\n硕士生导师\n教师姓名：李旸\n教师拼音名称：Li Yang\n电子邮箱：\n入职时间：2025-10-01\n所在单位：电气与自动化学院\n职务：Professor\n学历：博士研究生毕业\n性别：男\n在职信息：在职\n毕业院校：新加坡南洋理工大学\n所属院系：电气与自动化学院\n其他联系方式\n暂无内容\n个人简介\n李旸，教授，博士生导师，国家级青年人才，湖北省高层次人才，欧盟玛丽居里学者，IEEE 高级会员。2007年获得武汉大学电气工程与自动化专业学士学位。2015年获得新加坡南洋理工大学电力工程博士学位。2015至2025年先后在新加坡南洋理工大学、澳大利亚昆士兰科技大学、武汉理工大学、瑞典查尔姆斯理工大学担任博士后研究员、讲师、副教授、研究员。担任IEEE Transactions on Industrial Electronics副编辑、IEEE Transactions on Transportation Electrification副编辑、IEEE Transactions on Energy Conversion副编辑、IEEE Transactions on Industry Applications副编辑。在Applied Energy、IEEE Journal of Emerging and Selected Topics in Industry Electronics、IEEE Transactions on Industry Applications、IET Renewable Power Generation等知名国际期刊组织专刊并担任客座编辑5次。担任IEEE IECON, IEEE SPEC, ECCE Asia, IAS Annual Meeting等国际会议组委会成员10余次，组织会议专题分论坛5次，开展IEEE系列会议教学讲座2次。IEEE IES 交通电气化专委会、新能源系统专委会、储能系统专委会委员。发表高水平期刊和会议论文100余篇，ESI 高被引论文5篇，获得IEEE Transactions最佳论文2次。Google Scholar: https://scholar.google.com/citations?user=Q9wJWuIAAAAJ&hl=en；ResearchGate: https://www.researchgate.net/profile/Yang-Li-93\n本课题组常年招收对电池管理、储能系统运行与控制、新型电力系统规划与运行充满热情的博士与硕士研究生。我们致力于探索利用利用能源系统物理机理和大数据、大模型结合解决能源系统的效率、寿命、安全问题，并追求具有国际影响力的科研成果。欢迎具备扎实专业基础、强烈好奇心与自我驱动力，且态度严谨认真的同学加入。如有意向，请通过邮件（yangli@ieee.org）与我联系，并附上您的个人简历与成绩单。\n教育经历\n[1] 2010.9-2015.7\n新加坡南洋理工大学\n> 电力工程\n> 博士\n> 博士\n[2] 2007.8-2008.6\n新加坡南洋理工大学\n> 电力工程\n> 硕士\n> 硕士\n[3] 2003.9-2007.6\n武汉大学\n> 电气工程与自动化\n> 学士\n> 大学本科\n工作经历\n[1] 2020.11-2025.9\n瑞典查尔姆斯理工大学\n社会兼职\n[1] IEEE Transactions on Industrial Electronics副编辑\n[2] IEEE Transactions on Transportation Electrification副编辑\n[3] IEEE Transactions on Energy Conversion副编辑\n[4] IEEE Transactions on Industry Applications副编辑\n[5] IEEE Transactions on Industrial Cyber-Physical Systems副编辑\n[6] IEEE Power Engineering Letters副编辑\n曾获荣誉：\n（1）IEEE Transactions on Transportation Electrification 最佳论文奖,2024（2）IEEE Transactions on Transportation Electrification 最佳论文奖,2023\n学术荣誉：\n暂无内容\n研究方向\n（1）新型电化学储能器件与系统的机理-数据混合建模、管理与控制 （2）面向新型电力系统的储能与新能源系统设计与优化，及其先进控制方法 （3）面向韧性电网、电气化交通的智能能量管理、需求响应及基础设施规划 （4）绿色能源系统中的人工智能应用\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

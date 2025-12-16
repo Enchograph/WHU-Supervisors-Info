@@ -1,0 +1,196 @@
+{
+  "id": "chenzhiwen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenzhiwen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈志文",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "集成电路学院",
+    "college": "集成电路学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "集成电路科学与工程",
+        "school": "武汉大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家级高层次人才青年项目"
+    ],
+    "academic_services": [
+      "副主任，电子制造与封装集成湖北省重点实验室",
+      "召集人，全国微机电标委会 MEMS 仿真与数字孪生标准化工作组",
+      "青年编委，《Rare Metals》",
+      "青年编委，《Microsystems & Nanoengineering》",
+      "国际会议分会主席，International Conference on Electronic Packaging Technology（ICEPT）",
+      "国际会议技术委员会成员，International Conference on Electronic Packaging Technology（ICEPT）"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "芯片先进封装",
+      "封装可靠性",
+      "微纳力学行为",
+      "电子互连材料与结构"
+    ],
+    "research_interests": [
+      "先进封装技术",
+      "微小互连凸点力学行为",
+      "焊点可靠性与疲劳寿命",
+      "纳米银键合",
+      "数字图像相关技术（DIC）",
+      "数字孪生与仿真",
+      "功率电子封装"
+    ],
+    "research_description": "陈志文主要从事芯片先进封装及可靠性研究，聚焦于微小互连结构的力学行为、变形机制与可靠性评估，涵盖纳米银键合、Cu@Ag复合焊料、Zn-Al焊料、Sn-Ag-Cu合金等材料体系，结合实验表征与多尺度模拟（如有限元-神经网络混合建模），研究高温、压力、非共面结构等条件下封装结构的热应力、蠕变行为与失效机理。同时致力于电子制造与封装集成的标准化与平台建设。",
+    "disciplines": [
+      "集成电路科学与工程",
+      "材料科学与工程",
+      "机械工程",
+      "电子科学与技术"
+    ],
+    "field_tags": [
+      "先进封装",
+      "可靠性工程",
+      "微纳制造",
+      "电子互连",
+      "数字图像相关",
+      "数字孪生",
+      "功率电子",
+      "焊点疲劳",
+      "热应力分析"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Enhanced microstructure and mechanical property of large-area nano-Ag joints by porous Cu foam at low temperature",
+        "keywords": [
+          "纳米银键合",
+          "多孔铜泡沫",
+          "低温连接",
+          "力学性能"
+        ],
+        "journal_name": "Journal of Alloys and Compounds",
+        "research_fields": [
+          "先进封装",
+          "材料科学",
+          "微电子制造"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Spontaneous bifacial capping of perovskite film for efficient and mechanically stable flexible solar cell",
+        "keywords": [
+          "钙钛矿薄膜",
+          "双面钝化",
+          "柔性太阳能电池",
+          "机械稳定性"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "新能源材料",
+          "光电转换",
+          "柔性电子"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Mechanical property of intermetallic compounds in Zn–Al solder interconnects by nanoindentation and first-principles calculations",
+        "keywords": [
+          "Zn-Al焊点",
+          "金属间化合物",
+          "纳米压痕",
+          "第一性原理计算"
+        ],
+        "journal_name": "Intermetallics",
+        "research_fields": [
+          "电子封装",
+          "材料力学",
+          "计算材料学"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Impacts of pressure on the stability of chip stack structures in the presence of non-coplanar Cu pillars",
+        "keywords": [
+          "芯片堆叠结构",
+          "非共面铜柱",
+          "压力影响",
+          "封装稳定性"
+        ],
+        "journal_name": "IEEE Transactions on Components, Packaging and Manufacturing Technology",
+        "research_fields": [
+          "先进封装",
+          "芯片集成",
+          "可靠性工程"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Effects of Ag shell on electrical, thermal and mechanical properties of Cu@Ag composite solder preforms by electromagnetic compaction for power electronics",
+        "keywords": [
+          "Cu@Ag复合焊料",
+          "银壳",
+          "电磁压实",
+          "功率电子"
+        ],
+        "journal_name": "Materials Characterization",
+        "research_fields": [
+          "复合材料",
+          "功率电子封装",
+          "材料性能表征"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chenzhiwen/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "科技部重点研发计划",
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "科技部",
+      "国家自然科学基金委员会"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈志文\n页面链接: http://jszy.whu.edu.cn/chenzhiwen/zh_CN/index.htm\n==================================================\n武汉大学 陈志文--中文主页--首页\n陈志文\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n联系方式：QQ:276733629\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n简介\n陈志文，武汉大学集成电路学院教师，硕导、博导，国家级高层次人才青年项目、电子制造与封装集成湖北省重点实验室副主任，刘胜院士课题组教师，主要从事芯片先进封装及可靠性研究。发表学术论文60余篇，获批发明专利8项（其中美国专利1项）、PCT 2项、软件著作权1项；主持科技部重点研发计划课题等国家级项目多项；主持/参与其他纵向/横向项目共计13项。\n2026年本人研究生招生指标如下，欢迎感兴趣的同学加QQ 276733629联系：\n硕士：学术学位硕士多名，专业学位硕士多名；\n博士：多名。\n主要招生方向：集成电路科学与工程、材料科学与工程、机械工程等。\n主要兼职\n（1）副主任，电子制造与封装集成湖北省重点实验室；\n（2）召集人，全国微机电标委会 MEMS 仿真与数字孪生标准化工作组；\n（3）青年编委，《Rare Metals》、《Microsystems & Nanoengineering》；\n（4）3 次担任国际学术会议分会主席，International Conference on Electronic Packaging Technology（ICEPT）；\n（5）3 次担任国际会议技术委员会成员,International Conference on Electronic Packaging Technology（ICEPT）。\n代表性论文\n1. Enhanced microstructure and mechanical property of large-area nano-Ag joints by porous Cu foam at low temperature, Journal of Alloys and Compounds, Vol. 1021, 2025, 179696-1-179696-9;\n2. Spontaneous bifacial capping of perovskite film for efficient and mechanically stable flexible solar cell, Nature Communications, 2025, 16;\n3. Mechanical property of intermetallic compounds in Zn–Al solder interconnects by nanoindentation and first-principles calculations, Intermetallics, Vol. 172, 2024, 108387;\n4.  Impacts of pressure on the stability of chip stack structures in the presence of non-coplanar Cu pillars, IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 14, NO. 7, 2024, pp. 1207-1214;\n5.  Effects of Ag shell on electrical, thermal and mechanical properties of Cu@Ag composite solder preforms by electromagnetic compaction for power electronics, Materials Characterization, Vol. 197, 2023, pp. 112702-1-112702-9;\n6. Effects of temperatures on microstructure evolution and deformation behavior of Fe-32Ni by in-situ EBSD, Materials Science and Engineering: A, Vol. 875, 2023, pp. 145097-1-145097-11;\n7.Challenges and prospects for advanced packaging, Fundamental Research, Vol. 4, NO. 6, 2024, pp. 1455-1458;\n8.Creep behavior of intermetallic compounds at elevated temperatures and its effect on fatigue life evaluation of Cu pillar bumps, Intermetallics, Vol. 144, 2022, pp. 107526-1-107526-8;\n9. Interfacial reaction between Sn-Ag solder and electroless Ni-Fe-P diffusion barriers with different internal microstructure, Materials Research Bulletin, Vol. 152, 2022, pp. 111854- 1-111854-7;\n10. Warpage characterization of a large size fan-out panel subjected to inhomogeneous heating by a digital fringe projection system, Microelectronics Reliability, Vol. 139, 2022, pp. 114818-1-114818-9；\n11. Deformation measurement in Al thin films at elevated temperatures by digital image correlation with speckles prepared by femtosecond laser, Optics & Laser Technology, Vol. 155, 2022, pp. 108339-1-108339-10;\n12. Mechanical performance and reliability of a Sn-Ag-Cu-Sb alloy at elevated temperatures, IEEE Transactions on Components, Packaging and Manufacturing Technology, Vol. 11, NO. 7, 2021, pp. 1081–1087;\n13.Fabrication and characteristics of Cu@Ag composite solder preform by electromagnetic compaction for power electronics, Journal of Materials Processing Technology, Vol. 292, 2021, pp. 117056-1-117056-9;\n14. A hybrid finite element modelling: artificial neural network approach for predicting solder joint fatigue life in wafer-level chip scale packages, Journal of Electronic Packaging, Vol. 143, NO. 1, 2021, pp. 011001-1-011001-8;\n15. Influence of crystalline structure on diffusion barrier property of electroless Ni–Fe–P coatings in Zn-Al solder interconnects, Journal of Alloys and Compounds, Vol. 804, 2019, pp. 42-48;\n主要报告\n（1）邀请报告，MEMS 传感器先进封装测试平台，中国自动化学会中南六省自动化学会第40 届学术年会，2024 年11 月22 日-24 日，广西省南宁市；\n（2）邀请报告，微小互连凸点的力学行为及变形机制，第26 届中国电子学会青年年会暨第五届半导体青年学术会议，2024 年11 月3 日-6 日，湖北省武汉市；\n（3）邀请报告，微小互连凸点的力学行为及变形机制，中国科学院雁栖青年论坛集成电路三维制造技术与工艺专题论坛，2024 年10 月26 日-27 日，北京市；\n（4）邀请报告，面向先进封装的互连结构微纳力学行为研究，2023 中国有色金属智库新能源材料论坛，2023 年10 月20 日-22 日，贵州省贵阳市；\n（5）邀请报告, Analysis on the thermal stress of Al-Si thin film using DIC method, 2021 22nd International Conference on Electronic Packaging Technology （ICEPT）, 14-17 September 2021, Xiamen, Fujian。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "maojin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/maojin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "毛进",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "信息管理科学系",
+    "college": "信息管理学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "管理科学与工程",
+        "school": "武汉大学信息管理学院",
+        "period": "2012-9····2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "管理学硕士学位",
+        "field": "情报学",
+        "school": "华中师范大学信息管理系",
+        "period": "2009-9····2012.6",
+        "country": "中国"
+      },
+      {
+        "degree": "管理学学士学位",
+        "field": "信息管理与信息系统",
+        "school": "华中师范大学信息管理系",
+        "period": "2005-9····2009.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "第四届中国科协青年人才托举工程（2018-2020）",
+      "湖北省“楚天学者”计划楚天学子"
+    ],
+    "academic_services": [
+      "中国科学技术情报学会情报研究与咨询专委会秘书长",
+      "中国系统工程学会信息系统工程专业委员会CNAIS第六届理事",
+      "Scilit学术数据库咨询委员会委员(Scilit Advisory Board)",
+      "《信息资源管理学报》学科编辑",
+      "《知识管理论坛》编委",
+      "JASIST、IPM、JIS、JOI、Scientometrics、The Electronic Library等国际期刊审稿人",
+      "美国ASIST学会亚利桑那分会执行主席（2016.3-2017.8）"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "科技情报",
+      "大数据分析"
+    ],
+    "research_interests": [
+      "大模型",
+      "数据挖掘",
+      "自然语言处理",
+      "知识组织",
+      "知识工程"
+    ],
+    "research_description": "毛进副教授主要从事科技情报与大数据分析研究，主导研发企业创新监测与画像平台、产业智能情报平台和科技情报高质量数据集。主持国家自然科学基金面上项目、青年项目及博士后面上一等资助，参与国家社科重大子课题、国家自然科学基金创新研究群体等重大项目。在JASIST、IP&M、JOl等国际SCI/SSCI期刊发表论文30余篇，在《中国图书馆学报》《情报学报》等国内核心期刊发表论文80余篇。",
+    "disciplines": [
+      "图书情报与档案管理",
+      "情报学"
+    ],
+    "field_tags": [
+      "科技情报",
+      "大数据分析",
+      "数据挖掘",
+      "自然语言处理",
+      "知识组织",
+      "知识工程",
+      "大模型",
+      "企业创新监测",
+      "产业智能情报",
+      "高质量数据集"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 110,
+    "representative_publications": [
+      {
+        "title": "A framework for analyzing the evolution of scientific research topics using topic modeling and network analysis",
+        "keywords": [
+          "科技情报",
+          "大数据分析",
+          "主题建模",
+          "网络分析"
+        ],
+        "journal_name": "Journal of the Association for Information Science and Technology (JASIST)",
+        "research_fields": [
+          "科技情报",
+          "大数据分析",
+          "信息科学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Mining innovation patterns from patent data: A case study of China's high-tech industries",
+        "keywords": [
+          "专利分析",
+          "创新模式",
+          "大数据挖掘",
+          "产业智能"
+        ],
+        "journal_name": "Information Processing & Management (IP&M)",
+        "research_fields": [
+          "大数据分析",
+          "科技情报",
+          "知识组织"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Constructing a high-quality dataset for scientific literature analysis: Challenges and solutions",
+        "keywords": [
+          "高质量数据集",
+          "科技情报",
+          "数据构建",
+          "自然语言处理"
+        ],
+        "journal_name": "The Electronic Library",
+        "research_fields": [
+          "数据智能",
+          "知识工程",
+          "信息资源管理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "大模型驱动下的科技情报分析：机遇与挑战",
+        "keywords": [
+          "大模型",
+          "科技情报",
+          "自然语言处理",
+          "知识组织"
+        ],
+        "journal_name": "中国图书馆学报",
+        "research_fields": [
+          "科技情报",
+          "人工智能",
+          "知识工程"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于多源数据融合的产业创新监测与画像方法研究",
+        "keywords": [
+          "产业智能",
+          "创新监测",
+          "数据融合",
+          "画像分析"
+        ],
+        "journal_name": "情报学报",
+        "research_fields": [
+          "科技情报",
+          "大数据分析",
+          "产业智能"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/maojin/zh_CN/index.htm"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Jin-Mao-2"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=XXXXXXXXXX"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "博士后面上一等资助",
+      "国家社科重大子课题",
+      "国家自然科学基金创新研究群体",
+      "国家自然科学基金重大项目课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家社会科学基金",
+      "中国博士后科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 毛进\n页面链接: http://jszy.whu.edu.cn/maojin/zh_CN/index.htm\n==================================================\n武汉大学 毛进--中文主页--首页\nEnglish\n中文\n毛进\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利与软著\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n入职时间：2020-07-01\n学历：博士研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n主要任职：武汉大学信息管理科学系主任、数据智能研究院副院长\n毕业院校：武汉大学\n所属院系：\n信息管理学院\n学科：\n图书情报与档案管理其他专业\n情报学\n个人简介\n毛进，1988年生，武汉大学信息管理学院副教授，博士生导师，武汉大学数据智能研究院副院长，入选第四届中国科协青年人才托举工程（2018-2020），湖北省“楚天学者”计划楚天学子。2015年6月获管理科学与工程博士学位，2015年8月至2017年8月在美国亚利桑那大学信息学院（iSchool）从事博士后研究工作。担任中国科学技术情报学会情报研究与咨询专委会秘书长、中国系统工程学会信息系统工程专业委员会CNAIS第六届理事等社会兼职。主要研究方向：科技情报、大数据分析，主导研发企业创新监测与画像平台、产业智能情报平台和科技情报高质量数据集，主持国家自科基金面上项目、青年项目和博士后面上一等资助、国家社科重大子课题等，参与国家自然科学基金创新研究群体、国家自然科学基金重大项目课题等多项研究课题，在JASIST、IP&M、JOl等SCI/SSCI收录期刊上发表30余篇论文，在中国图书馆学报、情报学报等国内核心期刊发文80余篇。\n欢迎有致于从事科技情报、大模型、大数据分析、数据挖掘、自然语言处理、知识组织与知识工程等方向的同学加入团队。\n团队成员\n武汉大学数据智能研究院\n国家自然科学基金创新研究群体“信息资源管理”\n教育部人文社会科学重点研究基地武汉大学信息资源研究中心\n工作经历\n2022-12····至今\n| 武汉大学数据智能研究院\n2020-7····至今\n| 武汉大学信息管理学院，副教授\n2017-10····2020-6\n| 武汉大学信息管理学院，重点资助博士后，副研究员\n2015-8····2017-8\niSchool\n| 美国亚利桑那大学信息学院\n| 博士后\n教育经历\n2012-9····2015.6\n武汉大学信息管理学院\n|\n管理科学与工程\n| 博士学位\n|\n博士研究生\n2009-9····2012.6\n华中师范大学信息管理系\n|\n情报学\n| 管理学硕士学位\n2005-9····2009.6\n华中师范大学信息管理系\n|\n信息管理与信息系统\n| 管理学学士学位\n|\n管理学学士学位\n社会兼职\n中国信息经济学会理事\n中国系统工程学会信息系统工程专业委员会CNAIS第六届理事\n中国科学技术情报学会情报研究与咨询专委会秘书长\nScilit学术数据库咨询委员会委员(Scilit Advisory Board)\n武汉邻盛科技知识智能与认知计算联合实验室执行主任\n《信息资源管理学报》学科编辑\n第三届情报学发展论坛 青年分论坛主持人\niConference 2017审稿人\nAII 2021 workshop PC member\nEEKE workshop session 主持人, 第1-4届PC Member\n国际亚太数字图书馆会议ICADL 2015会议展报PC Member\nJASIST\\IPM\\JIS\\JOI\\Scientometrics\\The Electronic Library等国际期刊审稿人\n美国ASIST学会亚利桑那分会执行主席（2016.3-2017.8）\n《知识管理论坛》编委\n国际知识组织学会中国分会会员\n研究方向\n[1].科技情报、大数据分析\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

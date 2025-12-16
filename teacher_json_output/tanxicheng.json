@@ -1,0 +1,149 @@
+{
+  "id": "tanxicheng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/tanxicheng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "谭喜成",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "硕士",
+        "field": "遥感信息工程",
+        "school": "武汉大学",
+        "period": "研究生毕业",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "武汉大学优秀教学业绩奖",
+      "武汉大学高等教育(本科)教学成果奖",
+      "地理信息科技进步一等奖",
+      "湖北省科技进步二等奖",
+      "全国地理信息工程金奖",
+      "测绘科技进步奖",
+      "武汉大学青年拔尖人才"
+    ],
+    "academic_services": [
+      "ISPRS J P&R 审稿人",
+      "INT J APPL EARTH OBS 审稿人",
+      "TGRS 审稿人",
+      "IJDE 审稿人",
+      "IEEE JSTARS 审稿人",
+      "RS 审稿人",
+      "Computers & Geosciences 审稿人",
+      "IEEE Access 审稿人",
+      "测绘学报 审稿人",
+      "计算机科学 审稿人",
+      "中国地理学会会员",
+      "中国人工智能学会会员",
+      "中国计算机学会会员",
+      "中国地理信息协会理论与方法工作委员会委员",
+      "全国虚拟地理环境专业委员会委员",
+      "中国测绘学会低空开发与利用工作委员会委员",
+      "中国服务计算专业委员会执行委员",
+      "亚洲地理协会青年地理学者工作组(AGA-YGWG)委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "通信-导航-感知一体化空间智能服务",
+      "智能遥感观测与多模态感知",
+      "智能无人系统与自动化控制",
+      "空间智能计算与地理信息智能服务",
+      "时空智能优化与地理计算",
+      "虚拟地理环境与人工智能"
+    ],
+    "research_interests": [
+      "大模型",
+      "深度学习",
+      "机器视觉",
+      "遥感信息提取",
+      "灾害应急",
+      "智慧城市",
+      "智慧电网",
+      "智慧管网"
+    ],
+    "research_description": "主要从事通信-导航-感知一体化空间智能服务（包括空-天-地智能通信、星地一体精密定位、智能遥感观测与多模态感知、智能无人系统、自动化控制、空间智能计算、地理信息智能服务、大模型、时空智能优化、地理计算、虚拟地理环境、人工智能、深度学习&机器视觉、遥感信息提取等）、灾害应急、智慧城市、智慧电网、智慧管网等领域的教学、科研与应用工作。",
+    "disciplines": [
+      "遥感信息工程",
+      "地理信息系统",
+      "人工智能",
+      "测绘科学与技术",
+      "计算机科学"
+    ],
+    "field_tags": [
+      "空间智能",
+      "遥感",
+      "人工智能",
+      "地理信息",
+      "智慧城市",
+      "大模型",
+      "深度学习",
+      "智能感知",
+      "时空分析",
+      "虚拟地理环境"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/tanxicheng/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划项目",
+      "国家自然科学基金项目",
+      "湖北省自然科学基金项目",
+      "中央高校基金"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中央高校基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 谭喜成\n页面链接: http://jszy.whu.edu.cn/tanxicheng/zh_CN/index.htm\n==================================================\n武汉大学 谭喜成--中文主页--首页\n谭喜成\n教授 博士生导师\n个人信息\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：遥感信息工程学院\n电子邮箱：\nVIEW MORE\n首页\n科研教学成果\n科研与教学成果\n人才培养\n人才培养\n授课信息\n授课信息\n教师博客\n更多\n谭喜成，武汉大学遥感信息工程学院，教授，博导，硕导。武汉大学遥感信息工程学院硕士、测绘遥感信息工程国家重点实验室博士毕业，获摄影测量与遥感博士学位，中国地理学会会员，中国人工智能学会会员，中国计算机学会会员，中国地理信息协会理论与方法工作委员会委员，全国虚拟地理环境专业委员会委员，中国测绘学会低空开发与利用工作委员会委员，中国服务计算专业委员会执行委员，亚洲地理协会青年地理学者工作组(AGA-YGWG)委员，受“武汉大学青年拔尖人才”计划和国家留学基金资助前往美国乔治梅森大学地理系深造。主要从事通信-导航-感知一体化空间智能服务（空-天-地智能通信、星地一体精密定位、智能遥感观测与多模态感知、智能无人系统、自动化控制、空间智能计算、地理信息智能服务、大模型、时空智能优化、地理计算、虚拟地理环境、人工智能、深度学习&机器视觉、遥感信息提取等）、灾害应急、智慧城市、智慧电网、智慧管网等领域的教学、科研与应用工作。担任ISPRS J P&R、INT J APPL EARTH OBS、TGRS 、IJDE、 IEEE JSTARS、RS、 Computers & Geosciences、IEEE Access、测绘学报、计算机科学等国内外学术期刊的审稿人。主持编写编著3部，参与编写编著1部。主持国家重点研发计划项目、国家自然科学基金项目、湖北省自然科学基金项目、中央高校基金等纵横向科研课题20余项，开创、主讲并成功获批国家级一流课程1门，荣获武汉大学优秀教学业绩奖、武汉大学高等教育(本科)教学成果奖。主持荣获地理信息科技进步一等奖、湖北省科技进步二等奖、全国地理信息工程金奖、测绘科技进步奖等奖项。指导学生获“挑战杯”主体赛国家一等奖、“挑战杯”湖北省特等奖、中国国际大学生创新大赛（互联网+）金奖&银奖、全国GIS特等奖（冠军）等奖项。\n暂无内容\n暂无内容\n暂无内容\n通讯/办公地址 : \n邮箱 : \n暂无内容\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

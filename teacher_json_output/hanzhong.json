@@ -1,0 +1,135 @@
+{
+  "id": "hanzhong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hanzhong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "韩仲",
+    "english_name": "HAN Zhong",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "土木建筑工程学院",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "哲学博士学位",
+        "field": "Civil Engineering",
+        "school": "University of Ottawa",
+        "period": "2012.9-2016.8",
+        "country": "加拿大"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "岩土工程",
+        "school": "郑州大学",
+        "period": "2009.9-2012.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "土木工程",
+        "school": "郑州大学",
+        "period": "2005.9-2009.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "University of Ottawa",
+    "academic_honors": [
+      "湖北省青年人才称号",
+      "武汉大学土木建筑工程学院优秀党务工作者",
+      "加拿大岩土工程年会年度最佳学术报告奖"
+    ],
+    "academic_services": [
+      "中国土木工程学会，土力学及岩土工程分会，非饱和土与特殊土专业委员会委员",
+      "中国土木工程学会，土力学及岩土工程分会，青年工作委员会委员",
+      "中国土工合成材料工程协会，青年工作委员会委员",
+      "武汉市岩土工程协会理事",
+      "湖北省力学学会会员",
+      "国际土力学与岩土工程学会（ISSMGE）会员",
+      "美国岩土工程协会（ASCE）会员",
+      "加拿大岩土工程协会（CGS）会员",
+      "国际土工合成材料学会（IGS）会员",
+      "中国土工合成材料工程协会会员",
+      "Nature Communications, Géotechnique, JGGE, CGJ, EG, CBM 等国际权威期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "非饱和土力学",
+      "特殊土的力学特性及工程灾害防治",
+      "复杂环境路基工程",
+      "淤泥快速处理及资源化利用技术"
+    ],
+    "research_interests": [
+      "土工结构服役性能",
+      "灾变失效",
+      "环境荷载影响",
+      "膨胀土",
+      "冻土",
+      "黄泛区粉土",
+      "结构-水力-力学特性演化",
+      "服役寿命预测",
+      "灾害防治理论",
+      "土工合成材料"
+    ],
+    "research_description": "针对长期、复杂环境荷载影响下土工结构的服役性能及灾变失效开展试验、理论与仿真研究，致力于揭示土工结构中的普通土和特殊土（膨胀土、冻土、黄泛区粉土等）的结构-水力-力学特性在动、静荷载以及温度、湿度循环等复杂环境荷载等多因素共同作用下的演化规律，藉此实现对土工结构的服役性能及服役寿命的合理预测和评判，发展复杂环境荷载作用下土工结构的灾害防治理论及方法。",
+    "disciplines": [
+      "岩土工程",
+      "防灾减灾与防护工程",
+      "土木水利"
+    ],
+    "field_tags": [
+      "非饱和土",
+      "特殊土",
+      "膨胀土",
+      "冻土",
+      "黄土",
+      "环境荷载",
+      "服役性能",
+      "灾害防治",
+      "路基工程",
+      "土工合成材料",
+      "淤泥处理",
+      "资源化利用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/hanzhong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 韩仲\n页面链接: http://jszy.whu.edu.cn/hanzhong/zh_CN/index.htm\n==================================================\n武汉大学 韩仲--武大土木韩仲--首页\n教师个人主页\n韩仲\n个人信息\n教师拼音名称：HAN Zhong\n电子邮箱：\n所在单位：土木建筑工程学院\n职务：副教授\n学历：博士研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n其他任职：Adjunct Professor, University of Ottawa\n毕业院校：University of Ottawa\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n针对长期、复杂环境荷载影响下土工结构的服役性能及灾变失效开展试验、理论与仿真研究，致力于揭示土工结构中的普通土和特殊土（膨胀土、冻土、黄泛区粉土等）的结构-水力-力学特性在动、静荷载以及温度、湿度循环等复杂环境荷载等多因素共同作用下的演化规律，藉此实现对土工结构的服役性能及服役寿命的合理预测和评判，发展复杂环境荷载作用下土工结构的灾害防治理论及方法。（工学/工程博导：岩土工程/防灾减灾与防护工程/土木水利）。\n教育经历\n更多>>\n2012.9-2016.8\nUniversity of Ottawa  | Civil Engineering  | 哲学博士学位 | 研究生  | 导师：Sai K. Vanapalli 教授\n2009.9-2012.6\n郑州大学  | 岩土工程  | 工学硕士学位 | 研究生  | 导师：郭院成 教授\n2005.9-2009.6\n郑州大学  | 土木工程  | 工学学士学位 | 本科\n工作经历\n更多>>\n2023.1-至今\n土木建筑工程学院 | 武汉大学\n| 副教授（博导/硕导）\n2017.1-2022.12\n土木建筑工程学院 | 武汉大学\n| 副研究员（博导/硕导）\n2022.7-至今\nDepartment of Civil Engineering |&nbspUniversity of Ottawa\n| 兼职教授 / Adjunct Professor\n社会兼职\n中国土木工程学会，土力学及岩土工程分会，非饱和土与特殊土专业委员会委员中国土木工程学会，土力学及岩土工程分会，青年工作委员会委员中国土工合成材料工程协会，青年工作委员会委员武汉市岩土工程协会理事湖北省力学学会会员国际土力学与岩土工程学会（ISSMGE）会员美国岩土工程协会（ASCE）会员加拿大岩土工程协会（CGS）会员加拿大注册工程师（P.Eng）国际土工合成材料学会（IGS）会员中国土工合成材料工程协会会员担任Nature Communications, Géotechnique, JGGE, CGJ, EG, CBM 等国际权威期刊审稿人\n研究方向\n更多>>\n非饱和土力学\n特殊土的力学特性及工程灾害防治（膨胀土、冻土、黄土、分散土，压实土等）\n复杂环境路基工程\n淤泥快速处理及资源化利用技术\n曾获荣誉\n2020    湖北省青年人才称号\n2021    武汉大学土木建筑工程学院优秀党务工作者\n2017    加拿大岩土工程年会年度最佳学术报告奖\n团队成员\n更多>>\n非饱和土及土工合成材料研究团队\n邹维列\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

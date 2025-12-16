@@ -1,0 +1,232 @@
+{
+  "id": "wanghaijun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wanghaijun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王海军",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "土地资源管理",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学",
+        "period": "研究生毕业",
+        "country": "中国"
+      },
+      {
+        "degree": "访问学者",
+        "field": "城市规划与设计",
+        "school": "香港大学",
+        "period": "访问学习",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "领跑者5000——中国精品科技期刊顶尖学术论文",
+      "易智瑞”杯《测绘学报》优秀论文",
+      "Web of Science高被引论文",
+      "中国知网高被引论文",
+      "2022年高等教育（研究生）国家优秀教学成果二等奖（参与）"
+    ],
+    "academic_services": [
+      "《地理学报》期刊审稿人",
+      "《测绘学报》期刊审稿人",
+      "Landscape and Urban Planning 期刊审稿人",
+      "International Journal of Geographical Information Science 期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "土地利用演变模拟",
+      "国土空间规划",
+      "时空信息分析与建模",
+      "城市扩展模拟与预测",
+      "空间优化配置"
+    ],
+    "research_interests": [
+      "元胞自动机模型",
+      "城市土地利用",
+      "城市群发展",
+      "空间异质性",
+      "时空非平稳性",
+      "多源数据融合",
+      "土地资源管理",
+      "地理信息系统",
+      "遥感与GIS应用",
+      "土地定级与估价"
+    ],
+    "research_description": "王海军教授长期从事土地利用演变模拟与空间优化配置、国土空间规划和时空信息分析与建模等领域的理论、方法和应用研究。研究聚焦于基于元胞自动机的城市扩展模拟，融合最大熵、云模型、空间句法、多尺度分析、生物地理优化算法等方法，构建顾及外部扩展、内部更新、城市流、空间异质性与时间依赖性的城市土地利用演变模型。研究涵盖城市群、大都市圈及区域尺度的国土空间配置优化、城市边界划定、土地集约利用评价、农用地产能核算、征地统一年产值测算等实际应用，广泛应用于粤港澳大湾区、京津冀、长江中游城市群等区域。研究成果发表于《Landscape and Urban Planning》《International Journal of Geographical Information Science》《地理学报》等高水平期刊，主持多项国家自然科学基金及自然资源部重点实验室开放基金项目。",
+    "disciplines": [
+      "土地资源管理",
+      "地图学与地理信息系统",
+      "人文地理学",
+      "资源与环境",
+      "测绘工程"
+    ],
+    "field_tags": [
+      "元胞自动机",
+      "城市扩展模拟",
+      "土地利用演变",
+      "国土空间规划",
+      "时空建模",
+      "GIS",
+      "遥感",
+      "空间优化",
+      "城市群",
+      "土地定级估价"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 130,
+    "representative_publications": [
+      {
+        "title": "Simulating urban land growth by incorporating historical information into a cellular automata model",
+        "keywords": [
+          "城市土地增长模拟",
+          "元胞自动机",
+          "历史信息",
+          "城市扩张"
+        ],
+        "journal_name": "Landscape and Urban Planning",
+        "research_fields": [
+          "土地利用演变模拟",
+          "城市规划",
+          "时空信息分析"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Using a maximum entropy model to optimize the stochastic component of urban cellular automata models",
+        "keywords": [
+          "最大熵模型",
+          "元胞自动机",
+          "随机性优化",
+          "城市增长模拟"
+        ],
+        "journal_name": "International Journal of Geographical Information Science",
+        "research_fields": [
+          "地理信息科学",
+          "城市扩展建模",
+          "空间模拟"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Model construction of urban agglomeration expansion simulation considering urban flow and hierarchical characteristics",
+        "keywords": [
+          "城市群扩展",
+          "城市流",
+          "层级特征",
+          "元胞自动机"
+        ],
+        "journal_name": "Journal of Geographical Sciences",
+        "research_fields": [
+          "城市群发展",
+          "空间优化配置",
+          "地理信息系统"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "A high-performance cellular automata model for urban simulation based on vectorization and parallel computing technology",
+        "keywords": [
+          "高性能元胞自动机",
+          "向量化",
+          "并行计算",
+          "城市模拟"
+        ],
+        "journal_name": "International Journal of Geographical Information Science",
+        "research_fields": [
+          "地理信息科学",
+          "高性能计算",
+          "城市建模"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "基于城市流和层级性的城市群扩展模型构建",
+        "keywords": [
+          "城市群扩展",
+          "城市流",
+          "层级性",
+          "元胞自动机"
+        ],
+        "journal_name": "地理学报",
+        "research_fields": [
+          "土地资源管理",
+          "人文地理学",
+          "城市规划"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学中文主页",
+        "url": "http://jszy.whu.edu.cn/wanghaijun/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "自然资源部重点实验室开放基金项目",
+      "原国土资源部项目",
+      "地方政府部门项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "自然资源部",
+      "原国土资源部",
+      "广东省土地开发储备局",
+      "湛江市国土资源局",
+      "潮州市国土资源局",
+      "恩平市国土资源局",
+      "封开县国土资源局",
+      "怀集县国土资源局",
+      "揭西县国土资源局",
+      "阳东县国土资源局",
+      "阳西县国土资源局",
+      "东莞松山湖科技产业园区管理委员会",
+      "广州东部（增城）汽车产业基地管理委员会",
+      "广东省阳江高新技术产业开发区管理委员会",
+      "中山火炬产业转移工业园区管理委员会",
+      "莆田市国土资源局荔城分局",
+      "莆田市国土资源局涵江分局",
+      "福安市国土资源局",
+      "霞浦县国土资源局",
+      "武汉市江夏区国土资源管理局"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王海军\n页面链接: http://jszy.whu.edu.cn/wanghaijun/zh_CN/index.htm\n==================================================\n武汉大学 王海军--中文主页--首页\n王海军\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n学科：\n土地资源管理\n地图学与地理信息系统\n人文地理学\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n王海军，教授，博士生导师，获武汉大学地图学与地理信息系统博士学位，在香港大学城市规划与设计系（叶嘉安院士）访问学习。具有土地资源管理、地理信息科学、城市规划的多学科背景，长期从事土地利用演变模拟与空间优化配置、国土空间规划和时空信息分析与建模等领域的理论、方法和应用研究。主持3项国家自然科学基金面上项目，主持7项自然资源部重点实验室开放基金项目，主持1项原国土资源部新时期土地利用规划创新研究项目，主持广东省和福建省多个市县的城镇土地定级与基准地价评估、土地利用规划、土地整治规划、开发区土地集约利用评价、农用地分等定级估价、农用地产能核算、征地统一年产值与区片价测算等项目。获得房地产估价师、土地估价师和土地登记代理人等职业资格证。\n研究团队在《地理学报》（3篇）、《测绘学报》（3篇）、《Landscape and Urban Planning》（4篇）、《International Journal of Geographical Information Science》（7篇）等期刊发表论文130余篇，授权发明专利7项，计算机软件著作权登记6项。被省委省政府采用咨询报告2份，“领跑者5000——中国精品科技期刊顶尖学术论文”1篇，“易智瑞”杯《测绘学报》优秀论文1篇，Web of Science高被引论文1篇，中国知网高被引论文1篇，《长江日报》《光明网》发表理论文章3篇。指导本科生参加第六届、第七届全国大学生国土空间规划技能大赛和第六届全国大学生土地国情调查大赛，获“特等奖”3项、“一等奖”1项，本人2次获“优秀指导老师奖”。指导本科生3人获优秀学士学位论文，指导本科生大学生创新创业训练项目国家级1项。获2022年高等教育（研究生）国家优秀教学成果二等奖（参与）。\n欢迎土地资源管理、人文地理、地理信息科学、遥感、测绘等学科背景的同学加入！（院办331室）\n招生专业：120405土地资源管理（学硕和学博） 、070502人文地理学（学硕和学博） 、070503地图学与地理信息系统（学硕和学博） 、085700资源与环境（专博） ，085704测绘工程（专硕）\n联系方式：landgiswhj@163.com\n承担项目与课题：\n[1] 主持国家自然科学基金面上项目：顾及时空非平稳特征的城市群土地利用演变元胞自动机模型构建(项目编号：42171411)，2021。\n[2] 主持国家自然科学基金面上项目：基于空间异质特征和不确定性的城市扩展元胞自动机模型构建(项目编号：41571384)，2015。\n[3] 主持国家自然科学基金面上项目：基于地图代数和模糊系统的元胞自动机理论研究(项目编号：40871179)，2008。\n[4] 主持自然资源部国土空间规划与开发保护重点实验室-中规院（北京）规划设计有限公司联合开放基金项目：京津冀区域国土空间配置优化研究（课题编号：TSPDP23/04），2023。\n[5] 主持自然资源部华南热带亚热带自然资源监测重点实验室开放基金项目：顾及外部扩展和内部更新的珠三角城市群建设用地空间发育模式研究 (项目编号：2023NRMK02)，2023。\n[6] 主持自然资源部地理国情监测重点实验室开放基金项目：多源数据支持下顾及“双评价”与空间扩展模式的城市边界划定方法研究(项目编号：2023NGCM01)，2023。\n[7] 主持自然资源部国土空间智能规划技术重点实验室开放基金项目：顾及“以流定形”的上海大都市圈土地利用演变模拟研究(项目编号：20220303)，2022。\n[8] 主持自然资源部超大城市自然资源时空大数据分析应用重点实验室开放基金项目：顾及空间多尺度效应和时间依赖性的城市土地时空演变模拟（项目编号：KFKT-2022-10），2022。\n[9] 主持自然资源部国土空间规划监测评估预警重点实验室开放基金项目：顾及趋势性和偶发性的城市扩展元胞自动机模型构建及模拟(项目编号：LMEE-KF2021006)，2021。\n[10] 主持原国土资源部项目：新时期土地利用规划创新研究之土地利用演变规律研究(项目编号：DCPJ161207-01)，2016。\n[11] 参与国家自然科学基金项目：网络分析的地图代数分析与带Steiner的最小生成树(项目编号：40471107)，2004。\n[12] 主持广东省城镇地价信息数据库建设，项目来源：广东省土地开发储备局，2012。\n[13] 主持广东省湛江市市区土地定级与基准地价评估，项目来源：湛江市国土资源局，2007年度和2013年度。\n[14] 主持广东省湛江市各镇土地定级与基准地价评估，项目来源：湛江市国土资源局，2009年。\n[15] 主持广东省潮州市市区土地定级与基准地价评估，项目来源：潮州市国土资源局，2010年度和2014年度。\n[16] 主持广东省恩平市土地定级与基准地价评估，项目来源：恩平市国土资源局，2012年。\n[17] 主持广东省封开县土地定级与基准地价评估，项目来源：封开县国土资源局，2010年度和2013年度。\n[18] 主持广东省怀集县土地定级与基准地价评估，项目来源：怀集县国土资源局，2011年。\n[19] 主持广东省揭西县土地定级与基准地价评估，项目来源：揭西县国土资源局，2010年度和2014年度。\n[20] 主持广东省阳东县土地定级与基准地价评估，项目来源：阳东县国土资源局，2010年度和2014年度。\n[21] 主持广东省阳西县土地定级与基准地价评估，项目来源：阳西县国土资源局，2010年度和2014年度。\n[22] 主持广东省潮州市市区农用地产能核算，项目来源：潮州市国土资源局，2010年。\n[23] 主持广东省揭西县农用地产能核算，项目来源：揭西县国土资源局，2010年。\n[24] 主持广东省潮州市市区耕地等级成果完善与年度变更，项目来源：潮州市国土资源局，2010年度、2011年度和2012年度。\n[25] 主持东莞松山湖高新技术产业园区土地集约利用评价，项目来源：东莞松山湖科技产业园区管理委员会，2008年度、2010年度和2012年度。\n[26] 主持广州东部（增城）汽车产业基地土地集约利用评价，项目来源：广州东部（增城）汽车产业基地管理委员会，2008年。\n[27] 主持广东阳江工业园区、广东阳江港经济技术开发区土地集约利用评价，项目来源：广东省阳江高新技术产业开发区管理委员会，2008年度、2010年度。\n[28] 主持中山火炬产业转移工业园土地集约利用评价，项目来源：中山火炬产业转移工业园区管理委员会，2008年度、2010年度。\n[29] 主持福建省莆田市荔城区土地整治规划，项目来源：莆田市国土资源局荔城分局，2013。\n[30] 主持福建省莆田市涵江区土地整治规划，项目来源：莆田市国土资源局涵江分局，2013。\n[31] 主持福建省福安市土地利用总体规划修编，项目来源：福安市国土资源局，课题技术负责人，2007。\n[32] 主持福建省霞浦县土地利用总体规划修编，项目来源：霞浦县国土资源局，课题技术负责人，2007。\n[33] 主持武汉市江夏区统筹区域土地利用专项研究，项目来源：武汉市江夏区国土资源管理局，2006。\n[34] 主持武汉市江夏区控制性详细规划，项目来源：武汉市江夏区国土资源管理局，2008。\n授权发明专利：\n[1] 一种基于最大熵原理的城市元胞自动机模型构建方法, 中国, ZL 201711484065.8\n[2] 一种基于向量化和并行计算的高性能城市元胞自动机模型构建方法，中国，ZL 2017 1 0980211.X\n[3] 一种基于云模型元胞自动机的城市扩展预测方法，中国，ZL 2011 1 0227421.4\n[4] 一种基于元胞自动机的遥感影像非监督分类方法，中国，ZL 2011 1 0227460.4\n[5] 一种基于空间句法的城市扩张边界预测方法，中国，ZL 2015 1 0477655.2\n[6] 一种基于非等权距离的多波段遥感影像模糊监督分类方法，中国，ZL 2011 1 0227474.6\n计算机软件著作权登记：\n[1] 城市扩展深度学习CA软件[简称：Deep-CA]，武汉大学，中国，登记号：2023SR0619181\n[2] 城市多模式扩展模拟CA软件[简称：MaxEnt-AP-CA] ，武汉大学，中国，登记号：2023SR0512950\n[3] 多尺度地理时空加权回归软件（MGTWR），武汉大学，中国，登记号：2019SR0686718\nSCI、SSCI论文：\n[1] Simulating urban land growth by incorporating historical information into a cellular automata model[J].Landscape and Urban Planning,214: 104168,2021.\n[2] Simulating urban expansion using a cloud-based cellular automata model: A case study of Jiangxia, Wuhan, China. Landscape and Urban Planning, 110, 99-112, 2013.\n[3] Global Urbanization Research from 1991 to 2009: A Systematic Research. Landscape and Urban Planning, 104(3-4), 299-309, 2012.\n[4] Using a maximum entropy model to optimize the stochastic component of urban cellular automata models. International Journal of Geographical Information Science,34(5), 924-946, 2020.\n[5] Modeling urban growth in a metropolitan area based on bidirectional flows, an improved gravitational field model, and partitioned cellular automata. International Journal of Geographical Information Science,33(5),877-899, 2019.\n[6] A high-performance cellular automata model for urban simulation based on vectorization and parallel computing technology. International Journal of Geographical Information Science,32(2) ,399-424,2018.\n[7]Exploring the advantages of the maximum entropy model in calibrating cellular automata for urban growth simulation: a comparative study of four methods[J]. GIScience  & Remote Sensing, 59(1):71-95, 2022.\n[8] A new type of dual scale neighborhood based on vectorization for cellular automata models,GIScience & Remote Sensing,10.1080/15481603.2021.1883946, 2021.\n[9] A minimum-volume oriented bounding box strategy for improving the performance of urban cellular automata based on vectorization and parallel computing technology. GIScience & Remote Sensing,57(1),91-106, 2020.\n[10] Model construction of urban agglomeration expansion simulation considering urban flow and hierarchical characteristics. Journal of Geographical Sciences,32(3),499-516,2022.\n[11] Urban expansion patterns and their driving forces based on the center of gravity-GTWR model: A case study of the Beijing-Tianjin-Hebei urban agglomeration. Journal of Geographical Sciences,30(2),297-318,2020.\n[12] Analyzing the effects of stochastic perturbation and fuzzy distance transformation on Wuhan urban growth simulation. Transactions in GIS,24(6),1779-1798,2020.\n[13] Simulating urban growth affected by national and regional land use policies Case study from Wuhan.Land Use Policy,112:105850,2022.\n[14] Delineating early warning zones in rapidly growing metropolitan areas by integrating a multiscale urban growth model with biogeography-based optimization. Land Use Policy,DOI:10.1016/j.landusepol.2019.104332,2020.\n[15] Bidirectional urban flows in rapidly urbanizing metropolitan areas and their macro and micro impacts on urban growth: A case study of the Yangtze River middle reaches megalopolis, China. Land Use Policy,82,158-168,2019.\n[16] An integrated approach of logistic‑MCE‑CA‑Markov to predict the land use structure and their micro‑spatial characteristics analysis in Wuhan metropolitan , Environmental Science and Pollution Research,29(20),30030-30053,2022.\n[17] Dynamic simulation patterns and spatiotemporal analysis of land-use/land-cover changes in the Wuhan metropolitan area,China,Ecological Modelling,464:109850,2022.\n[18] Dynamic simulation and conflict identification analysis of production–living–ecological space in Wuhan,Central China,Integrated Environmental Assessment and Management,DOI: 10.1002/ieam.4574,2022.\n[19] Constructing and optimizing urban ecological network in the context of rapid urbanization for improving landscape connectivity. Ecological Indicators. 132:108319, 2021.\n[20] Predicting the expansion of urban boundary using space syntax and multivariate regression model.Habitat International,86,126-134, 2019.\n[21] Ecological Conservation– and Economic Development–Based Multiobjective Land-Use Optimization: Case Study of a Rapidly Developing City in Central China. Journal of Urban Planning and Development, 145(1) , 2019.\n[22] Factor analysis for aerosol optical depth and its prediction from the perspective of land-use change. Ecological Indicators,93,458-469,2018.\n[23] A Bibliographic Review of Cellular Automaton Publications in the Last 50 Years, Journal of Cellular Automata,2017.\n[24] An unsupervised classifier for remote-sensing imagery based on improved cellular automata, International Journal of Remote Sensing, 34(21),7821-7837,2013.\n[25] Spatial evaluation of non-point source pollution in urban-rural watershed using fuzzy system. Journal of Hydroinformatics, 16(1), 114-129,2014.\n[26] Application of kernel-based Fisher discriminant analysis to map landslide susceptibility in the Qinggan River delta, Three Gorges, China. Geomorphology, 171, 30-41, 2012.\n[27] A historical review and bibliometric analysis of GPS research from 1991-2010. Scientometrics, 95(1), 35-44,2013.\n[28] Modeling urban growth by the use of a multiobjective optimization approach Environmental and economic issues for the Yangtze watershed,China.Environ Science Pollution Research, 21(22), 13027-13042, 2014.\nEI论文：\n[1] 基于城市流和层级性的城市群扩展模型构建,地理学报,第76卷(第12期), 3012-3024,2021.\n[2] 基于重心-GTWR模型的京津冀城市群城镇扩展格局与驱动力多维解析,地理学报,第73卷(第6期),1076-1092,2018.\n[3] 基于空间句法的扩张强度指数及其在城镇扩展分析中的应用,地理学报,第71卷(第8期),1302-1314,2016.\n[4] 城市扩展元胞自动机多结构卷积神经网络模型,测绘学报,第49卷(第3期),375-385,2020.\n[5] 基于改进的GPU并行NSGA-Ⅲ的土地利用优化配置,农业工程学报,第36卷(第21期), 283-291,2020.\n[6] 基于Logistic-GTWR模型的武汉城市圈城镇用地扩展驱动力分析,农业工程学报,第34卷(第19期),248-257,2018.\n[7] 利用生物地理学优化算法获取城市扩展元胞自动机模型参数,武汉大学学报(信息科学版),第42卷(第9期),1323-1329,2017.\n[8] The impact of traffic networks on urban sprawl a case study for Hubei Province in central China.2017 4th International Conference on Transportation Information and Safety(TCTIS),August 8-10,2017,Banff,Canada.\n[9] 动态数据空间分析的不确定性问题——以城市中心识别为例,武汉大学学报(信息科学版),第39卷(第6期),701-705,2014.\n[10] 利用遗传算法和支持向量机测算农用地理论单产和可实现单产,农业工程学报,第29卷(第19期),244-254,2013.\n[11] 顾及障碍空间距离和区域差异的元胞自动机城市扩展模型构建. 武汉大学学报(信息科学版),第36卷(第8期),999-1002,2011.\n[12] 利用元胞自动机作用域构建林火蔓延模型. 武汉大学学报(信息科学版),第36卷(第5期),575-578,2011.\n[13] 利用元胞自动机和遗传算法的Voronoi图生成.武汉大学学报(信息科学版),第35卷(第7期),778-781,2010.\n[14] 利用元胞自动机和模糊C均值聚类的图像分割新方法. 武汉大学学报(信息科学版),第35卷(第11期),1288-1291,2010.\n[15] 利用地图代数和数据场拓展元胞自动机研究. 武汉大学学报(信息科学版),第35卷(第12期),1474-1477,2010.\n[16] 基于遗传算法的城镇土地定级权重确定方法研究. 武汉大学学报(信息科学版),第35卷(第2期),240-243,2010.\n[17] 基于数据场的C均值聚类方法研究.武汉大学学报(信息科学版),第34卷(第5期),626-629,2009.\n[18] 顾及障碍空间的城镇土地定级方法研究.武汉大学学报(信息科学版),第33卷(第1期),97-100,2008.\n[19] 基于注水模型的网络分析方法研究.武汉大学学报(信息科学版),第32卷(第5期),419～422,2007.\n[20] 基于空间聚类的城镇土地定级方法研究.武汉大学学报(信息科学版),第31卷(第7期),628-631,2006.\n[21] 基于k阶数据场的城镇土地定级模型.武汉大学学报(信息科学版), 第34卷(第3期),370-373,2009.\n[22] 基于元胞自动机的流域水土流失时空动态变化研究.水力发电学报. 第32卷(第1期),96-100,2013.\n[23] 论多边形中轴问题和算法.武汉大学学报(信息科学版), 第30卷(第10期),853～857,2005.\n[24] 耕地需求量预测的加权模糊—马尔可夫链模型.武汉大学学报(信息科学版),第30卷(第4期),305～308,2005.\n其他论文\n[1] 基于多维要素流视角的城市群网络结构及影响因素分析——以武汉城市圈为例,经济地理,第41卷(第6期),68-76,2021.\n[2] 基于多维城市要素流的武汉城市圈城市联系与功能分析,经济地理,第38卷(第7期),50-58,2018.\n[3] 利用广义加性模型解析长江中游城市群城镇用地扩展驱动力,长江流域与资源环境,第30卷(第1期),32-43,2021.\n[4] 武汉市都市发展区地表温度季节性空间分布与驱动力分析,长江流域资源与环境,第30卷(第2期),351-360,2021.\n[5] 基于系统动力学的中国土地利用系统健康评价研究,长江流域资源与环境,2020,29(05),第29卷(第5期),1064-1074,2020.\n[6] 武汉城市圈城镇用地扩展的时空格局与规模等级模式分异研究,长江流域与资源环境,第27卷(第2期),272-285,2018.\n[7] 顾及土地生态安全评价的环鄱阳湖城市群土地利用情景模拟,地球信息科学, 第22卷(第3期),543-556,2020.\n[8] 基于约束性元胞自动机(CA)的大都市郊区城镇增长的情景模拟与管控——以武汉市江夏区为例,地理科学进展, 第35卷(第7期),793-805,2016.\n[9] 基于智能体和人工神经网络的元胞自动机建模及城市扩展模拟,地理与地理信息科学, 第38卷(第1期),79-85,2022.\n[10] 利用生物地理学优化算法挖掘城市扩展元胞自动机(CA)模型的转换规则,地理与地理信息科学,第34卷(第1期),6-11,2018.\n[11] 大尺度和精细化城市扩展元胞自动机(CA)的理论与方法探讨,地理与地理信息科学,第32卷(第5期),1-8,2016.\n[12] 珠三角城市群城镇用地扩展时空格局及其驱动因素分析,现代城市研究, 2020（1）,60-66,2020\n[13] 耦合管控效应的城市空间多情景模拟与政策分析,人文地理,第32卷(第3期),68-76,2017.\n[14] 快速城市化背景下景观生态安全时空动态分析——以南昌市区为例. 华中师范大学(自然科学版),第49卷(第2期),267-273,2015.\n[15] 基于遗传算法和支持向量机的城镇土地定级方法研究. 华中师范大学(自然科学版),第48卷(第6期),917-922,2014.\n[16] 基于改进的IFM-NSGAⅢ模型的武汉市土地利用优化配置,测绘地理信息,2022.\n[17] 三种开发区土地集约利用评价方法比较分析,测绘地理信息,2014.\n[18] 大数据时代的城市规划响应,规划师,2014.\n[19] 基于模糊C均值的空间聚类方法研究.华中师范大学(自然科学版),第43卷(第1期),152-155,2009.\n[20] 多因素综合评价法划分征地区片方法研究.华中师范大学(自然科学版) ,第40卷(第4期),614-616,2006.\n[21] 顾及障碍物的贝叶斯分类法在城镇土地定级中的应用.资源科学,第35卷(第8期),1871-1876,2013.\n[22] 基于GIS的城市交通元胞自动机模拟——以上海市为例. 武汉理工大学学报(交通科学与工程版),第35卷(第6期),1209-1213,2011.\n[23] 基于PSR和云模型的农用地生态环境评价. 自然资源学报,第26卷(第8期),1346-1352,2011.\n[24] 基于地图代数障碍距离变换的空间引力模型研究.华中师范大学学报(自然科学版),第44卷(第1期),140-144,2010.\n[25] 基于新陈代谢的BP神经网络在耕地保有量预测中的应用.华中师范大学(自然科学版), 第42卷(第3期),494～499,2008.\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

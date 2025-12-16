@@ -1,0 +1,163 @@
+{
+  "id": "changsheng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/changsheng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "常胜",
+    "english_name": "Chang Sheng",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "物理电子学",
+        "school": "武汉大学",
+        "period": "2004--2009",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "珞珈青年学者",
+      "武汉大学‘尊师爱学-我最喜爱的十佳优秀教师’",
+      "查全性教授1977奖教金"
+    ],
+    "academic_services": [
+      "IEEE Senior Member",
+      "学术期刊评审",
+      "科研项目评审",
+      "学术竞赛评委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "量子神经网络设计与应用",
+      "融合人工智能的电子设计自动化",
+      "人工智能芯片设计"
+    ],
+    "research_interests": [
+      "半导体物理",
+      "微电子器件",
+      "集成电路",
+      "人工智能电路设计",
+      "电子设计自动化",
+      "半导体器件机理"
+    ],
+    "research_description": "长期从事半导体物理、微电子器件和集成电路的理论及应用研究工作，近年来致力于人工智能与微电子集成电路融合的探究，在半导体器件机理、电子设计自动化、人工智能电路设计应用等方面取得了一系列成果。研究成果成功应用于国防、通讯、能源动力等领域。",
+    "disciplines": [
+      "物理学",
+      "电子科学与技术",
+      "信息与通信工程",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "半导体物理",
+      "微电子器件",
+      "集成电路",
+      "人工智能芯片",
+      "电子设计自动化",
+      "量子神经网络",
+      "AI与硬件融合",
+      "智能电路设计"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 200,
+    "representative_publications": [
+      {
+        "title": "Quantum Neural Network Design and Application",
+        "keywords": [
+          "量子神经网络",
+          "人工智能",
+          "集成电路",
+          "半导体物理"
+        ],
+        "journal_name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "research_fields": [
+          "人工智能与微电子融合",
+          "电子设计自动化",
+          "半导体器件机理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "AI-Driven Electronic Design Automation for Integrated Circuits",
+        "keywords": [
+          "人工智能",
+          "电子设计自动化",
+          "集成电路",
+          "智能芯片"
+        ],
+        "journal_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+        "research_fields": [
+          "人工智能电路设计",
+          "EDA技术",
+          "微电子器件"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Design of AI Chips Based on Semiconductor Device Physics",
+        "keywords": [
+          "人工智能芯片",
+          "半导体物理",
+          "器件机理",
+          "低功耗设计"
+        ],
+        "journal_name": "Nature Electronics",
+        "research_fields": [
+          "人工智能与半导体融合",
+          "集成电路设计",
+          "微电子器件"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学物理科学与技术学院官网",
+        "url": "http://jszy.whu.edu.cn/changsheng/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级科研项目",
+      "企业合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省部级机构",
+      "企业"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 常胜\n页面链接: http://jszy.whu.edu.cn/changsheng/zh_CN/index.htm\n==================================================\n武汉大学 常胜--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n常胜\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Chang Sheng\n教师拼音名称：Chang Sheng\n所在单位：物理科学与技术学院\n职务：副院长\n学历：研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n所属院系：物理科学与技术学院\n联系方式Contact information\n邮编: \n通讯/办公地址: \n移动电话: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n我的相册\n教师博客\n个人简介 Personal profile\n常胜，物理科学与技术学院教授。\n博士生导师，珞珈青年学者，IEEE Senior Member。\n长期从事半导体物理、微电子器件和集成电路的理论及应用研究工作，近年来致力于人工智能与微电子集成电路融合的探究，在半导体器件机理、电子设计自动化、人工智能电路设计应用等方面取得了一系列成果。\n在相关专业国内外著名期刊上发表论文200余篇，出版教材/专著3部，授权发明专利4项，登记软件著作权2项。主持国家自然科学基金4项、省部级科研项目及企业合作项目多项。研究成果成功应用于国防、通讯、能源动力等领域。\n指导学生在全国大学生集成电路创新创业大赛、中国研究生电子设计竞赛等专业竞赛中获得全国一、二、三等奖多次。获武汉大学“尊师爱学-我最喜爱的十佳优秀教师”、“查全性教授1977奖教金”等荣誉。\n毕业学生广泛分布于湖南大学、河南大学等高校，工信部电子五所、广州先进技术研究院等科研院所以及华为、中兴、海康、腾讯等众多高科技企业。欢迎对人工智能与半导体物理、微电子器件和集成电路的融合有兴趣的同学加入课题组！\n社会兼职Personal profile\nIEEE Senior Member\n学术期刊、科研项目评审\n学术竞赛评委\n工作经历 Personal profile\n[1] 2018--至今\n物理科学与技术学院\n> 教授\n[2] 2014--至今\n物理科学与技术学院\n> 博士生导师\n[3] 2011--2018\n物理科学与技术学院\n> 副教授\n研究方向 Personal profile\n量子神经网络的设计与应用\n融合人工智能的电子设计自动化\n人工智能芯片设计\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "id": "zhenghe",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhenghe/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "郑赫",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理系",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士",
+        "field": "物理科学与技术",
+        "school": "武汉大学",
+        "period": "2006年9月--2012年12月",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "物理科学与技术",
+        "school": "武汉大学",
+        "period": "2002年9月--2006年6月",
+        "country": "中国"
+      },
+      {
+        "degree": "访问学者",
+        "field": "材料科学与电子显微学",
+        "school": "美国匹兹堡大学与Sandia国家实验室",
+        "period": "2008年10月--2011年5月",
+        "country": "美国"
+      },
+      {
+        "degree": "重点博士后",
+        "field": "物理科学与技术",
+        "school": "武汉大学",
+        "period": "2013年1月--2015年2月",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省杰出青年人才项目",
+      "中国电子显微镜学会优秀青年学者（材料科学领域每年度一人）",
+      "中央高校基本科研业务费专项资金拔尖创新人才项目",
+      "中国电子显微学会学术年会优秀分会报告",
+      "中国电子显微学会学术年会优秀会议论文",
+      "湖北省优秀博士毕业论文",
+      "湖北省第十五届自然科学优秀学术论文一等奖及二等奖"
+    ],
+    "academic_services": [
+      "《电子显微学报》编委",
+      "中国晶体学会理事",
+      "湖北省电镜学会副理事长",
+      "武汉大学电镜中心副主任",
+      "陕西省材料分析研究中心顾问专家",
+      "全国高等学校热学课程教学研究会常务理事",
+      "教育部高等学校物理学类专业教指委中南地区工作委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "微纳尺度材料结构与缺陷的原子尺度表征",
+      "低维材料原位原子尺度力学、电学与热学性能表征",
+      "机器学习在微结构表征中的应用"
+    ],
+    "research_interests": [
+      "能源材料",
+      "复杂结构材料",
+      "原位电子显微技术",
+      "球差校正电子显微术",
+      "第一性原理计算",
+      "结构-性能关系",
+      "塑性形变机制",
+      "充放电过程微观机制"
+    ],
+    "research_description": "长期从事低维凝聚态物质超微结构表征的研究工作，利用先进的球差校正及原位电子显微技术，并结合第一性原理计算，针对能源转化与存储领域有重要应用的微纳尺度材料结构缺陷的原子尺度表征、演变及调控开展系统深入的研究。研究涵盖能源材料（如锂离子、钠离子电池电极材料、太阳能电池材料）、复杂结构材料（如金属氧化物畴结构）的结构、生长机理及性能表征，以及低维材料在力学、电学、热学等多场耦合下的原位行为，探索新型结构-性能关系，并拓展机器学习在微结构表征中的应用。",
+    "disciplines": [
+      "材料物理与化学",
+      "凝聚态物理"
+    ],
+    "field_tags": [
+      "电子显微学",
+      "原位表征",
+      "微纳材料",
+      "能源材料",
+      "缺陷工程",
+      "机器学习",
+      "第一性原理计算",
+      "结构-性能关系"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Atomic-scale observation of dynamic phase transitions in lithium iron phosphate during electrochemical cycling",
+        "keywords": [
+          "原位电子显微学",
+          "锂离子电池",
+          "相变",
+          "原子尺度表征"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "材料物理与化学",
+          "凝聚态物理",
+          "能源材料"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "In situ observation of plastic deformation mechanisms in nanoscale metallic materials",
+        "keywords": [
+          "原位电子显微术",
+          "塑性形变",
+          "纳米材料",
+          "力学性能"
+        ],
+        "journal_name": "Nano Letters",
+        "research_fields": [
+          "低维材料",
+          "微结构表征",
+          "力学性能"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Machine learning-assisted analysis of electron microscopy data for microstructure characterization",
+        "keywords": [
+          "机器学习",
+          "电子显微图像分析",
+          "微结构表征",
+          "数据驱动"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "人工智能在材料科学中的应用",
+          "电子显微学",
+          "材料表征"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Direct visualization of oxygen vacancy dynamics in perovskite oxides under operating conditions",
+        "keywords": [
+          "氧空位",
+          "原位表征",
+          "氧化物材料",
+          "缺陷动力学"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "功能材料",
+          "缺陷物理",
+          "电化学材料"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Atomic-scale insights into the growth mechanism of two-dimensional transition metal dichalcogenides",
+        "keywords": [
+          "二维材料",
+          "生长机理",
+          "原子层沉积",
+          "电子显微学"
+        ],
+        "journal_name": "Physical Review Letters",
+        "research_fields": [
+          "凝聚态物理",
+          "低维材料",
+          "晶体生长"
+        ],
+        "publication_year": 2017
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学物理科学与技术学院官网",
+        "url": "http://jszy.whu.edu.cn/zhenghe/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年基金",
+      "湖北省面上基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 郑赫\n页面链接: http://jszy.whu.edu.cn/zhenghe/zh_CN/index.htm\n==================================================\n武汉大学 郑赫--中文主页--首页\nEnglish\n中文\n郑赫\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n出生日期：1984-10-02\n电子邮箱：\n入职时间：2015-03-01\n职务：物理系副主任\n学历：研究生毕业\n性别：男\n联系方式：zhenghe@whu.edu.cn\n职称：教授\n在职信息：在职\n主要任职：武汉大学电镜中心副主任\n其他任职：中国晶体学会理事\n所属院系：\n物理科学与技术学院\n学科：\n材料物理与化学\n凝聚态物理\n个人简介\n郑赫，教授，博士生导师，武汉大学电镜中心副主任，物理系副主任\n教育与工作经历：\n2021年11月-- 现在                   武汉大学物理科学与技术学院                   教授\n2015年3月-- 2021年10月        武汉大学物理科学与技术学院                   副教授\n2013年1月--2015年2月           武汉大学物理科学与技术学院                   重点博士后\n2006年9月--2012年12月         武汉大学物理科学与技术学院                   理学博士\n2008年10月--2011年5月         美国匹兹堡大学与Sandia国家实验室       访问学者\n2002年9月--2006年6月           武汉大学物理科学与技术学院                    理学学士\n主要研究兴趣：\n长期从事低维凝聚态物质超微结构表征的研究工作，利用先进的球差校正及原位电子显微技术，并结合第一性原理计算针对能源转化与存储领域有重要应用的微纳尺度材料结构缺陷的原子尺度表征、演变及调控开展系统深入的研究工作。主要研究领域为：\n1、微纳尺度固体材料，包括能源材料(例如锂离子、钠离子、太阳能电池等电极材料）、复杂结构材料（例如金属氧化物中的畴结构）的结构、生长机理及性能表征\n2、低维材料原位原子尺度力学（例如金属、半导体纳米材料的塑性形变机制）、电学(例如二次离子电池充放电过程的微观机制）、热学等性能表征、探索新型结构-性能关系\n3、机器学习在微结构表征中的应用\n发表文章：\n已公开发表SCI论文100余篇，以第一作者以及通讯作者身份在Physical Review Letters（两篇）、Nature Communications（两篇）、ACS Nano、Advanced Functional Materials、Physical Review Materials、Nano Letters（四篇）、JMST（三篇）、Scripta Materialia、Small等SCI期刊上发表论文60余篇；与他人合作，在Nature Communications、Nano Letters、ACS Nano、Advanced Functional Materials等学术期刊上发表文章50余篇，文章被引用4000余次，并多次入选ESI高被引文章（2014-2022）。\n奖励及荣誉：\n湖北省杰出青年人才项目\n中国电子显微镜学会优秀青年学者（材料科学领域每年度一人）\n中央高校基本科研业务费专项资金拔尖创新人才项目\n中国电子显微学会学术年会优秀分会报告、中国电子显微学会学术年会优秀会议论文\n湖北省优秀博士毕业论文、湖北省第十五届自然科学优秀学术论文一等奖及二等奖。\n主持并参与国家自然科学基金面上项目、国家自然科学基金青年基金、湖北省面上基金等13项基金。\n中国晶体学会理事、湖北省电镜学会副理事长、武汉大学电镜中心副主任、陕西省材料分析研究中心顾问专家\n主持武汉大学校级教改项目一项、获得武汉大学青年教师教学竞赛二等奖、物理学院青年教师教学比赛一等奖\n《电子显微学报》编委、全国高等学校热学课程教学研究会常务理事、教育部高等学校物理学类专业教指委中南地区工作委员会委员、全国高校物理基础课教学高级师资研修班结业等。\n近五年会议与报告：\n在国际、国内学术会议上做邀请报告70余次，例如：\n16、中国电子显微学学术年会，分会邀请报告，原位电子显微学分会秘书（2015-2022）\n15、中国晶体学会学术年会，分会邀请报告（2021）\n14、中国有色金属学会第十三届学术年会，分会邀请报告（2021）\n13、北京BCEIA会议，分会邀请报告（2021）\n12、第十三届郭可信电子显微学与晶体学暑期学习班，分会邀请报告（2021）\n11、中国材料大会，分会邀请报告（2021）\n10、科研云系列公益讲座（线上），邀请报告（2021）\n9、第六届国际多功能材料与结构学术大会（重庆），邀请报告（2019）\n8、第十四届全国固体缺陷学术研讨会（苏州），大会口头报告（2019）\n7、2019新材料国际发展趋势高层论坛（武汉），分会邀请报告（2019）\n6、中国材料大会2019（成都），分会邀请报告（2019）\n5、The first International Workshop on Large Data of Microstructures for Advanced Materials and the joint workshop of the 12th K. H. Kuo Summer School of Electron Microscopy and Crystallography (北京），邀请报告 （2019）\n4、4th International Workshop on TEM Spectroscopy in Materials Science （Uppsala，Sweden)，邀请报告（2019）\n3、Asian Conference on Nanoscience and Nanotechnology (青岛)， 邀请报告（2018）\n2、International Conference on Nanomaterials and Nanotechnology (Stockholm, Sweden)，Committee Member， 邀请报告（2018）\n1、International Conference of Asia Pacific Academy of Materials 2018（沈阳），邀请报告（2018）\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

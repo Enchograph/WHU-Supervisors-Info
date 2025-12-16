@@ -1,0 +1,135 @@
+{
+  "id": "wugai",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wugai/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "吴改",
+    "english_name": "Wu Gai",
+    "title": [
+      "副研究员",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "集成电路学院",
+    "college": "集成电路学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "理学",
+        "school": "中国地质大学（武汉）",
+        "period": "2011.9-2017.12",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "工学",
+        "school": "中国地质大学（武汉）",
+        "period": "2007.9-2011.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国地质大学（武汉）",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "金刚石、氮化铝等宽/超宽禁带半导体材料",
+      "金刚石基功率半导体材料/器件异质集成",
+      "薄膜材料微纳加工及缺陷调控",
+      "金刚石基MEMS器件及应用"
+    ],
+    "research_interests": [
+      "宽禁带半导体",
+      "超宽禁带半导体",
+      "金刚石材料",
+      "氮化铝",
+      "氧化镓",
+      "半导体生长装备",
+      "微纳加工",
+      "缺陷调控",
+      "异质集成",
+      "MEMS器件"
+    ],
+    "research_description": "吴改副研究员长期从事宽/超宽禁带半导体装备与材料相关的研究，聚焦金刚石、氮化铝、氧化镓等材料的生长、微纳加工与缺陷调控，致力于金刚石基功率半导体器件异质集成及金刚石基MEMS器件的开发与应用。主持和参与国家自然科学基金、重大科研仪器研制项目及湖北省重大科技创新计划等重要项目。",
+    "disciplines": [
+      "材料科学与工程",
+      "微电子学与固体电子学",
+      "集成电路工程"
+    ],
+    "field_tags": [
+      "宽禁带半导体",
+      "超宽禁带半导体",
+      "金刚石材料",
+      "氮化铝",
+      "氧化镓",
+      "半导体器件",
+      "微纳加工",
+      "缺陷调控",
+      "异质集成",
+      "MEMS"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "Carbon",
+        "keywords": [
+          "金刚石",
+          "宽禁带半导体",
+          "薄膜材料",
+          "微纳加工",
+          "缺陷调控"
+        ],
+        "journal_name": "Carbon",
+        "research_fields": [
+          "宽禁带半导体材料",
+          "微纳加工技术",
+          "金刚石基器件"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wugai/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年基金项目",
+      "国家自然科学基金重大科研仪器研制项目",
+      "湖北省重大科技创新计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 吴改\n页面链接: http://jszy.whu.edu.cn/wugai/zh_CN/index.htm\n==================================================\n武汉大学 吴改--中文主页--首页\n教师个人主页\n吴改\n个人信息\n教师拼音名称：Wu Gai\n出生日期：1988-09-19\n电子邮箱：\n入职时间：2021-07-01\n所在单位：集成电路学院\n职务：副研究员\n学历：博士研究生毕业\n办公地点：武汉大学工学部雅各楼124室\n性别：男\n联系方式：wugai1988@whu.edu.cn\n在职信息：在职\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n吴改，武汉大学副研究员，硕士及博士生导师。长期从事与宽/超宽禁带半导体装备与材料相关的研究工作，主要涉及金刚石、氮化铝、氧化镓等宽/超宽禁带半导体材料及生长装备、薄膜材料微纳加工及缺陷调控、金刚石基功率半导体材料/器件异质集成、金刚石基 MEMS 器件及应用等研究方向。作为项目主持人、研究任务负责人以及核心骨干成员，主持和参与了国家自然科学基金青年基金项目、国家自然科学基金重大科研仪器研制项目（部门推荐，6500万元）、湖北省重大科技创新计划（4000万元）等重要研发项目，在Carbon、ACS Ap...\n教育经历\n2011.9-2017.12\n中国地质大学（武汉）\n| 博士 | 理学博士学位\n2007.9-2011.6\n中国地质大学（武汉）\n| 学士 | 工学学士学位\n工作经历\n更多>>\n2025.7-至今\n集成电路学院 | 武汉大学  | 在职\n| 副研究员\n2024.5-2025.5\n&nbspOkinawa Institute of Science and Technology Graduate University (OIST)/ National Institute for Materials Science (NIMS)  | 访问学者\n2021.7-2025.6\n工业科学研究院 | 武汉大学  | 在职\n| 副研究员\n社会兼职\n暂无内容\n研究方向\n更多>>\n金刚石、氮化铝等宽/超宽禁带半导体材料\n金刚石基功率半导体材料/器件异质集成\n薄膜材料微纳加工及缺陷调控\n金刚石基MEMS器件及应用\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

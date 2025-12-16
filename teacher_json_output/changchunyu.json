@@ -1,0 +1,193 @@
+{
+  "id": "changchunyu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/changchunyu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "常春雨",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "本科",
+        "field": "应用化学",
+        "school": "武汉大学",
+        "period": "2001.9 -- 2005.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "高分子化学与物理",
+        "school": "武汉大学",
+        "period": "2006.9 -- 2011.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "中国化学会纤维素专业委员会秘书长",
+      "宁波市第一医院特聘教授",
+      "武汉大学中南医院交叉研究院特聘教授"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "纳米纤维素功能材料",
+      "水凝胶人工肌肉",
+      "可吸收医用高分子材料"
+    ],
+    "research_interests": [
+      "纳米纤维素",
+      "水凝胶",
+      "人工肌肉",
+      "可吸收材料",
+      "功能材料设计",
+      "生物医用高分子",
+      "智能响应材料"
+    ],
+    "research_description": "常春雨教授主要从事纳米纤维素功能材料、水凝胶人工肌肉及可吸收医用高分子材料的研究。在Advanced Materials、ACS Nano、Advanced Functional Materials等国际知名期刊发表论文80余篇，总被引超8000次，H因子47。研究聚焦于纳米纤维素的表面工程、智能水凝胶驱动器设计以及生物可降解高分子材料的开发，致力于推动绿色功能材料在生物医学与智能器件中的应用。",
+    "disciplines": [
+      "高分子化学与物理",
+      "材料科学",
+      "化学工程",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "纳米纤维素",
+      "水凝胶",
+      "人工肌肉",
+      "可吸收材料",
+      "智能材料",
+      "生物医用高分子",
+      "绿色功能材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "Reversible Surface Engineering of Cellulose Elementary Fibrils: From Ultralong Nanocelluloses to Advanced Cellulosic Materials",
+        "keywords": [
+          "纳米纤维素",
+          "表面工程",
+          "功能材料",
+          "可逆调控"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "高分子化学与物理",
+          "功能材料",
+          "纳米纤维素"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Hydration Programmable, Shape Memorable Artificial Muscles for Antagonistic Movements",
+        "keywords": [
+          "水凝胶人工肌肉",
+          "形状记忆",
+          "水化编程",
+          "拮抗运动"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "水凝胶材料",
+          "智能材料",
+          "仿生材料"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "The Digital Printing of Chromatic Pattern with a Single Cellulose Nanocrystal Ink",
+        "keywords": [
+          "数字打印",
+          "纳米晶纤维素墨水",
+          "彩色图案",
+          "单组分墨水"
+        ],
+        "journal_name": "Chemical Engineering Journal",
+        "research_fields": [
+          "纳米纤维素",
+          "材料加工",
+          "功能印刷"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Bioinspired Shape Memory Hydrogel Artificial Muscles Driven by Solvents",
+        "keywords": [
+          "仿生水凝胶",
+          "形状记忆",
+          "溶剂驱动",
+          "人工肌肉"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "水凝胶材料",
+          "智能响应材料",
+          "仿生工程"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Controlled Arrangement of Nanocellulose in Polymeric Matrix: From Reinforcement to Functionality",
+        "keywords": [
+          "纳米纤维素排列",
+          "聚合物基体",
+          "增强功能",
+          "结构调控"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "纳米复合材料",
+          "高分子复合",
+          "功能化设计"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "X-MOL课题组主页",
+        "url": "https://www.x-mol.com/groups/Chang_cy"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 常春雨\n页面链接: http://jszy.whu.edu.cn/changchunyu/zh_CN/index.htm\n==================================================\n武汉大学 常春雨--中文主页--首页\n常春雨\n教授\n博士生导师\n硕士生导师\n性别：男\n出生日期：1982-03-03\n毕业院校：Wuhan University\n学历：博士研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n学科：\n高分子化学与物理\n办公地点：化学与分子科学学院 化南410\n联系方式：13277067976\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n课题组主页：https://www.x-mol.com/groups/Chang_cy\n武汉大学教授，博士生导师。2011年毕业于武汉大学获得博士学位，师从张俐娜院士。2011年到2013年在日本京都大学从事博士后（JSPS）研究工作。主要研究方向：① 纳米纤维素功能材料；② 水凝胶人工肌肉；③ 可吸收医用高分子材料。在Advanced Materials等期刊发表论文80余篇，总被引大于8000次，H因子47。主持国家自然科学基金4项，授权国家发明专利17项。2018年至今担任中国化学会纤维素专业委员会秘书长；2019年至今担任宁波市第一医院特聘教授；2022年至今担任武汉大学中南医院交叉研究院特聘教授。\n代表性论文：\n1. M. Zhou, D. Chen*, Q. Chen, P. Chen, G. Song, C. Chang*,  Reversible Surface Engineering of Cellulose Elementary Fibrils: From Ultralong Nanocelluloses to Advanced Cellulosic Materials. Advanced Materials 2024, 2312220. [link]\n2. Y. Cui, J. Lin, Y. Zhai, C. Xu, C. Chen*, C. Chang*, Hydration Programmable, Shape Memorable Artificial Muscles for Antagonistic Movements. Advanced Functional Materials 2024, 2401005. [link]\n3. Q. Cheng, J. Guo, X. Cao*, C. Chang*, The Digital Printing of Chromatic Pattern with a Single Cellulose Nanocrystal Ink. Chemical Engineering Journal 2022, 439, 135670. [link]\n4. Y. Cui, D. Li, C. Gong, C. Chang*, Bioinspired Shape Memory Hydrogel Artificial Muscles Driven by Solvents. ACS Nano 2021, 15, 13712. [link]\n5. N. Peng, D. Huang, C. Gong, Y. Wang*, J. Zhou, C. Chang*, Controlled Arrangement of Nanocellulose in Polymeric Matrix: From Reinforcement to Functionality. ACS Nano 2020, 14, 16169. [link]\n其他联系方式\n通讯/办公地址 : \n移动电话 : \n邮箱 : \n教育经历\n2001.9 -- 2005.6\n武汉大学\n应用化学\n本科(学士)\n理学学士学位\n2006.9 -- 2011.6\n武汉大学\n高分子化学与物理\n研究生(博士)毕业\n理学博士学位\n工作经历\n2011.11 -- 2013.11\n日本京都大学\n森林科学与生物材料系\nJSPS外国人特别研究员\n2015.1 -- 2021.10\n武汉大学\n化学与分子科学学院\n副教授\n2021.11 -- 至今\n武汉大学\n化学与分子科学学院\n教授，博士生导师\n社会兼职\n2018.10 -- 至今\n中国化学会纤维素专业委员会  委员／秘书长\n研究方向\n可吸收医用高分子材料\n水凝胶人工肌肉\n纳米纤维素功能材料\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

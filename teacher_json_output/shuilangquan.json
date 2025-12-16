@@ -1,0 +1,195 @@
+{
+  "id": "shuilangquan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shuilangquan/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "税朗泉",
+    "english_name": "Langquan Shui",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "工程力学系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "工程力学",
+        "school": "西北工业大学",
+        "period": "2006.9-----2010.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "力学",
+        "school": "西北工业大学",
+        "period": "2010.9-----2016.3",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "西北工业大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "表界面波动理论",
+      "动态粘着接触力学",
+      "无基底薄膜失稳与皱曲动力学",
+      "时变连续介质波动理论",
+      "仿生结构与微振动调控"
+    ],
+    "research_interests": [
+      "弹性波散射",
+      "时空界面动力学",
+      "微振动粘附调控",
+      "介电高弹薄膜屈曲",
+      "波动-结构耦合非线性动力学",
+      "仿生运动与软体机器人",
+      "超材料与时空晶体"
+    ],
+    "research_description": "致力于连续介质动力学理论研究，聚焦表界面波动理论及其在薄膜稳定性、机器人、超材料、结构与运动仿生、气动声学、微流控等领域的交叉应用。建立了时变连续介质波动理论模型，提出广义Snell定律与时空界面微元方法，揭示了时变介质中弹性波的非互易、非局部与非唯一传播规律；发展了动态粘着接触的界面波动力学模型，提出微振动粘附调控新技术，实现粘附强度与循环寿命的跨数量级提升；系统研究无基底薄膜的力-电耦合屈曲与深度后屈曲行为，推动波动理论与表界面力学的深度融合。",
+    "disciplines": [
+      "固体力学",
+      "工程力学",
+      "声学",
+      "力学",
+      "材料科学"
+    ],
+    "field_tags": [
+      "波动理论",
+      "界面力学",
+      "非线性动力学",
+      "仿生学",
+      "微流控",
+      "超材料",
+      "软体机器人",
+      "粘附调控",
+      "时空晶体",
+      "薄膜稳定性"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 38,
+    "representative_publications": [
+      {
+        "title": "Rapid and continuous regulating adhesion strength by mechanical micro-vibration",
+        "keywords": [
+          "动态粘着接触",
+          "微振动调控",
+          "粘附强度",
+          "非线性动力学"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "连续介质动力学",
+          "表界面波动理论",
+          "微流控"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Mechanisms of electromechanical wrinkling for highly stretched substrate-free dielectric elastic membrane",
+        "keywords": [
+          "无基底薄膜",
+          "介电高弹",
+          "皱曲失稳",
+          "力-电耦合"
+        ],
+        "journal_name": "Journal of the Mechanics and Physics of Solids",
+        "research_fields": [
+          "固体力学",
+          "非线性力学",
+          "薄膜稳定性"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "On the snake-like lateral un-dulatory locomotion in terrestrial, aquatic and sand environments",
+        "keywords": [
+          "仿生运动",
+          "波动-结构耦合",
+          "气动声学",
+          "机器人"
+        ],
+        "journal_name": "Journal of the Mechanics and Physics of Solids",
+        "research_fields": [
+          "结构与运动仿生",
+          "非线性动力学",
+          "超材料"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Waves in elastic bars under axial constant velocity loading",
+        "keywords": [
+          "时变介质",
+          "弹性波",
+          "时空界面",
+          "非互易波动"
+        ],
+        "journal_name": "International Journal of Mechanical Sciences",
+        "research_fields": [
+          "波动理论",
+          "连续介质动力学",
+          "时空晶体"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Generation of buckling and wrinkling in elastic films: The effect of initial imperfection",
+        "keywords": [
+          "初始缺陷",
+          "皱曲失稳",
+          "非线性动力学",
+          "薄膜稳定性"
+        ],
+        "journal_name": "Physical Review E",
+        "research_fields": [
+          "非线性力学",
+          "表界面力学",
+          "大变形理论"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/shuilangquan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 税朗泉\n页面链接: http://jszy.whu.edu.cn/shuilangquan/zh_CN/index.htm\n==================================================\n武汉大学 税朗泉--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n教学研究\n授课信息\n招生信息\n学生信息\n个人简介\n致力于连续介质动力学理论研究，研究方向聚焦于表界面波动理论及其应用，相关交叉研究涉及薄膜稳定性、机器人、超材料、结构与运动仿生、气动声学、微流控等方向。主要学术贡献包括：\n(1) 针对经典波动理论难以描述时变介质中非互易、非局部和非唯一波动的难题，建立了时变连续介质波动理论模型。一方面，提出了时变介质中时空界面的广义Snell定律，提出了“Snell-超越方程”的几何解法，并首次给出了凋落波的几何意义，最终明确了时变介质中弹性波的基本散射规律。另一方面，提出了“基于弱解的时空界面微元方法”，解决了时变介质中三维波动非局部和非唯一求解难题以及“时空界面伴生冲击波”的“无限能流佯谬”，从而明确了时变介质中弹性波的幅值和能量演化规律。此外，提出了时空晶体的“四维多尺度均质化方法”并完成了时空晶体均质化波动方程和Willis-材料属性张量的严格数学推导，进而显式表达了时空晶体的弹性波群速度矢量并首次理论预测了时空晶体的反演不对称性、非双曲性等奇特波动特性。\n(2) 鉴于现有理论难以描述广泛存在且至关重要的动态粘着接触行为，建立了动态粘着接触的界面波动力学模型。一方面，基于振动和波动理论，推导出了动态粘着接触问题的非线性多尺度微分方程组并进行了近似解析求解，进而分析得到了高频振荡外场作用下粘着接触力和粘附强度的显式表达式，且理论预测的接触力与实验高度一致；本理论可以描述任意高频振荡载荷下的动态粘着接触行为，而该领域中最为经典的JKR理论只是本理论的一个特例。另一方面，基于上述动态粘着接触理论，开发了微振动粘附调控这一全新技术；在该技术中，不再需要引入仿生微结构，只需要引入高频微振动并基于所提出的先进算法实时调整振动频率和幅值，就能精确控制粘附强度；该新技术全面提升了人工粘附性能/指标(粘附强度、循环寿命等指标均有跨数量级的提升)，远超传统技术；更重要的是，该技术打破了传统仿生粘附技术各项性能/指标“顾此失彼”的应用瓶颈。\n(3) 围绕无基底/悬空薄膜的皱曲失稳开展了一系列研究。一方面，基于超弹性本构和大变形理论首次用解析表达式描述了介电高弹薄膜力-电耦合的屈曲行为，揭示了介电高弹薄膜力-电耦合失稳的机制。另一方面，解析描述了无基底薄膜的深度后屈曲行为以及初始缺陷对准静态失稳的影响。此外，拟改进完善无基底薄膜失稳的经典理论、尝试发展深度皱曲薄膜的波动-结构耦合非线性动力学理论、推动波动理论和表界面力学的深度交叉融合。\n基于相关研究：(1)发表SCI论文38篇，其中作为第一/通讯作者在Nature Communications、Journal of the Mechanics and Physics of Solids (3篇，力学旗舰期刊)等发表SCI论文25篇。(2)主持国家自然科学基金等项目8项。(3)授权中国发明专利3项。近5年10项代表性成果如下：\nØ  论文\n(1).     Shui, Langquan#; Jia, Laibing#; Li, Hangbo; Guo, Jiaojiao; Guo, Ziyu; Liu, Yilun; Liu, Ze*; Chen, Xi*. (2020/03). Rapid and continuous regulating adhesion strength by mechanical micro-vibration. Nature Communications.\n(2).     Shui, Langquan; Liu, Yilun*; Li, Bo*; Zou, Chenbang; Tang, Chao; Zhu, Liangliang; Chen, Xi*. (2019/01). Mechanisms of electromechanical wrinkling for highly stretched substrate-free dielectric elastic membrane. Journal of the Mechanics and Physics of Solids.\n(3).     Zhu, Liangliang; Yang, Pengfei; Li, Feng; Wang, Kai; Shui, Langquan*; Chen, Xi*. (2022/02). On the snake-like lateral un-dulatory locomotion in terrestrial, aquatic and sand environments. Journal of the Mechanics and Physics of Solids.\n(4).     Zhang, Yidu#; Jia, Xiangzheng#; Liu, Yongshou; Gao, Enlai*; Shui, Langquan*. (2024/07). Waves in elastic bars under axial constant velocity loading. International Journal of Mechanical Sciences.\n(5).     Zhang, Yidu; Shui, Langquan*; Liu, Yongshou; Liu, Ze. (2021/11). Generation of buckling and wrinkling in elastic films: The effect of initial imperfection. Physical Review E.\n(6).     Shui, Langquan#; Yan, Weidong#; Zhang, Yujie; Xu, Lihan; Gao, Enlai; Liu, Ze*; Zheng, Quanshui*. (2022/09). Peeling mechanics of film-substrate system with mutually embedded nanostructures in the interface. International Journal of Solids and Structures.\n(7).     Yan, Yingbo; Shui, Langquan*; Liu, Siyu; Liu, Zeming; Liu, Yilun*. (2022/10). Terrain Adaptability and Optimum Contact Stiffness of Vibro-bot with Arrayed Soft Legs. Soft Robotics.\nØ  项目\n(8).     国家自然科学基金项目: 无基底薄膜受压失稳动力学机制及深度皱曲状态下的波动特性研究 (No. 12372099, 2024-2027).\n(9).     国家自然科学基金项目: 粘弹性软材料表面粘附和脱粘附过程的率相关性研究(No. 11902226, 2020-2022).\nØ  专利\n(10).     机械式调控物体表-界面粘附强度的方法及试验装置, 201911139874.4, 发明专利, 2019-11, 中国.\n研究方向\n社会兼职\n暂无内容\n暂无内容\n教育经历\n工作经历\n2006.9-----2010.6\n西北工业大学\n|\n工程力学\n|\n本科生\n|\n工学学士学位\n2010.9-----2016.3\n西北工业大学\n|\n力学\n|\n研究生\n|\n工学博士学位\n2023.9-----至今\n土木建筑工程学院工程力学系\n|\n武汉大学\n2021.9-----2023.8\n土木建筑工程学院工程力学系\n|\n武汉大学\n2018.10-----2021.9\n土木建筑工程学院工程力学系\n|\n武汉大学\n2016.5-----2018.9\n西安交通大学\n团队成员\n暂无内容\n返回顶部\n+\n税朗泉\n同专业硕导>>\n同专业博导>>\n个人信息\n副教授\n博士生导师\n硕士生导师\n教师英文名称：Langquan Shui\n教师拼音名称：Shui Langquan\n出生日期：1987-08-11\n电子邮箱：\n入职时间：2018-10-01\n所在单位：土木建筑工程学院\n学历：博士研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n毕业院校：西北工业大学\n学科：固体力学流体力学工程力学声学\n其他联系方式\n邮编:\n通讯/办公地址:\n移动电话:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

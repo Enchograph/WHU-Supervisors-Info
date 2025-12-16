@@ -1,0 +1,165 @@
+{
+  "id": "daihang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/daihang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "戴行",
+    "english_name": "Dai Hang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机科学",
+        "school": "英国约克大学",
+        "period": "博士研究生毕业",
+        "country": "英国"
+      }
+    ],
+    "graduation_school": "英国约克大学",
+    "academic_honors": [
+      "ECCV 2020 自动驾驶指令交互国际竞赛包揽冠亚军",
+      "CVPR 2022 Waymo自动驾驶国际竞赛三维分割亚军",
+      "CVPR 2022 Waymo自动驾驶国际竞赛三维检测季军"
+    ],
+    "academic_services": [
+      "BMVC 2024-2025 Area Chair",
+      "BMVC 2024 Industrial/Keynote Chair",
+      "BMVC 2023 Paper Selection Chair",
+      "IJCB 2022 组织委员会Chair",
+      "CSIG青工委委员",
+      "CCF计算机视觉专委会执行委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "机器视觉",
+      "无人系统感知与决策",
+      "多模态感知"
+    ],
+    "research_interests": [
+      "自动驾驶",
+      "三维分割",
+      "三维检测",
+      "指令交互",
+      "感知与决策"
+    ],
+    "research_description": "从事机器视觉、无人系统感知与决策、多模态感知等领域的研究，研究成果已应用于自动驾驶等相关领域，多次在ECCV、CVPR等国际顶级会议中获得优异成绩，如ECCV 2020自动驾驶指令交互竞赛冠亚军，CVPR 2022 Waymo自动驾驶竞赛三维分割与检测奖项。",
+    "disciplines": [
+      "计算机科学",
+      "人工智能",
+      "模式识别"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "自动驾驶",
+      "无人系统",
+      "多模态感知",
+      "三维感知",
+      "机器学习",
+      "智能感知"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "自动驾驶指令交互国际竞赛冠亚军成果",
+        "keywords": [
+          "自动驾驶",
+          "指令交互",
+          "机器视觉",
+          "无人系统感知"
+        ],
+        "journal_name": "ECCV 2020",
+        "research_fields": [
+          "计算机视觉",
+          "无人系统感知与决策",
+          "多模态感知"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Waymo自动驾驶国际竞赛三维分割亚军成果",
+        "keywords": [
+          "三维分割",
+          "自动驾驶",
+          "计算机视觉",
+          "深度学习"
+        ],
+        "journal_name": "CVPR 2022",
+        "research_fields": [
+          "计算机视觉",
+          "自动驾驶",
+          "多模态感知"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Waymo自动驾驶国际竞赛三维检测季军成果",
+        "keywords": [
+          "三维检测",
+          "自动驾驶",
+          "目标识别",
+          "机器视觉"
+        ],
+        "journal_name": "CVPR 2022",
+        "research_fields": [
+          "计算机视觉",
+          "自动驾驶",
+          "无人系统感知"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=6yvjpQQAAAAJ&hl=en"
+      },
+      {
+        "platform": "个人英文主页",
+        "url": "https://dai-hang.github.io/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金优秀青年科学基金项目（海外）",
+      "国家自然科学基金面上项目",
+      "湖北省重大科技项目课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 戴行\n页面链接: http://jszy.whu.edu.cn/daihang/zh_CN/index.htm\n==================================================\n武汉大学 戴行--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n戴行，武汉大学计算机学院教授、博士生导师，国家级高层次青年人才、湖北省高层次人才，英国格拉斯哥大学计算机学院荣誉研究员，英国约克大学计算机科学博士。CSIG青工委委员、CCF计算机视觉专委会执行委员。从事机器视觉、无人系统感知与决策、多模态感知等领域的研究，发表IEEE汇刊和CCF-A类会议论文20余篇，成果落地应用于自动驾驶等相关领域。\n招生\n实验室常年招收学硕（计算机技术、软件工程、人工智能）、专硕、博士及本科实习生，非常欢迎本科生的积极参与。有意加入者请将简历、论文及 GitHub 主页发送至我的邮箱。优秀学生将有机会推荐至国内外知名高校或企业深造与实习。\n项目\n国家自然科学基金优秀青年科学基金项目（海外）\n国家自然科学基金面上项目\n湖北省重大科技项目课题\n获奖\nECCV 2020 自动驾驶指令交互国际竞赛包揽冠亚军\nCVPR 2022 Waymo自动驾驶国际竞赛三维分割亚军\nCVPR 2022 Waymo自动驾驶国际竞赛三维检测季军\n论文\n谷歌学术：https://scholar.google.com/citations?user=6yvjpQQAAAAJ&hl=en\n英文主页：https://dai-hang.github.io/\n研究方向\n社会兼职\n人工智能\n计算机视觉\n社会兼职内容：BMVC 2024-2025 Area ChairBMVC 2024 Industrial/Keynote ChairBMVC 2023 Paper Selection ChairIJCB   2022 组织委员会Chair\n教育经历\n工作经历\n英国约克大学\n|\n计算机科学\n|\n博士研究生毕业\n|\n博士学位\n计算机学院\n|\n武汉大学\n计算机学院\n|\n格拉斯哥大学\n团队成员\n暂无内容\n返回顶部\n+\n戴行\n个人信息\n教授\n博士生导师\n硕士生导师\n教师拼音名称：Dai Hang\n电子邮箱：\n所在单位：计算机学院\n学历：博士研究生毕业\n办公地点：雷军科技楼B513\n职称：教授\n在职信息：在职\n毕业院校：英国约克大学\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

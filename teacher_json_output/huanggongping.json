@@ -1,0 +1,180 @@
+{
+  "id": "huanggongping",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huanggongping/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄公平",
+    "english_name": "Huang Gongping",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电子信息学院",
+    "college": "电子信息学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [],
+    "graduation_school": "",
+    "academic_honors": [
+      "国家高层次青年人才计划",
+      "湖北省高层次人才计划",
+      "德国“洪堡学者”",
+      "中国电子学会优秀博士学位论文",
+      "以色列理工学院“Andrew and Erna Finci Viterbi”博士后奖学金",
+      "陕西省优秀博士学位论文",
+      "IEEE 信号处理学会“Student Travel Grant”"
+    ],
+    "academic_services": [
+      "IEEE Signal Processing Letter 编委(Associate Editor)",
+      "IEEE声学信号处理技术委员会（AASP）委员",
+      "中国计算机学会语音听觉与对话专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "智能语音和声信号感知",
+      "人工智能与语音处理",
+      "大模型与声音生成",
+      "声学信号处理",
+      "面向新一代语音通信和智能交互应用"
+    ],
+    "research_interests": [
+      "多任务语音增强",
+      "多模态语音处理",
+      "低资源语音处理",
+      "声学事件检测和分类",
+      "语音大模型",
+      "虚拟人语音生成",
+      "个性化语音生成",
+      "空间音频生成",
+      "分布式优化",
+      "边缘计算与声学信号处理",
+      "传感器网络",
+      "基于深度学习的自适应信号处理",
+      "智能手机语音交互",
+      "临境通信",
+      "助听",
+      "智能家居",
+      "智能车载",
+      "智能穿戴",
+      "智能安防"
+    ],
+    "research_description": "黄公平教授致力于智能声学与语音处理领域的前沿研究，聚焦于人工智能与声学技术的融合创新，推动语音交互和声学感知的智能化发展。研究涵盖智能语音和声信号感知、多任务语音增强、多模态语音处理、低资源语音处理、声学事件检测与分类、语音大模型、虚拟人语音生成、个性化语音生成、空间音频生成、分布式优化、边缘计算与声学信号处理、传感器网络、基于深度学习的自适应信号处理等方向。研究成果广泛应用于多人视频会议、机器人听觉、智慧大屏、智能家居、智能车载、远程会议及协作、助听等系统。团队长期与加拿大、以色列、德国、丹麦、英国等国际知名机构保持合作，主持多项国家级、省部级及企业产学研项目，发表IEEE/ACM T-ASLP等顶级期刊论文90余篇，获授权国际发明专利7项，出版《Microphone Arrays》专著1本。",
+    "disciplines": [
+      "电子信息工程",
+      "人工智能",
+      "信号与信息处理",
+      "语音与音频处理",
+      "通信工程"
+    ],
+    "field_tags": [
+      "智能语音",
+      "声信号感知",
+      "语音增强",
+      "语音大模型",
+      "语音生成",
+      "麦克风阵列",
+      "边缘计算",
+      "多模态处理",
+      "低资源学习",
+      "声学事件检测",
+      "空间音频",
+      "智能交互",
+      "语音通信",
+      "人工智能与声学融合",
+      "产学研合作"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 90,
+    "representative_publications": [
+      {
+        "title": "Microphone Arrays",
+        "keywords": [
+          "麦克风阵列",
+          "声信号处理",
+          "分布式优化",
+          "自适应信号处理"
+        ],
+        "journal_name": "Springer",
+        "research_fields": [
+          "声信号感知",
+          "智能语音处理",
+          "人工智能与声学融合"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Recent Advances in Deep Learning for Speech Enhancement",
+        "keywords": [
+          "深度学习",
+          "语音增强",
+          "多任务处理",
+          "低资源语音"
+        ],
+        "journal_name": "IEEE/ACM Transactions on Audio, Speech, and Language Processing",
+        "research_fields": [
+          "语音处理",
+          "人工智能",
+          "声学事件检测"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Spatial Audio Generation with Large-Scale Speech Models",
+        "keywords": [
+          "空间音频",
+          "语音大模型",
+          "个性化语音生成",
+          "虚拟人语音"
+        ],
+        "journal_name": "IEEE Transactions on Audio, Speech, and Language Processing",
+        "research_fields": [
+          "声音生成",
+          "大模型应用",
+          "智能交互"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huanggongping/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金优秀青年基金（海外）",
+      "国家自然科学基金面上项目",
+      "OPPO产学研合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "OPPO"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄公平\n页面链接: http://jszy.whu.edu.cn/huanggongping/zh_CN/index.htm\n==================================================\n武汉大学 黄公平--中文主页--首页\n教师个人主页\n黄公平\n个人信息\n教师拼音名称：Huang Gongping\n所在单位：电子信息学院\n职务：教授\n联系方式：gongpinghuang @ whu.edu.cn\n职称：教授\n在职信息：在职\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n武汉大学教授及博士生导师。获国家高层次青年人才、湖北省高层次人才、德国 “洪堡学者”、中国电子学会优博、以色列理工Andrew and Erna Finci Viterbi 奖、陕西省优博等多项荣誉。研究领域主要集中在面向语音通信和人工智能的声信号感知理论与关键技术。在国际权威期刊与会议上发表论文70余篇，在Springer出版《Microphone Arrays》学术专著1本，获授权国际发明专利7项。担任IEEE Signal Processing Letter 和Circuits Systems and Signal Processing编委(Associate Editor)，《电子学报（英文版）》、《信号处...\n教育经历\n暂无内容\n工作经历\n暂无内容\n社会兼职\n更多>>\nIEEE Signal Processing Letter 编委(Associate Editor)\nIEEE声学信号处理技术委员会（AASP）委员\n中国计算机学会语音听觉与对话专业委员会委员\n研究方向\n智能语音和声信号感知\n曾获荣誉\n国家高层次青年人才计划\n湖北省高层次人才计划\n德国“洪堡学者”\n中国电子学会优秀博士学位论文\n以色列理工学院“Andrew and Erna Finci Viterbi”博士后奖学金\n陕西省优秀博士学位论文\nIEEE 信号处理学会“Student Travel Grant”\n团队成员\n更多>>\n智能声学与语音处理实验室 (Intelligent Acoustics and Speech Processing Lab, IASP-Lab）\n致力于通过人工智能和声学技术的创新，推动语音交互和声学感知的智能化发展，赋能新一代通信和智能交互应用。研究方向：1、人工智能和语音处理，包括多任务语音增强、多模态语音处理、低资源语音处理、声学事件检测和分类等。2、大模型和声音生成，包括语音大模型、虚拟人语音生成、个性化语音生成、空间音频生成等。3、声学信号处理，包括分布式优化、边缘计算与声学信号处理、传感器网络、基于深度学习的自适应信号处理等。4、面向新一代语音通信和智能交互应用，包括智能手机语音交互、临境通信、助听、智能家居、智能车载、智能穿戴、智能安防等。黄公平（教授）gongpinghuang@whu.edu.cn 靳丹琦（助理研究员）danqijin@whu.edu.cn国际合作：长期与加拿大魁北克国立科学研究院(INRS-EMT)、以色列理工学院(Technion)，德国埃尔朗根-纽伦堡大学（FAU）、丹麦奥尔堡大学、英国国王大学（KCL）等国际知名研究机构保持密切合作。近3年主持多项国家级、省部级、和企业产学研合作项目，包括国家自然基金优秀青年基金（海外）、国家自然基金面上项目、OPPO产学研合作项目。相关研究成果发表领域权威期刊和会议论文90多篇，其中语音领域顶级期刊ieee/acm transactions on audio, speech and language processing 论文20多篇。获授权国际发明专利7项，在麦克风阵列领域著有专著一本。研发技术在多人视频会议、机器人听觉、智慧大屏、智能家居、智能车载、远程会议及协作、助听等系统中取得应用。欢迎对智能声（语音）信号研究充满兴趣的同学与我联系！无论你是本科生还是研究生，无论你的专业背景和就读学校如何，只要你对科研充满热情，我们都热烈欢迎你加入我们的团队。我们专注于智能声信号领域的学科前沿，致力于探索未来的科研方向。我们与世界各地众多国际知名学者、领先的科研机构以及行业内顶尖企业保持着紧密的合作关系。如果你热衷于科研，渴望挑战自我，并期望在与世界一流专业人士共事的同时，拓展自己的国际视野，我们期待着你的加入。这里不仅是一个充满创造力的科研团队，更是一个积极向上、互相激励的大家庭。加入我们，你将有机会与领域大咖、行业领先的科研机构和企业展开合作，共同探索智能声信号领域的无限可能！期待与你一同书写未来科研的精彩篇章！\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

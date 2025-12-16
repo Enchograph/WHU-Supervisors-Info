@@ -1,0 +1,183 @@
+{
+  "id": "guowenfei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/guowenfei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "郭文飞",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）",
+    "college": "卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "通信与信息系统",
+        "school": "武汉大学",
+        "period": "2008.9 -- 2011.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "通信与信息系统",
+        "school": "中船重工第七二二研究所",
+        "period": "2005.9 -- 2008.5",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "通信与信息系统",
+        "school": "武汉理工大学",
+        "period": "2000.9 -- 2004.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家级教学成果二等奖（排4）",
+      "湖北省教学成果一等奖（排4）",
+      "中国卫星导航定位教学成果特等奖（排第8）",
+      "武汉大学教学成果特等奖（排3）",
+      "中国卫星导航科技进步特等奖（排第2）",
+      "教育部科技进步二等奖（排9）"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "北斗高精度授时",
+      "GNSS接收机设计",
+      "低轨卫星导航",
+      "高精度时间同步技术"
+    ],
+    "research_interests": [
+      "GNSS基带信号处理",
+      "时频精密调控",
+      "硬件延迟标校",
+      "实时PPP技术",
+      "亚纳秒级授时",
+      "5G基站授时",
+      "工业互联网时间同步",
+      "室内定位时频同步"
+    ],
+    "research_description": "郭文飞教授主要研究北斗高精度授时、GNSS接收机、低轨卫星导航及相关通信与信号处理技术。聚焦5G基站、工业互联网等下一代核心网络的高精度时间同步需求，攻关GNSS授时接收机基带信号处理、时频精密调控、硬件延迟标校等关键技术，研发出亚纳秒级授时终端、高精度授时服务器及低成本模块等产品体系。通过结合实时PPP技术与本地时钟调控，实现秒脉冲（PPS）输出精度优于1ns，已在国家授时中心、北斗总站等权威单位通过测试验证。",
+    "disciplines": [
+      "通信与信息系统",
+      "导航、制导与控制",
+      "电路与系统"
+    ],
+    "field_tags": [
+      "北斗导航",
+      "高精度授时",
+      "GNSS接收机",
+      "5G时间同步",
+      "工业互联网",
+      "实时PPP",
+      "时频同步",
+      "低轨卫星",
+      "信号处理",
+      "硬件延迟校准"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "高精度授时技术研究与应用",
+        "keywords": [
+          "北斗高精度授时",
+          "GNSS接收机",
+          "时频精密调控",
+          "亚纳秒级授时"
+        ],
+        "journal_name": "REMOTE SENS ENVIRON",
+        "research_fields": [
+          "通信与信息系统",
+          "导航、制导与控制",
+          "信号处理"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于实时PPP的GNSS授时接收机基带信号处理",
+        "keywords": [
+          "实时PPP",
+          "授时精度",
+          "基带信号处理",
+          "硬件延迟标校"
+        ],
+        "journal_name": "J GEODESY",
+        "research_fields": [
+          "导航、制导与控制",
+          "卫星导航定位",
+          "时间同步"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "低轨卫星导航信号处理与授时性能分析",
+        "keywords": [
+          "低轨卫星导航",
+          "GNSS信号处理",
+          "授时精度",
+          "5G基站同步"
+        ],
+        "journal_name": "IEEE T GEOSCI REMOTE",
+        "research_fields": [
+          "通信与信息系统",
+          "卫星导航",
+          "信号处理"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/guowenfei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "中国第二代卫星导航重大专项",
+      "博士后特别资助与面上基金",
+      "湖北省自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "中国第二代卫星导航系统重大专项办公室",
+      "中国博士后科学基金会",
+      "湖北省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 郭文飞\n页面链接: http://jszy.whu.edu.cn/guowenfei/zh_CN/index.htm\n==================================================\n武汉大学 郭文飞--中文主页--首页\n郭文飞\n教授\n博士生导师\n硕士生导师\n性别：男\n毕业院校：武汉大学\n学历：研究生毕业\n在职信息：在职\n所在单位：卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）\n入职时间： 2015-06-01\n学科：\n通信与信息系统\n导航、制导与控制\n电路与系统\n办公地点：武汉大学信息学部，星湖综合实验大楼1716\n联系方式：027-68777178\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n郭文飞，1982年生，河南扶沟人，教授，博士生导师。主要研究方向为北斗高精度授时、GNSS接收机、低轨卫星导航，以及相关的通信与信号处理等。主持或参与国家自然科学基金、国家重点研发计划、中国第二代卫星导航重大专项、博士后特别资助与面上基金、湖北省自然科学基金等项目20余项，在REMOTE SENS ENVIRON, J GEODESY, IEEE T GEOSCI REMOTE, GPS SOLUT, AEROSP SCI TECHNOL等高水平期刊以第一/通讯作者身份发表SCI论文30余篇，授权国家发明专利20余项，获得国家级教学成果二等奖（排4），湖北省教学成果一等奖（排4），中国卫星导航定位教学成果特等奖（排第8），武汉大学教学成果特等奖（排3），中国卫星导航科技进步特等奖（排第2），教育部科技进步二等奖（排9）。\n其他联系方式\n邮编 : \n通讯/办公地址 : \n办公室电话 : \n邮箱 : \n教育经历\n2008.9 -- 2011.12\n武汉大学\n通信与信息系统\n研究生(博士)毕业\n工学博士学位\n2005.9 -- 2008.5\n中船重工第七二二研究所\n通信与信息系统\n研究生(硕士)毕业\n工学硕士学位\n2000.9 -- 2004.6\n武汉理工大学\n通信与信息系统\n本科(学士)\n工学学士学位\n工作经历\n2022.12 -- 2023.8\n武汉大学、国家卫星定位系统工程技术研究中心\n教授\n2018.12 -- 2022.11\n武汉大学、国家卫星定位系统工程技术研究中心\n副教授\n2017.11 -- 2018.11\nThe University of New South Wales\nVisiting Fellow\n2015.5 -- 2017.11\n武汉大学、国家卫星定位系统工程技术研究中心\n讲师\n2012.4 -- 2015.5\n武汉大学、国家卫星定位系统工程技术研究中心\n讲师/师资博士后\n研究方向\n高精度授时技术：面向5G基站、工业互联网等下一代核心网络高精度时间同步的重大需求，通过攻关GNSS授时接收机基带信号处理、时频精密调控、硬件延迟标校等技术难题，形成高精度授时终端、服务器、低成本高精度模块等时频产品体系，为5G、工业互联网、室内定位技术的时频同步提供技术支撑。亚纳秒级授时终端利用中心的实时PPP技术对接收机钟差进行精密估算，并通过算法对本地时钟进行精密调控，将GPS/BDS的时间长稳特性与接收机晶振的短稳特性有机结合起来，最终有效提高授时精度。在国家授时中心、北斗总站等权威单位的测试结果表明，终端的秒脉冲（PPS）输出精度优于1ns。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

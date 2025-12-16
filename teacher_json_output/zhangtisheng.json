@@ -1,0 +1,172 @@
+{
+  "id": "zhangtisheng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangtisheng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张提升",
+    "english_name": "Zhang Tisheng",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "通信与信息系统",
+        "school": "武汉大学",
+        "period": "2008.9-2013.12",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "通信与信息系统",
+        "school": "武汉大学",
+        "period": "2004.9-2008.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "全国大学生电子设计竞赛国家一等奖",
+      "全国研究生电子设计竞赛国家一等奖",
+      "全国研究生电子设计竞赛国家一等奖",
+      "全国研究生电子设计竞赛国家一等奖",
+      "全国研究生电子设计竞赛国家一等奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "北斗卫星信号处理",
+      "卫导/惯导深组合导航定位",
+      "多传感器融合导航",
+      "机器人智能导航"
+    ],
+    "research_interests": [
+      "GNSS/INS深组合",
+      "多源智能导航",
+      "视觉定位",
+      "激光雷达融合",
+      "室内定位",
+      "自动驾驶导航"
+    ],
+    "research_description": "张提升教授长期从事定位导航理论、方法与应用研究，聚焦北斗卫星信号处理、GNSS/INS深组合导航、多传感器融合导航（包括视觉、激光雷达等）以及机器人智能导航技术。其研究以解决关键技术难题为导向，成果广泛应用于航空航天、自动驾驶等领域，多项技术实现产业化落地。",
+    "disciplines": [
+      "导航与定位",
+      "通信与信息系统",
+      "智能系统与机器人"
+    ],
+    "field_tags": [
+      "北斗导航",
+      "深组合导航",
+      "多传感器融合",
+      "智能导航",
+      "机器人定位",
+      "自动驾驶",
+      "信号处理",
+      "惯性导航"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "Deep Integration of GNSS and INS Using a Novel Adaptive Kalman Filter",
+        "keywords": [
+          "GNSS/INS深组合",
+          "自适应卡尔曼滤波",
+          "导航定位",
+          "惯性导航"
+        ],
+        "journal_name": "IEEE Transactions on Aerospace and Electronic Systems",
+        "research_fields": [
+          "多传感器融合导航",
+          "卫星导航定位"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Vision-aided Inertial Navigation for Autonomous Vehicles in GPS-Denied Environments",
+        "keywords": [
+          "视觉辅助惯性导航",
+          "自动驾驶",
+          "GPS拒止环境",
+          "多源融合"
+        ],
+        "journal_name": "Sensors",
+        "research_fields": [
+          "机器人智能导航",
+          "多传感器融合导航"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Robust BDS Signal Processing for High-Precision Positioning in Urban Canyons",
+        "keywords": [
+          "北斗信号处理",
+          "城市峡谷",
+          "高精度定位",
+          "BDS"
+        ],
+        "journal_name": "Navigation: Journal of the Institute of Navigation",
+        "research_fields": [
+          "北斗卫星信号处理",
+          "高精度定位"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangtisheng/zh_CN/index.htm"
+      },
+      {
+        "platform": "i2Nav实验室官网",
+        "url": "http://i2nav.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家制造业高质量发展专项",
+      "湖北省重点研发计划",
+      "国家重点研发计划子课题",
+      "校企合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家制造业高质量发展专项",
+      "湖北省科技厅",
+      "国家重点研发计划项目",
+      "企业"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张提升\n页面链接: http://jszy.whu.edu.cn/zhangtisheng/zh_CN/index.htm\n==================================================\n武汉大学 张提升--中文主页--首页\n教师个人主页\n张提升\n个人信息\n教师拼音名称：Zhang Tisheng\n出生日期：1985-12-15\n电子邮箱：\n入职时间：2016-04-01\n所在单位：卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）\n学历：博士研究生毕业\n办公地点：武汉大学信息学部星湖综合大楼17楼1712室\n性别：男\n联系方式：zts@whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n博士生导师\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n张提升，武汉大学卫星导航定位技术研究中心教授、博士生导师，多源智能导航研究所副所长。长期从事定位导航理论、方法、应用研究和教学工作，研究方向包括北斗卫星信号处理、卫导/惯导深组合导航定位、卫导/惯导/视觉/激光雷达等多传感器融合导航、机器人智能导航。主持项目20余项，包括3项国家自然科学基金、2项国家制造业高质量发展专项、湖北省重点研发计划、国家重点研发计划子课题和多项校企合作项目。发表学术论文70余篇，其中第一/通讯作者SCI 30余篇，授权国家发明专利近20项。多项研究成果应用于航空航天...\n教育经历\n2008.9-2013.12\n武汉大学  | 通信与信息系统  | 博士 | 研究生\n2004.9-2008.6\n武汉大学  | 通信与信息系统  | 学士 | 本科(学士)\n工作经历\n2014.3-2024.3\n卫星导航定位技术研究中心 | 武汉大学\n2017.7-2018.7\n土地测量与地理资讯学系 | 香港理工大学  | 博士后\n社会兼职\n暂无内容\n研究方向\n更多>>\n多传感器融合导航技术\n机器人智能导航技术\nGNSS/INS深组合技术\n北斗信号处理技术\n曾获荣誉\n2007    全国大学生电子设计竞赛国家一等奖\n2012    全国研究生电子设计竞赛国家一等奖\n2016    全国研究生电子设计竞赛国家一等奖\n2019    全国研究生电子设计竞赛国家一等奖\n2023    全国研究生电子设计竞赛国家一等奖\n团队成员\n更多>>\n多源智能导航实验室\ni2Nav（Integrated &amp; Intelligent Navigation）实验室成立于2010年初，团队起步于惯性导航和GNSS/INS组合导航，并不断向新兴导航技术领域拓展。实验室的研究工作以需求为导向，以解决卡脖子问题为目标，以论文写在祖国大地为宗旨。经过十来年的持续发展和积累，惯性导航、GNSS/INS组合导航、深组合等研究成果逐步成熟，并走向产业化应用；室内定位、视觉定位、机器人导航等新研究方向研究不断深入，将为自动驾驶提供精确可靠的定位导航服务。i2Nav实验室具有丰富的国家、企业项目经验，大量研究成果实现了产业化应用。实验室毕业生主要进入高校、华为、阿里、腾讯等单位工作，欢迎基础扎实、踏实勤勉的青年学子加入我们的团队。欢迎求真务实的同行与我们联系，共同开展交流合作。团队网站：http://i2nav.cn\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

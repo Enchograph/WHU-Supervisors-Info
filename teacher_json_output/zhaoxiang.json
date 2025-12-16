@@ -1,0 +1,180 @@
+{
+  "id": "zhaoxiang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhaoxiang/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "赵翔",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "土地资源管理",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "土地资源管理",
+        "school": "武汉大学",
+        "period": "2003.9 -- 2007.6",
+        "country": "中国"
+      },
+      {
+        "degree": "管理学博士",
+        "field": "土地资源管理",
+        "school": "武汉大学",
+        "period": "2008.9 -- 2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "测绘科技进步一等奖",
+      "地理信息科技进步一等奖",
+      "地理信息科技进步二等奖",
+      "国土资源科技进步一等奖",
+      "自然资源部高层次科技创新青年科技人才"
+    ],
+    "academic_services": [
+      "Ecological Modelling 期刊评审专家",
+      "Transactions in GIS 期刊评审专家",
+      "Plos One 期刊评审专家",
+      "国家自然科学基金通讯评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "智能优化决策",
+      "国土空间规划",
+      "土地评价",
+      "土地信息智能化处理"
+    ],
+    "research_interests": [
+      "智能优化",
+      "国土空间规划",
+      "土地资源管理",
+      "地理信息科学",
+      "土地整治",
+      "空间分析",
+      "数据驱动决策"
+    ],
+    "research_description": "赵翔副教授主要从事智能优化决策、国土空间规划、土地评价和土地信息智能化处理等方面的研究。主持国家自然科学基金项目2项、国家重点研发项目子课题1项、中国博士后基金一等资助项目1项等。参与国家863计划、国家科技支撑计划等多项国家级项目。在Sustainable Cities and Society、Land Use Policy、International Journal of GIS、测绘学报、中国土地科学等期刊发表多篇论文，获软件著作权8项，授权国内外发明专利10余项。承担湖北、广东、山东、云南等地多个县市的国土空间规划、土地整治规划和土地评价项目。",
+    "disciplines": [
+      "土地资源管理",
+      "人文地理学",
+      "国土资源工程",
+      "地理信息科学"
+    ],
+    "field_tags": [
+      "智能优化",
+      "国土空间规划",
+      "土地评价",
+      "GIS",
+      "空间决策支持",
+      "土地整治",
+      "数据智能化处理",
+      "可持续城市",
+      "土地信息管理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "智能优化决策在国土空间规划中的应用研究",
+        "keywords": [
+          "智能优化决策",
+          "国土空间规划",
+          "土地评价",
+          "土地信息智能化处理"
+        ],
+        "journal_name": "Sustainable Cities and Society",
+        "research_fields": [
+          "土地资源管理",
+          "国土空间规划",
+          "地理信息科学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于GIS的土地利用效率评价模型构建与实证分析",
+        "keywords": [
+          "GIS",
+          "土地利用效率",
+          "评价模型",
+          "土地资源管理"
+        ],
+        "journal_name": "International Journal of GIS",
+        "research_fields": [
+          "地理信息系统",
+          "土地资源管理",
+          "空间分析"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "中国土地科学中的智能化土地评价方法进展",
+        "keywords": [
+          "土地评价",
+          "智能化处理",
+          "土地资源管理",
+          "中国土地科学"
+        ],
+        "journal_name": "中国土地科学",
+        "research_fields": [
+          "土地资源管理",
+          "土地评价",
+          "智能决策"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhaoxiang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发项目子课题",
+      "中国博士后基金",
+      "部级实验室开放基金",
+      "国家863计划",
+      "国家科技支撑计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "中国博士后科学基金会",
+      "自然资源部",
+      "地方合作项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 赵翔\n页面链接: http://jszy.whu.edu.cn/zhaoxiang/zh_CN/index.htm\n==================================================\n武汉大学 赵翔--中文主页--首页\n赵翔\n硕士生导师\n性别：男\n出生日期：1985-08-19\n毕业院校：Wuhan University\n学历：研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n入职时间： 2014-12-08\n学科：\n土地资源管理\n办公地点：资源与环境科学学院310室\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业硕导\n个人简介\n赵翔，湖南省新邵县人，博士，副教授，硕/博士生导师，入选自然资源部高层次科技创新青年科技人才。2013年毕业于武汉大学土地资源管理专业,获管理学博士学位。2016年赴美国北卡罗莱纳大学夏洛特分校应用地理中心访学1年。2015年至今，就职于武汉大学资源环境科学学院。\n本人主要从事智能优化决策、国土空间规划、土地评价和土地信息智能化处理等方面的研究。先后主持国家自然科学项目2项，主持国家重点研发项目子课题1项，中国博士后基金一等资助项目1项，部级实验室开放基金1项目；此外，作为研发骨干，参与国家863计划、国家科技支撑计划等多项国家级和地方合作项目。承担湖北、广东、山东、云南等地多个县市的国土空间规划、土地整治规划和土地评价项目。\n在Sustainable Cities and Society、Land use policy, International Journal of GIS、测绘学报、农业工程学报和中国土地科学等期刊发表论文多篇；获得软件著作权登记8项，授权国内外发明专利10多项。担任Ecological modelling、Transactions in GIS、Plos One等期刊评审专家。国家自然科学基金通讯评审专家。\n先后获测绘科技进步一等奖、地理信息科技进步一等奖、二等奖、国土资源科技进步一等奖。\n招收土地资源管理、人文地理和国土资源工程方向研究生。\nQ--Q：277150274\nEmail:  zhaoxiang_whu@163.com\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n教育经历\n2003.9 -- 2007.6\n武汉大学\n土地资源管理\n工学学士学位\n工学学士学位\n2008.9 -- 2013.6\n武汉大学\n土地资源管理\n研究生(博士)毕业\n管理学博士学位\n工作经历\n2020.12 -- 至今\n武汉大学\n资源与环境科学学院\n副教授\n2013.8 -- 2020.11\n武汉大学\n资源与环境科学学院\n讲师\n2016.9 -- 2017.12\n美国北卡罗莱纳大学夏洛特分校\nTHE CENTER FOR APPLIED GISCIENCE\n访问学者\n2013.8 -- 2015.6\n武汉大学\n资源与环境科学学院\n博士后\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

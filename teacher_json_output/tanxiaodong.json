@@ -1,0 +1,159 @@
+{
+  "id": "tanxiaodong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/tanxiaodong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "谭晓东",
+    "english_name": "Tan Xiaodong",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "公共卫生学院",
+    "college": "公共卫生学院",
+    "employment_status": "离退休"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "研究生毕业",
+        "field": "公共卫生学",
+        "school": "同济医科大学",
+        "period": "1985年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "同济医科大学",
+    "academic_honors": [
+      "省部级科技奖两项",
+      "省级教学成果奖两项",
+      "国家专利两项"
+    ],
+    "academic_services": [
+      "《International Journal of Occupational Medicine and Environmental Health》编委",
+      "《Preventive Medicine》编委",
+      "国际职业卫生学会理事",
+      "国家保健食品审评专家",
+      "国家化妆品安全性审评专家",
+      "国家突发公共卫生事件应急专家咨询委员会委员",
+      "湖北省职业病鉴定委员会委员",
+      "湖北省政府咨询委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "卫生应急与突发公共卫生事件预防与控制",
+      "公共卫生项目与政策评估",
+      "特殊人群的预防保健"
+    ],
+    "research_interests": [
+      "突发公共卫生事件",
+      "卫生应急",
+      "职业健康",
+      "传染病防控",
+      "公共卫生政策",
+      "社会防控"
+    ],
+    "research_description": "谭晓东教授长期从事公共卫生学的教学与科研工作，早期研究聚焦于职业性接触二硫化碳对健康的损伤效应，其成果被美国职业卫生协会采纳为修订暴露剂量的依据。近年来主要致力于卫生应急与突发公共卫生事件的预防与控制、公共卫生项目与政策评估、特殊人群的预防保健等方向。在血吸虫病、艾滋病的社会预防与控制以及新冠肺炎疫情的社会防控等方面开展了广泛深入的研究，提出了‘新公共卫生’理念，并在疫情研判与社会宣传中发挥重要作用，具有显著的政策影响力与社会贡献。",
+    "disciplines": [
+      "公共卫生学",
+      "劳动卫生与环境卫生学",
+      "流行病学",
+      "应急管理"
+    ],
+    "field_tags": [
+      "突发公共卫生事件",
+      "卫生应急",
+      "疫情防控",
+      "职业健康",
+      "公共卫生政策",
+      "社会防控",
+      "新公共卫生",
+      "传染病预防"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 400,
+    "representative_publications": [
+      {
+        "title": "突发公共卫生事件预防与控制",
+        "keywords": [
+          "突发公共卫生事件",
+          "卫生应急",
+          "公共卫生政策",
+          "疫情防控"
+        ],
+        "journal_name": "专著",
+        "research_fields": [
+          "公共卫生学",
+          "卫生应急",
+          "突发公共卫生事件防控"
+        ],
+        "publication_year": 2003
+      },
+      {
+        "title": "新公共卫生",
+        "keywords": [
+          "新公共卫生",
+          "公共卫生学",
+          "健康促进",
+          "社会防控"
+        ],
+        "journal_name": "专著",
+        "research_fields": [
+          "公共卫生学",
+          "健康政策",
+          "社会医学"
+        ],
+        "publication_year": 2003
+      },
+      {
+        "title": "二硫化碳对接触人群的健康效应研究",
+        "keywords": [
+          "二硫化碳",
+          "职业健康",
+          "视觉系统损伤",
+          "职业卫生"
+        ],
+        "journal_name": "中华劳动卫生职业病杂志",
+        "research_fields": [
+          "劳动卫生与环境卫生学",
+          "职业病预防",
+          "环境健康"
+        ],
+        "publication_year": 2000
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/tanxiaodong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 谭晓东\n页面链接: http://jszy.whu.edu.cn/tanxiaodong/zh_CN/index.htm\n==================================================\n武汉大学 谭晓东--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n谭晓东\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Tan Xiaodong\n出生日期：1963-06-01\n入职时间：1985-09-01\n所在单位：公共卫生学院\n学历：研究生毕业\n性别：男\n职称：教授\n在职信息：离退休\n所属院系：公共卫生学院\n学科：\n劳动卫生与环境卫生学\n联系方式Contact information\n移动电话: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n著作成果\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n个人简介 Personal profile\n谭晓东，男，1985年毕业于同济医科大学，武汉大学公共卫生学院创始院长， 公共卫生学教授， 博导。 兼职于国际职业卫生学会理事、湖北省政府咨询委员会委员、国家保健食品审评专家、国家化妆品安全性审评专家、国家突发公共卫生事件应急专家咨询委员会委员、湖北省职业病鉴定委员会委员等多个社会职务。一直从事公共卫生学的教学与科研工作，先后共发表科研论文400 余篇， SCI收录80 余篇， 第一主编学术专著16部， 获得过省部级科技奖两项、省级教学成果奖两项，国家专利两项，同时也是《International Journal of Occupational Medicine and Environmental Health》、《Preventive Medicine》等多篇SCI和中文期刊杂志编委。作为著名的公共卫生学家，提出了许多的公共卫生新观点。 2003年主编了我国的第一步卫生应急专著《突发公共卫生事件预防与控制》， 率先提出了“新公共卫生“ 的观点，为新公共卫生学奠定了基础。从2020年起，一直从事新冠肺炎疫情的社会防控工作，2020年元月率先提出了“戴口罩、打持久战”、2020年4月提出了“警惕印度变异病毒”等观点，在疫情分析研判上的许多超前观点得到了事实论证。利用各种媒介进行防疫的社会宣传，最多一次的线上授课，听众人数达到60多万，获点赞30余万， 在2021年武汉抗疫中担任政府新闻发言人时的＂一切尽在掌控中＂的观点，在网上点击量超过了两千万次。也多次在中央电视台等不同媒体上、政府和企事业机构举办了大型科普讲座。\n研究方向 Personal profile\n早期主要从事职业性接触二硫化碳对个人健康效应的研究，二硫化碳对接触人群存在明显的损伤效应，可损伤视觉系统，该成果列为美国职业卫生协会修订二硫化碳暴露剂量的主要依据。 近几年来，主要的研究方向是： 1、卫生应急与突发公共卫生事件预防与控制； 2、公共卫生项目与政策评估； 3、特殊人群的预防保健。 在血吸虫病的防控，艾滋病的社会预防与控制、突发公共卫生事件的防控等方面也进行了广泛和深入的研究。\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

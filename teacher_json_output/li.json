@@ -1,0 +1,201 @@
+{
+  "id": "li",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/li/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李立",
+    "english_name": "Li Li",
+    "title": [
+      "副教授",
+      "Professor"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "电子信息学院",
+    "college": "电子信息学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "计算机应用技术",
+        "school": "武汉大学",
+        "period": "1997.9-2001.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士",
+        "field": "电力电子技术",
+        "school": "武汉水利电力大学",
+        "period": "1994.9-1997.3",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省教科文卫体系统第五届职工创业创新比赛“十佳创业奖”-CT 椎骨AI 综合分析系统",
+      "中国水利教育协会2020年高等学校专业教学成果二等奖",
+      "武汉大学优秀班集体标兵-电信15卓工班班主任",
+      "全国电工电子基础课程实验教学案例设计竞赛一等奖（工程奖杯）",
+      "武汉大学“烛光导航工程”优秀导航师",
+      "苏州市科技镇长团优秀团员",
+      "湖北省第二届青年教师教学竞赛优秀奖",
+      "武汉大学首届青年教师教学竞赛一等奖",
+      "武汉水利电力大学青年教师教学竞赛二等奖"
+    ],
+    "academic_services": [
+      "湖北省影响群众健康突出问题攻坚行动专家",
+      "中国卫星导航定位协会北斗共享经济专家委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "人工智能与医学影像",
+      "水生态环境质量预测",
+      "先进探测与智能感知",
+      "大数据分析建模"
+    ],
+    "research_interests": [
+      "人工智能",
+      "图像处理",
+      "大数据分析",
+      "智能传感设备",
+      "计算智能",
+      "医学影像分析",
+      "环境质量预测",
+      "智能感知"
+    ],
+    "research_description": "主要从事人工智能与图像处理、大数据分析建模、智能传感设备、计算智能等领域的教学与研究工作，聚焦人工智能在医学影像中的应用、水生态环境质量预测以及先进探测与智能感知技术的研究。主持和参与多项国家自然科学基金、国家重点研发计划等项目，在NANO ENERGY、IEEE GRSL、IEEE J-STARS等国际期刊发表论文50余篇。",
+    "disciplines": [
+      "计算机科学与技术",
+      "电子信息工程",
+      "环境科学与工程",
+      "人工智能"
+    ],
+    "field_tags": [
+      "人工智能",
+      "医学影像",
+      "大数据分析",
+      "智能感知",
+      "水环境预测",
+      "图像处理",
+      "计算智能",
+      "传感技术"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "NANO ENERGY",
+        "keywords": [
+          "人工智能",
+          "图像处理",
+          "智能传感设备",
+          "计算智能"
+        ],
+        "journal_name": "NANO ENERGY",
+        "research_fields": [
+          "人工智能与医学影像",
+          "先进探测与智能感知",
+          "大数据分析建模"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "IEEE GRSL",
+        "keywords": [
+          "遥感图像处理",
+          "智能分析",
+          "水生态环境质量预测"
+        ],
+        "journal_name": "IEEE GRSL",
+        "research_fields": [
+          "人工智能与医学影像",
+          "水生态环境质量预测",
+          "先进探测与智能感知"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "IEEE J-STARS",
+        "keywords": [
+          "遥感数据建模",
+          "大数据分析",
+          "智能感知"
+        ],
+        "journal_name": "IEEE J-STARS",
+        "research_fields": [
+          "大数据分析建模",
+          "先进探测与智能感知",
+          "人工智能与医学影像"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "WATER",
+        "keywords": [
+          "水生态环境",
+          "质量预测",
+          "数据分析"
+        ],
+        "journal_name": "WATER",
+        "research_fields": [
+          "水生态环境质量预测",
+          "大数据分析建模"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "J APPL GEOPHYS",
+        "keywords": [
+          "地球物理应用",
+          "智能建模",
+          "数据处理"
+        ],
+        "journal_name": "J APPL GEOPHYS",
+        "research_fields": [
+          "大数据分析建模",
+          "先进探测与智能感知"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/li/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研究发展计划",
+      "交叉创新项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李立\n页面链接: http://jszy.whu.edu.cn/li/zh_CN/index.htm\n==================================================\n武汉大学 李立--中文主页--首页\n教师个人主页\n李立\n个人信息\n教师拼音名称：Li Li\n电子邮箱：\n所在单位：电子信息学院\n职务：Professor\n办公地点：湖北省武汉市武昌区\n武汉大学桂园于刚·宋晓楼6楼\n联系方式：LL@whu.edu.cn\n职称：副教授\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n从事人工智能与图像处理，大数据分析建模，智能传感设备，计算智能领域的教学与研究工作。IEEE资深会员，IEEE EMBS会员，IEEE Computer Society会员，IEEE GRSS会员。湖北省科技项目评审专家，湖北省综合评标、评审专家。近年来主持和参与30余项国家自然科学基金、国家重点研究发展计划、交叉创新等项目和课题，在NANO ENERGY、IEEE GRSL、IEEE J-STARS、WATER、J APPL GEOPHYS、APPL SCI、COMPUT METHOD BIOMEC、NEURAL COMPUT APPL等国际期刊和GPR、I2MTC、ICSP、PRRS、ICINIS等国际会议上发表学术论文50余篇；...\n教育经历\n1997.9-2001.12\n武汉大学  | 计算机应用技术  | 工学博士学位\n1994.9-1997.3\n武汉水利电力大学  | 电力电子技术  | 工学硕士学位\n工作经历\n更多>>\n2000.8-至今\n电子信息学院 | 武汉大学\n2003.10-2005.9\n东京工业大学\n| 博士后研究员\n1997.4-2000.8\n计算机系 | 武汉水利电力大学\n社会兼职\n2021.2-至今\n湖北省影响群众健康突出问题攻坚行动专家\n2019.11-至今\n中国卫星导航定位协会北斗共享经济专家委员会委员\n研究方向\n人工智能与医学影像; 水生态环境质量预测; 先进探测与智能感知; 大数据分析建模\n曾获荣誉\n2022    湖北省教科文卫体系统第五届职工创业创新比赛“十佳创业奖”-CT 椎骨AI 综合分析系统\n2020    中国水利教育协会2020年高等学校专业教学成果二等奖\n2018    武汉大学优秀班集体标兵-电信15卓工班班主任\n2017    全国电工电子基础课程实验教学案例设计竞赛一等奖（工程奖杯）\n2016    武汉大学“烛光导航工程”优秀导航师\n2014    苏州市科技镇长团优秀团员\n2010    湖北省第二届青年教师教学竞赛优秀奖\n2002    武汉大学首届青年教师教学竞赛一等奖\n1998    武汉水利电力大学青年教师教学竞赛二等奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

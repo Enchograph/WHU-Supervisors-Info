@@ -1,0 +1,197 @@
+{
+  "id": "xiemin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xiemin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "谢敏",
+    "english_name": "Xie Min",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "本科",
+        "field": "化学教育",
+        "school": "河北师范大学",
+        "period": "1999/09—2003/06",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "分析化学",
+        "school": "武汉大学",
+        "period": "2003/09—2008/06",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "物质细胞统合研究所（iCeMS）",
+        "school": "日本京都大学",
+        "period": "2009/10—2012/03",
+        "country": "日本"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "生物传感器开发",
+      "循环肿瘤细胞分离与分析",
+      "微流控芯片技术",
+      "纳米生物探针设计"
+    ],
+    "research_interests": [
+      "循环肿瘤细胞捕获",
+      "荧光磁性双编码探针",
+      "可降解纳米材料",
+      "微流控芯片传感器",
+      "生物分子识别与分离"
+    ],
+    "research_description": "主要从事适用于临床样本的生物传感器研发，聚焦于血液中循环肿瘤细胞的高效分离与检测技术。研究内容涵盖微流控芯片传感器构建、可逆组装与分解的荧光磁性纳米生物探针设计、以及响应性材料在细胞捕获与定点释放中的应用，致力于实现对稀有癌细胞的高灵敏、高特异性识别与分析。",
+    "disciplines": [
+      "分析化学",
+      "生物医学工程",
+      "纳米科技",
+      "材料科学"
+    ],
+    "field_tags": [
+      "循环肿瘤细胞",
+      "生物传感器",
+      "微流控芯片",
+      "纳米探针",
+      "荧光磁性双编码",
+      "可降解材料",
+      "临床检测",
+      "细胞分离"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 13,
+    "representative_publications": [
+      {
+        "title": "High-Efficiency Capture of Individual and Cluster of Circulating Tumor Cells by a Microchip Embedded with Three-Dimensional Poly(dimethylsiloxane) Scaffold",
+        "keywords": [
+          "循环肿瘤细胞",
+          "微流控芯片",
+          "生物传感器",
+          "分离与检测"
+        ],
+        "journal_name": "Anal. Chem.",
+        "research_fields": [
+          "分析化学",
+          "生物传感器",
+          "癌症诊断"
+        ],
+        "publication_year": 2016
+      },
+      {
+        "title": "Biotin-triggered decomposable immunomagnetic beads for capture and release of circulating tumor cells",
+        "keywords": [
+          "可降解磁性微球",
+          "循环肿瘤细胞",
+          "生物捕获",
+          "释放"
+        ],
+        "journal_name": "ACS Appl Mater Interfaces",
+        "research_fields": [
+          "材料科学",
+          "生物医学工程",
+          "癌症检测"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "Engineered Decomposable Multifunctional Nanobioprobes for Capture and Release of Rare Cancer Cells",
+        "keywords": [
+          "多功能纳米探针",
+          "可分解",
+          "稀有癌细胞",
+          "生物捕获"
+        ],
+        "journal_name": "Anal. Chem.",
+        "research_fields": [
+          "纳米技术",
+          "生物分析",
+          "癌症研究"
+        ],
+        "publication_year": 2014
+      },
+      {
+        "title": "Ultrasonication-assisted one-step self-assembly preparation of biocompatible fluorescent-magnetic nanobeads for rare cancer cell detection",
+        "keywords": [
+          "超声辅助自组装",
+          "荧光磁性纳米颗粒",
+          "稀有癌细胞检测"
+        ],
+        "journal_name": "Nanotechnology",
+        "research_fields": [
+          "纳米材料",
+          "生物成像",
+          "医学诊断"
+        ],
+        "publication_year": 2014
+      },
+      {
+        "title": "Fluorescent-magnetic dual-encoded nanospheres: a promising tool for fast-simultaneous-addressable high-throughput analysis",
+        "keywords": [
+          "荧光-磁性双编码",
+          "高通量分析",
+          "纳米球",
+          "细胞分析"
+        ],
+        "journal_name": "Nanotechnology",
+        "research_fields": [
+          "纳米技术",
+          "生物分析",
+          "高通量检测"
+        ],
+        "publication_year": 2012
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xiemin/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "武汉大学自主科研青年教师资助项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "武汉大学"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 谢敏\n页面链接: http://jszy.whu.edu.cn/xiemin/zh_CN/index.htm\n==================================================\n武汉大学 谢敏--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n谢敏\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Xie Min\n电子邮箱：\n所在单位：化学与分子科学学院\n学历：研究生毕业\n办公地点：化学与分子科学学院 化南322\n性别：女\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：化学与分子科学学院\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n教育与研究经历\n1999/09—2003/06，河北师范大学，本科，化学教育\n2003/09—2008/06，武汉大学，博士，分析化学\n2008/07-2014/11，武汉大学，讲师\n2014/12—至今，武汉大学，副教授\n2009/10-2012/03，日本京都大学，物质细胞统合研究所（iCeMS），博士后\n研究领域与兴趣\n发展适用于临床样本的生物传感器，实现特定目标物的有效分离和检测；集中于血液中循环肿瘤细胞的分离和分析方法研究。\n教学：\n承担本科生《工程化学基础》、《分析化学实验》及《综合化学实验》教学。\n已发表论文：\n1. Cheng, S. B.; Xie, M.; Xu, J. Q.; Wang, J.; Lv, S. W.; Guo, S.; Shu, Y.; Wang, M.; Dong, W. G.; Huang, W. H.*, High-Efficiency Capture of Individual and Cluster of Circulating Tumor Cells by a Microchip Embedded with Three-Dimensional Poly(dimethylsiloxane) Scaffold. Anal. Chem. 2016, 88 (13), 6773-6780. (Cofirst author) 2. Lu, N. N.; Xie, M.; Wang, J.; Lv, S. W.; Yi, J. S.; Dong, W. G.; Huang, W. H.*, Biotin-triggered decomposable immunomagnetic beads for capture and release of circulating tumor cells. ACS Appl Mater Interfaces 2015, 7 (16), 8817-8826. (Cofirst author) 3. Xie, M.; Lu, N.-N.; Cheng, S.-B.; Wang, X.-Y.; Wang, M.; Guo, S.; Wen, C.-Y.; Hu, J.; Pang, D.-W.; Huang, W.-H.*, Engineered Decomposable Multifunctional Nanobioprobes for Capture and Release of Rare Cancer Cells. Anal. Chem. 2014, 86 (9), 4618-4626. 4. Guo, S.; Chen, Y. Q.; Lu, N. N.; Wang, X. Y.; Xie, M.*; Sui, W. P.*, Ultrasonication-assisted one-step self-assembly preparation of biocompatible fluorescent-magnetic nanobeads for rare cancer cell detection. Nanotechnology 2014, 25 (50), 505603. (Reported in Nanotechweb) 5. Xie, M.; Hu, J.; Wen, C. Y.; Zhang, Z. L.; Xie, H. Y.; Pang, D. W.*, Fluorescent-magnetic dual-encoded nanospheres: a promising tool for fast-simultaneous-addressable high-throughput analysis. Nanotechnology 2012, 23 (3), 035602. (Reported in Nanotechweb) 6. Xie, M.; Luo, K.; Huang, B.-H.; Liu, S.-L.; Hu, J.; Cui, D.; Zhang, Z.-L.; Xiao, G.-F.*; Pang, D.-W.*, PEG-interspersed nitrilotriacetic acid-functionalized quantum dots for site-specific labeling of prion proteins expressed on cell surfaces. Biomaterials 2010, 31, 8362-8370. 7. Xie, M.; Hu, J.; Long, Y.-M.; Zhang, Z.-L.; Xie, H.-Y.; Pang, D.-W.*, Lectin-modified trifunctional nanobiosensors for mapping cell surface glycoconjugates. Biosens. Bioelectron. 2009, 24 (5), 1311-1317. 8. Xie, M.; Liu, H. H.; Chen, P.; Zhang, Z. L.; Wang, X. H.; Xie, Z. X.; Du, Y. M.; Pan, B. Q.; Pang, D. W.*, CdSe/ZnS-labeled carboxymethyl chitosan as a bioprobe for live cell imaging. Chem. Commun. 2005, (44), 5518-5520. 9. Luo, K.; Li, S.; Xie, M.; Wu, D.; Wang, W.; Chen, R.; Huang, L.; Huang, T.; Pang, D. W.*; Xiao, G. F.*, Real-time visualization of prion transport in single live cells using quantum dots. Biochem. Biophys. Res. Commun. 2010, 394 (3), 493-497. (Cofirst author) 10. Ding, F.; Guo, S.; Xie, M.; Luo, W.; Yuan, C. H.; Huang, W. H.; Zhou, Y.; Zhang, X. L.*; Zhou, X.*, Diagnostic applications of gastric carcinoma cell aptamers in vitro and in vivo. Talanta 2015, 134, 30-36. (Cofirst author) 11. Lv, S. W.; Liu, Y.; Xie, M.; Wang, J.; Yan, X. W.; Li, Z.; Dong, W. G.*; Huang, W. H.*, Near-Infrared Light-Responsive Hydrogel for Specific Recognition and Photothermal Site-Release of Circulating Tumor Cells. ACS Nano 2016, 10 (6), 6201-6210. 12. Guo, S.; Xu, J. Q.; Xie, M.; Huang, W.; Yuan, E. F.; Liu, Y.; Fan, L. P.; Cheng, S. B.; Liu, S. M.; Wang, F. B.; Yuan, B. F.; Dong, W. G.; Zhang, X. L.; Huang, W. H.*; Zhou, X.*, Degradable Zinc-Phosphate-Based Hierarchical Nanosubstrates for Capture and Release of Circulating Tumor Cells. ACS Appl Mater Interfaces 2016, 8 (25), 15917-15925. 13. Hu, J.; Xie, M.; Wen, C. Y.; Zhang, Z. L.; Xie, H. Y.; Liu, A. A.; Chen, Y. Y.; Zhou, S. M.; Pang, D. W.*, A multicomponent recognition and separation system established via fluorescent, magnetic, dualencoded multifunctional bioprobes. Biomaterials 2011, 32 (4), 1177-1184.\n授予和申请专利:\n1. 黄卫华、谢敏、吕松伟、陆宁宁. 可光降解磁性纳米材料和纳米生物探针及其制备方法. 专利号：ZL 201510068026.4, 授予日期:2016.6.8. 2. 黄卫华、谢敏、陆宁宁、庞代文、程世博. 可逆组装和分解的荧光磁性纳米材料和纳米生物探针及其制备方法.专利号：ZL201310338579.8, 授予日期:2014.9.17. 3. 黄卫华、陆宁宁、谢敏、程世博.发明专利：可逆组装和分解的Strep-tag多肽标记的生物分子衍生化基质及其应用.申请号：ZL201410776505.7, 申请日：2014.12.17. 4. 庞代文、胡军、谢敏、温聪颖、谢海燕、张志凌. 发明专利: 一种荧光-磁性双编码微球的制备方法. 专利号: 201010266616.5, 授予日期:2012.6.27. 5. 庞代文、黄碧海、谢敏、刘安安. 发明专利:一种囊膜病毒的生物素标记方法. 专利号: 201010214042.7, 授予日期:2012.4.26. 6. 庞代文、谢敏、张志凌、杜予民. 发明专利: 一种糖生物功能化的水溶性量子点的制备方法--相转移法(两相超声法). 专利号: 200510018234.X, 授予日期: 2007.8.15. 7. 庞代文、谢敏、张志凌、杜予民. 发明专利: 一种糖生物功能化的水溶性量子点的制备方法-研磨法. 专利号: 200510018233.5, 授予日期: 2007.8.15.   承担科研项目： 1） 国家自然科学基金面上项目“响应性微流控芯片传感器构建及其用于循环肿瘤细胞的捕获和定点释放”项目号（21575110）2016.01-2019.12，主持。 2） 国家自然科学基金面上项目“荧光磁性双编码纳米生物探针用于多种细胞的同步识别、逐级分选和鉴定”项目号（81071227）2011.01-2013.12，主持。 3） 武汉大学自主科研青年教师资助项目“基于量子点和磁性纳米材料的荧光磁性双编码微球的制备”  2009.11－2011.10，主持。\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

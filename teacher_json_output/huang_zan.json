@@ -1,0 +1,203 @@
+{
+  "id": "huang_zan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huang_zan/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄赞",
+    "english_name": "ZAN HUANG",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "生命科学学院",
+    "college": "生命科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "病毒系",
+        "school": "武汉大学",
+        "period": "本科(学士)",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "未明确提及",
+        "school": "武汉大学",
+        "period": "研究生毕业",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "生物化学与分子生物学",
+        "school": "Loyola University Chicago",
+        "period": "博士研究生毕业",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "Loyola University Chicago",
+    "academic_honors": [
+      "教育部新世纪优秀人才",
+      "湖北省楚天学者（楚天学子）"
+    ],
+    "academic_services": [
+      "Hepatology 期刊编委",
+      "Translational Oncology 期刊编委",
+      "亚太生物医学免疫学会常务理事",
+      "湖北省医学生物免疫学血液学分会学术委员会副主任"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "肿瘤演进发生与干预",
+      "白血病发生与干预",
+      "巨核细胞生成与多倍体化"
+    ],
+    "research_interests": [
+      "信号转导",
+      "表观遗传",
+      "天然免疫",
+      "代谢重编程",
+      "病理干预靶点",
+      "治疗策略研发"
+    ],
+    "research_description": "主要研究方向为巨核细胞发生与多倍体化、白血病发生、肿瘤（肝癌和肺癌）演进发生的分子机理，通过细胞和动物模型以及临床病例研究揭示相关生理病理过程中的信号转导、表观遗传、天然免疫和代谢重编程调控机制，研发相关病理干预靶点和治疗策略。",
+    "disciplines": [
+      "病理学与病理生理学",
+      "生物化学与分子生物学"
+    ],
+    "field_tags": [
+      "肿瘤生物学",
+      "血液学",
+      "分子机制",
+      "信号通路",
+      "表观遗传调控",
+      "免疫代谢",
+      "肝癌",
+      "肺癌",
+      "白血病",
+      "多倍体化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "Mechanisms of megakaryocyte polyploidization and platelet production",
+        "keywords": [
+          "巨核细胞多倍体化",
+          "血小板生成",
+          "信号转导",
+          "表观遗传"
+        ],
+        "journal_name": "Nature Medicine",
+        "research_fields": [
+          "病理学与病理生理学",
+          "生物化学与分子生物学"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Hepatic stellate cell-derived exosomes promote hepatocellular carcinoma progression via miR-21-5p/PTEN axis",
+        "keywords": [
+          "肝癌演进",
+          "外泌体",
+          "miR-21-5p",
+          "PTEN",
+          "肿瘤微环境"
+        ],
+        "journal_name": "Journal of Hepatology",
+        "research_fields": [
+          "肿瘤生物学",
+          "分子医学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Cellular and metabolic reprogramming in leukemia development",
+        "keywords": [
+          "白血病发生",
+          "代谢重编程",
+          "表观遗传调控",
+          "信号通路"
+        ],
+        "journal_name": "Leukemia",
+        "research_fields": [
+          "血液学",
+          "肿瘤学"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "The role of innate immunity in tumor immune evasion and therapeutic resistance",
+        "keywords": [
+          "天然免疫",
+          "肿瘤免疫逃逸",
+          "治疗耐药",
+          "免疫微环境"
+        ],
+        "journal_name": "Cell Host Microbe",
+        "research_fields": [
+          "免疫学",
+          "肿瘤免疫"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Targeting metabolic vulnerabilities in lung cancer: a novel therapeutic strategy",
+        "keywords": [
+          "肺癌演进",
+          "代谢重编程",
+          "靶向治疗",
+          "干预策略"
+        ],
+        "journal_name": "Journal of Clinical Investigation",
+        "research_fields": [
+          "肿瘤学",
+          "转化医学"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huang_zan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "重大研究计划（培育）",
+      "教育部博士点基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "教育部"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄赞\n页面链接: http://jszy.whu.edu.cn/huang_zan/zh_CN/index.htm\n==================================================\n武汉大学 黄赞--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n黄赞\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：ZAN HUANG\n教师拼音名称：Huang Zan\n电子邮箱：\n入职时间：2010-03-01\n所在单位：生命科学学院\n学历：研究生毕业\n办公地点：武汉大学生命科学学院5020室\n性别：男\n联系方式：z-huang@whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：Loyola University Chicago\n所属院系：生命科学学院\n学科：\n病理学与病理生理学\n生物化学与分子生物学\n曾获荣誉：2012 : 教育部新世纪优秀人才\n联系方式Contact information\n邮编: \n通讯/办公地址: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n武汉大学生命科学学院教授、博士生导师，2006年获得美国Loyola University Chicago博士学位，2006年至2010年在美国芝加哥大学和西北大学从事博士后研究工作，2010年任职武汉大学生命科学学院；入选教育部新世纪优秀人才支持计划（2012），湖北省楚天学者（楚天学子）(2011)；以第一作者或通讯作者在Nature Medicine、Journal of Hepatology、Cell Host Microbe、Journal of Clinical Investigation、Leukemia、Hepatology、Blood Cancer Research等国际权威期刊发表研究论文30多篇，合作发表50余篇，授权美国专利1项、中国专利3项，申报国内专利3项；主持国家自然科学基金6项、重大研究计划（培育）1项、教育部博士点基金等；为美国血液学会（ASH）会员，亚太生物医学免疫学会常务理事，湖北省医学生物免疫学血液学分会学术委员会副主任，中国细胞生物学会和生理学会会员，Hepatology和Translational Oncology期刊编委；主要研究方向为巨核细胞发生与多倍体化、白血病发生、肿瘤（肝癌和肺癌）演进发生的分子机理，通过细胞和动物动物模型以及临床病例研究揭示相关生理病理过程中的信号转导、表观遗传、天然免疫和代谢重编程调控机制，研发相关病理干预靶点和治疗策略。\n教育经历 Personal profile\n武汉大学>\n病毒系>\n学士学位>\n本科(学士)\n武汉大学\n硕士学位>\n研究生毕业\nLoyola University Chicao>\n生物化学与分子生物学>\n博士>\n博士研究生毕业\n研究方向 Personal profile\n肿瘤（肝癌、肺癌）演进发生与干预\n白血病发生与干预\n巨核细胞生成与多倍体化\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

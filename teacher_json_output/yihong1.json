@@ -1,0 +1,231 @@
+{
+  "id": "yihong1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yihong1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "易红",
+    "english_name": "Yi Hong",
+    "title": [
+      "特聘研究员",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "高等研究院",
+    "college": "高等研究院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "有机化学",
+        "school": "武汉大学",
+        "period": "2012.9-2017.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "化学",
+        "school": "武汉大学",
+        "period": "2012.9-2012.9",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "徐元植顺磁共振波谱学优秀青年奖",
+      "武汉市“武汉英才”优秀青年人才",
+      "湖北省“百人计划”创新人才",
+      "日本学术振兴会研究员",
+      "德国洪堡学者",
+      "武汉大学优秀毕业生",
+      "武汉大学十大杰出青年",
+      "武汉大学十大学术之星"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "复杂合成体系原位谱学与反应机制",
+      "金属团簇酶催化与仿生体系构建",
+      "工况条件下高时间分辨原位表征技术发展",
+      "光电纳米催化反应机制与应用"
+    ],
+    "research_interests": [
+      "原位谱学",
+      "反应机制解析",
+      "金属团簇酶",
+      "仿生催化",
+      "同步辐射X-射线吸收精细结构谱",
+      "光电催化",
+      "纳米催化",
+      "生命健康应用"
+    ],
+    "research_description": "易红研究员聚焦复杂合成体系的原位谱学与反应机制研究，利用多种原位谱学手段（如同步辐射XAFS）解析金属团簇酶催化活性位点结构，开发新型高效人工金属团簇酶光电催化仿生体系，拓展其在抗肿瘤等生命健康领域的应用。同时致力于发展工况条件下高时间分辨的原位表征技术与实验设备，实现秒级分辨率下光电纳米催化体系活性物种的动态监测，推动合成化学与催化科学的交叉创新。",
+    "disciplines": [
+      "化学",
+      "材料科学",
+      "催化科学",
+      "生物无机化学",
+      "分析化学"
+    ],
+    "field_tags": [
+      "原位表征",
+      "催化机制",
+      "金属团簇",
+      "仿生酶",
+      "光电催化",
+      "同步辐射",
+      "纳米催化",
+      "生命健康"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "Nature Chemistry",
+        "keywords": [
+          "原位谱学",
+          "反应机制",
+          "合成化学"
+        ],
+        "journal_name": "Nature Chemistry",
+        "research_fields": [
+          "催化化学",
+          "有机合成",
+          "原位表征"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nature Synthesis",
+        "keywords": [
+          "人工金属团簇酶",
+          "光电催化",
+          "仿生催化"
+        ],
+        "journal_name": "Nature Synthesis",
+        "research_fields": [
+          "仿生催化",
+          "光电催化",
+          "金属团簇酶"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Chem",
+        "keywords": [
+          "原位XAFS",
+          "工况表征",
+          "纳米催化"
+        ],
+        "journal_name": "Chem",
+        "research_fields": [
+          "同步辐射表征",
+          "纳米催化",
+          "反应动力学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Natl. Sci. Rev.",
+        "keywords": [
+          "反应机制",
+          "原位监测",
+          "催化体系"
+        ],
+        "journal_name": "National Science Review",
+        "research_fields": [
+          "催化科学",
+          "反应机理",
+          "原位分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "J. Am. Chem. Soc.",
+        "keywords": [
+          "均相催化",
+          "反应路径",
+          "机理研究"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "有机合成",
+          "催化机理",
+          "反应动力学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Angew. Chem. Int. Ed.",
+        "keywords": [
+          "原位表征",
+          "催化活性位点",
+          "金属团簇"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "催化化学",
+          "原位谱学",
+          "金属催化"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nat. Commun.",
+        "keywords": [
+          "光电催化",
+          "活性物种监测",
+          "时间分辨表征"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "光电催化",
+          "原位监测",
+          "纳米材料"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yihong1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年科学基金项目B类",
+      "国家重点研发计划“催化专项”青年科学家项目",
+      "湖北省省级技术创新项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 易红\n页面链接: http://jszy.whu.edu.cn/yihong1/zh_CN/index.htm\n==================================================\n武汉大学 易红--中文主页--首页\n教师个人主页\n易红\n个人信息\n教师英文名称：Yi Hong\n教师拼音名称：Yi Hong\n电子邮箱：\n入职时间：2022-03-01\n所在单位：高等研究院\n学历：博士研究生毕业\n性别：男\n联系方式：hong.yi@whu.edu.cn\n在职信息：在职\n毕业院校：武汉大学\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n易红 武汉大学高等研究院特聘研究员，国家高层次青年人才，博士生导师。迄今， 以（共同）通讯作者发表学术论文30余篇，包括 Nature Chemistry 1篇, Nature Synthesis 1篇, Chem 1篇, Natl. Sci. Rev. 1篇, J. Am. Chem. Soc. 4篇, Angew. Chem. Int. Ed. 4篇, Nat. Commun. 3篇。主持国家自然科学基金青年科学基金项目B类（2025），国家重点研发计划“催化专项”青年科学家项目（2022）、湖北省省级技术创新项目（2025）。学习与工作简历2008.09-2012.06在武汉大学化学分子科学学院化学基地班学习；2017.6博士毕...\n教育经历\n2012.9-2017.6\n武汉大学  | 有机化学  | 理学博士学位 | 博士研究生毕业  | 化学与分子科学学院\n2012.9-2012.9\n武汉大学  | 化学  | 理学学士学位 | 本科(学士)  | 化学与分子科学学院\n工作经历\n2020.2-2021.10\n名古屋大学\n| 博士后\n2017.9-2019.11\n德国柏林工业大学\n| 博士后\n社会兼职\n暂无内容\n研究方向\n更多>>\n聚焦复杂合成体系原位谱学与反应机制，利用多种原位谱学研究均相合成反应机制，解决合成化学中的瓶颈问题\n解析金属团簇酶催化转化活性位点结构，开发新型高效人工金属团簇酶光电催化转化仿生体系，拓展仿生酶应用于抗肿瘤生命健康领域。\n利用大科学装置同步辐射X-射线吸收精细结构谱结合其他谱学手段, 发展工况条件下高时间分辨的原位表征技术与实验配套设备，实现秒级分辨水平下的光电纳米催化体系活性物种动态监测\n曾获荣誉\n2025    徐元植顺磁共振波谱学优秀青年奖\n2023    武汉市“武汉英才”优秀青年人才\n2024    湖北省“百人计划”创新人才\n日本学术振兴会研究员\n2017    德国洪堡学者\n2017    武汉大学优秀毕业生\n2016    武汉大学十大杰出青年\n2016    武汉大学十大学术之星\n团队成员\n更多>>\n光电纳米催化反应机制与应用 团队\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

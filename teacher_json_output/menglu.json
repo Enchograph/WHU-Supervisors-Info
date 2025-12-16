@@ -1,0 +1,216 @@
+{
+  "id": "menglu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/menglu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "孟陆",
+    "english_name": "Monroe",
+    "title": [
+      "长聘副教授"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "旅游管理企业管理",
+    "college": "经济与管理学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "市场营销",
+        "school": "中国人民大学",
+        "period": "博士阶段",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "信息管理与信息系统",
+        "school": "天津理工大学",
+        "period": "本科阶段",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "未明确",
+        "school": "香港理工大学",
+        "period": "博士后阶段",
+        "country": "中国香港"
+      }
+    ],
+    "graduation_school": "中国人民大学",
+    "academic_honors": [
+      "2025年指导本科生获“三创赛”国赛一等奖",
+      "2025年“三创赛”优秀指导老师",
+      "2024年营销科学学年会（JMS）优秀论文 最佳论文",
+      "2024年中国高等院校市场学教学年会（CMAU） 优秀论文",
+      "2024年中国高等院校市场学年会（CMAU）优秀论文一等奖",
+      "2023年亚太国际学术年会会议（APMA） 优秀论文",
+      "2023年营销科学与创新国际高峰论坛（MSI）优秀论文",
+      "2023华人学者市场学协会年会（CMIC） 优秀论文 三等奖",
+      "2023年中国高等院校市场学年会（CMAU）博士生论坛 三等奖",
+      "2017年营销科学学报（JMS）最佳论文-赵平奖",
+      "2017年中国高等院校市场学年会（CMAU）博士生论坛 优秀论文"
+    ],
+    "academic_services": [
+      "Journal of Business Research (ABS 3, 学院B) 编委",
+      "华人学者市场学协会年会（CMIC）常务理事",
+      "美国市场营销协会会员(ACR)",
+      "Journal of Business Ethics, Tourism Management, Annals of Tourism Research, Journal of Travel Research, Journal of Advertising, Marketing Letters, Journal of Business Research, Psychology & Marketing, International Journal of Hospitality Management, International Journal of Contemporary Hospitality Management 等期刊匿名评审"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "视觉营销",
+      "旅游营销"
+    ],
+    "research_interests": [
+      "消费者行为",
+      "广告视觉呈现",
+      "虚拟偶像营销",
+      "旅游服务感知",
+      "动态展示效果",
+      "自我提升产品偏好",
+      "短视频广告",
+      "品牌Logo视觉语言",
+      "疫情对消费心理的影响"
+    ],
+    "research_description": "孟陆博士长期聚焦于视觉营销与旅游营销领域的研究，致力于探索广告视觉呈现、动态展示、虚拟 influencer、品牌视觉语言等对消费者行为与旅游决策的影响。其研究涵盖消费者对近效期食品、自我提升产品、体验型与实物型产品偏好的心理机制，以及旅游目的地选择、旅游者不当行为、AI生成广告对消费者态度的影响等议题。研究成果发表于Journal of Consumer Research、Journal of Business Ethics、Tourism Management、Annals of Tourism Research、Journal of Advertising等国际权威期刊，并在南开管理评论、心理学报、心理科学进展等国内核心期刊发表多篇论文。主持国家自然科学基金青年项目与国家社会科学基金后期资助项目，研究兼具理论深度与实践价值。",
+    "disciplines": [
+      "市场营销",
+      "旅游管理",
+      "消费者行为学",
+      "管理学"
+    ],
+    "field_tags": [
+      "视觉营销",
+      "旅游营销",
+      "消费者行为",
+      "广告心理学",
+      "虚拟偶像",
+      "短视频广告",
+      "品牌视觉",
+      "旅游服务",
+      "自我提升产品",
+      "动态展示"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Let me show you what your tips can do! ",
+        "keywords": [
+          "消费者行为",
+          "小费激励",
+          "视觉营销",
+          "广告效果"
+        ],
+        "journal_name": "Journal of Consumer Research",
+        "research_fields": [
+          "消费者行为",
+          "视觉营销"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "The Impact of Visual Perspectives in Advertisements on Near-expiry Food Consumption",
+        "keywords": [
+          "视觉视角",
+          "临期食品",
+          "消费行为",
+          "伦理营销"
+        ],
+        "journal_name": "Journal of Business Ethics",
+        "research_fields": [
+          "伦理营销",
+          "消费者行为"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "How The Zoom Effect In Dynamic Presentation Shapes Tourists’ Perceptions Of Tourism Service Providers",
+        "keywords": [
+          "动态展示",
+          "旅游服务",
+          "视觉营销",
+          "游客感知"
+        ],
+        "journal_name": "Tourism Management",
+        "research_fields": [
+          "旅游营销",
+          "视觉营销"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Double-sided messages improve the acceptance of ai chatbots",
+        "keywords": [
+          "AI聊天机器人",
+          "双面信息",
+          "接受度",
+          "旅游服务"
+        ],
+        "journal_name": "Annals of Tourism Research",
+        "research_fields": [
+          "旅游营销",
+          "人工智能应用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "我可以唤起你吗——不同类型直播网红信息源特性对消费者购买意愿的影响机制研究",
+        "keywords": [
+          "直播网红",
+          "信息源特性",
+          "购买意愿",
+          "消费者行为"
+        ],
+        "journal_name": "南开管理评论",
+        "research_fields": [
+          "视觉营销",
+          "消费者行为"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=USBeAo8AAAAJ&hl=zh-CN&oi=sra"
+      },
+      {
+        "platform": "个人主页",
+        "url": "http://jszy.whu.edu.cn/~I7jyMv/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家社会科学基金后期资助项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家社会科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 孟陆\n页面链接: http://jszy.whu.edu.cn/menglu/zh_CN/index.htm\n==================================================\n武汉大学 孟陆--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n孟陆，武汉大学 经济与管理学院 长聘副教授，研究方向集中在视觉营销与旅游营销。在Journal of Consumer Research (UTD 24, FT 50), Journal of Business Ethics(FT 50),Tourism Management(ABS 4), Annals of Tourism Research(ABS 4), Journal of Travel Research(ABS 4), Journal of Advertising(ABS 3), Marketing Letters(ABS 3), Journal of Business Research(ABS 3), Psychology & Marketing(ABS 3), International Journal of Hospitality Management(ABS 3), International Journal of Contemporary Hospitality Management(ABS 3) , Internet Research(ABS 3), and Information & Management(ABS 3). 以及在中文期刊：心理学报，心理科学，心理学科进展，南开管理评论，管理评论，管理科学，管理工程学报，经济管理，营销科学学报，外国经济与管理，图书情报工作等中英文期刊接收和发表40多篇论文。此外，多篇工作论文在UTD 24期刊Journal of Consumer Research 和Journal of Marketing Research中被邀请修改并再提交。 主持国家自然科学基金青年项目和国家社会科学基金后期资助项目。\n在投身市场营销学术研究前，在高中到本科阶段与电子竞技紧密相连。主攻Dota这款竞技游戏，以“民间高手”的身份在竞技赛场中不断突破：曾稳居浩方对战平台百强席位，在妖妖对战平台天梯系统中攀升至2800分以上的高分段，更凭借持续的练习与战术打磨，参与并斩获过多项中小型电竞赛事的成绩，并多次入选DOTA顶级操作TOP10集锦。然而，随着瓶颈的到来，逐渐认清自身天赋与顶尖职业选手存在的客观差距。这份清醒的自我审视，成为我人生方向转折的契机——我选择将电竞中培养的专注、抗压能力强与永不言弃的精神，迁移至更适合长期深耕的领域，最终从电竞转向学术赛道，进入市场营销学术圈，开启对消费者行为、市场策略等领域的系统性研究。因此，希望联系我的学生，也能做人做事持之以恒，拥有永不言弃的精神。\n欢迎学生联系我作为指导老师，参与各类市场营销赛事：\n长期聚焦高水平学科竞赛指导，可带领同学备战“互联网+”大学生创新创业大赛、“挑战杯”全国大学生课外学术科技作品竞赛及全国大学生市场调研与分析大赛等核心赛事。在过往指导中，已带领多届本科学生在上述赛事中斩获佳绩，其中2025年指导团队荣获“互联网+”大学生创新创业大赛全国一等奖，积累了成熟的赛事规划与备赛指导经验。\n对参与赛事的学生，我有三点核心期待：\n1. 全心投入：需以专注态度对待备赛全程，合理分配时间与精力，深度参与方案打磨与实践环节。\n2. 认真对待：重视每一个细节，从选题调研到作品呈现，以严谨的标准完成各项任务，杜绝敷衍心态。\n3. 永不言弃：备赛过程难免面临挑战，希望学生能保持韧性，以积极心态应对困难，坚持推进直至赛事结束。\n主要研究成果：\n国际期刊论文\n市场营销：\n1.Ce Liang, Lu Meng*, Shen Duan, Dai Yao, Yuwei Jiang. Let me show you what your tips can do! . Journal of Consumer Research, forthcoming.（FT50, UTD 24 , 学院A)\n2.Lu Meng, Shen Duan, Yiran Zhang, Ce Liang.The Impact of Visual Perspectives in Advertisements on Near-expiry Food Consumption, Journal of Business Ethics, 2025, 1-15. ( FT 50, 学院B+)\n3.Lu Meng, Shen Duan , Sining Kou, Kevin lu. You need a good conversation topic: how the human image in advertisements influences experiential purchases. Journal of Advertising, 2024,1-15.（ABS 3, 学院B+）\n4.Lu Meng, Qi wu, Shen Duan, Yijie Wang. Impact of virtual influencers on different types of disease detection. Journal of Advertising, 2025, 11-18.（ABS 3, 学院B+）\n5.Lu Meng, Yingzhu Yao, Xiaoqin Wang，Yijie Wang. How Life-RoleTransition cue Advertising Shape Consume!Preferences for Self-lmprovement Products. Journal of Advertising Research, 2025, 1-18.（ABS 3, 学院B+）\n6.Chen, J. Liu, X. Feng, W. Lu Meng*. The visual language of brand logos: Exploring the relationship between logo simplicity and perceptions of brand warmth and competence. Journal of Business Research,2025, 200, 115580.（ABS 3, 学院B+）\n7.Lu Meng,Yongyue Bie, Mengya Yang, Yijie Wang. Watching it makes me need to get stronger: The effect of virtual influencer on consumer self-improvement products preference. Journal of Business Research, 2024, 178, 114654.（ABS 3, 学院B+）\n8. Lu Meng, Shen duan , Sining Kou, Yongyue Bie.The Impact of Content Characteristics of Short-Form Video Ads on Consumer Purchase Intention: Evidence from TikTok. Journal of Business Research, 2024, 183, 114874.（ABS 3, 学院B+）\n9. Lu Meng, Sining Kou, Shen Duan, Yushi Jiang, and Kevin Lü. \"How a blurry background in product presentation influences product size perception.\" Psychology & Marketing 39, 2022, : 1633-1645.（ABS 3, 学院B+）\n10. Jiangang Du, Xiaoqin Wang, Zhangjian Wu, Lu Meng*. The busier, the better? The effect of a busy mindset on the preference for self‐improvement products. Psychology & Marketing, 2025, 42(1): 97-112.（ABS 3, 学院B+）\n11.Yanxi, Yi, Wangshuai, Wang, Karimi,Katsumata, Lu Meng*. Keeping distance! How infectious disease threat lowers consumers' attitudes toward densely displayed products. Psychology & Marketing, 2024, 41(7), 1549-1561.（ABS 3, 学院B+）\n12. Sining, Kou, Shen, Duan, Yiran, Zhang, Lu Meng*. The impact of visual perspectives in advertisements on access‐based products. Psychology & Marketing, 2024, 41(4), 958-971.（ABS 3, 学院B+）\n13.Lu Meng, Tianhui Fu, Shen Duan, Yijie Wang. The Overlapping Effect: Impact of Product Display on Price–Quality Judgments.Marketing Letters, 2024: 1-22.（ABS 3, 学院B）\n旅游营销：\n1. Lu Meng, Xin Liu, Shen Duan, Yingyan Liu. How The Zoom Effect In Dynamic Presentation Shapes Tourists’ Perceptions Of Tourism Service Providers. Tourism Management, forthcoming.（ABS4, 学院B+)\n2. Lu Meng, Mengying Zhang, Shuo Pang, Yan Liu, Xavier Font. The Impact of Visual Perspective in Advertising on Tourist Misbehavior. Tourism Management, forthcoming.（ABS4, 学院B+)\n3. Hua Fan, Wangshuai Wang, Lu Meng, How Moral Judgment Incongruence Affects Employee Job Crafting The Moderating Roles of AI-Generated Ads Verisimilitude and Creativity. Tourism Management, forthcoming.（ABS4, 学院B+)\n4. Lu Meng, Chenya Ma, Ziling Zhang, Wangshuai Wang. To See Nature or Culture: How Temporal Landmarks Affect Tourism Destination Preference. Tourism Management, 2024, 105, 104974（ABS4, 学院B+)\n5.Lu Meng, Yongyue Bie, Mengya Yang, Yijie Wang. Influence of human versus virtual influencer: The roles of destination type and cognitive processes. Tourism Management, 2025, 106, 104978.(ABS4, 学院B+）\n6.Chenya Ma, Lu Meng* Xin Liu, Yushi Jiang . Dptimizing Promotion Effectiveness throughTiming:Leveraging Promotion Types Alignedwith Temporal Landmarks. Tourism Management, 2025, 1-18.(ABS4, 学院B+）\n7.Lu Meng, Tongmao Li, Xiaolin Shi. Double-sided messages improve the acceptance of ai chatbots.Annals of Tourism Research, 2023, 102: 103644.（ABS 4, 学院B）\n8.Lu Meng, Xieting Gong, Zhiqian Zhang, Xuqi Zhu, Yijie Wang. Free or $0? Explore The Match Effect Between Free Promotion Types and Consumption Types. Journal of Travel Research, forthcoming.（ABS4, 学院B)\n9.Fangxuan Li, Lu Meng#, Guojie Desmond Zhang. Leveraging pricing strategies for destination management: The impact of algorithm-led versus human-led price discrimination on tourist attitudes towards destinations. Journal of Travel Research, 2025, 1-18.（ABS4, 学院B)\n10. Yingyan Liu, Lu Meng* Is workplace involution effective? A study on the impact mechanism of differential leadership on the in-role performance of frontline service employees in the hotel industry. International Journal of Hospitality Management, 2024, 122, 103870.（ABS3, 学院B+)\n11. Lu Meng, Jiuqi Chen, Yijie Wang. Be Immune: Effect of Customer Inoculation on AI Service Failure. International Journal of Contemporary Hospitality Management, 2024, 11-18.（ABS3, 学院B)\n国内期刊论文\n1. 孟陆,刘凤军,陈斯允,段珅.我可以唤起你吗——不同类型直播网红信息源特性对消费者购买意愿的影响机制研究.南开管理评论,2020,23(01):131-143.（人大复印期刊全文转载）（学院B+）\n2. 孟陆,刘凤军,段珅,李希,李同茂.新冠疫情下共享员工事件强度对公民行为的影响——基于企业社会责任感知的视角.南开管理评论:2024, 1-28.（学院B+）\n3. 刘凤军,孟陆*,杨强,刘颖艳.责任归因视角下事前补救类型与顾客参与程度相匹配对服务补救绩效的影响,南开管理评论,2019,32(2): 197-210（人大复印期刊全文转载）（学院B+）\n4. 段珅,孟陆*,寇思宁.实物还是体验？产品脱销对于消费者实物型产品偏好的影响.南开管理评论,2024,32(2): 1-15.（学院B+）\n5. 段珅,孟陆*.排名列表项目展示方式对于项目评价的极化效应.心理学报,2021,53(11): 1271-1285.（学院B+）\n6. 孟陆,谢育锋,李同茂,段珅,张良波.污染效应在消费者行为领域的表现及其心理机制.心理科学进展,2022,30(04):941-952.（学院B）\n7 刘凤军, 孟陆*, 陈斯允，段珅.网红直播对消费者购买意愿的影响及其机制研究，管理学报，2020 , 17 (1): 94-104（人大复印期刊全文转载）（学院B）\n8.  孟陆,杨强,杜建刚, 董泽瑞.创新产品类别与呈现顺序相匹配对消费者购买意愿的影响. 营销科学学报，2017,(04),83-103.（人大复印期刊全文转载，JMS营销科学年会年度最佳论文—赵平奖）（学院B）\n专著：\n孟陆 推拉镜头产品动态呈现对消费者比较决策的影响，中国社会科学出版社，2025.\n谷歌学术主页： Lu(Monroe)Meng‬ -  https://scholar.google.com/citations?user=USBeAo8AAAAJ&hl=zh-CN&oi=sra\n个人主页：http://jszy.whu.edu.cn/~I7jyMv/zh_CN/index.htm\n研究方向\n社会兼职\n视觉营销，旅游营销\n社会兼职内容：Journal of Business Research (ABS 3, 学院B) 编委，华人学者市场学协会年会（CMIC）常务理事，美国市场营销协会会员(ACR)Journal of Business Ethics,Tourism Management, Annals of Tourism Research, Journal of Travel Research, Journal of Advertising, Marketing Letters, Journal of Business Research, Psychology & Marketing, International Journal of Hospitality Management, International Journal of Contemporary Hospitality Management等期刊匿名评审\n教育经历\n工作经历\n中国人民大学\n|\n市场营销\n|\n管理学博士学位\n|\n博士\n天津理工大学\n|\n信息管理与信息系统\n|\n大学本科\n|\n学士学位\n武汉大学\n|\n长聘副教授\n西南交通大学\n|\n长聘副研究员 院聘教授\n香港理工大学\n|\n博士后\n团队成员\n暂无内容\n返回顶部\n+\n孟陆\n个人信息\n教师英文名称：Monroe\n教师拼音名称：menglu\n出生日期：1991-07-20\n电子邮箱：\n入职时间：2025-07-01\n所在单位：经济与管理学院\n学历：博士研究生毕业\n办公地点：350\n性别：男\n在职信息：在职\n毕业院校：中国人民大学\n学科：旅游管理企业管理\n曾获荣誉：\n20252025年指导本科生获“三创赛”国赛一等奖\n20252025年“三创赛”优秀指导老师\n20242024年营销科学学年会（JMS）优秀论文 最佳论文\n20242024年中国高等院校市场学教学年会（CMAU） 优秀论文\n20242024年中国高等院校市场学年会（CMAU）优秀论文一等奖\n20232023年亚太国际学术年会会议（APMA） 优秀论文\n20232023年营销科学与创新国际高峰论坛（MSI）优秀论文\n20232023华人学者市场学协会年会（CMIC） 优秀论文 三等奖\n20232023年中国高等院校市场学年会（CMAU）博士生论坛 三等奖\n20172017年营销科学学报（JMS）最佳论文-赵平奖\n20172017年中国高等院校市场学年会（CMAU）博士生论坛 优秀论文\n其他联系方式\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

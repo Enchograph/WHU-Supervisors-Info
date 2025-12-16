@@ -1,0 +1,191 @@
+{
+  "id": "zhuangyuan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhuangyuan/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "庄园",
+    "english_name": "Zhuang Yuan",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程国家重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "测绘工程",
+        "school": "卡尔加里大学",
+        "period": "2012-2015",
+        "country": "加拿大"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "微电子学与固体电子学",
+        "school": "东南大学",
+        "period": "2008-2011",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "信息与通信工程",
+        "school": "东南大学",
+        "period": "2004-2008",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "卡尔加里大学",
+    "academic_honors": [
+      "2013 Mitacs Accelerate Award, Mitacs-Inspiring innovation in Canada",
+      "2014 Alberta Innovates Technology Futures (AITF) Graduate Student Scholarship",
+      "2014 Eratosthenes Award, University of Calgary",
+      "2014 Eyes High International Doctoral Scholarship, University of Calgary",
+      "2015 IEEE TIM 最佳审稿人",
+      "2015 ION最佳论文奖",
+      "2015 IEEE IPIN举办的世界室内定位竞赛手机组冠军",
+      "2015 国家自费留学生奖学金",
+      "中国高被引学者(2022)",
+      "斯坦福全球前 2%顶尖科学家“年度影响力”榜单(2022)",
+      "ISPRS 移动测图会议最佳论文奖"
+    ],
+    "academic_services": [
+      "国际摄影测量与遥感协会(ISPRS)机器人建图与机器智能工作组(ICWG I/IV)联合主席 (2022-2026)",
+      "武汉大学学报(理学版)青年编委",
+      "Satellite Navigation 青年编委",
+      "IEEE Internet of Things Journal 客座主编",
+      "UPINLBS 2022国际会议技术主席",
+      "IEEE Access 副主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "机器人感知导航与人工智能",
+      "可见光定位",
+      "毫米波雷达感知定位一体化",
+      "多源融合定位",
+      "多机器人协同感知定位决策",
+      "物联网与车联网传感器应用",
+      "低功耗定位导航芯片终端设计"
+    ],
+    "research_interests": [
+      "可见光增强泛在定位",
+      "机器人定位感知",
+      "多源融合",
+      "室内定位",
+      "低功耗芯片设计",
+      "物联网定位系统",
+      "智能感知",
+      "定位导航算法"
+    ],
+    "research_description": "庄园教授主要从事可见光增强泛在定位、机器人定位感知、多源融合定位、多机器人协同感知定位决策等方向的研究。在可见光定位、毫米波雷达感知定位一体化、低功耗定位导航芯片设计等方面取得重要成果，开发的物联网定位感知系统被广泛报道，参与研制基于中芯国际40nm工艺的低功耗GPS/北斗双模基带原型，授权给国内领先芯片企业。主持国家及省部级科研项目十余项，在IEEE Trans、ISPRS J P&RS等核心期刊发表论文100余篇，谷歌学术引用超4000次。",
+    "disciplines": [
+      "测绘科学与技术",
+      "电子科学与技术",
+      "计算机科学与技术",
+      "控制科学与工程"
+    ],
+    "field_tags": [
+      "可见光定位",
+      "机器人导航",
+      "多源融合定位",
+      "物联网定位",
+      "低功耗芯片",
+      "室内定位",
+      "智能感知",
+      "GNSS/北斗融合"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "IEEE IPIN 世界室内定位竞赛手机组冠军",
+        "keywords": [
+          "室内定位",
+          "可见光定位",
+          "手机定位",
+          "多源融合"
+        ],
+        "journal_name": "IEEE IPIN",
+        "research_fields": [
+          "可见光增强泛在定位",
+          "机器人定位感知",
+          "物联网定位"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "ION GNSS+最佳论文奖",
+        "keywords": [
+          "GNSS",
+          "定位算法",
+          "高精度定位",
+          "多传感器融合"
+        ],
+        "journal_name": "ION GNSS+",
+        "research_fields": [
+          "多源融合定位",
+          "卫星导航",
+          "定位感知"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "ISPRS 移动测图会议最佳论文奖",
+        "keywords": [
+          "移动测图",
+          "机器人建图",
+          "三维感知",
+          "SLAM"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "机器人感知导航",
+          "建图与定位",
+          "移动测图"
+        ],
+        "publication_year": 2015
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhuangyuan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级科研项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 庄园\n页面链接: http://jszy.whu.edu.cn/zhuangyuan/zh_CN/index.htm\n==================================================\n武汉大学 庄园--中文主页--首页\n新闻网中文官网\n庄园\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Zhuang Yuan\n电子邮箱：\n职称：教授\n毕业院校：加拿大卡尔加里大学\n曾获荣誉：2013 : Mitacs Accelerate Award, Mitacs-Inspiring innovation in Canada2014 : Alberta Innovates Technology Futures (AITF) Graduate Student Scholarship2014 : Eratosthenes Award, University of Calgary2014 : Eyes High International Doctoral Scholarship, University of Calgary2015 : IEEE TIM 最佳审稿人2015 : ION最佳论文奖2015 : IEEE IPIN举办的世界室内定位竞赛手机组冠军2015 : 国家自费留学生奖学金\n联系方式Contact information\n邮箱: \n个人简介 Personal profile\n庄园，武汉大学测绘遥感信息工程国家重点实验室教授、博士生导师。主要研究方向为可见光增强泛在定位、机器人定位感知。主持国家及省部级科研项目十余项。在IEEE Trans、ISPRS J P&RS等行业核心期刊和会议上发表论文 100 余篇，其中第一、通讯作者 SCI 期刊论文近50篇;近五年谷歌学术引用 4000 余次。获“中国高被引学者(2022)”、 斯坦福全球前 2%顶尖科学家“年度影响力”榜单(2022)、IEEE IPIN 世界室内定位竞赛手机组冠军、ION GNSS+最佳论文奖、ISPRS 移动测图会议最佳论文奖等 10 余项学术奖励。任国际摄影测量与遥感协会(ISPRS)机器人建图与机器智能工作组(ICWG I/IV)联合主席 (2022-2026)、武汉大学学报(理学版)青年编委，IEEE Internet of Things Journal 客座主编，UPINLBS 2022国际会议技术主席。获批发明专利 20 余项，其中美国专利3项，产业化3项。开发的物联网定位感知系统被华尔街日报等媒体报道。基于中芯国际(SMIC)40nm工艺，参与研制了低功耗 GPS/北斗双模基带原型，授权给国内领先的芯片企业珠海全志和江苏东集。\n教育经历 Personal profile\n2012-2015\n卡尔加里大学>\n测绘工程>\n博士学位>\n博士研究生毕业\n2008-2011\n东南大学>\n微电子学与固体电子学>\n硕士>\n工学硕士学位\n2004-2008\n东南大学>\n信息与通信工程>\n学士>\n工学学士学位\n社会兼职Personal profile\n第七届普适定位、室内导航与基于位置服务 (UPINLBS 2022)国际会议技术主席\n国际摄影测量与遥感协会(ISPRS)机器人建图与机器智能工作组(ICWG I/IV)联合主席 (2022-2026)\n武汉大学学报（理学版）青年编委\nSatellite Navigation 青年编委\nIEEE Senior Member\nIEEE Access 副主编\nIEEE IoT Journal 专刊“Towards Positioning, Navigation, and Location Based Services (PNLBS) for Internet of Things”客座编辑\n研究方向 Personal profile\n机器人感知导航与人工智能\n可见光定位\n毫米波雷达感知定位一体化\n多源融合定位\n多机器人协同感知定位决策\n物联网、车联网传感器应用\n低功耗定位导航芯片终端设计\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

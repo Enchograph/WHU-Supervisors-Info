@@ -1,0 +1,202 @@
+{
+  "id": "dongyanni",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/dongyanni/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "董燕妮",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2012/09-2017/06",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "遥感科学与技术",
+        "school": "武汉大学",
+        "period": "2008/09-2012/06",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国图象图形学学会石青云女科学家奖",
+      "中国图象图形学学会优秀博士学位论文提名奖",
+      "香江学者奖",
+      "国家优秀青年科学基金获得者"
+    ],
+    "academic_services": [
+      "Associate Editor, IEEE Transactions on Geoscience and Remote Sensing",
+      "Associate Editor, IEEE Geoscience and Remote Sensing Letters",
+      "Vice Chair, IEEE GRSS Wuhan Chapter",
+      "Guest Editor, Remote Sensing",
+      "IEEE高级会员",
+      "中国图象图形学学会优博俱乐部副主席",
+      "湖北省女科技工作者协会理事"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感图像智能解译",
+      "地学空间智能应用",
+      "深度学习与机器学习方法在遥感中的应用"
+    ],
+    "research_interests": [
+      "目标探测与跟踪",
+      "地物分类与变化检测",
+      "高光谱遥感图像解译",
+      "迁移学习与测度学习",
+      "流形学习",
+      "矿物制图与岩体识别",
+      "灾害遥感与城市遥感"
+    ],
+    "research_description": "董燕妮教授主要从事遥感图像智能解译与地学空间智能应用研究，聚焦于目标探测、地物分类、变化检测等遥感图像解译任务，结合深度学习、迁移学习、测度学习与流形学习等先进模式识别方法，推动高光谱遥感图像解译与地学应用的智能化发展。研究涵盖矿物制图、岩体识别、灾害监测与城市遥感等典型地学场景，致力于构建高效、鲁棒的遥感智能分析体系。",
+    "disciplines": [
+      "遥感科学与技术",
+      "计算机科学与技术",
+      "地理信息系统",
+      "测绘科学与技术"
+    ],
+    "field_tags": [
+      "遥感图像解译",
+      "深度学习",
+      "高光谱遥感",
+      "目标检测",
+      "地物分类",
+      "迁移学习",
+      "测度学习",
+      "地学智能应用",
+      "城市遥感",
+      "灾害遥感"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Incorporating Prior Knowledge and Temporal Memory Transformer Network for Satellite Video Object Tracking",
+        "keywords": [
+          "卫星视频目标跟踪",
+          "先验知识",
+          "时间记忆Transformer网络"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感图像智能解译",
+          "目标检测与跟踪"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection",
+        "keywords": [
+          "多模态目标检测",
+          "Cross-Mamba交互",
+          "偏移引导融合"
+        ],
+        "journal_name": "Information Fusion",
+        "research_fields": [
+          "遥感图像智能解译",
+          "深度学习"
+        ],
+        "publication_year": 2026
+      },
+      {
+        "title": "Single-source Frequency Transform for Cross-Scene Classification of Hyperspectral Image",
+        "keywords": [
+          "高光谱图像跨场景分类",
+          "单源频域变换",
+          "特征提取"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing",
+        "research_fields": [
+          "高光谱遥感图像解译",
+          "特征降维"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Confidence-Driven Region Mixing for Optical Remote Sensing Domain Adaptation Object Detection",
+        "keywords": [
+          "光学遥感域自适应",
+          "置信度驱动区域混合",
+          "目标检测"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感图像解译",
+          "域自适应"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Fusion of GaoFen-5 and Sentinel-2B Data for Lithological Mapping Using Vision Transformer Dynamic Graph Convolutional Network",
+        "keywords": [
+          "矿物制图",
+          "高分五号与哨兵二B融合",
+          "视觉Transformer",
+          "动态图卷积网络"
+        ],
+        "journal_name": "International Journal of Applied Earth Observation and Geoinformation",
+        "research_fields": [
+          "地学智能应用",
+          "遥感数据融合"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/dongyanni/zh_CN/index.htm"
+      },
+      {
+        "platform": "RSIT课题组主页",
+        "url": "https://rsit.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "全国博士后管委会项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "全国博士后管委会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 董燕妮\n页面链接: http://jszy.whu.edu.cn/dongyanni/zh_CN/index.htm\n==================================================\n武汉大学 董燕妮--中文主页--首页\n董燕妮\n教授\n博士生导师\n硕士生导师\n性别：女\n学历：博士研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n办公地点：武汉大学资源与环境科学学院，附楼319\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n董燕妮，武汉大学资源与环境科学学院教授、博士生导师，国家优秀青年科学基金获得者。主要从事遥感图像智能解译与地学空间智能应用等方面的研究，已在IEEE TIP、IEEE TCybern、IEEE TGRS和ISPRS等国际刊物上发表SCI检索论文六十余篇，担任SCI期刊IEEE TGRS 和 IEEE GRSL副编辑（Associate Editor），ICCV、AAAI、IJCAI等图像分析国际会议的高级程序委员会成员，以及IEEE高级会员，IEEE GRSS武汉分会副主席，中国图象图形学学会优博俱乐部副主席，湖北省女科技工作者协会理事等；曾获得中国图象图形学学会石青云女科学家奖、中国图象图形学学会优秀博士学位论文提名奖、香江学者奖等；主持国家自然科学基金面上项目、青年项目等十余项科研项目。\n主要研究方向\n1. 目标探测、目标检测与跟踪、特征降维、地物分类及变化检测等遥感图像解译\n2. 测度学习、迁移学习、流形学习及深度学习等模式识别与机器学习方法\n3. 矿物制图、岩体识别、灾害遥感、城市遥感等地学智能应用\n欢迎加入RSIT！！！（RSIT主页：https://rsit.whu.edu.cn/）\n长期招收地信/遥感/计算机/信息/数学等专业背景的博士后、博士生，硕士生（推免和统考），欢迎申请！\n长期招收本科生到课题组开展科研训练，欢迎联系！\n学生培养\n指导本科生获批省级大学生创新创业训练项目4项；\n指导研究生获优秀学位论文3人次；\n指导研究生获得国家奖学金共7人次。\n开设课程\n博士课程：《空天智能前沿》\n本科课程：《遥感概论》、《机器学习原理与应用》、《新生研讨课》\n教育经历\n2012/09-2017/06，武汉大学，测绘遥感信息工程国家重点实验室，摄影测量与遥感专业，博士\n2008/09-2012/06，武汉大学，遥感信息工程学院，遥感科学与技术，学士\n学术任职\nAssociate Editor，IEEE Transactions on Geoscience and Remote Sensing\nAssociate Editor，IEEE Geoscience and Remote Sensing Letters\nVice Chair，IEEE GRSS Wuhan Chapter\nGuest Editor, Remote Sensing\n主持项目\n1. 国家自然科学基金项目“高光谱遥感图像解译”，项目负责人。\n2. 国家自然科学基金面上项目“高光谱遥感图像分类的深度迁移测度学习方法研究”，项目负责人。\n3. 全国博士后管委会“基于地球大数据分析的城市聚落制图新方法”，项目负责人。\n近期代表性论文\n[1]. Jiawei Zhou, Yanni Dong*, Yuxiang Zhang, and Bo Du, “Incorporating Prior Knowledge and Temporal Memory Transformer Network for Satellite Video Object Tracking”, ISPRS Journal of Photogrammetry and Remote Sensing, vol. 228, pp. 630-647, 2025.\n[2]. Chang Liu, Xin Ma, Xiaochen Yang, Yuxiang Zhang, and Yanni Dong*, “COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection”, Information Fusion, vol. 125, 103414, 2026.\n[3]. Xizeng Huang, Yanni Dong*, Yuxiang Zhang, Bo Du, “Single-source Frequency Transform for Cross-Scene Classification of Hyperspectral Image,” IEEE Transactions on Image Processing, vol. 34, pp. 3000-3012, 2025.\n[4]. Chang Liu, Yanni Dong*, Yuxiang Zhang, and Xue Li, “Confidence-Driven Region Mixing for Optical Remote Sensing Domain Adaptation Object Detection,” IEEE Transactions on Geoscience and Remote Sensing,  vol. 62, pp. 1-14, Art no. 5631114, 2024.\n[5]. Yanni Dong, Zhenzhen Yang, Ziye Wang, and Renguang Zuo, “Fusion of GaoFen-5 and Sentinel-2B Data for Lithological Mapping Using Vision Transformer Dynamic Graph Convolutional Network,” International Journal of Applied Earth Observation and Geoinformation, vol. 129, pp. 103780, 2024.\n[6]. Cong Yang, Yanni Dong*, Bo Du and Liangpei Zhang, “Attention-Based Dynamic Alignment and Dynamic Distribution Adaptation for Remote Sensing Cross-Domain Scene Classification,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, Art no. 5634713, 2022.\n[7]. Yao Jin, Yanni Dong*, Yuxiang Zhang and Xiangyun Hu, “SSMD: Dimensionality Reduction and Classification of Hyperspectral Images Based on Spatial-Spectral Manifold Distance Metric Learning,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp.1-16, Art no. 5538916, 2022.\n[8]. Quanwei Liu, Yanni Dong*, Yuxiang Zhang and Hui Luo, “A Fast Dynamic Graph Convolutional Network and CNN Parallel Network for Hyperspectral Image Classification,” IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-15, Art no. 5530215, 2022.\n[9]. Yanni Dong, Quanwei Liu, Bo Du, and Liangpei Zhang, “Weighted Feature Fusion of Convolutional Neural Network and Graph Attention Network for Hyperspectral Image Classification,” IEEE Transactions on Image Processing, vol. 31, pp. 1559-1572, 2022.（ESI highly cited paper (Top 1%)）\n[10]. Yanni Dong, Wenzhong Shi, Bo Du, Xiangyun Hu and Liangpei Zhang, “Asymmetric Weighted Logistic Metric Learning for Hyperspectral Target Detection,” IEEE Transactions on Cybernetics, vol. 52, no. 10, pp. 11093-11106, 2022.\n[11]. Yanni Dong, Tianyang Liang, Yuxiang Zhang and Bo Du, “Spectral-Spatial Weighted Kernel Manifold Embedded Distribution Alignment for Remote Sensing Image Classification,” IEEE Transactions on Cybernetics, vol. 51, no. 6, pp. 3185-3197, 2021.（ESI highly cited paper (Top 1%)）\n联系方式\n通讯地址：湖北省武汉市洪山区珞喻路129号  邮编：430079\n办公地址：武汉大学 资源与环境科学学院 附楼319室\n邮箱：dongyanni@whu.edu.cn\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

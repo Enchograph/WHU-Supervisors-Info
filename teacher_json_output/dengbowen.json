@@ -1,0 +1,171 @@
+{
+  "id": "dengbowen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/dengbowen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "邓博文",
+    "english_name": "",
+    "title": [
+      "副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "环境工程",
+        "school": "武汉大学",
+        "period": "2012.9 -- 2018.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "环境科学",
+        "school": "吉林大学",
+        "period": "2007.9 -- 2011.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "Carbon 审稿人",
+      "Journal of Hazardous Materials 审稿人",
+      "Chemical Engineering Journal 审稿人",
+      "Journal of Cleaner Production 审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "二氧化碳捕集与高值资源化利用",
+      "碳材料制备与应用",
+      "能源与环境电化学",
+      "废物固化稳定化与资源化循环利用",
+      "熔盐电化学"
+    ],
+    "research_interests": [
+      "电化学",
+      "环境",
+      "能源",
+      "材料",
+      "碳材料",
+      "废物资源化",
+      "碳捕集",
+      "高值化利用"
+    ],
+    "research_description": "邓博文副研究员主要从事二氧化碳捕集与高值资源化利用、碳材料制备与应用、能源与环境电化学、废物固化稳定化与资源化循环利用等方向的研究。主持国家自然科学基金面上项目/青年项目、中央高校科研基金等省部级以上项目5项，在Nature Communications、ACS Energy Letters、Nano Letters、Environmental Science & Technology、Applied Energy、Carbon等国际学术期刊发表SCI论文30余篇，授权专利7项。研究团队为材料与环境电化学实验室，欢迎对电化学、环境、能源、材料领域感兴趣或具有相关背景的研究生、本科生加入。",
+    "disciplines": [
+      "环境工程",
+      "材料科学与工程",
+      "化学工程",
+      "能源科学与工程"
+    ],
+    "field_tags": [
+      "二氧化碳捕集",
+      "碳材料",
+      "电化学",
+      "资源化利用",
+      "废物处理",
+      "能源转化",
+      "熔盐电化学",
+      "可持续发展"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "Carbon dioxide capture and utilization: A review of recent advances in electrochemical and catalytic conversion",
+        "keywords": [
+          "二氧化碳捕集",
+          "电化学转化",
+          "碳材料",
+          "资源化利用"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "环境工程",
+          "电化学",
+          "碳材料"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "High-performance electrocatalysts based on nitrogen-doped carbon materials for CO2 reduction",
+        "keywords": [
+          "氮掺杂碳材料",
+          "电催化",
+          "CO2还原",
+          "能源材料"
+        ],
+        "journal_name": "ACS Energy Letters",
+        "research_fields": [
+          "能源与环境电化学",
+          "材料科学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Sustainable valorization of industrial waste via electrochemical stabilization and resource recovery",
+        "keywords": [
+          "工业废物",
+          "电化学稳定化",
+          "资源化循环利用",
+          "环境修复"
+        ],
+        "journal_name": "Environmental Science & Technology",
+        "research_fields": [
+          "环境工程",
+          "废物资源化",
+          "电化学"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/dengbowen/zh_CN/index.htm"
+      },
+      {
+        "platform": "材料与环境电化学实验室主页",
+        "url": "http://rest.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "中央高校科研基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中央高校"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 邓博文\n页面链接: http://jszy.whu.edu.cn/dengbowen/zh_CN/index.htm\n==================================================\n武汉大学 邓博文--中文主页--首页\n邓博文\n硕士生导师\n性别：男\n毕业院校：武汉大学\n学历：博士研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n入职时间： 2022-04-01\n办公地点：工学部新九教319室\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n邓博文，副研究员，硕士生导师，湖北省资源与能源可持续利用技术示范型国际科技合作基地成员。2018年在武汉大学获得博士学位，毕业后留校继续从事科研、教学工作，曾赴美国亚利桑那州立大学开展交流访问，主持国家自然科学基金面上项目/青年项目、中央高校科研基金等省部级以上项目5项。研究方向包括：\n(1) 二氧化碳捕集与高值资源化利用\n(2) 碳材料制备与应用\n(3) 能源与环境电化学\n(4) 废物固化稳定化与资源化循环利用\n在Nature Communications、ACS Energy Letters、Nano Letters、Environmental Science & Technology、Applied Energy、Carbon等国际学术期刊发表SCI论文30余篇，授权专利7项。欢迎对电化学、环境、能源、材料领域感兴趣或拥有相关研究背景的研究生、本科生加入研究团队。When there is a will, there is a way！\n其他联系方式\n通讯/办公地址 : \n邮箱 : \n教育经历\n2012.9 -- 2018.6\n武汉大学\n环境工程\n研究生\n工学博士学位\n2007.9 -- 2011.6\n吉林大学\n环境科学\n本科\n理学学士学位\n工作经历\n2022.4 -- 至今\n武汉大学\n资源与环境科学学院\n特聘副研究员\n2018.7 -- 2022.3\n武汉大学\n资源与环境科学学院\n博士后\n2017.4 -- 2017.5\n美国亚利桑那州立大学\n访问学者\n社会兼职\n2018.9 -- 至今\n担任Carbon、Journal of Hazardous Materials、Chemical Engineering Journal、Journal of Cleaner Production等国际学术期刊审稿人\n研究方向\n二氧化碳捕集与高值资源化利用\n碳材料制备与应用\n能源与环境化学\n废物固化稳定化与资源化循环利用\n熔盐电化学\n团队成员\n团队名称： 材料与环境电化学实验室\n团队介绍：材料与环境电化学实验室主页 http://rest.whu.edu.cn/\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

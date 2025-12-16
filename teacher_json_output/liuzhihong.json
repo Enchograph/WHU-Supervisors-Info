@@ -1,0 +1,174 @@
+{
+  "id": "liuzhihong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuzhihong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘志洪",
+    "english_name": "",
+    "title": [
+      "教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "环境工程",
+        "school": "大连理工大学",
+        "period": "1996年",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士",
+        "field": "分析化学",
+        "school": "武汉大学",
+        "period": "2001年",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "微生物遗传",
+        "school": "武汉大学生命科学院",
+        "period": "2002年1月-2003年12月",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "化学生物学",
+        "school": "Ohio State University",
+        "period": "2006年1月-2007年1月",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "教育部新世纪优秀人才"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "上转换荧光材料的设计与合成",
+      "基于上转换荧光的分析方法与传感平台构建",
+      "上转换荧光在生物医学中的应用"
+    ],
+    "research_interests": [
+      "双光子激发有机小分子",
+      "稀土掺杂无机纳米粒子",
+      "荧光共振能量转移(FRET)",
+      "荧光探针",
+      "体外诊断",
+      "细胞与活体荧光成像"
+    ],
+    "research_description": "主要从事荧光分析方法及其在生物、医学中的应用研究，聚焦于上转换荧光（近红外光激发，可见-近红外光发射）技术。研究内容涵盖上转换荧光材料的设计与性能调控（包括双光子激发有机小分子和稀土掺杂氟化物纳米粒子），基于上转换材料的荧光共振能量转移（FRET）分析方法与标记检测技术，以及在复杂生物医学样品快速均相检测和细胞/活体高分辨、深穿透成像中的应用。",
+    "disciplines": [
+      "分析化学",
+      "化学生物学",
+      "材料科学",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "上转换荧光",
+      "近红外激发",
+      "双光子激发",
+      "稀土纳米材料",
+      "FRET",
+      "生物传感",
+      "体外诊断",
+      "活体成像"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "上转换荧光材料的设计、合成及性能调控",
+        "keywords": [
+          "上转换荧光",
+          "稀土离子掺杂",
+          "有机小分子",
+          "双光子激发",
+          "水溶性",
+          "构效关系"
+        ],
+        "journal_name": "J. Am. Chem. Soc., Angew. Chem. Int. Ed., Anal. Chem.",
+        "research_fields": [
+          "荧光分析方法",
+          "生物医学应用",
+          "纳米材料",
+          "化学生物学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于上转换荧光的FRET分析方法与传感平台构建",
+        "keywords": [
+          "荧光共振能量转移",
+          "FRET",
+          "上转换材料",
+          "信号基团",
+          "生物传感"
+        ],
+        "journal_name": "J. Am. Chem. Soc., Angew. Chem. Int. Ed., Anal. Chem.",
+        "research_fields": [
+          "分析化学",
+          "生物传感器",
+          "荧光探针"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "上转换荧光在体外诊断与活体成像中的应用研究",
+        "keywords": [
+          "体外诊断",
+          "Mix-and-Read技术",
+          "细胞成像",
+          "活体成像",
+          "近红外光激发"
+        ],
+        "journal_name": "J. Am. Chem. Soc., Angew. Chem. Int. Ed., Anal. Chem.",
+        "research_fields": [
+          "生物医学成像",
+          "临床诊断",
+          "纳米医学"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuzhihong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘志洪\n页面链接: http://jszy.whu.edu.cn/liuzhihong/zh_CN/index.htm\n==================================================\n武汉大学 刘志洪--中文主页--首页\n刘志洪\n教授 硕士生导师 博士生导师\n个人信息\n性别：男\n所在单位：化学与分子科学学院\n电子邮箱：\nVIEW MORE\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n教育与研究经历\n1996年大连理工大学环境工程专业工学学士；2001年武汉大学分析化学专业理学博士；2002年1月-2003年12月武汉大学生命科学院微生物遗传方向博士后；2006年1月-2007年1月年Ohio State University化学生物学博士后，2010年5-8月香港理工大学访问教授。迄今共在J. Am. Chem. Soc., Angew. Chem. Int. Ed., Anal. Chem.等国内外学术期刊发表论文80余篇，授权专利5项。2011年入选“教育部新世纪优秀人才”。\n研究领域与兴趣\n荧光分析方法及生物、医学应用，主要兴趣在于上转换荧光（近红外光激发，可见-近红外光发射）分析方法和技术。包括三个部分：\n1）上转换荧光材料的设计、合成及性能调控。包括两类材料：i)双光子激发有机小分子，重点在于双光子活性截面、发射波长、水溶性等物理性质的优化及构效关系研究；ii)稀土离子掺杂的无机纳米粒子，主要涉及氟化物基质的稀土掺杂荧光材料，重点在于材料化学组成、形貌和性质（光物理性质及表界面性质）的调控。\n2）基于上转换荧光的分析方法和传感平台建立。主要包括i)以上转换材料为能量供体的荧光共振能量转移(FRET)方法；ii)以上转换材料为信号基团的标记检测方法及荧光探针。\n3）上转换荧光的生物、医学应用。包括i）针对复杂生物医学样品（如体液）的体外诊断方法，以建立复杂样品快速均相检测(Mix-and-Read)技术为目标；ii）细胞/活体荧光成像，利用上转换荧光的优势实现长时间、深度和高分辨成像。\n学术兼职\n无\n暂无内容\n暂无内容\n暂无内容\n暂无内容\n暂无内容\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

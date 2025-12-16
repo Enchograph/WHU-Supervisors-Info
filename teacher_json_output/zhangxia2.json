@@ -1,0 +1,121 @@
+{
+  "id": "zhangxia2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangxia2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张霞",
+    "english_name": "Xia Zhang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "建筑系",
+    "college": "城市设计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2002.9-2006.12",
+        "country": "中国"
+      },
+      {
+        "degree": "研修毕业",
+        "field": "城乡规划学",
+        "school": "荷兰国际航天测量与地球科学学院ITC",
+        "period": "2002.9-2003.1",
+        "country": "荷兰"
+      },
+      {
+        "degree": "建筑学硕士专业学位",
+        "field": "建筑设计及其理论",
+        "school": "华中科技大学",
+        "period": "1999.9-2001.12",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "国家自然科学基金委通讯评审专家",
+      "Cities 期刊审稿专家",
+      "IJGIS 期刊审稿专家",
+      "中国建筑学会环境行为委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "环境行为研究",
+      "建成环境与数字分析",
+      "城市设计",
+      "环境心理学"
+    ],
+    "research_interests": [
+      "时空间轨迹数据",
+      "3DGIS",
+      "城市空间视觉分析",
+      "数字信息技术",
+      "生态建筑",
+      "空间设计"
+    ],
+    "research_description": "张霞教授主要从事数字信息技术在城市空间设计、环境行为以及生态建筑等方向的科研与教学工作。研究涵盖基于3DGIS的城市空间视觉分析理论与方法，时空间轨迹数据在环境行为研究中的应用，以及建成环境与数字分析的交叉研究。作为EBSD环境行为与空间设计研究小组创始人，致力于推动环境行为与空间设计的理论与实践发展。",
+    "disciplines": [
+      "建筑学",
+      "城市规划",
+      "地理信息科学",
+      "环境心理学"
+    ],
+    "field_tags": [
+      "环境行为研究",
+      "数字分析",
+      "城市设计",
+      "3DGIS",
+      "时空间轨迹",
+      "视觉分析",
+      "生态建筑",
+      "空间设计"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangxia2/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张霞\n页面链接: http://jszy.whu.edu.cn/zhangxia2/zh_CN/index.htm\n==================================================\n武汉大学 张霞--中文主页--首页\n教师个人主页\n张霞\n个人信息\n教师英文名称：Xia Zhang\n教师拼音名称：Zhang Xia\n电子邮箱：\n入职时间：1998-07-01\n所在单位：城市设计学院\n学历：博士研究生毕业\n办公地点：武汉大学城市设计学院专业教学楼513工作室\n性别：女\n联系方式：xiazhang@whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n张霞 武汉大学城市设计学院建筑系，教授，博导，中国建筑学会环境行为委员会委员，主持多项国家自然科学基金并任国家自然科学基金委通讯评审专家，EBSD环境行为与空间设计研究小组及EBSD学术自媒体创始人，Cities，IJGIS等多个高水平SCI学术期刊审稿专家。从事数字信息技术在城市空间设计、环境行为以及生态建筑等方向的科研与教学工作，2002年-2006年攻读博士期间构建了基于3DGIS的城市空间视觉分析理论与方法，2010年美国访学期间开始致力于时空间轨迹数据在环境行为研究中的应用，2017年至今，建立时空轨迹数...\n教育经历\n更多>>\n2002.9-2006.12\n武汉大学  | 摄影测量与遥感  | 工学博士学位 | 博士  | 基于3DGIS的城市空间视觉分析研究\n2002.9-2003.1\n荷兰国际航天测量与地球科学学院ITC  | 城乡规划学  | 研修毕业 | 短期研修  | 城市规划与土地管理专业\n1999.9-2001.12\n华中科技大学  | 建筑设计及其理论  | 建筑学硕士专业学位 | 研究生(硕士)毕业  | 华中科技大学建筑与规划学院\n工作经历\n更多>>\n2017.11-至今\n城市设计学院 | 武汉大学\n| 教授\n2008.12-2017.11\n城市设计学院 | 武汉大学\n| 副教授\n2001.9-2008.11\n城市设计学院 | 武汉大学\n| 讲师\n社会兼职\n暂无内容\n研究方向\n更多>>\n环境心理学\n环境行为研究\n建成环境与数字分析\n城市设计\n团队成员\n更多>>\nEBSD研究小组（环境行为与空间设计研究小组）\n副教授两名，讲师一名，博士及硕士研究生十余人，从事城市建成环境行为研究与空间设计研究\n熊燕\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

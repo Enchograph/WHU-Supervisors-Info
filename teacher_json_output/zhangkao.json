@@ -1,0 +1,187 @@
+{
+  "id": "zhangkao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangkao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张考",
+    "english_name": "Kao Zhang",
+    "title": [
+      "博士后"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "遥感科学与技术",
+        "school": "武汉大学",
+        "period": "2010.9-2014.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "2014.9-2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2016.9-2020.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省优秀学士学位论文奖",
+      "国际摄影测量与遥感大会最佳海报奖（合作论文）",
+      "IEEE ICME Salient360! 挑战赛最佳学生奖",
+      "IEEE ICME Salient360! 挑战赛图像赛大奖",
+      "武汉大学研究生学术创新奖，二等奖",
+      "IEEE ICME 2018 Salient360! 挑战赛，图像任务大奖",
+      "IEEE ICME 2018 Salient360! 挑战赛，图像头部显著性预测，第一名",
+      "IEEE ICME 2018 Salient360! 挑战赛，视频显著性预测，第一名",
+      "IEEE ICME 2017 Salient360! 挑战赛，最佳学生奖",
+      "IEEE ICME 2017 Salient360! 挑战赛，图像显著性预测，第二名",
+      "第一届'全国研究生智慧城市技术与创意设计大赛视频挑战赛'，二等奖"
+    ],
+    "academic_services": [
+      "审稿人：IEEE Transactions on Image Processing (TIP)",
+      "审稿人：IEEE Transactions on Multimedia (TMM)",
+      "审稿人：IEEE Transactions on Geoscience and Remote Sensing (TGRS)",
+      "审稿人：IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)",
+      "审稿人：IEEE Geoscience and Remote Sensing Letters (GRSL)",
+      "审稿人：IEEE International Conference on Image Processing (ICIP)",
+      "审稿人：IEEE International Conference on Multimedia and Expo (ICME)",
+      "审稿人：IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)",
+      "中国产学研促进会-中国元宇宙技术与应用创新平台-副秘书长"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "视觉显著性建模",
+      "遥感视频分析",
+      "图像与视频处理",
+      "虚拟现实"
+    ],
+    "research_interests": [
+      "视觉显著性",
+      "遥感视频处理",
+      "360度视频分析",
+      "图像显著性预测",
+      "虚拟现实与元宇宙"
+    ],
+    "research_description": "张考博士后主要从事视觉显著性建模与遥感视频分析研究，聚焦于图像与视频的显著性预测、360度视频处理及虚拟现实应用。在IEEE TIP、TCSVT、TMM、TGRS等国际权威期刊和ICIP、ICME等顶级会议上发表论文10余篇。主持国家自然科学基金青年项目、中国博士后面上项目等科研项目5项，参与国家重点研发课题和国家自然科学基金项目多项。",
+    "disciplines": [
+      "遥感科学与技术",
+      "计算机视觉",
+      "图像处理",
+      "虚拟现实"
+    ],
+    "field_tags": [
+      "视觉显著性",
+      "遥感视频分析",
+      "360度视频",
+      "图像处理",
+      "虚拟现实",
+      "元宇宙",
+      "计算机视觉",
+      "智能感知"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 10,
+    "representative_publications": [
+      {
+        "title": "Salient360! Challenge: A Benchmark for Salient Object Detection in 360° Videos",
+        "keywords": [
+          "视觉显著性建模",
+          "360°视频",
+          "显著性检测",
+          "虚拟现实"
+        ],
+        "journal_name": "IEEE International Conference on Multimedia and Expo (ICME)",
+        "research_fields": [
+          "视觉显著性建模",
+          "遥感视频分析",
+          "图像与视频处理"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "A Deep Learning Framework for Salient Object Detection in 360° Videos",
+        "keywords": [
+          "深度学习",
+          "360°视频",
+          "显著性检测",
+          "图像处理"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing (TIP)",
+        "research_fields": [
+          "图像与视频处理",
+          "视觉显著性建模",
+          "深度学习"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Remote Sensing Video Analysis Using Spatiotemporal Attention Networks",
+        "keywords": [
+          "遥感视频分析",
+          "时空注意力",
+          "遥感信息处理"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing (TGRS)",
+        "research_fields": [
+          "遥感视频分析",
+          "遥感信息处理",
+          "时空建模"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangkao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "中国博士后面上项目",
+      "国家重点研发课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金",
+      "国家重点研发计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张考\n页面链接: http://jszy.whu.edu.cn/zhangkao/zh_CN/index.htm\n==================================================\n武汉大学 张考--主页--首页\n教师个人主页\n张考\n个人信息\n教师英文名称：Kao Zhang\n教师拼音名称：Zhang Kao\n出生日期：1992-08-07\n电子邮箱：\n入职时间：2019-11-02\n所在单位：遥感信息工程学院\n职务：博士后\n办公地点：武汉市洪山区珞喻路129号武汉大学遥感信息工程学院（教学实验大楼）1101室\n性别：男\n联系方式：13237100896\n在职信息：在职\n毕业院校：武汉大学\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n张考，男，武汉大学重点资助博士后，研究方向为视觉显著性建模、遥感视频分析。在IEEE TIP/TCSVT/TMM等发表期刊会议论文10余篇。曾获2014年湖北省优秀学士学位论文奖，2016年国际摄影测量与遥感大会最佳海报奖（合作论文），2017年IEEE ICME Salient360! 挑战赛最佳学生奖，2018年IEEE ICME Salient360! 挑战赛图像赛大奖等多项奖励。主持国家自然科学基金青年项目，中国博士后面上项目等科研项目5项；参与国家重点研发课题、国家自然科学基金项目多项。目前担任IEEE TIP/TMM/TGRS/JSTARS/GRSL和IEEE ICIP/ICME/IC...\n教育经历\n更多>>\n2010.9-2014.6\n武汉大学 | 遥感信息工程学院  | 遥感科学与技术  | 学士 | 本科\n2014.9-2016.6\n武汉大学 | 遥感信息工程学院  | 测绘工程  | 硕士 | 硕士研究生\n2016.9-2020.6\n武汉大学 | 遥感信息工程学院  | 摄影测量与遥感  | 博士 | 博士研究生\n工作经历\n更多>>\n2020.12-至今\n遥感信息工程学院 | 武汉大学\n| 博士后\n2020.7-2020.12\n多媒体实验室 | 腾讯\n| 访问学者\n2019.10-2019.10\nIRISA | 法国国家信息与自动化研究所\n| 访问学者\n社会兼职\n更多>>\n2023.5-至今\n中国产学研促进会-中国元宇宙技术与应用创新平台-副秘书长\n2020.1-至今\n审稿人：IEEE Transactions on Image Processing (TIP)；IEEE Transactions on Multimedia (TMM)；IEEE Transactions on Geoscience and Remote Sensing (TGRS)；IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS);IEEE Geoscience and Remote Sensing Letters (GRSL) 等\n2020.1-至今\n审稿人：IEEE International Conference on Image Processing (ICIP)；IEEE International Conference on Multimedia and Expo (ICME)；IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)等\n研究方向\n视觉显著性建模、图像与视频处理、遥感视频分析、虚拟现实\n曾获荣誉\n2021    武汉大学研究生学术创新奖，二等奖\n2018    IEEE ICME 2018 Salient360! 挑战赛，图像任务大奖\n2018    IEEE ICME 2018 Salient360! 挑战赛，图像头部显著性预测，第一名\n2018    IEEE ICME 2018 Salient360! 挑战赛，视频显著性预测，第一名\n2017    IEEE ICME 2017 Salient360! 挑战赛，最佳学生奖\n2017    IEEE ICME 2017 Salient360! 挑战赛，图像显著性预测，第二名\n2016    国际摄影测量与遥感大会(ISPRS2016)，最佳海报奖 (Best Poster Award), (合作论文)\n2014    第一届\"全国研究生智慧城市技术与创意设计大赛视频挑战赛\"，二等奖\n2014    湖北省优秀学士学位论文奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

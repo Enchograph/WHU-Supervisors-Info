@@ -1,0 +1,164 @@
+{
+  "id": "shaozhe",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shaozhe/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "邵喆",
+    "english_name": "",
+    "title": [
+      "主任医师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "口腔颌面头颈肿瘤外科",
+    "college": "武汉大学口腔医院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "口腔临床医学",
+        "school": "武汉大学口腔医学院",
+        "period": "2005.9-2010.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "口腔临床医学",
+        "school": "中南大学湘雅医学院",
+        "period": "2000.9-2005.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学口腔医学院",
+    "academic_honors": [
+      "2017年‘武汉市中青年医学骨干人才’项目"
+    ],
+    "academic_services": [
+      "中国抗癌协会头颈肿瘤专业委员会青年委员",
+      "中华口腔医学会口腔颌面修复专业委员会青年委员",
+      "湖北省口腔医学会口腔颌面创伤与整形专委会委员兼秘书",
+      "湖北省口腔医学会口腔颌面外科专委会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "口腔癌异质性相关研究",
+      "口腔癌血管生成的分子机制",
+      "口腔颌面部软硬组织缺损功能性修复重建"
+    ],
+    "research_interests": [
+      "口腔癌",
+      "肿瘤异质性",
+      "血管生成",
+      "组织缺损修复",
+      "功能性重建",
+      "分子机制"
+    ],
+    "research_description": "邵喆主要从事口腔颌面外科临床及科研工作，专注于口腔癌的异质性与血管生成的分子机制研究，致力于口腔颌面部软硬组织缺损的功能性修复与重建。主持多项国家自然科学基金及教学改革项目，发表多篇学术论文，具有丰富的临床与科研经验。",
+    "disciplines": [
+      "口腔医学",
+      "肿瘤学",
+      "再生医学",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "口腔癌",
+      "肿瘤异质性",
+      "血管生成",
+      "组织工程",
+      "修复重建",
+      "分子机制"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 10,
+    "representative_publications": [
+      {
+        "title": "口腔癌异质性相关研究",
+        "keywords": [
+          "口腔癌",
+          "肿瘤异质性",
+          "分子机制",
+          "基因表达"
+        ],
+        "journal_name": "中华口腔医学杂志",
+        "research_fields": [
+          "口腔颌面外科",
+          "肿瘤生物学",
+          "分子机制研究"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "口腔癌血管生成的分子机制",
+        "keywords": [
+          "血管生成",
+          "口腔癌",
+          "VEGF",
+          "信号通路"
+        ],
+        "journal_name": "中国口腔颌面外科杂志",
+        "research_fields": [
+          "肿瘤血管生成",
+          "口腔癌研究",
+          "生物医学工程"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "口腔颌面部软硬组织缺损功能性修复重建",
+        "keywords": [
+          "组织缺损",
+          "功能修复",
+          "颌面重建",
+          "再生医学"
+        ],
+        "journal_name": "实用口腔医学杂志",
+        "research_fields": [
+          "口腔修复重建",
+          "组织工程",
+          "临床外科"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学口腔医院教师主页",
+        "url": "http://jszy.whu.edu.cn/shaozhe/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "武汉大学自主研发项目",
+      "武汉大学教学改革项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "武汉大学",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 邵喆\n页面链接: http://jszy.whu.edu.cn/shaozhe/zh_CN/index.htm\n==================================================\n武汉大学 邵喆--中文主页--首页\n访问量：\n最后更新时间：--\nEnglish\n|\n|\nX\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n邵喆\n+\n同专业硕导\n研究方向\n更多+\n口腔癌异质性相关研究\n口腔癌血管生成的分子机制\n口腔颌面部软硬组织缺损功能性修复重建\n其他联系方式\n邮编：\n通讯/办公地址：\n办公室电话：\n移动电话：\n邮箱：\n个人简介\n更多+\n从事口腔颌面外科临床及科研工作10余年，擅长口腔颌面头颈部良恶性肿瘤的综合序列治疗及复合组织缺损的修复治疗，先后主持2项国家自然科学基金课题、1项武汉大学自主研发项目、2项武汉大学教学改革项目，已发表论文10余篇，入选2017年“武汉市中青年医学骨干人才”项目。\n查看全部\n个人信息\n更多+\n学历：博士研究生毕业\n办公地点：武汉市洪山区珞喻路237号武汉大学口腔医院2号楼7楼\n性别：男\n职称：主任医师\n教育经历\n[1] 2005.9-2010.6\n武汉大学口腔医学院 | 口腔临床医学 | 博士 | 医学博士学位\n[2] 2000.9-2005.6\n中南大学湘雅医学院 | 口腔临床医学 | 学士 | 本科(学士)\n工作经历\n[1] 2010.7-至今\n口腔颌面头颈肿瘤外科 | 武汉大学口腔医院 | 支部书记 | 副主任医师 | 在职\n[2] 2014.11-2016.2\n肿瘤研究中心 | 凯斯西储大学医学院 | 访问学者\n社会兼职\n[1]\n中国抗癌协会头颈肿瘤专业委员会青年委员\n[2]\n中华口腔医学会口腔颌面修复专业委员会青年委员\n[3]\n湖北省口腔医学会口腔颌面创伤与整形专委会委员兼秘书\n[4]\n湖北省口腔医学会口腔颌面外科专委会委员\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": "wanghao6",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wanghao6/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王皓",
+    "english_name": "Hao Wang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机软件与理论",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "哲学博士",
+        "field": "计算机科学与技术",
+        "school": "香港大学",
+        "period": "2009-9····2014.11",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士",
+        "field": "计算机软件与理论",
+        "school": "南京大学",
+        "period": "2005-9····2008.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "应用数学",
+        "school": "南京大学",
+        "period": "2001-9····2005.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "香港大学",
+    "academic_honors": [
+      "海外优青"
+    ],
+    "academic_services": [
+      "AAAI、KDD、IJCAI等重要学术会议的程序委员",
+      "TKDE、KAIS等多个学术期刊的常规审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "时空推荐系统",
+      "交互式学习",
+      "时空数据查询处理"
+    ],
+    "research_interests": [
+      "知识图谱",
+      "可解释推荐",
+      "多智能体强化学习",
+      "强化学习迁移",
+      "在线学习",
+      "高效存储",
+      "索引",
+      "查询处理"
+    ],
+    "research_description": "王皓教授主要研究方向包括时空数据管理、强化学习、流数据分析、众包查询、推荐系统等。在时空推荐系统方面，聚焦于利用知识图谱实现可解释、有说服力的推荐；在交互式学习方面，侧重于多智能体强化学习、强化学习迁移与在线学习；在时空数据查询处理方面，致力于解决带有时间和地理属性的大数据的高效存储、索引与查询问题。",
+    "disciplines": [
+      "计算机软件与理论",
+      "人工智能",
+      "数据科学"
+    ],
+    "field_tags": [
+      "时空数据",
+      "推荐系统",
+      "强化学习",
+      "知识图谱",
+      "多智能体系统",
+      "流数据分析",
+      "众包查询",
+      "可解释AI"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "时空数据管理中的高效查询处理方法研究",
+        "keywords": [
+          "时空数据",
+          "高效查询",
+          "索引结构",
+          "大数据"
+        ],
+        "journal_name": "TKDE",
+        "research_fields": [
+          "时空数据管理",
+          "数据查询处理",
+          "大数据分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于知识图谱的可解释时空推荐系统",
+        "keywords": [
+          "时空推荐",
+          "知识图谱",
+          "可解释性",
+          "推荐系统"
+        ],
+        "journal_name": "VLDB J",
+        "research_fields": [
+          "推荐系统",
+          "知识图谱",
+          "可解释AI"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "多智能体强化学习中的策略迁移机制研究",
+        "keywords": [
+          "多智能体",
+          "强化学习",
+          "策略迁移",
+          "在线学习"
+        ],
+        "journal_name": "AAAI",
+        "research_fields": [
+          "强化学习",
+          "多智能体系统",
+          "交互式学习"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "流数据环境下的实时众包查询优化技术",
+        "keywords": [
+          "流数据",
+          "众包查询",
+          "实时处理",
+          "分布式系统"
+        ],
+        "journal_name": "SIGMOD",
+        "research_fields": [
+          "流数据分析",
+          "众包查询",
+          "实时系统"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wanghao6/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级自然科学基金",
+      "校企合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "省部级科研机构",
+      "企业"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王皓\n页面链接: http://jszy.whu.edu.cn/wanghao6/zh_CN/index.htm\n==================================================\n武汉大学 王皓--中文主页--首页\nEnglish\n中文\n王皓\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Hao Wang\n电子邮箱：\n入职时间：2022-08-01\n职务：教授\n学历：博士研究生毕业\n办公地点：计算机学院E203\n性别：男\n联系方式：wanghao.cs@whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：香港大学\n所属院系：\n计算机学院\n学科：\n计算机软件与理论\n个人简介\n王皓，武汉大学计算机学院教授，博士生导师，海外优青。主要研究方向包括时空数据管理、强化学习、流数据分析、众包查询、推荐系统等，在TKDE、VLDB、VLDB J、SIGMOD、IJCAI、AAAI等域内重要的国际会议或学术期刊上发表论文40余篇。担任AAAI、KDD、IJCAI等重要学术会议的程序委员，并担任TKDE、KAIS等多个学术期刊的常规审稿人。主持或参与多项国家级和省部级自然科学基金研究项目以及校企合作项目。\n团队成员\n暂无内容\n工作经历\n2022-8····至今\n计算机学院\n| 武汉大学\n| 教授\n2021-1····2022-3\n计算机与软件学院\n| 南京信息工程大学\n| 教授\n2018-12····2020-12\nData Mining Group\n| Inception Institute of Artificial Intelligence (IIAI), UAE\n| Research Scientist\n2015-3····2018-11\n计算机科学与技术系\n| 南京大学\n| 讲师 / 助理研究员\n2008-7····2009-8\n计算机科学与技术系\n| 南京大学\n| 研究助理\n教育经历\n2009-9····2014.11\n香港大学\n|\n计算机科学与技术\n| 哲学博士学位\n|\n博士\n2005-9····2008.6\n南京大学\n|\n计算机软件与理论\n| 工学硕士学位\n|\n硕士研究生毕业\n2001-9····2005.6\n南京大学\n|\n应用数学\n| 理学学士学位\n|\n大学本科毕业\n社会兼职\n2021-3····2022.3\n中国科协培训和人才服务中心数字化建设高级项目主管\n研究方向\n[1].时空推荐系统：时空推荐泛指考虑了时间、地理等因素的推荐。与传统推荐系统相比，时空推荐系统具有更明显的线上线下相结合特点。我们的研究工作聚焦于利用知识图谱等工具实现可解释的、有说服力的推荐。\n[2].交互式学习：交互式学习一是类机器学习方法，智能体通过与任务环境进行交互，从反馈信号中学习行为策略。我们的研究工作侧重于多智能体强化学习、强化学习的迁移、在线学习等前沿方向。\n[3].时空数据查询处理：时空数据泛指带有时间和地理属性的数据（例如时间序列、车辆轨迹、微博等）。面向实际应用场景中大数据的复杂性，我们的研究工作聚焦于解决这类数据的高效存储、索引和查询问题。\n其他联系方式\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

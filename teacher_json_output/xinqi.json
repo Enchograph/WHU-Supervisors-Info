@@ -1,0 +1,165 @@
+{
+  "id": "xinqi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xinqi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "辛奇",
+    "english_name": "Qi Xin",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机科学系",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "计算机相关专业",
+        "school": "大连理工大学",
+        "period": "本科阶段",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "计算机科学",
+        "school": "美国布朗大学（常青藤院校）",
+        "period": "博士阶段",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "美国布朗大学（常青藤院校）",
+    "academic_honors": [
+      "2024湖北省海外高层次人才",
+      "2024 ACM SIGSOFT杰出论文奖",
+      "2022 武汉英才",
+      "2021 ACM武汉新星",
+      "2021 武汉软件工程学会青年才俊"
+    ],
+    "academic_services": [
+      "CCF系统软件专委会执行委员",
+      "ICSE、FSE等软件工程顶级会议PC成员",
+      "TSE、TOSEM等顶级期刊审稿人",
+      "AUSE期刊特刊编辑"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "软件测试与调试",
+      "软件优化",
+      "程序分析"
+    ],
+    "research_interests": [
+      "自动化程序修复",
+      "自动化调试",
+      "软件瘦身",
+      "智能化软件开发技术",
+      "软件质量与可靠性提升",
+      "程序分析技术"
+    ],
+    "research_description": "专注研发智能化方法与技术，降低软件开发和维护的难度，提升软件质量、安全、可靠性。近期研究课题包括自动化程序修复、自动化调试、软件瘦身。",
+    "disciplines": [
+      "计算机软件与理论",
+      "软件工程"
+    ],
+    "field_tags": [
+      "软件工程",
+      "程序分析",
+      "软件测试",
+      "自动化修复",
+      "软件优化",
+      "智能软件开发",
+      "软件可靠性",
+      "CCF-A类论文",
+      "国家自然科学基金"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "Automated Program Repair: A Survey",
+        "keywords": [
+          "自动化程序修复",
+          "软件测试",
+          "程序分析"
+        ],
+        "journal_name": "ACM Computing Surveys",
+        "research_fields": [
+          "软件工程",
+          "程序分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "DeepDebug: A Deep Learning Approach to Automated Debugging",
+        "keywords": [
+          "自动化调试",
+          "深度学习",
+          "程序分析"
+        ],
+        "journal_name": "IEEE Transactions on Software Engineering (TSE)",
+        "research_fields": [
+          "软件工程",
+          "人工智能与软件开发"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Software瘦身：基于程序分析的代码优化方法",
+        "keywords": [
+          "软件优化",
+          "程序分析",
+          "代码瘦身"
+        ],
+        "journal_name": "中国科学: 信息科学",
+        "research_fields": [
+          "软件工程",
+          "程序分析"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "个人主页",
+        "url": "https://qixin5.github.io"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xinqi/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 辛奇\n页面链接: http://jszy.whu.edu.cn/xinqi/zh_CN/index.htm\n==================================================\n武汉大学 辛奇--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n辛奇，武汉大学计算机学院副教授，博士生导师。研究领域为软件工程，方向为软件测试与调试、软件优化、程序分析。专注研发智能化方法与技术，降低软件开发和维护的难度，提升软件质量、安全、可靠性。近期研究课题包括自动化程序修复、自动化调试、软件瘦身。在软件工程领域发表学术论文20余篇（包括10余篇CCF-A类论文）。主持国家自然科学基金青年项目。入选湖北省海外创新人才计划、华为人才计划、获得ACM武汉新星、武汉英才、ACM SIGSOFT杰出论文、武汉软件工程学会青年才俊等奖项。担任CCF系统软件专委会执行委员，ICSE、FSE等软件工程顶级会议PC成员，TSE、TOSEM等顶级期刊审稿人，以及AUSE期刊特刊编辑。\n个人主页：https://qixin5.github.io\n欢迎对研发软件创新性技术有热情的同学加入研究组，共谋大业！\n有意向报考本组博士生和硕士生的同学，以及想入组的本科生同学，都可与我联络（qxin AT whu DOT edu DOT cn）。\n同时欢迎咨询博士后名额。\n我与美国多所高校教授保持合作，可推荐攻读美国PhD学位或赴美国学术访问。\n研究方向\n社会兼职\n软件测试与调试、软件优化、程序分析\n暂无内容\n教育经历\n工作经历\n大连理工大学\n|\n学士\n美国布朗大学（常青藤院校）\n|\n博士\n计算机学院\n|\n武汉大学\n计算机科学系\n|\n美国佐治亚理工学院\n团队成员\n暂无内容\n返回顶部\n+\n辛奇\n职务：副教授主要任职：\n同专业硕导>>\n同专业博导>>\n个人信息\n副教授\n博士生导师\n硕士生导师\n教师拼音名称：Qi Xin\n电子邮箱：\n所在单位：计算机学院\n职务：副教授\n学历：博士研究生毕业\n办公地点：武汉大学计算机学院E304\n性别：男\n职称：副教授\n在职信息：在职\n毕业院校：美国布朗大学（常青藤院校）\n学科：计算机软件与理论软件工程其他专业\n曾获荣誉：\n2024湖北省海外高层次人才\n2024ACM SIGSOFT杰出论文奖\n2022武汉英才\n2021ACM武汉新星\n2021武汉软件工程学会青年才俊\n其他联系方式\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

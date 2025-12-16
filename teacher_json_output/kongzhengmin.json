@@ -1,0 +1,129 @@
+{
+  "id": "kongzhengmin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/kongzhengmin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "孔政敏",
+    "english_name": "Kong Zhengmin",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "人工智能与自动化系",
+    "college": "机器人学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "信息与通信工程",
+        "school": "华中科技大学（原华中理工大学）",
+        "period": "1999.9-2003.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "信息与通信工程",
+        "school": "华中科技大学",
+        "period": "2004.9-2011.3",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "Outstanding Ph.D. Award in National Laboratory for Optoelectronics",
+      "中国南方电网公司科技进步奖一等奖",
+      "科技部中国发明协会发明二等奖",
+      "3551中国光谷人才",
+      "第十九届“挑战杯”竞赛“揭榜挂帅”专项赛“擂主”（特等奖第一名）指导教师",
+      "武汉大学2025届优秀学士学位论文（杨杨）指导老师",
+      "武汉大学2024届优秀学士学位论文（沈云龙）指导老师",
+      "武汉大学2024届优秀学士学位论文（刘源）指导老师",
+      "武汉大学2022届优秀学士学位论文（周旭奔）指导老师",
+      "武汉大学2019届优秀学士学位论文（张旭）指导老师",
+      "武汉大学2018届优秀学士学位论文（熊峰）指导老师"
+    ],
+    "academic_services": [
+      "IEEE Senior Member",
+      "中国图象图形学学会高级会员",
+      "IEEE PES 智能电网人工智能分委会常务理事",
+      "武汉市自动化工程技术研究中心 主任"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "信号处理与大数据分析",
+      "网络科学与信息安全",
+      "机器学习与计算机视觉在行业中的应用",
+      "智能电网与分布式智能控制系统"
+    ],
+    "research_interests": [
+      "信号处理",
+      "人工智能",
+      "大数据分析",
+      "机器学习",
+      "计算机视觉",
+      "网络安全",
+      "智能电网",
+      " unmanned systems",
+      "通信安全",
+      "非侵入式负荷监测"
+    ],
+    "research_description": "孔政敏副教授的研究风格具有跨学科特点，主要利用信号处理、人工智能和大数据技术解决无人系统、智能电网、通信与安全等领域的实际问题。研究注重算法开发、系统实现与真实场景验证的平衡，涵盖配电网大数据分析、分布式智能控制系统、网络安全以及人工智能在智能电网、网络通信和医学影像等领域的应用。",
+    "disciplines": [
+      "信息与通信工程",
+      "人工智能",
+      "自动化",
+      "电力系统",
+      "计算机科学"
+    ],
+    "field_tags": [
+      "信号处理",
+      "人工智能",
+      "大数据分析",
+      "智能电网",
+      "网络安全",
+      "机器学习",
+      "计算机视觉",
+      "无人系统",
+      "分布式控制",
+      "非侵入式负荷监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/kongzhengmin/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 孔政敏\n页面链接: http://jszy.whu.edu.cn/kongzhengmin/zh_CN/index.htm\n==================================================\n武汉大学 孔政敏--孔政敏个人主页--首页\n教师个人主页\n孔政敏\n个人信息\n教师拼音名称：Kong Zhengmin\n电子邮箱：\n入职时间：2013-08-01\n所在单位：机器人学院\n职务：人工智能与自动化系 副主任\n办公地点：武汉大学工学部\n职称：副教授\n主要任职：武汉市自动化工程技术研究中心 主任\n其他任职：IEEE Senior Member（IEEE高级会员）、中国图象图形学学会高级会员、IEEE PES 智能电网人工智能分委会常务理事\n毕业院校：华中科技大学\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n课题组常年招收博士和硕士研究生、博士后人员，欢迎有志之士！My research style is interdisciplinary in general. Especially, I am leveraging Signal Processing, Artificial Intelligence and Big Data related techniques to tackle the Unmanned Systems, Smart Grid, Communications, Security related problems. My work has a strong and balanced emphasis on algorithm development, system implementation and validation with real-world scenarios.\n教育经历\n1999.9-2003.6\n华中科技大学（原华中理工大学）  | 信息与通信工程  | 工学学士学位 | 本科(学士)  | 电子信息与通信学院（原电子信息工程系）\n2004.9-2011.3\n华中科技大学  | 信息与通信工程  | 工学博士学位 | 博士研究生毕业  | 武汉光电国家实验室&电子信息与通信学院\n工作经历\n更多>>\n2018.11-至今\n电气与自动化学院 人工智能与自动化系 | 武汉大学\n| 系副主任  | 副教授 博士生导师\n2015.12-2018.10\n动力与机械学院自动化系 | 武汉大学\n| 副教授\n2014.3-2015.2\n电子与计算机科学学院（ECS）电子工程（EE）专业（EE 排名第一, UK University Ranking 2015） | 英国南安普顿大学（University of Southampton）\n| 合作教授：英国皇家工程院院士、IEEE Fellow Lajos Hanzo  |&nbspAcademic Visitor\n社会兼职\n更多>>\nIEEE高级会员\n2025.5-至今\n中国图象图形学学会高级会员\n2020.1-2021.12\nIEEE电力能源协会（PES）智能电网与新技术委员会常务理事\n研究方向\n更多>>\n信号处理与大数据分析（详情点击进入）\n网络科学与信息安全（详情点击进入）\n机器学习、计算机视觉等方法在行业中研究与应用（详情点击进入）\n曾获荣誉\n2025    武汉大学2025届优秀学士学位论文（杨杨）指导老师\n2025    武汉大学2025届优秀研究生（余百川）指导老师\n2024    第十九届“挑战杯”竞赛“揭榜挂帅”专项赛“擂主”（特等奖第一名）指导教师 —— 基于非侵入式负荷监测的城市用电侧设备安全感知关键技术及装置\n2024    武汉大学2024届优秀学士学位论文（沈云龙）指导老师\n2024    武汉大学2024届优秀学士学位论文（刘源）指导老师\n2022    武汉大学2022届优秀学士学位论文（周旭奔）指导老师\n2020    中国南方电网公司科技进步奖一等奖\n2020    科技部中国发明协会发明二等奖\n2019    3551中国光谷人才\n2019    湖北省（武汉大学2019届）优秀学士学位论文（张旭）指导老师\n2018    湖北省（武汉大学2018届）优秀学士学位论文（熊峰）指导老师\n2011    Outstanding Ph.D. Award in\nNational Laboratory for Optoelectronics\n团队成员\n更多>>\n网络科学与智能系统实验室\n本课题组主要研究兴趣包括：配电网大数据分析、分布式智能控制系统、网络安全、人工智能与信号处理等前沿技术在智能电网、网络通信、医学影像等领域中的应用。\n王先兵\n方彦军\n林涛\n丁李\n张荣\n崔雪\n郭晓云\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

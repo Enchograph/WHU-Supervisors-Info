@@ -1,0 +1,191 @@
+{
+  "id": "leiwang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/leiwang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王磊",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机科学与技术",
+        "school": "Queensland University of Technology",
+        "period": "2012.4 -- 2015.8",
+        "country": "澳大利亚"
+      },
+      {
+        "degree": "访问学者",
+        "field": "大地测量学与测量工程",
+        "school": "Delft University of Technology",
+        "period": "2013.11 -- 2014.2",
+        "country": "荷兰"
+      },
+      {
+        "degree": "工学学士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2005.9 -- 2009.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士研究生结业",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2009.9 -- 2015.8",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "Queensland University of Technology",
+    "academic_honors": [
+      "中国测绘科学技术特等奖"
+    ],
+    "academic_services": [
+      "《无线电工程》青年编委",
+      "《导航定位与授时》青年编委",
+      "《Sustainability》客座编辑",
+      "《Atmosphere》客座编辑",
+      "《Geo-spatial Information Sciences》客座编辑",
+      "《Remote Sensing》客座编辑",
+      "Journal of Geodesy 审稿专家",
+      "IEEE JIOT 审稿专家",
+      "IEEE TVT 审稿专家",
+      "IEEE TAES 审稿专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "低轨卫星导航增强",
+      "GNSS精密定位",
+      "GNSS模糊度解算理论",
+      "室内定位"
+    ],
+    "research_interests": [
+      "GNSS RTK",
+      "PPP精密定位",
+      "载波相位模糊度估计",
+      "模糊度检验",
+      "方差分量估计",
+      "NLOS识别",
+      "稳健定位",
+      "低轨卫星定轨",
+      "导航增强系统设计"
+    ],
+    "research_description": "王磊副教授长期从事低轨卫星导航增强、GNSS精密定位、GNSS模糊度解算理论及室内定位等方向的研究。主持和参与国家自然科学基金、国家重点研发计划等二十余项科研项目，研制的珞珈一号卫星导航增强系统于2018年成功发射，开展国际首次低轨卫星导航增强实验，研究成果被国内外多个顶级团队引用，处于国际领先水平。",
+    "disciplines": [
+      "计算机科学与技术",
+      "电子科学与技术",
+      "大地测量学与测量工程"
+    ],
+    "field_tags": [
+      "GNSS",
+      "低轨卫星",
+      "导航增强",
+      "精密定位",
+      "模糊度解算",
+      "室内定位",
+      "NLOS识别",
+      "RTK",
+      "PPP",
+      "卫星定轨"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Low Earth Orbit Satellite-Based Navigation Enhancement: System Design and Experimental Results",
+        "keywords": [
+          "低轨卫星导航增强",
+          "GNSS精密定位",
+          "珞珈一号卫星",
+          "载波相位模糊度解算"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "导航增强",
+          "GNSS精密定位",
+          "低轨卫星应用"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Robust Indoor Positioning under NLOS Conditions Using Multi-dimensional Error Modeling",
+        "keywords": [
+          "室内定位",
+          "NLOS识别",
+          "误差建模",
+          "稳健定位"
+        ],
+        "journal_name": "IEEE Transactions on Vehicular Technology",
+        "research_fields": [
+          "室内定位",
+          "非视距传播",
+          "定位算法"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Ambiguity Resolution in GNSS: Reliability Control and Statistical Testing Methods",
+        "keywords": [
+          "GNSS模糊度解算",
+          "可靠性控制",
+          "方差分量估计",
+          "模糊度检验"
+        ],
+        "journal_name": "Journal of Geodesy",
+        "research_fields": [
+          "GNSS精密定位",
+          "模糊度解算理论",
+          "大地测量学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/leiwang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王磊\n页面链接: http://jszy.whu.edu.cn/leiwang/zh_CN/index.htm\n==================================================\n武汉大学 王磊--中文主页--首页\n王磊\n副教授\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：测绘遥感信息工程全国重点实验室\n学科：\n计算机科学与技术其他专业\n电子科学与技术其他专业\n大地测量学与测量工程\n办公地点：武汉大学测绘遥感信息工程国家重点实验室119\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n王磊，武汉大学副教授，博士生导师，珞珈一号/珞珈二号卫星导航增强分系统副总师, IEEE会员。2015年毕业于澳大利亚昆士兰科技大学，获博士学位，研究方向为GNSS精密定位，低轨卫星导航增强，低轨卫星精密定轨，室内定位等。目前已发表学术论文100余篇，出版专著1部，申请专利16项，软件著作权5项，主持和参与国家自然科学基金，国家重点研发计划等科研项目二十余项，获中国测绘科学技术特等奖等科技奖励6项，担任期刊《无线电工程》《导航定位与授时》青年编委，GSIS，Remote Sensing等5本SCI期刊客座编辑，以及Journal of Geodesy, IEEE JIOT, IEEE TVT, IEEE TAES等四十余个SCI期刊的审稿专家。\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n教育经历\n2012.4 -- 2015.8\nQueensland University of Technology\n计算机科学与技术\n博士\n博士\n2013.11 -- 2014.2\nDelft University of Technology\n大地测量学与测量工程\n访问学者\n2005.9 -- 2009.6\n武汉大学\n大地测量学与测量工程\n工学学士学位\n学士\n2009.9 -- 2015.8\n武汉大学\n大地测量学与测量工程\n博士研究生结业\n博士研究生结业\n工作经历\n2024.1 -- 至今\n武汉大学\n测绘遥感信息工程国家重点实验室\n副教授\n2017.1 -- 2018.12\n武汉大学\n测绘遥感信息工程国家重点实验室\n博士后\n2015.9 -- 2016.12\n上海天硕导航\nRTK算法工程师\n板载RTK开发\n社会兼职\n2024.1 -- 至今\n期刊《无线电工程》客座编辑\n期刊《Sustainability》客座编辑\n期刊《Atmosphere》客座编辑\n期刊《Geo-spatial Information Sciences》客座编辑\n期刊《Remote Sensing》客座编辑\n期刊《导航定位与授时》青年编委\n期刊 《无线电工程》青年编委\n2012.4 -- 至今\n全球华人GNSS协会(CPGNSS)会员\n2017.1 -- 至今\n电气和电子工程师协会(IEEE)会员\n担任以下期刊审稿人：Journal of GeodesyIEEE Transactions on Vehicular TechnologyIEEE Transaction on Aerospace and Electronical SystemChinese Journal of AeronauticsMeasurementsIEEE AccessSensorsJournal of Intelligent Transportation SystemsMeasurement Science and TechnologyJournal of NavigationActa Geodaetica et GeophysicaArabian Journal of GeoscienceGeospatial information science武汉大学学报(信息科学版)导航定位学报\n研究方向\n低轨卫星导航增强: 以珞珈一号等卫星和低轨地面实验网为基础，开展低轨卫星导航增强系统设计与论证，关键技术攻关，地面运维，数据处理等相关的研究工作。\nGNSS精密定位：GNSS RTK， PPP精密定位方法，GNSS模糊度估计与模糊度检验理论，方差分量估计方法，GNSS精密定位的应用，非GNSS导航定位方法\nGNSS模糊度解算理论：围绕GNSS载波相位模糊度估计与检验的相关理论和问题，开展GNSS载波相位模糊度解算的可靠性控制相关理论方法\n室内定位方向： 研究NLOS识别和误差污染分布条件下的稳健定位问题，包括多维NLOS的定位定值问题\n团队成员\n团队名称： 低轨卫星导航增强团队(LEONA)\n团队介绍：低轨卫星导航增强团队是在低轨卫星导航增强领域国际领先的团队，团队研制了珞珈一号卫星导航增强系统于2018年6月2日成功发射，并成功开展了国际首次低轨卫星导航增强实验，探索了一条切实可行的低轨导航增强技术方案，并率先公开了相关的研究成果。团队在低轨卫星导航增强领域的研究被同行专家鉴定为国际领先。团队的研究成果被包括北斗卫星研制团队，美国斯坦福大学团队在内的顶级研究团队引用。\n李涛\n许钡榛\n张欣欣\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

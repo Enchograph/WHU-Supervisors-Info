@@ -1,0 +1,199 @@
+{
+  "id": "tuweiping",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/tuweiping/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "涂卫平",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机应用技术",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机应用技术",
+        "school": "武汉大学",
+        "period": "2002年至今",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省科技进步一等奖",
+      "教育部科技进步二等奖"
+    ],
+    "academic_services": [
+      "中国计算机学会(CCF)语音对话与听觉专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "语音与音频智能处理",
+      "极低码率语音编码",
+      "语音增强与回声消除",
+      "语音合成与语音转换",
+      "医学声音智能处理"
+    ],
+    "research_interests": [
+      "语音压缩",
+      "语音增强",
+      "语音合成",
+      "语音转换",
+      "鼾声信号分析",
+      "阻塞性睡眠呼吸暂停综合征辅助诊断",
+      "深度学习语音处理",
+      "空间音频与声场重建",
+      "音频智能分析",
+      "深度伪造音视频鉴别"
+    ],
+    "research_description": "涂卫平教授致力于多媒体信息处理与人工智能领域的研究，主要聚焦于语音与音频智能处理，涵盖极低码率语音编码、语音增强、回声消除、语音合成与转换等关键技术。同时，其研究延伸至医学声音智能处理，如鼾声信号分析与阻塞性睡眠呼吸暂停综合征的智能化辅助诊断。团队还开展基于深度学习的音频智能分析、三维声场重建、5G网络下慢病关联体系构建以及深度伪造音视频鉴别等前沿研究。",
+    "disciplines": [
+      "计算机应用技术",
+      "通信与信息系统"
+    ],
+    "field_tags": [
+      "语音处理",
+      "人工智能",
+      "多媒体技术",
+      "医学信号处理",
+      "深度学习",
+      "音频编码",
+      "智能诊断",
+      "声学信号处理",
+      "空间音频",
+      "语音增强"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement",
+        "keywords": [
+          "语音增强",
+          "注意力机制",
+          "神经网络",
+          "自适应选择"
+        ],
+        "journal_name": "Neural Networks",
+        "research_fields": [
+          "语音处理",
+          "人工智能",
+          "深度学习"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "SUPERCODEC: A Neural Speech Codec with Selective Back-Projection Network",
+        "keywords": [
+          "神经语音编解码器",
+          "选择性反投影",
+          "极低码率编码",
+          "语音压缩"
+        ],
+        "journal_name": "Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing",
+        "research_fields": [
+          "语音编码",
+          "深度学习",
+          "通信信号处理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "CASE-NET: Integrating Local and Non-local Attention Operations for Speech Enhancement",
+        "keywords": [
+          "语音增强",
+          "局部与非局部注意力",
+          "神经网络",
+          "自监督表示"
+        ],
+        "journal_name": "Speech Communication",
+        "research_fields": [
+          "语音处理",
+          "人工智能",
+          "语音增强"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "MBMS-GAN: Multi-Band Multi-Scale Adversarial Learning for Enhancement of Coded Speech at Very Low Rate",
+        "keywords": [
+          "极低码率语音增强",
+          "多带多尺度对抗学习",
+          "GAN",
+          "语音编解码"
+        ],
+        "journal_name": "32th International Conference on Artificial Neural Networks (ICANN 2023)",
+        "research_fields": [
+          "语音处理",
+          "生成对抗网络",
+          "极低码率编码"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis",
+        "keywords": [
+          "鼾声信号分析",
+          "睡眠呼吸暂停",
+          "智能诊断",
+          "数据集构建"
+        ],
+        "journal_name": "Proceedings of Interspeech 2023",
+        "research_fields": [
+          "医学声音智能处理",
+          "睡眠障碍分析",
+          "人工智能辅助诊断"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/tuweiping/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "湖北省重点研发计划项目",
+      "湖北省科技创新团队项目",
+      "湖北珞珈实验室专项基金项目",
+      "横向合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省科技厅",
+      "湖北珞珈实验室"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 涂卫平\n页面链接: http://jszy.whu.edu.cn/tuweiping/zh_CN/index.htm\n==================================================\n武汉大学 涂卫平--中文主页--科学研究\n科学研究\n个人简介\n研究方向\n科研项目\n论文成果\n科研团队\n成果展示\n其他栏目\n语种\nEnglish\n涂卫平\n教授\n博士生导师\n硕士生导师\n主要任职：教授\n所在单位：计算机学院\n学科：\n计算机应用技术\n通信与信息系统\n办公地点：国家多媒体软件工程技术研究中心（本科生院楼）南603\n联系方式：办公电话：027-68753297\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n涂卫平，武汉大学计算机学院教授，博士生导师，国家多媒体软件工程技术研究中心副主任。研究方向为多媒体信息处理与人工智能，致力于语音压缩、语音合成、语音增强以及医学声音智能处理等领域的研究工作。\n从2002年至今在武汉大学任教，2016年在美国俄亥俄州立大学从事学术交流访问。主持国家自然科学基金项目、湖北省技术创新重大专项项目、湖北省科技创新团队项目、湖北省自然科学基金项目及企业合作项目等十余项。获得湖北省科技进步一等奖和教育部科技进步二等奖。在语音处理和人工智能领域国际权威期刊及学术会议发表研究论文五十余篇。担任中国计算机学会(CCF)语音对话与听觉专业委员会委员。\n研究方向\n语音与音频智能处理：\n（1）语音压缩：面向卫星电话语音通信应用需求，研究1.0kbps及以下的极低码率语音编码方案。\n（2）语音增强/回声消除：面向各类语音下游任务，研究语音增强、分离、降噪、去混响和回声消除方法。\n（3）语音合成：研究个性化语音合成、语音转换方法。\n（4）鼾声信号智能分析：研究鼾声信号的特征及其与上呼吸道阻塞情况的关系，实现对阻塞性睡眠呼吸暂停综合征的智能化辅助诊断。\n科研项目\n[1] 北斗语音短报文创新团队，2023.1.-2025.12.，湖北省科技创新团队项目\n[2] 基于5G网络睡眠障碍相关慢病关联体系的建立，2022.9.-2024.12.，湖北省重点研发计划项目\n[3] 基于深度学习的极低码率语音编码技术，2022.4.-2024.4.，湖北珞珈实验室专项基金项目\n[4] 基于非线性等级的自适应声学回声消除，2021.1.-2024.12.，国家自然科学基金面上项目\n[5] 面向智慧城市的音频智能分析关键技术与应用，2021.6.-2023.12.，湖北省重点研发计划项目\n[6] 深度伪造音视频鉴别关键技术研究与应用 ，2020.1.-2022.7.，湖北省重点研发计划项目\n[7]  新媒体智能播控关键技术及应用研究，2019.1.-2021.12.，湖北省科技创新专项（重大项目）\n[8] 听音者声场扰动特性研究及三维声场重建优化技术，2017.1.-2020.12.，国家自然科学基金面上项目\n[9] 三维声场中声源水平定位线索感知特性测量与分析，2013.1-2015.12.，国家自然科学基金青年基金项目\n[10] 三维音频中空间方位信息感知编码关键技术研究， 2012.1.-2013.12.，湖北省自然科学基金项目\n[11] 基于双耳线索感知特性的空间心理声学模型研究， 2011.1.-2012.12.，湖北省自然科学基金项目\n[12] 基于参数域的双耳线索感知特性分析与应用研究， 2009.1.-2010.12.，湖北省自然科学基金项目\n[13] 手机平台上的AMR-WB编解码器开发，2014.5.-2015.5.，横向合作项目\n论文成果\n[1]  Xinmeng Xu, Weiping Tu and Yuhong Yang. Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement. Neural Networks, 174(2024), 106236, pp.1-11. DOI: 10.1016/j.neunet.2024.106236\n[2]  Youqiang Zheng, Weiping Tu, Li Xiao and Xinmeng Xu. SUPERCODEC: A Neural Speech Codec with Selective Back-Projection Network. In Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024, pp.566-570. DOI: 10.1109/ICASSP48485.2024.10447744\n[3]  Youqiang Zheng, Weiping Tu, Li Xiao and Xinmeng Xu. SRCODEC: Split-Residual Vector Quantization for Neural Speech Codec. In Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024, pp.451-455. DOI: 10.1109/ICASSP48485.2024.10445966\n[4]  Yiqun Zhang, Xinmeng Xu and Weiping Tu. Improving Acoustic Echo Cancellation by Exploring Speech and Echo Affinity with Multi-head Attention. In Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024, pp.401-405. DOI: 10.1109/ICASSP48485.2024.10446389\n[5]  Xinmeng Xu, Chang Han, Yiqun Zhang, Weiping Tu and Yuhong Yang. Curricular Contrastive Regularization for Speech Enhancement with Self-Supervised Representations. In Proceedings of 2024 IEEE International Conference on Acoustics, Speech and Signal Processing, 2024, pp.10486-10490. DOI: 10.1109/ICASSP48485.2024.10445912\n[6]  Xinmeng Xu, Weiping Tu and Yuhong Yang. Selector-Enhancer Learning Dynamic Selection of Local and Non-local Attention Operation for Speech Enhancement. In Proceedings of the Thirty-seventh AAAI Conference on Artificial Intelligence (AAAI-2023), pp. 13853-13860.\n[7]  Xinmeng Xu, Weiping Tu and Yuhong Yang. CASE-NET: Integrating Local and Non-local Attention Operations for Speech Enhancement. Speech Communication. Vol. 148(2023), PP. 31-39. DOI: 10.1016/j.specom.2023.02.006\n[8]  Jingyi Li, Li Xiao and Weiping Tu. FREEVC: Towards High-Quality Text-Free One-Shot Voice Conversion. In Proceedings of 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, 2023, pp.1-5. DOI: 10.1109/ICASSP49357.2023.10095191\n[9]  Yajie Liu, Xinmeng Xu, Weiping Tu, Yuhong Yang and Li Xiao. Improving Acoustic Echo Cancellation by Mixing Speech Local and Global Features with Transformer. In Proceedings of 2023 IEEE International Conference on Acoustics, Speech and Signal Processing, 2023, pp.1-5. DOI: 10.1109/ICASSP49357.2023.10096930\n[10]  Qianhui Xu, Weiping Tu, Yong Luo, Xin Zhou, Li Xiao, and Youqiang Zheng. MBMS-GAN: Multi-Band Multi-Scale Adversarial Learning for Enhancement of Coded Speech at Very Low Rate. In Proceedings of 32th International Conference on Artificial Neural Networks (ICANN 2023).DOI: 10.1007/978-3-031-44195-0_38\n[11]  Youqiang Zheng, Li Xiao, Weiping Tu, Yuhong Yang, and Xinmeng Xu. CQNV: A Combination of Coarsely Quantized Bitstream and Neural Vocoder for Low Rate Speech Coding. In Proceedings of Interspeech 2023,  pp.171-175. DOI: 10.21437/Interspeech.2023-1562.\n[12]  Chang Han, Xinmeng Xu, Weiping Tu, Yuhong Yang, Yajie Liu. Exploring the Interactions between Target Positive and Negative Information for Acoustic Echo Cancellation. In Proceedings of Interspeech 2023,  pp.2443-2447. DOI: 10.21437/Interspeech.2023-1364.\n[13]  Xinmeng Xu, Weiping Tu , Yuhong Yang. PCNN: A Lightweight Parallel Conformer Neural Network for Efficient Monaural Speech Enhancement. In Proceedings of Interspeech 2023,  pp.2438-2442. DOI: 10.21437/Interspeech.2023-1376.\n[14]  Li Xiao, Xiuping Yang, Xinhong Li, Weiping Tu, Xiong Chen, Weiyan Yi, Jie Lin, Yuhong Yang, and Yanzhen Ren. A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis. In Proceedings of Interspeech 2023,  pp.5416-5420. DOI: 10.21437/Interspeech.2023-1430\n[15]  Xinhong Li, Baoai Han, Li Xiao, Xiuping Yang, Weiping Tu, Xiong Chen, Weiyan Yi, Jie Lin, Yuhong Yang, and Yanzhen Ren. ONEI: Unveiling Route and Phase of Breathing from Snoring Sounds. In Proceedings of 2023 International Conference on Neural Information Processing. pp. 494-505. DOI: 10.1007/978-981-99-8138-0_39\n[16]  Chang Han, Weiping Tu, Yuhong Yang, Jingyi Li and Xinhong Li. Speaker- and Phone-aware Convolutional Transformer Network for Acoustic Echo Cancellation. In Proceedings of Interspeech 2022, pp. 2513-2517. DOI: 10.21437/Interspeech.2022-10077\n[17]  Ning Li, Weiping Tu, and Haojun Ai. A Sparse Feature Matching Model Using a Transformer Towards Large-View Indoor Visual Localization. Wireless Communications and Mobile Computing. Vol. 2022, pp. 1-12. DOI: 10.1155/2022/1243041\n[18]  Ning Li, Weiping Tu, Haojun Ai, Huimin Deng, Jingjie Tao, Tan Hu, and Xu Sun. VISEL: A Visual and Magnetic Fusion-based Large-Scale Indoor Localization System with Improved High-Precision Semantic Maps. International Journal of Intelligent Systems, Vol.37(10), pp. 7992-8020, 2022, DOI: 10.1002/int.22913\n[19]  Youfa Liu, Bo Du, Weiping Tu, Mingming Gong, Yuhong Guo and Dacheng Tao. LogDet Metric-Based Domain Adaptation. IEEE Transactions on Neural Networks and Learning Systems. Vol. 31(11), pp. 4673-4687, 2020 DOI: 10.1109/TNNLS.2019.2957229\n[20]  Wang, Zengmao; Xiao, Pan; Tu, Weiping; Du, Bo; Cheng, Yanxiang. Bi-adapting Kernel Learning for Unsupervised Domain Adaptation. Neurocomputing, Vol. 398, pp. 547-554, 2020. DOI: 10.1016/j.neucom.2019.03.101\n[21]  Tu, Weiping; Yang, Yuhong; Du, Bo; Yang, Wanzhao; Zhang, Xiong; Zheng, Jiaxi. RNN-based Signal Classification for Hybrid Audio Data Compression. Computing, Vol. 102 (3), pp. 813-827, 2020. DOI: 10.1007/s00607-019-00713-8\n[22]  Luo, Fulin; Huang, Yajuan; Tu, Weiping; Liu, Jiamin. Local Manifold Sparse Model for Image Classification. NEUROCOMPUTING, Vol. 382, pp.162-173, Mar. 2020. DOI: 10.1016/j.neucom.2019.11.084\n[23]  Liu, Youfa; Tu, Weiping; Du, Bo; Zhang, Lefei; Tao, Dacheng. Homologous Component Analysis for Domain Adaptation. IEEE Transctions on Image Processing, Vol. 29, pp. 1074-1089, 2020. DOI: 10.1109/TIP.2019.2929421\n[24]  Tu, Weiping; Yang, Yuhong; Du, Bo; Zheng, Jiaxi; Zhai, Shuangxing. Towards a Real-Time Production of Immersive Spatial Audio of High Individuality with an RBF Neural Network. Journal of Parallel and Distributed Computing, Vol. 131, pp. 120-129, September 2019. DOI: 10.1016/j.jpdc.2019.04.020\n[25]  Wang, Zengmao; Du, Bo; Shi, Qian; Tu, Weiping. Domain Adaptation With Discriminative Distribution and Manifold Embedding for Hyperspectral Image Classification. IEEE Gepscience and Remote Sensing Letters, Vol. 16(7), pp. 1155-1159, 2019. DOI: 10.1109/LGRS.2018.2889967.\n[26]  Wang, Zengmao; Du, Bo; Tu, Weiping; Zhang, Lefei; Tao, Dacheng. Incorporating Distribution Matching into Uncertainty for Multiple Kernel Active Learning. IEEE Transactions on Knowledge and Data Engineering, Vol. 33(1), pp. 128-142, 2019.  DOI: 10.1109/TKDE.2019.2923211.\n[27]  Jiaxi Zheng, Weiping Tu, Xiong Zhang, Wanzhao Yang, Shuangxing Zhai and Chen Shen. A Sound Image Reproduction Model Based on Personalized Weight Vectors. In Proceedings of 19th Pacific-Rim Conference on Multimedia – PCM 2018. pp. 607-617. DOI: 10.1007/978-3-030-00767-6_56\n[28]  Yang, Wanzhao; Tu, Weiping; Zheng, Jiaxi; Zhang, Xiong; Yang, Yuhong; etx. An RNN-Based Speech-Music Discrimination Used for Hybrid Audio Coder. In Proceedings of International Conference on Multimedia Modeling, pp. 81-92, 2018. DOI: 10.1007/978-3-319-73603-7_7\n[29]  Song, Yucheng; Tu, Weiping; Hu, Ruimin; Wang, Xiaochen; Chen, Wei; etc. An Efficient Method Using the Parameterized HRTFs for 3D Audio Real-Time Rendering on Mobile Devices. In Proceedings of 18th Pacific-Rim Conference on Multimedia – PCM 2017, pp.663-673 DOI: 10.1007/978-3-319-77383-4_65\n科研团队\n暂无内容\n成果展示\n暂无内容\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

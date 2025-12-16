@@ -1,0 +1,213 @@
+{
+  "id": "shaosenlin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shaosenlin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "邵森林",
+    "english_name": "Shao Senlin",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "市政系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "市政工程",
+        "school": "哈尔滨工业大学",
+        "period": "2010.9-----2016.1",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "水务工程（给排水科学与工程）",
+        "school": "武汉大学",
+        "period": "2006.9-----2010.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "哈尔滨工业大学",
+    "academic_honors": [
+      "国家奖学金",
+      "雷军奖学金",
+      "龙湖奖学金",
+      "武汉大学学术创新一等奖",
+      "武汉大学学术创新奖二等奖",
+      "全国研究生环境论坛一等奖",
+      "第一届城镇水务行业博士生论坛二等奖",
+      "湖北省给水排水与环境工程论坛一等奖",
+      "湖北省青年拔尖人才"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "膜法水处理技术",
+      "膜界面过程原位解析与微观机制",
+      "膜净水效能的过程强化",
+      "高性能膜材料设计",
+      "低维护、短流程膜工艺开发"
+    ],
+    "research_interests": [
+      "膜润湿机制",
+      "膜污染控制",
+      "微生物自清洁",
+      "膜材料改性",
+      "重力驱动膜过滤",
+      "纳滤膜生物反应器",
+      "污染物去除机理",
+      "新型膜工艺开发"
+    ],
+    "research_description": "邵森林副教授长期致力于膜法水处理技术的研究，聚焦于膜过程的原位解析与微观机制、膜净水效能的过程强化、高性能膜材料设计以及低维护、短流程膜工艺的开发与应用。研究涵盖膜润湿、膜污染、微生物自清洁、膜材料结构调控、重力驱动过滤、纳滤膜生物反应器等多个前沿方向，致力于实现高效、节能、可持续的水处理技术。其团队在Environmental Science & Technology、Water Research、Journal of Membrane Science等顶级期刊发表论文50余篇，具有显著的学术影响力。",
+    "disciplines": [
+      "环境工程",
+      "市政工程",
+      "材料科学与工程",
+      "化学工程"
+    ],
+    "field_tags": [
+      "膜技术",
+      "水处理",
+      "膜污染",
+      "膜材料",
+      "微生物自清洁",
+      "重力驱动过滤",
+      "纳滤",
+      "水环境",
+      "可持续水处理",
+      "原位监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Unraveling the Kinetics and Mechanism of Surfactant-Induced Wetting in Membrane Distillation: An In Situ Observation with Optical Coherence Tomography",
+        "keywords": [
+          "膜润湿",
+          "原位观测",
+          "光学相干断层扫描",
+          "膜蒸馏"
+        ],
+        "journal_name": "Environmental Science & Technology",
+        "research_fields": [
+          "膜法水处理技术",
+          "水处理过程强化"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Crossflow-induced membrane vibration and its effects on fouling and scaling in direct contact membrane distillation",
+        "keywords": [
+          "膜微振动",
+          "流动诱导",
+          "膜污染",
+          "膜蒸馏"
+        ],
+        "journal_name": "Journal of Membrane Science",
+        "research_fields": [
+          "膜法水处理技术",
+          "膜过程机理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Early monitoring of pore wetting in membrane distillation using ultrasonic time-domain reflectometry (UTDR)",
+        "keywords": [
+          "超声波反射",
+          "膜润湿监测",
+          "原位检测",
+          "膜蒸馏"
+        ],
+        "journal_name": "Water Research",
+        "research_fields": [
+          "膜法水处理技术",
+          "过程监测与控制"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Membrane fouling by the aggregations formed from oppositely charged organic foulants",
+        "keywords": [
+          "膜污染",
+          "电荷相互作用",
+          "有机物聚集",
+          "水处理"
+        ],
+        "journal_name": "Water Research",
+        "research_fields": [
+          "膜法水处理技术",
+          "膜污染机理"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Resolving Hydraulic Resistances in Thin-Film Composite Polyamide Nanofiltration Membranes",
+        "keywords": [
+          "纳滤膜",
+          "水力阻力",
+          "分离层比阻",
+          "膜材料设计"
+        ],
+        "journal_name": "Environmental Science & Technology",
+        "research_fields": [
+          "高性能膜材料",
+          "膜过程机理"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=XMjxoHgAAAAJ&hl=en&oi=ao"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家重点研发子课题",
+      "湖北省青年拔尖人才",
+      "香江学者计划",
+      "武汉市知识创新专项",
+      "中国博士后科学基金特别资助",
+      "中国博士后科学基金面上资助",
+      "城市水资源与水环境国家重点实验室开放课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省科学技术厅",
+      "香港特别行政区政府",
+      "武汉市科技局",
+      "中国博士后科学基金会",
+      "城市水资源与水环境国家重点实验室"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 邵森林\n页面链接: http://jszy.whu.edu.cn/shaosenlin/zh_CN/index.htm\n==================================================\n武汉大学 邵森林--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n基本信息\nEmail:shaosenlin@whu.edu.cn\n地  址:武汉大学土木建筑工程学院209室\n教育及工作经历\n2020/12-                   武汉大学              土木建筑工程学院，副教授, 市政系党支部书记\n209/02-2020/11       武汉大学               土木建筑工程学院，特聘副研究员\n2018/01-2020/01     香港大学               土木工程系，香江学者，导师：汤初阳 教授\n2016/02-2019/02     武汉大学               土木建筑工程学院，师资博士后（3+3），导师：李江云 教授\n2010/09-2016/01     哈尔滨工业大学     市政工程，博士，导师：李圭白 院士\n2006/09-2010/06     武汉大学               水务工程，学士，导师：方正 教授\n授课信息\n《给排水工程概论》、《城市给排水工程》、《水处理工艺实验》\n研究方向\n膜法水处理技术\n主要涉及：1）新方法——深入理解膜过程\n2）新工艺——低维护、高效能膜工艺的开发及应用\n3）新材料——针对膜过程和新工艺的膜材料的开发\n主持科研项目\n1. 国家自然科学基金面上项目，52270077，2023-2026，主持\n2. 国家自然科学基金面上项目，52070147，2021-2024，主持\n3. 国家自然科学基金青年基金，51608396，2017-2019，主持\n4. 国家重点研发子课题，2024YFC3810903-02，2025-2028，主持\n5. 湖北省青年拔尖人才, 2024-2026，主持\n6. \"香江学者\"计划，XJ2017039，2018-2020，主持\n7. 武汉市知识创新专项，2023020201020241，2023-2025，主持\n8. 中国博士后科学基金特别资助（第10批），2017T100578，2017-2018，主持\n9. 中国博士后科学基金面上资助（第59批），2016M592386，2016-2018，主持\n10. 城市水资源与水环境国家重点实验室开放课题，HC201709，2017-2018，主持。\n代表性论文\n目前以一作/通讯在Environmental Science & Technology （5）, Water Research （10）, Journal of Membrane Science （8）等期刊上发表SCI论文50余篇。他引四千余次，H因子38，ESI高被引论文6篇，热点论文3篇。\nGoogle学术链接https://scholar.google.com/citations?user=XMjxoHgAAAAJ&hl=en&oi=ao\n一、 膜界面过程的原位解析与微观机制\n[1] Senlin Shao#, Danting Shi#, Jiangshuai Hu, Weihua Qing, Xianhui Li, Xue Li, Bin Ji, Zhe Yang, Hao Guo, Chuyang Y. Tang*. Unraveling the Kinetics and Mechanism of Surfactant-Induced Wetting in Membrane Distillation: An In Situ Observation with Optical Coherence Tomography. Environ. Sci. Technol. 2022, 56(1): 556-563. (建立基于OCT的膜润湿过程原位动态成像新方法)\n[2] Hongting Wan, Fanxi Zeng, Huarong Yu, Zhouyang Zhuang, Alicia Kyoungjin An, Senlin Shao*, Fangshu Qu*. Crossflow-induced membrane vibration and its effects on fouling and scaling in direct contact membrane distillation. J. Membr. Sci. 2024, 694:122410. (建立基于OCT的膜微振动监测新方法)\n[3] Hongting Wan, Danting Shi, Chu Zhou, Baiwen Ma, Weiyi Li, Senlin Shao*, Chuyang Tang. Optical coherence tomography (OCT) as a robust technique for the non-invasive imaging in membrane-based water treatment. Sep. Purif. Technol. 2025, 376: 133986. (系统综述了膜领域中基于OCT的研究方法)\n[4] Hongting Wan#, Xianhui Li#, Yusen Luo, Danting Shi, Tengjing Gong, Alicia Kyoungjin An, Senlin Shao*. Early monitoring of pore wetting in membrane distillation using ultrasonic time-domain reflectometry (UTDR). Water Res. 2023, 240: 120081. (建立了基于超声波反射的膜润湿监测新方法)\n[5] Senlin Shao, Wenwen Fu, Xiujuan Li, Danting Shi, Yu Jiang, Jiangyun Li, Tengjing Gong, Xue Li*. Membrane fouling by the aggregations formed from oppositely charged organic foulants. Water Res. 2019, 159: 95-101. (基于共振瑞利散射在生物大分子中的检测优势，率先将其引入到膜污染的研究中)\n[6] Senlin Shao, Heng Liang*, Fangshu Qu, Huarong Yu, Kai Li, Guibai Li. Fluorescent natural organic matter fractions responsible for ultrafiltration membrane fouling: Identification by adsorption pretreatment coupled with parallel factor analysis of excitation–emission matrices. J. Membr. Sci. 2014, 464: 33-42. (博士工作-基于有机物的荧光光谱特征，通过物理吸附产生差异化信号，提出了一种简便的荧光类膜污染物的鉴定新方法)\n[7] Danting Shi, Tengjing Gong, Weihua Qing, Xianhui Li, Senlin Shao*. Unique Behaviors and Mechanism of Highly Soluble Salt-Induced Wetting in Membrane Distillation. Environ. Sci. Technol. 2022, 56(20): 14788-14796. (基于OCT的原位观测方法首次揭示了NaCl等易溶盐诱导膜润湿的微观机制)\n[8] Keying Xiong, Li Long, Juntao Xing, Liang Luo, Chu Zhou, Xu Wang, Senlin Shao*. Biofilm-Induced Critical Flux in Dead-End Ultrafiltration Processes: Phenomenon, Mechanism, and Economic and Environmental Benefits. Environ. Sci. Technol. 2025, 59 (10): 5337-5347. (受生物膜自生稳定的启发，发现了污堵层中微生物自生清洁的现象，提出微生物诱导临界通量的新概念，并强调其潜在的经济与环境效益)\n[9] Danting Shi, Yang Liu, Wenwen Fu, Jiangyun Li, Zheng Fang, Senlin Shao*. A combination of membrane relaxation and shear stress significantly improve the flux of gravity-driven membrane system. Water Res. 2020, 175: 115694. (微生物的自清洁过程如果影响污堵层的结构，水力清洗如何匹配微生物自清洁效应，实现功能协同？)\n[10] Jiangshuai Hu, Bin Ji, Rui Wang, Danting Shi, Senlin Shao*. Fouling by inorganic-particle-containing cake layers can be reduced by microorganisms at low fluxes. Sep. Purif. Technol. 2023, 315: 123659. (在微生物自清洁过程中，有机膜污堵物可通过微生物降解予以去除，而对于难以降解的无机膜污堵物，其去除机制又是如何实现的？)\n[11] Yu Jiang, Si Wang, Chaoyu Li, Yu-Ang Cai, Xiuquan Xiong, Yinghao Tang, Senlin Shao*, Chuansheng Wang, How Yong Ng*. Unraveling the mechanism of fouling mitigation in AGS-MBR system: From AGS properties to foulant interactions. Water Res. 2025, 279: 123403. (揭示了颗粒污泥通过降低SMP浓度而缓解膜污堵的主导机制)\n[12] Senlin Shao, Luyang Cai, Kai Li, Jiangyun Li*, Xing Du, Guibai Li, Heng Liang*. Deposition of powdered activated carbon (PAC) on ultrafiltration (UF) membrane surface: influencing factors and mechanisms. J. Membr. Sci. 2017, 530: 104-111. (博士工作-阐明了粉末活性炭在超滤膜表面沉积的微观机制)\n[13] Senlin Shao, Heng Liang*, Fangshu Qu, Kai Li, Haiqing Chang, Huarong Yu, Guibai Li. Combined influence by humic acid (HA) and powdered activated carbon (PAC) particles on ultrafiltration membrane fouling. J. Membr. Sci. 2016, 500, 99-105. (博士工作-阐明了粉末活性炭与有机物在滤饼污染形成过程中的协同作用)\n二、膜净水效能的过程强化与机理阐释\n[1] Senlin Shao#, Yueqi Li#, Tianci Jin, Wushuang Liu, Danting Shi, Jun Wang, Yi Wang, Yu Jiang, Jiangyun Li, Hui Li*. Biofouling layer maintains low hydraulic resistances and high ammonia removal in the UF process operated at low flux. J. Membr. Sci. 2020, 596: 117612. (提出利用含硝化细菌的膜面滤饼层提升饮用水中氨氮去除效率的新思路)\n[2] Senlin Shao, Yijing Feng, Huarong Yu, Jiangyun Li, Heng Liang, Guibai Li. Presence of an adsorbent cake layer improves the performance of gravity-driven membrane (GDM) filtration system. Water Res. 2017, 108: 240-249. (基于重力驱动过滤不清洗的特点，提出在膜面负载吸附剂的工艺效能强化策略，有效提升了天然有机物、微量有机物、可同化有机碳的去除)\n[3] Bin Liu, Yin Jun, Changrong Zhao, Chu Zhou, Tingting Zhu*, Senlin Shao*. Using Fe(II)/Fe(VI) activated peracetic acid as pretreatment of ultrafiltration for secondary effluent treatment: water quality improvement and membrane fouling mitigation. Water Res. 2023, 244: 120533. (利用过氧乙酸预氧化来缓解膜污染，生成的乙酸可以作为后续脱氮的碳源)\n[4] Chu Zhou, Xuan Zhou, Fujie Kuang, Na Li, Senlin Shao*. Is the pollutant removed by the rejection of nanofiltration (NF) membranes in a NF-based membrane bioreactor (MBRNF)? Desalination 2025, 596: 118320. (在基于NF的MBR中，NF膜的高截留，可以实现污染物停留时间与水力停留时间的分离，但污染物的去除并不依赖于NF的截留，必须有生物降解、污泥排放等其他的出路)\n[5] Rui Wang#, Huizhi Hu#, Danting Shi, Jinsong Liang, Senlin Shao*. Mechanism of Mn(II) removal by the cake layer containing biogenic manganese oxides in a flow-through mode: Biological or chemical catalysis? Sep. Purif. Technol. 2024, 330, 125214. (Mn(Ⅱ)的去除到底是生物催化氧化还是化学催化氧化?锰氧化细菌可以将Mn(Ⅱ)氧化成有催化活性的BioMnOx，而BioMnOx具备一定的化学催化能力，但是其催化活性逐渐降低，需要生物催化不断补充高活性的BioMnOx)\n[6] Rui Wang, Huizhi Hu, Chu Zhou, Senlin Shao*. Exploring the Growth Pattern and Hydraulic Resistance of BioMnOx Cake Layer under Different Fluxes in Ultrafiltration Processes. ACS ES&T Engg. 2023, 3(11): 1898-1907. (利用膜面滤饼层中的锰氧化细菌和BioMnOx，构建单步除Mn(Ⅱ)的超滤工艺。当过滤速度低于Mn(Ⅱ)的扩散速度时，生成的锰氧化物主要沉积在滤饼层表面，形成疏松滤饼结构，不会明显增加过滤阻力)\n[7] Kai Li, Yao Lu, Chu Zhou, Zizheng Liu, Liang Luo, Aijuan Zhou, Senlin Shao*. Toward one-step As (III) removal in ultrafiltration with in situ BioMnOx cake layer: Mechanism and feasibility insights. Water Res. 2025, 273: 123087. (基于膜表面含活性BioMnOx的滤饼层实现As(III)同步氧化和去除，进水中Mn(Ⅱ)的氧化又可以持续补充BioMnOx，以毒(Mn)攻毒(As)，在UF中实现一步除砷)\n三、高性能膜材料设计策略与实现路径\n[1] Senlin Shao, Juntao Xing, Hongting Wan, Jiajia Lu, Li Long, Ruijun Zhang, Hao Guo, Chuyang Y Tang*. Resolving Hydraulic Resistances in Thin-Film Composite Polyamide Nanofiltration Membranes. Environ. Sci. Technol. 2025. (NF膜的过滤阻力比较高，这个阻力都来自哪里？其分离层的比阻到底是多少？)\n[2] Senlin Shao, Fanxi Zeng, Li Long, Xuewu Zhu, Lu Elfa Peng, Fei Wang, Zhe Yang*, and Chuyang Y. Tang*. Nanofiltration Membranes with Crumpled Polyamide Films: A Critical Review on Mechanisms, Performances, and Environmental Applications. Environ. Sci. Technol. 2022, 56 (18): 12811-12827. (具备褶皱皮层的NF膜的制备方法、分离性能及相关机理)\n[3] Danting Shi, Tengjing Gong, Rui Wang, Weihua Qing, Senlin Shao*. Control the hydrophilic layer thickness of Janus membranes by manipulating membrane wetting in membrane distillation, Water Res. 2023, 237: 119984. (基于对膜润湿过程的调控，提出了一种非常简单的制备Janus膜的新方法)\n[4] Tengjing Gong, Danting Shi, Zhigao Zhu, Bin Liu*, Senlin Shao*. Polyamide Thin-Film Composite Janus Membranes Avoiding Direct Contact between Feed Liquid and Hydrophobic Pores for Excellent Wetting Resistance in Membrane Distillation. ACS ES&T Water, 2022, 3(1): 176-184. (针对疏水膜提出致密薄层复合结构（TFC），该结构将NF和RO的致密分离层复合到多孔疏水膜上，不仅能有效抑制疏水膜的润湿，同时对传质几乎没有影响)\n[5] Kai Li, Xinyue Ma, Wen Xi, Li Long*, Senlin Shao*. Iron acetylacetonate additive improves the water permeance and fluoride/phosphate selectivity of polyamide nanofiltration membrane for phosphorus recovery. J. Membr. Sci. 2025, 735: 124527. (Li/Mg分离做的太多了，能否开发一些新的应用场景？例如P的回收)\n[6] Senlin Shao#*, Yang Liu#; Danting Shi, Weihua Qing, Wenwen Fu, Jiangyun Li, Zheng Fang, Yiqun Chen*. Control of organic and surfactant fouling using dynamic membranes in the separation of oil-in-water emulsions. J. Colloid Interface Sci. 2020, 560: 787-794. (油/水的高效分离需构建微纳亲水结构，在水处理中，常用于动态过滤的硅藻土本来就具备微纳结构)\n四、低维护、短流程膜工艺的开发与应用\n[1] Huizhi Hu, Fang Xu, Rui Wang, Chu Zhou, Na Li, Senlin Shao*. Achieving zero fouling in the ultrafiltration for secondary water supply systems in the absence of residual chlorine. Water Res. 2024, 253: 121281. (基于膜污染层的微生物自生清洁，在二次供水中实现了超滤的零污染长期过滤，为二次供水膜滤工艺的免维护运行提供新思路)\n[2] Na Li, Chu Zhou, Fang Xu, Danting Shi, Fanxi Zeng, Liang Luo, Zheng Fang, Senlin Shao*. Bank Filtration as A Robust Pretreatment of Gravity-Driven Membrane Filtration: Performance Enhancement and Mechanistic Insights. Engineering 2025. (将河岸过滤预处理与重力驱动过滤结合，基于自然的方法实现饮用水的高效、短流程、免药剂净化)\n[3] Danting Shi, Fanxi Zeng, Tengjing Gong, Jiangyun Li, Senlin Shao*. Iron amended gravity-driven membrane (IGDM) system for heavy-metal-containing groundwater treatment. J. Membr. Sci. 2022, 643: 120067612. (通过铁钉在水中锈蚀持续生成铁锈，显著增强重力驱动超滤工艺对重金属的去除，免去其他药剂的人工投加)\n[4] Chu Zhou, Yuanyuan Luo, Keying Xiong, Senlin Shao*. A low-maintenance process for decentralized water purification using nanofiltration operated at ultralow flux. Sep. Purif. Technol.  2023, 327: 124869. (提出低通量运行的浸没式NF膜工艺，并基于污堵层中微生物的自生清洗原理，提出了免维护的一步纳滤饮用水净化工艺)\n[5] Na Li, Yongwang Liu, Hongting Wan, Li Long, Juntao Xing, Senlin Shao*, Gang Liu*, Walter GJ van der Meer Nature-inspired water purification: Integrating riverbank filtration and biofilm-regulating nanofiltration. Water Res. 2025, 285: 124077. (将河岸过滤与生物自清洁NF耦合，提出高效、免药剂、低维护的饮用水膜工艺)\n[6] Chu Zhou, Senlin Shao*#, Keyin Xiong, Chuyang.Y Tang*. Nanofiltration-Based Membrane Bioreactor Operated under an Ultralow Flux: Fouling Behavior and Feasibility toward a Low-Carbon System for Municipal Wastewater Reuse. ACS ES&T Engg. 2023, 3(9): 1267-1275. (通过降低纳滤膜通量构建浸没式MBR工艺，实现污水回用的短流程处理，并强调低通量运行具备潜在的经济和环境效益)\n[7] Chu Zhou, Na Li, Wenbin Guo, Rui Wang, Yaohua Yan, Senlin Shao*. Removing Refractory Organic Substances from Landfill Leachate using a Nanofiltration Membrane Bioreactor: Performance and Mechanisms. Chem. Eng. J. 2024, 484: 149704. (将浸没式纳滤MBR工艺用于垃圾渗滤液膜处理，明确其效能及原理)\n[8] Zhiwei Zhou, Yaohua Yan, Xing Li, Fanxi Zeng, Senlin Shao*. Effect of urea-based chemical cleaning on TrOCs rejection by nanofiltration membranes. Sep. Purif. Technol. 2023, 315: 123662. (提出采用尿素对NF膜清洗可以降低化学清洗对微量有机物截留的影响)\n[9] Senlin Shao, Yue Wang, Danting Shi, Xuezhi Zhang, Chuyang Y. Tang, Zizheng Liu*, Jiangyun Li*. Biofouling in ultrafiltration process for drinking water treatment and its control by chlorinated-water and pure water backwashing. Sci. Total. Environ. 2018, 644: 306-314. (定量了生物污染在饮用水膜工艺中的贡献并提出采用纯水反冲洗的控制思路)\n学生指导\n入学\n姓名\n类别\n工作单位\n论文发表\n获奖情况\n邮箱\n2016\n冯亦静\n专硕\n中信建筑设计研究总院有限公司\nWR 1篇\n国家奖学金\n1229015004@qq.com\n2017\n付文文\n学硕\n武汉市公务员\nWR 1篇\n国家奖学金\nfuwenwen@whu.edu.cn\n2018\n刘洋\n学硕\n香港理工大学（读博）\nJCIS 1篇在投文章1篇\n雷军奖学金\nLiuYang0059@whu.edu.cn\n2018\n史丹汀\n直博\n香港理工大学博后\nES&T 2篇WR 2篇JMS 1篇ES&T water 1篇\n武汉大学学术创新一等奖国家奖学金2次\nshidanting@whu.edu.cn\n2020\n龚腾菁\n学硕\n深圳荔园小学\nES&T water 1篇\nang19990801@gmail.com\n2020\n罗远源\n专硕(少干)\n长沙水业集团\n460002649@qq.com\n2021\n曾凡喜\n学硕\n广州市选调生\nES&T 1篇\n龙湖奖学金武汉大学优秀毕业研究生\n2016301550062@whu.edu.cn\n2021\n周初\n硕博连读\n深圳市公务员\nES&T Engg. 1篇SPT 2篇CEJ 1篇Desalination1篇\n武汉大学学术创新奖二等奖武汉大学国泰君安筑梦强国奖学金第一届城镇水务行业博士生论坛二等奖湖北省给水排水与环境工程论坛一等奖\nzhou_c@whu.edu.cn\n2022\n熊可盈\n学硕\n武汉市公务员\nES&T 1篇\n武汉大学优秀毕业研究生\nxiongkeying@whu.edu.cn\n2022\n卢佳佳\n专硕\n武汉市公务员\n1746483809@qq.com\n2022\n李娜\n考博(少干)\nWR 1篇Engineering 1篇\n646502636@qq.com\n2022\n万泓廷\n直博\nWR 1篇JMS 1篇SPT 1篇\n龙湖奖学金全国研究生环境论坛 一等奖\n2541846466@qq.com\n2023\n罗亮\n专硕(少干)\n2314206266@qq.com\n2023\n朱磊\n直博\n论文撰写2篇\nzhulei202206@163.com\n2024\n米报龙\n考博\nblmi99@163.com\n2024\n邢俊涛\n学硕\n论文撰写1篇\nxingjuntao@whu.edu.cn\n2024\n刘宏亮\n专硕\n论文撰写1篇\n2025\n杨斯格\n直博\n2025\n刘向芳\n考博\n2025\n李浩嘉\n学硕\n2025\n杨青\n学硕\n欢迎有给排水、环境、化学、材料等背景的学生报考硕士、博士研究生，也欢迎本科生加入课题组。我们希望营造一个开放、\n和谐、多产的课题组，以下是课题组的一些规则：\n1. 所有学生均由导师亲自带；考虑到成果分配的争议，避免博士带硕士的情况。\n2. 采用提纲式指导，避免放羊式指导和保姆式指导。\n3. 不强加项目，鼓励大胆提出问题，强调博士期间思维的提升。\n4. 结果导向，只要能做好研究，基本没有出勤要求。\n5. 尽量避免让学生做与科研无关的事情，包括报账、横向课题等。与科研无关的工作有一定的劳务费，发表论文给予一定的\n论文奖励。\n6. 硕士生在完成硕士论文两章节工作之后，剩下的时间自由安排（如假期实习、考选调生）。\n7. 尊重学生的付出，对于完成实验并撰写论文（非导师完全重写）的学生保证署名一作（PS. 本人一作的论文都是我亲自撰写）。\n8. 博士生的论文质与量并举，为学术道路奠定基础。\n9. 为增强博士生的学术视野，鼓励博士生出国参加国际会议1次（课题组报销费用）或CSC出国交流1年。\n10. 为让博士生找到更好的工作，可以提前预答辩，找到满意工作之后再正式答辩毕业，在此期间课题组可提供3000/月的生活补助。\n研究方向\n社会兼职\n暂无内容\n暂无内容\n教育经历\n工作经历\n2010.9-----2016.1\n哈尔滨工业大学\n|\n市政工程\n|\n工学博士学位\n|\n博士|\n导师：李圭白 院士\n2006.9-----2010.6\n武汉大学\n|\n水务工程（给排水科学与工程）\n|\n工学学士学位\n|\n学士|\n毕业论文导师：方正 教授\n2020.12-----至今\n土木建筑工程学院\n|\n武汉大学\n2018.1-----2020.1\n土木工程系\n|\n香港大学\n|\n导师：汤初阳 教授\n2019.2-----2020.11\n土木建筑工程学院\n|\n武汉大学\n2016.2-----2019.2\n土木建筑工程学院\n|\n武汉大学\n|\n导师：李江云 教授\n团队成员\n暂无内容\n返回顶部\n+\n邵森林\n个人信息\n副教授\n博士生导师\n硕士生导师\n教师英文名称：Shao Senlin\n教师拼音名称：Shao Senlin\n电子邮箱：\n所在单位：土木建筑工程学院\n办公地点：土木建筑工程学院（工学部10教）南209\n性别：男\n职称：副教授\n在职信息：在职\n其他联系方式\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

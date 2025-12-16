@@ -1,0 +1,173 @@
+{
+  "id": "xiaguisong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xiaguisong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "夏桂松",
+    "english_name": "Xia Gui-Song",
+    "title": [
+      "教授",
+      "弘毅特聘教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "人工智能学院",
+    "college": "人工智能学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机视觉",
+        "school": "Telecom Paris, Institut Polytechnique de Paris",
+        "period": "2007.9-2011.3",
+        "country": "法国"
+      },
+      {
+        "degree": "硕士",
+        "field": "信号与信息处理",
+        "school": "武汉大学 电子信息学院",
+        "period": "2005.9-2007.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "电子与信息工程",
+        "school": "武汉大学 电子信息学院",
+        "period": "2001.9-2005.5",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "Telecom Paris, Institut Polytechnique de Paris",
+    "academic_honors": [
+      "国家杰出青年科学基金获得者",
+      "国家优秀青年基金获得者",
+      "湖北省自然科学奖一等奖",
+      "中国测绘科技进步奖一等奖",
+      "中国图象图形学会优秀博士论文指导教师",
+      "IEEE GRSS High Impact Paper Award",
+      "科睿唯安全球高被引学者",
+      "Elsevier中国高被引科学家",
+      "CVPR Best Paper Finalist",
+      "湖北省自然科学奖二等奖",
+      "湖北省自然科学基金杰出青年基金获得者"
+    ],
+    "academic_services": [
+      "IEEE Wuhan Section, 副主席",
+      "中国图象图形学学会遥感图像专业委员会副主任",
+      "IEEE Signal Processing Society - Wuhan Chapter, 副主席"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "计算机视觉",
+      "机器学习",
+      "智能无人系统",
+      "遥感智能信息处理"
+    ],
+    "research_interests": [
+      "计算机视觉",
+      "机器学习",
+      "智能无人系统",
+      "遥感信息处理",
+      "多媒体软件工程",
+      "智能系统应用"
+    ],
+    "research_description": "夏桂松教授长期从事计算机视觉、机器学习、智能无人系统、遥感智能信息处理等领域的研究，主持国家自然科学基金杰青、优青、联合重点、重大研究计划、重点研发课题等纵向项目20余项，研究成果发表于国际顶级期刊和会议，谷歌学术引用超过3万次，并在国家重要工程和实际业务场景中成功应用。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能",
+      "遥感科学与技术",
+      "信息与通信工程"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "机器学习",
+      "智能系统",
+      "遥感图像处理",
+      "无人系统",
+      "高被引学者",
+      "国家杰青",
+      "多媒体软件工程"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 150,
+    "representative_publications": [
+      {
+        "title": "CVPR Best Paper Finalist (32/1660)",
+        "keywords": [
+          "计算机视觉",
+          "机器学习",
+          "智能无人系统",
+          "遥感智能信息处理"
+        ],
+        "journal_name": "CVPR",
+        "research_fields": [
+          "计算机视觉",
+          "机器学习",
+          "智能无人系统",
+          "遥感智能信息处理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "IEEE GRSS High Impact Paper Award",
+        "keywords": [
+          "遥感图像处理",
+          "智能信息处理",
+          "机器学习",
+          "计算机视觉"
+        ],
+        "journal_name": "IEEE GRSS",
+        "research_fields": [
+          "遥感智能信息处理",
+          "机器学习",
+          "计算机视觉"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xiaguisong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金杰出青年基金",
+      "国家自然科学基金优秀青年基金",
+      "国家自然科学基金联合重点",
+      "国家自然科学基金重大研究计划",
+      "国家自然科学基金重点项目",
+      "国家重点研发计划课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家重点研发计划"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 夏桂松\n页面链接: http://jszy.whu.edu.cn/xiaguisong/zh_CN/index.htm\n==================================================\n武汉大学 夏桂松--中文主页--首页\n教师个人主页\n夏桂松\n个人信息\n教师英文名称：Xia Gui-Song\n教师拼音名称：Xia Gui Song\n电子邮箱：\n所在单位：人工智能学院\n性别：男\n毕业院校：Telecom Paris，Institut Polytechnique de Paris\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n夏桂松，武汉大学二级教授、弘毅特聘教授，国家杰出青年基金获得者，现任武汉大学人工智能学院副院长（主持工作）、国家多媒体软件工程技术研究中心副主任。长期从事计算机视觉、机器学习、智能无人系统、遥感智能信息处理等研究，主持国家自然科学基金杰青、优青、联合重点、重大研究计划、重点研发课题等纵向研究项目20余项，系列成果发表业内Top期刊/会议论文150余篇，谷歌学术引用3万余次，并在国家重要工程和相关业务场景中成功应用。获得湖北省自然科学一等奖1项、中国测绘科技进步一等奖3项、IEEE GRSS最有...\n教育经历\n更多>>\n2007.9-2011.3\n法国巴黎高等电信学院 (TELECOM Paris)  | 计算机视觉  | 博士 | 博士研究生毕业\n2005.9-2007.6\n武汉大学 电子信息学院  | 信号与信息处理  | 硕士 | 硕士研究生毕业\n2001.9-2005.5\n武汉大学 电子信息学院  | 电子与信息工程  | 学士 | 大学本科毕业\n工作经历\n更多>>\n2024.12-至今\n人工智能学院 | 武汉大学\n| 弘毅特聘教授、副院长（主持工作）\n2020.12-至今\n国家多媒体工程技术研究中心 | 武汉大学\n| 副主任  | 教授\n2024.1-至今\n武汉数学与智能研究院  | 双聘\n| 长聘正教授\n社会兼职\n更多>>\n2022.5-至今\nIEEE Wuhan Section, 副主席\n2022.2-至今\n中国图象图形学学会遥感图像专业委员会副主任\n2020.4-至今\nIEEE Signal Processing Society - Wuhan Chapter, 副主席\n研究方向\n计算机视觉、机器学习、智能无人系统、遥感智能信息处理\n学术荣誉\n2019    国家优秀青年基金获得者\n2023    国家杰出青年科学基金获得者\n曾获荣誉\n湖北省自然科学奖一等奖，2024\n中国测绘科技进步奖一等奖，2021，2023， 2023\n中国图象图形学会优秀博士论文指导教师， 2022\nIEEE GRSS High Impact Paper Award，2022\n科睿唯安全球高被引学者，2022-\nElsevier中国高被引科学家，2021-\nCVPR Best Paper Finalist (32/1660)，2021\n湖北省自然科学奖二等奖，2018\n湖北省自然科学基金杰出青年基金获得者, 2017\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

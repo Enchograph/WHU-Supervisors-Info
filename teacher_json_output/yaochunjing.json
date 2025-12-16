@@ -1,0 +1,111 @@
+{
+  "id": "yaochunjing",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yaochunjing/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "姚春静",
+    "english_name": "Yao Chunjing",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2007.9-2010.5",
+        "country": "中国"
+      },
+      {
+        "degree": "访问学者",
+        "field": "摄影测量与遥感",
+        "school": "荷兰特温特大学",
+        "period": "2017.6-2018.5",
+        "country": "荷兰"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2016 地理信息产业协会二等奖",
+      "2014 湖北省科学进步一等奖",
+      "2021 中国测绘协会一等奖"
+    ],
+    "academic_services": [
+      "教育部空天信息智能服务集成攻关大平台团队成员",
+      "中国岩石力学与工程学会自然灾害与生态环境航空遥感技术专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "机载LiDAR数据处理与应用",
+      "遥感图像模式识别",
+      "多源遥感图像配准"
+    ],
+    "research_interests": [
+      "摄影测量与遥感",
+      "激光雷达分类",
+      "遥感数据处理",
+      "图像配准",
+      "软件研发"
+    ],
+    "research_description": "姚春静副教授主要从事摄影测量与遥感领域的理论研究、软件研发和应用研究，尤其在机载LiDAR数据处理与应用、遥感图像模式识别、多源遥感图像配准等方面具有丰富的研究与开发经验。作为核心成员参与国家863项目‘通用遥感数据处理平台’的开发，主持国家自然科学基金项目‘基于多分类器的激光雷达分类研究’，在遥感数据智能处理与应用方面取得多项成果。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "遥感信息工程",
+      "地理信息系统"
+    ],
+    "field_tags": [
+      "LiDAR数据处理",
+      "遥感图像识别",
+      "多源图像配准",
+      "遥感软件开发",
+      "智能遥感服务"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yaochunjing/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "863计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家863计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 姚春静\n页面链接: http://jszy.whu.edu.cn/yaochunjing/zh_CN/index.htm\n==================================================\n武汉大学 姚春静--中文主页--首页\n教师个人主页\n姚春静\n个人信息\n教师拼音名称：Yao Chunjing\n电子邮箱：\n入职时间：2012-09-01\n所在单位：遥感信息工程学院\n职务：副教授\n学历：研究生毕业\n性别：女\n职称：副教授\n在职信息：在职\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n姚春静，女，1981.04月生，武汉大学遥感学院副教授，硕士生导师。2010年从武汉大学遥感信息工程学院获摄影测量与遥感工学博士学位，2010～2012在武汉大学资源与环境科学学院做博士后。 主要从事摄影测量与遥感领域中的理论研究、软件研发和应用研究，在机载LiDAR数据处理与应用、遥感图像模式识别、多源遥感图像配准等方面有比较丰富的理论研究和软件开发经验。作为核心人员，参加十一五国家863项目“通用遥感数据处理平台”的开发工作。主持自然基金“基于多分类器的激光雷达分类研究”，参与完成了十一五863目标...\n教育经历\n2017.6-2018.5\n荷兰特温特大学  | 摄影测量与遥感  | 访问学者\n2007.9-2010.5\n武汉大学  | 摄影测量与遥感  | 工学博士学位\n工作经历\n2012.9-至今\n武汉大学遥感信息工程学院\n| 副教授\n2010.7-2012.9\n武汉大学资源与环境科学学院\n| 博士后\n社会兼职\n教育部空天信息智能服务集成攻关大平台团队成员\n2023.1-至今\n中国岩石力学与工程学会自然灾害与生态环境航空遥感技术专业委员会委员\n研究方向\n摄影测量与遥感领域中的理论研究、软件研发和应用研究，机载LiDAR数据处理与应用、遥感图像模式识别、多源遥感图像配准等方面有比较丰富的理论研究和软件开发经验。\n曾获荣誉\n2016    地理信息产业协会二等奖\n2014    湖北省科学进步一等奖\n2021    中国测绘协会一等奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

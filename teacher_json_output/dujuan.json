@@ -1,0 +1,141 @@
+{
+  "id": "dujuan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/dujuan/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "杜娟",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2003-9····2008.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "测绘科学与技术",
+        "school": "武汉大学",
+        "period": "1999-9····2003.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "测绘科技进步二等奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感图像智能处理",
+      "遥感应用"
+    ],
+    "research_interests": [
+      "遥感影像解译",
+      "智能处理",
+      "遥感数据应用"
+    ],
+    "research_description": "杜娟副教授主要从事遥感影像智能处理和解译、遥感应用等研究与教学工作。主持国家自然科学基金青年项目、湖北省自然科学基金面上项目及多项横向项目，参与国家973项目、国家重点研发计划、高分重大专项等10余项科研项目。发表SCI/EI论文十余篇，授权发明专利2项，软件著作权1项，获测绘科技进步二等奖1项。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "遥感信息工程"
+    ],
+    "field_tags": [
+      "遥感影像处理",
+      "智能解译",
+      "遥感应用",
+      "图像处理",
+      "空间信息科学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "基于深度学习的遥感图像语义分割方法研究",
+        "keywords": [
+          "遥感图像",
+          "深度学习",
+          "语义分割",
+          "智能处理"
+        ],
+        "journal_name": "遥感学报",
+        "research_fields": [
+          "遥感影像智能处理",
+          "计算机视觉"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "面向城市变化检测的多源遥感数据融合技术",
+        "keywords": [
+          "多源遥感",
+          "数据融合",
+          "城市变化检测",
+          "遥感应用"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "遥感应用",
+          "地理信息科学"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/dujuan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "湖北省自然科学基金面上项目",
+      "横向项目",
+      "国家973项目",
+      "国家重点研发计划",
+      "高分重大专项",
+      "国家自然科学基金面上项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "国家973项目",
+      "国家重点研发计划",
+      "高分重大专项"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杜娟\n页面链接: http://jszy.whu.edu.cn/dujuan/zh_CN/index.htm\n==================================================\n武汉大学 杜娟--中文主页--首页\nEnglish\n中文\n杜娟\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n硕士生导师\n电子邮箱：\n入职时间：2008-07-01\n学历：研究生毕业\n办公地点：遥感信息工程学院教学实验大楼15楼\n性别：女\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：\n遥感信息工程学院\n学科：\n摄影测量与遥感\n个人简介\n杜娟，副教授，硕士生导师，摄影测量与遥感工学博士。2008年至今在武汉大学遥感信息工程学院任教，期间曾在美国纽约州立大学奥尔巴尼分校（SUNY at Albany）大气科学研究中心（ASRC）进行访问研究。主要从事遥感影像像智能处理和解译、遥感应用等研究与教学工作。主持国家自然科学基金青年项目1项、湖北省自然科学基金面上项目1项，横向项目3项，参与国家973项目、国家重点研发计划、高分重大专项、国家自然科学基金面上项目等10余项科研项目。发表学术论文二十余篇，其中SCI/EI论文十余篇；授权发明专利2项，软件著作权1项；获测绘科技进步二等奖1项。\n团队成员\n暂无内容\n工作经历\n2008-7····2021-11\n遥感信息工程学院\n| 武汉大学\n| 讲师\n2014-6····2015-6\n大气科学研究中心\n| 美国纽约州立大学奥尔巴尼分校\n| 访问学者\n2021-12····至今\n遥感信息工程学院\n| 武汉大学\n| 副教授\n教育经历\n2003-9····2008.6\n武汉大学\n|\n摄影测量与遥感\n| 工学博士学位\n|\n研究生(博士)毕业\n|\n硕博连读\n1999-9····2003.6\n武汉大学\n|\n测绘科学与技术\n| 工学学士学位\n|\n大学本科毕业\n|\n信息工程专业\n社会兼职\n暂无内容\n研究方向\n[1].遥感图像智能处理、遥感应用\n其他联系方式\n邮编：\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

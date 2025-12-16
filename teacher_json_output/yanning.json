@@ -1,0 +1,198 @@
+{
+  "id": "yanning",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yanning/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "晏宁",
+    "english_name": "Yan Ning",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "材料物理系",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "材料科学与工程",
+        "school": "华中科技大学",
+        "period": "2005.09-2009.07",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "材料工程",
+        "school": "加拿大阿尔伯塔大学",
+        "period": "2009.09-2013.12",
+        "country": "加拿大"
+      }
+    ],
+    "graduation_school": "加拿大阿尔伯塔大学",
+    "academic_honors": [
+      "2021年获得德国新能源头部企业Aquila Capital年度唯一的Transformation Award"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "电化学原位谱学",
+      "电化学反应器材料与工程"
+    ],
+    "research_interests": [
+      "电化学反应机理",
+      "表面增强红外光谱",
+      "微分电化学质谱",
+      "碱性电解水",
+      "氢气与氧气制备",
+      "电化学合成",
+      "单原子催化剂",
+      "碳腐蚀抑制",
+      "CO2电解",
+      "甲烷干重整"
+    ],
+    "research_description": "晏宁教授主要从事电化学原位谱学解析材料动态衍变与电化学反应机理，以及电化学反应器材料与工程的研究。团队聚焦于利用表面增强红外、微分电化学质谱等先进表征技术揭示催化过程中的动态变化，开发高效、稳定的电催化剂与电解系统，特别是在碱性电解水制氢、CO2电解、甲烷干重整等能源转化与存储领域取得重要进展。已开发出百瓦级无隔膜碱性电解槽，实现高效氢气与氧气制备，并在Nat. Commun.、Chem. Soc. Rev.、ACS Catal.等顶级期刊发表多篇论文。",
+    "disciplines": [
+      "材料物理",
+      "电化学",
+      "能源材料",
+      "催化科学"
+    ],
+    "field_tags": [
+      "电化学原位表征",
+      "水电解",
+      "催化剂设计",
+      "清洁能源",
+      "可持续能源",
+      "单原子催化",
+      "反应机理研究",
+      "电化学工程"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 90,
+    "representative_publications": [
+      {
+        "title": "Bottom-up synthesis of platinum dual-atom catalysts on cerium oxide",
+        "keywords": [
+          "铂双原子催化剂",
+          "铈氧化物",
+          "合成",
+          "催化"
+        ],
+        "journal_name": "ACS Catalysis",
+        "research_fields": [
+          "电催化",
+          "材料化学",
+          "催化剂设计"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Recent development and applications of differential electrochemical mass spectrometry in emerging energy conversion and storage solutions",
+        "keywords": [
+          "差分电化学质谱",
+          "能量转换",
+          "储能",
+          "电化学分析"
+        ],
+        "journal_name": "Chemical Society Reviews",
+        "research_fields": [
+          "电化学原位表征",
+          "能源材料",
+          "反应机理研究"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Integrating hydrogen utilization in CO2 electrolysis with reduced energy loss",
+        "keywords": [
+          "CO2电解",
+          "氢气利用",
+          "能量损失",
+          "电化学反应"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "电化学合成",
+          "碳中和能源",
+          "电解水"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Non-covalent grafting of molecular complexes to solid supports by counterion confinement",
+        "keywords": [
+          "非共价接枝",
+          "抗衡离子约束",
+          "分子复合物",
+          "固体载体"
+        ],
+        "journal_name": "The Journal of Physical Chemistry C",
+        "research_fields": [
+          "表面化学",
+          "分子组装",
+          "催化材料"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Tailoring secondary coordination sphere effects in single-metal-site catalysts by surface immobilization of supramolecular cages",
+        "keywords": [
+          "单金属位点催化剂",
+          "次级配位球",
+          "超分子笼",
+          "表面固定"
+        ],
+        "journal_name": "Chemistry - A European Journal",
+        "research_fields": [
+          "催化机理",
+          "配位化学",
+          "功能材料"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学物理科学与技术学院官网",
+        "url": "http://jszy.whu.edu.cn/yanning/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家人才计划青年项目",
+      "欧盟地平线2020项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家人才计划",
+      "欧盟地平线2020"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 晏宁\n页面链接: http://jszy.whu.edu.cn/yanning/zh_CN/index.htm\n==================================================\n武汉大学 晏宁--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n晏宁，武汉大学物理科学与技术学院教授、博士生导师，材料物理系主任。本科毕业于华中科技大学材料学院，2013年于加拿大阿尔伯塔大学获得博士学位，2014年加入荷兰阿姆斯特丹大学担任助理教授并获终身教职(QS全球前50学校）。近五年主持国家人才计划青年项目、国家自然科学基金面上、欧盟地平线2020等省部级项目。发表SCI论文近百篇，出版图书章节2本。团队近三年作为唯一通讯作者已在包括Nat. Commun.（2篇）, Chem. Soc. Rev. , ACS. Catal. , Chem. Mater.等SCI期刊发表文章超过20篇。同时开发出百瓦级无隔膜碱性电解槽用于氢气、氧气制备与电化学合成。2021年获得德国新能源头部企业Aquila Capital 年度唯一的Transformation Award。主要研究领域为主要研究领域为（1）电化学原位谱学解析材料动态衍变与电化学反应机理（如利用表面增强红外，微分电化学质谱）；(2)电化学反应器材料与工程。\n常年招收硕士和博士，也欢迎有强烈研究兴趣的本科生加入团队。我们与荷兰阿姆斯特丹大学，加拿大阿尔伯塔大学（世界排名均前100）实质合作密切。鼓励小组成员赴海外学习交流，优秀本科和硕士可推荐免试成为这些世界一流高校博士生（如有vacancy）；鼓励优秀博士或硕博连读生申请CSC资助赴海外高校完成部分博士学习（通常一到两年）。\n联系方式：ning.yan@whu.edu.cn\n招生要求：态度决定一切，希望你有端正的工作和科研态度。\n学习经历\n2005.09-2009.07，华中科技大学 材料科学与工程 工学学士\n2009.09-2013.12，加拿大阿尔伯塔大学 材料与化学工程系 材料工程博士\n期间2012.10-2012.12 美国宾夕法尼亚大学 （UPenn）   访问学者\n2013.02-2013.03 法国巴黎国立高等化学学校（Chimie ParisTech）访问学者\n近期研究成果\n[1]   M. J. Mekkering, P. C. M. Laan, A. Troglia, R. Bliem, A. C. Kizilkaya, G. Rothenberg, N. Yan*, “Bottom-up synthesis of platinum dual-atom catalysts on cerium oxide”, ACS Catal., 2024, 14, 9850-9859.\n[2]   K. Zhao, X. Jiang, X. Wu, H. Feng, X. Wang, Y. Wan, Z. Wang, N. Yan*, “Recent development and applications of differential electrochemical mass spectrometry in emerging energy conversion and storage solutions”, Chem. Soc. Rev., 2024, 53, 6917-6959.\n[3]   X. Jiang, L. Ke, K. Zhao, X. Yan, H. Wang, X. Cao, Y. Liu, L. Li, Y. Sun, Z. Wang, D. Dang, N. Yan*, “Integrating hydrogen utilization in CO2 electrolysis with reduced energy loss” Nat. Commun., 2024, 15, 1427.\n[4]   P. C. M. Laan, E. O. Bobylev, N. J. Geels, G. Rothenberg, J. N. H. Reek, N. Yan*, “Non-covalent grafting of molecular complexes to solid supports by counterion confinement”, J. Phys. Chem. C, 2023, 127, 24129–24136.\n[5]   P. C. M. Laan, E. O. Bobylev, F. J. de Zwart, J. A. Vleer, A. Troglia, R. Bliem, G. Rothenberg, J. N. H. Reek, N. Yan*, “Tailoring secondary coordination sphere effects in single-metal-site catalysts by surface immobilization of supramolecular cages”, Chem. Eur. J., 2023, 29, e202301901.\n[6]   J. Biemolt, E. J. Meeus, F. J. de Zwart, J. de Graaf, P. C. M. Laan, B. de Bruin, T. Burdyny, G. Rothenberg, N. Yan*, “Creating conjugated C-C bonds between commercial carbon electrode and molecular catalyst for oxygen reduction to hydrogen peroxide”, ChemSusChem, 2023, 16, e202300841.\n[7]   X. Wu, K. Zhao, X. Yan, X. Cao, L. Ke, Y. Zhao, L.J. Li, X. Jiang, N. Yan*, “Suppressing the carbon corrosion via mechanically mixing transition metal phosphide clusters: a comparative in-situ study in alkaline media”, J. Mater. Chem. A, 2023, 11, 17237–17245.\n[8]   P. C. M. Laan, F. J. de Zwart, E. M. Wilson, A. Troglia, O. C. M. Lugier, N. J. Geels, R. Bliem, J. N. H. Reek, B. de Bruin, G. Rothenberg, N. Yan* “Understanding the oxidative properties of nickel oxyhydroxide in alcohol oxidation reactions” ACS Catal., 2023, 13, 8467−8476.\n[9]   M. J. Mekkering, J. Biemolt, J. de Graaf, Y.-A. Lin, N. P. van Leest, A. Troglia, R. Bliem, B. de Bruin, G. Rothenberg, N. Yan*, “Dry reforming of methane over single-atom Rh/Al2O3 catalysts prepared by exsolution”, Catal. Sci. Technol., 2023, 13, 2255-2260.\n[10] K. Zhao, S. Han, L. Ke, X. Wu, X. Yan, X. Cao, L. Li, X. Jiang, Z.P. Wang, H.J. Liu, N. Yan*, “Operando studies of electrochemical denitrogenation and its mitigation of N-doped carbon catalyst in alkaline media”, ACS Catal., 2023, 13, 2813–2821.\n[11] L.J. Li, P. C. M. Laan, X. Yan, X. Cao, M. Mekkering, K. Zhao, L. Ke, X. Jiang, X. Wu, L. Li, L.J. Xue, Z.P. Wang, G. Rothenberg, N. Yan*, “High-rate alkaline water electrolysis at industrially -relevant conditions enabled by superaerophobic electrode assembly”, Adv. Sci., 2023, 10, 2206180.\n[12] X. Cao, L. Ke, K. Zhao, X. Yan, X. Wu, N. Yan*, “Surface decomposition of doped PrBaMn2O5+δ induced by in-situ nanoparticle exsolution: quantitative characterization and catalytic effect in methane dry reforming reaction”, Chem. Mater., 2022, 34, 10484–10494.\n[13] L. Ke, K. Zhao, X. Yan, X. Cao, X. Wu, C. Zhang, T. Luo, T. Ding, N. Yan*, “Facile mineralization and valorization of Cr-containing leather shavings for electrocatalytic H2O2 generation and organic pollutant removal”, Chem. Eng. J., 2022, 437, 135036.\n[14] X. Yan, J. Biemolt, K. Zhao, Y. Zhao, X. Cao, Y. Yang, X. Wu, G. Rothenberg, N. Yan*, “A membrane-free flow electrolyzer operating at high current density using earth-abundant catalysts for water splitting”, Nat. Commun., 2021, 12, 4143.\n[15] K. Zhao, X. Yan, L. Ke, X. Cao, X. Wu, Y. Zhao, N. Yan*, “Enabling the life-cycle consideration and approach for the design of efficient water splitting catalyst via engineering amorphous precursor, Appl. Catal., B., 2021, 296, 120335.\n研究方向\n社会兼职\n暂无内容\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n晏宁\n职务：教授主要任职：\n个人信息\n教授\n博士生导师\n硕士生导师\n教师拼音名称：Yan Ning\n电子邮箱：\n所在单位：物理科学与技术学院\n职务：教授\n学历：博士研究生毕业\n办公地点：D201\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：加拿大阿尔伯塔大学\n其他联系方式\n邮编:\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

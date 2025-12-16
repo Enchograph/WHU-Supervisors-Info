@@ -1,0 +1,125 @@
+{
+  "id": "linyutian",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/linyutian/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "林雨恬",
+    "english_name": "Lin Yutian",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机科学与技术",
+        "school": "悉尼科技大学",
+        "period": "2016.9-----2019.10",
+        "country": "澳大利亚"
+      },
+      {
+        "degree": "学士",
+        "field": "计算机科学与技术",
+        "school": "浙江大学",
+        "period": "2012.9-----2016.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "悉尼科技大学",
+    "academic_honors": [
+      "ECCV2024领域主席",
+      "ACM MM2024领域主席"
+    ],
+    "academic_services": [
+      "ECCV2024领域主席",
+      "ACM MM2024领域主席"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "计算机视觉",
+      "多模态感知",
+      "自动驾驶与交通场景预测推理",
+      "AI for Science"
+    ],
+    "research_interests": [
+      "计算机视觉",
+      "多模态感知",
+      "交通场景感知与推理",
+      "AI for Science"
+    ],
+    "research_description": "林雨恬副教授的研究聚焦于计算机视觉与多模态感知，涵盖自动驾驶中的交通场景预测与推理任务，以及人工智能在科学领域的应用（AI for Science）。其研究在CVPR、NeurIPS、IEEE TIP等顶级会议和期刊发表论文20余篇，谷歌学术引用超过3000次，具有广泛学术影响力。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "多模态感知",
+      "自动驾驶",
+      "交通场景分析",
+      "AI for Science",
+      "深度学习",
+      "智能感知"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "论文成果",
+        "keywords": [
+          "计算机视觉",
+          "多模态感知",
+          "自动驾驶",
+          "交通场景预测",
+          "AI for Science"
+        ],
+        "journal_name": "CVPR, NeurIPS, IEEE TIP",
+        "research_fields": [
+          "计算机视觉",
+          "多模态感知",
+          "人工智能",
+          "自动驾驶"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=gB6Xq5IAAAAJ&hl=en"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 林雨恬\n页面链接: http://jszy.whu.edu.cn/linyutian/zh_CN/index.htm\n==================================================\n武汉大学 林雨恬--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n林雨恬，武汉大学计算机学院副教授。在浙江大学获得本科（2016)学位，在悉尼科技大学获得博士学位（2019），2018年和2019年先后在卡内基梅隆大学、德克萨斯州立大学进行研究工作。研究兴趣为计算机视觉、多模态感知等。在人工智能相关领域的顶级期刊和会议CVPR、NeurIPS、IEEE TIP等发表论文20余篇。目前，谷歌学术引用 3000余次，获得相关领域学者广泛关注。担任ECCV2024、ACM MM2024的领域主席（Area Chair）。\n谷歌学术主页：https://scholar.google.com/citations?user=gB6Xq5IAAAAJ&hl=en\n招收26级学博1名、专博1名，欢迎硕士阶段发表过1篇高水平论文的同学邮件联系（yutian.lin@whu.edu.cn）\n博士研究方向（包括但不限于）：\n1. 计算机视觉与多模态感知相关任务\n2. 自动驾驶与交通场景预测推理相关任务\n3. AI for Science\n研究方向\n社会兼职\n计算机视觉、多模态感知、交通场景感知与推理、AI for Science\n暂无内容\n教育经历\n工作经历\n2016.9-----2019.10\n悉尼科技大学\n|\n计算机科学与技术\n|\n工学博士学位\n|\n博士\n2012.9-----2016.7\n浙江大学\n|\n计算机科学与技术\n|\n本科(学士)\n|\n学士\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n林雨恬\n职务：副教授主要任职：\n同专业硕导>>\n同专业博导>>\n个人信息\n副教授\n博士生导师\n硕士生导师\n教师拼音名称：Lin Yutian\n出生日期：1993-12-08\n电子邮箱：\n入职时间：2020-06-01\n所在单位：计算机学院\n职务：副教授\n学历：博士研究生毕业\n办公地点：计算机学院D506\n性别：女\n联系方式：邮箱：yutian.lin@whu.edu.cn\n职称：副教授\n在职信息：在职\n毕业院校：悉尼科技大学\n学科：计算机应用技术\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

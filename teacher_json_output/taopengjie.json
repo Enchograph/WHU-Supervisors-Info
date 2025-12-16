@@ -1,0 +1,199 @@
+{
+  "id": "taopengjie",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/taopengjie/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陶鹏杰",
+    "english_name": "Tao Pengjie",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "摄影测量系",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2004-9 至 2008.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2011-9 至 2016.12",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "教育部科技进步一等奖（个人排3）",
+      "地理信息科技进步奖一等奖",
+      "华夏建设科学技术奖二等奖",
+      "中国科协青年人才托举工程博士生专项计划"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "航空航天影像精确几何定位",
+      "多模态影像匹配",
+      "影像三维重建",
+      "无人机贴近摄影测量"
+    ],
+    "research_interests": [
+      "传感器几何定标",
+      "多源卫星影像精处理",
+      "激光点云处理",
+      "高精度三维重建",
+      "智能影像匹配",
+      "无人机航迹规划",
+      "形变监测",
+      "云控制摄影测量"
+    ],
+    "research_description": "陶鹏杰副教授主要从事航空航天摄影测量研究，聚焦于传感器几何定标、多源卫星影像精处理、多模态影像匹配、三维重建、激光点云处理及无人机贴近摄影测量等方向。主持国家重点研发计划、国家自然科学基金等30余项科研项目，发表论文60余篇，出版专著3部，获多项省部级科技奖励。研究注重理论创新与工程应用结合，涵盖从影像几何定位到智能三维建模的全链条技术体系。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "遥感信息工程"
+    ],
+    "field_tags": [
+      "航空航天摄影测量",
+      "多模态影像匹配",
+      "三维重建",
+      "无人机摄影测量",
+      "激光点云处理",
+      "几何定标",
+      "智能遥感",
+      "形变监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Optimal Selection from Extremely Redundant Satellite Images for Efficient Large-Scale Mapping",
+        "keywords": [
+          "卫星影像",
+          "大规模制图",
+          "冗余影像选择",
+          "高效映射"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "摄影测量",
+          "遥感影像处理",
+          "空间信息科学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Highly adaptive multi-modal image matching based on tuning-free filtering and enhanced sketch features",
+        "keywords": [
+          "多模态影像匹配",
+          "自适应匹配",
+          "无调参滤波",
+          "特征增强"
+        ],
+        "journal_name": "Information Fusion",
+        "research_fields": [
+          "影像匹配",
+          "人工智能",
+          "遥感图像处理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "End-to-end multiview fusion for building mapping from aerial images",
+        "keywords": [
+          "航空影像",
+          "建筑物制图",
+          "端到端融合",
+          "多视图重建"
+        ],
+        "journal_name": "Information Fusion",
+        "research_fields": [
+          "三维重建",
+          "摄影测量",
+          "智能遥感"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Refining multi-modal remote sensing image matching with repetitive feature optimization",
+        "keywords": [
+          "多模态影像匹配",
+          "重复特征优化",
+          "遥感图像匹配",
+          "特征提取"
+        ],
+        "journal_name": "International Journal of Applied Earth Observation and Geoinformation",
+        "research_fields": [
+          "遥感影像处理",
+          "图像匹配",
+          "智能感知"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "From control points to control patches",
+        "keywords": [
+          "控制点",
+          "控制片",
+          "摄影测量",
+          "大数据时代"
+        ],
+        "journal_name": "武汉大学学报（信息科学版）",
+        "research_fields": [
+          "摄影测量学",
+          "控制点优化",
+          "遥感数据处理"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/taopengjie/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "高分对地专项"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "高分对地专项"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陶鹏杰\n页面链接: http://jszy.whu.edu.cn/taopengjie/zh_CN/index.htm\n==================================================\n武汉大学 陶鹏杰--中文主页--首页\nEnglish\n中文\n陶鹏杰\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Tao Pengjie\n电子邮箱：\n入职时间：2019-04-01\n职务：摄影测量系副主任\n学历：博士研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：\n遥感信息工程学院\n学科：\n摄影测量与遥感\n个人简介\n陶鹏杰，工学博士，副教授、博士生导师，摄影测量系副主任。主要从事航空航天摄影测量的研究工作，包括传感器几何定标、多源卫星影像精处理、多模态影像匹配、三维重建、激光点云处理、无人机贴近摄影测量等。主持国家重点研发计划课题/子课题、国家自然科学青年基金、高分对地专项等30余项科研项目，发表论文60余篇；出版学术专著3部，参编《摄影测量学》（第三版）教材；获教育部科技进步一等奖（个人排3）、地理信息科技进步奖一等奖、华夏建设科学技术奖二等奖荣誉。\n指导学生获得“挑战杯”揭榜挂帅专项赛全国特等奖、中国创新挑战赛暨中关村第六届新兴领域专题赛优胜奖、“天智杯”人工智能挑战赛第三名、全国大学生测绘学科创新创业智能大赛——科技论文竞赛特等奖等荣誉。\n近期动态：\n2025年\n2025年8月，指导本科生傅嘉滢、徐明星论文获2025年全国大学生测绘学科创新创业智能大赛——科技论文竞赛二等奖。\n2025年6月，指导本科生朱厚霖毕业论文《基于三维高斯泼溅的手机视频人体头部表面重建》被评为武汉大学2025届优秀本科毕业论文。\n2025年4月，课题组陶鹏杰副教授获批国家重点研发计划课题1项。\n2025年1月，博士生廖逸凡入选2024年度中国科协青年人才托举工程博士生专项计划。\n2024年\n2024年12月，硕士生李志颖荣获2024年硕士研究生国家奖学金。\n2024年9月，博士生刘帅荣获第二届全国海岸带大会暨智能海岸论坛“大会优秀学生报告”奖。\n2024年9月，博士生廖逸凡等同学论文“Refining multi-modal remote sensing image matching with repetitive feature optimization”被International Journal of Applied Earth Observation and Geoinformation录用。\n2024年9月，博士生刘帅论文“ANN-Based Filtering of Drone LiDAR in Coastal Salt Marshes Using Spatial-Spectral Features”被Remote Sensing录用。\n2024年8月，与孟庆祥、李彦胜等老师共同指导本科生大创项目“遥智云安-遥感智能应急协同监测领航者”获中国国际大学生创新大赛（2024）湖北省银奖。\n2024年7月，指导本科生程明星（大三）、张依尧、史旭磊论文获2024年全国大学生测绘学科创新创业智能大赛——科技论文竞赛特等奖。\n2024年7月，博士生廖逸凡论文“Highly adaptive multi-modal image matching based on tuning-free filtering and enhanced sketch features”被Information Fusion录用。\n2024年7月，博士生席可论文“Three-Dimensional Deformation Estimation from Multi-temporal Real-scene Models for Landslide Monitoring”被Remote Sensing录用。\n2024年7月，硕士生李志颖（研二）论文“A Simple Adaptive DEM Void Filling Method Based on Raster Distance Transform”被IEEE GRSL录用。\n2024年6月，航空影像建筑物制图的端到端多视融合方法文章“End-to-end multiview fusion for building mapping from aerial images”在国际知名期刊Information Fusion上发表。\n2024年5月，参加国际摄影测量与遥感学会第一技术委员会“智能传感及遥感应用”专题研讨会（ISPRS TC I Symposium on Intelligent Sensing and Remote Sensing Application），被接受4篇oral论文、2篇poster论文。其中张浩和秦威论文“On-Orbit Geometric Calibration of the HJ-2 A/B Satellites' Infrared Sensors”获Best Paper Award。（长沙）\n2024年4月，受邀参加全国地质灾害防治新技术新方法新设备成果交流会，并作报告。（昆明）\n2023年\n2023年11月，与张祖勋院士合著文章“从控制点到控制片”在武汉大学学报（信息科学版）之武汉大学130周年校庆专辑发表\n2023年10月，受邀参加CHINA ROCK 2023 第二十次中国岩石力学与工程学术年会，并在滑坡与工程边坡分会场作特邀报告《高陡危崖边坡测量与动态监测的无人机贴近摄影测量技术研究》（北京）\n2023年10月，与孟小亮老师共同指导学生获第十八届“挑战杯”揭榜挂帅专项赛全国特等奖\n2023年09月，学术专著《摄影测量三维重建》在科学出版社出版\n2023年09月，参与项目“高效率动态摄影测量航空光电系统关键技术及应用”荣获2023年地理信息科技进步一等奖\n学术成果：\n1.期刊论文\n影像几何定位\n（1）Tao P, Xi K(*), Niu Z, Chen Q, Liao Y, Liu Y, Liu K, Zhang Z. Optimal Selection from Extremely Redundant Satellite Images for Efficient Large-Scale Mapping. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, 194: 21-38. https://doi.org/10.1016/j.isprsjprs.2022.10.003.\n（2）Cao H, Tao P(*), Li H, Shi J. Bundle Adjustment of Satellite Images based on an Equivalent Geometric Sensor Model with Digital Elevation Model. ISPRS Journal of Photogrammetry and Remote Sensing, 2019, 156:169-183. https://doi.org/10.1016/j.isprsjprs.2019.08.011.\n（3） Cao H, Tao P(*), Liu Y, Li H. Nonlinear Systematic Distortions Compensation in Satellite Images Based on an Equivalent Geometric Sensor Model Recovered from RPCs. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 12088-12102. DOI: 10.1109/JSTARS.2021.3130072.\n（4）张祖勋, 陶鹏杰(*). 谈大数据时代的“云控制”摄影测量. 测绘学报, 2017, 46(10):1238-1248.\n（5）曹辉, 陶鹏杰(*), 李海鸿, 张祖勋. DEM约束的卫星影像定位法. 测绘学报, 2020, 49(1):79-91. doi:10.11947/j.AGCS.2020.20190226.\n（6）张祖勋, 段延松, 陶鹏杰(*). 从控制点到控制片. 武汉大学学报(信息科学版), 2023, 48(11): 1715-1723. doi: 10.13203/j.whugis20230373.\n传感器几何定标\n（1）Liu Y, Mo F, Aleksandrov M, Zlatanova S, Tao P(*). Accurate calibration of standard plenoptic cameras using corner features from raw images. Optics Express, 2021, 29(1): 158-169. https://doi.org/10.1364/OE.405168.\n（2）Tao P, Lu L, Zhang Y, et al. On-orbit Geometric Calibration of the Panchromatic/Multispectral Camera of the ZY-1 02C Satellite based on Public Geographic Data. Photogrammetric Engineering and Remote Sensing, 2014, 80(5):505-517.\n（3）Zhang H, Duan Y(*), Zhou Q, Chen Q, Cai B, Tao P, Zhang Z. Calibrating an airborne linear-array multi-camera system on the master focal plane with existing bundled images. Geo-spatial Information Science, 2024. https://doi.org/10.1080/10095020.2024.2337363.\n影像匹配\n（1） Yifan Liao, Ke Xi, Huijin Fu, Lai Wei, Shuo Li, Qiang Xiong, Qi Chen, Pengjie Tao(*), Tao Ke(*). Refining multi-modal remote sensing image matching with repetitive feature optimization [J]. International Journal of Applied Earth Observation and Geoinformation, 2024, 134: 104186. https://doi.org/10.1016/j.jag.2024.104186.\n（2）Yifan Liao, Pengjie Tao(*), Qi Chen, Lei Wang, Tao Ke(*). Highly adaptive multi-modal image matching based on tuning-free filtering and enhanced sketch features [J]. Information Fusion, 2024, 112: 102599. https://doi.org/10.1016/j.inffus.2024.102599.\n（3）Liu Y, Mo F, Tao P(*). Matching Multi-Source Optical Satellite Imagery Exploiting a Multi-Stage Approach. Remote Sensing, 2017, 9(12):1249.\n（4）Lu L, Zhang Y and Tao P. Geometrical Consistency Voting Strategy for Outlier Detection in Image Matching, Photogrammetric Engineering and Remote Sensing. 2016, 82(7):559-570.\n三维重建\n（1）Qi Chen, Wenxiang Gan, Pengjie Tao(*), Penglei Zhang, Lei Wang. End-to-end multiview fusion for building mapping from aerial images [J]. Information Fusion, 2024, 111: 102498. https://doi.org/10.1016/j.inffus.2024.102498.\n（2）Liu Y, Aleksandrov K, Hu Z, Mo F, Zlatanova S, Tao P(*). Accurate light field depth estimation under occlusion. Pattern Recognition, 2023, 138: 109415.\n（3）Hu Z, Tao P(*), Long X, Wang H. Shading aware DSM generation from high resolution multi-view satellite images. Geo-spatial Information Science. 2024, 27(2): 398-407.  https://doi.org/10.1080/10095020.2022.2125837.\n（4）Hu Z, Hou Y, Tao P, Shan J. IMGTR: Image-triangle based multi-view 3D reconstruction for urban scenes. ISPRS Journal of Photogrammetry and Remote Sensing, 2021, 181: 191-204.\n（5）Hu Z, Hou Y, Tao P, Shan J. SREVAS: Shading based Surface Refinement under Varying Albedo and Specularity. Remote Sensing, 2020, 12(21): 3488.\n（6）Zhang S, Tao P(*), Wang L, Hou Y, Hu Z. Improving details of building facades in open LiDAR data using ground images. Remote Sensing, 2019, 11(4):420.\n（7）Hou Y, Peng J, Hu Z, P Tao, J Shan. Planarity constrained multi-view depth map reconstruction for urban scenes. ISPRS Journal of Photogrammetry and Remote Sensing, 2018, 139:133-145\n激光点云处理\n（1）Qin N, Tan W, Guan H, Wang L, Ma L, Tao P, Fathola S, Hu X(*), Li J(*). Towards Intelligent Ground Filtering of Large-Scale Topographic Point Clouds: A Comprehensive Survey. International Journal of Applied Earth Observation and Geoinformation, 2023, 125: 103566. https://doi.org/10.1016/j.jag.2023.103566\n（2）Liu S, Tan K(*), Tao P, Yang J, Zhang W, Wang Y. Rigorous Density Correction Model for Single-Scan TLS Point Clouds. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 1-18. Art no.5701318, doi: 10.1109/TGRS.2023.3254545.\n（3）Yang J, Tan K(*), Liu S, Zhang W, Tao P. Inshore marine litter detection using radiometric and geometric data of terrestrial laser scanners. International Journal of Applied Earth Observation and Geoinformation, 2023, 116: 103149.\n（4）Tao P, Tan K(*), Ke T, Liu S, Zhang W, Yang J, Zhu X. Recognition of ecological vegetation fairy circles in intertidal salt marshes from UAV LiDAR point clouds. International Journal of Applied Earth Observation and Geoinformation, 2022, 114: 103029.\n（5）Tan K,  Ke T(*), Tao P(*), Liu K, Duan Y, Zhang W, Wu S.Discriminating Forest Leaf and Wood Components in TLS Point Clouds at Single-Scan Level Using Derived Geometric Quantities.IEEE Transactions on Geoscience and Remote Sensing, 2022, 60: 1-17. Art no. 5701517, doi: 10.1109/TGRS.2021.3121256.\n（6）Tan K, Chen J, Zhang W, Liu K, Tao P, Cheng X. Estimation of Soil Surface Water Contents for Intertidal Mudflats Using a Near-infrared Long-range Terrestrial Laser Scanner. ISPRS Journal of Photogrammetry and Remote Sensing, 2019, 159:129-139.\n2.专著\n（1）单杰, 邓非, 陶鹏杰, 刘玉轩. 众源影像摄影测量. 科学出版社, 2019.\n（2）潘励, 段延松, 刘亚文, 陶鹏杰, 张剑清, 王树根. 摄影测量学（第三版）. 武汉大学出版社, 2023.\n（3）单杰, 陶鹏杰, 胡志华, 彭剑威, 侯耀林, 敖伟. 摄影测量三维重建. 科学出版社, 2023.\n3.发明专利\n（1）陶鹏杰, 何佳男, 席可, 刘昆波, 牛壮群, 段延松, 张祖勋. 基于旋翼无人机的贴近摄影测量方法, 2020-4-10, 中国, ZL201910304821.7.\n（2） 陶鹏杰, 张祖勋, 宋孟肖, 席可. LiDAR数据“云控制”航空影像摄影测量方法, 2020-4-24, 中国, ZL201910308581.8.\n（3）曹辉，李海鸿，陶鹏杰. 利用RPC参数建立高分辨率卫星影像等效几何成像模型的方法, 2020-6-23, 中国, ZL201910628703.1.\n（4）段延松, 陶鹏杰, 刘昆波. 一种离散点分级加权拟合规则格网的方法, 2020-10-13, 中国, ZL201910308938.2.\n（5）陶鹏杰, 段延松, 刘昆波. 一种多测度半全局密集匹配算法, 2020-10-30, 中国, ZL201910308582.2.\n（6）陶鹏杰, 刘昆波. 一种全球ICESat/GLAS点云的高效组织与查询方法, 2021-4-2, 中国, ZL201910167977.5.\n（7）陶鹏杰, 张祖勋, 段延松, 柯涛, 席可, 何佳男. 面向复杂地形的贴近摄影三维航迹与姿态规划方法及装置, 2021-04-20, 中国, ZL202010473733.2.\n（8）陶鹏杰, 席可. 一种基于地理网格的最优覆盖卫星影像筛选方法,2021-5-4, 中国, ZL201910233896.0.\n（9）陶鹏杰, 张祖勋, 柯涛, 席可. 基于云控制的国产陆地观测卫星姿轨精化方法, 2021-5-18, 中国, ZL201911152563.1.\n（10）曹辉，李海鸿，陶鹏杰. 一种卫星对地观测中大气折射导致光线弯曲的改正方法. 2022-03-04, 中国, ZL 202010690526.2.\n（11）陶鹏杰, 张祖勋, 刘昆波, 柯涛, 段延松, 杜娟. 基于独立模型法区域网平差的卫星正射影像颜色一致性处理方法, 2022-04-15. 中国. ZL202010788098.7.\n（12）杨爱明, 马能武, 钟良, 陶鹏杰, 张辛, 席可, 杨洋, 杨俊. 一种复杂结构水工程无人机高精度摄影和质量控制方法. 2022-01-11. 中国, ZL 202111333452.8.\n（13）马能武, 杨爱明, 魏伶芸, 马瑞, 陶鹏杰, 钟良, 马静文, 杨俊. 一种基于无人机摄影测量的变形监测自动化方法. 2022-02-11, 中国, ZL 202111330704.1.\n（14）段延松, 董杰柯, 张永军, 陶鹏杰, 柯涛. 基于卡尔曼滤波模型的三线阵影像POS辅助对地定位方法, 2021.12.21, 中国, ZL 202111586157.3.\n（15）段延松, 张祖勋, 陶鹏杰, 柯涛, 张永军. 一种基于分布式文件系统的遥感数据快速并发读写方法, 2021.04.28, 中国, ZL 202110469599.3.\n4.软件著作权\n（1）陶鹏杰, 张祖勋, 柯涛, 段延松. 多源卫星影像云控制摄影测量处理系统. 登记号：2019SR0139666.\n（2）陶鹏杰, 宋孟肖, 张祖勋, 席可. LiDAR点云控制航空影像区域网平差软件. 登记号：2019SR0608264.\n（3）何佳男, 陶鹏杰, 席可, 刘昆波. 贴近摄影测量三维航迹规划软件. 登记号：2019SR1121973.\n（4）陶鹏杰, 席可. 国产陆地观测卫星姿轨精化软件. 登记号：2020SR0091450.\n（5）席可, 陶鹏杰, 段延松, 张祖勋. 贴近摄影测量形变监测软件. 登记号：2023SR0041796.\n（6）牛壮群, 柯涛, 陶鹏杰, 张祖勋. 贴近摄影测量正视影像图生成软件. 登记号：2023SR0041977.\n团队成员\n暂无内容\n工作经历\n2023-2····至今\n遥感信息工程学院\n| 武汉大学\n| 副教授\n2019-4····2023-1\n遥感信息工程学院\n| 武汉大学\n| 特聘副研究员\n2017-4····2019-3\n遥感信息工程学院\n| 武汉大学\n| 重点资助博士后\n2008-7····2011-8\n研发部\n| 武汉适普软件有限公司\n| 摄影测量算法工程师\n| 卫星影像摄影测量软件VirtuoZoSat\n教育经历\n2004-9····2008.6\n武汉大学\n|\n摄影测量与遥感\n| 工学学士学位\n|\n大学本科毕业\n2011-9····2016.12\n武汉大学\n|\n摄影测量与遥感\n| 工学博士学位\n|\n博士研究生毕业\n|\n硕博连读\n社会兼职\n暂无内容\n研究方向\n[1].航空航天影像精确几何定位\n[2].多模态影像匹配\n[3].影像三维重建\n[4].无人机贴近摄影测量\n其他联系方式\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "shishuo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shishuo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "史硕",
+    "english_name": "Shi Shuo",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程全国重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2011-2015",
+        "country": "中国"
+      },
+      {
+        "degree": "硕博连读",
+        "field": "通信与信息系统",
+        "school": "武汉大学",
+        "period": "2009-2011",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省杰出青年基金获得者",
+      "湖北省‘青年拔尖人才’计划入选者",
+      "武汉大学‘珞珈青年学者’",
+      "武汉市‘青年科技晨光计划’入选者",
+      "湖北省‘创新群体’骨干成员",
+      "湖北省技术发明一等奖",
+      "湖北省自然科学优秀学术论文二等奖",
+      "第二届中国数字地球大会‘最佳青年报告奖’"
+    ],
+    "academic_services": [
+      "The First Multispectral Lidar Workshop大会秘书长",
+      "湖北省激光学会理事",
+      "中国光学工程学会高级会员",
+      "武汉激光学会理事长助理",
+      "Remote Sensing期刊专刊Guest Editor"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "高光谱激光雷达技术",
+      "植被定量遥感与农林业应用",
+      "基于深度学习的目标识别分类",
+      "目标三维色彩重建",
+      "激光诱导荧光探测技术",
+      "植被碳储量立体反演与碳汇评估"
+    ],
+    "research_interests": [
+      "新型激光雷达技术",
+      "高光谱与激光诱导荧光一体化获取",
+      "三维信息重建",
+      "深度学习在遥感中的应用",
+      "碳汇估算",
+      "植被参数反演"
+    ],
+    "research_description": "致力于新型激光雷达技术与植被定量遥感应用研究，主要从事高光谱、激光诱导荧光与三维信息的一体化获取，激光雷达系统设计与研制，植被参数定量反演与碳汇估算，基于深度学习的目标识别分类，三维色彩重建等工作。",
+    "disciplines": [
+      "测绘科学与技术",
+      "遥感科学与技术",
+      "地理信息科学",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "激光雷达",
+      "高光谱遥感",
+      "植被遥感",
+      "碳汇估算",
+      "深度学习",
+      "三维重建",
+      "激光诱导荧光",
+      "遥感系统设计"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "High-resolution 3D vegetation structure mapping using multispectral lidar",
+        "keywords": [
+          "高光谱激光雷达",
+          "三维植被结构",
+          "激光诱导荧光",
+          "定量遥感"
+        ],
+        "journal_name": "Remote Sensing of Environment (RSE)",
+        "research_fields": [
+          "植被定量遥感",
+          "激光雷达技术",
+          "碳汇估算"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Multispectral lidar for simultaneous acquisition of spectral and 3D structural information of vegetation",
+        "keywords": [
+          "多光谱激光雷达",
+          "三维信息获取",
+          "植被参数反演",
+          "深度学习"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感信息获取",
+          "三维重建",
+          "目标识别"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Laser-induced fluorescence and hyperspectral lidar integration for vegetation biochemical parameter estimation",
+        "keywords": [
+          "激光诱导荧光",
+          "高光谱激光雷达",
+          "生物化学参数",
+          "碳储量反演"
+        ],
+        "journal_name": "Advanced Functional Materials (AFM)",
+        "research_fields": [
+          "激光雷达系统设计",
+          "植被碳汇评估",
+          "遥感应用"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/shishuo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发项目子课题",
+      "国家自然科学基金国际合作项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 史硕\n页面链接: http://jszy.whu.edu.cn/shishuo/zh_CN/index.htm\n==================================================\n武汉大学 史硕--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n史硕\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Shi Shuo\n电子邮箱：\n所在单位：测绘遥感信息工程全国重点实验室\n学历：博士研究生毕业\n性别：男\n职称：教授\n曾获荣誉：湖北省杰出青年基金获得者武汉大学“珞珈青年学者”武汉市“青年科技晨光计划”入选者湖北省“创新群体”骨干成员\n联系方式Contact information\n通讯/办公地址: \n邮箱: \n首页\n科学研究\n研究领域\n科研项目\n论文成果\n专利\n教学研究\n授课信息\n教学资源\n其它信息\n获奖信息\n招生信息\n招生专业\n团队风采\n个人简介 Personal profile\n工学博士，武汉大学教授、博士生导师，现任测绘遥感信息工程全国重点实验室主任助理。\n湖北省杰出青年基金获得者、湖北省“青年拔尖人才”计划入选者、武汉大学\"珞珈青年学者\"、武汉市\"青年科技晨光计划\"入选者、湖北省\"创新群体\"骨干成员。\n致力于新型激光雷达技术与植被定量遥感应用研究，主要从事高光谱、激光诱导荧光与三维信息的一体化获取，激光雷达系统设计与研制，植被参数定量反演与碳汇估算，基于深度学习的目标识别分类，三维色彩重建等工作。\n主持国家级科研项目5项、省部级科研项目5项，包括国家重点研发项目子课题、国家自科基金国际合作项目、国家自科基金面上项目、国家自科基金青年项目等；此外，还主持其他项目课题5项，参与国家重点重大项目3项。\n发表科研学术论文70余篇(包括SCI论文50余篇)，其中在 RSE、ISPRS、AFM等国际顶级期刊发表论文30余篇，并多次入选ESI高被引论文；此外，申报/授权国家专利20余项，登记软件著作权1部。\n获湖北省技术发明一等奖、湖北省自然科学优秀学术论文二等奖、第二届中国数字地球大会“最佳青年报告奖”。\n教育经历 Personal profile\n2011-2015\n武汉大学>\n摄影测量与遥感>\n博士\n2009-2011\n武汉大学>\n通信与信息系统>\n硕博连读\n社会兼职Personal profile\nThe First Multispectral Lidar Workshop大会秘书长\n湖北省激光学会理事\n中国光学工程学会高级会员\n武汉激光学会理事长助理\nRemote Sensing期刊专刊Guest Editor\n工作经历 Personal profile\n[1] 2023--至今\n测绘遥感信息工程全国重点实验室\n> 教授\n[2] 2018--2023\n测绘遥感信息工程国家重点实验室\n> 副教授\n[3] 2017--2018\n测绘遥感信息工程国家重点实验室\n> 特聘副研究员\n[4] 2016--2017\n地球空间信息技术协同创新中心\n> 副研究员/博士后\n[5] 2015--2016\n地球空间信息技术协同创新中心\n> 助理研究员/博士后\n团队成员 Personal profile\n新型激光遥感技术研究团队\n史硕\n龚威\n研究方向 Personal profile\n高光谱激光雷达技术\n植被定量遥感与农林业应用\n基于深度学习的目标识别分类\n目标三维色彩重建\n激光诱导荧光探测技术\n植被碳储量立体反演与碳汇评估\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

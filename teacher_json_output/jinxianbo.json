@@ -1,0 +1,287 @@
+{
+  "id": "jinxianbo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/jinxianbo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "金先波",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "材料物理与化学",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学学士",
+        "field": "化学",
+        "school": "武汉大学",
+        "period": "1992-1996",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士",
+        "field": "化学",
+        "school": "武汉大学化学与分子科学学院",
+        "period": "1996-2001",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学化学与分子科学学院",
+    "academic_honors": [
+      "The Inman Lecture Award",
+      "FRSC",
+      "中国电化学青年奖"
+    ],
+    "academic_services": [
+      "Commettee Member of the Molten Salts and Ionic Liquids Discussion Group of the Royal Society of Chemistry",
+      "中国金属学会熔盐化学与技术委员会副主任委员",
+      "中国有色金属学会熔盐化学与技术委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "材料与能源电化学",
+      "熔盐电化学",
+      "电池及超级电容器",
+      "CO2电化学资源化利用",
+      "三相电化学界线理论"
+    ],
+    "research_interests": [
+      "熔盐及离子液体电化学",
+      "高比能电池",
+      "超级电容器",
+      "新型硅基致密能源材料",
+      "碳基致密能源材料",
+      "CO2电化学转化",
+      "冶金及纳米金属材料",
+      "三相电化学界线理论"
+    ],
+    "research_description": "金先波教授课题组专注于材料与能源电化学领域，致力于熔盐及离子液体电化学、高比能电池与超级电容器、新型硅基与碳基致密能源材料的开发，以及CO2电化学资源化利用和冶金及纳米金属材料的研究。同时，课题组在三相电化学界线理论方面具有深入探索，推动电化学界面科学的发展。",
+    "disciplines": [
+      "材料物理与化学",
+      "物理化学"
+    ],
+    "field_tags": [
+      "电化学",
+      "能源材料",
+      "电池技术",
+      "超级电容器",
+      "熔盐电化学",
+      "离子液体",
+      "CO2利用",
+      "纳米材料",
+      "三相界面"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Electrochemical CaC2-Mediated Conversion of Biochar to C2H2: High Carbon Efficiency and Low Contamination",
+        "keywords": [
+          "电化学",
+          "生物炭",
+          "乙炔",
+          "碳效率",
+          "低污染"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed. Engl.",
+        "research_fields": [
+          "材料与能源电化学",
+          "CO2电化学资源化利用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Indirect electrosynthesis of ammonia from nitrogen and water by a magnesium chloride cycle at atmospheric pressure",
+        "keywords": [
+          "氨合成",
+          "电化学",
+          "镁氯循环",
+          "常压"
+        ],
+        "journal_name": "Cell Report Physical Science",
+        "research_fields": [
+          "材料与能源电化学",
+          "能源电化学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "High-efficiency Preparation of Titanium through Electrolysis of Carbo-sulphurised Titanium Dioxide",
+        "keywords": [
+          "钛制备",
+          "电解",
+          "碳硫化二氧化钛",
+          "高效"
+        ],
+        "journal_name": "ACS Sustainable Chem. Eng.",
+        "research_fields": [
+          "冶金电化学",
+          "材料电化学"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Efficient Nanostructuring of Silicon by Electrochemical Alloying/Dealloying in Molten Salts for improved Lithium Storage",
+        "keywords": [
+          "硅纳米结构",
+          "熔盐电化学",
+          "合金化/去合金化",
+          "锂存储"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed. Engl.",
+        "research_fields": [
+          "高比能电池",
+          "锂离子电池",
+          "熔盐电化学"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "A simple synthesis of nanoporous Sb/C with high Sb content and dispersity as an advanced anode for sodium ion batteries",
+        "keywords": [
+          "钠离子电池",
+          "纳米多孔Sb/C",
+          "高分散性",
+          "负极材料"
+        ],
+        "journal_name": "J. Mater. Chem. A",
+        "research_fields": [
+          "钠离子电池",
+          "储能材料"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Molten-NaNH2 Densified Graphene with In-plane Nanopores and N-doping for Compact Capacitive Energy Storage",
+        "keywords": [
+          "熔融NaNH2",
+          "石墨烯",
+          "纳米孔",
+          "氮掺杂",
+          "超级电容器"
+        ],
+        "journal_name": "Adv. Energy Mater.",
+        "research_fields": [
+          "超级电容器",
+          "碳基致密能源材料",
+          "电化学储能"
+        ],
+        "publication_year": 2017
+      },
+      {
+        "title": "Electrochemically Driven Transformation of Amorphous Carbons to Crystalline Graphite Nanoflakes: A Facile and Mild Graphitization Method",
+        "keywords": [
+          "非晶碳",
+          "石墨化",
+          "电化学驱动",
+          "纳米片"
+        ],
+        "journal_name": "Angew. Chem.",
+        "research_fields": [
+          "碳材料",
+          "电化学转化",
+          "能源材料"
+        ],
+        "publication_year": 2017
+      },
+      {
+        "title": "More sustainable electricity generation in hot and dry fuel cells with a novel hybrid membrane of Nafion/nano-silica/hydroxyl ionic liquid",
+        "keywords": [
+          "燃料电池",
+          "混合膜",
+          "Nafion",
+          "纳米二氧化硅",
+          "羟基离子液体"
+        ],
+        "journal_name": "Appl. Energy",
+        "research_fields": [
+          "燃料电池",
+          "电化学能源",
+          "膜材料"
+        ],
+        "publication_year": 2016
+      },
+      {
+        "title": "A PRS Model for Accurate Prediction of the Optimal Solid Oxide Cathode Structure for the Preparation of Metals in Molten Chlorides",
+        "keywords": [
+          "熔融氯化物",
+          "金属制备",
+          "阴极结构",
+          "PRS模型"
+        ],
+        "journal_name": "Electrochem. Comm.",
+        "research_fields": [
+          "冶金电化学",
+          "电化学模型"
+        ],
+        "publication_year": 2013
+      },
+      {
+        "title": "Sulfuric Acid Intercalated Graphite Oxide for Graphene Preparation",
+        "keywords": [
+          "石墨烯制备",
+          "硫酸插层",
+          "石墨氧化物"
+        ],
+        "journal_name": "Sci. Rep.",
+        "research_fields": [
+          "碳材料",
+          "石墨烯",
+          "电化学还原"
+        ],
+        "publication_year": 2013
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/jinxianbo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家863计划项目",
+      "国家自然科学基金项目",
+      "教育部新世纪优秀人才计划项目",
+      "湖北省重点研发计划项目",
+      "其他国家级项目子课题",
+      "横向项目"
+    ],
+    "funding_agencies": [
+      "国家863计划",
+      "国家自然科学基金",
+      "教育部",
+      "湖北省科技厅",
+      "其他国家级项目",
+      "企业/横向合作单位"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 金先波\n页面链接: http://jszy.whu.edu.cn/jinxianbo/zh_CN/index.htm\n==================================================\n武汉大学 金先波--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n教育与研究经历\n1992-1996年，武汉大学化学系，大学本科，获理学学士\n1996-2001年，武汉大学化学与分子科学学院，研究生，获理学博士\n2001-2004年，武汉大学化学与分子科学学院，讲师\n2004-2009年，武汉大学化学与分子科学学院，副教授\n2005-2006年，英国皇家科学院China Fellow, 诺丁汉大学Research Fellow\n2007年至今， 武汉大学化学与分子科学学院，博士生导师\n2009年至今， 武汉大学化学与分子科学学院，教授\n2014年6-12， 美国橡树岭国家实验室，高级访问学者\n2015-2016年， 美国田纳西大学诺克斯维尔分校，访问教授\n2018年5-11， 英国剑桥大学，访问教授\n研究兴趣与领域\n金先波教授课题组的研究方向为材料与能源电化学。研究兴趣包括：熔盐及离子液体电化学；高比能电池及超级电容器；新型硅基、碳基致密能源材料；CO2电化学资源化利用；冶金及纳米金属材料；三相电化学界线理论等。\n科研项目\n主持国家863计划项目，国家自然科学基金项目，教育部新世纪优秀人才计划项目，湖北省重点研发计划项目，其他国家级项目子课题与横向项目等。\n学术兼职\nCommettee Member of the Molten Salts and Ionic Liquids Discussion Group of the Royal Society of Chemistry\n中国金属学会熔盐化学与技术委员会副主任委员\n中国有色金属学会熔盐化学与技术委员会委员\n学术荣誉\nThe Inman Lecture Award，FRSC，中国电化学青年奖\n研究成果\n发表研究论文100余篇，获授权专利20余项，其中美国发明专利3项。\n代表性论文\nJichen Zhang, Zhiyong Wang, Salima Bennaceur, and Xianbo Jin*, Electrochemical CaC2-Mediated Conversion of Biochar to C2H2: High Carbon Efficiency and Low Contamination, Angew. Chem. Int. Ed. Engl. 2023, e202301479. Doi /10.1002/anie.202301479\nYang Hu, George Z. Chen, Lin Zhuang, Zhiyong Wang and Xianbo Jin*, Indirect electrosynthesis of ammonia from nitrogen and water by a magnesium chloride cycle at atmospheric pressure, Cell Report Physical Science, 2021, 2,100425.\nChangshen Wu, Mingshen Tan, Guozhu Ye, Derek J. Fray and Xianbo Jin*, High-efficiency Preparation of Titanium through Electrolysis of Carbo-sulphurised Titanium Dioxide, ACS Sustainable Chem. Eng., 2019, 7(9), 8340-8346\nYating Yuan, Wei Xiao, Zhiyong Wang, Derek J. Fray and Xianbo Jin*, Efficient Nanostructuring of Silicon by Electrochemical Alloying/Dealloying in Molten Salts for improved Lithium Storage, Angew. Chem. Int. Ed. Engl. 2018, 57, 15743-15748\nYating Yuan, Safeer Jan, Zhiyong Wang, Xianbo Jin*, A simple synthesis of nanoporous Sb/C with high Sb content and dispersity as an advanced anode for sodium ion batteries, J. Mater. Chem. A, 2018, 6, 5555-5559  (Hot paper)\nShuang Lin, Chunyan Zhang, Zhiyong Wang, Sheng Dai, Xianbo Jin*, Molten-NaNH2 Densified Graphene with In-plane Nanopores and N-doping for Compact Capacitive Energy Storage, Adv. Energy Mater., 2017,7(20),1700766\nJunjun Peng, Nanqing Chen, Rui He, Zhiyong Wang, Sheng Dai*, Xianbo Jin*, Electrochemically Driven Transformation of Amorphous Carbons to Crystalline Graphite Nanoflakes: A Facile and Mild Graphitization Method, Angew. Chem., 2017,129, 1777-1781. (Hot paper)\nYan Li, Yan Shi, Nada Mehio, Zhiyong Wang, Xiaohong Hu, George Z. Chen, Sheng Dai, Xianbo Jin*, More sustainable electricity generation in hot and dry fuel cells with a novel hybrid membrane of Nafion/nano-silica/hydroxyl ionic liquid, Appl. Energy 175 (2016) 451–458\nHualin Chen, Yi Zeng, Wei Li, JunjunPeng, Xianbo Jin*, and George Z. Chen, A PRS Model for Accurate Prediction of the Optimal Solid Oxide Cathode Structure for the Preparation of Metals in Molten Chlorides, Electrochem. Comm.2013, 26, 33-36.\nYanzhong Hong, Zhiyong Wang, Xianbo Jin*, Sulfuric Acid Intercalated Graphite Oxide for Graphene Preparation, Sci. Rep., 2013, 3, 3439\nTao Wang, HaipingGao, Xianbo Jin*, Hualin Chen, Junjun Peng, and George Z. Chen, Electrolysis of Solid Metal Sulfide to Metal and Sulfur in Molten NaCl-KCl, Electrochem. Comm.2011, 13, 1492-1495\nQing Huang, Yan Li, Xianbo Jin*, Di Zhao, and George Z. Chen*, Chloride Ion Enhanced Thermal Stability of Carbon Dioxide Captured by Monoethanolamine in Hydroxyl Imidazolium based Ionic Liquids, Energy Environ. Sci., 2011, 4 (6), 2125-2133\nWei Li, Xianbo Jin*, Fulong Huang, George Z. Chen*,Metal-to-oxide molar volume ratio: The overlooked barrier to solid-state electroreduction and a “green” bypass through recyclable NH4HCO3, Angew. Chem. Int. Ed., 2010,49, 3203-3206.\nXianjun Wei, Linpo Yu, Xianbo Jin*, Dihua Wang, and George Z. Chen*, Solar-thermochromism of Pseudocrystalline Nanodroplets of Ionic Liquid-Ni2+ Complexes Immobilized inside Translucent Microporous PVDF Films, Adv. Mater., 2009, 21, 776-780\nXianbo Jin, Wuzong Zhou*, Shengwen Zhang, George Z. Chen*, Nanoscale Microelectrochemical Cells on Carbon Nanotubes, Small, 2007, 9, 1513-1517.\nWei Xiao, Xianbo Jin*, Yuan Deng, Dihua Wang, George Z. Chen*, Three-Phase Interlines Electrochemically Driven into Insulator Compounds: A penetration Model and It’s Verification by Electroreduction of Solid AgCl, Chem. -Eur . J., 2007, 13(2), 604-612\nWei Xiao, Xianbo Jin*, Yuan Deng, Dihua Wang, Xiaohong Hu, George Z. Chen*,Electrochemically Driven Three-Phase Interlines into Insulator Compounds: Electroreduction of Solid SiO2 in Molten CaCl2, Chem. Phys. Chem. 2006, 7, 1750-1758.\nXianbo Jin, Pei Gao, Dihua Wang, Xiaohong Hu, George Z. Chen*, Electrochemical preparation of silicon and it’s alloys from solid oxides in molten Calcium Chloride, Angew. Chem. Int. Ed., 2004, 43, 733-736. (Hot paper)\n教育经历\n暂无内容\n工作经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n[1]材料与能源电化学\n[2]熔盐电化学\n[3]电池及超级电容器，包括锂离子电池等\n团队成员\n暂无内容\n金先波\n同专业博导\n同专业硕导\n教授\n博士生导师\n硕士生导师\n性别： 男\n学历： 研究生毕业\n所在单位：化学与分子科学学院\n学科：\n材料物理与化学\n物理化学\n电子邮箱：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

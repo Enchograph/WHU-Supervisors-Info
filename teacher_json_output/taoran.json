@@ -1,0 +1,306 @@
+{
+  "id": "taoran",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/taoran/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陶然",
+    "english_name": "Ran Tao",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地理与城市区域分析",
+        "school": "北卡罗来纳大学夏洛特分校",
+        "period": "2012-8 至 2017.5",
+        "country": "美国"
+      },
+      {
+        "degree": "学士",
+        "field": "遥感科学与技术",
+        "school": "武汉大学",
+        "period": "2008-9 至 2012.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "北卡罗来纳大学夏洛特分校",
+    "academic_honors": [
+      "国家级青年人才计划入选者"
+    ],
+    "academic_services": [
+      "美国地理学家协会Cyberinfrastructure分会主席",
+      "美国自然科学基金NSF研究项目负责人",
+      "美国自然科学基金NSF评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "地理信息科学",
+      "地理空间人工智能",
+      "大数据时空分析与挖掘",
+      "人类移动性",
+      "地图学与空间数据可视化",
+      "大模型与生成式AI",
+      "交通地理",
+      "城市地理",
+      "健康地理"
+    ],
+    "research_interests": [
+      "地理流大数据分析",
+      "空间统计模型",
+      "空间交互建模",
+      "GeoAI算法",
+      "可解释性AI",
+      "泛化能力提升",
+      "城市与区域规划",
+      "防疫抗灾应用",
+      "智慧出行",
+      "电动交通",
+      "迁移与投资流分析"
+    ],
+    "research_description": "陶然教授长期致力于空间数据科学中地理流大数据的基础理论与领域应用研究，国际上率先发展了一套完善的地理流时空分析、挖掘与建模方法体系，涵盖新的地理流空间测度、探索式空间分析方法和空间交互模型。同时，从经典空间统计出发，提出一系列地理空间人工智能（GeoAI）新算法与模型，致力于解决当前方法可解释性不足、泛化能力弱、缺乏理论根基等问题。研究广泛应用于防疫抗灾、智慧出行、城市与区域规划、交通地理、健康地理等领域。",
+    "disciplines": [
+      "地理信息科学",
+      "空间统计学",
+      "人工智能",
+      "交通地理学",
+      "城市地理学",
+      "数据科学"
+    ],
+    "field_tags": [
+      "地理流分析",
+      "时空建模",
+      "GeoAI",
+      "空间机器学习",
+      "大模型",
+      "生成式AI",
+      "交通地理",
+      "健康地理",
+      "城市规划",
+      "空间可视化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 10,
+    "representative_publications": [
+      {
+        "title": "Evaluating Spatial Disparities in Public EV Charging Infrastructure Across the United States",
+        "keywords": [
+          "地理流大数据",
+          "电动汽车充电基础设施",
+          "空间不平等",
+          "交通地理",
+          "美国"
+        ],
+        "journal_name": "Journal of Transport Geography",
+        "research_fields": [
+          "交通地理",
+          "空间数据分析",
+          "城市与区域规划"
+        ],
+        "publication_year": 2026
+      },
+      {
+        "title": "A Reciprocal Statistic for Detecting the Full Range of Local Patterns of Bivariate Spatial Association",
+        "keywords": [
+          "双变量空间关联",
+          "局部空间自相关",
+          "空间统计",
+          "地理流分析",
+          "地理信息科学"
+        ],
+        "journal_name": "Annals of the American Association of Geographers",
+        "research_fields": [
+          "空间统计模型与方法",
+          "地理信息科学",
+          "地理空间人工智能"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Shrinking cities in China's urban network: a data-driven exploration of migration and investment flows",
+        "keywords": [
+          "收缩城市",
+          "中国城市网络",
+          "人口迁移",
+          "投资流动",
+          "大数据分析"
+        ],
+        "journal_name": "Applied Geography",
+        "research_fields": [
+          "城市地理",
+          "人类移动性",
+          "空间数据挖掘"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Addressing the Fixed Effects in Gravity Model based on Origin-Destination Pairs",
+        "keywords": [
+          "重力模型",
+          "固定效应",
+          "OD对",
+          "空间交互",
+          "地理流建模"
+        ],
+        "journal_name": "International Journal of Geographical Information Science",
+        "research_fields": [
+          "空间统计模型与方法",
+          "地理信息科学",
+          "空间交互建模"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Decoding Electric Vehicle Adoption using XGBoost and SHAP Analysis",
+        "keywords": [
+          "电动汽车采纳",
+          "XGBoost",
+          "SHAP解释",
+          "交通行为",
+          "机器学习"
+        ],
+        "journal_name": "Travel Behaviour and Society",
+        "research_fields": [
+          "交通地理",
+          "地理空间人工智能",
+          "大数据分析"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Geographical Gaussian Process Regression: A Spatial Machine Learning Model Based on Spatial Similarity",
+        "keywords": [
+          "地理高斯过程回归",
+          "空间相似性",
+          "空间机器学习",
+          "可解释AI",
+          "地理流建模"
+        ],
+        "journal_name": "Geographical Analysis",
+        "research_fields": [
+          "地理空间人工智能",
+          "空间机器学习",
+          "空间统计建模"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Geographical Graph Attention Networks: Spatial Deep Learning Models Based on Spatial Similarity",
+        "keywords": [
+          "地理图注意力网络",
+          "空间深度学习",
+          "空间相似性",
+          "图神经网络",
+          "地理信息科学"
+        ],
+        "journal_name": "Transactions in GIS",
+        "research_fields": [
+          "地理空间人工智能",
+          "深度学习",
+          "空间数据可视化"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Demographic Disparity and Influences in Electric Vehicle Adoption: A Florida Case Study",
+        "keywords": [
+          "电动汽车采纳",
+          "人口差异",
+          "佛罗里达州",
+          "交通公平",
+          "空间分析"
+        ],
+        "journal_name": "Transportation Research Part D: Transport and Environment",
+        "research_fields": [
+          "交通地理",
+          "环境与可持续交通",
+          "社会公平"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Border Effects for Domestic Travel in China during COVID-19 Pandemic",
+        "keywords": [
+          "边境效应",
+          "国内旅行",
+          "新冠疫情",
+          "空间异质性",
+          "中国"
+        ],
+        "journal_name": "Journal of Transport Geography",
+        "research_fields": [
+          "交通地理",
+          "人类移动性",
+          "健康地理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Spatiotemporal Association in Flow Data: A Space-Time Flow LISA Approach",
+        "keywords": [
+          "时空流关联",
+          "空间时间LISA",
+          "地理流分析",
+          "时空模式挖掘",
+          "GIS"
+        ],
+        "journal_name": "Computer, Environment and Urban Systems",
+        "research_fields": [
+          "大数据时空分析",
+          "地理信息科学",
+          "空间统计模型"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=WUk8QDAAAAAJ&hl=en"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/bobyellow"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "美国自然科学基金NSF"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "美国自然科学基金NSF"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陶然\n页面链接: http://jszy.whu.edu.cn/taoran/zh_CN/index.htm\n==================================================\n武汉大学 陶然--中文主页--首页\nEnglish\n中文\n陶然\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n学历：博士研究生毕业\n性别：男\n在职信息：在职\n所属院系：\n遥感信息工程学院\n学科：\n地图学与地理信息系统\n个人简介\n陶然，武汉大学遥感信息工程学院教授，博导，国家级青年人才计划入选者。回国前曾任美国南佛罗里达大学长聘副教授、美国地理学家协会Cyberinfrastructure分会主席、美国自然科学基金NSF研究项目负责人和评审专家等职务。陶博士长期致力于空间数据科学中地理流大数据的基础理论与领域应用相关研究，在国际上率先发展了一套较为完善的地理流时空分析、挖掘与建模的方法体系，包括新的地理流空间测度的方法、探索式空间分析方法和空间交互模型。提升了地理流大数据在防疫抗灾、智慧出行、城市与区域规划等重要领域的应用水平。此外，陶博士从经典的空间统计理论出发，提出了一系列地理空间人工智(GeoAI)的新算法与模型，致力于解决当前方法可解释性不够、泛化能力不强、缺乏理论根基等问题。\n研究方向：地理信息科学、地理空间人工智能、空间统计模型与方法、大数据时空分析与挖掘、人类移动性、地图学与空间数据可视化、大模型与生成式AI、交通地理、城市地理、健康地理。详见科学研究页面。\n谷歌学术主页：https://scholar.google.com/citations?user=WUk8QDAAAAAJ&hl=en\nGitHub: https://github.com/bobyellow\n新团队正在快速组建中，请有意向的博士后、博士、硕士、以及热爱科研的本科生邮件联系，注明来意并附上简历.\n近期代表性论文（学生一作）：\nT M Junaid Bashar, Ran Tao*, Caleb Fernandes, Zhenzhi Jiao. (2026). Evaluating Spatial Disparities in Public EV Charging Infrastructure Across the United States. Journal of Transport Geography. 交通顶刊 SSCI 一区Top\nRan Tao, Jean-Claude Thill. (2025). A Reciprocal Statistic for Detecting the Full Range of Local Patterns of Bivariate Spatial Association. Annals of the American Association of Geographers, 1-22. 地理学旗舰期刊 SSCI 二区Top\nYuzhou Chen, Ran Tao*, Qiwei Ma, Mingshu Wang. (2025). Shrinking cities in China's urban network: a data-driven exploration of migration and investment flows. Applied Geography, 180, 103664. 地理学经典期刊 SSCI 二区Top\nYuzhou Chen, Qiwei Ma, Ran Tao*. (2025). Addressing the Fixed Effects in Gravity Model based on Origin-Destination Pairs. International Journal of Geographical Information Science, 1-21. GIS顶刊 SCI 一区Top\nPeng Chen, Xiankui Yang, Feng Hao, Ran Tao*. (2025). Decoding Electric Vehicle Adoption using XGBoost and SHAP Analysis. Travel Behaviour and Society. 交通顶刊 SSCI 一区Top\nZhenzhi Jiao, Ran Tao*. (2025). Geographical Gaussian Process Regression: A Spatial Machine Learning Model Based on Spatial Similarity. Geographical Analysis 空间分析经典期刊 SSCI\nZhenzhi Jiao, Ran Tao*. (2025). Geographical Graph Attention Networks: Spatial Deep Learning Models Based on Spatial Similarity. Transactions in GIS, 29(2), e70029. GIS经典期刊 SSCI\nRan Tao, Xiankui Yang, Feng Hao, Peng Chen. (2024). Demographic Disparity and Influences in Electric Vehicle Adoption: A Florida Case Study. Transportation Research Part D: Transport and Environment. 136: 104465. 交通顶刊 SCI 一区Top\nQiwei Ma, Anqi Liu, Yuzhou Chen, Ran Tao*. (2024). Border Effects for Domestic Travel in China during COVID-19 Pandemic. Journal of Transport Geography, 116, 103857. 交通顶刊 SSCI 一区Top\nRan Tao, Yuzhou Chen, Jean-Claude Thill. (2023). Spatiotemporal Association in Flow Data: A Space-Time Flow LISA Approach. Computer, Environment and Urban Systems 106: 102042.  GIS顶刊 SSCI 一区Top\n团队成员\n暂无内容\n工作经历\n2025-7····至今\n遥感信息工程学院\n| 武汉大学\n| 教授\n2024-6····2025-7\n地球科学学院\n| 南佛罗里达大学（美国）\n| 副教授(终身制)\n2018-8····2024-6\n地球科学学院\n| 南佛罗里达大学（美国）\n| 助理教授\n2017-8····2018-8\n空间科学中心\n| 南加州大学（美国）\n| 讲师\n教育经历\n2012-8····2017.5\n北卡罗来纳大学夏洛特分校（美国）\n|\n地理与城市区域分析\n| 博士\n2008-9····2012.6\n武汉大学\n|\n遥感科学与技术\n| 学士\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

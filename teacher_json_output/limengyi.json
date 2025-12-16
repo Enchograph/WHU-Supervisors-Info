@@ -1,0 +1,181 @@
+{
+  "id": "limengyi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/limengyi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李孟熠",
+    "english_name": "Li Mengyi",
+    "title": [
+      "特聘副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "岩土工程系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "岩土工程",
+        "school": "武汉大学",
+        "period": "2018.9-----2023.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "土木工程",
+        "school": "武汉大学",
+        "period": "2014.9-----2018.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2025 ISRM Rocha Medal Runner-Up（全球每年2-3名，2026年度全球唯一获奖中国人）",
+      "2024 ISRM罗哈奖提名奖（原中国岩石力学与工程学会优秀博士学位论文奖，以第1名获奖）",
+      "2023 腾讯首届“碳寻奖”（专题负责人）",
+      "2025 《Rock Mechanics Bulletin》优秀审稿专家",
+      "武汉大学优秀共产党员（唯一学生代表于“建党百年”七一表彰大会发言）",
+      "武汉大学优秀毕业研究生（受武汉大学新闻网报道）"
+    ],
+    "academic_services": [
+      "中国岩石力学与工程学会青年工作委员会第九届委员会委员",
+      "第四届裂隙地质介质耦合过程国际会议（CouFrac2024）分会场发起人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "岩石多场耦合机理",
+      "岩石细观损伤演化",
+      "CO2地质封存",
+      "深地储能工程",
+      "核废料地质处置",
+      "岩石细宏观力学特性智能预测"
+    ],
+    "research_interests": [
+      "多场耦合",
+      "细观力学",
+      "数值模拟",
+      "机器学习",
+      "数据挖掘",
+      "矿化封存",
+      "岩石本构模型",
+      "智能预测"
+    ],
+    "research_description": "长期从事岩石多场耦合机理与数值模拟研究，聚焦CO2地质封存、深地储能工程、核废料地质处置等国家重大战略需求，致力于岩石多场耦合细观力学劣化本构、细观损伤多场耦合机理及多场耦合下岩石细宏观力学特性智能预测等方向，研究成果发表于《International Journal of Rock Mechanics and Mining Sciences》《Computers and Geotechnics》等顶刊。",
+    "disciplines": [
+      "岩土工程",
+      "地质工程",
+      "环境工程",
+      "智能计算"
+    ],
+    "field_tags": [
+      "岩石力学",
+      "多场耦合",
+      "CO2封存",
+      "深地工程",
+      "机器学习",
+      "数值模拟",
+      "细观损伤",
+      "智能预测",
+      "碳中和",
+      "地质处置"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "岩石多场耦合细观力学劣化本构",
+        "keywords": [
+          "岩石多场耦合",
+          "细观力学",
+          "劣化本构",
+          "CO2地质封存"
+        ],
+        "journal_name": "International Journal of Rock Mechanics and Mining Sciences",
+        "research_fields": [
+          "岩石力学",
+          "多场耦合",
+          "地质封存"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "岩石细观损伤多场耦合机理",
+        "keywords": [
+          "细观损伤",
+          "多场耦合",
+          "岩石力学",
+          "数值模拟"
+        ],
+        "journal_name": "Computers and Geotechnics",
+        "research_fields": [
+          "计算岩土力学",
+          "损伤力学",
+          "多场耦合"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "多场耦合下岩石细宏观力学特性智能预测",
+        "keywords": [
+          "智能预测",
+          "机器学习",
+          "细宏观力学",
+          "数据挖掘"
+        ],
+        "journal_name": "International Journal of Rock Mechanics and Mining Sciences",
+        "research_fields": [
+          "智能岩土工程",
+          "机器学习",
+          "多场耦合"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/limengyi/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "中国博士后科学基金面上项目",
+      "国家资助博士后研究人员计划",
+      "政府间国际科技创新合作重点专项",
+      "国家自然科学基金重点国际（地区）合作研究项目",
+      "湖北省杰出青年基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金",
+      "科技部",
+      "湖北省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李孟熠\n页面链接: http://jszy.whu.edu.cn/limengyi/zh_CN/index.htm\n==================================================\n武汉大学 李孟熠--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n李孟熠，女，1997年生，中共党员，武汉大学土木建筑工程学院岩土工程系特聘副研究员。博士毕业于武汉大学土木建筑工程学院（导师：吴志军教授），同济大学土木工程学院博士后（合作导师：张丰收教授），兼任中国岩石力学与工程学会青年工作委员会第九届委员会委员。自2018年攻读博士学位以来，长期从事岩石多场耦合机理与数值模拟研究工作，在CO2地质封存、深地储能工程、核废料地质处置等国家重大战略需求领域取得一系列成果。曾获2026年度ISRM Rocha Medal Runner-Up（全球每年2-3名，2026年度全球唯一获奖中国人）、 ISRM Rocha Medal Award 提名奖（原中国岩石力学与工程学会优秀博士学位论文奖，以第一名获奖）、腾讯首届“碳寻奖”、《Rock Mechanics Bulletin》优秀审稿专家等荣誉。主持国家自然科学基金青年项目1项，中国博士后科学基金面上项目1项，获2024年国家资助博士后研究人员计划B档资助，担任腾讯“碳寻计划”首期TOP资助项目研究专题负责人（我国长三角地区首个矿化封存钻井勘探与机理研究项目）。作为研究骨干参与“政府间国际科技创新合作”重点专项、国家自然科学基金重点国际（地区）合作研究项目、湖北省杰出青年基金等多项国家、省部级科研项目。\n近五年，围绕“岩石多场耦合细观力学劣化本构”、“岩石细观损伤多场耦合机理”、“多场耦合下岩石细宏观力学特性智能预测”等方面，在国内外领域主流期刊及国际会议上发表论文20余篇，其中SCI期刊论文15篇（均为中科院二区及以上，TOP期刊论文9篇），EI卓越行动计划领军期刊论文1篇，发表期刊含岩石力学领域顶刊《International Journal of Rock Mechanics and Mining Sciences》、计算岩土力学领域顶刊《Computers and Geotechnics》等。代表团队于第六届复杂油气工程科技创新论坛做特邀报告、受邀ChinaRock 2024“职业早期论坛”（ECF）专题报告，牵头并主持岩石多场耦合领域顶级会议CouFrac2024“深地工程应用中的机器学习与数据挖掘”分会场，并于GeoShanghai2024、亚洲岩石力学大会（ARC13）等多场顶级国际会议中进行学术汇报，获CouFrac2024、第九届能源、资源、环境与可持续发展国际会议最佳口头汇报奖。在学期间，曾任武汉大学土木建筑工程学院研究生党总支委员、博分会主席等，获武汉大学优秀共产党员（唯一学生代表于“建党百年”七一表彰大会发言）、武汉大学优秀毕业研究生（受武汉大学新闻网报道）等校级以上荣誉表彰30余项。\n所在团队介绍：岩土工程智能建造与计算感知团队\n研究方向\n社会兼职\n二氧化碳地质封存机理与技术应用\n社会兼职内容：第四届裂隙地质介质耦合过程国际会议（CouFrac2024）分会场发起人\n社会兼职内容：中国岩石力学与工程学会青年工作委员会第九届委员会委员\n教育经历\n工作经历\n2018.9-----2023.6\n武汉大学\n|\n岩土工程\n|\n博士研究生毕业\n|\n工学博士学位\n2014.9-----2018.6\n武汉大学\n|\n土木工程\n|\n大学本科毕业\n|\n工学学士学位\n2023.7-----2025.6\n土木工程学院\n|\n同济大学\n|\n博士后\n团队成员\n暂无内容\n返回顶部\n+\n李孟熠\n职务：特聘副研究员主要任职：\n同专业硕导>>\n个人信息\n硕士生导师\n教师拼音名称：Li Mengyi\n出生日期：1997-05-10\n所在单位：土木建筑工程学院\n职务：特聘副研究员\n学历：博士研究生毕业\n性别：女\n在职信息：在职\n毕业院校：武汉大学\n学科：岩土工程\n曾获荣誉：\n2025ISRM Rocha Medal Runner-Up（全球每年2-3名，2026年度唯一获奖中国人）\n2024ISRM罗哈奖提名奖（原中国岩石力学与工程学会优秀博士学位论文奖，以第1名获奖）\n2023腾讯首届“碳寻奖”（专题负责人）\n2025《Rock Mechanics Bulletin》优秀审稿专家\n其他联系方式\n通讯/办公地址:\n移动电话:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

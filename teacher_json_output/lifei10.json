@@ -1,0 +1,220 @@
+{
+  "id": "lifei10",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lifei10/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李霏",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "国家网络安全学院",
+    "college": "国家网络安全学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "计算机科学与技术",
+        "school": "武汉大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2025年，EMNLP Outstanding Paper Award",
+      "2025年，第一届全国大学生人工智能安全竞赛二等奖（指导教师）",
+      "2025年，中国大学生计算机设计大赛国赛二等奖（指导教师）",
+      "2025年，“自强杯”大学生课外学术科技作品竞赛获奖（指导教师）",
+      "2023年，第十八届“挑战杯”全国大学生课外学术科技作品竞赛“揭榜挂帅”专项赛特等奖+擂主（指导教师）",
+      "2023年，华为杯第五届中国研究生人工智能创新大赛二等奖（指导教师）",
+      "2022年，华为杯第一届中国研究生网络安全创新大赛二等奖（指导教师）"
+    ],
+    "academic_services": [
+      "中国中文信息学会青年工作委员会委员",
+      "中国人工智能学会青年工作委员会委员",
+      "中国中文信息学会情感计算专委会委员",
+      "中国中文信息学会社会媒体处理专委会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "自然语言处理",
+      "情感计算",
+      "信息抽取",
+      "大模型安全",
+      "多模态信息理解",
+      "低资源语言处理",
+      "持续学习与模型架构拓展"
+    ],
+    "research_interests": [
+      "信息抽取",
+      "情感计算",
+      "大模型安全",
+      "多模态命名实体识别",
+      "跨语言自然语言理解",
+      "文本生成与安全",
+      "知识图谱构建",
+      "小样本学习",
+      "红队测试与对抗攻击"
+    ],
+    "research_description": "李霏副教授主要从事自然语言处理、情感计算、信息抽取及大模型相关安全问题的研究。研究聚焦于多模态信息理解、低资源语言的持续学习、大模型的安全性与鲁棒性提升，以及基于大模型的文本信息抽取与知识图谱构建。其团队在跨文档事件抽取、多模态评论理解、讽刺与隐喻检测、大模型过拒行为优化等方面取得系列成果，主持国家重点研发计划、国家自然科学基金、教育部人文社科基金等项目，发表多篇ACL、AAAI、NeurIPS、EMNLP等顶级会议论文。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能",
+      "语言学",
+      "信息与通信工程"
+    ],
+    "field_tags": [
+      "自然语言处理",
+      "大模型安全",
+      "情感计算",
+      "信息抽取",
+      "多模态学习",
+      "低资源语言",
+      "持续学习",
+      "知识图谱",
+      "红队测试",
+      "对抗攻击",
+      "跨语言理解",
+      "小样本学习"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge",
+        "keywords": [
+          "隐喻检测",
+          "夸张检测",
+          "情感知识",
+          "动态交互"
+        ],
+        "journal_name": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "research_fields": [
+          "自然语言处理",
+          "情感计算",
+          "信息抽取"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions",
+        "keywords": [
+          "大模型安全",
+          "提示优化",
+          "过度拒绝",
+          "对抗性测试"
+        ],
+        "journal_name": "NeurIPS",
+        "research_fields": [
+          "大模型安全",
+          "自然语言处理",
+          "人工智能伦理"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis",
+        "keywords": [
+          "大模型安全",
+          "红队测试",
+          "数据合成",
+          "多维多样性"
+        ],
+        "journal_name": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "research_fields": [
+          "大模型安全",
+          "自然语言处理",
+          "对抗攻击"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "M 3 D: a Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction",
+        "keywords": [
+          "多模态信息抽取",
+          "跨语言",
+          "文档级抽取",
+          "数据集构建"
+        ],
+        "journal_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "research_fields": [
+          "信息抽取",
+          "多模态学习",
+          "自然语言处理"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "STPar: A Structure-Aware Triaffine Parser for Screenplay Character Coreference Resolution",
+        "keywords": [
+          "指代消解",
+          "剧本分析",
+          "结构感知",
+          "三重仿射解析"
+        ],
+        "journal_name": "Transactions of the Association for Computational Linguistics",
+        "research_fields": [
+          "自然语言处理",
+          "指代消解",
+          "文本理解"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=zh-CN"
+      },
+      {
+        "platform": "实验室主页",
+        "url": "http://lacc.whu.edu.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "中国计算机学会-蚂蚁科研基金",
+      "湖北省自然科学基金",
+      "教育部人文社会科学青年基金项目",
+      "先进计算基金",
+      "特殊教育语言智能四川省哲学社会科学重点实验室课题"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "中国计算机学会-蚂蚁科研基金",
+      "湖北省自然科学基金",
+      "教育部人文社会科学基金",
+      "先进计算基金",
+      "特殊教育语言智能四川省哲学社会科学重点实验室"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李霏\n页面链接: http://jszy.whu.edu.cn/lifei10/zh_CN/index.htm\n==================================================\n武汉大学 李霏--中文主页--首页\n李霏\n副教授\n博士生导师\n硕士生导师\n性别：男\n毕业院校：武汉大学\n学历：博士研究生毕业\n在职信息：在职\n所在单位：国家网络安全学院\n联系方式：lifei_csnlp@whu.edu.cn\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n武汉大学国家网络安全学院副教授，博/硕士生导师，中国中文信息学会和中国人工智能学会青年工作委员会委员，中国中文信息学会情感计算专委会委员和社会媒体处理专委会委员。主要从事自然语言处理相关技术的研究，如信息抽取，情感计算，大模型及其相关的安全问题。论文方面，在自然语言处理等相关方向的高水平期刊和会议上发表论文100余篇。近年来主持国家重点研发计划、教育部人文社会科学研究基金、湖北省自然科学基金等项目。教授本科生和研究生《自然语言处理》、《AI程序设计实训》等课程。\n实验室常年招收硕士研究生、博士研究生，欢迎有志于自然语言处理、人工智能、大模型等研究的同学联系我 lifei_csnlp@whu.edu.cn\n语言和认知计算实验室主页： http://lacc.whu.edu.cn\n项目\n[1] 国家重点研发计划，多语言多模态科技情报数据内容识别技术研究，主持，在研\n[2] 大模型在国际金融场景下对于低资源语言的持续学习和架构拓展机制研究，中国计算机学会-蚂蚁科研基金，主持，在研\n[2] 湖北省自然科学基金面上项目，面向微博小样本数据的多模态命名实体识别研究, 主持，结题\n[3] 教育部人文社会科学青年基金项目，融合事件结构的汉语依存句法分析研究，主持，结题\n[4] 先进计算基金，基于大模型的文本信息抽取方法，主持，结题\n[5] 特殊教育语言智能四川省哲学社会科学重点实验室课题，面向孤独症的知识图谱构建，主持，结题\n代表性论文（详细列表 https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=zh-CN ）\n[1]   Li Zheng, Sihang Wang, Hao Fei, Zuquan Peng, Fei Li, Jianming Fu, Chong Teng, and Donghong Ji. 2025. Enhancing Hyperbole and Metaphor Detection with Their Bidirectional Dynamic Interaction and Emotion Knowledge. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 489–499, Vienna, Austria. Association for Computational Linguistics.\n[2]   Wu, X., Mao, X., Li, F., Zhang, X., Zhang, X., Zhou, J., ... & Li, Z. (2025). EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions. NeurIPS.\n[3]   Xiaorui Wu, Xiaofeng Mao, Fei Li, Xin Zhang, Xuanhong Li, Chong Teng, Donghong Ji, and Zhuang Li. 2025. TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 15077–15099, Vienna, Austria. Association for Computational Linguistics.\n[4]   Liu J, Li B, Yang X, et al. M 3 D: a Multimodal, Multilingual and Multitask Dataset for Grounded Document-level Information Extraction[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.\n[5]   Zheng L, Fei H, Chen L, et al. STPar: A Structure-Aware Triaffine Parser for Screenplay Character Coreference Resolution[J]. Transactions of the Association for Computational Linguistics, 2025, 13: 923-937.\n[6]   Mengying Yuan, WenHao Wang, Zixuan Wang, Yujie Huang, Kangli Wei, Fei Li, Chong Teng, and Donghong Ji. 2025. Cross-Document Cross-Lingual NLI via RST-Enhanced Graph Fusion and Interpretability Prediction. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 31595–31617, Suzhou, China. Association for Computational Linguistics.\n[7]   Li Zheng, Hao Fei, Ting Dai, Zuquan Peng, Fei Li, Huisheng Ma, Chong Teng, Donghong Ji. Multi-Granular Multimodal Clue Fusion for Meme Understanding. AAAI 2025.\n[8]   Zheng L, Chen B, Fei H, et al. Self-Adaptive Fine-grained Multi-modal Data Augmentation for Semi-supervised Muti-modal Coreference Resolution[C]//Proceedings of the 32nd ACM International Conference on Multimedia. 2024: 8576-8585.\n[9]   Gao Q, Meng Z, Li B, et al. Harvesting Events from Multiple Sources: Towards a Cross-Document Event Extraction Paradigm[C]//Findings of the Association for Computational Linguistics ACL 2024. 2024: 1913-1927.\n[10]        Zixiang Meng, Qiang Gao, Di Guo, Yunlong Li, Bobo Li, Hao Fei, Shengqiong Wu, Fei Li*, Chong Teng, Donghong Ji. MMLSCU: A Dataset for Multi-modal Multi-domain Live Streaming Comment Understanding. The Web Conference 2024 ( EI收录，CCF A类会议)\n获奖\n[1]  2025年，EMNLP Outstanding Paper Award，DiscoSG: Towards Discourse-Level Text Scene Graph Parsing throughIterative Graph Refinement\n[2]  2025年，第一届全国大学生人工智能安全竞赛，二等奖，PrivaGuard:基于随机噪声定向注入的大模型隐私保护机制，指导教师\n[3]  2025年，中国大学生计算机设计大赛, 国赛二等奖,智模万象--基于微调DeepSeek的多模态舆情洞察系统，指导教师\n[4]  2025年，“自强杯”大学生课外学术科技作品竞赛，笔韵智枢—大数据驱动的智能一体化字体创作引擎，指导教师\n[5]   2023年，第十八届“挑战杯”全国大学生课外学术科技作品竞赛“揭榜挂帅”专项赛，特等奖+擂主，指导教师\n[6]   2023年，华为杯第五届中国研究生人工智能创新大赛 ，二等奖，指导教师\n[7]   2022年，华为杯第一届中国研究生网络安全创新大赛 ，二等奖，指导教师\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

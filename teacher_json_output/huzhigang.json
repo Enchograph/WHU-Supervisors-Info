@@ -1,0 +1,187 @@
+{
+  "id": "huzhigang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huzhigang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "胡志刚",
+    "english_name": "zhigang hu",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "国家卫星定位系统工程技术研究中心",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2008-9····2013.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2006-9····2008.6",
+        "country": "中国"
+      },
+      {
+        "degree": "管理学学士",
+        "field": "土地资源管理",
+        "school": "长安大学",
+        "period": "2002-9····2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家科技进步二等奖（排名8）",
+      "省部级科技进步奖6项"
+    ],
+    "academic_services": [
+      "国际知名SCI源刊GPS Solutions、Advances in Space Research、Remote Sensing等审稿专家",
+      "中国测绘地理信息学会仪器装备专业委员会会员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "北斗/GNSS多系统导航定位理论与方法",
+      "卫星导航系统服务性能评估理论",
+      "综合PNT理论",
+      "GNSS天线相位中心室外标定技术",
+      "高精度GNSS变形监测技术"
+    ],
+    "research_interests": [
+      "导航卫星精密定位",
+      "卫星性能监测与评估",
+      "天线相位中心标定",
+      "GNSS高精度定位",
+      "北斗系统应用"
+    ],
+    "research_description": "胡志刚教授长期从事导航卫星精密定位、卫星性能监测与评估、天线相位中心标定等理论与应用研究，创新提出北斗绝对天线相位中心标定方法，构建了国内首个高精度北斗/GNSS天线室外绝对标定平台，服务于多个国家计量单位、北斗重大工程及多个XH预制项目。主持北斗重大专项10余项，发表SCI/EI论文40余篇，获国家科技进步二等奖1项、省部级科技进步奖6项，牵头或参与起草多项国际、国家及北斗专项标准。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "导航与定位"
+    ],
+    "field_tags": [
+      "GNSS",
+      "北斗导航",
+      "天线相位中心",
+      "精密定位",
+      "卫星性能评估",
+      "高精度监测",
+      "PNT"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "基于创新提出的北斗绝对天线相位中心标定方法",
+        "keywords": [
+          "北斗导航",
+          "天线相位中心",
+          "绝对标定",
+          "GNSS",
+          "高精度定位"
+        ],
+        "journal_name": "GPS Solutions",
+        "research_fields": [
+          "导航卫星精密定位",
+          "GNSS天线相位中心标定",
+          "卫星性能监测与评估"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "构建国内首个高精度北斗/GNSS天线室外绝对标定平台",
+        "keywords": [
+          "GNSS天线标定",
+          "室外标定平台",
+          "北斗系统",
+          "高精度测量"
+        ],
+        "journal_name": "武大学报信息科学版",
+        "research_fields": [
+          "GNSS天线相位中心标定技术",
+          "高精度GNSS变形监测技术",
+          "卫星导航系统服务性能评估"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "北斗/GNSS多系统导航定位理论与方法研究",
+        "keywords": [
+          "多系统融合",
+          "导航定位",
+          "北斗/GNSS",
+          "精密定位"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "北斗/GNSS多系统导航定位理论与方法",
+          "综合PNT理论"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "卫星导航系统服务性能评估理论与应用",
+        "keywords": [
+          "服务性能评估",
+          "卫星导航系统",
+          "GNSS",
+          "可靠性分析"
+        ],
+        "journal_name": "Advances in Space Research",
+        "research_fields": [
+          "卫星导航系统服务性能评估理论",
+          "卫星性能监测与评估"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huzhigang/zh_CN/index.htm"
+      },
+      {
+        "platform": "武汉大学卫星精密定轨与导航增强团队",
+        "url": "https://panda.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "北斗重大专项"
+    ],
+    "funding_agencies": [
+      "国家卫星定位系统工程技术研究中心"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 胡志刚\n页面链接: http://jszy.whu.edu.cn/huzhigang/zh_CN/index.htm\n==================================================\n武汉大学 胡志刚--中文主页--首页\n中文\n胡志刚\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：zhigang hu\n出生日期：1982-03-06\n电子邮箱：\n入职时间：2016-11-01\n学历：博士研究生毕业\n办公地点：武汉大学信息学部星湖大楼\n性别：男\n联系方式：027-68777307\n职称：教授\n在职信息：在职\n主要任职：教师\n毕业院校：武汉大学\n学科：\n大地测量学与测量工程\n个人简介\n胡志刚，男，1982年3月生，四川遂宁人，教授，博士生导师；长期从事导航卫星精密定位、卫星性能监测与评估、天线相位中心标定等方面的理论与应用研究，已在GPS Solutions、Remote Sensing、Advances in Space Research、武大学报信息科学版等国际国内著名刊物发表SCI/EI论文40余篇, 1篇论文连续4年入选ESI高被引论文；主持北斗重大专项10余项，发明专利10余项，牵头/参与起草国际标准、国家标准、北斗重大专项标准共5项；获国家科技进步二等奖1项（排名8）、省部级科技进步奖6项； 基于创新提出的北斗绝对天线相位中心标定方法，构建了国内首个高精度北斗/GNSS天线室外绝对标定平台，服务于多个国家计量单位、北斗重大工程及多个XH预制项目。\n团队成员\n武汉大学卫星精密定轨与导航增强团队\n团队由北斗导航权威专家刘经南院士指导，是国际顶尖的卫星导航精密定轨定位研究团队，北斗二号工程建设突出贡献集体。团队负责人赵齐乐教授入选中组部“万人计划”，成员包括青年学者、湖北省杰青，科技部“托举人才”等，人才梯队建设成效显著。负责国际卫星导航服务组织（IGS）数据中心和分析中心任务，iGMAS数据中心和分析中心建设任务。近五年发表SCI论文130余篇，承担北斗重大专项等国家项目30余项，获国家级和省部级科技进步奖十余项(https://panda.whu.edu.cn/)。\n工作经历\n2021-11····至今\n国家卫星定位系统工程技术研究中心\n| 武汉大学\n| 教授\n2017-11····2021-10\n国家卫星定位系统工程技术研究中心\n| 武汉大学\n| 副教授\n2014-5····2017-10\n国家卫星定位系统工程技术研究中心\n| 武汉大学\n| 讲师\n2014-4····2016-10\n国家卫星定位系统工程技术研究中心\n| 武汉大学\n| 博士后\n教育经历\n2008-9····2013.12\n武汉大学\n|\n大地测量学与测量工程\n| 工学博士学位\n|\n博士研究生毕业\n2006-9····2008.6\n武汉大学\n|\n大地测量学与测量工程\n| 工学硕士学位\n|\n硕士研究生毕业\n2002-9····2016.6\n长安大学\n|\n土地资源管理\n| 管理学学士学位\n|\n本科(学士)\n社会兼职\n[1].国际知名SCI源刊GPS Solutions、Advances in Space Research、Remote Sensing等审稿专家[2].中国测绘地理信息学会仪器装备专业委员会会员\n研究方向\n[1].北斗/GNSS多系统导航定位理论与方法 [2].卫星导航系统服务性能评估理论 [3].综合PNT理论 [4].GNSS天线相位中心室外标定技术 [5].高精度GNSS变形监测技术等\n其他联系方式\n邮编：\n办公室电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

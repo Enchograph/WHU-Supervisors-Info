@@ -1,0 +1,208 @@
+{
+  "id": "zhangjing123456",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangjing123456/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张敬",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "计算机应用技术",
+        "school": "中国科学技术大学",
+        "period": "毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学技术大学",
+    "academic_honors": [
+      "国家高层次青年人才",
+      "湖北省高层次人才",
+      "最佳论文, International Conference on Advanced Data Mining and Applications (ADMA), 2024",
+      "最佳应用论文提名, The Conference on Information and Knowledge Management (CIKM), 2021",
+      "杰出审稿人, IEEE International Conference on Multimedia & Expo (ICME), 2020",
+      "冠军, UAV Object Detection v2 Challenge (WACV), 2023",
+      "冠军, ISPRS Benchmark on Object Detection in High-Resolution Satellite Images, 2023",
+      "2022-2025连续四年入选斯坦福全球前2%科学家榜单",
+      "2023年晋升IEEE Senior Member"
+    ],
+    "academic_services": [
+      "NeurIPS、ICML、ICLR领域主席 (AC)",
+      "Neural Networks、Robot Learning期刊编委 (AE)",
+      "AAAI/IJCAI资深程序委员会委员 (SPC)",
+      "教育部学位中心博士/硕士/本科论文评审专家",
+      "澳大利亚国立大学、麦考瑞大学、曼彻斯特城市大学博士/硕士论文评审专家",
+      "国家自然科学基金（NSFC）、香港研究资助局（RGC）、湖北省科技厅项目评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "计算机视觉",
+      "视觉大模型",
+      "多模态大模型",
+      "医疗具身智能",
+      "遥感智能解译",
+      "人体感知",
+      "具身机器人"
+    ],
+    "research_interests": [
+      "视觉Transformer",
+      "姿态估计",
+      "人像抠图",
+      "人体解析",
+      "超声机器人",
+      "双叉臂搬运机器人",
+      "遥感图像分析",
+      "大语言模型融合",
+      "SLAM与自主导航",
+      "病灶检测与疾病诊断"
+    ],
+    "research_description": "张敬教授主要从事计算机视觉领域的前沿研究，聚焦视觉大模型与多模态大模型的构建与优化，致力于其在医疗具身智能（如超声机器人、器官定位与病灶诊断）和遥感智能解译（如高分辨率卫星图像目标检测、遥感预训练模型）等关键场景中的应用。代表性工作涵盖ViTPose、ViTAE、RSP、GeoLLaVA-8K、IntelliSys超声机器人系统等，推动了从基础模型到具身智能系统的全链条创新。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能",
+      "模式识别与智能系统",
+      "机器人学"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "大模型",
+      "多模态学习",
+      "医疗AI",
+      "遥感图像处理",
+      "人体姿态估计",
+      "具身智能",
+      "机器人导航",
+      "深度学习",
+      "Transformer"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "ViTPose: A Simple and Strong Baseline for Human Pose Estimation",
+        "keywords": [
+          "姿态估计",
+          "视觉大模型",
+          "Transformer"
+        ],
+        "journal_name": "NeurIPS",
+        "research_fields": [
+          "计算机视觉",
+          "人工智能"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "ViTAE Transformer: A Super Deep Vision Transformer for High-Resolution Image Recognition",
+        "keywords": [
+          "视觉Transformer",
+          "深度模型",
+          "图像识别"
+        ],
+        "journal_name": "ECCV",
+        "research_fields": [
+          "计算机视觉",
+          "深度学习"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "RSP: Remote Sensing Pre-training with a Unified Vision Transformer",
+        "keywords": [
+          "遥感智能解译",
+          "大模型",
+          "视觉Transformer"
+        ],
+        "journal_name": "TGRS",
+        "research_fields": [
+          "遥感图像处理",
+          "多模态学习"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "GMFlow: A Unified Framework for Optical Flow, Disparity, and Depth Estimation",
+        "keywords": [
+          "光流估计",
+          "视差",
+          "深度估计",
+          "统一模型"
+        ],
+        "journal_name": "CVPR",
+        "research_fields": [
+          "计算机视觉",
+          "三维重建"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "DeepSolo: A Unified Framework for Text-Image Instance Segmentation",
+        "keywords": [
+          "文本图像检测",
+          "实例分割",
+          "大模型"
+        ],
+        "journal_name": "CVPR",
+        "research_fields": [
+          "多模态学习",
+          "图像分割"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=9jH5v74AAAAJ"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/MiliLab"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "香港研究资助局项目",
+      "湖北省科技厅项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会 (NSFC)",
+      "香港研究资助局 (RGC)",
+      "湖北省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张敬\n页面链接: http://jszy.whu.edu.cn/zhangjing123456/zh_CN/index.htm\n==================================================\n武汉大学 张敬--中文主页--首页\nEnglish\n中文\n张敬\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n职务：教授\n学历：博士研究生毕业\n办公地点：计算机学院 D202办公室/B103实验室\n性别：男\n在职信息：在职\n毕业院校：中国科学技术大学\n所属院系：\n计算机学院\n学科：\n计算机应用技术\n个人简介\n张敬，博士，武汉大学计算机学院教授、博士生导师；武汉大学人工智能学院、机器人学院双聘导师；北京中关村学院学院导师及共建导师；入选国家高层次青年人才、湖北省高层次人才。\n主要从事计算机视觉领域的研究工作，聚焦视觉大模型、多模态大模型等方向的前沿研究及其在医疗具身智能、遥感智能解译等领域的应用。发表CCF A类国际期刊和会议论文100余篇，ESI高被引论文9篇、热点论文1篇，谷歌学术引用1.9万余次。其中，ViTPose自2022年发表以来，单篇论文引用1000余次。2023年晋升IEEE Senior Member。2022-2025连续四年入选斯坦福全球前2%科学家榜单。担任教育部学位中心、澳大利亚国立大学、麦考瑞大学、曼彻斯特城市大学博士/硕士论文评审专家；担任国家自然科学基金（NSFC）、香港研究资助局（RGC）、湖北省科技厅项目评审专家；担任NeurIPS、ICML、ICLR领域主席 (AC)，Neural Networks、Robot Learning期刊编委 (AE)，AAAI/IJCAI资深程序委员会委员 (SPC)。\n招收少量2026年入学的硕士研究生、博士研究生！（通过邮件联系；结合个人背景进行针对性考核，2-4周左右。）\n欢迎高年级本科生提前进组开展课题研究或毕设研究！（通过邮件联系）\n谷歌学术主页：https://scholar.google.com/citations?user=9jH5v74AAAAJ\n代码仓库主页：https://github.com/MiliLab (previously at https://github.com/ViTAE-Transformer)\n代表性工作：\n- 基础模型：\n- 视觉大模型：ViTAE/ViTAEv2、SPViT、VSA/QFormer (NeurIPS & IJCV & ECCV & TPAMI*2)\n- 姿态估计大模型：ViTPose/ViTPose++ (NeurIPS & TPAMI)\n- 遥感大模型：RSP、RVSA、SAMRS、MTP、XLRS-Bench、HyperSigma、SelectiveMAE、RoMA、GeoLLaVA-8K、S5 (TGRS*2 & NeurIPS*3 & JSTARS & CVPR & ICCV & AAAI & TPAMI)\n- 光流、视差和深度估计统一模型：GMFlow/UniMatch (CVPR & TPAMI)\n- 文本图像(视频)检测/分割/识别大模型：DeepSolo/DeepSolo++、Hi-SAM、GoMatching/++ (CVPR & NeurIPS & TPAMI)\n- 人体感知：\n- (人体) 姿态估计：ViTPose/ViTPose++、CCM、CLAMP、AP-10K/APT-36K (NeurIPS*3 & CVPR & IJCV & TPAMI)\n- 人像抠图：GFM、AIM、P3M、RIM (IJCV*2 & IJCAI & MM & CVPR)\n- 人体解析：Grapy-ML、POPNet、EOP-Net (AAAI*2 & TPAMI)\n- 具身机器人：\n- 超声机器人 (IntelliSys)：1）结合大语言模型的智能问答与语音交互；2）基于SLAM的机器人自主导航与定位；3）基于人体姿态估计的器官粗定位；4）基于器官识别的机械臂自主运动规划；5）基于超声影像的病灶检测与疾病诊断\n- 双叉臂类人搬运机器人 (TIE)：1）基于关键点检测的角点定位；2）类人协作抬升和搬运集装箱\n学术服务：\n- 领域主席 (Area Chair)\n- The Conference on Neural Information Processing Systems (NeurIPS)\n- International Conference on Machine Learning (ICML)\n- International Conference on Learning Representations (ICLR)\n- The Asian Conference on Machine Learning (ACML)\n- International Conference on Pattern Recognition (ICPR)\n- 编委 (Associate Editor/Action Editor)\n- Neural Networks\n- Robot Learning ( https://www.elspub.com/journals/robot-learning/editorial_board/  )\n- 客座编辑 (Guest Editor)\n- IEEE Transactions on Big Data (IEEE TBD)\n- 资深程序委员会委员 (Senior Program Committee Member)\n- AAAI Conference on Artificial Intelligence (AAAI)\n- International Joint Conferences on Artificial Intelligence (IJCAI)\n- 程序委员会委员 (审稿专家)\n- CVPR; ICCV; ECCV; ICLR; NeurIPS; ICML; AAAI; IJCAI; ACMMM\n- 期刊审稿专家\n- IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TCYB, IEEE TAI\n- 学位论文评审专家\n- 教育部学位中心：博士、硕士、本科论文评审专家\n- 澳大利亚国立大学、澳大利亚麦考瑞大学、英国曼彻斯特城市大学：博士、硕士学位论文评审专家\n- 科研项目评审专家\n- 国家自然科学基金委员会 (NSFC)、香港研究资助局 (RGC)、湖北省科技厅\n受邀报告：\n- 主旨报告, “From Pixels to Preservation: The Power of Large Vision Models in Heritage Content Understanding”, ACM Multimedia SUMAC 2024, 2024/10\n- 专题教程报告, “Vision Transformer: More Is Different”, CVPR 2023, 2023/06\n- 专题教程报告, “Foundation Models: A Sweeping Opportunity for Computer Vision”, IJCNN 2023, 2023/06\n- 专题教程报告, “Vision Transformer: Recent Advances”, WACV 2023, 2023/01\n- 专题教程报告, “Vision Transformer: Recent Advances”, VCIP 2022, 2022/12\n- 受邀报告, “ViTAE Transformer: Super Deep Model in Computer Vision”, VALSE Webinar 2022, 2022/07\n- 受邀报告, “Remote Sensing Pre-training: Recent Advances”, GeoAI 2022 Seminar Series, 2022/05\n荣誉、奖励和竞赛获奖：\n- 最佳论文, International Conference on Advanced Data Mining and Applications (ADMA), 2024\n- 最佳应用论文提名, The Conference on Information and Knowledge Management (CIKM), 2021\n- 杰出审稿人, IEEE International Conference on Multimedia & Expo (ICME), 2020\n- 冠军, UAV Object Detection v2 Challenge (WACV), 2023\n- 冠军, ISPRS Benchmark on Object Detection in High-Resolution Satellite Images, 2023\n团队成员\n暂无内容\n工作经历\n2024-12····至今\n计算机学院\n| 武汉大学\n| 在职\n| 教授\n2019-4····2024-12\n计算机学院\n| 悉尼大学\n| Research Fellow\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

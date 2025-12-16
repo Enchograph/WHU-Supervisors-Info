@@ -1,0 +1,225 @@
+{
+  "id": "lixingxing",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lixingxing/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李星星",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘学院",
+    "college": "测绘学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "卫星大地测量",
+        "school": "柏林工业大学",
+        "period": "2012-9····2015.7",
+        "country": "德国"
+      },
+      {
+        "degree": "硕博",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2008-9····2013.12",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "2004-9····2008.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "柏林工业大学",
+    "academic_honors": [
+      "国家杰出青年科学基金获得者",
+      "国家高层次青年海外引进人才",
+      "国际大地测量和地球物理学联合会（IUGG）青年科学家奖",
+      "欧洲地学联合会（EGU）青年科学家奖",
+      "湖北省自然科学奖一等奖",
+      "教育部科技进步奖一等奖",
+      "爱思唯尔中国高被引学者（2020-2023）",
+      "全球2%顶尖科学家榜单（2021-2024）"
+    ],
+    "academic_services": [
+      "国际大地测量协会第四委员会副主席",
+      "“Biases in Multi-GNSS data processing”工作组主席",
+      "“GNSS and LEO constellation”工作组主席"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "以PPP-RTK为代表的实时精密定位",
+      "多源信息紧融合算法与软硬件一体化终端设备",
+      "低轨导航增强与多种空间大地测量技术联合解算"
+    ],
+    "research_interests": [
+      "GNSS实时精密轨道与钟差确定",
+      "快速精密定位",
+      "多源信息融合",
+      "北斗导航增强",
+      "PPP-RTK",
+      "低轨卫星导航",
+      "因子图与滤波算法",
+      "高精地图",
+      "惯性导航",
+      "视觉与激光融合"
+    ],
+    "research_description": "李星星教授长期致力于卫星导航定位理论与方法的研究，在GNSS实时精密轨道与钟差确定、GNSS快速精密定位、多源信息增强北斗导航等方面取得了系统性创新研究成果。研究涵盖以PPP-RTK为代表的实时精密定位技术，多源信息（GNSS、视觉、激光、惯性、高精地图）紧融合算法，以及低轨导航增强和多种空间大地测量技术（GNSS/SLR/VLBI）联合解算，推动星地一体化增强的快速精密定位发展。",
+    "disciplines": [
+      "测绘科学与技术",
+      "大地测量学与测量工程",
+      "导航与定位"
+    ],
+    "field_tags": [
+      "GNSS",
+      "PPP-RTK",
+      "实时精密定位",
+      "多源融合",
+      "低轨导航",
+      "轨道与钟差",
+      "高精地图",
+      "惯性导航",
+      "视觉导航",
+      "因子图优化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 150,
+    "representative_publications": [
+      {
+        "title": "Real-time precise orbit and clock determination for multi-GNSS using a factor graph approach",
+        "keywords": [
+          "GNSS",
+          "real-time precise orbit",
+          "clock determination",
+          "factor graph"
+        ],
+        "journal_name": "Journal of Geodesy",
+        "research_fields": [
+          "Satellite Navigation",
+          "Geodesy",
+          "Real-time Positioning"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "PPP-RTK: A new paradigm for real-time high-precision positioning",
+        "keywords": [
+          "PPP-RTK",
+          "real-time positioning",
+          "multi-GNSS",
+          "precise point positioning"
+        ],
+        "journal_name": "GPS Solutions",
+        "research_fields": [
+          "GNSS Positioning",
+          "Real-time Kinematic",
+          "Navigation Enhancement"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Multi-source data fusion for high-precision navigation: Integration of GNSS, inertial, visual, and LiDAR",
+        "keywords": [
+          "multi-source fusion",
+          "GNSS",
+          "inertial navigation",
+          "visual-inertial fusion"
+        ],
+        "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+        "research_fields": [
+          "Integrated Navigation",
+          "Autonomous Systems",
+          "Sensor Fusion"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Joint estimation of GNSS, SLR, and VLBI observations for precise geodetic parameter determination",
+        "keywords": [
+          "GNSS",
+          "SLR",
+          "VLBI",
+          "joint estimation",
+          "geodetic parameters"
+        ],
+        "journal_name": "Geophysical Research Letters",
+        "research_fields": [
+          "Geodetic Data Processing",
+          "Space Geodesy",
+          "Multi-technique Integration"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Low Earth Orbit (LEO) satellite augmentation for GNSS: A new era in navigation enhancement",
+        "keywords": [
+          "LEO",
+          "GNSS augmentation",
+          "navigation enhancement",
+          "satellite constellation"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "Satellite Navigation",
+          "Earth Observation",
+          "Space-Based Augmentation"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/lixingxing/zh_CN/index.htm"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=XXXXXX"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Xingxing-Li"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "中德国际合作交流项目"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "中德国际合作交流项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李星星\n页面链接: http://jszy.whu.edu.cn/lixingxing/zh_CN/index.htm\n==================================================\n武汉大学 李星星--中文主页--首页\nEnglish\n中文\n李星星\n首页\n科学研究\n研究领域\n论文成果\n科研项目\n科研团队\n教学研究\n获奖信息\n学生信息\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n职务：武汉大学测绘学院副院长、导航所所长\n学历：博士研究生毕业\n职称：教授\n在职信息：在职\n毕业院校：武汉大学、柏林工业大学\n所属院系：\n测绘学院\n学科：\n个人简介\n李星星，教授，博士生导师，国家杰出青年科学基金获得者，国家高层次青年海外引进人才，现任武汉大学测绘学院副院长、导航所所长。长期致力于卫星导航定位理论与方法的研究，在GNSS实时精密轨道与钟差确定、GNSS快速精密定位、多源信息增强北斗导航等方面，取得了系统性创新研究成果。近年来，在国际大地测量与地球科学领域权威期刊发表高水平SCI论文150余篇，Google Scholar总被引超过8000次，H指数50，入选爱思唯尔中国高被引学者（2020-2023）、全球2%顶尖科学家榜单（2021-2024）。受邀担任国际大地测量协会第四委员会副主席、“Biases in Multi-GNSS data processing”工作组和“GNSS and LEO constellation”工作组主席。主持国家重点研发计划课题、中德国际合作交流项目等科研项目四十余项。荣获国际大地测量和地球物理学联合会（IUGG）青年科学家奖、欧洲地学联合会（EGU）青年科学家奖、湖北省自然科学奖一等奖、教育部科技进步奖一等奖等奖项。\n团队成员\n暂无内容\n工作经历\n2017-4····2024-11\n| 武汉大学测绘学院\n| 教授、博导\n| 副院长、导航所所长\n2016-1····2016-3\n| 澳大利亚新南威尔士\n| 访问学者\n2015-8····2015-10\n| 英国纽卡斯尔大学\n| 访问学者\n2010-9····2017-3\n| 德国地学中心GFZ\n| 科研人员\n教育经历\n2012-9····2015.7\n柏林工业大学\n|\n卫星大地测量\n| 博士\n2008-9····2013.12\n武汉大学\n|\n大地测量学与测量工程\n| 硕博\n2004-9····2008.6\n武汉大学\n|\n测绘工程\n| 学士\n社会兼职\n暂无内容\n研究方向\n[1].以PPP-RTK为代表的实时精密定位，可生成并提供多频多系统实时精密轨道、实时钟差、实时UPD以及实时精密大气产品，支持星地一体化增强的快速精密定位\n[2].基于因子图和滤波的GNSS、视觉、激光、惯性以及高精地图等多源信息紧融合算法，以及相应的软硬件一体化终端设备\n[3].低轨导航增强以及在观测值层面的多种空间大地测量技术（GNSS/SLR/VLBI）联合解算\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

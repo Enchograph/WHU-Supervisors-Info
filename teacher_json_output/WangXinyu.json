@@ -1,0 +1,291 @@
+{
+  "id": "WangXinyu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/WangXinyu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王心宇",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "通信与信息系统",
+        "school": "武汉大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2019博士后创新人才支持计划入选者",
+      "测绘科技进步一等奖",
+      "IEEE WHISPERS 高光谱目标跟踪挑战赛冠军",
+      "IJCAI LandSlide4Sense 滑坡识别竞赛冠军",
+      "高光谱遥感影像智能处理行业应用大赛特等奖",
+      "全球开放数据创新应用大赛一等奖",
+      "ESI高被引论文（多篇）"
+    ],
+    "academic_services": [
+      "30余个国内外期刊的审稿人",
+      "RSIDEA研究组负责人（钟燕飞教授团队）",
+      "学术指导：张良培教授（IEEE Fellow）"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "开放环境下的高光谱遥感智能处理",
+      "高分辨率农业遥感智能处理与应用",
+      "边缘（卫星/无人机）平台实时处理",
+      "遥感与环境健康监测应用"
+    ],
+    "research_interests": [
+      "高光谱遥感",
+      "高空间分辨率遥感",
+      "智能解译",
+      "异常检测",
+      "目标跟踪",
+      "图像分割",
+      "深度学习",
+      "多模态融合",
+      "边缘计算",
+      "遥感大模型",
+      "农业遥感",
+      "环境健康监测",
+      "心血管智能诊断",
+      "滑坡识别",
+      "入侵物种探测"
+    ],
+    "research_description": "王心宇副教授围绕天-空-地新型遥感对地观测数据，致力于高光谱与高空间分辨率遥感影像的智能处理方法研究，涵盖开放环境下的高光谱智能处理、农业遥感应用、边缘平台实时处理以及遥感在环境健康监测中的跨领域应用。研究内容涵盖高光谱影像去噪、异常检测、目标跟踪、分类、分割、混合像元分解、数据集构建与模型开发，成果广泛应用于农林生态、自然资源监测、深空探测、工业视觉及智慧医疗等领域。团队在CVPR、ICCV、AAAI、RSE、ISPRS P&RS、IEEE TGRS、IEEE TIP等顶刊顶会发表论文50余篇，开发多个开源模型与数据集，如HyperFree（高光谱大模型）、CROPUP（作物制图更新）、WHU-RuR+（农村道路数据集）等，多项工作入选ESI高被引论文。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "计算机科学与技术",
+      "电子信息工程",
+      "环境科学与工程",
+      "医学信息学"
+    ],
+    "field_tags": [
+      "高光谱遥感",
+      "智能解译",
+      "边缘计算",
+      "遥感大模型",
+      "农业遥感",
+      "异常检测",
+      "目标跟踪",
+      "多模态融合",
+      "深度学习",
+      "环境健康监测",
+      "数据集构建",
+      "开源模型",
+      "智慧医疗",
+      "滑坡识别",
+      "入侵物种探测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "FineCrop: Mapping fine-grained crops using class-aware feature decoupling and parcel-aware class rebalancing with Sentinel-2 time series",
+        "keywords": [
+          "细粒度作物分类",
+          "Sentinel-2",
+          "特征解耦",
+          "类别重平衡"
+        ],
+        "journal_name": "ISPRS P&RS",
+        "research_fields": [
+          "高分辨率农业遥感",
+          "遥感智能解译",
+          "时间序列分析"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "CR-CLCD: A Cross-Regional Cropland Change Detection Framework",
+        "keywords": [
+          "跨区域耕地变化检测",
+          "土地利用变化",
+          "遥感监测"
+        ],
+        "journal_name": "JAG",
+        "research_fields": [
+          "遥感应用",
+          "耕地监测",
+          "变化检测"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "NOT-156: Night Object Tracking using Low-light and Thermal Infrared",
+        "keywords": [
+          "夜间目标跟踪",
+          "低光",
+          "热红外",
+          "多模态"
+        ],
+        "journal_name": "IEEE TGRS",
+        "research_fields": [
+          "夜视遥感",
+          "多模态目标跟踪",
+          "边缘计算"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "WHU-RuR+: A benchmark dataset for global high-resolution rural road extraction",
+        "keywords": [
+          "农村道路提取",
+          "高分辨率遥感",
+          "基准数据集"
+        ],
+        "journal_name": "JAG",
+        "research_fields": [
+          "遥感应用",
+          "道路提取",
+          "数据集构建"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery",
+        "keywords": [
+          "高光谱大模型",
+          "基础模型",
+          "通道自适应",
+          "无调优"
+        ],
+        "journal_name": "CVPR 2025",
+        "research_fields": [
+          "高光谱遥感智能处理",
+          "深度学习",
+          "基础模型"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Noninvasive Oral Hyperspectral Imaging–Driven Digital Diagnosis",
+        "keywords": [
+          "无创口腔成像",
+          "高光谱诊断",
+          "数字医疗"
+        ],
+        "journal_name": "Journal of Medical Internet Research",
+        "research_fields": [
+          "遥感与环境健康",
+          "智慧医疗",
+          "医学影像分析"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "CROPUP: Historical products are all you need? An end-to-end cross-year crop map updating framework without the need for in situ samples",
+        "keywords": [
+          "作物制图更新",
+          "历史产品利用",
+          "无实地样本"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "农业遥感",
+          "作物监测",
+          "端到端框架"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Learning a Cross-modality Anomaly Detector for Remote Sensing Imagery",
+        "keywords": [
+          "跨模态异常检测",
+          "遥感异常",
+          "多源数据融合"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing",
+        "research_fields": [
+          "遥感异常探测",
+          "跨模态学习",
+          "图像处理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Adapting the Segment Anything Model for Multi-modal Retinal Anomaly Detection and Localization",
+        "keywords": [
+          "眼底异常检测",
+          "分割一切模型",
+          "多模态融合"
+        ],
+        "journal_name": "Information Fusion",
+        "research_fields": [
+          "遥感与医学交叉",
+          "异常检测",
+          "模型适配"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Segmenting Remote Sensing Anomalies at Instance-level via Anomaly Map Guided Adaptation",
+        "keywords": [
+          "实例级异常分割",
+          "异常图引导",
+          "遥感异常"
+        ],
+        "journal_name": "IEEE TGRS",
+        "research_fields": [
+          "遥感异常分割",
+          "实例分割",
+          "自适应学习"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "谷歌学术",
+        "url": "点击访问"
+      },
+      {
+        "platform": "RSIDEA团队主页",
+        "url": "点击访问"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划子课题",
+      "慧眼行动"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王心宇\n页面链接: http://jszy.whu.edu.cn/WangXinyu/zh_CN/index.htm\n==================================================\n武汉大学 王心宇--中文主页--首页\n中文\n王心宇\n同专业硕导\n首页\n科学研究\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n硕士生导师\n出生日期：1991-12-01\n电子邮箱：\n职务：副教授\n学历：博士研究生毕业\n办公地点：武汉大学 信息学部 宇航科学与技术研究院 401室\n性别：男\n职称：副教授\n所属院系：\n遥感信息工程学院\n学科：\n摄影测量与遥感\n个人简介\n王心宇，工学博士（通信与信息系统），遥感信息工程学院（宇航科学与技术研究院），副教授，入选2019博士后创新人才支持计划。近年来，主持国家自然科学基金、国家重点研发计划子课题、慧眼行动等科研项目。获测绘科技进步一等奖、IEEE WHISPERS 高光谱目标跟踪挑战赛冠军、IJCAI LandSlide4Sense 滑坡识别竞赛冠军、高光谱遥感影像智能处理行业应用大赛特等奖、全球开放数据创新应用大赛一等奖等学术奖励。在RSE、ISPRS P&RS、IEEE TGRS、IEEE TIP、IEEE TCYB、CVPR、ICCV、AAAI等高水平期刊与会议发表学术论文50余篇，获国家发明专利10余项，软件著作权4项，担任30余个国内外期刊的审稿人。\n研究方向：围绕天-空-地新型遥感对地观测数据，研究高光谱、高空间分辨率遥感智能解译方法，服务于农林生态、自然资源、深空探测、工业视觉及智慧医疗等多领域应用。主要研究方向：\n① 开放环境下的高光谱遥感智能处理\n② 高分辨率农业遥感智能处理与应用\n③ 边缘（卫星/无人机）平台实时处理\n④ 遥感与环境健康监测应用\n研究团队：RSIDEA研究组是由从事遥感方向研究的科研人员组建的一个学术研究组，学术指导为张良培教授（IEEE Fellow），负责人为钟燕飞教授（杰青），研究团队具备机载热红外高光谱相机、无人机高光谱相机、光谱暗室、快照式视频高光谱相机、红外-微光夜视相机、工业级服务器等先进设备，拥有良好的学术与科研氛围！\n招生信息：欢迎遥感、电信、计算机、测绘、资环、数学等专业背景同学报考，欢迎本科生以大创形式提前进组学习！\n（请发送个人简历至邮箱：wangxinyu@whu.edu.cn）\n谷歌学术个人主页：点击访问     RSIDEA团队主页：点击访问\n大型仪器设备\nNews\n2025.08  细粒度作物分类成果 “FineCrop: Mapping fine-grained crops using class-aware feature decoupling and parcel-aware class rebalancing with Sentinel-2 time series” 被摄影测量与遥感顶刊  ISPRS P&RS 接收！\n2025.08  跨区域非农化变化检测成果 “CR-CLCD: A Cross-Regional Cropland Change Detection Framework” 被遥感应用权威期刊JAG接收！\n2025.04  夜间多模态目标跟踪数据集成果 “NOT-156: Night Object Tracking using Low-light and Thermal Infrared” 被遥感权威期刊 IEEE TGRS 接收！\n2025.04  全球农村道路基准数据集成果 “WHU-RuR+: A benchmark dataset for global high-resolution rural road extraction” 被遥感应用权威期刊JAG接收！\n2025.02  高光谱遥感大模型成果 “HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery” 被计算机视觉顶会 CVPR 2025 接收！\n2025.01  基于高光谱成像的心血管智能诊断成果“Noninvasive Oral Hyperspectral Imaging–Driven Digital Diagnosis”被医学TOP期刊Journal of Medical Internet Research接收！\n2024.10  跨模态遥感异常目标探测成果 “Learning a Cross-modality Anomaly Detector for Remote Sensing Imagery ” 被图像处理顶刊 IEEE Transactions on Image Processing 接收！\n2024.09  农作物制图更新成果 “CROPUP: Historical products are all you need? An end-to-end cross-year crop map updating framework without the need for in situ samples” 被遥感顶刊 Remote Sensing of Environment 接收！\n2024.08  多模态眼底异常检测定位成果 “Adapting the Segment Anything Model for Multi-modal Retinal Anomaly Detection and Localization” 被信息融合领域权威期刊 Information Fusion 接收！\n2024.07  实例级遥感影像异常分割成果 “Segmenting Remote Sensing Anomalies at Instance-level via Anomaly Map Guided Adaptation” 被遥感权威期刊 IEEE TGRS 接收！\n2024.06  无监督自适应高光谱去噪成果 “Unsupervised Adaptation Learning for Real Multi-Platform Hyperspectral Image Denoising” 被自动化与控制系统领域权威期刊 IEEE TCYB接收！\n2024.05  农田非农化变化监测方法与基准数据成果 “Identifying cropland non-agriculturalization with high representational consistency” 被摄影测量与遥感权威期刊 ISPRS P&RS 接收！\n2024.05  联合波段选择的高光谱PU学习分类成果 “PU-KBS: A Robust Positive and Unlabeled Learning Framework with Key Band Selection” 被遥感权威期刊 IEEE TGRS 接收！\n2024.04  高光谱一步式异常探测成果 “One Step Detection Paradigm for Hyperspectral Anomaly Detection” 被遥感权威期刊 IEEE TGRS 接收！\n2024.03  适用任意波段数的高光谱目标跟踪成果 “A Channel Adaptive Dual Siamese Network for Hyperspectral Object Tracking” 被遥感权威期刊 IEEE TGRS 接收！\n2024.01  耕地地块矢量化提取成果 “RBP-MTL: Agricultural Parcel Vectorization via Region-Boundary-Parcel Decoupled Multi-Task Learning” 被遥感权威期刊 IEEE TGRS 接收！\n2023.12  我组学生李静涛、杜晶、朱倩荣获第五届全球校园人工智能算法精英大赛算法创新赛一等奖！\n2023.11  双高遥感分类成果 “Attention in Attention for Hyperspectral with High Spatial Resolution (H2) Image Classification” 被遥感权威期刊 IEEE TGRS 接收！\n2023.08  高光谱目标实时跟踪成果 “SiamOHOT: A Lightweight Dual Siamese Network for Onboard Hyperspectral Object Tracking” 被遥感权威期刊 IEEE TGRS 接收！\n2023.08  高光谱高空间综述 “高光谱高空间分辨率遥感观测, 处理与应用” 被测绘学报接收！\n2023.08  耕地地块矢量化提取成果 “E2EVAP: End-to-end vectorization of smallholder agricultural parcel boundaries” 被摄影测量与遥感权威期刊 ISPRS P&RS 接收！\n2023.07  PU学习高光谱分类成果 “Class Prior-Free Positive-Unlabeled Learning with Taylor Variational Loss”被CCF-A类国际学术会议 ICCV 2023 录用！\n2023.06  深度展开光谱分解成果 “Unrolling Nonnegative Matrix Factorization With Group Sparsity” 被遥感权威期刊 IEEE TGRS 接收！\n2023.06  高光谱单分类成果 “One-Class Risk Estimation for One-Class Hyperspectral Image Classification” 被遥感权威期刊 IEEE TGRS  接收！\n2023.02  高分辨率遥感异常分割成果 “Anomaly Segmentation for High-Resolution Remote Sensing Images” 被CCF-A类国际学术会议 AAAI Conference on Artificial Intelligence 2023 录用！\n2023.02  高光谱真实场景分解数据集 “Realistic Mixing Miniature Scene” 被遥感权威期刊 IEEE TGRS 接收！\n2022.12  自监督高光谱影像去噪（IEEE TGRS）工作入选ESI高被引论文！\n2022.11  我组学生潘洋、赵恒伟荣获iFLYTEK A.I.开发者大赛 高分辨率遥感影像松林变色立木提取挑战赛亚军！\n2022.10  视频高光谱目标跟踪成果 “SiamHYPER: Learning a Hyperspectral Object Tracker From an RGB-Based Tracker ” 被图像处理顶刊 IEEE Transactions on Image Processing 接收！\n2022.07  无人机松线虫探测成果 “Detecting pine wilt disease ” 被遥感权威期刊 International Journal of Applied Earth Observation and Geoinformation 接收！\n2022.07  无人机高光谱综述（IEEE GRSM）、WHU-Hi数据集（RSE）、Auto-AD异常探测（IEEE TGRS）等3项工作入选ESI高被引论文！\n2022.07  我组学生王俊珏、赵恒伟、潘洋荣获国际人工智能联合会议 IJCAI 2022 CDCEO 论坛 LandSlide4Sense 滑坡识别竞赛冠军！\n2022.04  非洲入侵树种探测成果 “Mapping the distribution of invasive tree species using deep one-class classification in the tropical montane landscape of Kenya” 被摄影测量与遥感权威期刊 ISPRS P&RS 接收！\n开源代码\n高光谱基础模型：HyperFree（CVPR2025）\n高光谱混合像元分解方法：SGSNMF（TGRS2017）、SAED（TGRS2020）\n高光谱异常探测方法：Auto-AD（TGRS2022）\n多模态异常探测方法：More （TGRS2024、TIP2024）\n高光谱去噪方法：SGIDN（RSE2020）\n高光谱PU学习分类：ITreeDet（ISPRS2022）、HOneCls（TGRS2023）、T-HOneCls（ICCV2023）\n高分遥感影像耕地地块矢量化提取：E2EVAP（ISPRS2023）\n作物制图更新方法：CROPUP（RSE2024）\n开源数据\n高光谱精细分类基准数据集：WHU-Hi（RSE2020）\n非农化变化监测基准数据集： Hi-CNA（ISPRS2024）\n高光谱异常探测数据集：WHU-Hi-River（TGRS2020）\n多光谱/高光谱如何数据集：WHU-MHF（TGRS2024）\n多模态夜间目标跟踪数据集：NOT-156（TGRS2024）\n高分辨率遥感影像农村道路提取数据集：WHU_RuR（遥感学报2023）WHU-RuR+（JAG2025）\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

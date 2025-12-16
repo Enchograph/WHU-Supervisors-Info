@@ -1,0 +1,184 @@
+{
+  "id": "zhangmi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张觅",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2015.9 -- 2018.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士研究生",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2013.9 -- 2015.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "测绘科学技术特等奖（排2）",
+      "地理信息科技进步特等奖（排3）",
+      "夏坚白科技创新一等奖",
+      "湖北人工智能重大技术创新成果奖"
+    ],
+    "academic_services": [
+      "中国遥感应用协会智能计算与开源应用分会副秘书长",
+      "湖北珞珈实验室智能遥感解译中心副主任",
+      "CVPR、ICCV、ECCV、ISPRS J P&RS等会议和期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "深度学习框架与模型设计",
+      "计算机视觉与模式识别",
+      "智能遥感解译",
+      "遥感影像语义分割",
+      "遥感矢量提取",
+      "遥感变化检测",
+      "遥感大模型"
+    ],
+    "research_interests": [
+      "遥感影像解译",
+      "深度学习框架",
+      "智能计算",
+      "开源遥感系统",
+      "遥感大模型",
+      "地理信息标准化",
+      "自动/半自动解译系统"
+    ],
+    "research_description": "张觅副教授长期致力于遥感影像智能解译方法研究，主持和参与多项国家自然科学基金及重点研发计划项目。其研究聚焦于深度学习框架设计与遥感应用的深度融合，开发了国际首个内存可扩展、通道灵活优选的遥感深度学习框架LuoJiaNET，实现遥感特性框架的全栈自主可控。基于该框架构建的EasyFeature系统已广泛应用于‘全球测图’‘地理国情普查’等国家重大工程，显著提升遥感数据处理效率。同时，提出‘场景-目标-像素’的LuoJiaSET分类体系，推动地理信息标准化建设，并支撑国家级智能遥感解译大赛。研究成果获测绘科学技术特等奖、地理信息科技进步特等奖等多项奖励，具有重要理论价值与产业应用前景。",
+    "disciplines": [
+      "遥感信息工程",
+      "计算机视觉",
+      "人工智能",
+      "地理信息系统",
+      "摄影测量与遥感"
+    ],
+    "field_tags": [
+      "遥感影像解译",
+      "深度学习框架",
+      "智能遥感",
+      "语义分割",
+      "矢量提取",
+      "变化检测",
+      "遥感大模型",
+      "开源系统",
+      "自主可控",
+      "地理信息标准化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "LuoJiaNET: A Memory-Scalable and Channel-Flexible Deep Learning Framework for Remote Sensing",
+        "keywords": [
+          "遥感深度学习",
+          "内存可扩展",
+          "通道灵活优选",
+          "全栈自主可控"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感影像解译",
+          "深度学习框架",
+          "智能遥感解译"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "LuoJiaSET: A Scene-Target-Pixel Hierarchical Classification System for Remote Sensing Image Interpretation",
+        "keywords": [
+          "场景-目标-像素分类体系",
+          "遥感解译",
+          "地理信息标准化",
+          "OGC TrainingDML"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "智能遥感解译",
+          "遥感语义分割",
+          "地理信息标准化"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "EasyFeature: An Automated and Semi-Automated Remote Sensing Image Interpretation System for Global Mapping",
+        "keywords": [
+          "自动解译系统",
+          "全球测图",
+          "地理国情普查",
+          "数字地图生产"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感影像解译",
+          "地理信息工程",
+          "国家重大工程应用"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm"
+      },
+      {
+        "platform": "团队主页",
+        "url": "https://luojianet.whu.edu.cn/tdcy.htm"
+      },
+      {
+        "platform": "LuoJiaNET项目主页",
+        "url": "https://luojia.whu.edu.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "重点研发计划",
+      "横向项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张觅\n页面链接: http://jszy.whu.edu.cn/zhangmi/zh_CN/index.htm\n==================================================\n武汉大学 张觅--中文主页--首页\n张觅\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：遥感信息工程学院\n办公地点：武汉大学宇航科学与技术研究院107室\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n武汉大学副教授，目前任中国遥感应用协会智能计算与开源应用分会副秘书长、湖北珞珈实验室智能遥感解译中心副主任，主要从事遥感影像解译方法研究。长期担任CVPR、ICCV、ECCV、ISPRS J P&RS等计算机视觉与模式识别顶级会议和遥感期刊审稿人。已发表学术论文30余篇，主持国家自然科学基金面上与青年、参与重点研发计划等横纵向项目20余项。作为核心人员参与研发的自动/半自动解译系统EasyFeature，已被用于“全球测图”、“地理国情普查”等国家重大工程项目，累计支撑亚洲、非洲、欧洲、北美洲等地超过2000万平方千米的1:1万/5万全球数字地图生产，采集效率提升约50%，行业推广超过1000套，经济效益逾2亿元。开发国际上首个内存可扩展、通道灵活优选的遥感深度学习框架- LuoJiaNET，实现了遥感特性框架的“全栈”自主可控，吸引了欧、美、亚20余个国家和地区5000多用户，为自然资源监测、开放地球引擎OGE等项目提供了自主可控的基础底座保障。成果获湖北人工智能重大技术创新成果奖，并被人民网、长江日报等媒体报道。同时，提出了“场景-目标-像素”的LuoJiaSET分类体系，该体系支持了地理信息标准化组织OGC TrainingDML分类体系建立，相关样本集被国家自然科学基金委智能遥感解译大赛选用，吸引国内外参赛人数超过700人次，参赛队伍超过440支。科研成果荣获“测绘科学技术特等奖”（排2）、“地理信息科技进步特等奖”（排3）、“夏坚白科技创新一等奖”等奖励。\n团队主页：https://luojianet.whu.edu.cn/tdcy.htm\n招募联合培养博士后1名(联系方式：mizhang@whu.edu.cn)提供有竞争力的福利待遇及职业发展支持。要求及待遇参考：https://luojia.whu.edu.cn/info/1026/3553.htm\n每年招收合作培养博士2名，有意者请尽早联系(联系方式：mizhang@whu.edu.cn)提供3000元/月科研津贴（额外发放成果奖励、年终奖励等），资助参加国内外学术会议；推荐国际知名高校访问交流。\n每年招收硕士4名，有意者请联系（联系方式：mizhang@whu.edu.cn）提供1500元/月科研津贴（额外发放成果奖励、年终奖励等），资助参加国内外学术会议；推荐国内知名合作机构实习工作。\n招募本科实习生3~5名 (联系方式：mizhang@whu.edu.cn）提供GPU/NPU等高性能计算资源；指导科研与国内外学科竞赛；获得本课题组就读研究生资格等。\n其他联系方式\n通讯/办公地址 : \n邮箱 : \n教育经历\n2015.9 -- 2018.6\n武汉大学\n摄影测量与遥感\n博士研究生学历\n博士学位\n2013.9 -- 2015.7\n武汉大学\n摄影测量与遥感\n硕士研究生学历\n硕士学位\n工作经历\n2020.7 -- 至今\n武汉大学\n副研究员\n2018.7 -- 2020.6\n武汉大学\n博士后\n2012.8 -- 2013.8\n武汉大学\n科研助理\n社会兼职\n中国遥感应用协会遥感智能计算与开源应用分会副秘书长\n研究方向\n深度学习框架与模型设计\n计算机视觉与模式识别\n智能遥感解译（语义分割、矢量提取、变化检测、遥感大模型）\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

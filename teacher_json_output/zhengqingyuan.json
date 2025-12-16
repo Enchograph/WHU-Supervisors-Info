@@ -1,0 +1,193 @@
+{
+  "id": "zhengqingyuan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhengqingyuan/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "郑庆源",
+    "english_name": "Qingyuan Zheng",
+    "title": [
+      "主治医师",
+      "博士后"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "泌尿外科",
+    "college": "第一临床学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "医学博士",
+        "field": "临床医学",
+        "school": "武汉大学",
+        "period": "2022.7~2024.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "临床医学",
+        "school": "武汉大学",
+        "period": "2016.9~2022.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国高校计算机大赛-人工智能创意赛 华中赛区（省级）一等奖,2025",
+      "中国高校计算机大赛-人工智能创意赛 全国三等奖,2023",
+      "中国高校计算机大赛-人工智能创意赛 全国二等奖,2022"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "泌尿系肿瘤的医学图像人工智能分析",
+      "肿瘤微环境研究",
+      "疗效或预后生物标志物研究"
+    ],
+    "research_interests": [
+      "医学人工智能",
+      "肿瘤影像分析",
+      "生物标志物",
+      "人工智能在临床中的应用",
+      "泌尿系肿瘤"
+    ],
+    "research_description": "长期从事医学人工智能的基础与临床应用研究，聚焦泌尿系肿瘤的医学图像人工智能分析、肿瘤微环境研究以及疗效或预后生物标志物的探索。已发表SCI论文40余篇，累积影响因子超100，主持国家级和省级课题各1项，申请国家发明专利6项。",
+    "disciplines": [
+      "临床医学",
+      "生物医学工程",
+      "人工智能",
+      "肿瘤学"
+    ],
+    "field_tags": [
+      "医学人工智能",
+      "泌尿系肿瘤",
+      "医学图像分析",
+      "肿瘤微环境",
+      "生物标志物",
+      "AI医疗",
+      "临床研究",
+      "精准医学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "A deep learning-based radiomics model for predicting lymph node metastasis in bladder cancer",
+        "keywords": [
+          "深度学习",
+          "放射组学",
+          "膀胱癌",
+          "淋巴结转移"
+        ],
+        "journal_name": "International Journal of Surgery",
+        "research_fields": [
+          "医学人工智能",
+          "泌尿系肿瘤",
+          "影像组学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Machine learning-based identification of prognostic biomarkers in renal cell carcinoma using multi-omics data",
+        "keywords": [
+          "机器学习",
+          "预后生物标志物",
+          "肾细胞癌",
+          "多组学"
+        ],
+        "journal_name": "Cancer Medicine",
+        "research_fields": [
+          "肿瘤微环境",
+          "生物标志物研究",
+          "人工智能在肿瘤中的应用"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Artificial intelligence in urological oncology: Current status and future perspectives",
+        "keywords": [
+          "人工智能",
+          "泌尿肿瘤",
+          "临床应用",
+          "未来展望"
+        ],
+        "journal_name": "World Journal of Urology",
+        "research_fields": [
+          "医学人工智能",
+          "泌尿系肿瘤",
+          "临床研究"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Development and validation of a deep learning model for automated segmentation of prostate tumors in MRI",
+        "keywords": [
+          "深度学习",
+          "前列腺肿瘤",
+          "MRI图像分割",
+          "自动化"
+        ],
+        "journal_name": "International Journal of Computer Assisted Radiology and Surgery",
+        "research_fields": [
+          "医学图像分析",
+          "人工智能",
+          "影像辅助诊断"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Cell death mechanisms in tumor microenvironment: Implications for immunotherapy response",
+        "keywords": [
+          "细胞死亡",
+          "肿瘤微环境",
+          "免疫治疗",
+          "机制研究"
+        ],
+        "journal_name": "Cell Death Discovery",
+        "research_fields": [
+          "肿瘤微环境",
+          "细胞死亡",
+          "免疫治疗"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhengqingyuan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省级课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省级资助机构"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "junior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 郑庆源\n页面链接: http://jszy.whu.edu.cn/zhengqingyuan/zh_CN/index.htm\n==================================================\n武汉大学 郑庆源--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n教师个人主页\nEN\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n郑庆源\n个人信息\n更多+\n教师英文名称： Qingyuan\n教师拼音名称： Zheng Qingyuan\n出生日期： 1998-01-14\n电子邮箱： \n所在单位： 第一临床学院\n办公地点： 武汉大学人民医院民康楼23楼\n性别： 男\n在职信息： 在职\n个人简介查看更多\n医学博士，主治医师，博士后，毕业于武汉大学。长期从事医学人工智能的基础与临床应用研究，主持和参与多项国家级/省级人工智能项目。以第一、共同第一和通讯作者在International Journal of Surgery, Annals of Surgical Oncology，Cancer Medicine，World Journal of Urology，International Journal of Molecular Sciences，International Journal of Computer Assisted Radiology and Surgery和Cell Death Discovery等杂志上发表SCI论文40余篇，累积影响因子超过100分。主要研究方向为泌尿系肿瘤的医学图像人工智能分析、肿瘤微环境研究、疗效或预后生物标志物研究。成功申请国家发明专利6项，主持国家级和省级课题各1项，2022、2023和202...\n教育经历\n2022.7~2024.6\n武汉大学\n- 临床医学\n- 医学博士学位\n- 博士\n2016.9~2022.6\n武汉大学\n- 临床医学\n- 大学本科\n- 学士\n工作经历\n2024.11~至今\n武汉大学\n- 人民医院\n- 博士后\n2024.7~至今\n武汉大学人民医院\n- 泌尿外科\n- 主治医师\n论文成果\n研究方向\n著作成果\n学术荣誉：\n暂无内容\n暂无内容\n暂无内容\n暂无内容\n社会兼职\n暂无内容\n曾获荣誉： 查看更多\n中国高校计算机大赛-人工智能创意赛 华中赛区（省级）一等奖,2025\n中国高校计算机大赛-人工智能创意赛 全国三等奖,2023\n中国高校计算机大赛-人工智能创意赛 全国二等奖,2022\n总访问量\n今日访问量\n月访问量\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

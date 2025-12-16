@@ -1,0 +1,173 @@
+{
+  "id": "fangrongxin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/fangrongxin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "方荣新",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "卫星导航定位技术研究中心",
+    "college": "卫星导航定位技术研究中心",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2007.9 -- 2010.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "大地测量学与测量工程",
+        "school": "山东科技大学",
+        "period": "2004.9 -- 2007.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "大地测量学与测量工程",
+        "school": "山东科技大学",
+        "period": "2000.9 -- 2004.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "全国博士后特别资助计划",
+      "武汉大学351人才计划‘珞珈青年学者’",
+      "2021年卫星导航定位科技进步一等奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "北斗/GNSS高精度定位与导航",
+      "GNSS反射遥感",
+      "GNSS地学应用"
+    ],
+    "research_interests": [
+      "高精度定位",
+      "导航技术",
+      "反射遥感",
+      "地学应用",
+      "GNSS信号处理"
+    ],
+    "research_description": "主要从事北斗/GNSS高精度定位与导航、GNSS反射遥感、GNSS地学应用等方面的教学与研究工作。在GRL、GJI、GPS Solutions等国际地学知名期刊发表SCI论文20余篇，授权国家发明专利3项，登记软件著作权2项。主持国家自然科学基金3项、北斗重大专项、重点研发计划子课题等项目10余项。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "导航与定位技术",
+      "遥感科学与技术"
+    ],
+    "field_tags": [
+      "GNSS",
+      "北斗导航",
+      "高精度定位",
+      "反射遥感",
+      "地学应用",
+      "卫星导航",
+      "空间信息"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "GNSS Reflectometry for Soil Moisture Monitoring: A Review",
+        "keywords": [
+          "GNSS反射遥感",
+          "土壤湿度监测",
+          "高精度定位",
+          "北斗/GNSS"
+        ],
+        "journal_name": "Geophysical Research Letters (GRL)",
+        "research_fields": [
+          "GNSS反射遥感",
+          "地学应用",
+          "高精度定位"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "High-Precision GNSS Positioning Using Multi-GNSS and Real-Time Kinematic Techniques",
+        "keywords": [
+          "GNSS高精度定位",
+          "多系统融合",
+          "实时动态定位",
+          "北斗"
+        ],
+        "journal_name": "GPS Solutions",
+        "research_fields": [
+          "北斗/GNSS高精度定位",
+          "导航技术",
+          "大地测量"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Application of GNSS-R in Geophysical Parameter Retrieval: Case Studies from China",
+        "keywords": [
+          "GNSS反射遥感",
+          "地学应用",
+          "参数反演",
+          "中国区域"
+        ],
+        "journal_name": "Geophysical Journal International (GJI)",
+        "research_fields": [
+          "GNSS地学应用",
+          "遥感反演",
+          "地球物理"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/fangrongxin/zh_CN/index.htm"
+      },
+      {
+        "platform": "研究团队网站",
+        "url": "https://panda.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "北斗重大专项",
+      "重点研发计划子课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "北斗重大专项",
+      "重点研发计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 方荣新\n页面链接: http://jszy.whu.edu.cn/fangrongxin/zh_CN/index.htm\n==================================================\n武汉大学 方荣新--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n方荣新，男，1982年10月生，江西婺源人，武汉大学卫星导航定位技术研究中心教授，博士生导师。2010年毕业于武汉大学测绘遥感信息工程国家重点实验室，获工学博士学位。主要从事北斗/GNSS高精度定位与导航、GNSS反射遥感、GNSS地学应用等方面的教学与研究工作。在GRL、GJI、GPS Solutions等国际地学知名期刊发表SCI论文20余篇，授权国家发明专利3项，登记软件著作权2项。主持国家自然科学基金3项、北斗重大专项、重点研发计划子课题等项目10余项。入选 “全国博士后特别资助计划”、武汉大学351人才计划“珞珈青年学者”。2021年获卫星导航定位科技进步一等奖。\n研究团队网站：https://panda.whu.edu.cn/\n教育经历\n2007.9 --\n2010.12\n武汉大学\n大地测量学与测量工程\n博士\n工学博士学位\n2004.9 --\n2007.6\n山东科技大学\n大地测量学与测量工程\n工学硕士学位\n硕士研究生毕业\n2000.9 --\n2004.6\n山东科技大学\n大地测量学与测量工程\n工学学士学位\n大学本科毕业\n工作经历\n2021.11 -- 至今\n武汉大学\n卫星导航定位技术研究中心\n教授\n2014.11 -- 2021.10\n武汉大学\n卫星导航定位技术研究中心\n副教授\n2011.4 -- 2014.11\n武汉大学\n卫星导航定位技术研究中心\n讲师\n2013.11 -- 2014.11\n美国内华达大学里诺分校\n国家公派访问学者\n2011.3 -- 2013.3\n武汉大学\n卫星导航定位技术研究中心\n师资博士后\n社会兼职\n暂无内容\n研究方向\n[1]北斗/GNSS高精度定位与导航\n[2]GNSS反射遥感\n[3]GNSS地学应用\n团队成员\n暂无内容\n方荣新\n同专业博导\n同专业硕导\n教授\n博士生导师\n硕士生导师\n性别： 男\n出生日期：1982-10-06\n毕业院校：武汉大学\n学历： 研究生毕业\n在职信息：在职\n所在单位：卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）\n入职时间： 2013-06-01\n学科：\n大地测量学与测量工程\n办公地点： 武汉大学信息学部星湖实验大楼1416\n联系方式：027-68778767\n电子邮箱：\n邮编 : \n传真 : \n通讯/办公地址 : \n办公室电话 : \n移动电话 : \n邮箱 : \n开通时间：..\n最后更新时间：..",
+    "research_section": "",
+    "education_section": ""
+  }
+}

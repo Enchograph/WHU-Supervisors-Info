@@ -1,0 +1,186 @@
+{
+  "id": "yangweijia",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yangweijia/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "杨威嘉",
+    "english_name": "Weijia Yang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "水资源工程与调度全国重点实验室水资源综合调度研究所",
+    "college": "水利水电学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "水利水电工程",
+        "school": "武汉大学",
+        "period": "2011年",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "水利水电工程",
+        "school": "武汉大学",
+        "period": "2013年",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "电力专业",
+        "school": "瑞典乌普萨拉大学",
+        "period": "2017年5月",
+        "country": "瑞典"
+      }
+    ],
+    "graduation_school": "瑞典乌普萨拉大学",
+    "academic_honors": [
+      "国际水电协会IHA青年研究员奖",
+      "水力发电科学技术一等奖（序5）",
+      "湖北省科学技术进步奖二等奖（序3）",
+      "汪闻韶院士青年优秀论文奖",
+      "全国水利类专业青年教师讲课竞赛一等奖"
+    ],
+    "academic_services": [
+      "国际电工委员会 IEC/TC4（水力机械专委会）工作组成员",
+      "Springer Nature出版社《Energy, Ecology and Environment》期刊编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "水力机械及系统动态特性",
+      "水电站优化设计及动态响应",
+      "水风光储多能互补系统运行",
+      "变速抽水蓄能电站调控"
+    ],
+    "research_interests": [
+      "大型水电站优化设计",
+      "动态响应分析",
+      "多能互补系统",
+      "变速抽水蓄能",
+      "水力-机械-电气交叉研究",
+      "瞬变流与过渡过程",
+      "高效运行与调控品质"
+    ],
+    "research_description": "杨威嘉教授主要从事水力机械及系统动态特性与调控研究，聚焦大型水电站优化设计及动态响应、水风光储多能互补系统高效运行、变速抽水蓄能电站调控品质等方向，综合运用理论分析、数值模拟、模型实验与现场实测等方法，开展水力-机械-电气交叉领域的前沿研究。",
+    "disciplines": [
+      "水利工程",
+      "电气工程",
+      "能源科学与工程",
+      "系统工程"
+    ],
+    "field_tags": [
+      "水力机械",
+      "水电站",
+      "抽水蓄能",
+      "多能互补",
+      "动态响应",
+      "瞬变流",
+      "智能调控",
+      "清洁能源",
+      "水风光储协同"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "A review on the dynamic characteristics and control of large-scale hydropower stations",
+        "keywords": [
+          "水力机械",
+          "动态特性",
+          "优化设计",
+          "多能互补",
+          "变速抽水蓄能"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "水力机械",
+          "能源系统优化",
+          "可再生能源集成"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Advancing clean energy transition through integrated hydropower and renewable systems",
+        "keywords": [
+          "清洁能源",
+          "水风光储",
+          "系统调控",
+          "动态响应",
+          "协同运行"
+        ],
+        "journal_name": "Nature Reviews Clean Technology",
+        "research_fields": [
+          "可再生能源",
+          "电力系统调度",
+          "综合能源系统"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Numerical and experimental study on transient processes in variable-speed pumped storage units",
+        "keywords": [
+          "瞬变流",
+          "变速抽水蓄能",
+          "过渡过程",
+          "数值模拟",
+          "模型实验"
+        ],
+        "journal_name": "Journal of Hydraulic Research",
+        "research_fields": [
+          "水力学",
+          "水力机械",
+          "系统控制"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ResearchGate",
+        "url": "www.researchgate.net/profile/Weijia-Yang-4"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金项目",
+      "国家科技重大专项子任务",
+      "湖北省重大科技专项课题",
+      "湖北省自然科学基金杰出青年项目",
+      "央企科技项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家科技重大专项",
+      "湖北省科技厅",
+      "央企"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杨威嘉\n页面链接: http://jszy.whu.edu.cn/yangweijia/zh_CN/index.htm\n==================================================\n武汉大学 杨威嘉--中文主页--首页\n杨威嘉\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n所在单位：水利水电学院\n联系方式：weijia.yang@whu.edu.cn\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n杨威嘉，男，湖南长沙人，1989年生，现任武汉大学水利水电学院教授、博士生导师、水资源工程与调度全国重点实验室水资源综合调度研究所副所长。2011年及2013年在武汉大学水利水电学院分别获学士、硕士学位。2017年5月在瑞典乌普萨拉大学工程科学系电力专业获工学博士学位。2017年6月起任武汉大学水利水电学院副研究员，2020年12月至2024年11月任副教授，2024年12月至今任教授。\n主要进行水利水电工程本科生专业课程《水电站电气设备》、《专业外语与科技写作》、《抽水蓄能》、武汉大学通识教育必修课程《自然科学经典导引》、研究生专业课程《瞬变流理论》、《水电站过渡过程与控制》等教学工作。\n研究方向为水力机械及系统动态特性与调控，具体兴趣包括大型水电站优化设计及动态响应、水风光储多能互补系统高效运行、变速抽水蓄能电站调控品质等，综合采用理论分析、数值模拟、模型实验、现场实测等研究方法，开展水力-机械-电气交叉领域研究。出版Springer Nature出版社独著1部；发表科研论文100余篇，其中以第一或通讯作者在Nature Reviews Clean Technology、Nature Communications等期刊发表SCI论文40余篇；授权发明专利10余项。\n获批国家高层次青年人才项目、湖北省自然科学基金杰出青年项目；主持国家自然科学基金项目、国家科技重大专项子任务等国家级项目，湖北省重大科技专项课题、湖北省自然科学基金等省部级项目以及央企科技项目等，共计20余项；主要产学研合作单位包括：三峡集团、国家能源集团、国家电网、南方电网、东方电气、哈尔滨电气等央企。\n为国际电工委员会 IEC/TC4（水力机械专委会）工作组成员、参编国际导则，Springer Nature出版社《Energy, Ecology and Environment》等3个JCR国际期刊编委。荣获国际水电协会IHA青年研究员奖、水力发电科学技术一等奖（序5）、湖北省科学技术进步奖二等奖（序3）、汪闻韶院士青年优秀论文奖、全国水利类专业青年教师讲课竞赛一等奖等。\n邮箱：weijia.yang@whu.edu.cn\n个人主页：www.researchgate.net/profile/Weijia-Yang-4\n团队博士后/研发工程师/科研助理招聘启事：\nmp.weixin.qq.com/s/lmQRdKhfNZGEgv7ADW9jug\n其他联系方式\n邮箱 : \n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

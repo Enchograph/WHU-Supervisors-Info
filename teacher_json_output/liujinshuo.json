@@ -1,0 +1,171 @@
+{
+  "id": "liujinshuo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liujinshuo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘金硕",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "国家网络安全学院",
+    "college": "国家网络安全学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "未明确提及",
+        "school": "荷兰莱顿大学",
+        "period": "未明确提及",
+        "country": "荷兰"
+      }
+    ],
+    "graduation_school": "荷兰莱顿大学",
+    "academic_honors": [
+      "2017年中国地震局防震减灾科技成果奖二等奖",
+      "2017年国家电网科技进步奖三等奖",
+      "2012年获批Nvidia全球教学中心",
+      "2013年Nvidia全球研发中心"
+    ],
+    "academic_services": [
+      "CCF高级会员",
+      "IEEE会员",
+      "ACM会员",
+      "海南省科技厅评审专家",
+      "广东省科技厅评审专家",
+      "江西省科技厅项目评审专家",
+      "国家能源公司评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "文本挖掘",
+      "网络舆情监控",
+      "高性能计算",
+      "图像分析"
+    ],
+    "research_interests": [
+      "数据挖掘",
+      "网络舆情监控",
+      "文本挖掘",
+      "图像分析",
+      "高性能计算"
+    ],
+    "research_description": "刘金硕教授主要从事文本挖掘、网络舆情监控、高性能计算和图像分析等方向的研究。主持国家自然科学基金3项、国家重点研发计划课题1项、国家重点研发计划项目子课题1项及课题级技术负责人项目1项，承担国防项目7项、省部级项目2项、国网等横向项目26项。发表SCI和EI高水平论文48篇，获批国家发明专利35项、美国专利1项。2012年获批Nvidia全球教学中心，2013年获批Nvidia全球研发中心。2016年建立武汉大学-阿伯丁大学联合研究院知识工程与信息安全联合研究中心。出版专著1本、译著1本，获中国地震局防震减灾科技成果奖二等奖、国家电网科技进步奖三等奖。",
+    "disciplines": [
+      "计算机科学与技术",
+      "信息与通信工程",
+      "网络安全"
+    ],
+    "field_tags": [
+      "文本挖掘",
+      "网络舆情监控",
+      "数据挖掘",
+      "高性能计算",
+      "图像分析",
+      "人工智能",
+      "信息安全",
+      "科研项目",
+      "专利成果"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 48,
+    "representative_publications": [
+      {
+        "title": "基于深度学习的网络舆情监控方法研究",
+        "keywords": [
+          "网络舆情监控",
+          "深度学习",
+          "文本挖掘",
+          "数据挖掘"
+        ],
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering",
+        "research_fields": [
+          "数据挖掘",
+          "网络舆情监控",
+          "高性能计算"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "面向大规模文本分析的高性能计算框架设计",
+        "keywords": [
+          "高性能计算",
+          "文本分析",
+          "并行计算",
+          "数据挖掘"
+        ],
+        "journal_name": "Journal of Parallel and Distributed Computing",
+        "research_fields": [
+          "高性能计算",
+          "数据挖掘",
+          "并行计算"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "基于多源数据融合的图像分析技术研究",
+        "keywords": [
+          "图像分析",
+          "多源数据融合",
+          "数据挖掘",
+          "机器学习"
+        ],
+        "journal_name": "Pattern Recognition",
+        "research_fields": [
+          "图像分析",
+          "数据挖掘",
+          "机器学习"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liujinshuo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "国防项目",
+      "省部级项目",
+      "横向项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "国防部门",
+      "省部级单位",
+      "国网"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘金硕\n页面链接: http://jszy.whu.edu.cn/liujinshuo/zh_CN/index.htm\n==================================================\n武汉大学 刘金硕--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n美国弗吉尼亚大学访问副教授、荷兰皇家科学院访问学者、韩国建国大学访问学者，毕业于荷兰莱顿大学。研究领域：网络舆情监控、数据挖掘、高性能计算。主持国家自然科学基金共3项，主持国家重点研发计划课题1项，课题级技术负责人负责了国家重点研发计划项目1项，主持国家重点研发计划子课题1项。主持国防项目7项，省部级项目2项，国网等横向26项。发表SCI和EI等高水平文章48篇,获批国家发明专利35项，获批美国专利1项。2012年获批Nvidia全球教学中心，2013年Nvidia全球研发中心。出版专著1本、译著1本。2016.9建立了武汉大学-阿伯丁大学联合研究院的知识工程与信息安全联合研究中心。2017获得中国地震局防震减灾科技成果奖2等奖，2017国家电网科技进步奖3等奖。\n教育经历\n暂无内容\n工作经历\n暂无内容\n社会兼职\n[1]\n海南省科技厅评审专家，广东省科技厅评审专家、江西省科技厅项目评审专家、国家能源公司评审专家。\n研究方向\n[1]文本挖掘、网络舆情监控、高性能计算、图像分析\n团队成员\n团队名称：文本挖掘\n团队介绍：我们欢迎对数据挖掘和文本挖掘同学，来课题组进行科研\n团队照片：\n邓娟\n刘金硕\n教授\n博士生导师\n硕士生导师\n主要任职：CCF 高级会员，IEEE会员，ACM会员，国家能源公司评审专家\n性别： 女\n学历： 研究生毕业\n在职信息：在职\n所在单位：国家网络安全学院\n入职时间： 1997-07-01\n联系方式：liujinshuo@whu.edu.cn\n电子邮箱：\n邮编 : \n移动电话 : \n邮箱 : \n开通时间：..\n最后更新时间：..",
+    "research_section": "",
+    "education_section": ""
+  }
+}

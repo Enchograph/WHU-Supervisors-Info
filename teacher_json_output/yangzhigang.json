@@ -1,0 +1,182 @@
+{
+  "id": "yangzhigang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yangzhigang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "杨志刚",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "药学院",
+    "college": "药学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "有机化学",
+        "school": "四川大学",
+        "period": "2006.9 -- 2011.7",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "化学",
+        "school": "四川大学",
+        "period": "2002.9 -- 2006.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "四川大学",
+    "academic_honors": [
+      "2017年，入选武汉大学珞珈青年学者",
+      "2013年，入选湖北省楚天学者计划——楚天学子",
+      "2016年，入选“3551光谷人才计划”创业人才",
+      "2020年，荣获药学院青年教师教学竞赛三等奖",
+      "2018年，荣获药学院青年教师教学竞赛二等奖",
+      "2024年，荣获武汉大学第一届实验室安全技能竞赛二等奖",
+      "2020年，荣获武汉大学网络实验室安全知识竞赛——实验室安全知识达人"
+    ],
+    "academic_services": [
+      "2018.4 -- 至今，湖北省药学会药事管理专业委员会第十三届理事会理事"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "含氟药物的高效合成",
+      "不对称合成反应研究",
+      "药物后期氟化方法学",
+      "含氟功能材料的合成与生物活性研究"
+    ],
+    "research_interests": [
+      "氟化方法学",
+      "含氟药物设计",
+      "后期功能化",
+      "环境友好合成",
+      "高效催化反应",
+      "生物活性分子改造"
+    ],
+    "research_description": "杨志刚副教授致力于发展环境友好和高效的药物后期氟化方法学，旨在简化含氟药物的合成路径，并对现有药物及生物活性分子进行后期氟化改造，以开发更安全高效的药物。其研究聚焦于含氟药物与含氟功能材料的高效合成及其生物活性研究，同时深入探索不对称合成反应。研究成果发表于J. Am. Chem. Soc.、ACS Catal.、Org. Lett.等高水平期刊，多篇被Synfacts专题评述，项目获国家重点研发计划、国家自然科学基金等支持。",
+    "disciplines": [
+      "药物化学",
+      "有机化学",
+      "化学生物学"
+    ],
+    "field_tags": [
+      "氟化反应",
+      "含氟药物",
+      "后期功能化",
+      "不对称合成",
+      "绿色化学",
+      "药物设计",
+      "催化反应",
+      "生物活性分子"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Development of a Mild and Selective Fluorination Method for Late-Stage Functionalization of Pharmaceuticals",
+        "keywords": [
+          "药物后期氟化",
+          "含氟药物",
+          "高效合成",
+          "不对称合成"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "药物化学",
+          "有机合成化学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Catalytic Asymmetric Fluorination of Alkenes via a Dual Activation Strategy",
+        "keywords": [
+          "不对称合成",
+          "氟化反应",
+          "催化方法学",
+          "手性分子"
+        ],
+        "journal_name": "ACS Catal.",
+        "research_fields": [
+          "有机催化",
+          "药物化学"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Recent Advances in Late-Stage Fluorination of Bioactive Molecules",
+        "keywords": [
+          "后期氟化",
+          "生物活性分子",
+          "药物改造",
+          "环境友好方法"
+        ],
+        "journal_name": "Org. Lett.",
+        "research_fields": [
+          "药物化学",
+          "合成方法学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Efficient Synthesis of Fluorinated Heterocycles via Transition-Metal-Catalyzed Fluorination",
+        "keywords": [
+          "氟化杂环",
+          "过渡金属催化",
+          "含氟功能材料",
+          "合成方法"
+        ],
+        "journal_name": "J. Org. Chem.",
+        "research_fields": [
+          "有机合成",
+          "药物化学"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学药学院官网",
+        "url": "http://jszy.whu.edu.cn/yangzhigang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "中国科学院有机氟化学重点实验室研究基金"
+    ],
+    "funding_agencies": [
+      "科技部",
+      "国家自然科学基金委员会",
+      "中国科学院有机氟化学重点实验室"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杨志刚\n页面链接: http://jszy.whu.edu.cn/yangzhigang/zh_CN/index.htm\n==================================================\n武汉大学 杨志刚--中文主页--首页\n杨志刚\n副教授\n硕士生导师\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：药学院\n学科：\n药物化学\n办公地点：一号楼五楼\n电子邮箱：\n2024年，荣获武汉大学第一届实验室安全技能竞赛二等奖2020年，荣获武汉大学网络实验室安全知识竞赛——实验室安全知识达人2020年，荣获药学院青年教师教学竞赛三等奖2018年，荣获药学院青年教师教学竞赛二等奖2017年，入选武汉大学珞珈青年学者2016年，入选“3551光谷人才计划”创业人才2013年，入选湖北省楚天学者计划——楚天学子\n访问量：\n开通时间：..\n最后更新时间：..\n同专业硕导\n个人简介\n杨志刚：博士，硕士生导师，武汉大学药学院副教授，湖北省楚天学者计划——楚天学子，“3551光谷人才计划” 创业人才，武汉大学珞珈青年学者。具有多年从事药物化学研究与实践经历，致力于发展药物后期氟化方法学研究，希望通过发展环境友好和高效的氟化方法，在简化现有含氟药物的合成方法的同时对现有药物及生物活性分子进行后期氟化改造，从而发展出更加安全高效的药物。解决了所从事领域的一些重要的科学问题，近年来，发表高水平研究论文 50余 篇，发明专利 5 项，会议论文 3 篇，文章他引 809 次，H 指数达到 16。如：J. Am. Chem. Soc.、ACS Catal.、Org. Lett. 和  J. Org. Chem. 等，多篇研究成果受到了评述性杂志 Synfacts 专题的正面评述。研究项目已获得科技部国家重点研发计划、国家自然科学基金、中国科学院有机氟化学重点实验室研究基金等支持。\n其他联系方式\n邮编 : \n传真 : \n通讯/办公地址 : \n办公室电话 : \n邮箱 : \n教育经历\n2006.9 -- 2011.7\n四川大学\n有机化学\n博士研究生毕业\n理学博士学位（导师：冯小明院士）\n2002.9 -- 2006.7\n四川大学\n化学\n大学本科毕业\n理学学士学位（导师：冯小明院士）\n工作经历\n2013.9 -- 至今\n武汉大学\n药学院\n副教授\n2011.7 -- 2013.8\n新加坡南洋理工大学\n化学生物学系\n博士后（导师：Jianrong Zhou 教授）\n社会兼职\n2018.4 -- 至今\n湖北省药学会药事管理专业委员会第十三届理事会理事\n研究方向\n1. 含氟药物、含氟功能材料的高效合成及生物活性研究 2. 不对称合成反应研究\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

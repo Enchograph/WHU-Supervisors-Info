@@ -1,0 +1,205 @@
+{
+  "id": "liuxiaoqing",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuxiaoqing/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘晓庆",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "分析化学",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "化学化工与材料科学",
+        "school": "山东师范大学",
+        "period": "2003年",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "电分析化学",
+        "school": "中科院长春应用化学研究所",
+        "period": "2009年初",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中科院长春应用化学研究所",
+    "academic_honors": [
+      "中科院刘永龄特等奖",
+      "入选国家级人才计划重点资助"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "核酸分子组装与调控",
+      "生物医学材料与纳米探针开发",
+      "传感分析与精准诊疗",
+      "DNA纳米技术与智能生物电路",
+      "肿瘤诊断与治疗"
+    ],
+    "research_interests": [
+      "DNA纳米组装",
+      "生物传感",
+      "精准医疗",
+      "纳米探针",
+      "基因治疗",
+      "肿瘤免疫治疗",
+      "智能响应材料",
+      "电化学与电化学发光检测",
+      "多模态成像",
+      "光动力与光热治疗"
+    ],
+    "research_description": "刘晓庆教授长期致力于分析化学与生物医学交叉领域的研究，聚焦于核酸分子的自组装与调控，开发先进功能材料与智能探针，应用于生物传感、疾病早期诊断及精准治疗。研究涵盖DNA纳米结构设计、可编程DNA电路、响应性纳米机器、生物矿化DNA海绵、基因-光动力协同治疗系统等，致力于实现对细胞内微环境（如ATP、miRNA、GSH等）的高灵敏检测与远程调控。研究成果发表于J. Am. Chem. Soc., Angew. Chem. Int. Ed., Nat. Commun., ACS Nano, Adv. Mater.等国际顶级期刊，具有显著的前沿性与应用价值。",
+    "disciplines": [
+      "分析化学",
+      "生物医学工程",
+      "材料科学",
+      "纳米技术",
+      "分子诊断"
+    ],
+    "field_tags": [
+      "DNA纳米技术",
+      "生物传感",
+      "精准诊疗",
+      "智能材料",
+      "肿瘤治疗",
+      "纳米探针",
+      "基因治疗",
+      "光动力治疗",
+      "电化学检测",
+      "生物医学材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 150,
+    "representative_publications": [
+      {
+        "title": "Programming DNA Nanoassemblies into Polyvalent Lysosomal Degraders for Potent Degradation of Pathogenic Membrane Proteins",
+        "keywords": [
+          "DNA纳米组装",
+          "溶酶体降解",
+          "膜蛋白靶向",
+          "传感分析",
+          "精准诊疗"
+        ],
+        "journal_name": "Nano Lett.",
+        "research_fields": [
+          "分析化学",
+          "生物医学材料",
+          "纳米技术"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Programming Fast DNA Amplifier Circuits with Versatile Toehold Exchange Pathway",
+        "keywords": [
+          "DNA放大电路",
+          "toehold交换",
+          "分子计算",
+          "生物传感"
+        ],
+        "journal_name": "Small",
+        "research_fields": [
+          "分析化学",
+          "合成生物学",
+          "智能材料"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "An Intelligent Redox-Responsive DNA Circuit for Robust On-Site Profiling of Glutathione-MicroRNA Signaling Pathway",
+        "keywords": [
+          "氧化还原响应",
+          "DNA电路",
+          "谷胱甘肽",
+          "微RNA检测",
+          "现场分析"
+        ],
+        "journal_name": "Adv. Funct. Mater.",
+        "research_fields": [
+          "分析化学",
+          "生物传感",
+          "信号通路监测"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "An Integrated Sequential-Activated DNA Circuit for Reliable Imaging of Intracellular miRNA and Remote Control of Cellular Function",
+        "keywords": [
+          "顺序激活",
+          "DNA电路",
+          "细胞内miRNA成像",
+          "远程调控",
+          "细胞功能控制"
+        ],
+        "journal_name": "Adv. Funct. Mater.",
+        "research_fields": [
+          "分析化学",
+          "基因调控",
+          "智能诊疗"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Light-Up Aptameric Sensor of Serotonin for Point-of-Care Use",
+        "keywords": [
+          "适体传感器",
+          "血清素检测",
+          "即时检测",
+          "光信号增强",
+          "生物医学检测"
+        ],
+        "journal_name": "Anal. Chem.",
+        "research_fields": [
+          "分析化学",
+          "生物传感器",
+          "临床诊断"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/scientific-contributions/Xiaoqing-Liu-2129095645"
+      },
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0002-1309-5454"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘晓庆\n页面链接: http://jszy.whu.edu.cn/liuxiaoqing/zh_CN/index.htm\n==================================================\n武汉大学 刘晓庆--中文主页--首页\n刘晓庆\n教授\n博士生导师\n硕士生导师\n性别：女\n学历：博士研究生毕业\n所在单位：化学与分子科学学院\n学科：\n分析化学\n办公地点：化学与分子科学学院化中219\n联系方式：13618660366\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n教育与研究经历：\n2003年于山东师范大学化学化工与材料科学学院获学士学位，2009年初于中科院长春应用化学研究所电分析化学国家重点实验室获博士学位。2009至2015年先后在丹麦奥胡斯大学化学系、交叉学科纳米中心，以色列耶路撒冷希伯来大学化学研究所、纳米科学与技术中心工作。2015年加入武汉大学化学与分子科学学院，任教授、博士生导师。曾获中科院刘永龄特等奖，入选国家级人才计划重点资助。\n研究领域与兴趣：\n研究兴趣包括分析化学方法、生物医学材料等。主要围绕核酸分子的组装与调控，开发先进材料与探针，用于传感分析检测、精准诊疗研究。相关成果发表在J. Am. Chem. Soc., Angew. Chem. Int. Ed., Nat. Commun., ACS Nano, Nano Lett., Acc. Chem. Res., Adv. Mater., Adv. Funct. Mater., Biomaterials, Chem. Sci., Anal. Chem.等国际一流期刊150余篇并被广泛引用，授权专利6项。\nResearchGate: https://www.researchgate.net/scientific-contributions/Xiaoqing-Liu-2129095645\nORCID: https://orcid.org/0000-0002-1309-5454\n招生招聘：\n课题组科研条件先进完备、学习环境优越、指导精心、培养悉心，是面向科技前沿和生命健康需求的交叉研究团队；实验室气氛融洽、友爱互助。\n指导的本科生获得优秀本科毕业论文、在国内外各顶尖院校等深造。\n培养的研究生在校期间获得研究生学术创新奖、优秀研究生标兵、优秀毕业生、中国光谷奖学金、人福科研奖学金、蓝月亮奖学金、优秀学业奖学金等荣誉。\n培养的研究生毕业后入选“博新计划”、任教于国内外各著名院校或就职于优秀企事业等单位。\n指导的青年教师访问学者事业有蓬勃发展。\n我们相信每个人都有自身独一无二的价值。如果你感兴趣，欢迎邮件联系加入我们。\n通讯作者论文:\n(1)   Shuyi Yu, Tianhui Shi, Chenbiao Li, Chongyu Xie, Fuan Wang, Xiaoqing Liu. Programming DNA Nanoassemblies into Polyvalent Lysosomal Degraders for Potent Degradation of Pathogenic Membrane Proteins. Nano Lett., 2024, 24, 37, 11573-11580.\n(2)     Fengye Mo, Chenbiao Li, Junlin Sun, Xue Lin, Shuyi Yu, Fuan Wang, Xiaoqing Liu, Jinghong Li. Programming Fast DNA Amplifier Circuits with Versatile Toehold Exchange Pathway. Small, 2024, 20, 2402914.\n(3)     Yifei Wang, Jinhua Shang, Yuqiu He, Qingqing Zhang, Xiaoqing Liu, Fuan Wang. An Intelligent Redox-Responsive DNA Circuit for Robust On-Site Profiling of Glutathione-MicroRNA Signaling Pathway. Adv. Funct. Mater., 2024, 34(26), 2315993.\n(4)     Mengdi Yu, Jinhua Shang, Chongyu Xie, Yuqian Jiang, Yuan Wang, Xiaoqing Liu, Fuan Wang. An Integrated Sequential-Activated DNA Circuit for Reliable Imaging of Intracellular miRNA and Remote Control of Cellular Function. Adv. Funct. Mater., DOI: 10.1002/adfm.202508992\n(5)     Gege Song, Zhiqiao Zou, Ailing Feng, Chenbiao Li, Meijuan Liang, Fuan Wang, Xiaoqing Liu. Light-Up Aptameric Sensor of Serotonin for Point-of-Care Use. Anal. Chem., 2023, 95(23), 9076-9082.\n(6)  Wenqian Yu, Yingying Chen, Mingzhu Yan, Zhen Xu, Junlin Sun, Yu Shen, Dengpeng Song, Fuan Wang, Xiaoqing Liu. Synergistic Immunostimulation for Tumor Sensitization with a Biomineralized DNA Sponge. Nano Today, 2023, 52, 101996.\n(7)     Yingying Chen, Mingzhu Yan, Yushi Wang, Jinhua Shang, Shizhen He, Yuhui Gao, Chen Hong, Xiaoqing Liu, Fuan Wang. Construction of a Stimuli-Responsive DNAzyme-Braked DNA Nanomachine for the Amplified Imaging of miRNAs in Living Cells and Mice. CCS Chem., 2023, 5, 1697-1708.\n(8)     Hong Wang, Yushi Wang, Yeqing Wan, Jinhua Shang, Qing Wang, Yuqian Jiang, Xiaoqing Liu, Fuan Wang. A Cellular Membrane-Confined Concatenate DNA Circuit for Non-Invasive Cell Modulation with High Accuracy and Efficiency. Adv. Funct. Mater., 2023, 33(40), 2302708.\n(9)     Jialing Hu, Zhiqiao Zou, Fengye Mo, Xue Lin, Yun Zhao, Tianhui Shi, Fuan Wang, Xiaoqing Liu. Triggered Amplification of Gene Theranostics with High Accuracy and Efficacy Using Metallo-Nanoassemblies. Chem. Eng. J., 2023, 452, 139323.\n(10)  Zhiqiao Zou, Min Pan, Fengye Mo, Qunying Jiang, Ailing Feng, Yizhuo Zhou, Fuan Wang, Xiaoqing Liu. High-Fidelity ATP Imaging via an Isothermal Cascade Catalytic Amplifier. Chem. Sci., 2022, 13, 12198-12207.\n(11)  Zhen Xu, Tianhui Shi, Fengye Mo, Wenqian Yu, Yu Shen, Qunying Jiang, Fuan Wang, Xiaoqing Liu. Programmable Assembly of Multivalent DNA-Protein Superstructures for Tumor Imaging and Targeted Therapy. Angew. Chem. Int. Ed., 2022, 61(44), e202211505.\n(12)  Wenqian Yu, Junlin Sun, Xiuyuan Wang, Shuyi Yu, Mingzhu Yan, Fuan Wang, Xiaoqing Liu. Boosting Cancer Immunotherapy Via the Convenient A2AR Inhibition Using a Tunable Nanocatalyst with Light-Enhanced Activity. Adv. Mater., 2022, 34, 2106967.\n(13)  Dan Luo, Xue Lin, Yun Zhao, Jialing Hu, Fengye Mo, Gege Song, Zhiqiao Zou, Fuan Wang, Xiaoqing Liu. A Dynamic DNA Nanosponge for Triggered Amplification of Gene-Photodynamic Modulation. Chem. Sci., 2022, 13, 5155-5163.\n(14)  Yun Zhao, Ruomeng Li, Junlin Sun, Zhiqiao Zou, Fuan Wang, Xiaoqing Liu. Multifunctional DNAzyme-Anchored Metal–Organic Frameworks for Efficient Suppression of Tumor Metastasis. ACS Nano, 2022, 16(4), 5404-5417.\n(15) Junlin Sun, Feng Liu, Wenqian Yu, Dandan Fu, Qunying Jiang, Fengye Mo, Xiuyuan Wang, Tianhui Shi, Fuan Wang, Dai-Wen Pang, Xiaoqing Liu. Visualization of Vaccine Dynamics with Quantum Dots for Immunotherapy. Angew. Chem. Int. Ed., 2021, 60(45), 24275-24283\n(16)  Xue Gong, Haizhou Wang, Ruomeng Li, Kaiyue Tan, Jie Wei, Jing Wang, Chen Hong, Jinhua Shang, Xiaoqing Liu, Jing Liu, Fuan Wang. A Smart Multiantenna Gene Theranostic System Based on the Programmed Assembly of Hypoxia-Related siRNAs. Nat. Commun., 2021, 12, 3953.\n(17)  Zhen Xu, Li Zhang, Min Pan, Qunying Jiang, Yunjie Huang, Fuan Wang, Xiaoqing Liu. A Bionanozyme with Ultrahigh Activity Enables Spatiotemporally Controlled Reactive Oxygen Species Generation for Cancer Therapy. Adv. Funct. Mater., 2021, 31, 2104100.\n(18)  Yahua Liu, Fengye Mo, Jialing Hu, Qunying Jiang, Xiuyuan Wang, Zhiqiao Zou, Xian-Zheng Zhang, Dai-Wen Pang, Xiaoqing Liu. Precision Photothermal Therapy and Photoacoustic Imaging by In Situ Activatable Thermoplasmonics. Chem. Sci., 2021, 12, 10097-10105.\n(19)  Qunying Jiang, Min Pan, Jialing Hu, Junlin Sun, Lei Fan, Zhiqiao Zou, Jianshuang Wei, Xiaoquan Yang, Xiaoqing Liu. Regulation of Redox Balance Enhances Phototherapy Efficacy and Suppresses Tumor Metastasis Using a Biocompatible Nanoplatform. Chem. Sci., 2021, 12, 148-157.\n(20)  Yizhuo Zhou, Lina Zou, Gaiping Li, Tianhui Shi, Shuyi Yu, Fuan Wang, Xiaoqing Liu. A Cooperatively Activatable DNA Nanoprobe for Cancer Cell-Selective Imaging of ATP. Anal. Chem., 2021, 93(41), 13960-13966.\n(21)  Shuang Li, Qunying Jiang, Yahua Liu, Wenxiao Wang, Wenqian Yu, Fuan Wang, Xiaoqing Liu. Precision Spherical Nucleic Acids Enable Sensitive FEN1 Imaging and Controllable Drug Delivery for Cancer Specific Therapy. Anal. Chem., 2021, 93(32), 11275–11283.\n(22)  Qunying Jiang, Lei Fan, Junlin Sun, Jialing Hu, Man He, Bin Hu, Fuan Wang, Xiaoqing Liu. Modulation of Oxidative Stress in Cancer Cells with A Biomineralized Converter. ACS Materials Lett., 2021, 3, 1778-1785.\n(23)  Tianhui Shi, Jialing Hu, Wenxiao Wang, Qunying Jiang, Zhen Xu, Shuyi Yu, Fuan Wang, Xiaoqing Liu. Multiple Blockades of the HGF/Met Signaling Pathway for Metastasis Suppression Using Nanoinhibitors. ACS Appl. Mater. Inter., 2021, 13(26), 30350-30358.\n(24)  Ruomeng Li, Xue Gong, Chen Hong, Hong Wang, Yingying Chen, Kaiyue Tan, Xiaoqing Liu, Fuan Wang. An Efficient Photochemotherapy Nanoplatform Based on the Endogenous Biosynthesis of Photosensitizer in Macrophage-Derived Extracellular Vesicles. Biomaterials, 2021, 279, 121234.\n(25)  Min Pan, Qunying Jiang, Junlin Sun, Zhen Xu, Yizhuo Zhou, Li Zhang, Xiaoqing Liu. Programming DNA Nanoassembly for Enhanced Photodynamic Therapy. Angew. Chem. Int. Ed., 2020, 59(5), 1897-1905. (Highlighted as Front Cover)\n(26)  Wenxiao Wang, Yahua Liu, Tianhui Shi, Junlin Sun, Fengye Mo, Xiaoqing Liu. Biosynthesized Quantum Dot for Facile and Ultrasensitive Electrochemical and Electrochemiluminescence Immunoassay. Anal. Chem., 2020, 92(1), 1598-1604.\n(27)  Junlin Sun, Min Pan, Feng Liu, Wenqian Yu, Wenxiao Wang, Fengye Mo, Shuyi Yu, Yizhuo Zhou, Xiaoqing Liu. Immunostimulatory DNA Nanogel Enables Effective Lymphatic Drainage and High Vaccine Efficacy. ACS Materials Lett., 2020, 2(12), 1606–1614.\n(28)  Wenqian Yu, Junlin Sun, Feng Liu, Shuyi Yu, Zhen Xu, Fuan Wang, Xiaoqing Liu. Enhanced Immunostimulatory Activity of a Cytosine-Phosphate-Guanosine Immunomodulator by the Assembly of Polymer DNA Wires and Spheres. ACS Appl. Mater. Inter., 2020, 12(15), 17167-17176.\n(29)  Feng Liu, Junlin Sun, Wenqian Yu, Qunying Jiang, Min Pan, Zhen Xu, Fengye Mo, Xiaoqing Liu. Quantum Dot-Pulsed Dendritic Cell Vaccines Plus Macrophage Polarization for Amplified Cancer Immunotherapy. Biomaterials, 2020, 242, 119928.\n(30)  Yahua Liu, Min Pan, Wenxiao Wang, Qunying Jiang, Fuan Wang, Dai-Wen Pang, Xiaoqing Liu. Plasmonic and Photothermal Immunoassay via Enzyme-Triggered Crystal Growth on Gold Nanostars. Anal. Chem., 2019, 91(3), 2086–2092.\n(31) Jie Feng, Zhen Xu, Feng Liu, Yun Zhao, Wenqian Yu, Min Pan, Fuan Wang, Xiaoqing Liu. Versatile Catalytic Deoxyribozyme Vehicles for Multimodal Imaging-Guided Efficient Gene Regulation and Photothermal Therapy. ACS Nano, 2018, 12 (12), 12888–12901.\n专利：\n(1)发明人:李景虹，王美佳，刘晓庆,专利名称:脱氧核糖核酸电化学纳米传感器的制备方法,专利号: 03127158.8,公开号：CN1525163，授权公告日：2005.08.17\n(2)发明人:徐国宝，刘晓庆，史立红，专利名称:环境友好的高灵敏电化学发光检测方法,专利号:200510016848.4,公开号: CN1696666，授权公告日：2010.01.27\n(3)发明人:徐国宝，史立红，刘晓庆，牛文新,专利名称:三联吡啶钌电化学发光测定血浆钙的方法,专利号: 200510017231.4,公开号：CN1773259，授权公告日： 2009.05.20\n(4)发明人:徐国宝，史立红，刘晓庆，李海娟,专利名称:溶胶－凝胶法制备的碳陶瓷材料的应用,专利号: 200510017012.6,公开号：CN1736581，授权公告日：2007.10.10\n(5)发明人:徐国宝，史立红，刘晓庆,专利名称:Nafion－碳陶瓷复合材料电化学发光传感器的制备方法，专利号:CN200510016770.6, 公开号: CN1693285，授权公告日：2007.05.09\n(6) Itamar Willner, Fuan Wang, Chun-Hua Lu, Xiaoqing Liu, Lina Freage, Compositions, kits, uses and methods for amplified detection of an analyte, United States Patent 9809846, Application Number:14/586214, Publication Date: 11/07/2017, Filing Date: 12/30/2014\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

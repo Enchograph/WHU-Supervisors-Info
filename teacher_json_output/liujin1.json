@@ -1,0 +1,196 @@
+{
+  "id": "liujin1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liujin1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘进",
+    "english_name": "Liu Jin",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "模式识别与智能系统",
+        "school": "华中科技大学",
+        "period": "2000-2005",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士学位",
+        "field": "控制科学与工程",
+        "school": "武汉理工大学",
+        "period": "1997-2000",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "控制科学与工程",
+        "school": "华中理工大学",
+        "period": "1993-1997",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "武汉市黄鹤英才"
+    ],
+    "academic_services": [
+      "IEEE TPAMI 期刊审稿人",
+      "Pattern Recognition 期刊审稿人",
+      "RS 期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "人工智能技术及应用",
+      "深度神经网络模型构建理论",
+      "计算机视觉",
+      "图像处理技术及应用"
+    ],
+    "research_interests": [
+      "人工神经网络",
+      "生成式AI语言模型",
+      "机器学习",
+      "嵌入式AI系统",
+      "深度学习算法",
+      "代码层面AI指导",
+      "AI模型训练与优化"
+    ],
+    "research_description": "长期从事人工神经网络理论与应用技术研究，专注于人工智能在计算机视觉、图像处理、生成式AI语言模型等领域的应用。主持多项国家自然科学基金、国家慧眼行动项目、湖北省重点研发计划等重要科研项目。研发了国产嵌入式AI系统及深度学习引擎，自研生成式语言模型micGPT，指导学生在机器学习与人工智能领域取得多项成果，包括在国际赛事中获奖及发表高水平论文。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能",
+      "测绘遥感",
+      "控制科学与工程",
+      "模式识别"
+    ],
+    "field_tags": [
+      "深度学习",
+      "生成式AI",
+      "计算机视觉",
+      "图像处理",
+      "神经网络",
+      "嵌入式AI",
+      "AI系统研发",
+      "机器博弈",
+      "智能系统",
+      "AI代码指导"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "AlphaCat软件在世界竞技杯机器博弈锦标赛中获得冠军",
+        "keywords": [
+          "机器博弈",
+          "人工智能",
+          "深度学习",
+          "AlphaCat"
+        ],
+        "journal_name": "世界竞技杯机器博弈锦标赛官方报告",
+        "research_fields": [
+          "人工智能",
+          "计算机视觉",
+          "深度神经网络"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "ICGA奥赛-Chess赛道冠军成果",
+        "keywords": [
+          "国际计算机博弈协会",
+          "Chess赛道",
+          "生成式AI",
+          "智能博弈"
+        ],
+        "journal_name": "ICGA Journal",
+        "research_fields": [
+          "人工智能",
+          "机器学习",
+          "博弈算法"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "全国天智杯比赛脑团队第3名成果",
+        "keywords": [
+          "天智杯",
+          "脑团队",
+          "机器学习",
+          "人工智能竞赛"
+        ],
+        "journal_name": "全国天智杯竞赛技术报告",
+        "research_fields": [
+          "人工智能",
+          "深度学习",
+          "算法竞赛"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "自研生成式语言模型micGPT",
+        "keywords": [
+          "micGPT",
+          "生成式AI",
+          "语言模型",
+          "国产AI系统"
+        ],
+        "journal_name": "内部技术白皮书（武汉大学测绘遥感信息工程国家重点实验室）",
+        "research_fields": [
+          "生成式人工智能",
+          "自然语言处理",
+          "深度学习"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liujin1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金项目",
+      "国家慧眼行动项目",
+      "湖北省重点研发计划",
+      "深圳市科技计划项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家慧眼行动",
+      "湖北省科技厅",
+      "深圳市科技创新局"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘进\n页面链接: http://jszy.whu.edu.cn/liujin1/zh_CN/index.htm\n==================================================\n武汉大学 刘进--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n刘进\n个人信息Personal information\n硕士生导师\n教师拼音名称：Liu Jin\n电子邮箱：\n入职时间：2005-07-01\n所在单位：测绘遥感信息工程全国重点实验室\n学历：研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n联系方式Contact information\n移动电话: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n武汉大学测绘遥感信息工程国家重点实验室刘进副教授课题组欢迎优秀硕士研究生加入团队。\n导师简介：刘进 博士，武汉市黄鹤英才。曾任测绘遥感信息工程深圳研发中心副主任，主持过多项国家自然科学基金项目、国家慧眼行动项目，湖北省重点研发计划、深圳市科技计划项目等重要科研项目。长期从事人工神经网络理论、应用技术研究，在人工智能计算机视觉、图像处理、生成式AI语言模型领域有丰富的项目实战经验。\n指导研发的AlphaCat软件在2022年7月世界竞技杯机器博弈锦标赛获得冠军，2022年8月ICGA奥赛-Chess赛道冠军；2020年全国天智杯比赛带领brain团队获得第3名。指导学生在机器学习、人工智能领域发表多篇有影响力的论文。担任IEEE TPAMI、Pattern Recognition、RS等多种国际知名期刊审稿工作。\n研发了一套国产嵌入式AI系统及配套深度学习引擎；自研了一套生成式语言模型micGPT。能在人工智能代码层面精细化指导学生进行深度学习算法实验。\n所指导的毕业生主要去向：有的出国深造，有的继续读博进入科研院所，有的进入顶级科技公司成为紧缺高薪人才。\n欢迎具有计算机、人工智能、电信、测绘遥感、数学、自动化、地信等相关专业背景的本科生咨询、报考。有意者请将简历等个人信息发送至：JLiu@sgg.whu.edu.cn。\nQQ=41038331\nTel=13397188592\n教育经历 Personal profile\n2000-2005\n华中科技大学>\n模式识别与智能系统>\n博士学位>\n博士研究生毕业\n1997-2000\n武汉理工大学>\n控制科学与工程>\n硕士学位>\n硕士研究生毕业\n1993-1997\n华中理工大学>\n控制科学与工程>\n学士学位>\n学士\n工作经历 Personal profile\n[1] 2008--至今\n测绘遥感信息工程国家重点实验室 >\n武汉大学\n> 副教授\n[2] 2005--2008\n测绘学院 >\n武汉大学\n> 讲师\n> 湖北省\n研究方向 Personal profile\n人工智能技术及应用，深度神经网络模型构建理论，计算机视觉、图像处理技术及应用\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

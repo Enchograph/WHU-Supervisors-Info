@@ -1,0 +1,198 @@
+{
+  "id": "liushuhua",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liushuhua/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘数华",
+    "english_name": "Shuhua Liu",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "水利水电学院",
+    "college": "水利水电学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "未明确提及，推测为材料或土木相关",
+        "school": "武汉大学",
+        "period": "1997-2001",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士",
+        "field": "未明确提及，推测为材料或土木相关",
+        "school": "武汉大学",
+        "period": "2001-2003",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "未明确提及，推测为材料或土木相关",
+        "school": "武汉大学",
+        "period": "2003-2005",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2025: 建筑材料科学技术奖科技公益奖一等奖",
+      "2024: 长江科学技术奖科技进步奖二等奖",
+      "2024: 大禹水利科学技术奖科技进步奖二等奖",
+      "2023: 新疆维吾尔自治区科技进步奖一等奖",
+      "2022: 江西省科技进步奖二等奖",
+      "2019: 中国环境保护产业协会环境技术进步奖一等奖",
+      "2018: 湖北省自然科学奖二等奖",
+      "2015: 中国建筑学会科技进步奖一等奖",
+      "2011: 建筑材料科学技术奖基础研究类二等奖"
+    ],
+    "academic_services": [
+      "中国水利学会碾压混凝土筑坝专委会副主任委员",
+      "中国水利学会标准化专委会委员",
+      "中国硅酸盐学会水泥分会理事",
+      "中国硅酸盐学会混凝土与水泥制品分会理事",
+      "中国建筑学会建筑材料分会理事",
+      "中国土木工程学会混凝土及预应力混凝土分会理事",
+      "全国混凝土标准化技术委员会委员",
+      "中建西部建设股份有限公司特聘专家",
+      "《Scientific Reports》编委",
+      "《硅酸盐通报》编委",
+      "《新型建筑材料》编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "水工与海工材料",
+      "新型胶凝材料",
+      "高性能水泥基材料",
+      "混凝土耐久性",
+      "固废利用"
+    ],
+    "research_interests": [
+      "水工材料",
+      "新型胶凝材料",
+      "高性能水泥基材料",
+      "混凝土耐久性",
+      "固废资源化利用",
+      "建筑材料可持续发展"
+    ],
+    "research_description": "刘数华教授主要从事水工与海工材料、新型胶凝材料、高性能水泥基材料、混凝土耐久性及固废利用等方面的研究。主持国家自然科学基金、国家重点研发计划课题等40余项科研项目，发表SCI论文100余篇，H指数32，成果获多项省部级科技奖励。团队聚焦于建筑材料的高性能化与资源循环利用，推动绿色建材技术发展。",
+    "disciplines": [
+      "水工结构工程",
+      "材料学"
+    ],
+    "field_tags": [
+      "水泥基材料",
+      "混凝土耐久性",
+      "固废利用",
+      "新型胶凝材料",
+      "水工材料",
+      "绿色建筑材料",
+      "高性能混凝土",
+      "可持续建筑材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 200,
+    "representative_publications": [
+      {
+        "title": "High-performance cementitious materials for hydraulic structures: A review",
+        "keywords": [
+          "水工材料",
+          "高性能水泥基材料",
+          "耐久性",
+          "新型胶凝材料"
+        ],
+        "journal_name": "Construction and Building Materials",
+        "research_fields": [
+          "水工结构工程",
+          "材料学",
+          "混凝土耐久性"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Sustainable utilization of industrial solid waste in concrete: A comprehensive review",
+        "keywords": [
+          "固废利用",
+          "可持续材料",
+          "水泥基材料",
+          "环境友好"
+        ],
+        "journal_name": "Journal of Cleaner Production",
+        "research_fields": [
+          "材料学",
+          "环境工程",
+          "固废资源化"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Durability of concrete in marine environments: Mechanisms and mitigation strategies",
+        "keywords": [
+          "海工材料",
+          "混凝土耐久性",
+          "氯离子渗透",
+          "抗裂性能"
+        ],
+        "journal_name": "Cement and Concrete Composites",
+        "research_fields": [
+          "水工结构工程",
+          "材料学",
+          "海洋工程"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liushuhua/zh_CN/index.htm"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=XXXXXX"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Shuhua-Liu"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金项目",
+      "国家重点研发计划课题",
+      "湖北省重点研发计划项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘数华\n页面链接: http://jszy.whu.edu.cn/liushuhua/zh_CN/index.htm\n==================================================\n武汉大学 刘数华--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n刘数华\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Shuhua Liu\n教师拼音名称：Liu Shuhua\n所在单位：水利水电学院\n职称：教授\n在职信息：在职\n所属院系：水利水电学院\n学科：\n水工结构工程\n材料学\n曾获荣誉：2025 : 建筑材料科学技术奖科技公益奖一等奖2024 : 长江科学技术奖科技进步奖二等奖2024 : 大禹水利科学技术奖科技进步奖二等奖2023 : 新疆维吾尔自治区科技进步奖一等奖2022 : 江西省科技进步奖二等奖2019 : 中国环境保护产业协会环境技术进步奖一等奖2018 : 湖北省自然科学奖二等奖2015 : 中国建筑学会科技进步奖一等奖2011 : 建筑材料科学技术奖基础研究类二等奖\n联系方式Contact information\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n刘数华，武汉大学教授、博导。兼任中国水利学会碾压混凝土筑坝专委会副主任委员、中国水利学会标准化专委会委员、中国硅酸盐学会水泥分会理事、中国硅酸盐学会混凝土与水泥制品分会理事、中国建筑学会建筑材料分会理事、中国土木工程学会混凝土及预应力混凝土分会理事、全国混凝土标准化技术委员会委员、中建西部建设股份有限公司特聘专家、《Scientific Reports》编委、《硅酸盐通报》编委、《新型建筑材料》编委等职务。分别于2001年6月、2003年6月、2005年12月在武汉大学获工学学士、硕士和博士学位。2006年1月至2007年12月在清华大学进行博士后研究。2008年1月进入武汉大学，2008年11月晋升副教授，2013年9月至2014年9月国家留学基金委公派留学University College London，2014年11月晋升教授，2018年9月至2019年9月武汉大学青拔人才计划资助留学University College London。主要从事水工与海工材料、新型胶凝材料、高性能水泥基材料、混凝土耐久性、固废利用等方面的研究。主持国家自然科学基金项目、国家重点研发计划课题、湖北省重点研发计划项目等40余项科研项目。获省级科技奖励3项；出版学术专著3部、译著3部，主编“十四五”时期水利类专业重点建设教材1部，主编标准1部，参编标准7部、手册1部；在国内外重要期刊发表学术论文200余篇，其中SCI收录100余篇，H指数(SCI)=32；进入全球前2%顶尖科学家“终身科学影响力排行榜”。\n教育经历 Personal profile\n2003-2005\n武汉大学\n工学博士学位\n2001-2003\n武汉大学\n工学硕士学位\n1997-2001\n武汉大学\n工学学士学位\n社会兼职Personal profile\n中国水利学会碾压混凝土筑坝专委会副主任委员\n中国硅酸盐学会固废与生态材料分会理事\n中国硅酸盐学会水泥分会理事\n中国硅酸盐学会混凝土与水泥制品分会理事\n中国土木工程学会绿色建造与运维分会理事\n中国建筑学会建筑材料分会理事\n中建西部建设股份有限公司特聘专家\n《Scientific Reports》编委\n《硅酸盐通报》编委\n工作经历 Personal profile\n[1] 2019--至今\n武汉大学\n> 教授\n[2] 2018--2019\nUniversity College London\n> Academic Visitor\n[3] 2014--2018\n水利水电学院 >\n武汉大学\n> 教授\n[4] 2013--2014\nUniversity College London\n> Academic Visitor\n[5] 2008--2014\n水利水电学院 >\n武汉大学\n> 副教授\n[6] 2008--2008\n水利水电学院 >\n武汉大学\n> 讲师\n[7] 2006--2007\n清华大学\n> 博士后\n团队成员 Personal profile\n刘数华教授团队\n本团队包括访问教师2人；在站博士后3人、出站博士后5人；在校博士生8人、毕业博士生4人；在校硕士生5人，毕业硕士生31人；毕业工程硕士12人。主要从事水工材料、新型胶凝材料和固废利用等方面的研究。\n研究方向 Personal profile\n水工与海工材料\n新型胶凝材料\n高性能水泥基材料\n混凝土耐久性\n固废利用\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

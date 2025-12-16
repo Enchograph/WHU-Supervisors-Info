@@ -1,0 +1,226 @@
+{
+  "id": "zhengxianwei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhengxianwei/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "郑先伟",
+    "english_name": "Xianwei Zheng",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "空间数智化（GeoTell）研究小组",
+    "college": "信息学部",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2011.9 - 2015.12",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家高层次青年人才",
+      "弘毅青年学者",
+      "中国高校GIS新锐",
+      "2025年中国高校GIS创新人物",
+      "中国测绘科技进步一等奖（第一完成人）",
+      "中国自动化科技进步一等奖",
+      "中国地理信息科技进步一等奖",
+      "全球双视语义三维建模竞赛国际冠军",
+      "研究生人工智能创新大赛一等奖",
+      "夏坚白测绘优秀青年专项奖学金",
+      "国家奖学金",
+      "新生奖学金"
+    ],
+    "academic_services": [
+      "IEEE JSTAR 期刊编委",
+      "TGIS 期刊编委",
+      "PERS 期刊编委",
+      "ICCV 2021 研讨分会主席",
+      "中国GIS年会专题主席",
+      "全国激光雷达大会专题主席",
+      "中国三维视觉专委会委员",
+      "中国地理信息科学理论与方法专委会委员",
+      "中国虚拟地理环境专委会委员",
+      "中国测绘学会文化遗产保护专委会委员",
+      "IEEE TPAMI 审稿员",
+      "IEEE TNNLS 审稿员",
+      "ISPRS P&RS 审稿员",
+      "IEEE TGRS 审稿员",
+      "IJGIS 审稿员",
+      "IEEE JSTAR 审稿员",
+      "IJDE 审稿员",
+      "TGIS 审稿员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "计算机视觉",
+      "图像匹配与视觉定位",
+      "图像几何感知与智能解译",
+      "语义三维建模",
+      "AR导航与室内外三维GIS"
+    ],
+    "research_interests": [
+      "二三维视觉",
+      "时空大模型",
+      "可解释性学习",
+      "大规模地理制图",
+      "时空分析",
+      "三维GIS系统",
+      "空地联合三维数据获取",
+      "智能实体建模",
+      "遥感图像解译",
+      "点云补全",
+      "深度学习可解释性"
+    ],
+    "research_description": "郑先伟教授主要从事数学与计算机视觉、人工智能、测绘地理信息的交叉研究，聚焦于二三维视觉、时空大模型、可解释性学习及其在大规模二三维地理制图与时空分析中的应用。研究涵盖图像匹配、几何感知、语义三维建模、AR导航、室内外一体化数字空间构建等方向，成果应用于国家天地图平台、武汉世界军人运动会等重大工程。团队在IEEE TPAMI、ISPRS P&RS、CVPR、ICCV、ECCV、AAAI等顶级期刊和会议发表论文60余篇，主持国家自然科学基金、国家重点研发计划等项目，获中国测绘科技进步一等奖等多项奖励。",
+    "disciplines": [
+      "计算机科学与技术",
+      "测绘科学与技术",
+      "地理信息科学",
+      "人工智能"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "三维建模",
+      "遥感图像处理",
+      "时空分析",
+      "可解释AI",
+      "智能地理信息系统",
+      "点云处理",
+      "图像匹配",
+      "深度学习",
+      "地理信息科学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Unmixing Convolutional Features for Crisp Edge Detection",
+        "keywords": [
+          "边缘检测",
+          "卷积特征解耦",
+          "可解释性学习",
+          "图像几何感知"
+        ],
+        "journal_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)",
+        "research_fields": [
+          "计算机视觉",
+          "图像匹配",
+          "语义三维建模"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Holistic Geometric Feature Learning for Structured Reconstruction",
+        "keywords": [
+          "结构化重建",
+          "几何特征学习",
+          "室内场景理解",
+          "三维视觉"
+        ],
+        "journal_name": "International Conference on Computer Vision (ICCV)",
+        "research_fields": [
+          "计算机视觉",
+          "语义三维建模",
+          "图像几何感知"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Learning Deformable Hypothesis Sampling for PatchMatch Multi-View Stereo in the Wild",
+        "keywords": [
+          "多视图立体匹配",
+          "可变形假设采样",
+          "野外场景重建",
+          "三维感知"
+        ],
+        "journal_name": "Information Fusion (INFFUS)",
+        "research_fields": [
+          "计算机视觉",
+          "三维视觉",
+          "遥感图像处理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Scale-aware Co-visible Region Detection for Image Matching",
+        "keywords": [
+          "可见区域检测",
+          "尺度感知",
+          "图像匹配",
+          "遥感影像配准"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS P&RS)",
+        "research_fields": [
+          "摄影测量与遥感",
+          "图像匹配",
+          "地理信息科学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Holistic Response Lifting for Weakly-supervised Land-cover Classification",
+        "keywords": [
+          "弱监督分类",
+          "地物分类",
+          "响应提升",
+          "遥感图像解译"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)",
+        "research_fields": [
+          "遥感图像解译",
+          "弱监督学习",
+          "地理信息科学"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhengxianwei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家自然科学基金面上项目",
+      "国家重点研发计划子课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委",
+      "国家重点研发计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 郑先伟\n页面链接: http://jszy.whu.edu.cn/zhengxianwei/zh_CN/index.htm\n==================================================\n武汉大学 郑先伟--中文主页--首页\nEnglish\n中文\n郑先伟\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Xianwei Zheng\n电子邮箱：\n职务：主任助理\n学历：博士研究生毕业\n办公地点：信息学部星湖实验大楼608室\n性别：男\n联系方式：18171418527\n职称：教授\n在职信息：在职\n学科：\n个人简介\n郑先伟，主任助理，教授，博士生导师，弘毅青年学者，入选国家高层次青年人才。组建的空间数智化（GeoTell）研究小组（学术指导：龚健雅院士，合作导师：熊汉江教授），主要从事数学与计算机视觉、人工智能、测绘地理信息的交叉研究，包括二三维视觉、时空大模型、可解释性学习及其在大规模二三维地理制图/时空分析中的应用等。在IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) , ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS P&RS)、CVPR、ICCV、ECCV、AAAI等领域顶级期刊和会议发表论文60余篇。牵头及参与获得中国测绘科技进步一等奖、中国自动化科技进步一等奖、中国地理信息科技进步一等奖、全球双视语义三维建模竞赛国际冠军等，主持国家自然科学基金青年项目、面上项目、国家重点研发计划子课题等多项纵向课题，申请/获批国家发明专利 10 项、软件著作权 3 项，开发的三维GIS系统服务于国家天地图平台建设、武汉世界军人运动会等国家地方重大工程。入选中国“高校GIS新锐”，担任IEEE JSTAR、TGIS、PERS等期刊编委，ICCV 2021研讨分会、中国GIS年会、全国激光雷达大会等区域/专题主席，中国中国三维视觉专委会委员、中国地理信息科学理论与方法专委会委员、中国虚拟地理环境专委会委员、中国测绘学会文化遗传保护专委会委员、IEEE会员，以及IEEE TPAMI、IEEE TNNLS、ISPRS P&RS、IEEE TGRS、IJGIS、IEEE JSTAR、IJDE、TGIS等国际SCI期刊审稿员。\n招生信息：目前还有极少量博/硕士招生名额，欢迎有兴趣的同学交流与报考！\n新闻与动态\n[2025. 11]One paper has been accepted by AAAI 2026 (oral)!\n[2025. 10]个人获评2025年中国高校GIS创新人物!\n[2025. 09]通讯作者论文《 Holistic Response Lifting for Weakly-supervised Land-cover Classification》被国际权威期刊IEEE TGRS (中科院SCI一区，IF=8.6) 接收!\n[2025. 09]以第一完成人申报的项目成果《 空地联合三维数据快速获取与智能化实体建模关键技术及应用》获2025中国地理信息科技进步一等奖（免答辩）!\n[2025. 08]通讯作者论文《Scale-aware Co-visible Region Detection for Image Matching》被国际权威期刊ISPRS P&RS (中科院SCI一区，IF=12.2) 接收!\n[2025. 07]通讯作者论文《Unmixing Frequency Features for DEM Super Resolution》被国际权威期刊ISPRS P&RS (中科院SCI一区，IF=12.2) 接收!\n[2025. 06]通讯作者论文《Shape Activated CAM Learning for Weakly Supervised Remote Sensing Semantic Segmentation》被国际权威期刊IEEE TGRS (中科院SCI一区，IF=8.6) 接收!\n[2025. 04]通讯作者论文《Learning Semantic Keypoints for Diverse Point Cloud Completion》被国际权威期刊AUTCON (中科院SCI一区，IF=11.5) 接收!\n[2025. 03]Three papers have been accepted by CVPR 2025 (1 highlight)!\n[2024. 12]成果“复杂城市场景高精高效三维感知关键技术及应用”获中国自动化学会科技进步一等奖！\n[2024. 12]指导的大创项目获中国国际大学生创新大赛湖北省赛金奖、国赛银奖!\n[2024. 08]成果“基于实景三维的城市规划建设协同会商关键技术及应用”获中国地理信息科技进步一等奖！\n[2024. 08]通讯作者论文《Learning Deformable Hypothesis Sampling for PatchMatch Multi-View Stereo in the Wild》被国际权威期刊INFFUS(中科院SCI一区，IF=14.8) 接收!\n[2024. 07]Two papers have been accepted by ECCV 2024!\n[2024. 03]Two papers have been accepted by CVPR 2024 (1 oral)!\n[2023. 12]指导的大创项目获中国国际大学生创新大赛湖北省赛金奖、国赛银奖!\n[2023. 12]通讯作者论文《Learning Deformable Hypothesis Sampling for Accurate PatchMatch Multi-View Stereo》被国际计算机视觉顶级会议AAAI (CCF A 类) 接收!\n[2023. 10]与博士生宦麟茜、董明玥，硕士生路紫琼，参加法国巴黎召开的2023计算机视觉顶会ICCV!\n[2023. 09]以第一完成人申报的项目成果《室内外一体化三维数字空间智能构建关键技术及应用》获2023年中国测绘科技进步一等奖!\n[2023. 07] 通讯作者论文《Holistic Geometric Feature Learning for Structured Reconstruction》被国际计算机视觉顶级会议ICCV (CCF A 类) 接收!\n[2023. 07] 通讯作者论文《Shape Anchor Guided Holistic Indoor Scene Understanding》被国际计算机视觉顶级会议ICCV (CCF A 类) 接收!\n[2022. 10] 通讯作者论文《Dense context distillation network for semantic parsing of oblique UAV images》被国际摄影测量与遥感领域权威期刊 JAG (中科院SCI一区，IF=7.672) 接收!\n[2022. 10] 与龚健雅院士合作论文《影像解译中的深度学习可解释性分析方法》受邀发表于测绘学报65周年庆专刊 (EI) !\n[2022. 02] 通讯作者论文《GeoRec: Geometry-enhanced Semantic 3D Reconstruction of RGB-D Indoor Scenes》被国际摄影测量与遥感领域权威期刊 ISPRS P&RS (中科院SCI一区，IF=8.979) 接收!\n[2021. 12] 通讯作者论文《Locally Non-linear Affine Verification for Multisensor Image Matching》被对地观测领域权威期刊 IEEE TGRS (中科院SCI二区top，IF=5.6) 接收!\n[2021. 12] 博士生董明玥获第三届研究生人工智能创新大赛一等奖！\n[2021. 10] 博士生宦麟茜获研究生学术创新二等奖，硕士生吴秀杰获夏坚白测绘优秀青年专项奖学金！\n[2021. 10] 第一作者论文《Smoothly Varying Projective Transformation for Line Segment Matching》被国际摄影测量与遥感领域权威期刊 ISPRS P&RS (中科院SCI一区，IF=8.979) 接收!\n[2021. 10] 硕士生张婉玲、陈鹤获国家奖学金，硕士生王畅获新生奖学金！\n[2021. 10] 与博士生李宏杰、董明玥，硕士生袁壮、王畅参加2021第17届中国地理信息科学理论与方法学术年会！个人受聘“室内构图与应用”专题主席！\n[2021. 10] 个人入选2021年度“高校GIS新锐”!  成果《遥感和地理信息科学前沿反哺本科课程建设与教学的改革》获评优秀教学成果奖！\n[2021. 8] 第一作者论文《AProNet: Detecting Objects with Precise Orientation from Aerial Images》被国际摄影测量与遥感领域权威期刊 ISPRS P&RS (中科院SCI一区，IF=8.979) 接收!\n[2021. 7] 第一作者论文《A Gather-to-Guide Network for Remote Sensing Semantic Segmentation of RGB and Auxiliary Image》被对地观测领域权威期刊 IEEE TGRS (中科院SCI二区top，IF=5.6) 接收!\n[2021. 6] 参加对地观测领域知名学术会议IGARSS 2021， 硕士生王嘉宁、乔童分享口头报告（IGARSS，Brussels）!\n[2021. 6] 与实验室龚健雅院士、杨必胜、熊汉江、黄先锋等教授参加首届中国三维视觉大会（China3DV，中国厦门）!\n[2021. 5] 通讯作者论文《Unmixing Convolutional Features for Crisp Edge Detection》 被模式识别与机器智能领域国际权威期刊 IEEE TPAMI  (中科院SCI一区，CCF A类， IF=17.861) 接收!\n[2021. 3] 通讯作者论文《Learning Deep Cross-scale Feature Propagation for Indoor Semantic Segmentation》被国际摄影测量与遥感领域权威期刊 ISPRS P&RS (中科院SCI一区，IF=7.319) 接收!\n[2021. 3] 第一作者论文《Lattice-point Mutually Guided Ground-to-aerial Feature Matching for Urban Scene images》被对地观测领域权威期刊 IEEE JSTARS (中科院SCI二区，IF=3.827) 接收!\n[2020. 9] 主持申请的国家自然科学基金面上项目《联合图像理解与几何推断的室内语义三维建模研究》获国家基金委批准资助！\n[2020. 9] 第一作者论文《Parsing Very High Resolution Urban Scene Images by Learning Deep ConvNets with Edge-Aware Loss》被国际摄影测量与遥感领域权威期刊 ISPRS P&RS (中科院SCI一区，IF=7.319) 接收!\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n2011-9····2015.12\n武汉大学\n|\n摄影测量与遥感\n| 工学博士学位\n|\n博士研究生毕业\n社会兼职\n暂无内容\n研究方向\n[1].计算机视觉 [2]. 图像匹配/视觉定位 [3]. 图像几何感知与智能解译 [4]. 语义三维建模 [5]. AR导航与室内外三维GIS\n其他联系方式\n邮编：\n传真：\n通讯/办公地址：\n办公室电话：\n移动电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

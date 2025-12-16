@@ -1,0 +1,167 @@
+{
+  "id": "yangtao_gwcosmo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yangtao_gwcosmo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "杨涛",
+    "english_name": "Yang Tao",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "理论物理",
+        "school": "中国科学院大学（中国科学院理论物理研究所）",
+        "period": "2012.9-2017.7",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "物理学基地班",
+        "school": "武汉大学",
+        "period": "2008.9-2012.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学院大学（中国科学院理论物理研究所）",
+    "academic_honors": [
+      "2023 国家海外高层次人才引进计划青年项目",
+      "2020 《国家科学评论》2019最佳论文奖",
+      "2018 中国科学院优秀博士论文",
+      "2016 博士研究生国家奖学金",
+      "2017 中国科学院大学优秀毕业生",
+      "2017 北京市普通高等学校优秀毕业生",
+      "2016 中国科学院理论物理研究所所长优秀奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "引力波宇宙学",
+      "引力理论",
+      "暗能量",
+      "引力透镜"
+    ],
+    "research_interests": [
+      "引力波",
+      "宇宙学",
+      "暗能量",
+      "引力透镜",
+      "修改引力",
+      "相互作用暗能量",
+      "高阶引力波模式",
+      "轨道偏心率测量"
+    ],
+    "research_description": "杨涛教授主要从事引力波宇宙学、引力理论、暗能量及引力透镜等方向的研究。其研究涵盖引力波的观测与理论分析、宇宙学模型中的暗能量性质、引力透镜效应在宇宙学中的应用，以及修改引力理论的检验。课题组在DESI宇宙学、引力波高阶模式与轨道偏心率测量、透镜化引力波检验宇宙学等方面取得重要进展，已发表多篇高水平论文于PRL、PRD、JCAP、APJ、MNRAS: Letters等国际权威期刊。",
+    "disciplines": [
+      "理论物理",
+      "天体物理",
+      "宇宙学"
+    ],
+    "field_tags": [
+      "引力波",
+      "宇宙学",
+      "暗能量",
+      "引力透镜",
+      "修改引力",
+      "高阶模式",
+      "轨道偏心率",
+      "相互作用暗能量",
+      "DESI",
+      "PRL",
+      "PRD",
+      "JCAP"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "DESI宇宙学相互作用暗能量",
+        "keywords": [
+          "暗能量",
+          "宇宙学",
+          "DESI",
+          "相互作用"
+        ],
+        "journal_name": "Physical Review D",
+        "research_fields": [
+          "宇宙学",
+          "引力理论",
+          "暗能量"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "透镜化引力波检验宇宙学和修改引力",
+        "keywords": [
+          "引力波",
+          "引力透镜",
+          "宇宙学",
+          "修改引力"
+        ],
+        "journal_name": "Physical Review Letters",
+        "research_fields": [
+          "引力波",
+          "宇宙学",
+          "引力理论"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "引力波高阶模式与轨道偏心率测量",
+        "keywords": [
+          "引力波",
+          "轨道偏心率",
+          "高阶模式",
+          "测量"
+        ],
+        "journal_name": "未指定",
+        "research_fields": [
+          "引力波",
+          "宇宙学",
+          "天体物理"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学物理科学与技术学院官网",
+        "url": "http://jszy.whu.edu.cn/yangtao_gwcosmo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杨涛\n页面链接: http://jszy.whu.edu.cn/yangtao_gwcosmo/zh_CN/index.htm\n==================================================\n武汉大学 杨涛--中文主页--首页\n教师个人主页\n杨涛\n个人信息\n教师拼音名称：Yang Tao\n出生日期：1989-09-18\n电子邮箱：\n入职时间：2024-03-01\n所在单位：物理科学与技术学院\n学历：博士研究生毕业\n办公地点：武汉大学物理科学与技术学院老楼C-224\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：中国科学院大学（中国科学院理论物理研究所）\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n杨涛，武汉大学物理科学与技术学院教授、博士生导师。2012年本科毕业于武汉大学物理学基地班，后保送中国科学院理论物理研究所硕博连读，导师蔡荣根，研究方向为引力理论与宇宙学。2017年取得理论物理博士学位。先后在北京师范大学，亚太理论物理中心（APCTP），首尔大学（SNU）从事博士后研究。研究方向包括引力波宇宙学、引力透镜、暗能量等。2023年入选国家海外高层次人才引进计划青年项目。2024年3月回国任职武汉大学教授、博士生导师。目前在PRL，PRD，JCAP，APJ，MNRAS: Letters等国际权威期刊发表论文30余...\n教育经历\n2012.9-2017.7\n中国科学院大学（中国科学院理论物理研究所）  | 理论物理  | 博士学位\n2008.9-2012.6\n武汉大学  | 物理学基地班  | 理学学士学位\n工作经历\n更多>>\n2024.3-至今\n物理科学与技术学院 | 武汉大学\n| 教授\n2021.8-2024.1\n物理天文系 | 首尔大学（Seoul National University）\n| 博士后研究员\n2019.8-2021.7\n亚太理论物理中心（Asia Pacific Center for Theoretical Physics）\n| 博士后研究员 （Young Scientist Training Program）\n社会兼职\n暂无内容\n研究方向\n引力波\n宇宙学\n曾获荣誉\n2023    国家海外高层次人才引进计划青年项目\n2020    《国家科学评论》2019最佳论文奖\n2018    中国科学院优秀博士论文\n2016    博士研究生国家奖学金\n2017    中国科学院大学优秀毕业生\n2017    北京市普通高等学校优秀毕业生\n2016    中国科学院理论物理研究所所长优秀奖\n团队成员\n更多>>\n引力波宇宙学课题组\n本课题组现有博士生4名，硕士生1名，博士后1名。另有业余科研本科生10名左右。课题组长期招收相关方向的研究生，博士后，待遇丰厚。同时欢迎科研兴趣浓厚，学有余力的本科生。课题组本科生代表性科研成果：游畅宇，2024年秋季学期（大二）进组，研究方向为DESI宇宙学相互作用暗能量，发表独立一作论文1篇，Phys.Rev.D 112 (2025) 043503，获得武汉大学珞珈基金资助。英信广，2024年秋季学期（大三）进组，研究方向为透镜化引力波检验宇宙学和修改引力，完成独立一作论文一篇（PRL under review）。唐宏略，2024年春季学期（大二）进组，研究方向为引力波高阶模式与轨道偏心率测量，完成独立一作论文一篇。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

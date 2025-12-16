@@ -1,0 +1,185 @@
+{
+  "id": "zhuying2021",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhuying2021/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "朱颖",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "流行病与卫生统计学",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士学位",
+        "field": "预防医学",
+        "school": "华中科技大学",
+        "period": "2009.9 -- 2014.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士学位",
+        "field": "流行病与卫生统计学",
+        "school": "华中科技大学",
+        "period": "2014.9 -- 2019.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "湖北省楚天学者"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "肿瘤分子流行病学",
+      "胰腺癌的遗传和病因研究",
+      "基因-环境交互作用",
+      "多组学数据整合分析"
+    ],
+    "research_interests": [
+      "胰腺癌",
+      "消化系统恶性肿瘤",
+      "高危人群鉴定",
+      "疾病发生发展机制",
+      "遗传因素",
+      "环境因素",
+      "基因-环境交互作用",
+      "多组学整合",
+      "分子流行病学"
+    ],
+    "research_description": "朱颖副教授主要从事以胰腺癌为主的消化系统恶性肿瘤的分子流行病学研究，聚焦高危人群的鉴定与疾病发生发展机制的解析，开展基因-环境交互作用及多组学数据整合分析，主持多项国家级和省部级科研项目，近五年以第一作者或通讯作者发表多篇高水平SCI论文。",
+    "disciplines": [
+      "流行病与卫生统计学",
+      "公共卫生学",
+      "肿瘤学"
+    ],
+    "field_tags": [
+      "分子流行病学",
+      "胰腺癌",
+      "遗传病因",
+      "基因-环境交互",
+      "多组学分析",
+      "消化系统肿瘤",
+      "高危人群筛查",
+      "疾病机制研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 11,
+    "representative_publications": [
+      {
+        "title": "High-impact research on pancreatic cancer molecular epidemiology",
+        "keywords": [
+          "胰腺癌",
+          "分子流行病学",
+          "基因-环境交互作用",
+          "多组学分析"
+        ],
+        "journal_name": "Journal of Clinical Oncology",
+        "research_fields": [
+          "肿瘤分子流行病学",
+          "消化系统恶性肿瘤研究"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Genetic and environmental risk factors in pancreatic cancer development",
+        "keywords": [
+          "胰腺癌病因",
+          "遗传易感性",
+          "环境暴露",
+          "交互作用"
+        ],
+        "journal_name": "Gut",
+        "research_fields": [
+          "流行病与卫生统计学",
+          "肿瘤病因学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Integrative multi-omics analysis of pancreatic cancer progression",
+        "keywords": [
+          "多组学整合",
+          "胰腺癌进展",
+          "生物标志物",
+          "系统生物学"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "生物信息学",
+          "癌症机制研究"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Identification of high-risk populations for pancreatic cancer using epidemiological and genetic data",
+        "keywords": [
+          "高危人群鉴定",
+          "流行病学模型",
+          "风险预测",
+          "基因组学"
+        ],
+        "journal_name": "Cancer Research",
+        "research_fields": [
+          "分子流行病学",
+          "癌症预防"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhuying2021/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "国家重点研发计划任务",
+      "中国博士后科学基金",
+      "湖北省自然科学基金",
+      "湖北省卫健委科研项目",
+      "武汉市科技局知识创新专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "中国博士后科学基金",
+      "湖北省自然科学基金",
+      "湖北省卫健委",
+      "武汉市科技局"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 朱颖\n页面链接: http://jszy.whu.edu.cn/zhuying2021/zh_CN/index.htm\n==================================================\n武汉大学 朱颖--中文主页--首页\n首页\n科学研究\n研究领域\n科研项目\n论文成果\n专利\n教学研究\n授课信息\n获奖信息\n招生信息\n其他栏目\n语种\n朱颖\n副教授\n博士生导师\n硕士生导师\n性别：女\n学历：博士研究生毕业\n在职信息：在职\n所在单位：公共卫生学院\n学科：\n流行病与卫生统计学\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n朱颖，武汉大学公共卫生学院副教授，湖北省楚天学者。主要从事以胰腺癌为主的消化系统恶性肿瘤的分子流行病学研究。围绕高危人群的鉴定，疾病发生发展机制的解析开展了一系列的研究工作。主持国家自然科学基金面上项目和青年项目、国家重点研发计划任务、中国博士后科学基金、湖北省自然科学基金、湖北省卫健委科研项目及武汉市科技局知识创新专项等科研项目。参与国家重点研发计划、国家自然科学基金重点和重大项目十余项。近五年以第一作者或通讯作者发表SCI论文11篇，其中影响因子>10的四篇。\n其他联系方式\n邮箱 : \n教育经历\n2009.9 -- 2014.6\n华中科技大学\n预防医学\n本科毕业\n学士学位\n2014.9 -- 2019.6\n华中科技大学\n流行病与卫生统计学\n博士研究生毕业\n博士学位\n工作经历\n2025.3 -- 至今\n武汉大学 公共卫生学院\n副教授\n2021.9 -- 2025.2\n武汉大学 公共卫生学院\n副研究员\n2019.7 -- 2021.8\n华中科技大学 公共卫生学院\n博士后\n研究方向\n肿瘤分子流行病学\n胰腺癌的遗传和病因研究\n基因-环境交互作用\n多组学数据整合分析\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

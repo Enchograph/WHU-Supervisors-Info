@@ -1,0 +1,128 @@
+{
+  "id": "chudongxiao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chudongxiao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "楚东晓",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "设计系",
+    "college": "城市设计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "工业设计",
+        "school": "湖南大学",
+        "period": "1997.9 -- 2001.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士学位",
+        "field": "产品设计中的人机工程学",
+        "school": "湖南大学",
+        "period": "2001.9 -- 2004.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士学位",
+        "field": "设计学",
+        "school": "日本国立千叶大学",
+        "period": "2007.10 -- 2011.3",
+        "country": "日本"
+      }
+    ],
+    "graduation_school": "日本国立千叶大学",
+    "academic_honors": [
+      "国家留学基金委公派博士生奖学金项目国费资助",
+      "国家留学基金委进修项目（日语2级）",
+      "国家留学基金委公派美国Purdue University访问学者"
+    ],
+    "academic_services": [
+      "国际设计研究学会联合会国际会议（IASDR2020）同行评审专家",
+      "深圳市人体工程学应用协会顾问专家",
+      "中山市灯饰设计与产业应用协同创新中心研究员",
+      "国际CMF设计大会学术顾问专家，及国际CMF设计大奖评审专家",
+      "第4届感性工学与情感研究国际会议（KEER2012，台湾）同行评审专家",
+      "《国际高等教育可持续发展杂志（SSCI）》同行评审专家（IJSHE）",
+      "设计类核心期刊《包装工程》同行评审专家",
+      "湖北省工业设计中心（国家级，省级）评审专家",
+      "湖北省经信委服务型制造与生产性服务业评审专家",
+      "韩国“科学与艺术学论坛”学会《Korea Science and Art Forum》期刊编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "工业设计",
+      "服务设计",
+      "智能硬件与交互设计",
+      "价值共创",
+      "感性工学"
+    ],
+    "research_interests": [
+      "智能交互设计",
+      "服务创新",
+      "产品体验设计",
+      "认知与情感价值研究",
+      "创新设计方法",
+      "理论与实践结合的设计研究"
+    ],
+    "research_description": "专注于基于人的认知与情感价值研究的智能交互设计、服务创新与产品体验设计等方面的创新设计方法、理论和设计实践。成立服务&产品设计研究室，致力于推动设计在智能硬件、服务系统及用户体验中的应用与创新。",
+    "disciplines": [
+      "设计艺术学",
+      "人机工程学",
+      "服务设计",
+      "交互设计"
+    ],
+    "field_tags": [
+      "智能硬件",
+      "交互设计",
+      "服务创新",
+      "用户体验",
+      "感性工学",
+      "价值共创",
+      "创新设计",
+      "CMF设计",
+      "可持续设计"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chudongxiao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 楚东晓\n页面链接: http://jszy.whu.edu.cn/chudongxiao/zh_CN/index.htm\n==================================================\n武汉大学 楚东晓--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n1997-2001，湖南大学，工业设计专业，工学学士；\n2001-2004，湖南大学，产品设计中的人机工程学，硕士；\n2006-2007，国家留学基金委进修项目，东北师范大学中国赴日本国留学生预备学校，日语2级；\n2007-2011，国家留学基金委公派，日本文部省博士生奖学金项目国费资助，日本国立千叶大学，设计学工学博士；\n2019-2020，国家留学基金委公派美国Purdue University访问学者。\n2004年7月至今任教于武汉大学，武汉大学副教授，硕士生导师。历任设计系工业设计教研室主任、设计系学科发展与人才培养办公室副主任、设计系主任、城市设计学院工会委员、城市设计学院设计系党支部书记等职。现为武汉大学文化创意设计研究中心、服务创新与产品体验设计研究所所长，南京大学文化创意产业研究中心研究员，中山市灯饰设计与产业应用协同创新中心研究员。\n教育经历\n1997.9 --\n2001.6\n湖南大学\n工业设计\n本科(学士)\n学士学位\n2001.9 --\n2004.6\n湖南大学\n设计学\n硕士研究生毕业\n硕士学位\n2007.10 --\n2011.3\n日本国立千叶大学\n设计学\n研究生(博士)毕业\n博士学位\n工作经历\n2004.7 -- 至今\n武汉大学\n城市设计学院\n副教授\n在职\n社会兼职\n[1]\n国际设计研究学会联合会国际会议（IASDR2020）同行评审专家\n[2]\n深圳市人体工程学应用协会顾问专家\n[3]\n中山市灯饰设计与产业应用协同创新中心研究员\n[4]\n国际CMF设计大会学术顾问专家，及国际CMF设计大奖评审专家\n[5]\n“第4届感性工学与情感研究国际会议”（KEER2012，台湾）同行评审专家\n[6]\n《国际高等教育可持续发展杂志（SSCI）》同行评审专家（IJSHE：International Journal of Sustainability in Higher Education）\n[7]\n设计类核心期刊《包装工程》同行评审专家\n[8]\n湖北省工业设计中心（国家级，省级）评审专家\n[9]\n湖北省经信委服务型制造与生产性服务业评审专家\n[10]\n韩国“科学与艺术学论坛”学会《Korea Science and Art Forum》期刊编委;\n研究方向\n[1]工业设计、服务设计、智能硬件&交互设计、价值共创、感性工学。成立服务&产品设计研究室，专注于基于人的认知与情感价值研究的智能交互设计、服务创新与产品体验设计等方面的创新设计方法、理论和设计实践等方面的研究工作。\n团队成员\n暂无内容\n楚东晓\n副教授\n性别： 男\n出生日期：1978-04-16\n学历： 博士研究生毕业\n在职信息：在职\n所在单位：城市设计学院\n入职时间： 2004-07-01\n学科：\n设计艺术学\n电子邮箱：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

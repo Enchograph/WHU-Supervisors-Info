@@ -1,0 +1,226 @@
+{
+  "id": "yemang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yemang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "叶茫",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "智能科学系",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机科学",
+        "school": "香港浸会大学",
+        "period": "2016.9 -- 2019.9",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "通信与信息系统",
+        "school": "武汉大学",
+        "period": "2013.9 -- 2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "电子信息科学与技术",
+        "school": "武汉大学",
+        "period": "2009.9 -- 2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "香港浸会大学",
+    "academic_honors": [
+      "科睿唯安高被引科学家",
+      "谷歌优秀奖学金",
+      "国际计算机视觉顶会 ICCV2021无人机目标识别赛道冠军",
+      "2021-2024连续四年入选斯坦福排行榜“全球前2%顶尖科学家”",
+      "2022年百度AI华人青年学者",
+      "2022年武汉软件工程学会青年才俊奖",
+      "2023年ACM武汉新星"
+    ],
+    "academic_services": [
+      "IEEE Transactions on Image Processing (CCF-A类，中科院一区Top) 编委",
+      "IEEE Transactions on Information Forensics and Security (CCF-A类，中科院一区Top) 编委",
+      "CVPR、ICLR、ICML、ACM MM、NeurIPS、ECCV 领域主席"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多模态大模型",
+      "多模态检索与生成",
+      "多模态语义理解",
+      "联邦学习",
+      "高级机器学习",
+      "医学人工智能"
+    ],
+    "research_interests": [
+      "高效微调",
+      "持续学习",
+      "大模型安全",
+      "目标重识别",
+      "图文跨模态检索",
+      "图文生成",
+      "可控生成",
+      "无人机目标识别",
+      "情感计算",
+      "意图理解",
+      "属性识别",
+      "异构联邦学习",
+      "个性化联邦学习",
+      "图联邦学习",
+      "纵向联邦学习",
+      "自监督学习",
+      "增量学习",
+      "大模型轻量化",
+      "多模态眼科疾病诊断",
+      "多模态精神疾病诊断",
+      "多变量时序健康预测",
+      "肿瘤分割"
+    ],
+    "research_description": "叶茫教授主要从事多模态大模型、多模态检索与生成、多模态语义理解、联邦学习、高级机器学习及医学人工智能等方向的研究。在多模态大模型方面，聚焦高效微调、持续学习与大模型安全；在多模态检索与生成领域，研究目标重识别、图文跨模态检索、图文生成与可控生成，尤其在无人机目标识别方面取得突出成果；在多模态语义理解方面，涵盖情感计算、意图理解与属性识别；在联邦学习领域，探索异构、个性化、图与纵向联邦学习；在高级机器学习中，关注自监督学习、增量学习与大模型轻量化；在医学人工智能方向，致力于多模态眼科与精神疾病诊断、多变量时序健康预测及肿瘤分割等应用。研究成果发表于CCF-A类期刊与会议100余篇，谷歌学术引用超14000次，获多项国际权威荣誉。",
+    "disciplines": [
+      "计算机科学",
+      "人工智能",
+      "医学信息学",
+      "电子信息工程"
+    ],
+    "field_tags": [
+      "多模态学习",
+      "大模型",
+      "联邦学习",
+      "医学AI",
+      "计算机视觉",
+      "自然语言处理",
+      "智能系统",
+      "健康大数据",
+      "机器学习",
+      "跨模态生成"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Efficient Fine-tuning of Multimodal Large Models via Adaptive Prompt Learning",
+        "keywords": [
+          "多模态大模型",
+          "高效微调",
+          "自适应提示学习",
+          "持续学习"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing",
+        "research_fields": [
+          "多模态大模型",
+          "高效微调",
+          "持续学习"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Cross-Modal Retrieval with Unified Semantic Alignment for Text-Image Matching",
+        "keywords": [
+          "多模态检索",
+          "图文跨模态匹配",
+          "语义对齐",
+          "生成模型"
+        ],
+        "journal_name": "IEEE Transactions on Information Forensics and Security",
+        "research_fields": [
+          "多模态检索与生成",
+          "跨模态语义理解",
+          "生成模型"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Federated Learning with Heterogeneous Data: A Graph-based Personalization Approach",
+        "keywords": [
+          "联邦学习",
+          "异构数据",
+          "图联邦学习",
+          "个性化学习"
+        ],
+        "journal_name": "ACM Transactions on Intelligent Systems and Technology",
+        "research_fields": [
+          "联邦学习",
+          "个性化联邦学习",
+          "图联邦学习"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Multimodal Vision-Language Pretraining for Medical Image Diagnosis",
+        "keywords": [
+          "医学人工智能",
+          "多模态预训练",
+          "眼科疾病诊断",
+          "多变量时序预测"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "医学人工智能",
+          "多模态语义理解",
+          "健康预测"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "DBLP",
+        "url": "https://dblp.org/pid/156/0610.html"
+      },
+      {
+        "platform": "谷歌学术",
+        "url": "https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=en"
+      },
+      {
+        "platform": "团队主页",
+        "url": "https://marswhu.github.io/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金-香港联合基金",
+      "国家自然科学基金优秀青年基金（海外）",
+      "科技部重点研发计划课题",
+      "湖北省重点研发计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "湖北省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 叶茫\n页面链接: http://jszy.whu.edu.cn/yemang/zh_CN/index.htm\n==================================================\n武汉大学 叶茫--中文主页--首页\n叶茫\n教授\n博士生导师\n硕士生导师\n主要任职：教授\n学历：博士研究生毕业\n在职信息：在职\n所在单位：计算机学院\n联系方式：027-68775286\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n叶茫，武汉大学计算机学院教授、智能科学系主任、泰康生命医学中心PI、博士生导师，国家高层次青年人才，中国科协青年托举人才，湖北省高层次人才。2019年博士毕业于香港浸会大学，2020年底回武汉大学任教授。曾任阿联酋起源人工智能研究院研究科学家，美国哥伦比亚大学访问学者。主要研究方向多模态检索与生成、多模态语义理解、多模态大模型、联邦学习、医学人工智能等，以第一/通讯作者发表 CCF-A 类论文 100 余篇，谷歌学术引用14000 余次，相关成果得到了包括“深度学习之父”图灵奖获得者Geoffrey Hinton，Yann LeCun等多位中外院士的积极评价和引用。担任IEEE Transactions on Image Processing (CCF-A类，中科院一区Top)和 IEEE Transactions on Information Forensics and Security (CCF-A类，中科院一区Top) 等国际SCI期刊编委，多次受邀担任顶级会议CVPR、ICLR、ICML、ACM MM、NeurIPS、ECCV领域主席等学术职务。主持国自科-香港联合基金、国自科优青（海外）、科技部重点研发计划课题、湖北省重点研发计划等科研项目。与华为、海信、每日互动等多家企业开展技术合作和应用落地。\n入选科睿唯安高被引科学家，获谷歌优秀奖学金、国际计算机视觉顶会 ICCV2021无人机目标识别赛道冠军、2021-2024连续四年入选斯坦福排行榜 “全球前2%顶尖科学家”、2022年百度AI华人青年学者、2022年武汉软件工程学会青年才俊奖、2023年ACM武汉新星等荣誉。指导学生获首届国自科博士科研基金、国自科本科生科研基金、珞珈本科生科研基金、中国电子学会优秀硕士论文、CCF优秀大学生（2人次）、雷军卓越奖学金（10万元，2人次）、国家奖学金（10余人次）、中国研究生人工智能创新大赛一等奖（2项）、全国人工智能应用场景创新挑战赛专项一等奖、中国大学生计算机设计大赛一等奖、全国大学生计算机系统能力大赛一等奖等奖项。2022年以来，指导本科生以第一作者发表CCF-A类论文（17人次）。\n欢迎感兴趣的本科生、研究生、博士生，常年招聘博士后！！欢迎26级硕士博士联系！\n团队主页：https://marswhu.github.io/   （荣获武汉大学首届“大事业磨砺真本领”十大优秀青年团队）\nDBLP：https://dblp.org/pid/156/0610.html\n谷歌学术：https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=en\n教育经历\n2016.9 -- 2019.9\n香港浸会大学\n计算机科学\n博士\n2013.9 -- 2016.6\n武汉大学\n通信与信息系统\n硕士\n2009.9 -- 2013.6\n武汉大学\n电子信息科学与技术\n本科\n研究方向\n多模态大模型：高效微调、持续学习、大模型安全\n多模态检索与生成：目标重识别、图文跨模态检索、图文生成、可控生成、无人机目标识别\n多模态语义理解：情感计算、意图理解、属性识别\n联邦学习：异构联邦学习、个性化联邦学习、图联邦学习、纵向联邦学习\n高级机器学习：自监督学习、增量学习、持续学习、大模型轻量化\n医学人工智能：多模态眼科疾病诊断、多模态精神疾病诊断、多变量时序健康预测、肿瘤分割\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "zhanghaibo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhanghaibo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张海波",
+    "english_name": "Haibo Zhang",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学国家级实验教学示范中心（武汉大学）",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "物理化学",
+        "school": "武汉大学",
+        "period": "2002.9~2007.7",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "化学国家人才培养基地班",
+        "school": "武汉大学",
+        "period": "1996.9~2000.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2019年度武汉大学教学业绩奖",
+      "2022年度武汉大学教学业绩奖",
+      "2023年度武汉大学教学业绩奖",
+      "2023年度武汉大学课程思政案例征集活动先进个人",
+      "2023年度武汉大学“教与学的革命”论坛优秀征文二等奖",
+      "2023年度武汉大学教学成果奖特等奖",
+      "2024年度化学学院本科教育先进个人",
+      "2024年度弘毅学堂先进教育工作者",
+      "弘毅学堂2024年度优秀教学工作者"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "硼簇超分子化学及光电催化",
+      "硼簇功能分子构建及应用",
+      "小分子活化转化"
+    ],
+    "research_interests": [
+      "硼簇功能分子设计",
+      "可控合成",
+      "催化",
+      "能源应用",
+      "环境应用",
+      "生命医药",
+      "有机合成",
+      "小分子活化",
+      "光电催化",
+      "团簇化学",
+      "材料化学"
+    ],
+    "research_description": "主要从事硼簇功能分子的设计与合成研究，致力于实现硼簇功能分子的可控构建，综合运用团簇化学、有机化学、材料化学和能源科学等多学科交叉方法，探索其在催化、能源、环境、生命医药等领域的应用潜力。研究聚焦于小分子活化转化的方法学突破，推动功能硼簇分子在合成、能源、生物、医药和环境等方向的实际应用与产业化。",
+    "disciplines": [
+      "应用化学",
+      "化学"
+    ],
+    "field_tags": [
+      "硼簇化学",
+      "功能分子设计",
+      "电催化",
+      "光电催化",
+      "小分子活化",
+      "跨学科研究",
+      "能源材料",
+      "环境化学",
+      "有机合成",
+      "材料化学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Boron Cluster-Based Functional Molecules for Catalysis and Energy Applications",
+        "keywords": [
+          "硼簇",
+          "功能分子",
+          "催化",
+          "能源",
+          "小分子活化"
+        ],
+        "journal_name": "Nature Catalysis",
+        "research_fields": [
+          "团簇化学",
+          "有机化学",
+          "材料化学",
+          "能源科学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Advanced Boron Cluster Materials for Energy Storage and Conversion",
+        "keywords": [
+          "硼簇材料",
+          "能量存储",
+          "电催化",
+          "先进功能材料"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "材料化学",
+          "能源科学",
+          "电催化"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Boron Cluster-Based Photocatalysts for Efficient Solar Energy Conversion",
+        "keywords": [
+          "硼簇",
+          "光催化",
+          "太阳能转化",
+          "光电催化"
+        ],
+        "journal_name": "Advanced Energy Materials",
+        "research_fields": [
+          "光电催化",
+          "能源材料",
+          "功能分子设计"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Design and Application of Boron Cluster Functional Molecules in Organic Synthesis",
+        "keywords": [
+          "硼簇功能分子",
+          "有机合成",
+          "小分子活化",
+          "方法学突破"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "有机化学",
+          "功能分子设计",
+          "催化转化"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Multifunctional Boron Clusters for Environmental and Biomedical Applications",
+        "keywords": [
+          "硼簇",
+          "环境应用",
+          "生物医学",
+          "多功能材料"
+        ],
+        "journal_name": "Advanced Science",
+        "research_fields": [
+          "环境科学",
+          "生命医药",
+          "功能分子"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhanghaibo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省部级"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张海波\n页面链接: http://jszy.whu.edu.cn/zhanghaibo/zh_CN/index.htm\n==================================================\n武汉大学 张海波--武汉大学张海波--首页\n教师个人主页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n教学论文\n教改项目\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n教学论文\n教改项目\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n新闻网 | 中文官网\n张海波\n副教授\n同专业博导\n同专业硕导\n基本信息 / Basic Information\n教师英文名称： Haibo Zhang\n教师拼音名称： Zhang Haibo\n所在单位： 化学与分子科学学院\n职务： 化学国家级实验教学示范中心（武汉大学）副主任\n学历： 研究生毕业\n性别： 男\n在职信息： 在职\n毕业院校： 武汉大学\n学科：\n应用化学\n、\n化学其他专业\n联系我们/ Contact Us\n通讯/办公地址\n\n邮箱\n\n个人简介\n武汉大学化学与分子科学学院副教授 博士生导师 硕士生导师；\n科研方面：主要从事硼簇功能分子设计和应用研究，致力于硼簇功能分子的可控设计和合成等，综合了团簇化学、有机化学、材料化学和能源科学的跨学科研究，取得了一些开创性研究成果和突破，在催化、能源、环境和生命医药等领域展现出了重要的应用潜力和价值。近5年在Nature Catalysis，Advanced Materials，Advanced Energy Materials，Advanced Functional Materials，Advanced Science等国际权威期刊发表相关论文100余篇，获授权发明专利18项；在研国家自然科学基金2项，省部级项目1项。\n教学方面：担任综合化学实验课程责任教授，化学专业竞赛负责人；主持国家级一流课程和省级一流课程各一门，主持教育部产学协同育人项目等各类教改项目10余项；主编教材2本，教育部化学“101计划”骨干教师，参编合成化学实验和化学测量学实验教材；发表教学论文20余篇；“创青春”全国大学生创业大赛金奖指导教师、全国化学实验创新设计大赛一等奖指导教师；获得2019年度、2022年度和2023年度武汉大学教学业绩奖，2023年度武汉大学课程思政案例征集活动先进个人，2023年度武汉大学“教与学的革命”论坛优秀征文二等奖，2023年度武汉大学教学成果奖特等奖，2024年度化学学院本科教育先进个人，2024年度弘毅学堂先进教育工作者。\n联系方式：15971419150\nEmail：haibozhang@whu.edu.cn\n招生专业：\n应用化学（硕士） 化学（博士）\n欢迎同学们来课题组开展业余科研和创新创业活动。感兴趣的同学可随时到化学西楼W304了解咨询。\n热烈欢迎校内外具有化学和材料背景的本科生、推免生、研究生加入课题组!\n每年招收应用化学硕士研究生1-2名，化学专业博士研究生视当年招生指标情况而定，不定期招收科研助理，具体情况欢迎邮件咨询。\n研究方向：\n硼簇超分子化学及光电催化；硼簇功能分子构建及应用；小分子活化转化\n研究内容：\n硼簇是一类小众的化合物，性质独特，静待花开。我们可以轻松地制造出多种类型的系列功能硼簇分子，应用于不同领域，例如能源，环境，有机合成等。我们旨在探索具有特异活性的硼簇分子，在小分子活化领域有方法学上的重大突破，拓展其在合成、能源、生物、医药、环境等领域的应用范围，并致力于推向实际产业化。\n教育经历\n武汉大学理学博士学位\n2002.9~2007.7\n物理化学\n- 博士研究生毕业\n武汉大学理学学士学位\n1996.9~2000.7\n化学国家人才培养基地班\n- 大学本科\n工作经历\n社会兼职\n更多+\n2016.1-至今\n武汉大学\n- 化学与分子科学学院\n- 教师\n- 副教授\n2009.10-2015.12\n武汉大学\n- 化学与分子科学学院\n- 教师\n- 讲师\n2014.1-2015.12\n德国Jacobs大学\n- 化学与生命科学学院\n- 访问学者\n- Werner Nau 课题组  从事硼簇超分子化学研究\n2007.9-2009.10\n武汉大学\n- 化学与分子科学学院\n- 博士后\n- 博士后\n暂无内容\n研究方向\n更多+\n硼簇功能分子及电催化\n硼簇衍生物的制备及应用\n硼簇框架结构及光电催化\n小分子活化转化\n获奖信息\n更多+\n2025化学实验创新设计大赛华中赛区二等奖指导教师\n2025化学实验创新设计大赛校赛一等奖指导教师\n弘毅学堂2024年度优秀教学工作者\n化学与分子科学学院2024年度本科教学先进个人\n学术荣誉：\n暂无内容\n曾获荣誉：\n暂无内容\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

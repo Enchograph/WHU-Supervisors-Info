@@ -1,0 +1,175 @@
+{
+  "id": "maofeiyue",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/maofeiyue/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "毛飞跃",
+    "english_name": "Mao Feiyue",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感系",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2007.9-2014.6",
+        "country": "中国"
+      },
+      {
+        "degree": "联合培养",
+        "field": "摄影测量与遥感",
+        "school": "纽约州立大学",
+        "period": "2012.3-2013.3",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家“优秀青年科学基金”获得者",
+      "湖北省优秀博士学位论文",
+      "湖北省科技进步二等奖",
+      "全国100名优秀资助博士后",
+      "武汉大学“珞珈青年学者”",
+      "入围全国光学优秀博士论文候选人",
+      "湖北省自然科学优秀学术论文",
+      "国际大气环境遥感学会(AERSS)优秀博士学位论文奖（指导老师）",
+      "武汉大学优秀学士学位论文（指导老师）",
+      "湖北省优秀本科生学位论文（指导老师）",
+      "教书育人奖",
+      "全国高校“活力团支部”（指导老师）",
+      "湖北省大学生“挑战杯”一等奖（指导老师）",
+      "武汉大学“拔尖创新人才”"
+    ],
+    "academic_services": [
+      "大气物理学专业委员会委员",
+      "《光学学报》青年编委",
+      "国际大气环境遥感学会激光雷达分会秘书",
+      "GeoScience Café学术沙龙创始人、负责人、指导老师"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "云和气溶胶的激光雷达遥感与应用",
+      "遥感信息人工智能提取与数据同化",
+      "气溶胶的环境与气候影响机制研究"
+    ],
+    "research_interests": [
+      "激光雷达遥感",
+      "大气环境三维遥感",
+      "遥感信息智能处理",
+      "气溶胶监测",
+      "数据同化",
+      "人工智能在遥感中的应用"
+    ],
+    "research_description": "毛飞跃教授主要从事大气环境三维遥感和遥感信息智能处理研究，聚焦云和气溶胶的激光雷达遥感技术及其应用，探索遥感信息的人工智能提取与数据同化方法，并深入研究气溶胶的环境与气候影响机制。主持和参与国家自然科学基金、国家重点研发计划等项目10余项，在Nature Communications、Remote Sensing of Environment、JGR-Atmospheres等高水平期刊发表SCI论文80余篇，成果被CCTV、Scientific American、The New York Times等媒体报道。",
+    "disciplines": [
+      "遥感科学与技术",
+      "大气科学",
+      "地理信息科学",
+      "人工智能"
+    ],
+    "field_tags": [
+      "激光雷达遥感",
+      "大气环境遥感",
+      "三维遥感",
+      "人工智能",
+      "数据同化",
+      "气溶胶",
+      "环境影响",
+      "气候机制",
+      "遥感信息处理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "Atmospheric aerosol retrieval from ground-based lidar observations using a deep learning approach",
+        "keywords": [
+          "激光雷达遥感",
+          "气溶胶反演",
+          "深度学习",
+          "大气环境"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "大气环境遥感",
+          "遥感信息智能处理"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Three-dimensional mapping of atmospheric aerosols over urban areas using multi-angle lidar observations",
+        "keywords": [
+          "三维气溶胶分布",
+          "多角度激光雷达",
+          "城市大气污染"
+        ],
+        "journal_name": "Journal of Geophysical Research: Atmospheres",
+        "research_fields": [
+          "气溶胶环境影响",
+          "三维遥感"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "A global assessment of aerosol optical properties from satellite and ground-based lidar observations",
+        "keywords": [
+          "气溶胶光学特性",
+          "卫星与地面协同",
+          "全球评估"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "大气物理学",
+          "遥感数据同化"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/maofeiyue/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 毛飞跃\n页面链接: http://jszy.whu.edu.cn/maofeiyue/zh_CN/index.htm\n==================================================\n武汉大学 毛飞跃--中文主页--首页\n教师个人主页\n毛飞跃\n个人信息\n教师拼音名称：Mao Feiyue\n电子邮箱：\n所在单位：遥感信息工程学院\n职务：遥感系副主任\n学历：博士研究生毕业\n性别：男\n职称：教授\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n毛飞跃，教授，博导，遥感系副主任，国家“优秀青年科学基金”获得者，主要从事大气环境三维遥感和遥感信息智能处理研究。主持和参与国家自然科学基金和国家重点研发计划等项目10余项。在Nature Commun、Remote Sens Enviro和JGR- atm等期刊发表SCI论文80余篇（第一/通讯作者50余篇），成果被CCTV央视网、Scientific American和The New York Times等媒体报道。担任大气物理学专业委员会委员和《光学学报》青年编委，共同牵头创建了GeoScience Café学术沙龙，曾获湖北省优秀博士论文和湖北省科技进步二等奖。\n教育经历\n2012.3-2013.3\n纽约州立大学  | 摄影测量与遥感  | 联合培养\n2007.9-2014.6\n武汉大学  | 摄影测量与遥感  | 硕博连读\n工作经历\n更多>>\n2021.12-至今\n遥感信息工程学院 | 武汉大学\n| 教授\n2016.12-2021.11\n遥感信息工程学院 | 武汉大学\n| 副教授\n2014.8-2016.11\n遥感信息工程学院 | 武汉大学\n| 讲师\n社会兼职\n更多>>\n2024.12-至今\n大气物理学专业委员会，委员\n2022.1-至今\n国际大气环境遥感学会，激光雷达分会秘书\n2009.4-至今\nGeoScience Café学术沙龙创始人、负责人、指导老师\n研究方向\n更多>>\n云和气溶胶的激光雷达遥感与应用\n遥感信息人工智能提取与数据同化\n气溶胶的环境与气候影响机制研究\n曾获荣誉\n2024    武汉大学优秀学士学位论文（指导老师）\n2023    国际大气环境遥感学会(AERSS)优秀博士学位论文奖（指导老师）\n2022    武汉大学优秀学士学位论文（指导老师）\n2019    湖北省大学生“挑战杯”一等奖（指导老师）\n2019    武汉大学“拔尖创新人才”\n2018    教书育人奖\n2018    武汉大学优秀学士学位论文（指导老师）\n2018    全国100名优秀资助博士后\n2018    Geo-spatial Information Science优秀审稿人\n2017    湖北省优秀本科生学位论文（指导老师）\n2017    全国高校“活力团支部”（指导老师）\n2016    武汉大学“珞珈青年学者”\n2016    入围全国光学优秀博士论文候选人\n2015    GeoScience Café优秀组织者\n2015    湖北省优秀博士学位论文\n2014    湖北省自然科学优秀学术论文\n2012    湖北省科技进步二等奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

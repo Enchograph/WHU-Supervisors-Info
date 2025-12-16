@@ -1,0 +1,228 @@
+{
+  "id": "lisiwei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lisiwei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李四维",
+    "english_name": "Siwei Li",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "大气科学",
+        "school": "纽约州立大学奥尔巴尼分校",
+        "period": "2006-2012",
+        "country": "美国"
+      },
+      {
+        "degree": "硕士学位",
+        "field": "基础数学",
+        "school": "武汉大学",
+        "period": "2003-2006",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "通信工程",
+        "school": "武汉大学",
+        "period": "1999-2003",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "纽约州立大学奥尔巴尼分校",
+    "academic_honors": [
+      "国家青年人才项目获得者"
+    ],
+    "academic_services": [
+      "奥地利自然科学基金评委",
+      "《遥感学报》编委",
+      "RS期刊客座编辑",
+      "RSE、EST、GRL、JGR、AMT、IEEE（TGRS）等期刊评审"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "主、被动大气遥感方法研究及应用",
+      "快速大气辐射传输模型及大气校正",
+      "大气污染和气候变化的观测、模拟与分析",
+      "卫星多光谱气溶胶特性遥感",
+      "机器学习在大气遥感与大气污染中的应用",
+      "利用氧气A吸收带的云、气溶胶、气体遥感",
+      "大气污染的观测、模拟及成因与影响分析"
+    ],
+    "research_interests": [
+      "气溶胶遥感",
+      "云与气溶胶特性反演",
+      "大气辐射传输模拟",
+      "机器学习应用",
+      "PM2.5浓度预测",
+      "大气污染成因分析",
+      "气候变化观测",
+      "O2-A带遥感",
+      "地表污染气体监测"
+    ],
+    "research_description": "李四维教授主要从事主、被动大气遥感方法研究及应用，包括快速大气辐射传输模型与大气校正技术，以及大气污染和气候变化的观测、模拟与分析。研究聚焦于卫星多光谱气溶胶特性遥感、机器学习在大气遥感与污染预测中的应用、利用氧气A吸收带进行云、气溶胶与气体遥感，以及大气污染的成因、影响与模拟分析。其团队在遥感反演算法、空气质量建模、地表污染物监测等方面取得系列成果，发表于RSE、EST、JGR、IEEE TGRS等国际主流期刊。",
+    "disciplines": [
+      "遥感科学与技术",
+      "大气科学",
+      "环境科学",
+      "地球物理学",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "大气遥感",
+      "气溶胶反演",
+      "机器学习",
+      "PM2.5预测",
+      "辐射传输模型",
+      "O2-A带",
+      "空气质量模拟",
+      "气候变化",
+      "卫星遥感",
+      "环境监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Evaluation and comparison of VIIRS dark target and deep blue aerosol products over land",
+        "keywords": [
+          "气溶胶产品",
+          "VIIRS",
+          "暗目标",
+          "深蓝算法",
+          "地表反照率"
+        ],
+        "journal_name": "Science of the Total Environment",
+        "research_fields": [
+          "大气遥感",
+          "气溶胶特性",
+          "卫星遥感"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A high-precision aerosol retrieval algorithm for FY-3D MERSI-II images",
+        "keywords": [
+          "FY-3D",
+          "MERSI-II",
+          "气溶胶反演",
+          "高精度算法",
+          "卫星数据"
+        ],
+        "journal_name": "Environment International",
+        "research_fields": [
+          "大气污染遥感",
+          "卫星气溶胶反演",
+          "遥感算法"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Including the feature of appropriate adjacent sites improves the PM2.5 concentration prediction with long short-term memory neural network model",
+        "keywords": [
+          "PM2.5预测",
+          "LSTM神经网络",
+          "邻近站点特征",
+          "机器学习",
+          "空气质量"
+        ],
+        "journal_name": "Sustainable Cities and Society",
+        "research_fields": [
+          "大气污染模拟",
+          "机器学习应用",
+          "空气质量预测"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Joint features random forest (JFRF) model for mapping hourly surface PM2.5 over China",
+        "keywords": [
+          "PM2.5空间映射",
+          "随机森林",
+          "联合特征",
+          "小时级预测",
+          "中国区域"
+        ],
+        "journal_name": "Atmospheric Environment",
+        "research_fields": [
+          "大气污染监测",
+          "机器学习建模",
+          "地表PM2.5反演"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Surface UV-assisted retrieval of spatially continuous surface ozone with high spatial transferability",
+        "keywords": [
+          "地表臭氧反演",
+          "UV辐射",
+          "空间连续性",
+          "高可转移性",
+          "遥感反演"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "大气成分遥感",
+          "臭氧监测",
+          "遥感算法"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/lisiwei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家青年人才项目",
+      "NASA项目",
+      "NOAA项目",
+      "NSF项目",
+      "DoE项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家青年人才项目",
+      "NASA",
+      "NOAA",
+      "NSF",
+      "DoE"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李四维\n页面链接: http://jszy.whu.edu.cn/lisiwei/zh_CN/index.htm\n==================================================\n武汉大学 李四维--中文主页--首页\n李四维\n教授\n博士生导师\n硕士生导师\n主要任职：副院长、国家级实验教学示范中心 支部书记、主任\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：遥感信息工程学院\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n教授、博导，副院长，国家级实验教学示范中心主任，国家青年人才项目获得者。主要研究方向为主、被动大气遥感方法研究及应用，快速大气辐射传输模型及大气校正研究，大气污染和气候变化的观测、模拟与分析。主持/参与多项国内外科学研究项目，包括NASA、NOAA、NSF、DoE，国家自然科学基金等项目以及大型联合观测计划；研究成果先后发表在遥感和大气科学领域的主要期刊并受到了国际同行的关注与认可；多次受邀在国际学术会议上做特邀报告，担任国际学术会议筹委会委员、分会主席等职务；担任奥地利自然科学基金评委，遥感学报编委、RS期刊客座编辑以及RSE、EST、GRL、JGR、AMT、IEEE（TGRS）等十余个领域内主要期刊的评审。\nProfessor, Deputy Dean, Director of National Demonstration Center for Experimental Education (Wuhan University), National High-level Young Talent Program Entrant. Major research areas include studies and applications of active and passive atmospheric remote sensing, fast atmospheric radiative transfer model and atmospheric correction, observation, simulation and investigation on air pollution and climate change. Hosted/participated in numerous domestic and foreign scientific research projects, including NASA, NOAA, NSF, DoE, NSFC and large Field campaigns. More than 40 papers have been published on major journals in the field of remote sensing and atmospheric science. Served as a member of the preparatory committee or the chairman of the branch conference; editorial board member of JRS, RS and reviewer for more than 10 international major journals in the field including RSE, EST, GRL, JGR, AMT and IEEE(TGRS).\n科研团队：\n课题组科研工作环境优异，氛围和谐、友爱、欢乐，成员努力、上进、特长多样。这里学术讨论活跃，能带给你学术上的思想碰撞，科学技术上的指导以及科研工作所需的硬、软件支持。课题组与国家气象局、环保局、NOAA等国内外科研机构及国内外一流大学皆有学术合作。在这里，你可以通过项目实践提升技能，也可专心埋身于科学研究的海洋，我们因人而异，因材施教。课题组鼓励学术交流，提供出国交流、实习、国际学术会议等机会鼓励团队成员开阔视野、了解国际前沿科学动态。\n招收理工背景（如遥感、摄影测量，大气，物理，数学）硕士研究生、博士研究生，长期招收博士后（有独立科研能力），薪酬优厚。欢迎感兴趣的同学加入我们的团队，一起Work hard，Play hard。\nResearch Team\nThe research group has excellent working environment and embraces harmonious, friendly, joyful team atmosphere. Team members are hard-working, motivated and have diverse specialties. Here presents an active and welcome ambiance for academic discussion and triggers clashes of academic thoughts. Guidance of science and technology, software and hardware support for research work are solidly supported. The research group establishes academic collaborations with China Meteorological Administration, Ministry of Ecology and Environment, NOAA and other domestic or international research institutions and universities. You can polish your skills through practical projects and dedicate to scientific progresses in the group. We educate in a differentiated manner for each individual. The research group encourages academic exchanges and provides opportunities for abroad exchanges, internships, international conferences to support team members to expand the horizons and grasp the international science advances.\nWe are looking for motivated master and doctoral students to join us with background in science and engineering (such as remote sensing, photogrammetry, atmospheric science, physics, mathematics). We are also seeking qualified candidates for postdoctoral positions capable to lead independent research with attractive packages. Interested students are welcome to join our team. Let’s work hard, play hard.\n目前主要研究内容：\n1. 卫星多光谱的气溶胶特性遥感研究\n2. 机器学习方法在大气遥感、大气污染中的应用研究\n3. 利用氧气A吸收带的云、气溶胶、气体遥感研究\n4. 大气污染的观测、模拟及成因、影响分析\nKey Research Areas\n1.     Ground-based and satellite-based remote sensing of aerosol, cloud and polluted gases properties\n2.     Machine learning applications on estimations and prediction of atmospheric constitutes\n3.     Radiative transfer simulation and remote sensing application using O2-A band\n4.     Model simulation of air pollution and emission\n教育经历\n2006-2012 纽约州立大学奥尔巴尼分校 大气科学 博士学位\n2003-2006 武汉大学 基础数学 硕士学位\n1999-2003 武汉大学 通信工程 学士学位\nEducation\n2006-2012 PhD in Atmospheric Science, University at Albany, State University of New York.\n2003-2006 MS in Mathematics, Wuhan University.\n1999-2003 BS in Communication Engineering, Wuhan University.\n工作经历\n2018-至今 武汉大学 教授、博导\n2015-2018 美国霍华德大学NOAA大气科学中心 博导\n2013-2018 美国霍华德大学NOAA大气科学中心 大气科学家\n2012-2013 美国霍华德大学NOAA大气科学中心 助理研究员\nWorking Experience\nSince 2018\nProfessor, PhD supervisor at Wuhan University, China\n2015-2018\nGraduate professor at NOAA Center for Atmospheric Sciences, Howard University, United States\n2013-2018\nAtmospheric scientist at NOAA Center for Atmospheric Sciences, Howard University, United States\n2012-2013\nResearch associate at NOAA Center for Atmospheric Sciences, Howard University, United States\n近期项目\n2020-2023，国家自然科学基金面上项目，主持\n2020~2021, 城市生态环境遥感监测与评估第一期建设任务项目，主持\n2019~，国家青年人才项目，主持\n近期论文\nQingxin Wang, Siwei Li*, Jie Yang, Dong Zhou. Evaluation and comparison of VIIRS dark target and deep blue aerosol products over land[J].Science of the Total Environment.2023,869,161667. doi.org/10.1016/j.scitotenv.2023.161667\nQingxin Wang, Siwei Li *, Jie Yang, Dong Zhou, Ge Song. A high-precision aerosol retrieval algorithm for FY-3D MERSI-II images[J]. Environment International,2023, 173,107841. doi.org/10.1016/j.envint.2023.107841\nMengfan Teng, Siwei Li*, Ge Song, Jie Yang, Lechao Dong, Hao Lin, and Senlin Hu. Including the feature of appropriate adjacent sites improves the PM2.5 concentration prediction with long short-term memory neural network model[J]. Sustainable Cities  and Society.2022, 76. doi.org/10.1016/j.scs.2021.103427\nLechao Dong, Siwei Li*, Jia Xing, Hao Lin, Shansi Wang, Xiaoyue Zeng, Yaming Qin. Joint features random forest (JFRF) model for mapping hourly surface PM2.5 over China[J]. Atmospheric Environment. 2022,273. doi.org/10.1016/j.atmosenv.2022.118969\nQingxin Wang, Siwei Li *, Jie Yang, Hao Lin.Retrieving aerosols single scattering albedo from MODIS reflectances[J]. Atmospheric Research, 2022, 279, 106381. doi.org/10.1016/j.atmosres.2022.106381\nXueying Zhou, Zhaoqiang Huang, Youchuan Wan, Bin Ni, Yalong Zhang, Siwei Li, Mingwei Wang, and Tong Wu. A New Method for Continuous Monitoring of Black and Odorous Water Body Using Evaluation Parameters: A Case Study in Baoding[J].Remote Sensing. 2022,14 (2). doi.org/10.3390/rs14020374\nMengfan Teng, Siwei Li* , Jia Xing, Ge Song, Jie Yang, Jiaxin Dong, Xiaoyue Zeng, Yaming Qin. 24-Hour prediction of PM2.5concentrations by combining empirical mode decomposition and bidirectional long short-term memory neural network[J]. Science  of the Total Environment. 2022,821. doi.org/10.1016/j.scitotenv.2022.153276\nJiaxin Dong, Siwei Li*, Jia Xing, Yisheng Sun, Jie Yang, Lu Ren, Xiaoyue Zeng, and Shovan Kumar Sahu. Air pollution control benefits in reducing inter-provincial trade-associated environmental inequality on PM2.5-related premature deaths in China[J].Journal of Cleaner Production. 2022,350. doi.org/10.1016/j.jclepro.2022.131435\nGe Song, Siwei Li*, Jia Xing, Jie Yang, Lechao Dong, Hao Lin, Mengfan Teng, Senlin Hu, Yaming Qin, and Xiaoyue Zeng. Surface UV-assisted retrieval of spatially continuous surface ozone with high spatial transferability[J]. Remote Sensing of  Environment. 2022,274. doi.org/10.1016/j.rse.2022.112996\nShansi Wang, Siwei Li*, Jia Xing, Jie Yang, Jiaxin Dong, Yu Qin, Shovan Kumar Sahu. Evaluation of the Influence of El Niño-Southern Oscillation on Air Quality in Southern China from Long-Term Historical Observations[J]. Front. Environ. Sci. Eng. 2022, 16(2): 26. doi.org/10.1007/s11783-021-1460-0\nHao Lin, Siwei Li*, Jia Xing, Jie Yang, Qingxin Wang, Lechao Dong, and Xiaoyue Zeng. Fusing Retrievals of High Resolution Aerosol Optical Depth from Landsat-8 and Sentinel-2 Observations over Urban Areas[J]. Remote Sensing. 2021,13 (20). doi.org/10.3390/rs13204140\nQingxin Wang, Dongsheng Du, Siwei Li*, Jie Yang, Hao Lin, and Juan Du. Comparison of different methods of determining land surface reflectance for AOD retrieval[J]. Atmospheric Pollution Research. 2021,12 (8). doi.org/10.1016/j.apr.2021.101143\nHao Lin, Siwei Li*, Jia Xing, Tao He, Jie Yang, Qingxin Wang, High Resolution Aerosol Optical Depth Retrieval over Urban Areas from Landsat-8 OLI Images[J], Atmospheric Environment, 2021, 261:118591. doi.org/10.1016/j.atmosenv.2021.118591\nJie Yang, Siwei Li*, Wei Gong, Qilong Min, Feiyue Mao, Zengxin Pan. A Fast Cloud Geometrical Thickness Retrieval Algorithm for Single-layer Marine Liquid Clouds Using OCO-2 Oxygen A-band Measurements[J]. Remote Sensing of Environment, 2021, 256: 19. doi.org/10.1016/j.rse.2021.112305\nJia Xing, Siwei Li*, Yueqi Jiang, Shuxiao Wang*, Dian Ding, Zhaoxin Dong, Yun Zhu, Jiming Hao. Quantifying the Emission Changes and Associated Air Quality Impacts During the COVID-19 Pandemic on the North China Plain: a Response Modeling Study[J]. Atmospheric Chemistry and Physics, 2020, 20(22): 14347-14359. doi.org/10.5194/acp-20-14347-2020, 2020.\nJia Xing, Siwei Li*, Dian Ding, James T.Kelly, Shuxiao Wang*, Carey Jang, Yun Zhu, Jiming Hao. Data Assimilation of Ambient Concentrations of Multiple Air Pollutants Using an Emission-Concentration Response Modeling Framework[J]. Atmosphere, 2020, 11(12): 1289. doi.org/10.3390/atmos11121289\nLechao Dong, Siwei Li*, Jie Yang, Wenxuan Shi, & Lei Zhang. Investigating the Performance of Satellite-based Models in Estimating the Surface PM2. 5 over China[J]. Chemosphere. 2020, 256, 127051. doi.org/10.1016/j.Chemosphere.2020.127051\nQingxin Wang, Siwei Li*, Qiaolin Zeng, Lin Sun, Jie Yang, Hao Lin. Retrieval and Validation of AOD from Himawari-8 Data over Bohai Rim Region[J], China. Remote Sensing. 2020, 12(20):3425. doi.org/10.3390/rs12203425\nJie Yang, Siwei Li*, Feiyue Mao, Qilong Min, Wei Gong, Lei Zhang, Sheng Liu. Physical Parameterization of Hyperspectral Reflectance in the Oxygen A-Band for Single-Layer Water Clouds[J]. Remote Sensing, 2020, 12(14): 2252. doi.org/10.3390/rs12142252\nSium Gebremariam, Siwei Li* and Mengsteab Weldegaber. Observed Correlation between Aerosol and Cloud Base Height for Low Clouds at Baltimore and New York, United States[J]. Atmosphere, 2018, 9(4): 143. doi.org/10.3390/atmos9040143\nSiwei Li*, Everette Joseph, Qilong Min, Bangsheng Yin, Ricardo Sakai and Megan Payne. Remote Sensing of PM2. 5 During Cloudy and Nighttime Periods Using Ceilometer Backscatter[J]. Atmospheric Measurement Techniques, 2017, 10(6): 2093-2104. doi.org/10.5194/amt-10-2093-2017, 2017.\nSiwei Li*. Aerosol Indirect Effect and Cloud-based Height Observations in the North East of the United States[J]. Int. J. Earth Environ. Sci, 2017, 2: 128. doi.org/10.15344/2456-351X/2017/128.\nSiwei Li*, Everette Joseph, Qilong Min, and Bangsheng Yin. Multi-year Ground-based Observations of Aerosol-cloud Interactions in the Mid-Atlantic of the United States[J]. Journal of Quantitative Spectroscopy and Radiative Transfer, 2017, 188: 192-199. doi.org/10.1016/j.jqsrt.2016.02.004.\nSiwei Li*, Everette Joseph and Qilong Min. Remote Sensing of Ground-level PM2.5 Combining AOD and Backscattering Profile[J]. Remote Sensing of Environment, 2016, 183: 120-128. doi.org/10.1016/j.rse.2016.05.025.\n其他联系方式\n通讯/办公地址 : \n邮箱 : \n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

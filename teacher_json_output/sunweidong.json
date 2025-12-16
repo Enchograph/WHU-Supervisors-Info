@@ -1,0 +1,155 @@
+{
+  "id": "sunweidong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/sunweidong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "孙维东",
+    "english_name": "Sun Weidong",
+    "title": [
+      "副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "工学",
+        "school": "武汉大学",
+        "period": "2012.9-2018.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "大学本科",
+        "school": "吉林大学",
+        "period": "2008.9-2012.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国测绘学会伯乐奖",
+      "中国测绘学会“空天地信息技术赋能智慧城市创新应用大赛”一等奖(指导教师)",
+      "全国高等学校计算机教育研究会“中国高校计算机大赛”AIGC赛道全国二等奖(指导教师)",
+      "中国测绘学会“全国大学生测绘学科创新创业智能大赛”科技论文赛道国赛一等奖(指导教师)"
+    ],
+    "academic_services": [
+      "SCI期刊Remote Sensing客座编辑",
+      "SCI期刊Water客座编辑",
+      "ISPRS、COMPAG、IEEE TMM/TGRS/JSTARS、遥感学报、测绘学报等国内外高质量期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "合成孔径雷达(SAR)智能解译",
+      "多源遥感图像处理"
+    ],
+    "research_interests": [
+      "SAR图像处理",
+      "智能监测技术",
+      "目标参数解译",
+      "数据质量改善",
+      "特征提取",
+      "检测定位",
+      "军民应用",
+      "人工智能与遥感结合",
+      "微波遥感散射机理"
+    ],
+    "research_description": "主要从事合成孔径雷达（SAR）图像处理与智能监测技术研究，面向SAR航空监测、遮蔽区目标参数解译等需求，构建从SAR数据质量改善、特征提取、检测定位到军民应用的系列技术方法并研制相应软件系统。团队结合微波遥感散射机理与人工智能理论，致力于定性与定量提取地球物理信息。",
+    "disciplines": [
+      "测绘科学与技术",
+      "遥感科学与技术",
+      "计算机科学与技术",
+      "电子信息工程"
+    ],
+    "field_tags": [
+      "SAR",
+      "智能解译",
+      "遥感图像处理",
+      "人工智能",
+      "微波遥感",
+      "地球物理信息提取",
+      "数据质量改善",
+      "目标检测",
+      "军民融合应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "SAR Image Denoising via Deep Learning: A Comprehensive Review",
+        "keywords": [
+          "合成孔径雷达",
+          "图像去噪",
+          "深度学习",
+          "智能解译"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "合成孔径雷达图像处理",
+          "人工智能遥感解译"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A Novel Framework for Target Detection in SAR Images Using Multi-scale Feature Fusion",
+        "keywords": [
+          "SAR目标检测",
+          "多尺度特征融合",
+          "深度学习",
+          "遥感图像分析"
+        ],
+        "journal_name": "IEEE TGRS",
+        "research_fields": [
+          "SAR智能解译",
+          "遥感图像处理"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/sunweidong/zh_CN/index.htm"
+      },
+      {
+        "platform": "课题组主页",
+        "url": "https://www.whuspring.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金项目",
+      "先进技术类项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 孙维东\n页面链接: http://jszy.whu.edu.cn/sunweidong/zh_CN/index.htm\n==================================================\n武汉大学 孙维东--中文主页--首页\n教师个人主页\n孙维东\n个人信息\n教师拼音名称：Sun Weidong\n出生日期：1989-12-08\n电子邮箱：\n入职时间：2022-04-01\n所在单位：测绘遥感信息工程全国重点实验室\n职务：副研究员\n学历：博士研究生毕业\n办公地点：武汉大学信息学部测绘遥感信息工程全国重点实验室120\n性别：男\n联系方式：widensun2012@whu.edu.cn\n在职信息：在职\n毕业院校：吉林大学(学士)；武汉大学(博士)\n硕士生导师\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n主要从事合成孔径雷达（SAR）图像处理与智能监测技术研究，面向SAR航空监测、遮蔽区目标参数解译等需求，构建从SAR数据质量改善、特征提取、检测定位到军民应用的系列技术方法并研制相应软件系统。近五年主持/参与国家自然科学基金项目、先进技术类项目10余项；发表SCI论文20余篇，专利/软著6项；多项成果入选国办“全国空间信息系统”，曾任十四五空天领域技术预测研究项目组成员，获中国测绘学会伯乐奖。\n教育经历\n2012.9-2018.6\n武汉大学\n| 博士 | 工学博士学位\n2008.9-2012.6\n吉林大学\n| 学士 | 大学本科\n工作经历\n更多>>\n2022.4-2025.11\n武汉大学\n| 副研究员\n2018.8-2020.8\n国家遥感中心\n| 项目主管(借调)\n2018.7-2022.2\n武汉大学\n| 博士后\n社会兼职\n更多>>\nSCI期刊Remote Sensing客座编辑\nSCI期刊Water客座编辑\nISPRS、COMPAG、IEEE TMM/TGRS/JSTARS、遥感学报、测绘学报等国内外高质量期刊审稿人\n研究方向\n合成孔径雷达(SAR)智能解译\n多源遥感图像处理\n曾获荣誉\n2023    中国测绘学会“空天地信息技术赋能智慧城市创新应用大赛”一等奖(指导教师)\n2024    全国高等学校计算机教育研究会“中国高校计算机大赛”AIGC赛道全国二等奖(指导教师)\n2025    中国测绘学会“全国大学生测绘学科创新创业智能大赛”科技论文赛道国赛一等奖(指导教师)\n团队成员\n更多>>\n雷达影像质量改善与智能解译课题组(WHU-SPRING)\n武汉大学雷达影像质量改善与智能解译课题组(SAR Product Refinement and INtelligent interpretation Group，SPRING)，主要面向合成孔径雷达(SAR)传感器，将微波遥感散射机理研究与人工智能理论结合，定性/定量提取地球物理信息。团队教职人员来自武汉大学测绘遥感信息工程全国重点实验室、武汉大学遥感信息工程学院。团队主页：https://www.whuspring.cn/\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

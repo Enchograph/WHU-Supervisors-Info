@@ -1,0 +1,152 @@
+{
+  "id": "huangdezhao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huangdezhao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄德钊",
+    "english_name": "Huang Dezhao",
+    "title": [
+      "副教授",
+      "副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "动力与机械学院",
+    "college": "动力与机械学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "动力工程及工程热物理",
+        "school": "美国圣母大学",
+        "period": "2016.8-2021.5",
+        "country": "美国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "工学",
+        "school": "美国密苏里科技大学",
+        "period": "2012.8-2016.5",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "美国圣母大学",
+    "academic_honors": [
+      "中国工程热物理学会王补宣-过增元青年优秀论文奖",
+      "国际储能与节能会议最佳报告奖",
+      "湖北省“百人计划”",
+      "武汉市'武汉英才'优秀青年人才"
+    ],
+    "academic_services": [
+      "中国工程热物理学会传热传质青年工作委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "微尺度传热及热测量技术",
+      "先进制造过程热物理",
+      "储能与释能系统热管理",
+      "热物性及相变传热传质",
+      "微纳固液界面热质传递",
+      "微纳尺度固体热测量"
+    ],
+    "research_interests": [
+      "微尺度传热",
+      "热测量技术",
+      "相变传热传质",
+      "热管理",
+      "微纳界面传热",
+      "热物性"
+    ],
+    "research_description": "从事微尺度传热及热测量技术、先进制造过程热物理、储能与释能系统热管理、热物性及相变传热传质等研究，主持国家重点研发计划课题、国家自然科学基金和湖北省自然科学基金等国家级/省部级项目9项，在工程热物理国际知名期刊发表论文30余篇，申请/授权国家发明专利8项，获多项学术奖励。",
+    "disciplines": [
+      "动力工程及工程热物理",
+      "材料科学与工程",
+      "能源科学与工程"
+    ],
+    "field_tags": [
+      "传热传质",
+      "微纳尺度",
+      "热管理",
+      "相变材料",
+      "储能系统",
+      "热物性测量"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "Microscale thermal transport in nanomaterials",
+        "keywords": [
+          "微尺度传热",
+          "纳米材料",
+          "热传导",
+          "界面热阻"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "微尺度传热",
+          "热物性",
+          "相变传热传质"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Advanced thermal management strategies for energy storage systems",
+        "keywords": [
+          "储能系统",
+          "热管理",
+          "热物理",
+          "先进制造"
+        ],
+        "journal_name": "Advanced Science",
+        "research_fields": [
+          "储能与释能系统热管理",
+          "热物理",
+          "先进制造过程"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huangdezhao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划课题",
+      "国家自然科学基金",
+      "湖北省自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "国家重点研发计划"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄德钊\n页面链接: http://jszy.whu.edu.cn/huangdezhao/zh_CN/index.htm\n==================================================\n武汉大学 黄德钊--中文主页--首页\n教师个人主页\n黄德钊\n个人信息\n教师拼音名称：Huang Dezhao\n出生日期：1993-03-15\n电子邮箱：\n所在单位：动力与机械学院\n职务：副教授/副研究员、硕士生导师\n学历：博士研究生毕业\n性别：男\n联系方式：dhuang2@whu.edu.cn\n毕业院校：美国圣母大学\n硕士生导师\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n从事微尺度传热及热测量技术、先进制造过程热物理、储能与释能系统热管理、热物性及相变传热传质等研究。主持国家重点研发计划课题、国家自然科学基金和湖北省自然科学基金等国家级/省部级项目9项，在工程热物理国际知名期刊发表论文30余篇（包括Nature Communications、Advanced Science等），申请/授权国家发明专利8项，获中国工程热物理学会王补宣-过增元青年优秀论文奖、国际储能与节能会议最佳报告奖等学术奖励，兼任中国工程热物理学会传热传质青年工作委员会委员。\n教育经历\n2016.8-2021.5\n美国圣母大学  | 动力工程及工程热物理  | 工学博士学位 | 博士研究生毕业  | University of Notre Dame\n2012.8-2016.5\n美国密苏里科技大学  | 工学  | 大学本科毕业 | 工学学士学位  | Missouri University of Science and Technology\n工作经历\n2023.4-至今\n动力与机械学院 | 武汉大学\n| 硕士生导师  | 特聘副研究员（副教授）\n2021.8-2023.4\n动力与机械学院 | 武汉大学  | 重点资助博士后\n| 助理研究员\n社会兼职\n更多>>\n2022年中国舰船研究设计中心(701所)项目开标评审专家\n2022级能源动力班班主任\n2022级工科试验第27班助理班主任\n研究方向\n微纳固液界面热质传递\n微纳尺度固体热测量\n曾获荣誉\n2024    湖北省“百人计划”\n2024    武汉市\"武汉英才\"优秀青年人才\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

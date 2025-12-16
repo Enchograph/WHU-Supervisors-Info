@@ -1,0 +1,170 @@
+{
+  "id": "lzhou28",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lzhou28/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "周立",
+    "english_name": "Jerry",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "基础医学专业",
+    "college": "泰康医学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学学士学位",
+        "field": "药学",
+        "school": "武汉大学",
+        "period": "2001-9····2005.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士学位",
+        "field": "微生物学",
+        "school": "武汉大学",
+        "period": "2006-9····2011.12",
+        "country": "中国"
+      },
+      {
+        "degree": "访问学生",
+        "field": "临床免疫学",
+        "school": "约翰斯·霍普金斯大学医学院",
+        "period": "2009-9····2011.9",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "武汉大学/Johns Hopkins University School of Medicine",
+    "academic_honors": [
+      "湖北省科学技术进步奖三等奖"
+    ],
+    "academic_services": [
+      "湖北省实验动物学会理事",
+      "武汉大学动物实验中心实验动物管理与使用委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "急性肺部损伤分子机制",
+      "抗病毒天然免疫作用机制"
+    ],
+    "research_interests": [
+      "天然免疫",
+      "肺部损伤",
+      "病毒感染",
+      "免疫机制",
+      "分子机制"
+    ],
+    "research_description": "周立副教授主要从事急性肺部损伤的分子机制研究以及抗病毒天然免疫的作用机制研究，聚焦于感染与免疫领域，尤其在病毒性感染引发的免疫应答和肺部病理损伤方面具有深入研究。其研究工作发表于Cell Research、Nature Communications、Autophagy等高水平期刊，涉及免疫学、病原生物学和临床免疫学交叉领域。",
+    "disciplines": [
+      "免疫学",
+      "病原生物学",
+      "基础医学"
+    ],
+    "field_tags": [
+      "天然免疫",
+      "病毒感染",
+      "肺损伤",
+      "分子机制",
+      "免疫应答",
+      "抗病毒机制",
+      "临床免疫学",
+      "动物模型",
+      "实验动物学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 78,
+    "representative_publications": [
+      {
+        "title": "Cell Research",
+        "keywords": [
+          "急性肺部损伤",
+          "天然免疫",
+          "分子机制"
+        ],
+        "journal_name": "Cell Research",
+        "research_fields": [
+          "免疫学",
+          "分子生物学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nature Communications",
+        "keywords": [
+          "抗病毒免疫",
+          "天然免疫",
+          "病毒学"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "免疫学",
+          "病毒学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Autophagy",
+        "keywords": [
+          "自噬",
+          "免疫调节",
+          "感染与免疫"
+        ],
+        "journal_name": "Autophagy",
+        "research_fields": [
+          "细胞生物学",
+          "免疫学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Cell Discovery",
+        "keywords": [
+          "免疫机制",
+          "过敏反应",
+          "临床免疫"
+        ],
+        "journal_name": "Cell Discovery",
+        "research_fields": [
+          "免疫学",
+          "临床医学"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学中文主页",
+        "url": "http://jszy.whu.edu.cn/lzhou28/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 周立\n页面链接: http://jszy.whu.edu.cn/lzhou28/zh_CN/index.htm\n==================================================\n武汉大学 周立--中文主页--首页\nEnglish\n中文\n周立\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n硕士生导师\n教师英文名称：Jerry\n电子邮箱：\n职务：教师\n学历：研究生毕业\n办公地点：武汉大学ABSL-III实验室行政楼307室\n性别：男\n联系方式：zhouli_jerry@whu.edu.cn\n职称：副教授\n毕业院校：武汉大学/Johns Hopkins University School of Medicine\n学科：\n免疫学\n个人简介\n周立，武汉大学动物生物安全三级实验室（ABSL-III实验室）/疫苗研究院副教授，基础医学院免疫学专业硕士生导师，极地环境监测与公共治理教育部重点实验室PI。\n2005年6月在武汉大学药学院获得理学学士学位（药学）。2011年12月在武汉大学生命科学学院获得理学博士学位（生物学）。研究生期间获得国家留学基金委国家建设高水平大学公派研究生项目资助于2009年9月至2011年9月在美国约翰斯·霍普金斯大学医学院临床免疫学系（Asthma and Allergy Center, Department of Clinical Immunology, Johns Hopkins University, School of Medicine）学习。2012年1月至今，在武汉大学历任讲师、副教授。其中2012年4月至2015年1月在武汉大学基础医学博士后流动站从事博士后研究工作。在Cell Research，Cell Discovery, Nature Communication, Autophagy等杂志共发表SCI论文78篇（其中以第一或通讯作者发表SCI论文23篇；署名SCI论文55篇），以第一或通讯作者发表中文核心期刊12篇，授权发明专利6项，获湖北省科学技术进步奖三等奖1项，参编教材《实验动物学》，《Methods in Molecular Biology: Animal Models of Allergic Disease》，《医学实验动物学》（“十四五”规划教材）。任湖北省实验动物学会理事。\n拟招收2025级全日制硕士研究生1名，欢迎报考和推荐。\n武汉大学，泰康医学院，基础医学专业（100100），考试科目英语（201），政治（101），基础医学综合（688），专业方向为免疫学（感染与免疫）。\n团队成员\n病毒学国家重点实验室\n陈宇教授团队的合作导师\n极地环境监测与公共治理教育部重点实验室\n极地环境监测与公共治理教育部重点实验室是由武汉大学中国南极测绘研究中心牵头，联合了测绘学院、遥感信息工程学院、生命科学学院、政治与公共管理学院、法学院和中国边界与海洋研究院等极地研究相关单位优势力量，通过测绘遥感、地球物理、生态、国际法学和政治学等学科交叉，聚焦极地环境监测与公共治理研究，解决全球关注的极地重大科学问题，贡献极地治理中国方案。\n工作经历\n2012-1····至今\n动物实验中心/ABSL-III实验室\n| 武汉大学\n| 在职\n| 讲师、副教授\n教育经历\n2009-9····2011.9\n美国约翰斯·霍普金斯大学医学院\n|\n临床免疫学\n| 访问学生\n|\n访问学生\n|\n获得国家留学基金委资助，赴美国约翰斯霍普金斯大学医学院哮喘和过敏研究所从事临床免疫学科研工作。\n2012-4····2014.12\n武汉大学\n|\n病原生物学\n| 无\n|\n研究生(博士后)\n2006-9····2011.12\n武汉大学\n|\n微生物学\n| 理学博士学位\n|\n博士\n2001-9····2005.6\n武汉大学\n|\n药学\n| 理学学士学位\n|\n本科(学士)\n社会兼职\n2020-7····至今\n武汉大学动物实验中心实验动物管理与使用委员会委员\n2021-4····2026.3\n湖北省实验动物学会理事\n研究方向\n[1].急性肺部损伤分子机制的研究\n[2].抗病毒天然免疫的作用机制研究\n其他联系方式\n邮编：\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "zhangyi2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangyi2/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "张熠",
+    "english_name": "Zhang Yi",
+    "title": [
+      "讲师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "模式识别与智能系统",
+        "school": "华中科技大学",
+        "period": "2004.9~2008.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "‘遥感物理基础’获得遥感信息工程学院‘遥感金课’，2023",
+      "‘遥感物理基础’获得遥感信息工程学院‘遥感金课’，2022",
+      "‘遥感物理基础’获得遥感信息工程学院首届‘遥感金课’，2021",
+      "武汉大学2020-2021学年本科优秀教学业绩奖，2021"
+    ],
+    "academic_services": [
+      "CSTARS（2021-）"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "大气污染物的遥感监测",
+      "光学遥感传感器性能评价",
+      "遥感影像智能处理"
+    ],
+    "research_interests": [
+      "大气遥感",
+      "环境遥感",
+      "遥感图像处理",
+      "污染物反演",
+      "卫星影像分析"
+    ],
+    "research_description": "张熠博士长期致力于遥感传感器原理、遥感图像智能处理以及大气与环境遥感方面的研究。自2021年起，重点开展基于卫星影像的大气污染物（如臭氧、PM2.5、NO2等）的反演与时空变化分析，研究涵盖近地表污染物浓度的全天时全覆盖反演方法、城市环境污染物的人为驱动因素分析，以及跨区域污染关联性挖掘。其研究结合遥感物理基础与人工智能技术，推动遥感在环境监测与可持续发展中的应用。",
+    "disciplines": [
+      "遥感科学与技术",
+      "环境科学",
+      "图像处理"
+    ],
+    "field_tags": [
+      "大气遥感",
+      "环境遥感",
+      "遥感反演",
+      "PM2.5监测",
+      "臭氧浓度",
+      "NO2反演",
+      "智能遥感处理",
+      "卫星影像分析"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 4,
+    "representative_publications": [
+      {
+        "title": "Diurnal hourly near-surface ozone concentration derived from geostationary satellite in China",
+        "keywords": [
+          "近地表臭氧浓度",
+          "静止卫星",
+          "中国",
+          "时间序列反演"
+        ],
+        "journal_name": "Science of The Total Environment",
+        "research_fields": [
+          "大气遥感",
+          "环境遥感",
+          "遥感图像智能处理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Spatio-temporal association mining of intercity PM2.5 pollution: Hubei Province in China as an example",
+        "keywords": [
+          "PM2.5污染",
+          "时空关联挖掘",
+          "湖北省",
+          "城市间污染传输"
+        ],
+        "journal_name": "Environmental Science and Pollution Research",
+        "research_fields": [
+          "大气污染物遥感监测",
+          "环境遥感",
+          "空间数据分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Anthropogenic Drivers of Hourly Air Pollutant Change in an Urban Environment during 2019–2021—A Case Study in Wuhan",
+        "keywords": [
+          "人为驱动因素",
+          "城市空气质量",
+          "小时级变化",
+          "武汉"
+        ],
+        "journal_name": "Sustainability",
+        "research_fields": [
+          "大气环境遥感",
+          "城市污染源分析",
+          "遥感与环境政策"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Why do extreme particulate pollution events occur in low-emission Yunnan Province, China?",
+        "keywords": [
+          "极端颗粒物污染事件",
+          "低排放地区",
+          "云南",
+          "污染成因分析"
+        ],
+        "journal_name": "Atmospheric Environment",
+        "research_fields": [
+          "大气污染机制",
+          "遥感监测",
+          "环境遥感"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangyi2/zh_CN/index.htm"
+      },
+      {
+        "platform": "团队官网",
+        "url": "http://www.whu-asmart.com/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国际合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "美国加州大学Davis分校"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张熠\n页面链接: http://jszy.whu.edu.cn/zhangyi2/zh_CN/index.htm\n==================================================\n武汉大学 张熠--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学\n授课信息\n教学项目\n教学论文和成果\n学科建设和教学管理\n曾获荣誉\n教学相册\n学生信息\n我的相册\n教师个人主页\nEN\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学\n授课信息\n教学项目\n教学论文和成果\n学科建设和教学管理\n曾获荣誉\n教学相册\n学生信息\n我的相册\n张熠\n讲师\n个人信息Personal Information\n教师拼音名称： Zhang Yi\n电子邮箱： \n所在单位： 遥感信息工程学院\n职务： 教师\n学历： 研究生毕业\n办公地点： 遥感信息工程学院教学实验大楼1506\n性别： 女\n在职信息： 在职\n毕业院校： 华中科技大学\n其他联系方式 Other contact details\n邮编：\n通讯/办公地址：\n移动电话：\n邮箱：\n个人简介\n查看更多 +\n张熠，女，2008年毕业于华中科技大学图像识别与人工智能研究所，获模式识别与智能控制专业博士学位，同年进入武汉大学遥感信息工程学院担任讲师，2012年至2013年至美国加州大学Davis分校陆地大气水资源环境系（LAWR）空间技术与遥感中心(CSTARS)进行访问研究。博士期间主要从事图像分析、图像理解、模式识别等研究。进入遥感学院以来，致力于遥感传感器原理、遥感图像智能处理等的研究，2021年至今进行大气及环境遥感方面的科学研究。\n教育经历\n2004.9~2008.6\n华中科技大学\n- 模式识别与智能系统\n- 博士研究生\n- 博士\n工作经历\n2012.7~2013.6\n美国加州大学Davis分校\n- 环境科学系\n- 访问学者\n-  讲师\n论文成果\n专利成果\n著作成果\n查看更多 +\nYi Zhang.Lin Zang.Jie Song,Jingru Yang,Ying Yang,Feiyue Mao.Diurnal hourly near-surface ozone concentration derived from geostationary satellite in China.Science of The Total Environment.2024.https://www.sciencedirect.com/science/article/pii/S0048969724073431\nJiangping Chen.Xiaofeng Song,Lin Zang,Feiyue Mao,Jianhua Yin,Yi Zhang.Spatio-temporal association mining of intercity PM2.5 pollution: Hubei Province in China as an example.Environmental Science and Pollution Research.2023\nYi Zhang.Jiangping Chen.Jie Song,Bo Zhu.Anthropogenic Drivers of Hourly Air Pollutant Change in an Urban Environment during 2019–2021—A Case Study in Wuhan.Sustainability.2023\nJingru Yang.Feiyue Mao.Lin Zang,Yi Zhang,Jia Hong,Jianhua Yin,Jiangping Chen.Why do extreme particulate pollution events occur in low-emission Yunnan Province, China?.Atmospheric Environment.119336-119336.2022\n查看更多 +\n一种全天时全覆盖的近地表NO2浓度反演方法及系统\n一种基于领域本体的遥感对地观测需求模型建立方法\n基于直方图特征点配准的影像匀色与融合方法及系统\n一种基于领域本体的遥感对地观测需求模型建立方法\n查看更多 +\n《遥感传感器原理》.武汉大学出版社.2021/12/02\n社会兼职\n暂无内容\n研究方向\n查看更多 +\n大气污染物的遥感监测\n光学遥感传感器性能评价\n遥感影像智能处理\n获奖信息\n学术荣誉\n曾获荣誉\n暂无内容\n暂无内容\n查看更多 +\n“遥感物理基础”获得遥感信息工程学院“遥感金课”,2023\n“遥感物理基础”获得遥感信息工程学院“遥感金课”,2022\n“遥感物理基础”获得遥感信息工程学院首届“遥感金课”,2021\n武汉大学2020-2021学年本科优秀教学业绩奖,2021\n团队名称：\n查看更多 +\nCSTARS（2021-）\n团队介绍：\n团队负责人：毛飞跃研究内容：基于卫星影像的大气颗粒物反演，大气云和气溶胶交互。网址：http://www.whu-asmart.com/\n团队成员：\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

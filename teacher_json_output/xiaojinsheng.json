@@ -1,0 +1,166 @@
+{
+  "id": "xiaojinsheng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xiaojinsheng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "肖进胜",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "",
+    "college": "电子信息学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "信息与通信工程",
+        "school": "Wuhan University",
+        "period": "毕业院校：Wuhan University",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "Wuhan University",
+    "academic_honors": [
+      "2021年测绘科学技术奖一等奖",
+      "2025年中国物流与采购科技三等奖",
+      "2014年湖北省科技进步奖三等奖",
+      "2023年湖北省科技进步奖三等奖"
+    ],
+    "academic_services": [
+      "IEEE TIP 审稿人",
+      "IEEE TCSVT 审稿人",
+      "ESWA 审稿人",
+      "自动化学报 审稿人",
+      "计算机学报 审稿人",
+      "电子与信息学报 审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "视频图像处理",
+      "计算机视觉",
+      "人工智能",
+      "群体智能系统",
+      "智能机器人"
+    ],
+    "research_interests": [
+      "图像处理",
+      "视觉感知",
+      "机器学习",
+      "智能系统",
+      "集群智能",
+      "机器人感知"
+    ],
+    "research_description": "肖进胜副教授长期从事视频图像处理与分析、计算机视觉与感知增强、人工智能及群体智能系统相关的研究和教学工作。主持和参与国家自然科学基金、国家重点研发计划、科技预研等项目20余项，发表学术论文70余篇，其中SCI收录30多篇，申请发明专利20余项，授权10项。研究聚焦于智能视觉系统、感知增强技术及智能机器人系统中的关键问题。",
+    "disciplines": [
+      "信息与通信工程",
+      "通信与信息系统",
+      "信号与信息处理"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "图像处理",
+      "人工智能",
+      "群体智能",
+      "智能机器人",
+      "感知增强",
+      "机器学习",
+      "智能系统"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "基于深度学习的视频目标跟踪算法研究",
+        "keywords": [
+          "视频目标跟踪",
+          "深度学习",
+          "计算机视觉",
+          "图像处理"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing (TIP)",
+        "research_fields": [
+          "计算机视觉",
+          "图像处理",
+          "人工智能"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "面向智能感知的多模态信息融合方法",
+        "keywords": [
+          "多模态融合",
+          "感知增强",
+          "人工智能",
+          "信息处理"
+        ],
+        "journal_name": "CVPR",
+        "research_fields": [
+          "计算机视觉",
+          "人工智能",
+          "信息与通信工程"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "基于群体智能的协同感知系统设计",
+        "keywords": [
+          "群体智能",
+          "协同感知",
+          "智能机器人",
+          "信息处理"
+        ],
+        "journal_name": "IEEE Transactions on Cybernetics (TCSVT)",
+        "research_fields": [
+          "群体智能",
+          "智能机器人",
+          "信息与通信工程"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xiaojinsheng/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "科技预研"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 肖进胜\n页面链接: http://jszy.whu.edu.cn/xiaojinsheng/zh_CN/index.htm\n==================================================\n武汉大学 肖进胜--中文主页--首页\nEnglish\n肖进胜(\n副教授\n、硕士生导师\n、博士生导师\n)\n性别：男\n所在单位：电子信息学院\n毕业院校：Wuhan University\n在职信息：在职\n入职时间：2001-07-01\n办公地点：电子信息学院 B317#\n联系方式：xiaojs @ whu。edu。cn\n189 - 7129 - 7802\n学科：\n、\n信息与通信工程\n、\n通信与信息系统\n、\n信号与信息处理\n、\n信息与通信工程其他专业\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n个人简介\n肖进胜，博士，副教授，博士生导师。中国自动化学会高级会员，模式识别与机器智能专委会委员，中国计算机学会，人工智能学会会员。2012年12月到2013年3月赴德国不莱梅雅克比大学，2014年8月到2015年8月赴美国加州大学圣芭芭拉分校交流访问。近年来，主持和参与包括国家自然科学基金、国家重点研发计划、科技预研等项目在内的各类科学研究项目20余项。以第一作者或通信作者在包括CVPR，IEEE Trans等国内外学术刊物发表学术论文70余篇，其中SCI收录30多篇，申请20多项发明专利，其中授权专利10项。担任IEEE TIP, IEEE TCSVT, ESWA, 自动化学报，计算机学报，电子与信息学报等多个国际国内重要期刊的审稿人。获 2021年测绘科学技术奖一等奖1项，2025年中国物流与采购科技三等奖，2014，2023年湖北省科技进步奖三等奖2项。一直从事视频图像处理与分析、计算机视觉与感知增强、人工智能及群体智能系统相关的研究和教学工作。\nEmail: xiaojs @ whu。edu。cn。\nphone:1897 - 1297 - 802\n研究方向\n视频图像处理、计算机视觉、信息与通信相关的研究和教学工作。\n人工智能、无能系统集群、智能机器人等相关的研究和教学工作。\n同专业博导\n同专业硕导\n欢迎您访问我们的网站，您是第 位访客\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

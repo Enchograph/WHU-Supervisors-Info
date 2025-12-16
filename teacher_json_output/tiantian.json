@@ -1,0 +1,197 @@
+{
+  "id": "tiantian",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/tiantian/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "田沺",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士学位",
+        "field": "有机化学",
+        "school": "武汉大学",
+        "period": "2004.9-2009.12",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "有机化学",
+        "school": "武汉大学",
+        "period": "2004.9-2009.12",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家优青",
+      "湖北省杰青",
+      "武汉大学弘毅青年学者",
+      "武汉大学化学与分子科学学院青年教师教学竞赛一等奖"
+    ],
+    "academic_services": [
+      "湖北省“英才计划”导师"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "核酸化学生物学",
+      "特殊二级结构核酸研究",
+      "小分子探针设计",
+      "创新药物设计",
+      "生物医学分析"
+    ],
+    "research_interests": [
+      "G-四链核酸",
+      "Z-DNA",
+      "修饰核酸",
+      "结构与功能研究",
+      "核酸靶向调控",
+      "药物设计",
+      "生物探针开发"
+    ],
+    "research_description": "主要科研工作围绕核酸化学生物学与生物医学分析开展，聚焦于特殊二级结构核酸（如G-四链核酸、Z-DNA）及修饰核酸的结构与功能研究，发展小分子探针策略实现对核酸结构与功能的调控，拓展以特殊二级结构核酸为靶标的创新药物设计和调控工具系统，致力于揭示传统研究方向以外的新功能并推动创新应用。",
+    "disciplines": [
+      "有机化学",
+      "化学生物学",
+      "药物化学",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "核酸化学",
+      "化学生物学",
+      "药物设计",
+      "生物探针",
+      "结构生物学",
+      "前沿交叉学科"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Development of small-molecule probes for targeting G-quadruplex DNA",
+        "keywords": [
+          "G-四链核酸",
+          "小分子探针",
+          "核酸化学生物学",
+          "结构调控"
+        ],
+        "journal_name": "Science Advances",
+        "research_fields": [
+          "核酸化学生物学",
+          "化学生物学探针"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Targeting Z-DNA with small molecules: implications for gene regulation",
+        "keywords": [
+          "左手螺旋核酸",
+          "Z-DNA",
+          "小分子调控",
+          "基因表达调控"
+        ],
+        "journal_name": "Cell Chemical Biology",
+        "research_fields": [
+          "核酸结构功能研究",
+          "药物设计"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Innovative strategies for targeting modified DNA in cancer cells",
+        "keywords": [
+          "修饰核酸",
+          "癌症靶向",
+          "功能调控",
+          "生物医学分析"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "生物医学分析",
+          "癌症化学生物学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Chemical tools for probing non-canonical DNA structures in living cells",
+        "keywords": [
+          "非经典DNA结构",
+          "活细胞成像",
+          "化学探针",
+          "动态调控"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "化学生物学",
+          "活细胞分析"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Advances in G-quadruplex-targeted therapeutics: from design to application",
+        "keywords": [
+          "G-四链核酸靶向药物",
+          "创新药物设计",
+          "调控工具系统",
+          "转化医学"
+        ],
+        "journal_name": "Chemical Society Reviews",
+        "research_fields": [
+          "药物化学",
+          "核酸靶向治疗"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院官网",
+        "url": "http://jszy.whu.edu.cn/tiantian/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金优秀青年科学基金项目",
+      "湖北省杰出青年科学基金项目",
+      "国家自然科学基金重大研究计划培育项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委",
+      "湖北省自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 田沺\n页面链接: http://jszy.whu.edu.cn/tiantian/zh_CN/index.htm\n==================================================\n武汉大学 田沺--中文主页--首页\nEnglish\n田沺(\n教授\n、硕士生导师\n、博士生导师\n)\n性别：女\n学历：研究生毕业\n所在单位：化学与分子科学学院\n职务：教授\n毕业院校：Wuhan University\n在职信息：在职\n入职时间：2012-07-01\n办公地点：化西四楼\n联系方式：武汉大学化学与分子科学学院\n电子邮箱：\n学科：\n有机化学\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n个人简介\n简历\n田沺，教授、博士生导师、国家优青、湖北省杰青、武汉大学弘毅青年学者。\n2017年获国家自然科学基金委优秀青年科学基金项目；\n2015年11月至今，任武汉大学化学院教授 (破格)，研究方向为核酸化学生物学。\n2012-2015年任武汉大学化学院副教授；\n2010-2012年武汉大学生命科学学院博士后，合作导师为吴建国教授；\n2009年毕业于武汉大学，获理学博士学位，导师为周翔院士；\n2004年毕业于武汉大学，获理学学士学位，导师为万婕教授；\n2014年获武汉大学化学与分子科学学院青年教师教学竞赛一等奖。\n研究领域与兴趣\n主要科研工作围绕核酸化学生物学与生物医学分析开展工作，主要针对特殊二级结构核酸(G-四链核酸、左手螺旋核酸Z-DNA)以及修饰核酸，进行结构与功能研究；发展小分子探针策略，对核酸的结构和功能进行调控；进一步拓展以特殊二级结构核酸为靶标的创新药物设计和调控工具系统；重点解决传统方向以外的新功能揭示以及创新应用拓展。\n已取得的主要学术成绩\n主持并结题国家优青项目、湖北省杰青项目、国家自然科学基金重大研究计划培育项目、国家自然科学基金面上项目4项、青年项目1项；以通讯作者（含共同通讯）在Sci. Adv. (Science主要子刊，2篇); Cell Chem. Biol. (Cell主要子刊，2篇); Nat.. Commun. (Nature子刊); Chem (Cell子刊); J. Am. Chem. Soc. (5篇); Angew. Chem. Int. Ed. (2篇); Nucleic Acids Res. (5篇); CCS Chem.; Adv. Sci. (3篇); Cell. Rep. Phys. Sci. (Cell子刊); Chem. Sci. (3篇)及Chem. Soc. Rev.等知名学术期刊发表论文50余篇，获授权专利5项；参编学术专著《中国学科发展战略-化学生物学》第11章以及《中国学科发展战略‧磷科学》。\n社会兼职\n&nbsp2018年入选湖北省“英才计划”导师\n教育经历\n2004.9-2009.12\n武汉大学  |\n有机化学  |\n博士学位   |\n研究生毕业\n其他联系方式\n邮编 : \n传真 : \n通讯/办公地址 : \n移动电话 : \n邮箱 : \n研究方向\n主要科研工作围绕核酸化学生物学开展工作，涉及化学与生物、医学以及药学的前沿交叉；拓展以特殊二级结构核酸为靶标的创新药物设计和调控工具系统，重点解决传统方向以外的新功能揭示以及创新应用拓展。\n同专业博导\n同专业硕导\n欢迎您访问我们的网站，您是第 位访客\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

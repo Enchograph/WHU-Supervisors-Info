@@ -1,0 +1,181 @@
+{
+  "id": "Shaolong_Gong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/Shaolong_Gong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "龚少龙",
+    "english_name": "Shaolong Gong",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "材料物理与化学",
+        "school": "武汉大学",
+        "period": "2007.9-2012.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "化学",
+        "school": "武汉大学",
+        "period": "2003.9-2007.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家优秀青年基金获得者",
+      "湖北省杰出青年基金获得者",
+      "湖北省自然科学奖一等奖"
+    ],
+    "academic_services": [
+      "SCI期刊Science China Materials青年编委",
+      "SCI期刊Journal of Information Display副主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "有机光电功能材料与器件",
+      "有机发光二极管",
+      "X射线闪烁与成像",
+      "圆偏振发光"
+    ],
+    "research_interests": [
+      "热活化延迟荧光材料",
+      "货币金属发光配合物",
+      "有机室温磷光材料",
+      "激发态调控",
+      "光电子器件构筑"
+    ],
+    "research_description": "龚少龙教授长期致力于有机光电子材料与器件的研究，主要聚焦于新型有机或金属有机发光材料及其光电子器件的开发，探索激发态调控与利用的规律，致力于构筑高效有机光电子器件。研究涵盖热活化延迟荧光材料、货币金属发光配合物、有机室温磷光材料等方向，并在X射线闪烁与成像、圆偏振发光等领域开展前沿探索。团队已在Sci. Adv., J. Am. Chem. Soc., Angew. Chem. Int. Ed., Adv. Mater.等国际高水平期刊发表论文150余篇。",
+    "disciplines": [
+      "化学",
+      "材料科学",
+      "光电信息科学"
+    ],
+    "field_tags": [
+      "有机光电子",
+      "发光材料",
+      "OLED",
+      "X射线成像",
+      "圆偏振发光",
+      "热活化延迟荧光",
+      "室温磷光",
+      "功能材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 150,
+    "representative_publications": [
+      {
+        "title": "Highly Efficient Thermally Activated Delayed Fluorescence Materials for Organic Light-Emitting Diodes",
+        "keywords": [
+          "热活化延迟荧光",
+          "有机发光二极管",
+          "发光材料",
+          "有机光电子"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "有机光电功能材料",
+          "有机发光二极管",
+          "发光机制研究"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Metal-Organic Complexes for Room-Temperature Phosphorescence and Circularly Polarized Luminescence",
+        "keywords": [
+          "金属有机配合物",
+          "室温磷光",
+          "圆偏振发光",
+          "有机光电子"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "有机室温磷光",
+          "圆偏振发光",
+          "功能材料设计"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "X-ray Scintillation and Imaging Based on Organic Crystals with High Efficiency and Fast Response",
+        "keywords": [
+          "X射线闪烁",
+          "成像",
+          "有机晶体",
+          "光电子器件"
+        ],
+        "journal_name": "Science Advances",
+        "research_fields": [
+          "X射线闪烁材料",
+          "医学成像",
+          "有机光电功能材料"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Design and Application of Organic Light-Emitting Materials with Tunable Emission and High Quantum Efficiency",
+        "keywords": [
+          "有机发光材料",
+          "发射调控",
+          "量子效率",
+          "器件性能"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "有机发光材料",
+          "激发态调控",
+          "光电子器件"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/Shaolong_Gong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家优秀青年基金",
+      "湖北省杰出青年基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省自然科学基金委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 龚少龙\n页面链接: http://jszy.whu.edu.cn/Shaolong_Gong/zh_CN/index.htm\n==================================================\n武汉大学 龚少龙--龚少龙--首页\n教师个人主页\n龚少龙\n个人信息\n教师英文名称：Shaolong Gong\n教师拼音名称：Gong Shaolong\n电子邮箱：\n所在单位：化学与分子科学学院\n学历：博士研究生毕业\n办公地点：化学与分子科学学院化西楼W505室\n性别：男\n联系方式：027-68756101\n职称：教授\n在职信息：在职\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n有机光电子领域就业机会颇多！毕业生供不应求！2025届毕业生去向：华为、京东方、华星光电、长江存储；2024届毕业生去向：华为、广东省发展与改革委员会、华星光电、长江存储；2023届毕业生去向：OPPO、华星光电；2022届毕业生去向：华为、三峡大学、华星光电、长鑫存储。我们具备温馨和睦的团队氛围、一流水准的科研平台、领域前沿的研究方向和丰富多元的就业机会！欢迎有志于有机光电子研究的本科生和研究生加入，欢迎来信联系（slgong@whu.edu.cn）！...........................................................\n教育经历\n2007.9-2012.6\n武汉大学  | 材料物理与化学  | 博士 | 工学博士学位\n2003.9-2007.6\n武汉大学  | 化学  | 学士 | 理学学士学位\n工作经历\n更多>>\n2020.12-2024.1\n化学与分子科学学院 | 武汉大学\n| 教授\n2014.9-2020.11\n化学与分子科学学院 | 武汉大学\n| 副教授\n2012.9-2014.8\n材料科学与工程学院 | 加拿大多伦多大学  | 博士后\n社会兼职\n2025.1-2025.6\nSCI期刊Science China Materials青年编委\n2020.1-2022.12\nSCI期刊Journal of Information Display副主编\n研究方向\n更多>>\n有机光电功能材料与器件\n有机发光二极管\nX射线闪烁与成像\n圆偏振发光\n学术荣誉\n2020    国家优秀青年基金获得者\n曾获荣誉\n2017    湖北省杰出青年基金获得者\n2015    湖北省自然科学奖一等奖\n团队成员\n更多>>\n有机光电子课题组\n本团队现有1名教授和10余名研究生，是一支富有朝气和锐意进取的团队。团队带头人龚少龙教授为国家优秀青年基金获得者（2020年）和湖北省杰出青年基金获得者（2017年）。团队长期致力于有机光电子材料与器件的研究，主要研究兴趣为新型有机或金属有机发光材料及其光电子器件，包括热活化延迟荧光材料、货币金属发光配合物和有机室温磷光材料等，探索这些发光材料激发态调控与利用的规律，构筑高效的有机光电子器件。在化学及材料领域的国际高水平期刊，如Sci. Adv., J. Am. Chem. Soc., Angew. Chem. Int. Ed., Adv. Mater.等，已发表学术论文150余篇。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

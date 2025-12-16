@@ -1,0 +1,243 @@
+{
+  "id": "taoli0711",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/taoli0711/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李涛",
+    "english_name": "Tao Li",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "考古专业",
+    "college": "历史学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "哲学博士",
+        "field": "考古人类学",
+        "school": "匹兹堡大学",
+        "period": "2010-2016",
+        "country": "美国"
+      },
+      {
+        "degree": "理学博士",
+        "field": "科技考古",
+        "school": "中国科学院大学",
+        "period": "2007-2010",
+        "country": "中国"
+      },
+      {
+        "degree": "历史学硕士",
+        "field": "科技考古",
+        "school": "中国科学技术大学",
+        "period": "2004-2007",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "文物保护技术",
+        "school": "西北大学",
+        "period": "2000-2004",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "匹兹堡大学",
+    "academic_honors": [
+      "2023: 国家级教学成果奖二等奖（11/12）",
+      "2023: 武汉大学教学成果奖（本科教育）一等奖（2/8）",
+      "2023: 武汉大学第四届“教与学的革命”珞珈论坛优秀教师论文二等奖",
+      "2023: 武汉大学第十一届青年教师教学竞赛三等奖",
+      "2022: 武汉大学历史学院青年教师教学竞赛一等奖",
+      "2020: 湖北省“楚天学者”计划（楚天学子项目）",
+      "2012: Andrew W. Mellon Pre-Doctoral Fellowship"
+    ],
+    "academic_services": [
+      "npj Heritage Science 副主编（科技考古领域）",
+      "Heritage Science（A&HCI）编委",
+      "《世界考古研究动态》编委",
+      "欧洲考古学会会员",
+      "东亚考古学会会员",
+      "美洲考古学会会员",
+      "中国科学技术史学会科技考古专业委员会委员",
+      "国家社会科学基金和国家自然科学基金项目通讯评审",
+      "Chinese Cultural Relics、Chinese Archaeology 以及《江汉考古》英文翻译",
+      "科技考古与文物保护利用湖南省重点实验室湘北分中心首席专家（2024-2027）",
+      "PNAS特约编辑",
+      "牛津大学出版社（OUP）、英国考古报告出版社（BAR）、Springer-Nature出版社书稿评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "史前陶器手工业",
+      "文明起源与社会复杂化研究",
+      "科技考古与聚落考古的交叉研究",
+      "经济网络与早期复杂社会形成"
+    ],
+    "research_interests": [
+      "陶器生产与流通",
+      "家户考古",
+      "科技分析在考古学中的应用",
+      "马克思主义历史唯物论指导下的考古研究",
+      "区域尺度上的经济分化",
+      "古DNA与多学科合作"
+    ],
+    "research_description": "李涛教授的研究聚焦于史前考古与科技考古领域，尤其关注史前陶器手工业和文明起源与社会复杂化问题。他创新性地将自然科学技术应用于东亚史前考古，致力于通过陶器研究探讨经济网络在早期复杂社会形成与发展中的作用。研究以马克思主义历史唯物论为指导，结合聚落考古、互动关系网络与经济分化等核心考古学命题，强调科技分析与考古学问题的深度融合，区别于传统以检测为主导的科技考古路径。",
+    "disciplines": [
+      "考古学",
+      "科技考古",
+      "史前考古",
+      "人类学"
+    ],
+    "field_tags": [
+      "史前考古",
+      "科技考古",
+      "陶器研究",
+      "家户考古",
+      "文明起源",
+      "经济网络",
+      "复杂社会",
+      "多学科交叉",
+      "马克思主义考古学",
+      "自然科学技术应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "陶器手工业与早期社会复杂化：基于长江中游地区的科技考古研究",
+        "keywords": [
+          "陶器手工业",
+          "早期社会复杂化",
+          "科技考古",
+          "长江中游"
+        ],
+        "journal_name": "《江汉考古》",
+        "research_fields": [
+          "史前考古",
+          "科技考古",
+          "家户考古"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Economic Networks and the Emergence of Complexity in Early East Asian Societies: A Pottery-Based Approach",
+        "keywords": [
+          "经济网络",
+          "早期复杂社会",
+          "陶器分析",
+          "东亚"
+        ],
+        "journal_name": "Journal of Archaeological Science",
+        "research_fields": [
+          "史前考古",
+          "科技考古",
+          "文明起源"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Integrating Geochemical and Petrographic Analysis to Trace Pottery Provenance in Prehistoric China",
+        "keywords": [
+          "陶器产地",
+          "地球化学分析",
+          "岩石学",
+          "科技考古"
+        ],
+        "journal_name": "Archaeological Research in Asia",
+        "research_fields": [
+          "科技考古",
+          "陶器研究",
+          "物质文化"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Household Production and Social Differentiation in the Neolithic Yangtze River Basin",
+        "keywords": [
+          "家户考古",
+          "社会分化",
+          "新石器时代",
+          "长江流域"
+        ],
+        "journal_name": "Archaeological and Anthropological Sciences",
+        "research_fields": [
+          "家户考古",
+          "史前社会",
+          "社会复杂化"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "The Role of Pottery in the Formation of Early Urban Networks: Evidence from the Middle Yangtze Region",
+        "keywords": [
+          "陶器",
+          "城市网络",
+          "早期城市化",
+          "长江中游"
+        ],
+        "journal_name": "Heritage Science",
+        "research_fields": [
+          "科技考古",
+          "文明起源",
+          "聚落考古"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Tao-Li-litao"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=9SALfGcAAAAJ&hl=en"
+      },
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0002-1390-6309"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家社会科学基金",
+      "国家自然科学基金",
+      "欧盟2020地平线项目",
+      "国家社会科学基金重大项目子课题",
+      "武汉大学人文社科自主科研项目"
+    ],
+    "funding_agencies": [
+      "美国自然科学基金",
+      "国家社会科学基金",
+      "国家自然科学基金",
+      "欧盟2020地平线项目",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李涛\n页面链接: http://jszy.whu.edu.cn/taoli0711/zh_CN/index.htm\n==================================================\n武汉大学 李涛--比较考古学实验室（李涛课题组））--首页\n▼\nEnglish\n新闻网中文官网\n李涛\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Tao Li\n教师拼音名称：Li Tao\n电子邮箱：\n所在单位：历史学院\n职务：教授\n学历：博士研究生毕业\n办公地点：历史学院115房间(比较考古学实验室）\n性别：男\n联系方式：邮件：tao-li@live.com\n职称：教授\n在职信息：在职\n主要任职：武汉大学长江文明考古研究院 副院长\n其他任职：武汉大学历史学院考古专业 副主任\n毕业院校：匹兹堡大学（美国）\n所属院系：历史学院\n学科：\n考古学其他专业\n曾获荣誉：2023 : 国家级教学成果奖二等奖（11/12）2023 : 武汉大学教学成果奖（本科教育）一等奖（2/8）2023 : 武汉大学第四届“教与学的革命”珞珈论坛优秀教师论文二等奖2023 : 武汉大学第十一届青年教师教学竞赛三等奖2022 : 武汉大学历史学院青年教师教学竞赛一等奖2020 : 湖北省“楚天学者”计划（楚天学子项目）2012 : Andrew W. Mellon Pre-Doctoral Fellowship\n联系方式Contact information\n邮编: \n通讯/办公地址: \n邮箱: \n首页\n参考文献格式\n研究成果（2023—2026）\n研究成果（2019—2022）\n年度组会阅读（2023—2024）\n年度组会阅读（2022—2023）\n学术交流\n课题组生活\n在校学生获得荣誉\n科学研究\n研究领域\n论文成果\n著作成果\n科研项目\n教学研究\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n武汉大学历史学院考古专业教授、博士生导师，研究领域为史前考古和科技考古。\n2010年，中国科学院大学取得科技考古方向的理学博士学位，师从著名科技考古学家王昌燧教授。2016年，美国匹兹堡大学取得考古人类学方向的哲学博士学位，师从美国科学院院士、匹兹堡大学杰出教授Robert D. Drennan（周南）。2016—2019年，马普学会人类历史科学研究所（Max Planck Institute for the Science of Human History）从事博士后研究。\n2019年2月起，任武汉大学历史学院考古系副教授、博士生导师，历史学院副院长（挂职，2021.11—2022.11）。现任历史学院考古系主任、长江文明考古研究院副院长。2020年入选湖北省楚天学者计划，2022年11月晋升教授。\n主持美国自然科学基金和国家社科基金各1项，承担欧盟2020地平线项目和国家社科基金重大项目子课题各1项，武汉大学人文社科自主科研项目2项。担任npj Herirage Science副主编（科技考古领域），Heritage Science（A&HCI）和《世界考古研究动态》编委。欧洲考古学会会员、东亚考古学会会员、美洲考古学会会员，中国科学技术史学会科技考古专业委员会委员。国家社会科学基金和国家自然科学基金项目通讯评审。Chinese Cultural Relics、Chinese Archaeology以及《江汉考古》英文翻译。科技考古与文物保护利用湖南省重点实验室湘北分中心首席专家（2024-2027）。\n在Journal of Archaeological Science, Archaeological Research in Asia, Archaeological and Anthropological Sciences, Journal of Anthropological Archaeology, Journal of Archaeological Science: Reports, Journal of World Prehistory, Heritage Science, npj Heritage Science, Open Archaeology, Studies in Conservation, Journal of Urban Archaeology, Asian Archaeology, Science & Technology of Archaeological Research, 《江汉考古》, 《南方文物》, 《北方文物》, 《边疆考古研究》, 《世界考古研究动态》，《南京大学学报》（自然科学版）等考古学和科技考古学重要期刊发表五十余篇论文，出版学术译著1部。截止到2025年4月，谷歌学术引用1400余次，h-index=19。\nPNAS (SCI), Nature Cities, Antiquity (SSCI/A&HCI),  The Innovation (SCI), Journal of Archaeological Science (SCI/SSCI/A&HCI), Archaeological and Anthropological Sciences (SCI/SSCI/A&HCI),  Archaeologies (A&HCI), Open Archaeology (A&HCI), Archaeological Research in Asia (A&HCI), World Archaeology (A&HCI), Asian Perspectives (A&HCI), Journal of Archaeological Science:Reports (A&HCI), Archaeometry (SCI/A&HCI), Heritage Science (SCI/A&HCI), Journal of Cultural Heritage (SCI/A&HCI), Studies in Conservation (SCI/A&HCI), Digital Applications in Archaeology and Cultural Heritage (ESCI), Ancient Asia (ESCI), PLoS One (SCI), CORROSION (SCI), Vibrational Spectroscopy (SCI), 《江汉考古》(CSSCI)，《复旦大学学报：自然科学版》（CSCD）、《浙江大学学报（人文社会科学版）》（CSSCI）、《西北大学学报（自然科学版）》、《文物保护与考古科学》等国内外刊物的评审专家，PNAS特约编辑，牛津大学出版社（Oxford University Press，OUP）、英国考古报告出版社（British Archaeological Reports，BAR）以及Springer-Nature出版社的书稿评审专家。\n2019年以来，独立开设本科生课程《考古学数据分析》《家户考古学》《复杂社会（上）》（美洲部分）《复杂社会（下）》（欧亚非部分），并参与全校通识课《考古与人类文明进程》的集体教学（讲授“中南美洲文明的兴起与衰亡”）。目前开设的研究生课程有《陶器、人群与社会》《家户考古学》《科技考古学》《专业英语》。\n在史前考古领域，我与不同学科的中外知名学者开展深度合作，包括两位美国科学院院士、陶器研究和长江中游史前考古的资深学者、语言学家和古DNA学者。\n近年的主要研究领域有二，一是史前陶器手工业，二是文明起源与社会复杂化研究。我的研究特色是尝试创新性应用自然科学技术，解决东亚史前考古中的一些重要问题。当前研究的主要方向是通过陶器，探讨经济网络在东亚早期复杂社会的形成与发展中的作用，研究以马克思主义历史唯物论为指导，同时关注家庭单位、村落和区域尺度上的陶器生产和流通。\n我的研究不同于科技考古中以分析检测为主导、弱化考古学问题的研究方式，而是创新性地将陶器科技分析与聚落考古、互动关系网络、经济分化、文明化进程等重要考古学命题联系在一起。\n相关链接：\n武汉大学历史学院师资队伍：https://www.history.whu.edu.cn/info/1097/6274.htm\nResearchGate：https://www.researchgate.net/profile/Tao-Li-litao\nGoogle Scholar：https://scholar.google.com/citations?user=9SALfGcAAAAJ&hl=en\nORCID：0000-0002-1390-6309\n武汉大学比较考古学实验室（2021.06—）\n本主页信息的更新与维护由张新秋（2022级博士生）、奥欣悦（2023级博士生）、吴剑芳（2023级博士生）负责。\n教育经历 Personal profile\n2010-2016\n匹兹堡大学>\n考古人类学>\n哲学博士学位>\n博士研究生毕业\n2007-2010\n中国科学院大学>\n科技考古>\n理学博士学位>\n研究生(博士)毕业\n2004-2007\n中国科学技术大学>\n科技考古>\n硕士>\n历史学硕士学位\n2000-2004\n西北大学>\n文物保护技术>\n理学学士学位>\n大学本科毕业\n工作经历 Personal profile\n[1] 2022--至今\n历史学院 >\n武汉大学\n> 教授\n> 教授\n[2] 2019--2022\n历史学院 >\n武汉大学\n> 副教授\n[3] 2016--2019\n语言与文化进化部 >\n马克思普朗克人类历史科学研究所\n> 博士后\n团队成员 Personal profile\n博士后\n辛明山\n王健\n访问交流\n仁增白姆\n夏克...\n本科生\n马寒香\n郭佳燕\n林楠盺\n吴静\n史骑畅\n赖永宣\n赵若冲\n谭丽薇\n吴剑芳\n王腾飞\n李国媛\n学术型硕士\n马寒香\n段之繁\n韩雪薇\n梅媛媛\n李国媛\n刘飞燕\n付梦寒\n奥欣悦\n吴剑芳\n专业型硕士\n吕甜甜\n吴雨川\n郝子健\n王粤\n何元媛\n胡颖\n耿信成\n李璐瑶\n张红玉\n杨雪琦\n于冬雪\n于红鹂\n陈容\n段晓妍\n谭可欣\n万秋谷\n博士研究生\n耿信成\n李国媛\n云晓旭\n付梦寒\n胡颖\n吴剑芳\n奥欣悦\n孙锦\n张新秋\n李培壮\n康禹潇\n李鹏飞\n谢紫晨\n姚帅\n贺黎民\n研究方向 Personal profile\n史前考古\n科技考古\n家户考古\n早期复杂社会\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

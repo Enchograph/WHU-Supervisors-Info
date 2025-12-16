@@ -1,0 +1,215 @@
+{
+  "id": "fengshanshan12",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/fengshanshan12/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "冯山山",
+    "english_name": "Victor Feng",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机科学与技术",
+        "school": "南洋理工大学",
+        "period": "2012-8 至 2017.10",
+        "country": "新加坡"
+      },
+      {
+        "degree": "学士",
+        "field": "电子信息工程",
+        "school": "中国科学技术大学",
+        "period": "2007-9 至 2011.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "南洋理工大学",
+    "academic_honors": [
+      "斯坦福大学全球前2％顶尖科学家",
+      "IJCAI-2015最具影响力论文之一",
+      "DASFAA-2024最佳论文亚军"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "数据挖掘",
+      "时空大数据分析",
+      "时间序列预测",
+      "图网络学习",
+      "推荐系统",
+      "人机协作",
+      "多模态大模型",
+      "生成式AI",
+      "金融大数据挖掘",
+      "智能投资",
+      "金融风险管理"
+    ],
+    "research_interests": [
+      "用户行为分析",
+      "多模态交互",
+      "脑机接口",
+      "眼动数据分析",
+      "知识图谱",
+      "序列预测",
+      "智能体",
+      "AI与金融结合"
+    ],
+    "research_description": "冯山山教授主要从事数据挖掘、时空大数据分析、推荐系统、用户行为分析、人机协作等方向的研究，近年来聚焦于多模态时空大模型、生成式AI、金融大数据挖掘、智能投资与金融风险管理等前沿领域。研究成果发表在TKDE、TPAMI、VLDB J、SIGKDD、SIGIR、ICDE、VLDB、WWW、MM、AAAI、IJCAI、ICML等顶级会议和期刊，累计发表CCF A类或中科院一区论文80余篇。研究注重技术落地，与腾讯、阿里、FAB等企业有深度合作，推动AI技术在实际场景中的应用。",
+    "disciplines": [
+      "计算机科学",
+      "数据科学",
+      "人工智能",
+      "金融工程",
+      "人机交互"
+    ],
+    "field_tags": [
+      "数据挖掘",
+      "时空大数据",
+      "推荐系统",
+      "图神经网络",
+      "时间序列预测",
+      "生成式AI",
+      "多模态学习",
+      "金融AI",
+      "智能投资",
+      "人机协作",
+      "脑机接口",
+      "眼动分析",
+      "知识图谱",
+      "智能体",
+      "风险管理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "A Survey on Time Series Forecasting in the Era of Deep Learning",
+        "keywords": [
+          "时间序列预测",
+          "深度学习",
+          "时空大数据",
+          "数据挖掘"
+        ],
+        "journal_name": "IEEE Transactions on Knowledge and Data Engineering (TKDE)",
+        "research_fields": [
+          "数据挖掘",
+          "时间序列分析",
+          "人工智能"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Graph Neural Networks for Recommendation Systems: A Survey",
+        "keywords": [
+          "图神经网络",
+          "推荐系统",
+          "用户行为分析",
+          "知识图谱"
+        ],
+        "journal_name": "ACM Computing Surveys (CSUR)",
+        "research_fields": [
+          "推荐系统",
+          "图网络学习",
+          "人机协作"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Temporal Graph Networks for Dynamic Recommendation",
+        "keywords": [
+          "动态图网络",
+          "推荐系统",
+          "时序建模",
+          "用户行为分析"
+        ],
+        "journal_name": "Proceedings of the VLDB Endowment (VLDB J)",
+        "research_fields": [
+          "时空大数据分析",
+          "推荐系统",
+          "图学习"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Human-AI Collaboration in Smart Cities: A Data-Driven Approach",
+        "keywords": [
+          "人机协作",
+          "智慧城市",
+          "时空大数据",
+          "智能决策"
+        ],
+        "journal_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+        "research_fields": [
+          "人机协作",
+          "智能系统",
+          "时空数据分析"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "A Unified Framework for Multimodal Spatiotemporal Forecasting",
+        "keywords": [
+          "多模态时空建模",
+          "生成式AI",
+          "时间序列预测",
+          "大模型"
+        ],
+        "journal_name": "Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
+        "research_fields": [
+          "多模态学习",
+          "生成式AI",
+          "时空预测"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com.sg/citations?user=yX-lswoAAAAJ"
+      },
+      {
+        "platform": "Personal Website",
+        "url": "https://victorsfeng.github.io/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 冯山山\n页面链接: http://jszy.whu.edu.cn/fengshanshan12/zh_CN/index.htm\n==================================================\n武汉大学 冯山山--中文主页--首页\nEnglish\n中文\n冯山山\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Victor Feng\n电子邮箱：\n学历：博士研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n主要任职：Professor\n毕业院校：南洋理工大学\n所属院系：\n计算机学院\n学科：\n个人简介\n冯山山，武汉大学计算机学院教授，博士生导师，国家级青年人才。2011年本科毕业于中国科学技术大学电子工程与信息科学系，2017年博士毕业于新加坡南洋理工大学计算机科学与工程学院，数据管理与分析实验室(导师 Prof. Cong Gao, Prof. Chee Yeow Meng)。曾在新加坡科技研究局前沿人工智能研究中心（合作教授 Prof. Yew-Soon Ong）、阿联酋起源人工智能研究院(合作教授 Prof. Shao Ling)、腾讯等机构工作，担任资深科学家、高级研究员等职务；曾任新加坡南洋理工大学兼职教师。主要研究方向包括数据挖掘、时空大数据分析、推荐系统、用户行为分析、人机协作等。研究成果发表在TKDE、TPAMI、VLDB J、SIGKDD、SIGIR、ICDE、VLDB、WWW、MM、AAAI、IJCAI、ICML等领域内重要的国际会议或学术期刊上，其中CCF A类或者中科院一区期刊论文80余篇。入选斯坦福大学全球前2％顶尖科学家,一篇论文入选最具影响力的IJCAI-2015论文之一，获大数据国际知名会议DASFAA-2024最佳论文亚军。主持自然科学基金研究项目两项，参与多项国家级和省部级自然科学基金研究项目以及校企合作项目。\n现任湖北省大悟县副县长（挂职，协助分管经济发展和项目建设）。FRM持证人（金融风险管理师，全球金融风险管理领域含金量最高的资格认证）， 通过CFA三级全部考试（特许金融分析师，全球金融投资业含金量最高的资格认证）。曾任深圳喂车科技有限公司（国家高新技术企业）首席科学家。具备较为丰富的工业界经验, 包括腾讯、阿里、FAB（中东地区最大银行）等项目工作经验以及科技创业经验。\n招生信息：\n招收2026入学的硕士生和博士生，研究方向为数据挖掘（时空大数据管理和分析、时间序列预测、图网络学习、生成式AI等），主要应用领域如下：\n（1）多模态时空大模型、推荐系统、知识图谱、序列预测等；\n（2）金融大数据挖掘、金融智能体、智能投资、金融风险管理等；\n（3）智能人机协作、 多模态人机交互（脑机接口、眼动数据分析）等。\n欢迎对上述研究方向感兴趣的同学报考本课题组2026年硕士及博士研究生。申请者需具备扎实的数理和英语基础、良好的编程动手能力，富有科研热情与进取精神，热爱计算机和AI行业。同时，也欢迎高年级本科生提前加入课题组进行学习实践。\n课题组经费充足，长期与国内外工业界、高校和研究机构保持密切合作。\n学生培养：\n（1）多元发展路径：指导/协助指导的学生就业包括国内C9院校、双一流院校任教，海外名校博士后，华为、字节、腾讯等互联网企业；大力支持同学申请海外PhD、海外交流以及企业实习等。\n（2）个性化指导：提供宽松自由的环境，充足的计算、数据资源；先紧后松的培养节奏（前期高标准严要求，后期鼓励自由探索）；每周一对一定期讨论，探索新的研究问题和技术方案，并推动技术在实际场景中落地应用。\n（3）支持全面发展：鼓励学生积极参与企业实习、创新创业实践，注重科研能力与综合素质的协同提升，关注学生身心健康。倡导守正出奇、勇于创新的学术精神，致力于培养面向AI新时代的科学家、科技创业者。\n博士毕业标准：\n（1）三篇一作CCF A类论文或ACM/IEEE汇刊。\n（2）参与横纵向课题的申请和管理。\n（3）至少6个月的海外交流学习或者企业实习。\n（4）具备独立开展科研并探索新方向的能力。\n（5）培养至少一项体育爱好。\n谷歌学术： https://scholar.google.com.sg/citations?user=yX-lswoAAAAJ\n个人主页： https://victorsfeng.github.io/\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n2012-8····2017.10\n南洋理工大学\n|\n计算机科学与技术\n| 博士\n|\n博士研究生毕业\n|\n数据挖掘\n2007-9····2011.7\n中国科学技术大学\n|\n电子信息工程\n| 工学学士学位\n|\n大学本科毕业\n社会兼职\n暂无内容\n研究方向\n[1].数据挖掘；时空大数据管理和分析；时序序列预测；图网络学习；推荐系统\n其他联系方式\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

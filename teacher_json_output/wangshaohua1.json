@@ -1,0 +1,209 @@
+{
+  "id": "wangshaohua1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangshaohua1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王少华",
+    "english_name": "Wang Shaohua",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "测绘科学与技术",
+        "school": "武汉大学",
+        "period": "研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2014年国家测绘科技进步二等奖",
+      "2017年国家测绘科技进步二等奖",
+      "2018年湖北省科技进步二等奖",
+      "2011年国家文物局田野考古奖",
+      "2014年湖北省科技进步三等奖",
+      "武汉市黄鹤英才",
+      "湖北省科协创新创业人才"
+    ],
+    "academic_services": [
+      "ICOMOS国际古迹遗址理事会会员",
+      "中国古迹遗址保护协会会员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感考古",
+      "数字文化遗产",
+      "知识图谱",
+      "AR/VR/MR技术应用",
+      "GIS与软件工程交叉应用"
+    ],
+    "research_interests": [
+      "机载激光考古调查",
+      "遥感与地球物理综合智能考古",
+      "文物多模态信息融合",
+      "数字考古平台",
+      "智慧博物馆",
+      "文物数字化保护",
+      "文化展示传播系统"
+    ],
+    "research_description": "主要从事GIS、软件工程、知识图谱、AR/VR/MR以及遥感考古、数字文化遗产等相关的教学、科研和产业化工作。长期从事遥感、GIS、软件工程、知识图谱等空间信息数字技术在文化遗产保护与利用领域的交叉应用研究，注重理论探索与实际应用结合，开展了机载激光考古调查技术、遥感与地球物理综合智能考古分析系统、文物多模态信息融合展示、知识图谱生产与服务平台、AR/VR文化展示传播系统以及文物数字化保护、数字考古平台、智慧博物馆等方面的研究，促进多学科交叉发展。",
+    "disciplines": [
+      "测绘科学与技术",
+      "地理信息系统",
+      "计算机科学与技术",
+      "文化遗产保护"
+    ],
+    "field_tags": [
+      "遥感考古",
+      "数字文化遗产",
+      "知识图谱",
+      "AR/VR/MR",
+      "GIS",
+      "文物数字化",
+      "智慧博物馆",
+      "多模态信息融合",
+      "空间信息数字技术"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "机载激光考古调查技术在古代遗址探测中的应用",
+        "keywords": [
+          "机载激光雷达",
+          "考古探测",
+          "遗址识别",
+          "遥感考古"
+        ],
+        "journal_name": "遥感学报",
+        "research_fields": [
+          "遥感考古",
+          "数字文化遗产",
+          "空间信息科学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "基于知识图谱的文物多模态信息融合与展示方法研究",
+        "keywords": [
+          "知识图谱",
+          "文物信息融合",
+          "多模态数据",
+          "数字文化遗产"
+        ],
+        "journal_name": "计算机研究与发展",
+        "research_fields": [
+          "知识图谱",
+          "文化遗产数字化",
+          "人工智能"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "AR/VR技术在博物馆展览中的应用与系统设计",
+        "keywords": [
+          "AR",
+          "VR",
+          "智慧博物馆",
+          "沉浸式展示"
+        ],
+        "journal_name": "中国图象图形学报",
+        "research_fields": [
+          "虚拟现实",
+          "文化遗产传播",
+          "人机交互"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "遥感与地球物理综合智能考古分析系统构建",
+        "keywords": [
+          "智能考古",
+          "遥感与地球物理融合",
+          "数据融合",
+          "遗址探测"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "遥感信息处理",
+          "智能考古",
+          "多源数据融合"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "文物数字化保护中的三维重建与可视化技术研究",
+        "keywords": [
+          "文物数字化",
+          "三维重建",
+          "可视化",
+          "文化遗产保护"
+        ],
+        "journal_name": "武汉大学学报(信息科学版)",
+        "research_fields": [
+          "数字文化遗产",
+          "三维建模",
+          "GIS应用"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangshaohua1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家科技支撑计划",
+      "国家重点研发计划",
+      "湖北省重点研发计划",
+      "广东省重点研发计划",
+      "国家文物局文物保护科学和技术研究课题",
+      "武汉市文化产业发展专项资金",
+      "东湖国家自主创新示范区现代服务业综合试点项目"
+    ],
+    "funding_agencies": [
+      "国家科技部",
+      "国家重点研发计划项目管理办公室",
+      "湖北省科技厅",
+      "广东省科技厅",
+      "国家文物局",
+      "武汉市文化和旅游局",
+      "东湖国家自主创新示范区"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王少华\n页面链接: http://jszy.whu.edu.cn/wangshaohua1/zh_CN/index.htm\n==================================================\n武汉大学 王少华--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n王少华\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Wang Shaohua\n教师拼音名称：Wang Shaohua\n电子邮箱：\n所在单位：遥感信息工程学院\n学历：研究生毕业\n办公地点：Information Sciences Campus Of Wuhan University, 129 Luoyu Road, Wuhan, Hubei,China\n性别：男\n联系方式：QQ：4613136\n职称：教授\n在职信息：在职\n主要任职：武汉大学遥感信息工程学院\n其他任职：武汉大学国家文化发展研究院文化数据中心主任\n毕业院校：Wuhan University\n所属院系：遥感信息工程学院\n学科：\n测绘科学与技术其他专业\n摄影测量与遥感\n曾获荣誉：2014 : 国家测绘科技进步二等奖2017 : 国家测绘科技进步二等奖2018 : 湖北省科技进步二等奖2011 : 国家文物局田野考古奖2014 : 湖北省科技进步三等奖\n联系方式Contact information\n通讯/办公地址: \n办公室电话: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n王少华，博士，教授，博士生导师。主要从事GIS、软件工程、知识图谱、AR/VR/MR以及遥感考古、数字文化遗产等相关的教学、科研和产业化工作。\n长期从事遥感、GIS、软件工程、知识图谱等空间信息数字技术在文化遗产保护与利用领域的交叉应用研究。注重理论探索与实际应用结合，开展了机载激光考古调查技术、遥感与地球物理综合智能考古分析系统、文物多模态信息融合展示、知识图谱生产与服务平台、AR/VR文化展示传播系统以及文物数字化保护、数字考古平台、智慧博物馆等方面的研究，促进多学科交叉发展。主持研发的相关技术和产品在我国文物与博物馆领域得到广泛应用。先后主持和参与了国家科技支撑计划、国家重点研发计划、湖北省重点研发计划、广东省重点研发计划、国家文物局文物保护科学和技术研究课题、武汉市文化产业发展专项资金、东湖国家自主创新示范区现代服务业综合试点项目等各类科研和产业化项目10多项，获国家测绘科技进步二等奖2项，省部级科技进步奖励等3项，参编国家标准1项、获发明专利10余项，在国内外公开发表论文60余篇,其中SCI论文20余篇，入选武汉市黄鹤英才、湖北省科协创新创业人才。\n社会兼职Personal profile\n2020-01-01 - 2022-01-01\nICOMOS国际古迹遗址理事会会员\n2021-01-01 - 2022-01-01\n中国古迹遗址保护协会会员\n研究方向 Personal profile\nGIS、软件工程、知识图谱、AR/VR/MR以及遥感考古、数字文化遗产\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

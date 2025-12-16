@@ -1,0 +1,215 @@
+{
+  "id": "hetao1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hetao1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "何涛",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地理学",
+        "school": "美国马里兰大学",
+        "period": "2012",
+        "country": "美国"
+      },
+      {
+        "degree": "学士",
+        "field": "遥感科学与技术",
+        "school": "武汉大学",
+        "period": "2006",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "计算机科学与技术",
+        "school": "武汉大学",
+        "period": "2006",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "美国马里兰大学",
+    "academic_honors": [
+      "李小文遥感科学青年奖",
+      "中国遥感应用协会青年科技奖特等奖",
+      "国家级青年人才项目",
+      "湖北省“百人计划”青年项目",
+      "自然资源部“高层次科技创新人才工程”青年创新人才"
+    ],
+    "academic_services": [
+      "Science of Remote Sensing 副编辑",
+      "Geo-Spatial Information Science 副编辑"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感反演地表短波辐射收支",
+      "多尺度遥感产品的数据融合",
+      "长时间序列遥感产品的时空分析",
+      "全球卫星定量遥感产品研发",
+      "遥感大数据挖掘与气候环境应用"
+    ],
+    "research_interests": [
+      "地表短波辐射收支",
+      "地表反照率",
+      "地表净辐射",
+      "植被覆盖度",
+      "积雪覆盖",
+      "云辐射效应",
+      "地形校正",
+      "高分辨率遥感产品",
+      "卫星数据融合",
+      "气候环境应用"
+    ],
+    "research_description": "何涛教授长期致力于遥感反演地表短波辐射收支、多尺度遥感数据融合与长时间序列遥感产品时空分析，主持国家自然科学基金重大项目课题、国家重点研发计划课题等重要项目。其研究聚焦于全球30米分辨率多参数长时间序列定量遥感产品（Hi-GLASS）的构建，涵盖地表反照率、净辐射、蒸散发、积雪覆盖、植被覆盖等关键参数，广泛应用于气候变化、城市热环境、山地生态系统等领域的研究。研究成果发表于Remote Sensing of Environment、IEEE TGRS、JGR等国际权威期刊，联合研发的Hi-GLASS数据集获得广泛认可。",
+    "disciplines": [
+      "遥感科学与技术",
+      "地理学",
+      "环境科学",
+      "气候学",
+      "地球系统科学"
+    ],
+    "field_tags": [
+      "定量遥感",
+      "地表能量平衡",
+      "多源遥感数据融合",
+      "高分辨率遥感产品",
+      "气候变化监测",
+      "地形校正",
+      "城市热环境",
+      "山地遥感",
+      "卫星反演",
+      "遥感大数据"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 120,
+    "representative_publications": [
+      {
+        "title": "Estimation of 1 km all-sky erythemal ultraviolet radiation and daily dose based on MODIS data and ancillary information: algorithm development, global product generation, and accuracy assessment",
+        "keywords": [
+          "MODIS",
+          "erythemal ultraviolet radiation",
+          "global product generation",
+          "accuracy assessment"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "遥感反演",
+          "辐射能量平衡"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "A novel approach for estimating evapotranspiration by considering topographic effects in radiation over mountainous terrain",
+        "keywords": [
+          "evapotranspiration",
+          "topographic effects",
+          "radiation",
+          "mountainous terrain"
+        ],
+        "journal_name": "Agricultural and Forest Meteorology",
+        "research_fields": [
+          "遥感反演",
+          "地表能量平衡"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Deriving high resolution estimation of TOA net shortwave radiation over global land using data from multiple-geostationary satellites",
+        "keywords": [
+          "TOA net shortwave radiation",
+          "geostationary satellites",
+          "high resolution estimation",
+          "global land"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感反演",
+          "多尺度遥感数据融合"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "The Hi-GLASS all-wave daily net radiation product: Algorithm and product validation",
+        "keywords": [
+          "Hi-GLASS",
+          "daily net radiation",
+          "algorithm",
+          "product validation"
+        ],
+        "journal_name": "Science of Remote Sensing",
+        "research_fields": [
+          "定量遥感产品",
+          "长时间序列遥感分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Developing land surface directional reflectance and albedo products from geostationary GOES-R and Himawari data: Theoretical basis, operational implementation, and validation",
+        "keywords": [
+          "directional reflectance",
+          "albedo products",
+          "geostationary satellites",
+          "GOES-R",
+          "Himawari"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "遥感反演",
+          "地表短波辐射收支"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/hetao1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金重大项目课题",
+      "国家重点研发计划课题",
+      "国家自然基金面上项目",
+      "湖北省自然基金杰出青年项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 何涛\n页面链接: http://jszy.whu.edu.cn/hetao1/zh_CN/index.htm\n==================================================\n武汉大学 何涛--中文主页--首页\n何涛\n教授\n博士生导师\n硕士生导师\n学历：博士研究生毕业\n在职信息：在职\n所在单位：遥感信息工程学院\n办公地点：信息学部教学实验大楼3楼\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n武汉大学遥感信息工程学院教授、博导。研究方向包括遥感反演地表短波辐射收支、多尺度遥感产品的数据融合、长时间序列遥感产品的时空分析等。主持国家自然科学基金重大项目课题、国家重点研发计划课题、湖北省自然科学基金杰出青年项目等，在RSE、IEEE TGRS、JGR等期刊发表SCI文章120余篇。联合牵头研发了全球30米分辨率多参数的长时间序列定量遥感产品Hi-GLASS数据集，获得“李小文遥感科学青年奖”、中国遥感应用协会青年科技奖特等奖，入选国家级青年人才项目、湖北省“百人计划”青年项目、自然资源部“高层次科技创新人才工程”青年创新人才。担任英文期刊Science of Remote Sensing、Geo-Spatial Information Science副编辑。\n联系方式\ntaohers at whu.edu.cn\n教育背景\n2012，博士，地理学，美国马里兰大学\n2006，学士，遥感科学与技术， 武汉大学\n2006，学士，计算机科学与技术， 武汉大学\n工作经历\n2017 至今，武汉大学，教授\n2014-2016，美国马里兰大学，助理研究教授\n2012-2014，美国马里兰大学，博士后\n研究方向\n辐射能量平衡参数的定量遥感反演\n全球卫星定量遥感产品研发\n多尺度遥感数据时空融合\n遥感大数据挖掘与气候环境应用\n主持科研项目\n1. “辐射能量平衡参量跨尺度智慧反演”, 国家自然基金重大项目课题，2021-2025\n2. “山地生态系统全球变化关键参数产品研制与应用示范”，国家重点研发计划课题，2020-2025\n3. “山地高分辨率时空连续短波辐射收支反演及积雪变化辐射强迫估算”，国家自然基金面上项目，2026-2029\n4. “高分辨率城市地表热环境关键要素定量遥感”，湖北省自然基金杰出青年项目，2021-2024\n5. “基于新一代静止卫星的地表反照率反演及中国区尺度效应研究”，国家自然基金面上项目，2018-2021\n近期论文 (星号为本人通讯作者，下划线为本人指导研究生）\n2025年\n[1] He, T.*, J. Han, S. Liang, Y. Ma, X. Zhang, X. Zhao, L. Si, (2025). Estimation of 1 km all-sky erythemal ultraviolet radiation and daily dose based on MODIS data and ancillary information: algorithm development, global product generation, and accuracy assessment. Remote Sensing of Environment, 332, 115021, doi: 10.1016/j.rse.2025.115021\n[2] Zheng, Y., T. He*, Y. Ma, (2025). Analysis of temporal trends and spatial distributions in top-of-atmosphere shortwave radiation based on multiple datasets from satellites observations, reanalyses, and climate models. Global and Planetary Change, 255c, 105040, doi: 10.1016/j.gloplacha.2025.105040\n[3] Budi, M., T. He*, D.-X. Song, C. Wang, (2025). Mapping 30 m fractional tree cover using PlanetScope-3B images and Landsat-8 spectral-texture data for a case study of different forest types in Indonesia. Geo-Spatial Information Science, doi: 10.1080/10095020.2025.2542963\n[4] Zhang, Y., T. He*, S. Liang, Y. Ma, Y. Yao, (2025). A novel approach for estimating evapotranspiration by considering topographic effects in radiation over mountainous terrain. Agricultural and Forest Meteorology, 366, 110468, doi: 10.1016/j.agrformet.2025.110468\n[5] Ye, T., T. He*, H. Xu, and Y. Ma (2025). Developing an analytical model for neighborhood-scale urban surface bidirectional reflectance incorporating three-dimensional structure. IEEE Transactions on Geoscience and Remote Sensing, 63, 4505721, doi:10.1109/TGRS.2025.3549468\n[6] Song, D.-X., D. Zhong, Z. Chen, S. Qi, C. Wang, J. Yao, T. He*, (2025). A satellite perspective of interannual and seasonal variations in greenspace and human exposure over urban and peri-urban areas in Chinese cities from 2000 to 2020. Landscape and Urban Planning, 259, 105354, doi: 10.1016/j.landurbplan.2025.105354\n[7] Xiang, Z., T. He*, X. Yang, Y. Ma, (2025). Universal approach for albedo estimation from multiple fine spatial-resolution satellite data: Preliminary consistency evaluation with Landsat 8, Sentinel-2 and GaoFen-1 albedo data. Applied Energy, 394, 125894, doi: 10.1016/j.apenergy.2025.125894\n[8] Liu, X., T. He*, Q. Wang, X. Xiao, Y. Ma, Y. Wang, S. Luo, L. Du, Z. Wu*, (2025). Estimation of long-term gridded cloud radiative kernel and radiative effects based on cloud fraction. Earth System Science Data, 17(6), 2405–2435, doi:10.5194/essd-17-2405-2025\n[9] He, T., G. Huang, L. Zhang*, D. Wu, Y. Ma, (2025). Automatic construction of global cloud sample database based on Landsat imagery. Geo-Spatial Informaiton Science, doi:10.1080/10095020.2025.2514180\n[10] Ma, Y., S. Liang*, T. He*, W. Peng, (2025). Significant topographic impacts on moderate-resolution satellite products: Evidence from both geostationary and polar-orbiting satellites and model simulations. IEEE Transactions on Geoscience and Remote Sensing, 63, 4411214, doi: 10.1109/TGRS.2025.3572685\n[11] Ma, Y., S. Liang*, W. Peng, T. He, H. Ma, Y. Chen, W. Li, J. Xu, S. Guan, (2025). A universal physically-based topographic correction framework for high-resolution optical satellite data. ISPRS Journal of Photogrammetry and Remote Sensing, 227,  459-480, doi:10.1016/j.isprsjprs.2025.05.027\n2024年\n[1] Ma, Y., T. He*, T. R. McVicar, S. Liang, T. Liu, W. Peng, D.-X. Song, F. Tian, (2024). Quantifying how topography impacts vegetation indices at various spatial and temporal scales. Remote Sensing of Environment, 312, 114311, doi: 10.1016/j.rse.2024.114311\n[2] Xiao, X., T. He*, S. Liang, S. Liang, X. Liu, Y. Ma, J. Wan, (2024). Towards a gapless 1 km fractional snow cover via a data fusion framework. ISPRS Journal of Photogrammetry and Remote Sensing, 215, 419-441, doi: 10.1016/j.isprsjprs.2024.07.018\n[3] Wang, C., T. He*, D.-X. Song, L. Zhang, P. Zhu, Y. Man, (2024). Comparison of change-based and shape-based data fusion methods in fine-resolution land surface phenology monitoring with Landsat and Sentinel-2 data. Science of The Total Environment, 927, 172014, doi: 10.1016/j.scitotenv.2024.172014\n[4] Ma, Y., T. He*, C. Aguilar, R. Pimentel, S. Liang, T. R. McVicar, D. Hao, X. Xiao, X. Liu, (2024). Evaluating topographic effects on kilometer-scale satellite downward shortwave radiation products: A case study in mid-latitude mountains. IEEE Transactions on Geoscience and Remote Sensing, 62, 5609816, doi: 10.1109/TGRS.2024.3365865\n[5] Zheng, Y., T. He*, S. Liang and Y. Ma, (2024). Deriving high resolution estimation of TOA net shortwave radiation over global land using data from multiple-geostationary satellites, IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3440329\n[6] Yang, X., T. He*, Y. Ma, Q. Huang, W. Zhang and N. Xu, (2024). A direct estimation method for daily mean albedo with multiple observations from FY-4A AGRI and Himawari-8 AHI, IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3458178\n[7] Liang H., B. Jiang, S. Liang, J. Wen, T. He, X. Zhang, J. Peng, S. Li, J. Han, and X. Yin, (2024). A novel terrain correction sinusoidal model for improving estimation of daily clear-sky downward shortwave radiation, IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3452791\n[8] Liang, S., T. He, J. Huang, A. Jia, Y. Zhang, Y. Cao, X. Chen, X. Chen, J. Cheng, B. Jiang, H. Jin, A. Li, S. Li, X. Li, L. Liu, X. Liu, H. Ma, Y. Ma, D.-X. Song, L. Sun, L. Song, (2024). Advancements in high-resolution land surface satellite products: A comprehensive review of inversion algorithms, products and challenges, Science of Remote Sensing, 10, 100152, doi: 10.1016/j.srs.2024.100152\n2023年\n[1] Zhang, Y., T. He*, S. Liang, Z. Zhao, (2023). A framework for estimating actual evapotranspiration through spatial heterogeneity-based machine learning approaches. Agricultural Water Management, 289, 108499, doi: 10.1016/j.agwat.2023.108499\n[2] Liu, X., T. He*, S. Liang, R. Li, X. Xiao, R. Ma, Y. Ma, (2023). A monthly 1° resolution dataset of daytime cloud fraction over the Arctic during 2000–2020 based on multiple satellite products. Earth System Science Data, 15(8), 3641-3671, doi: 10.5194/essd-15-3641-2023\n[3] Ma, Y., T. He*, S. Liang, T. R. McVicar, D. Hao, T. Liu, B. Jiang, (2023). Estimation of fine spatial resolution all-sky surface net shortwave radiation over mountainous terrain from Landsat 8 and Sentinel-2 data. Remote Sensing of Environment, 285, 113364, doi: 10.1016/j.rse.2022.113364\n[4] Liu, T., T. He*, Y. Ma, X. Zhang, (2023). Evaluation and intercomparison of multiple satellite-derived and reanalysis downward shortwave radiation products in China. International Journal of Digital Earth, 16(1), 1853-1884, doi: 10.1080/17538947.2023.2212918\n[5] Xu, J., S. Liang, H. Ma, T. He, Y. Zhang, G. Zhang, (2023). A daily 5-km all-sky sea-surface longwave radiation product based on statistically modified deep neural network and spatiotemporal analysis for 1981–2018. Remote Sensing of Environment, 290, 113550, doi: 10.1016/j.rse.2023.113550\n[6] Shen, W., Q. Liu, M. Ji, J. He, T. He, C. Huang, (2023). Impacts of urban forests and landscape characteristics on land surface temperature in two urban agglomeration areas of China. Sustainable Cities and Society, 99, 104909, doi: 10.1016/j.scs.2023.104909\n[7] Zou, L., F. Tian, T. Liang, L. Eklundh, X. Tong, T. Tagesson, Y. Dou, T. He, S. Liang, R. Fensholt, (2023). Assessing the upper elevational limits of vegetation growth in global high-mountains. Remote Sensing of Environment, 286, 113423, doi: 10.1016/j.rse.2022.113423\n[8] Jiang, B., J. Han, H. Liang, S. Liang, X. Yin, J. Peng, T. He, Y. Ma, (2023). The Hi-GLASS all-wave daily net radiation product: Algorithm and product validation. Science of Remote Sensing, 7, 100080, doi: 10.1016/j.srs.2023.100080\n[9] Zhang, Y., S. Liang, H. Ma, T. He, Q. Wang, B. Li, J. Xu, G. Zhang, X. Liu, C. Xiong, (2023). Generation of global 1 km daily soil moisture product from 2000 to 2020 using ensemble learning. Earth System Science Data, 15, 2055–2079, doi: 10.5194/essd-15-2055-2023\n[10] Wang, Z., D.-X. Song, T. He, J. Lu, C. Wang, D. Zhong, (2023). Developing spatial and temporal continuous fractional vegetation cover based on Landsat and Sentinel-2 data with a deep learning approach. Remote Sensing, 15(11), 2948, doi: 10.3390/rs15112948\n2019-2022年部分论文\n[1] Ma, Y., T. He*, S. Liang, X. Xiao, (2022). Quantifying the impacts of DEM uncertainty on clear-sky surface shortwave radiation estimation in typical mountainous areas. Agricultural and Forest Meteorology, 327, 109222, doi: 10.1016/j.agrformet.2022.109222\n[2] Liu, X., T. He*, L. Sun, X. Xiao, S. Liang, S. Li, (2022). Analysis of daytime cloud fraction spatio–temporal variation over the Arctic during 2000–2019 from multiple satellite products. Journal of Climate, 35(23), 3995–4023, doi: 10.1175/JCLI-D-22-0007.1\n[3] Xiao, X., T. He*, S. Liang, X. Liu, Y. Ma, S. Liang, X. Chen, (2022). Estimating fractional snow cover in vegetated environments using MODIS surface reflectance data. International Journal of Applied Earth Observation and Geoinformation, 114, 103030, doi: 10.1016/j.jag.2022.103030\n[4] Zhang, Y., S. Liang, T. He*, (2022). Estimation of land surface downward shortwave radiation using spectral-based convolutional neural network methods: a case study from the Visible Infrared Imaging Radiometer Suite (VIIRS) Images. IEEE Transactions on Geoscience and Remote Sensing, 60, 4414415, doi: 10.1109/TGRS.2022.3210990\n[5] Guo, T., T. He*, S. Liang, J.-L. Roujean, Y. Zhou, X. Huang, (2022). Multi-decadal analysis of high-resolution albedo changes induced by urbanization over contrasted Chinese cities based on Landsat data. Remote Sensing of Environment, 269, 112832, doi: 10.1016/j.rse.2021.112832\n[6] Lu, J., T. He*, S. Liang, Y. Zhang, (2022). An automatic radiometric cross-calibration method for wide-angle medium-resolution multispectral satellite sensor using Landsat data. IEEE Transactions on Geoscience and Remote Sensing, 60, 5604011, doi: 10.1109/TGRS.2021.3067672\n[7] Chen, J., T. He*, S. Liang, (2022). Estimation of daily all-wave surface net radiation with multispectral and multitemporal observations from GOES-16 ABI. IEEE Transactions on Geoscience and Remote Sensing, 60, 4407916, doi: 10.1109/TGRS.2022.3140335\n[8] Ma, Y., T. He*, S. Liang, J. Wen, J-P. Gastellu-Etchegorry, J. Chen, A. Ding, S. Feng, (2022). Landsat snow-free surface albedo estimation over sloping terrain: Algorithm development and evaluation. IEEE Transactions on Geoscience and Remote Sensing, 60, 4408914, doi: 10.1109/TGRS.2022.3149762\n[9] Xiao, X., T. He*, S. Liang, T. Zhao, (2022). Improving fractional snow cover retrieval from passive microwave data using a radiative transfer model and machine learning method. IEEE Transactions on Geoscience and Remote Sensing, 60, 4304215, doi: 10.1109/TGRS.2021.3128524\n[10] Zhao, R., T. He*, (2022). Estimation of 1-km resolution all-sky instantaneous erythemal UV-B with MODIS data based on a deep learning method. Remote Sensing, 14(2), 384, doi: 10.3390/rs14020384\n[11] Song, D.-X., Z. Wang, T. He*, H. Wang, S. Liang, (2022). Estimation and validation of 30 m fractional vegetation cover over China through integrated use of Landsat 8 and Gaofen 2 data. Science of Remote Sensing, 100058, doi: 10.1016/j.srs.2022.100058\n[12] Ma, Y., T. He*, A. Li, S. Li, (2021). Evaluation and intercomparison of topographic correction methods based on Landsat images and simulated data. Remote Sensing, 13(20): 4120, doi: 10.3390/rs13204120\n[13] Xiao, X., S. Liang, T. He*, D. Wu, C. Pei, J. Gong, (2021). Estimating fractional snow cover from passive microwave brightness temperature data using MODIS snow cover product over North America. The Cryosphere, 15(2): 835–861, doi:10.5194/tc-15-835-2021\n[14] Chen, J., T. He*, B. Jiang, S. Liang, (2020). Estimation of all-sky all-wave daily net radiation at high latitudes from MODIS data. Remote Sensing of Environment, 245, 111842, doi: 10.1016/j.rse.2020.111842\n[15] He, T.*, Y. Zhang, S. Liang, Y. Yu, and D. Wang, (2019). Developing land surface directional reflectance and albedo products from geostationary GOES-R and Himawari data: Theoretical basis, operational implementation, and validation. Remote Sensing, 11(22), 2655, doi: 10.3390/rs11222655\n[16] He, T.*, F. Gao, S. Liang, and Y. Peng, (2019). Mapping climatological bare soil albedo over the contiguous United States using MODIS data. Remote Sensing,11(6), 666, doi: 10.3390/rs11060666\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "bhuang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/bhuang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄冰",
+    "english_name": "Huang Bing",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "物理化学",
+        "school": "武汉大学",
+        "period": "2009-2015",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "化学基地班",
+        "school": "武汉大学",
+        "period": "2005-2009",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "Science",
+      "Nat. Chem.",
+      "Chem. Rev.",
+      "Angew. Chem. Int. Ed.",
+      "Chem. Sci."
+    ],
+    "academic_services": [
+      "Science",
+      "Nat. Chem.",
+      "Chem. Rev.",
+      "Angew. Chem. Int. Ed.",
+      "Chem. Sci."
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "化学空间探索与分子的逆向设计",
+      "结合机器学习的理论与计算化学方法",
+      "电子结构理论与计算",
+      "概念密度泛函理论（如反应活性理论）",
+      "表面催化与电催化的理论研究"
+    ],
+    "research_interests": [
+      "机器学习在量子化学中的应用",
+      "分子表示与特征工程",
+      "化合物空间探索",
+      "逆向分子设计",
+      "催化反应机理理论研究"
+    ],
+    "research_description": "黄冰教授致力于将机器学习与量子化学相结合，发展新型理论与计算方法，用于化学空间的高效探索与分子的逆向设计。其研究聚焦于电子结构理论、概念密度泛函理论、表面催化与电催化的理论模拟，并在Science、Nat. Chem.、Chem. Rev.等顶级期刊发表多篇论文，推动了AI时代下理论化学的发展。",
+    "disciplines": [
+      "理论化学",
+      "计算化学",
+      "物理化学",
+      "材料化学",
+      "人工智能与化学交叉"
+    ],
+    "field_tags": [
+      "机器学习",
+      "量子化学",
+      "分子设计",
+      "催化理论",
+      "密度泛函理论",
+      "电子结构计算",
+      "AI for Science",
+      "逆向设计",
+      "表面反应活性"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "The central role of density functional theory in the AI age",
+        "keywords": [
+          "密度泛函理论",
+          "人工智能",
+          "量子化学",
+          "机器学习"
+        ],
+        "journal_name": "Science",
+        "research_fields": [
+          "理论化学",
+          "机器学习与量子化学",
+          "计算化学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Ab Initio Machine Learning in Chemical Compound Space",
+        "keywords": [
+          "从头算机器学习",
+          "化合物空间",
+          "量子化学",
+          "机器学习"
+        ],
+        "journal_name": "Chemical Reviews",
+        "research_fields": [
+          "理论化学",
+          "机器学习与量子化学",
+          "计算化学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Quantum machine learning using atom-in-molecule-based fragments selected on the fly",
+        "keywords": [
+          "量子机器学习",
+          "原子在分子中的片段",
+          "机器学习",
+          "反应活性"
+        ],
+        "journal_name": "Nature Chemistry",
+        "research_fields": [
+          "机器学习与量子化学",
+          "计算化学",
+          "理论化学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Spatially Resolved Quantification of the Surface Reactivity of Solid Catalysts",
+        "keywords": [
+          "表面反应活性",
+          "固体催化剂",
+          "空间分辨",
+          "催化"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "表面催化",
+          "电催化",
+          "理论化学"
+        ],
+        "publication_year": 2016
+      },
+      {
+        "title": "Bond-Energy Decoupling: Principle and Application to Heterogeneous",
+        "keywords": [
+          "键能解耦",
+          "异相催化",
+          "反应活性理论",
+          "理论化学"
+        ],
+        "journal_name": "Chemical Science",
+        "research_fields": [
+          "理论化学",
+          "表面催化",
+          "反应活性理论"
+        ],
+        "publication_year": 2013
+      },
+      {
+        "title": "Communication: Understanding molecular representations in machine learning: The role of uniqueness and target similarity",
+        "keywords": [
+          "分子表示",
+          "机器学习",
+          "唯一性",
+          "目标相似性"
+        ],
+        "journal_name": "Journal of Chemical Physics",
+        "research_fields": [
+          "机器学习与量子化学",
+          "计算化学",
+          "理论化学"
+        ],
+        "publication_year": 2016
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/bhuang/zh_CN/index.htm"
+      },
+      {
+        "platform": "课题组网站",
+        "url": "https://bhuang.whu.edu.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄冰\n页面链接: http://jszy.whu.edu.cn/bhuang/zh_CN/index.htm\n==================================================\n武汉大学 黄冰--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n黄冰\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Huang Bing\n电子邮箱：16e4f6f54128d9a92f03706915c413c982e642855584a5f928efac78b89e46fb49152b987f4d5ca2b645f1967a76af4bc6ad639fbd98e8c5554d3c6c90da7a1433bef93fd4d34be7c075e01d8872e335e9629e1e962904337c532fecafd1e53fcbb9d372d4a515bdc57e1828dc6ab5b6903520566f9bdf97bac1e3902d79d2a9\n所在单位：化学与分子科学学院\n学历：博士研究生毕业\n办公地点：化学院C214\n性别：男\n联系方式：bhuang@whu.edu.cn\n职称：教授\n在职信息：在职\n主要任职：教授\n毕业院校：武汉大学化学与分子科学学院\n所属院系：化学与分子科学学院\n联系方式Contact information\n邮编: 7babf8b996fc02ba8f391f8b71b22a8bcd3f4abeccc50782ac500df2fc7bbbfd33ec0121535ccb720ea6e8c8df3da800745dcf948c0bd9a02ad5c77e04e6d33c04185bb88739ad1e39fd79615c8afd8e3118d468533fff05fefb4c3e65073aa021f4b7573ae694db00bd0033171d46e65f649f546418a26ce92eabcfbdf7fea1\n通讯/办公地址: a6e0dd0fc706338f6968d3e9f256c19a7dd3e84048179ab47d3905f261af5db51b48d50f1c6b1915998795aa82dc3deb0412a6b1e2c380dab154dac871467704ee64ded33cf65140102b72660499bce17d238ee6f8d999f85c63fa137a0d1754c18a25196267776ccc4af0c4faf295a79320d40af4897126c47d506f62afd80d\n邮箱: 16e4f6f54128d9a92f03706915c413c982e642855584a5f928efac78b89e46fb49152b987f4d5ca2b645f1967a76af4bc6ad639fbd98e8c5554d3c6c90da7a1433bef93fd4d34be7c075e01d8872e335e9629e1e962904337c532fecafd1e53fcbb9d372d4a515bdc57e1828dc6ab5b6903520566f9bdf97bac1e3902d79d2a9\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n黄冰（教授、博士生导师）于2009年6月在武汉大学获得学士学位，2015年6月在武汉大学获得博士学位，师从庄林教授研究和发展有关固体表面的反应活性理论。随后，在巴塞尔大学化学系与Anatole von Lilienfeld教授合作开展博士后研究，同时将研究兴趣转向量子化学中机器学习模型和方法的开发，以探索化合物空间。自2021年起，与Anatole一起迁往奥地利维也纳大学物理系继续博士后研究。2024年3月加入武汉大学建立独立的课题组（隶属于庄林教授领导的氢能电化学实验室大团队，网站见http://electrochem.whu.edu.cn），研究方向包括化学空间探索与分子的逆向设计、结合机器学习的理论与计算化学方法、电子结构理论与计算、概念密度泛函理论（如反应活性理论）、表面催化与电催化的理论研究等。欲获取更多信息，请前往课题组网站https://bhuang.whu.edu.cn。\n目前，以一作和/或通讯作者文在Science，Nat. Chem.，Chem. Rev.，Angew. Chem. Int. Ed.，Chem. Sci.等国际著名期刊发表三十多篇论文。科研论文被正面引用3100余次，个人H因子为22。\n代表性论文：\n(1) Bing Huang*, Guido Falk von Rudorff*, and O. Anatole von Lilienfeld*. “The central role of density functional theory in the AI age”, Science, 2023, 381, 170-175. (see URL)\n(2) Bing Huang, and O. Anatole Von Lilienfeld. “Ab Initio Machine Learning in Chemical Compound Space”, Chemical Reviews, 2021, 121, 10001-10036. (see URL)\n(3) Bing Huang, and O. Anatole von Lilienfeld. “Quantum machine learning using atom-in-molecule-based fragments selected on the fly”, Nature Chemistry, 2020, 12, 945-951. (see URL) (~200 citations) (highlighted by chemistryworld, see URL)\n(4) B. Huang, L. Xiao, J. Lu, L. Zhuang, “Spatially Resolved Quantification of the Surface Reactivity of Solid Catalysts”, Angewandte Chemie International Edition, 2016, 55, 6239-6243. (see URL) (hot paper, see URL) (>100 citations)\n(5) B. Huang, L. Zhuang, L. Xiao, J. Lu, “Bond-Energy Decoupling: Principle and Application to Heterogeneous”, Chemical Science, 2013, 4, 606-611. (hot paper, see URL)\n(6) Bing Huang, and O. Anatole von Lilienfeld. “Communication: Understanding molecular representations in machine learning: The role of uniqueness and target similarity”,  Journal of Chemical Physics, 2016, 145, 161102 (see URL) (>300 citations)\n教育经历 Personal profile\n2009-2015\n武汉大学>\n物理化学>\n博士>\n理学博士学位\n2005-2009\n武汉大学>\n化学基地班>\n学士>\n理学学士学位\n工作经历 Personal profile\n[1] 2024--至今\n武汉大学 >\n化学与分子科学学院\n> 教授\n> 在职\n[2] 2021--2024\n维也纳大学 >\n物理学院计算材料物理系\n> 博士后\n[3] 2015--2021\n巴塞尔大学 >\n化学院物理化学系\n> 博士后\n研究方向 Personal profile\n机器学习与量子化学（点此了解更多）\n理论化学的模型与方法（点此了解更多）\n表面催化与电催化的理论（点此了解更多）\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

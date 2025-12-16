@@ -1,0 +1,199 @@
+{
+  "id": "chenchen16",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenchen16/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈晨",
+    "english_name": "Chen Chen",
+    "title": [
+      "特聘副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "全球健康系",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "卫生经济学",
+        "school": "约克大学",
+        "period": "2017年",
+        "country": "英国"
+      }
+    ],
+    "graduation_school": "约克大学",
+    "academic_honors": [
+      "武汉市‘武汉英才’优秀青年人才"
+    ],
+    "academic_services": [
+      "中国疫苗行业协会疫苗经济学委员会，委员",
+      "湖北省老年学会"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "疫苗经济学",
+      "老年健康经济学",
+      "卫生技术评估",
+      "行为经济学",
+      "健康政策与卫生经济"
+    ],
+    "research_interests": [
+      "疫苗接种行为",
+      "老年人健康",
+      "成本效果分析",
+      "随机对照试验",
+      "健康不平等",
+      "数字健康平台",
+      "医养结合",
+      "健康技术评估"
+    ],
+    "research_description": "陈晨博士主要从事疫苗经济学、老年健康经济学与卫生技术评估研究，聚焦于中国健康体系的经济分析，尤其关注老年人群的健康问题与疫苗接种行为。她运用行为经济学理论开发助推策略，开展基于随机对照试验的干预研究，并结合微观计量分析与成本效果分析方法，评估公共卫生政策与医疗干预的经济与社会价值。其研究涵盖流感疫苗接种、慢性病管理、健康不平等、医养结合服务等多个领域，成果发表于Health Economics、BMJ Global Health、Journal of Environmental Management等国际权威期刊。",
+    "disciplines": [
+      "卫生经济学",
+      "公共卫生",
+      "老年学",
+      "健康政策"
+    ],
+    "field_tags": [
+      "疫苗经济学",
+      "老年健康",
+      "行为经济学",
+      "成本效果分析",
+      "健康技术评估",
+      "数字健康",
+      "医养结合",
+      "健康不平等"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 25,
+    "representative_publications": [
+      {
+        "title": "Implications for developing global health education in China: Evidence from an undergraduate teamwork with role-play",
+        "keywords": [
+          "全球健康教育",
+          "团队合作",
+          "角色扮演",
+          "中国"
+        ],
+        "journal_name": "BMJ Global Health",
+        "research_fields": [
+          "全球健康研究",
+          "教育经济学",
+          "卫生技术评估"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Impact of the Family Doctor Contracting System on unmet healthcare needs in Shandong Province, China",
+        "keywords": [
+          "家庭医生签约制度",
+          "未满足医疗需求",
+          "中国",
+          "健康政策"
+        ],
+        "journal_name": "Health Policy and Planning",
+        "research_fields": [
+          "卫生政策",
+          "健康服务利用",
+          "医疗公平性"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Health-related quality of life and unmet care needs among older adults in Medical and Nursing Care Integrated Institutions",
+        "keywords": [
+          "医养结合机构",
+          "老年人",
+          "生活质量",
+          "未满足照护需求"
+        ],
+        "journal_name": "Geriatric Nursing",
+        "research_fields": [
+          "老年健康经济学",
+          "医养结合",
+          "长期照护"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Disease burden of seasonal influenza in China from 2010 to 2019: A systematic review and meta-analysis based on multiple indicators",
+        "keywords": [
+          "季节性流感",
+          "疾病负担",
+          "中国",
+          "系统综述"
+        ],
+        "journal_name": "Human Vaccines & Immunotherapeutics",
+        "research_fields": [
+          "疫苗经济学",
+          "流行病学",
+          "卫生技术评估"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Ex-ante moral hazard and health insurance: Evidence from China's urban residence basic medical insurance scheme",
+        "keywords": [
+          "事前道德风险",
+          "医疗保险",
+          "中国",
+          "实证研究"
+        ],
+        "journal_name": "Health Economics",
+        "research_fields": [
+          "卫生经济学",
+          "保险理论",
+          "政策评估"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chenchen16/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国际(地区)合作与交流项目",
+      "重点项目",
+      "青年科学基金项目",
+      "中央高校基本科研业务专项资金",
+      "湖北省卫生健康委员会项目",
+      "厚土基金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "昆山杜克大学",
+      "湖北省卫生健康委员会",
+      "中央高校基本科研业务专项资金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈晨\n页面链接: http://jszy.whu.edu.cn/chenchen16/zh_CN/index.htm\n==================================================\n武汉大学 陈晨--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n陈晨，经济学博士，硕士研究生导师，武汉市“武汉英才”优秀青年人才。主要研究方向为疫苗经济学、老年健康经济学与卫生技术评估。她于2017年获得英国约克大学卫生经济学博士学位。在英学习期间，她曾在英国卫生部实习，研究的课题是评估NHS下200多家公立医院的髋关节和膝盖置换手术效果，为政府对每个医院这项手术的拨款提供参考。2017-2020年，她在北京大学国家发展研究院的中国卫生经济研究中心担任博士后研究员，合作导师刘国恩教授。在此期间，她参与了多项国家级课题的研究。其研究方法涉及行为经济学随机对照试验、微观应用计量分析与成本效果分析。除科研外，陈晨还承担本科及研究生课程教学，内容涵盖卫生经济学、全球健康研究方法、老龄化与全球健康、药物经济与政策等。\nChen’s research interests include the economic analysis of Chinese health care system and health technology assessment. She holds a Ph.D. degree in Health Economics from the University of York under the supervision of Professor Nigel Rice and Professor Andrew Street. And she has worked at the Department of Health in the United Kingdom on a summer placement for the research of Patient Reported Outcome Measures (PROMs). From 2017-2020, she was a post-doc fellow supervised by Prof. Gordon Liu at China Center for Health Economic Research (CCHER), Peking University.\nHer research focuses on vaccine economics, behavioral economics, the health economics of aging, and health technology assessment. She has led two projects funded by the National Natural Science Foundation of China. Her work has been published in leading international and domestic journals, including Health Economics, BMJ Global Health, and the Chinese Journal of Preventive Medicine; she has also contributed to the development of China’s guidelines for vaccine economic evaluation. Methodologically, her work spans randomized controlled trials in behavioral economics, applied microeconometrics, and cost-effectiveness analysis. In addition to research, Chen teaches undergraduate and graduate courses in health economics, global health research methods, aging and global health, pharmacoeconomics and health policy, and etc.\n科研课题：\n（1）中巴合作改善亚马逊地区医疗保健基础设施与疫苗接种行为的创新方案：数字健康平台与社区驱动的疫苗助推融合研究，国际(地区)合作与交流项目，国家自然科学基金委员会，3.5万元，2025-04-01至2025-12-31，主持；\n（2）基于行为经济学理论的老人疫苗接种助推策略开发、试验与评价：以流感疫苗为例，青年科学基金项目，国家自然科学基金委员会，30万元，2024-2026，主持；\n（3）精准健康扶贫的经济学实验：基于四川凉山的干预研究，重点项目，国家自然科学基金委员会，235万元，2019-2023，骨干参与；\n（4）基于中国男性吸烟合理化理论框架的以智慧科技为支撑的社区戒烟干预项目,厚土基金项目，昆山杜克大学，2022-2023，5万元，共同主持；\n（5）中国老年人认知障碍的不平等问题研究，中央高校基本科研业务专项资金青年教师资助项目，3万元，2021-2022，主持\n（6）湖北省医养结合服务能力提升路径研究，湖北省卫生健康委员会，8万元，2023，主持\n（7）湖北省医养结合现状、问题与应对策略研究，湖北省卫生健康委员会，8万元，2022，骨干参与\n代表性成果：\nCai, Y., Chen, H., Wu, C., Joarder, T., Pang, J., & Chen, C*. (2025). Implications for developing global health education in China: Evidence from an undergraduate teamwork with role-play. BMJ Global Health, 10, Article e017407.（通讯作者，SSCI&SCI双收录，Q1，IF=7.1）\nTan, J., Wang, J., Xu, L., Li, P., Sun, J*., & Chen, C*. (2025). Impact of the Family Doctor Contracting System on unmet healthcare needs in Shandong Province, China. Health Policy and Planning, 00(0), 1–14. https://doi.org/10.1093/heapol/czaf069（通讯作者，SSCI&SCI双收录，Q1，IF=3.6）\nQiao, Y., Chen, S., Tan, J., Chen, S., Li, Q., Zhu, Y., & Chen, C*. (2025). Health-related quality of life and unmet care needs among older adults in Medical and Nursing Care Integrated Institutions. Geriatric Nursing, 64, 103403. https://doi.org/10.1016/j.gerinurse.2025.103403 （通讯作者，SSCI收录，Q1，IF=2.4)\nZhang, H., Gong, Z., Peng, N., Wan, M., Tan, J., & Chen, C*. (2025). Disease burden of seasonal influenza in China from 2010 to 2019: A systematic review and meta-analysis based on multiple indicators. Human Vaccines & Immunotherapeutics, 21(1), 2550092. https://doi.org/10.1080/21645515.2025.2550092 (通讯作者，SCI收录，Q2，IF=3.5）\nQiao, J., Qiao, Y., Tan, J., Chen, N., Peng, N., Mao, Z., Zhao, Y., Chen, C*, & Yao, Y*. (2025). Unmet long-term care needs and their association with health-related quality of life among Chinese oldest-old population. Health and Quality of Life Outcomes, 23, 50. https://doi.org/10.1186/s12955-025-02375-x （通讯作者，SSCI& SCI 双收录，Q1，IF=3.4）\nTan, J., Yan, P., Wang, J., Chen, S., Bai, J., Zhang, Z., Nicholas, S., Maitland, E., Li, P., Hu, Y., Sun, J., & Chen, C*. (2024). Environmental inequality in eastern China: Socio-economic status and air pollution. Population and Environment, 46(13). （通讯作者，SSCI收录，Q1，IF=3.1）\nChen C, Liu GG, Wang TX, Tan JL*(2023). Ex-ante moral hazard and health insurance: Evidence from China's urban residence basic medical insurance scheme, Health Economics, https://doi.org/10.1002/hec.4738.（第一作者，SSCI收录，领域Top期刊)\nTan JL, Chen N, Bai J, Yan PZ, Ma XY, Ren ML, Maitland E, Nicholas S, Cheng WJ, Leng X, Chen C*, Wang J* (2023).  Ambient air pollution and the health-related quality of life of older adults: Evidence from Shandong China, Journal of Environmental Management, 336：117619.（通讯作者， SSCI收录，Q1，IF=8.7）\nYan PZ, Li FH, Nicholas S, Maitland E, Tan JL, Chen C*, Wang J* (2023). Impact of pension income on healthcare utilization of older adults in rural China, International Journal for Equity in Health, 22:166. (通讯作者，SSCI收录，Q1， IF=4.76)\nWang MJ, Liu GG*, Chen XT, Ma S, Chen C*(2022). Effectiveness of a mobile‑based HIV prevention intervention for the rural and low‑income population involving incentive policy to doctors in Liangshan, China: a randomized controlled trial protocol. BMC Public Health, 22:1682.(通讯作者，SCI收录，Q2，IF=4.545)\n陈晨，刘国恩，曾光*.(2022). 中国流感疾病负担现状、问题与挑战及应对策略, 中国公共卫生,38(11): 1494-1498(第一作者，CSCD收录)\nChen C, Liu GG, Sun YK, Gu DN, Zhang H, Yang HZ, Lu L, Zhao YL, Yao Y*.(2020) Association Between Household Fuel Use and Sleep Quality in The Oldest-Old: Evidence from A Propensity-Score Matched Case-Control Study in Hainan, China. Environmental Research.191:110229. (第一作者，SCI收录，Q1, IF=8.431)\nChen C, Liu G, Shi Q, Sun Y, Zhang H, Wang M, Jia HP, Zhao YL, Yao Y* （2020）. Health-Related Quality of Life and Associated Factors Among Oldest-Old in China. The Journal of nutrition, Health & Aging. 24(3):330-8. （第一作，Q2, IF=5.8，被引=105）\nSun Y#, Chen C#, Liu GG, Wang MJ, Shi CG, Yu G, Lv F, Wang N, Zhang SC (2020). The association between iodine intake and semen quality among fertile men in China. BMC Public Health, 20, 461 (2020).（共同一作，SCI收录，Q2，IF=4.545）\n陈晨, 刘国恩,王美娇,高天夫, 贾慧萍, 杨涵, 冯录召 （2019）. 中国老人接种流感疫苗的成本效果分析,中华预防医学杂志, 2019, 53(10): 993-999 (第一作者，CSCD收录)\nHai F, Chen C, Fang Y, He XN, Hou ZY, Jiang MH, Jiang YW, Li SP, Liu Y, Sui BY, Sun Q, Wu J, Xu TT, Yang J, Yin ZD, Yuan BB, Zheng H, Zheng YM (2022). A guideline for economic evaluations of vaccines and immunization programs in China. Human Vaccines & Immunotherapeutics, 18(6):2132802 (SCI收录，Q2,IF=4.8)\nZhang C, Zhang H, Zhao M, Chen C,Li ZQ, Liu DP, Zhao YL, Yao Y (2022). Psychometric properties and modification of the 15-item geriatric depression scale among Chinese oldest-old and centenarians: a mixed-methods study. BMC Geriatrics. 22:144 (SSCI收录，Q1，IF=4.1，他引：5)\nZhang X, Shen P, Liu JY, Ji XY, Su KH, Hu RD, Chen C, Fang H, Jin XR, Lin HB, Sun YX, Yan LJ (2023). Evaluating the effectiveness and cost-effectiveness of free influenza vaccination policy for older adults in Yinzhou, China: Study protocol of a real-world analyses, Vaccine,41(34):5045-5052. (SCI收录，Q2， IF=5.5)\nFang YC E, Zhang ZX, Wang R, Yang BL, Chen C, Nisa C, Tong X, Yan LJ(2023). Effectiveness of eHealth Smoking Cessation Interventions: Systematic Review and Meta-Analysis, Journal of Medical Internet Research, 25: e15111. (SCI收录，Q1， IF=7.4)\nGuan HJ, Wang CP, Chen C, Han S, Zhao ZG(2022). Cost-Effectiveness of 12 First-Line Treatments for Patients With Advanced EGFR Mutated NSCLC in the United Kingdom and China,  Frontiers in Oncology,  12:819674.(SCI收录，Q2，IF=4.2)\nWu K, Yu Y, Chen C, Fu ZM (2021). Is One Health a Viable Strategy in Animal Health Litigation: Evidence from Civil Lawsuits in China, Animals,11，2560.（SCI收录，Q1，IF=3.0）\n参编书籍：\n《中国疫苗经济学评价指南》，2021版本，编委\nChen C, Gu D. Andersen Model. 2020. In: Gu D., Dupre M. (eds) 《Encyclopedia of Gerontology and Population Aging》. Springer, Cham.（参编）\n学术会议：\n2021.10 ISIRV-WHO Virtual Conference 国际流感与其他呼吸道协会-世卫组织线上大会\n演讲题目：中国季节性流感的经济负担评估\n2018.05 中国脑病大会，北京会议中心，北京\n主旨演讲：脑卒中的卫生经济学研究\n2014. 07 Health Economics in the Age of Longevity: a Joint iHEA & ECHE Congress in Dublin, Ireland\n演讲题目：Adverse or advantageous selection？—Evidence from Chinese private insurance market\n2015.7 iHEA 11th World Congress: \"De Gustibus Disputandum Non Est!\" Health Economics and Nutrition\n演讲题目 ：Universal coverage and moral hazard in China\n研究方向\n社会兼职\n卫生经济学、疫苗经济学、卫生技术评估、老龄健康经济学\n2022.1-----至今\n社会兼职内容：中国疫苗行业协会疫苗经济学委员会，委员\n社会兼职内容：湖北省老年学会\n教育经历\n工作经历\n暂无内容\n2023.9-----至今\n全球健康系，公共卫生学院\n|\n武汉大学\n2020.9-----2023.8\n公共卫生学院\n|\n武汉大学\n2017.7-----2019.12\n国家发展研究院\n|\n北京大学\n团队成员\n暂无内容\n返回顶部\n+\n陈晨\n职务：特聘副研究员主要任职：\n个人信息\n硕士生导师\n教师英文名称：Chen Chen\n教师拼音名称：Chen Chen\n电子邮箱：\n入职时间：2020-09-01\n所在单位：公共卫生学院\n职务：特聘副研究员\n学历：博士研究生毕业\n性别：女\n在职信息：在职\n毕业院校：约克大学（英国）\n曾获荣誉：\n20212021年度武汉英才优秀青年人才\n其他联系方式\n邮编:\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

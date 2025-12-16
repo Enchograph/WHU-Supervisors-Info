@@ -1,0 +1,142 @@
+{
+  "id": "jishunping",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/jishunping/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "季顺平",
+    "english_name": "Ji Shunping",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2002.9-2007.7",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "1998.9-2002.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "珞珈青年学者"
+    ],
+    "academic_services": [
+      "多个国际核心期刊和顶级国际学术会议的审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "数字摄影测量",
+      "计算机视觉",
+      "机器学习与遥感应用",
+      "三维重建",
+      "视觉SLAM",
+      "语义SLAM"
+    ],
+    "research_interests": [
+      "建筑物提取",
+      "变化检测",
+      "农作物提取",
+      "密集匹配",
+      "图像检索",
+      "多波段遥感影像稀疏匹配",
+      "全景图像目标检测",
+      "滑坡异常检测",
+      "辐射变换",
+      "云探测与修复"
+    ],
+    "research_description": "研究方向涉及数字摄影测量、计算机视觉、机器学习与遥感应用等，重点开展三维重建、视觉SLAM、语义SLAM等关键技术研究，以及基于深度学习的建筑物提取与变化检测、农作物提取、密集匹配、图像检索、多波段遥感影像稀疏匹配、全景图像目标检测、滑坡异常检测、辐射变换、云探测与修复等遥感应用研究。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "计算机视觉",
+      "人工智能",
+      "遥感科学与技术"
+    ],
+    "field_tags": [
+      "三维重建",
+      "SLAM",
+      "深度学习",
+      "遥感影像处理",
+      "智能摄影测量",
+      "变化检测",
+      "目标检测",
+      "图像匹配",
+      "云修复",
+      "灾害监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "智能摄影测量学导论",
+        "keywords": [
+          "智能摄影测量",
+          "摄影测量学",
+          "遥感",
+          "数字摄影测量"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "数字摄影测量",
+          "遥感应用",
+          "计算机视觉"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/jishunping/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家973计划",
+      "863计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家973计划",
+      "863计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 季顺平\n页面链接: http://jszy.whu.edu.cn/jishunping/zh_CN/index.htm\n==================================================\n武汉大学 季顺平--中文主页--首页\nEnglish\n季顺平\n职称：教授\n所在单位：遥感信息工程学院\n教师拼音名称：Ji Shunping\n出生日期：1979-04-28\n电子邮箱：\n入职时间：2007-07-01\n所在单位：遥感信息工程学院\n学历：研究生毕业\n办公地点：遥感信息工程学院（5号楼）313\n性别：男\n联系方式：邮箱：jishunping@whu.edu.cn\n在职信息：在职\n博士生导师\n硕士生导师\n教育经历\n[1].\n2002.9-\n2007.7\n武汉大学\n|\n摄影测量与遥感专业\n|\n博士\n[2].\n1998.9-\n2002.7\n武汉大学\n|\n摄影测量与遥感专业\n|\n学士\n工作经历\n[1].\n2016.1-\n2017.1\n澳大利亚国立大学（ANU)\n|\nComputer Vision &Robotics Group\n|\n访问学者\n[2].\n2015.11-\n至今\n武汉大学\n|\n遥感信息工程学院\n|\n教授\n[3].\n2012.11-\n2015.11\n武汉大学\n|\n遥感信息工程学院\n|\n副教授\n[4].\n2012.6-\n2013.6\n东京大学\n|\n空间信息科学研究所\n|\n访问研究员\n[5].\n2007.7-\n2012.11\n武汉大学\n|\n遥感信息工程学院\n|\n讲师\n研究方向\n研究方向涉及数字摄影测量、计算机视觉、机器学习与遥感应用等。研究内容包括三维重建、视觉SLAM、语义SLAM；基于深度学习的建筑物提取与变化检测、农作物提取、密集匹配、图像检索、多波段遥感影像稀疏匹配、全景图像目标检测、滑坡异常检测、辐射变换、云探测与修复等。\n团队成员\n团队名称： 遥感与SLAM\n季顺平\n个人简介\n武汉大学教授，博士生导师，珞珈青年学者，2002年本科、2007年博士毕业于武汉大学。在日本东京大学、澳大利亚国立大学等著名学府长期学习和学术交流。研究方向涉及数字摄影测量、计算机视觉、机器学习与遥感应用等。发表论文50余篇，代表作有《智能摄影测量学导论》。担任多个国际核心期刊和顶级国际学术会议的审稿人。主持和参与多项国家自然科学基金、国家973计划、863计划等科研项目，并与日本国际航业、各省市测绘院等相关企事业单位合作研发。\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n扫一扫用手机查看\n|\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

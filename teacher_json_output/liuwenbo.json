@@ -1,0 +1,238 @@
+{
+  "id": "liuwenbo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuwenbo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘文博",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士",
+        "field": "有机化学",
+        "school": "中国科学院上海有机化学研究所",
+        "period": "2006.9 – 2011.7",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "化学",
+        "school": "南开大学化学学院",
+        "period": "2002.9 – 2006.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学院上海有机化学研究所",
+    "academic_honors": [
+      "教育部化学“101”计划骨干教师",
+      "武汉大学优秀本科生毕业论文导师",
+      "武汉大学弘毅学堂优秀教育工作者",
+      "Asian Core Program Lectureship Award",
+      "武汉大学化学学院青教赛一等奖",
+      "国家优秀青年基金",
+      "武汉大学本科生教学业绩奖",
+      "湖北省化学化工青年创新奖",
+      "Thieme Chemistry Journals Award",
+      "中组部海外高层次人才计划优先支持（青年组）"
+    ],
+    "academic_services": [
+      "武汉大学化学与分子科学学院副院长",
+      "武汉大学化学与分子科学学院副院长（挂职）",
+      "武汉大学化学与分子科学学院院长助理兼大型仪器中心主任",
+      "中国化学会化学实验室安全工作委员会委员",
+      "中国化学会青年工作者委员会委员",
+      "《Green Synthesis&Catalysis》杂志青年编委",
+      "汉瑞药业科技副总",
+      "汉瑞药业首席顾问科学家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "不对称催化方法学",
+      "绿色合成方法",
+      "氘代同位素标记",
+      "金属-酶级联催化",
+      "AI for Chemistry"
+    ],
+    "research_interests": [
+      "催化剂设计与合成",
+      "新配体开发",
+      "全碳季碳中心构建",
+      "镍催化反应",
+      "钯催化反应",
+      "氘代反应",
+      "有机合成方法学"
+    ],
+    "research_description": "刘文博教授主要从事不对称催化方法研究、重要药物中间体的绿色合成以及氘代同位素标记方法研究。在J. Am. Chem. Soc.、Angew. Chem.、Chem等国际顶级期刊发表论文80余篇，获批专利20余项。研究聚焦于金属催化（尤其是镍、钯）的不对称反应，实现全碳季碳中心的高效构建，发展新型催化剂与配体，并探索AI在化学中的应用。课题组还致力于与制药及新材料企业合作，推动研究成果的产业化应用。",
+    "disciplines": [
+      "有机化学",
+      "催化化学",
+      "药物化学",
+      "绿色化学"
+    ],
+    "field_tags": [
+      "不对称催化",
+      "全碳季碳中心",
+      "镍催化",
+      "氘代标记",
+      "绿色合成",
+      "AI for Chemistry",
+      "金属-酶级联催化",
+      "新配体设计"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "Enantioselective Nickel-Catalyzed Reductive Aryl/Alkenyl–Cyano Cyclization Coupling to All-Carbon Quaternary Stereocenters",
+        "keywords": [
+          "不对称催化",
+          "镍催化",
+          "全碳季碳中心",
+          "环化偶联"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "有机合成化学",
+          "不对称催化",
+          "金属催化"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Enantioselective Synthesis of α-All-Carbon Quaternary Center-Containing Carbazolones via Amino-palladation/Desymmetrizing Nitrile Addition Cascade",
+        "keywords": [
+          "钯催化",
+          "全碳季碳中心",
+          "咔唑酮",
+          "不对称合成"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "有机合成化学",
+          "不对称催化",
+          "碳-碳键形成"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Enantioselective Assembly of Cycloenones with a Nitrile-Containing All-Carbon Quaternary Center from Malononitriles Enabled by Ni Catalysis",
+        "keywords": [
+          "镍催化",
+          "环酮合成",
+          "氰基取代",
+          "全碳季碳中心"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "有机合成化学",
+          "金属催化",
+          "不对称合成"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "General and Practical Potassium Methoxide/Disilane-Mediated Dehalogenative Deuteration of (Hetero)Arylhalides",
+        "keywords": [
+          "氘代标记",
+          "去卤化氘代",
+          "绿色合成",
+          "同位素标记"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "同位素化学",
+          "绿色合成",
+          "药物中间体合成"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Ni-Catalyzed Enantioselective [2+2+2] Cycloaddition of Malononitriles with Alkynes",
+        "keywords": [
+          "镍催化",
+          "[2+2+2]环加成",
+          "不对称合成",
+          "多组分反应"
+        ],
+        "journal_name": "Chem",
+        "research_fields": [
+          "有机合成化学",
+          "催化反应",
+          "复杂分子构建"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Precatalyst-Enabled Selectivity: Enantioselective NiH-Catalyzed anti-Hydrometalative Cyclization of Alkynones to Endo- and Hetero-cyclic Allylic Alcohols",
+        "keywords": [
+          "镍氢催化",
+          "反式氢金属化",
+          "环化反应",
+          "立体选择性"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "有机合成化学",
+          "不对称催化",
+          "金属氢化学"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "课题组主页",
+        "url": "http://wenboliu.whu.edu.cn"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuwenbo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金优秀青年基金",
+      "武汉大学引进人才项目",
+      "企业研发合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "武汉大学",
+      "企业研发合作项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘文博\n页面链接: http://jszy.whu.edu.cn/liuwenbo/zh_CN/index.htm\n==================================================\n武汉大学 刘文博--中文主页--首页\n刘文博\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n入职时间： 2016-02-01\n办公地点：化学学院化东 101\n联系方式：wenboliu@whu.edu.cn\n027-68788894\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n详细信息，请访问课题组主页：wenboliu.whu.edu.cn\n本课题组招聘博士后，在武汉大学博后待遇的基础上，课题组择优发放额外津贴，欢迎来信联系。\n欢迎有志于科研的本科生和研究生加入，欢迎来信联系（邮件题目注明：博士申请or 硕士申请）。\n参加本科生业余科研的本校同学，请直接到化东 101B 办公室讨论，无需预约。\n-------------------------------------------------------------------------------------------------------------------------------------------------\n刘文博，武汉大学化学与分子科学学院教授。主要从事不对称催化方法研究、重要药物中间体的绿色合成、氘代同位素标记方法研究。迄今为止在 Nature，J. Am. Chem. Soc., Angew. Chem., Chem等学术期刊发表论文 80 多篇，获批专利 20 余项（含美国专利 6 项，国际专利 1 项），参与撰写学术专著 3 章节。主持（含在研）基金委青年基金，面上基金，优秀青年基金等项目，曾获中组部高层次海外引进人才，武汉大学高层次人才等经费支持。长期主讲本科生《基础有机化学》课程，曾获武汉大学本科生优秀教学业绩奖，学院青教赛一等奖，弘毅学堂优秀教育工作者，武汉大学优秀本科生毕业论文指导教师，教育部化学“101”骨干教师等荣誉。科研教学工作之余，积极参与社会服务，与多家制药企业和新材料公司开展合作研究或提供技术支持。\n教育和工作经历\n2016.2 – 今:  独立课题组长，教授，博士生导师，武汉大学化学与分子科学学院\n2012.1 – 2016.2: 博士后研究员，加州理工学院 (Caltech)，合作导师: Profs. B. M. Stoltz\n2011.7 – 2011.12: 研究助理（Research Associate)，中国科学院上海有机化学研究所\n2006.9 – 2011.7:  理学博士，中国科学院上海有机化学研究所，导师: 戴立信院士 & 游书力院士\n2002.9 – 2006.7:  理学学士，南开大学化学学院，导师: 李弘教授\n承担项目和荣誉\n教育部化学“101 计划”骨干教师，2025\n武汉大学优秀本科生毕业论文导师，2025\n武汉大学弘毅学堂优秀教育工作者，2024\nAsian Core Program Lectureship Award, 2023\n武汉大学化学学院青教赛一等奖，2022\n国家优秀青年基金，2022\n武汉大学本科生教学业绩奖，2020\n湖北省化学化工青年创新奖，2020\nThieme Chemistry Journals Award, 2017\n中组部海外高层次人才计划优先支持（青年组）, 2015\n职务和社会服务兼职\n武汉大学化学与分子科学学院，副院长，2024.6 至今\n武汉大学化学与分子科学学院，副院长（挂职），2021.11 – 2024.4\n武汉大学化学与分子科学学院，院长助理兼大型仪器中心主任，2020 – 2024.6\n中国化学会化学实验室安全工作委员会，委员，2024 至今\n中国化学会青年工作者委员会，委员，2018 至今\n《Green Synthesis&Catalysis》杂志，青年编委，2019 至今\n汉瑞药业，科技副总，2022.5 – 2024.6\n汉瑞药业，首席顾问科学家，2021.7 – 2024.6\n研究领域与兴趣\n不对称催化方法学，催化剂设计合成，新配体开发，金属+酶级联催化，AI for Chemistry\n在研项目\n武汉大学引进人才项目，基金委青年项目，基金委面上项目，基金委优秀青年项目，企业研发合作项目等纵向和横向项目\n近期代表性文章（见课题组主页）\n1. Chen, Z.-H.; Sun, R.-Z.; Yao, F.; Hu, X.-D.; Xiang, L.-X.; Cong, H.; Liu, W.-B.* Enantioselective Nickel-Catalyzed Reductive Aryl/Alkenyl–Cyano Cyclization Coupling to All-Carbon Quaternary Stereocenters. J. Am. Chem. Soc. 2022, 144, 4776.\n2. Hu, X.-D.; Chen, Z.-H.; Zhao, J.; Sun, R.-Z.; Zhang, H.; Qi, X.; Liu, W.-B.* Enantioselective Synthesis of α-All-Carbon Quaternary Center-Containing Carbazolones via Amino-palladation/Desymmetrizing Nitrile Addition Cascade. J. Am. Chem. Soc. 2021, 143, 3734.\n3. Lu, Z.; Hu, X.-D.; Zhang, H.; Zhang, X.-W.; Cai, J.; Usman, M.; Cong, H.; Liu, W.-B.* Enantioselective Assembly of Cycloenones with a Nitrile-Containing All-Carbon Quaternary Center from Malononitriles Enabled by Ni Catalysis. J. Am. Chem. Soc. 2020, 142, 7328.\n4. Wang, X.; Zhu, M.-H.; Schuman, D. P.; Zhong, D.; Wang, W.-Y.; Wu, L.-Y.; Liu, W.; Stoltz, B. M.; Liu, W.-B.* General and Practical Potassium Methoxide/Disilane-Mediated Dehalogenative Deuteration of (Hetero)Arylhalides. J. Am. Chem. Soc. 2018, 140, 10970.\n5. Cai, J.; Bai, L.-G.; Zhang, Y.; Wang, Z.-K.; Yao, F.; Peng, J.-H.; Yan, W.; Wang, Y.; Zheng, C.; Liu, W.-B.* Ni-Catalyzed Enantioselective [2+2+2] Cycloaddition of Malononitriles with Alkynes. Chem 2021, 7, 799.\n6. Zhang, X.-W.; Zhu, M.-H.; Zeng, H.-X.; Li, Q.-Y.; Liu, W.-B.* Precatalyst-Enabled Selectivity: Enantioselective NiH-Catalyzed anti-Hydrometalative Cyclization of Alkynones to Endo- and Hetero-cyclic Allylic Alcohols. Angew. Chem. Int. Ed. 2021, 60, 27225.\n其他联系方式\n通讯/办公地址 : \n办公室电话 : \n邮箱 : \n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

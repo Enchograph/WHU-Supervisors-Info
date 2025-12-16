@@ -1,0 +1,212 @@
+{
+  "id": "kmj",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/kmj/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "亢孟军",
+    "english_name": "Mengjun Kang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士后",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学",
+        "period": "2011.9 -- 2013.9",
+        "country": "中国"
+      },
+      {
+        "degree": "研究生毕业",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学",
+        "period": "2007.9 -- 2011.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "JoM全球最佳地图奖",
+      "测绘科技进步一等奖",
+      "地理信息科技进步特等奖",
+      "优秀地图作品“裴秀奖”金奖"
+    ],
+    "academic_services": [
+      "中国地理信息产业协会地图工作委员会秘书长"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "地理人工智能（GeoAI）",
+      "空间信息可视化",
+      "电子地图设计与开发",
+      "地名与地址信息处理",
+      "专题地图自动编制"
+    ],
+    "research_interests": [
+      "地理人工智能",
+      "空间数据挖掘",
+      "地图信息评价",
+      "自然语言处理与地理信息融合",
+      "城市地址模型",
+      "三维数字地图渲染",
+      "社会媒体数据与地理情感分析",
+      "公共健康地图设计",
+      "交通与城市空间结构分析"
+    ],
+    "research_description": "亢孟军教授长期致力于地理人工智能（GeoAI）与空间信息可视化研究，聚焦于地理信息智能处理、地名与地址识别、电子地图设计与开发、专题地图自动编制等方向。其研究融合自然语言处理、机器学习与地理信息系统技术，广泛应用于航空机载电子地图系统、全国地名普查、城市空间信息建模及公共健康应急地图等领域。研究成果在《Transactions in GIS》《Applied Geography》《Cartography and Geographic Information Science》等国际权威期刊发表，并获多项国家级与行业奖项。",
+    "disciplines": [
+      "地图学与地理信息系统",
+      "地理信息工程",
+      "资源环境监测与规划",
+      "人文地理",
+      "测绘工程"
+    ],
+    "field_tags": [
+      "地理人工智能",
+      "空间信息可视化",
+      "电子地图",
+      "地名识别",
+      "地址匹配",
+      "机器学习",
+      "社会媒体地理分析",
+      "专题地图",
+      "城市空间分析",
+      "三维地图渲染"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods",
+        "keywords": [
+          " coastal landscapes",
+          "sentiments",
+          "social media data",
+          "interpretable machine learning"
+        ],
+        "journal_name": "Transactions in GIS",
+        "research_fields": [
+          "地理人工智能",
+          "空间信息可视化",
+          "地理信息科学"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "TransMI: a transfer-learning method for generalized map information evaluation",
+        "keywords": [
+          "transfer learning",
+          "map information evaluation",
+          "generalization",
+          "cartography"
+        ],
+        "journal_name": "Cartography and Geographic Information Science",
+        "research_fields": [
+          "地图学",
+          "地理信息科学",
+          "地理人工智能"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products",
+        "keywords": [
+          "megaregions",
+          "morphological approach",
+          "land cover products",
+          "China"
+        ],
+        "journal_name": "Applied Geography",
+        "research_fields": [
+          "区域发展",
+          "空间分析",
+          "地理人工智能"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Making a narrative tourism map: the case of Jiaxing’s ‘Red Boat Spirit Map’, China",
+        "keywords": [
+          "narrative map",
+          "tourism map",
+          "Red Boat Spirit",
+          "thematic cartography"
+        ],
+        "journal_name": "Journal of Maps",
+        "research_fields": [
+          "地图设计",
+          "空间信息可视化",
+          "人文地理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "A graph-based method for Chinese address matching",
+        "keywords": [
+          "Chinese address matching",
+          "graph-based method",
+          "geospatial data",
+          "address standardization"
+        ],
+        "journal_name": "Transactions in GIS",
+        "research_fields": [
+          "地理信息工程",
+          "地址识别",
+          "自然语言处理"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/kmj/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发子课题",
+      "北京市重点实验室开放基金",
+      "武汉大学自主科研B类",
+      "社会服务课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "城市空间信息工程北京市重点实验室",
+      "武汉大学",
+      "国家重点研发计划",
+      "社会服务课题"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 亢孟军\n页面链接: http://jszy.whu.edu.cn/kmj/zh_CN/index.htm\n==================================================\n武汉大学 亢孟军--中文主页--首页\n亢孟军\n教授\n博士生导师\n硕士生导师\n主要任职：中国地理信息产业协会地图工作委员会秘书长\n性别：男\n毕业院校：武汉大学\n学历：研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n办公地点：武汉大学信息学部，资源与环境科学学院，电脑城402室\n联系方式：mengjunk@whu.edu.cn\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n河南三门峡人，教授，博导。\n研究方向： 地理人工智能（GeoAI），空间信息可视化，电子地图设计与开发\n研究成果被广泛应用于航空机载电子地图系统装备、全国地名地址普查以及大型公益/商用电子地图。参与获得JoM全球最佳地图奖、测绘科技进步一等奖、地理信息科技进步特等奖、优秀地图作品“裴秀奖”金奖等。\n研究生招生专业：\n地图学与地理信息系统、地图制图学与地理信息工程、资源环境监测与规划、人文地理、测绘工程\n博士招生专业：\n地图学与地理信息系统、地图制图学与地理信息工程、人文地理、资源与环境（工程博士）\n招收博士，要求从事地理人工智能与空间信息可视化方向研究。\n主讲课程：\n本科：“空间信息可视化”，“面向对象GIS软件开发技术”\n研究生：\"GIS软件设计与开发\"，“地理信息工程技术”\n欢迎加入课题组，成就更好的自己！\n可联系：mengjunk@whu.edu.cn\n主持及参与课题：\n1. 文本环境下地名识别及其空间关系构建，国家自然科学基金(青年)\n2. 城市地址模型构建及标准地址集的自动生成研究，城市空间信息工程北京市重点实验室开放基金\n3. 嵌入式机载三维数字地图渲染引擎关键技术研发，武汉大学自主科研B类\n4. 全息地图获取与位置信息聚合技术，国家重点研发子课题\n5. 基于ArcGIS Portal海事测绘信息服务私有云，社会服务课题\n6. 粤政图专题电子地图设计，社会服务课题\n7. 《贵州省自然资源地图集》综合地图地理时空发展影响分析评价及设计制图，社会服务课题\n代表论文：\n2024年\n1.  Cao, H., Weng, M., Kang, M*., & Su, S. (2024). Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods. Transactions in GIS, 00, 1–25. https://doi.org/10.1111/tgis.13175\n2.  Chenglong Wang, Tianjiao Chen, Yuqian Liu, Mengjun Kang*, ShiliangSu & Binbo Li (09 Feb 2024): TransMI: a transfer-learning method for generalized map information evaluation, Cartography and Geographic Information Science, DOI:10.1080/15230406.2024.2306827\n3. Haojie Cao, Yu Li, Min Weng, Shiliang Su, Mengjun Kang*. Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products. Applied Geography. https://doi.org/10.1016/j.apgeog.2024.103205.\n4.  Lingqi Wang, Jiangyue Zhang, Min Weng, Mengjun Kang & Shiliang Su (2024), Making a narrative tourism map: the case of Jiaxing’s ‘Red Boat Spirit Map’, China, Journal of Maps, 20:1, 1-15, DOI: 10.1080/17445647.2024.2341003\n2023年\n1. Cao, H., Weng, M., Kang, M*., & Su, S. (2024). Unraveling the relationship between coastal landscapes and sentiments: An integrated approach based on social media data and interpretable machine learning methods. Transactions in GIS, 00, 1–25.\n2. Chenglong Wang, Tianjiao Chen, Yuqian Liu, Mengjun Kang*, ShiliangSu & Binbo Li (09 Feb 2024): TransMI: a transfer-learning method for generalized map information evaluation, Cartography and Geographic Information Science, DOI:10.1080/15230406.2024.2306827\n3.  Haojie Cao, Yu Li, Min Weng, Shiliang Su, Mengjun Kang*. Deciphering the evolving trajectories of China's megaregions from 1992 to 2020: A novel morphological approach based on global land cover products.  Applied Geography. https://doi.org/10.1016/j.apgeog.2024.103205.\n4.  Liu, C., He, X., Su, S., & Kang, M. (2023). A graph-based method for Chinese address matching. Transactions in GIS, 00, 1–18. https://doi.org/10.1111/tgis.13055\n2022年\n1. 亢孟军，曹浩杰，苏世亮，翁敏，王明军 .一种优化的自然语言空间查询转换模型 [J] .测绘科学，2022，47(7):194-200.\n2. Haojie Cao, Miao Wang, Shiliang Su, Mengjun Kang*. Explicit quantification of coastal cultural ecosystem services: A novel approach based on the content and sentimental analysis of social media, Ecological Indicator, 2022, 137(108756), doi: https://doi.org/10.1016/j.ecolind.2022.108756.\n3. Mengjun Kang, Yue Liu, Mengqi Wang, Lin Li & Min Weng (2022) A random forest classifier with cost-sensitive learning to extract urban landmarks from an imbalanced dataset, International Journal of Geographical Information Science, 36:3, 496-513, DOI: 10.1080/13658816.2021.1977814.\n4. Shiliang Su, Chong Zhao, Hao Zhou, Bozhao Li, Mengjun Kang*, Unraveling the relative contribution of TOD structural factors to metro ridership: A novel localized modeling approach with implications on spatial planning, Journal of Transport Geography, doi: https://doi.org/10.1016/j.jtrangeo.2022.103308.\n5. Zixun Han, Lingqi Wang, Jiangyue Zhang, Min Weng, Mengjun Kang*. Map Design for Public Health Emergencies: a Novel Conceptual Framework for Thematic Content Selection. Journal of Geovisualization and Spatial Analysis. DOI: https://doi.org/10.1007/s41651-021-00092-9.\n6. Mengjun Kang, Yunlong Ma, Qingyun Du, Min Weng*. An improved GPU-Based Parallel Computing method for landscape index calculation in urban area. Photogrammetric Engineering & Remote Sensing, Vol.87, No.2, February 2021, pp. 125-132. doi: 10.14358/PERS.87.2.125.\n7. Shiliang Su, Shenjing He, Chenxi Sun, Hui Zhang, Lirong Hu, Mengjun Kang*, Do landscape amenities impact private housing rental prices? A hierarchical hedonic modeling approach based on semantic and sentimental analysis of online housing advertisements across five Chinese megacities, Urban Forestry & Urban Greening, Volume 58, 2021, 126968, ISSN 1618-8667, https://doi.org/10.1016/j.ufug.2020.126968.\n8. 亢孟军, 徐召硕, 朱军,等. 一种数据驱动的专题地图自动编制方法[J]. 测绘科学, 2021, 46(11):6.\n9. Lin Y, Kang M*, Wu Y, et al. A deep learning architecture for semantic address matching[J]. International Journal of Geographical Information Science, 2020, 34(3): 559-576.\n10. Bozhao Li, Zhongliang Cai*, Mengjun Kang*, et al. A trajectory restoration algorithm for low-sampling-rate floating car data and complex urban road networks [J]. International Journal of Geographical Information Science, 2020, doi: https://doi.org/10.1080/13658816.2020.1825721.\n11. Min Weng, Xiaoyan Song, Lingqi Wang, Huan Xie, Ping Zhang, Shiliang Su & Mengjun Kang*.  (2020) A tourist map of Xi’an: combining historical city characteristics with art, Journal of Maps, 16:1, 195-202, DOI: 10.1080/17445647.2020.1837269.\n12. Shiliang Su, Jiangyue Zhang, Shenjing He, Hui Zhang, Lirong Hu, Mengjun Kang*, Unraveling the impact of TOD on housing rental prices and implications on spatial planning: A comparative analysis of five Chinese megacities, Habitat International, Volume 107, 2021.\n13. Luo L, Kang M*, Guo J, et al. Spatiotemporal pattern analysis of potential light seine fishing areas in the East China sea using VIIRS day/night band imagery[J]. International Journal of Remote Sensing, 2019, 40(4): 1460-1480.\n14. Lin Y, Cai Y, Gong Y, Kang M*. Extracting urban landmarks from geographical datasets using a random forests classifier[J]. International Journal of Geographical Information Science, 2019, 33(12): 2406-2423.\n15. Lin, Y., Kang, M*. and He, B. Spatial pattern analysis of address quality: A study on the impact of rapid urban expansion in China, Environment and Planning B: Urban Analytics and City Science.2019, doi: 10.1177/2399808319895272.\n16. 亢孟军, 杜清运, 王明军. 地址树模型的中文地址提取方法[J]. 测绘学报, 2015(01):99-107.\n工作经历\n2017.10 -- 至今\n武汉大学\n资源与环境科学学院\n副教授\n2011.9 -- 2013.9\n武汉大学\n资源与环境科学学院\n博士后\n2013.9 -- 2017.10\n武汉大学\n资源与环境科学学院\n讲师\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "yinzhenping",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yinzhenping/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "殷振平",
+    "english_name": "",
+    "title": [
+      "特聘副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "遥感信息科学与技术",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "空间物理学",
+        "school": "武汉大学",
+        "period": "2014.9 -- 2021.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "电子信息科学与技术",
+        "school": "武汉大学",
+        "period": "2010.9 -- 2014.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "《遥测遥控》期刊青年编委",
+      "Remote Sensing客座编辑",
+      "ACP、AE、OE等十余个期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "大气探测技术",
+      "大气激光雷达",
+      "大气遥感反演算法",
+      "云-气溶胶相互作用"
+    ],
+    "research_interests": [
+      "激光遥感技术",
+      "气象监测",
+      "气溶胶微物理特性",
+      "云相态影响",
+      "异质核化",
+      "温湿度激光雷达",
+      "能见度激光雷达",
+      "无人机原位探测",
+      "量子激光雷达"
+    ],
+    "research_description": "殷振平博士主要从事大气探测技术、大气激光雷达、大气遥感反演算法及云-气溶胶相互作用等方向的研究。重点开展高精度参考激光雷达、极小盲区能见度激光雷达、近红外气象探测量子激光雷达等新型激光雷达技术研发，发展PollyNET Processing Chain、激光-毫米波复合云参数反演算法、气溶胶微物理特性反演算法等先进反演方法，探索亚洲沙尘异质核化特性及人为气溶胶对云层相态的影响，推动激光遥感技术在气象监测业务中的应用。",
+    "disciplines": [
+      "遥感科学与技术",
+      "大气科学",
+      "电子信息工程",
+      "空间物理学"
+    ],
+    "field_tags": [
+      "激光雷达",
+      "大气遥感",
+      "云-气溶胶相互作用",
+      "反演算法",
+      "气象探测",
+      "量子激光雷达",
+      "无人机探测",
+      "气溶胶",
+      "温湿度探测",
+      "能见度监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "小盲区低空气象探测拉曼激光雷达技术研究",
+        "keywords": [
+          "拉曼激光雷达",
+          "气象探测",
+          "盲区优化",
+          "大气温湿度探测"
+        ],
+        "journal_name": "IEEE TGRS",
+        "research_fields": [
+          "大气激光雷达",
+          "大气遥感反演算法",
+          "气象监测"
+        ],
+        "publication_year": 2026
+      },
+      {
+        "title": "基于激光雷达遥感和无人机原位探测的人为气溶胶异质核化过程研究",
+        "keywords": [
+          "气溶胶异质核化",
+          "激光雷达",
+          "无人机探测",
+          "人为气溶胶"
+        ],
+        "journal_name": "ACP",
+        "research_fields": [
+          "云-气溶胶相互作用",
+          "大气探测技术",
+          "气溶胶微物理"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "大气激光雷达产品加工与可信度评估算法研究",
+        "keywords": [
+          "激光雷达产品",
+          "可信度评估",
+          "反演算法",
+          "数据处理"
+        ],
+        "journal_name": "AMT",
+        "research_fields": [
+          "大气遥感反演算法",
+          "激光雷达数据处理",
+          "算法验证"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "近红外气象探测量子激光雷达技术研发",
+        "keywords": [
+          "量子激光雷达",
+          "近红外探测",
+          "气象探测",
+          "技术开发"
+        ],
+        "journal_name": "AE",
+        "research_fields": [
+          "激光雷达技术",
+          "量子探测",
+          "气象应用"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "涡旋光xx样机研发",
+        "keywords": [
+          "涡旋光",
+          "激光雷达样机",
+          "光学技术",
+          "探测系统"
+        ],
+        "journal_name": "OE",
+        "research_fields": [
+          "激光遥感技术",
+          "光学系统设计",
+          "探测设备研发"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Zhenping-Yin"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划子课题",
+      "中国气象局科技项目",
+      "校企合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委",
+      "中国气象局科技与气候变化司",
+      "国家重点研发计划"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "junior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 殷振平\n页面链接: http://jszy.whu.edu.cn/yinzhenping/zh_CN/index.htm\n==================================================\n武汉大学 殷振平--中文主页--首页\n殷振平\n硕士生导师\n性别：男\n出生日期：1992-07-07\n毕业院校：武汉大学\n学历：博士研究生毕业\n在职信息：在职\n所在单位：遥感信息工程学院\n入职时间： 2024-08-01\n办公地点：武汉大学信息学部宇航科学与技术研究院\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n博士，特聘副研究员，电子邮箱：zp.yin@whu.edu.cn\n2021年于武汉大学电子信息学院获理学博士学位，同年在武汉大学遥感信息工程学院（宇航科学与技术研究院）激光遥感团队开展科研工作。主持国家自然科学基金、国家重点研发计划子课题、中国气象局科技项目，其他校企合作项目若干。担任中国气象局气象探测中心气象激光雷达观测技术创新团队首席。在IEEE TGRS、ACP、AMT、AE和OE等期刊发表学术论文50余篇，授权国家发明专利10余项。担任《遥测遥控》期刊青年编委、Remote Sensing客座编辑和ACP、AE、OE等十余个期刊审稿人。\n个人学术主页：https://www.researchgate.net/profile/Zhenping-Yin\n研究方向：大气探测技术，大气激光雷达，大气遥感反演算法和云-气溶胶相互作用，探索激光遥感技术在气象监测业务中的应用。\n大气激光雷达技术：大气温湿度激光雷达、高精度参考激光雷达和极小盲区能见度激光雷达等；\n大气遥感反演算法：PollyNET Processing Chain、激光-毫米波复合云参数反演算法、气溶胶微物理特性反演算法等；\n云=气溶胶相互作用：亚洲沙尘异质核化特性研究、人为气溶胶对云层相态影响等\n科研项目：\n小盲区低空气象探测拉曼激光雷达技术研究，国家自然科学基金委，面上项目（项目号：42575141），2026-2029，主持\n基于激光雷达遥感和无人机原位探测的人为气溶胶异质核化过程研究，国家自然科学基金委，青年项目（项目号：42205130），2023-2025，主持\n大气激光雷达产品加工与可信度评估算法研究，重点研发计划子课题（课题号：2023YFC3007802），2024-2026，主持\n近红外气象探测量子激光雷达技术研发，中国气象局科技与气候变化司（项目号：CMAJBGS202501），2024-2025，主持\n涡旋光xx样机研发，xx，700万元，2025-2026，主持\n研究团队：激光遥感课题组，团队负责人为王宣教授（千人）和Detlef Mueller教授（长江讲席教授），团队有多位认真负责的年轻老师和众多硕博士，团队氛围开放、包容、自由。\n欢迎有志之士报考，招生专业如下：\n学硕：遥感科学与技术；\n专硕：资源与环境。\n（要求熟悉至少1种编程语言，富有责任心、性格开朗乐观为加分项）\n教育经历\n2014.9 -- 2021.6\n武汉大学\n空间物理学\n理学博士学位\n博士研究生毕业\n2010.9 -- 2014.6\n武汉大学\n电子信息科学与技术\n工学学士学位\n大学本科毕业\n工作经历\n2021.8 -- 2024.7\n武汉大学\n遥感信息科学与技术\n博士后\n研究方向\n大气激光雷达技术研究\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

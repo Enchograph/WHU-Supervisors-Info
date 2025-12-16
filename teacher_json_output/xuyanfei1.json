@@ -1,0 +1,221 @@
+{
+  "id": "xuyanfei1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xuyanfei1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "徐艳飞",
+    "english_name": "Xu Yanfei",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "能源化学工程系",
+    "college": "动力与机械学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "工业催化",
+        "school": "武汉大学",
+        "period": "2017.9-2022.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "化学工程",
+        "school": "武汉大学",
+        "period": "2013.9-2017.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国催化新秀奖,2025",
+      "中国化学会京博优秀博士论文铜奖,2022"
+    ],
+    "academic_services": [
+      "《低碳化学与化工》青年编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "合成气催化转化",
+      "费托合成催化剂设计",
+      "烃类产物定向调控",
+      "CO2高效抑制与减排",
+      "疏水催化剂开发"
+    ],
+    "research_interests": [
+      "合成气转化",
+      "费托合成",
+      "烯烃选择性制备",
+      "高辛烷值汽油生产",
+      "芳烃合成",
+      "碳化铁-酸中心协同催化",
+      "中空分子筛微环境调控",
+      "水煤气变换反应调控",
+      "疏水表面工程",
+      "低碳催化转化"
+    ],
+    "research_description": "徐艳飞教授长期致力于合成气催化转化研究，聚焦于烃类产物的定向调控与副产物CO2的高效抑制。提出疏水表面调控水煤气变换反应的新思路，开拓了疏水费托合成催化剂新体系，揭示了疏水表面对CO2的抑制机理，实现了合成气转化过程中的CO2高效减排。通过调控铁基催化剂的电子结构与物相组成，发展了中空分子筛微环境调控方法，提出‘碳化铁-酸中心’双活性位协同强化策略，成功实现合成气选择性制取烯烃、高辛烷值汽油和芳烃。研究成果发表于Science、Chem. Soc. Rev.、Nat. Commun.、Angew. Chem. Int. Ed.等顶级期刊，主持国家自然科学基金、国家重点研发计划等10余项科研项目。",
+    "disciplines": [
+      "化学工程",
+      "工业催化",
+      "能源化学工程",
+      "材料科学与工程"
+    ],
+    "field_tags": [
+      "合成气转化",
+      "费托合成",
+      "催化剂设计",
+      "CO2减排",
+      "疏水催化",
+      "烯烃选择性",
+      "高辛烷值汽油",
+      "芳烃合成",
+      "双活性位协同",
+      "中空分子筛"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "A hydrophobic FeMn@Si catalyst increases olefins from syngas by suppressing C1 by-products",
+        "keywords": [
+          "合成气转化",
+          "疏水催化剂",
+          "烯烃选择性",
+          "CO2减排",
+          "水煤气变换反应"
+        ],
+        "journal_name": "Science",
+        "research_fields": [
+          "工业催化",
+          "能源化学",
+          "多相催化"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Improving catalysis by moving water",
+        "keywords": [
+          "水调控催化",
+          "催化剂表面性质",
+          "反应机理",
+          "催化效率"
+        ],
+        "journal_name": "Science",
+        "research_fields": [
+          "催化科学",
+          "材料化学",
+          "反应工程"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Development of hydrophobic catalysts for reducing the CO2 emission during the conversion of syngas into chemicals and fuels",
+        "keywords": [
+          "疏水催化剂",
+          "CO2减排",
+          "合成气转化",
+          "可持续催化",
+          "绿色化学"
+        ],
+        "journal_name": "Chemical Society Reviews",
+        "research_fields": [
+          "绿色催化",
+          "碳减排技术",
+          "能源转化"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Effects of surface hydrophobization on the phase evolution behavior of iron-based catalyst during Fischer–Tropsch synthesis",
+        "keywords": [
+          "铁基催化剂",
+          "疏水化",
+          "相变行为",
+          "费托合成",
+          "催化剂稳定性"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "多相催化",
+          "材料科学",
+          "反应机理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Insights into the diffusion behaviors of water over hydrophilic/hydrophobic catalysts during the conversion of syngas to high-quality gasoline",
+        "keywords": [
+          "水扩散行为",
+          "亲水/疏水催化剂",
+          "合成气制汽油",
+          "反应动力学",
+          "催化剂设计"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "催化反应动力学",
+          "表面科学",
+          "能源催化"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xuyanfei1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年科学基金项目",
+      "国家重点研发计划子课题",
+      "中国博士后科学基金博士后创新人才支持计划",
+      "中国博士后科学基金面上资助",
+      "湖北省自然科学基金",
+      "江苏省自然科学基金",
+      "全国重点实验室开放课题",
+      "中央高校基本科研业务费"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家重点研发计划",
+      "中国博士后科学基金会",
+      "湖北省科学技术厅",
+      "江苏省科学技术厅",
+      "煤液化气化及高效低碳利用全国重点实验室",
+      "煤炭高效低碳利用全国重点实验室",
+      "中央高校"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 徐艳飞\n页面链接: http://jszy.whu.edu.cn/xuyanfei1/zh_CN/index.htm\n==================================================\n武汉大学 徐艳飞--武汉大学徐艳飞--首页\n访问量：\n最后更新时间：--\n首页\n科研\n教学\n招生\n徐艳飞\n博士生导师\n硕士生导师\n教师姓名：徐艳飞\n教师拼音名称：Xu Yanfei\n电子邮箱：\n在职信息：在职\n毕业院校：武汉大学\n所属院系：动力与机械学院\n学科：工业催化\n同专业博导\n同专业硕导\n其他联系方式\n邮编：\n通讯/办公地址：\n邮箱：\n个人简介\n徐艳飞，教授、博士生导师，中国博士后创新人才支持计划、小米青年学者、湖北省“楚天学者”高层次人才计划。\n长期从事合成气催化转化的研究工作，聚焦于烃类产物的定向调控、副产物CO2的高效抑制：提出了疏水表面调控水煤气变换反应的新思路，开拓了疏水费托合成催化剂新体系，揭示了疏水表面对副产物CO2的抑制机理，实现了合成气转化过程中CO2的高效减排；阐明了铁基费托合成催化剂活性金属电子结构和物相组成的调节机制，发展了中空分子筛微环境调控的新方法，提出了“碳化铁-酸中心”双活性位协同强化的新策略，实现了合成气选择性制取烯烃、高辛烷值汽油、芳烃。\n以第一/通讯作者在Science、Chem. Soc. Rev.、Chem、Nat. Commun.、Angew. Chem. Int. Ed.等期刊发表论文20余篇，研究成果被Science、科学通报、国家自然科学基金委员会官网进行亮点报道。主持国家自然科学基金（面上项目、青年科学基金）、国家重点研发计划子课题等科研项目10余项。\n※ 代表性论文（*通讯作者，#共同一作）\n[1] Yanfei Xu, Xiangyang Li, Junhu Gao, Jie Wang, Guangyuan Ma, Xiaodong Wen, Yong Yang, Yongwang Li, Mingyue Ding*. A hydrophobic FeMn@Si catalyst increases olefins from syngas by suppressing C1 by-products. Science 2021, 371, 610−613. (中科院一区Top, IF=44.8, 唯一第一作者, 发表以来连续4年入选ESI高被引论文)\n[2] Mingyue Ding, Yanfei Xu. Improving catalysis by moving water. Science 2022, 377, 369−370. (中科院一区Top, IF=44.8, Science编辑邀请撰写的Perspective)\n[3] Yanfei Xu*, Mingyue Ding*. Development of hydrophobic catalysts for reducing the CO2 emission during the conversion of syngas into chemicals and fuels. Chemical Society Reviews 2025, 54, 2881−2905. (中科院一区Top, IF=40.4)\n[4] Yanfei Xu*, Zhenxuan Zhang, Ke Wu, Jungang Wang, Bo Hou, Ruoting Shan, Ling Li, Mingyue Ding*. Effects of surface hydrophobization on the phase evolution behavior of iron-based catalyst during Fischer–Tropsch synthesis. Nature Communications 2024, 15, 7099. (中科院一区Top, IF=14.7)\n[5] Yanfei Xu#,*, Heng Liang#, Rui Li, Zhenxuan Zhang, Chuan Qin, Di Xu, Haifeng Fan, Bo Hou, Jungang Wang, Xiang-Kui Gu*, Mingyue Ding*. Insights into the diffusion behaviors of water over hydrophilic/hydrophobic catalysts during the conversion of syngas to high-quality gasoline. Angew. Chem. Int. Ed. 2023, 62, e202306786. (中科院一区Top, IF=16.1)\n[6] Yanfei Xu, Xiangyang Li, Mingyue Ding*. Techno-economic analysis of olefin production based on Fischer-Tropsch synthesis. Chem 2021, 7, 1977−1980. (中科院一区Top, IF=19.1)\n[7] Qiuchan Li#, Qi Wang#, Yubin Zeng, Yanfei Xu*, Xiang-Kui Gu*, Mingyue Ding*. Ag–Pt alloy nanoparticles modified Zn‐based nanosheets for highly selective CO2 photoreduction to CH4. Advanced Functional Materials 2025, 35, 2416975. (中科院一区Top, IF=18.5)\n[8] Ke Wu, Zhenxuan Zhang, Ruoting Shan, Ling Li, Jungang Wang, Bo Hou, Yanfei Xu*, Mingyue Ding*. Encapsulating Fischer-Tropsch synthesis catalyst with porous graphite-carbon enables ultrahigh activity for syngas to α-olefins. Applied Catalysis B: Environment and Energy 2024, 353, 124067. (中科院一区Top, IF=20.3)\n[9] Yanfei Xu, Guangyuan Ma, Jingyang Bai, Yixiong Du, Chuan Qin, Mingyue Ding*. Yolk@shell FeMn@hollow HZSM-5 nanoreactor for directly converting syngas to aromatics. ACS Catalysis 2021, 11, 4476−4485. (中科院一区Top, IF=11.7)\n[10] Yanfei Xu#, Jingge Liu#, Jie Wang, Guangyuan Ma, Jianghui Lin, Yong Yang, Yongwang Li, Chenghua Zhang*, Mingyue Ding*. Selective conversion of syngas to aromatics over Fe3O4@MnO2 and hollow HZSM-5 bifunctional catalysts. ACS Catalysis 2019, 9, 5147−5156. (中科院一区Top, IF=11.7)\n[11] Ling Li#, Zhenxuan Zhang#, Yuhan Peng#, Bowen Zhang, Hao Sun, Zhenzhan Zhang, Qiwen Sun*, Yanfei Xu*, Mingyue Ding*. Constructing Mn-encapsulated Fischer–Tropsch synthesis catalyst to boost the production of heavy olefins from syngas. Journal of Catalysis 2026, 454, 116622. (中科院一区Top, IF=6.5)\n[12] Sen Yang#(本科生), Jie He#(本科生), Kang Zhao#(本科生), Rui Li, Ling Li, Yanfei Xu*. Selectively switching the hydrocarbon distribution during syngas conversion via controlling the hydrogenation process. Ind. Eng. Chem. Res. 2025, 64, 10796−10804. (化工三大刊)\n※ 科研项目\n[1] 国家自然科学基金面上项目，生物质气制取高品质汽油催化剂的应用基础研究，2024~2027，主持\n[2] 国家自然科学基金青年科学基金项目，疏水FexC基催化剂上合成气向C4~C16线性α-烯烃的低碳、定向转化机制，2024~2026，主持\n[3] 国家重点研发计划，低CO2排放的新型煤炭间接液化成套技术开发，2022~2026，子课题主持\n[4] 中国博士后科学基金博士后创新人才支持计划，2022~2024，主持\n[5] 中国博士后科学基金面上资助，2023~2024，主持\n[6] 湖北省自然科学基金，2023~2025，主持\n[7] 江苏省自然科学基金，2023~2026，主持\n[8] 煤液化气化及高效低碳利用全国重点实验室开放课题，2025~2027，主持\n[9] 煤炭高效低碳利用全国重点实验室开放课题，2023~2024，主持\n[10] 湖北省博士后创新研究岗位，2023~2024，主持\n[11] 武汉市“曙光计划”，2023~2025，主持\n[12] 中央高校基本科研业务费，2023~2024，主持\n教育经历\n[1] 2017.9-2022.6\n武汉大学\n> 工业催化\n> 工学博士学位\n> 博士研究生毕业\n[2] 2013.9-2017.6\n武汉大学\n> 化学工程\n> 工学学士学位\n> 大学本科\n工作经历\n[1] 2025.9-2025.11\n武汉大学\n> 能源化学工程系\n> 副教授\n[2] 2022.9-2025.8\n武汉大学\n> 能源化学工程系\n> 特聘副研究员\n社会兼职\n[1] 2025.11-2025.11\n《低碳化学与化工》青年编委\n曾获荣誉：\n（1）中国催化新秀奖,2025（2）中国化学会京博优秀博士论文铜奖,2022\n学术荣誉：\n暂无内容\n研究方向\n（1）工业催化\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

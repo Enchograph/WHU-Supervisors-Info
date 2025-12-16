@@ -1,0 +1,264 @@
+{
+  "id": "leiweng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/leiweng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "翁磊",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "岩土工程",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "岩土工程",
+        "school": "中南大学",
+        "period": "2012.09 - 2016.12",
+        "country": "中国"
+      },
+      {
+        "degree": "联培博士",
+        "field": "岩土工程",
+        "school": "The University of Adelaide",
+        "period": "2015.09 - 2016.10",
+        "country": "澳大利亚"
+      },
+      {
+        "degree": "本/硕",
+        "field": "土木工程",
+        "school": "武汉理工大学",
+        "period": "2005.09 - 2012.06",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中南大学",
+    "academic_honors": [
+      "教育部“长江学者奖励计划”青年学者",
+      "湖北省楚天学者",
+      "斯坦福大学全球前2%顶尖科学家（2024年、2025年）",
+      "中国知网高被引学者TOP1%（2024年）",
+      "重庆市科技进步一等奖",
+      "中国岩石力学与工程学会自然科学奖一等奖",
+      "西藏自治区科技进步奖一等奖",
+      "湖南省自然科学奖二等奖",
+      "湖南省自然科学奖三等奖",
+      "中国黄金协会科技奖",
+      "《中南大学学报》（自然科学版）优秀审稿专家（2024年）",
+      "第八届青年岩石力学与岩土工程创新创业大赛二等奖",
+      "首届湖北省博士后创新创业大赛优胜奖",
+      "湖北省‘优秀博士后’称号"
+    ],
+    "academic_services": [
+      "中国岩石力学与工程学会国际事务处副秘书长",
+      "中国岩石力学与工程学会岩石破碎工程专委会委员",
+      "中国岩石力学与工程学会青年工作委员会委员",
+      "中国岩石力学与工程学会工程安全与防护分会理事",
+      "中国岩石力学与工程学会红层工程分会理事",
+      "中国岩石力学与工程学会岩石动力学专委会委员",
+      "中国岩石力学与工程学会露天开采与边坡工程专委会委员",
+      "湖北省地下工程学会理事",
+      "湖北省岩石力学与工程学会理事",
+      "国际岩石力学学会会员(ISRM Membership)",
+      "美国土木工程师协会会员(ASCE Membership)",
+      "SCI期刊Scientific Report编委",
+      "SCI期刊International Journal of Mining Science and Technology青年编委（2023年、2024年优秀青年编委）",
+      "SCI期刊International Journal of Coal Science and Technology科学编辑",
+      "《岩石力学与工程学报》青年编委",
+      "《应用力学学报》青年编委（2022年优秀青年编委）",
+      "SCI期刊Shock and Vibration编委",
+      "EI/ESCI期刊Geotechnical and Geological Engineering编委",
+      "SCI期刊Advances in Civil Engineering编委",
+      "卓越行动计划高起点新期刊Rock Mechanics Bulletin青年编委",
+      "《地质科技通报》青年编委",
+      "2025（第十五届）矿业科学技术大会-深部开采与灾害控制专题论坛组委会秘书长",
+      "2023（第十三届）矿业科学技术大会学术委员会副秘书长"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "深部岩体多尺度破裂机理",
+      "岩体多场耦合本构模型与仿真方法",
+      "深部工程灾害控制理论与技术",
+      "冻融循环下岩石动力学特性",
+      "岩土工程性态泛在感知与预测控制"
+    ],
+    "research_interests": [
+      "冻结岩石力学",
+      "岩石动力学",
+      "多场耦合多尺度岩体力学",
+      "岩土工程智能建养",
+      "深部工程灾害预测与控制"
+    ],
+    "research_description": "长期从事深部岩体多尺度破裂机理与工程灾害控制研究，聚焦岩石细观破裂表征、岩体多尺度破裂演化、深部工程灾害控制机制等关键科学问题，服务于矿山与隧道工程安全，研究成果应用于山东玲珑金矿、三山岛金矿、新疆特克斯隧道等重大工程，主持国家自然科学基金、国家重点研发计划等项目10余项，在IJRMMS、RMRE、TUST等权威期刊发表SCI论文35篇，入选ESI高被引论文4篇，H指数32。",
+    "disciplines": [
+      "岩土工程",
+      "岩石力学",
+      "地下工程",
+      "采矿工程",
+      "地质工程"
+    ],
+    "field_tags": [
+      "深部工程",
+      "岩体破裂",
+      "多尺度模拟",
+      "冻融循环",
+      "智能监测",
+      "注浆加固",
+      "岩爆预测",
+      "数值模拟",
+      "FDEM",
+      "核磁共振"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Dynamic mechanical responses and cracking resistance effect of prestressed rockbolt subjected to impact loading",
+        "keywords": [
+          "预应力锚杆",
+          "冲击加载",
+          "动态力学响应",
+          "裂纹抗性"
+        ],
+        "journal_name": "International Journal of Rock Mechanics and Mining Sciences",
+        "research_fields": [
+          "岩石力学",
+          "岩体工程灾害控制"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Mixed-mode I/II fracture and crack propagation characteristics of granite after thermal shock cycles: An integrated DIC and CPG investigation",
+        "keywords": [
+          "热冲击循环",
+          "混合模式I/II断裂",
+          "裂纹扩展",
+          "数字图像相关"
+        ],
+        "journal_name": "Engineering Fracture Mechanics",
+        "research_fields": [
+          "岩石动力学",
+          "断裂力学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Experimental investigation on the grout flow and plugging behaviour in wide-aperture water-conducting inclined fracture network",
+        "keywords": [
+          "注浆扩散",
+          "宽缝导水裂隙",
+          "封堵行为",
+          "试验研究"
+        ],
+        "journal_name": "Tunnelling & Underground Space Technology",
+        "research_fields": [
+          "地下工程",
+          "注浆加固"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Unraveling the shear behaviors of bonding interface for post-grouted sandstones considering the temperature and confining pressure effects",
+        "keywords": [
+          "后注浆砂岩",
+          "界面剪切行为",
+          "温度效应",
+          "围压影响"
+        ],
+        "journal_name": "Journal of Materials Research and Technology",
+        "research_fields": [
+          "岩土材料界面力学",
+          "注浆工程"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Heterogeneous frost deformation of partially-saturated sandstones due to the freeze-thaw cycle",
+        "keywords": [
+          "冻融循环",
+          "部分饱和砂岩",
+          "非均质冻胀变形",
+          "冻害机理"
+        ],
+        "journal_name": "Rock Mechanics and Rock Engineering",
+        "research_fields": [
+          "冻土力学",
+          "岩石冻融损伤"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0002-2981-5110"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Lei-Weng-2"
+      },
+      {
+        "platform": "Web of Science",
+        "url": "https://webofscience.clarivate.cn/wos/author/record/2089010"
+      },
+      {
+        "platform": "Scopus",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=56425148200"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=zh-TW&user=gqJnBbMAAAAJ"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省自然科学基金",
+      "煤炭开采水资源保护与利用国家重点实验室开放基金项目",
+      "广西防灾减灾与工程安全重点实验室开放基金项目",
+      "矿山灾害预防控制国家重点实验室开放基金项目",
+      "中国博士后基金",
+      "湖北省博士后择优资助项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "湖北省自然科学基金委员会",
+      "煤炭开采水资源保护与利用国家重点实验室",
+      "广西防灾减灾与工程安全重点实验室",
+      "矿山灾害预防控制国家重点实验室",
+      "中国博士后科学基金会",
+      "湖北省博士后管理委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 翁磊\n页面链接: http://jszy.whu.edu.cn/leiweng/zh_CN/index.htm\n==================================================\n武汉大学 翁磊--中文主页--首页\n中文\n翁磊\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n办公地点：武汉大学工学部十教407\n职称：副教授\n所属院系：\n土木建筑工程学院\n学科：\n岩土工程\n个人简介\n个人简介\n长期从事深部岩体多尺度破裂机理与工程灾害控制研究，以“向地球深部进军”、“开发深地资源”、“川藏铁路工程”等国家重大战略需求为导向，围绕“岩石细观破裂表征方法”、“岩体多尺度破裂机理”及“深部工程灾害控制机制”等关键科学问题开展应用基础研究工作。研究成果服务于山东玲珑金矿、三山岛金矿、广西百色林场煤矿等矿山工程，以及多个国家重难点隧道（洞）工程（新疆特克斯隧道、ABH输水隧洞等），为保障深部资源开发和深部工程安全建设提供支持。研究成果获重庆市科技进步一等奖1项，中国岩石力学与工程学会自然科学奖一等奖1项，西藏自治区科技进步奖一等奖1项，湖南省自然科学奖二等奖、三等奖各1项，中国黄金协会科技奖2项。\n主持国家自然科学基金（2项）、国家重点研发计划子课题（2项）、湖北省自然科学基金等纵向项目10余项，参与国家自然科学基金重大/重点项目等8项，在国内外岩石力学与工程地质领域主流权威期刊发表论文100余篇，其中以第一或通讯作者在IJRMMS、RMRE、TUST、EG等期刊发表SCI论文35篇（中科院一区19篇、二区9篇，JCR Q2以上28篇），EI论文11篇，入选ESI高被引论文4篇、热点论文1篇，论文总被引3200余次，单篇最高被引205次，H指数为32，申请/授权发明专利25项，获批软件著作权2项，参编英/中文专著各1部。（数据截至2025年10月）\n入选国家级高层次青年人才计划、湖北省楚天学者、武汉大学弘毅青年学者、斯坦福全球前2%顶尖科学家榜单（2024年、2025年）、中国知网高被引学者TOP1%（2024年），任中国岩石力学与工程学会国际事务处副秘书长、岩石破碎工程专委会委员、青年工作委员会委员、工程安全与防护分会理事、红层工程分会理事、岩石动力学专委会委员、露天开采与边坡工程专委会委员，湖北省地下工程学会理事，湖北省岩石力学与工程学会理事，中科院一区TOP期刊Int. J. Min. Sci. & Techno.青年编委（获评2023年、2024年优秀青年编委）、一区TOP期刊Int. J. Coal Sci. & Techno.科学编辑、Geotech. Geolo. Eng.编委、Rock Mechanics Bulletin青年编委、《岩石力学与工程学报》青年编委、《应用力学学报》青年编委（获评2022年优秀青年编委），SCI期刊Sci. Rep.编委、SCI期刊Adv. Civ. Eng.编委以及SCI期刊Shock Vib.编委，担任TUST, IJRMMS, EG, RMRE, JRMGE, CG, CBM等40多个国内外顶级期刊评审人，年均受邀评审稿件逾百篇。\n欢迎有岩土、采矿、地质等相关专业背景且对科研感兴趣的本科生和硕/博士研究生加入。\n研究兴趣\n(1) 冻结岩石力学、岩石动力学\n(2) 多场耦合多尺度岩体力学\n(3) 岩土工程性态泛在感知与预测控制\n(4) 深部工程灾害控制理论与技术\n(5) 隧道与地下工程智能建养理论与技术\n学术主页\nORCID: https://orcid.org/ 0000-0002-2981-5110\nResearchGate: https://www.researchgate.net/profile/Lei-Weng-2\nWOS: https://webofscience.clarivate.cn/wos/author/record/2089010\nScopus: https://www.scopus.com/authid/detail.uri?authorId=56425148200\nGoogle Scholar: https://scholar.google.com/citations?hl=zh-TW&user=gqJnBbMAAAAJ\n工作经历\n2020.04 至今   副教授，武汉大学，土木建筑工程学院\n2017.04 - 2020.03   重点资助博士后（合作导师：吴志军教授、刘泉声教授），武汉大学，土木建筑工程学院\n教育背景\n2012.09 - 2016.12   博士，中南大学，导师：李夕兵教授\n2015.09 - 2016.10   联培博士，The University of Adelaide，导师：Prof. Abbas Taheri\n2005.09 - 2012.06   本/硕，武汉理工大学，导师：房泽法教授\n受资助的项目\n主持，高聚物-水泥复合浆液动水注浆运移扩散多尺度表征及封堵加固机理研究，国家自然科学基金面上项目（E0808），2023-2026.\n主持，深地交通工程强动载演化规律与多尺度多层次数物融合模拟方法，国家重点研发计划项目课题，子课题负责人，2024-2029.\n主持，超大规模地下洞室群岩体多场耦合本构模型及高效仿真方法，国家重点研发计划项目课题，子课题负责人，2025-2029.\n主持，冻融循环下岩石的动态断裂特性及宏细观力学机理研究，国家自然科学基金青年基金项目（E0404），2021-2023.\n主持，富水裂隙岩体注浆运移-驱替-封堵规律及长期加固机理研究，湖北省自然科学基金一般面上项目，2024-2026.\n主持，深部地热储层裂隙网络渗流-传热特性及采热效果FDEM预测，煤炭开采水资源保护与利用国家重点实验室开放基金项目，2022-2024.\n主持，冲击扰动下时滞型岩爆诱发机制及FDEM预测方法研究，广西防灾减灾与工程安全重点实验室开放基金项目，2022-2024.\n主持，循环热冲击下花岗岩的动力学性能及断裂特性研究，矿山灾害预防控制国家重点实验室开放基金项目，2019-2021.\n主持，考虑初始损伤的岩石动力学特性及能耗机制研究，中国博士后基金面上项目，2017-2019.\n主持，冲击荷载下含初始损伤岩石的能量耗散机制，湖北省博士后择优资助项目一等，2017-2019\n奖励与荣誉\n2024年，教育部“长江学者奖励计划”青年学者\n2022年，湖北省楚天学者\n2024年、2025年，斯坦福大学全球前2%顶尖科学家“年度科学影响力榜单”\n2024年，中国知网高被引学者TOP1%\n2024年，《中南大学学报》（自然科学版）优秀审稿专家（2024年）\n2023年，山地复杂隧道不良地质识别与灾害智能监测-预警-精准防控技术，重庆市科技进步一等奖\n2023年，第八届青年岩石力学与岩土工程创新创业大赛二等奖（1/7）\n2023年，岩石损伤破裂细-宏观机制及连续-非连续数值预测方法，中国岩石力学与工程学会自然科学一等奖（4/5）\n2022年，首届湖北省博士后创新创业大赛优胜奖（2/6）及湖北省“优秀博士后”称号\n2022年，岩体开挖损伤效应及其对围岩破裂的影响机理，湖南省自然科学奖三等奖（2/4）\n2021年，隧道围岩-支护结构变形协调作用分析方法与控制技术，西藏自治区科技进步一等奖（9/15）\n2019年，深部硬岩非常规破坏机理与预测方法，湖南省自然科学奖二等奖（6/6）\n2016年，玲珑金矿花岗岩岩爆倾向性及岩爆发生机制研究，中国黄金协会科技奖三等奖（10/12）\n2014年，采空区内冒落松散岩体的成巷方法与施工技术研究，中国黄金协会科技奖二等奖（6/15）\n代表性论文\n[31] Wu, Q., Xiao, H., Weng, L.*, Yang, Y., Ye, Z., Wang, S., & Tao, M. (2025). Dynamic mechanical responses and cracking resistance effect of prestressed  rockbolt subjected to impact loading, International Journal of Rock Mechanics and Mining Sciences, 195: 106307.\n[30] Weng, L., Wang, J., Wu, Z.*, Guo, Q., Wu, Q., Chu, Z. & Liu, Q. (2025). Mixed-mode I/II fracture and crack propagation characteristics of granite after thermal shock cycles: An integrated DIC and CPG investigation, Engineering Fracture Mechanics, 326: 111390.\n[29] Wu, Z., Wu, L., Weng, L.*, Chu, Z., Yin, X. & Xue, Y. (2025). Experimental investigation on the grout flow and plugging behaviour in wide-aperture water-conducting inclined fracture network, Tunnelling & Underground Space Technology, 164: 106861.\n[28] Zhang, K., Lu, H.*, Zhu, R., Weng, L.*, Zhou, X., Kong, X., Liu, C. & Jiang, Y. (2024). Study on pore structure evolution and water damage of asphalt mixture under cyclic loading, Construction and Building Materials, 440: 137461.\n[27] Weng, L., Zhang, H., Wu, Z.*, Wang, J., Wu, L., Shi, J., Chu, Z., Liu, Q., Ma, S. & Zhang, J. (2024). Unraveling the shear behaviors of bonding interface for post-grouted sandstones considering the temperature and confining pressure effects, Journal of Materials Research and Technology, 30: 4212-4227.\n[26] Wu, Z.*, Wu, Y., Weng, L.*, Li, M., Wang, Z. & Chu, Z. (2024). Machine learning approach to predicting the macro-mechanical properties of rock from the meso-mechanical parameters, Computers and Geotechnics, 166: 105933.\n[25] Weng, L., Zhang, H., Wu, Z., Xu, X.*, Zhang, C., Li, M. & Liu, Q. (2024). Heterogeneous frost deformation of partially-saturated sandstones due to the freeze-thaw cycle, Rock Mechanics and Rock Engineering, 57(1): 61-77.\n[24] Weng, L., Wu, Z.*, Wang, Z., Chu, Z., Xu, X. & Liu, Q. (2023). Acoustic Emission Source Localization in Heterogeneous Rocks with Random Inclusions Using a PRM-Based Wave Velocity Model, Rock Mechanics and Rock Engineering, 56(5): 3301-3315\n[23] Weng, L., Wu, Z., Chu, Z.*, Lu, H.*, Xu, X. & Liu, Q. (2023). Evolution of the Unfrozen Water Content for Partially-Saturated Sandstones and the Critical Degree of Saturation, Rock Mechanics and Rock Engineering, 56: 1-18.\n[22] Weng, L., Wu, Z.*, Zhang, S., Liu, Q. & Chu, Z. (2022). Real-time characterization of the grouting diffusion process in fractured sandstone based on the low-field nuclear magnetic resonance technique, International Journal of Rock Mechanics and Mining Sciences, 152: 105060.\n[21] Liu, Y., Weng, L.* & Chu, Z. (2022). Numerical investigation of rock dynamic fragmentation during rockslides using a coupled 3D FEM-DEM method, Journal of Mountain Science, 19(4): 1051-1069.\n[20] Weng, L., Wu, Z.*, Liu, Q., Chu, Z. & Zhang, S. (2021). Evolutions of the unfrozen water content of saturated sandstones during freezing process and the freeze-induced damage characteristics, International Journal of Rock Mechanics and Mining Sciences, 142: 104757.\n[19] Wu, Q., Weng, L.*, Zhao, Y. & Feng, F. (2021). Influences of the infilling stiffness on the mechanical and fracturing responses of hollow cylindrical sandstone under uniaxial compression tests, Journal of Central South University, 28(8): 2485-2498.\n[18] Weng, L., Wu, Z.* & Liu, Q. (2020). Dynamic mechanical properties of dry and water-saturated siltstones under sub-zero temperatures, Rock Mechanics and Rock Engineering, 53: 4381-7701.\n[17] Wu, Z., Li, M. & Weng, L.* (2020). Thermal-Stress-Aperture Coupled Model for Analyzing the Thermal Failure of Fractured Rock Mass, International Journal of Geomechanics, 20(10): 0001809.\n[16] Weng, L., Wu, Z.*, Taheri, A. & Liu, Q. (2020). Deterioration of dynamic mechanical properties of granite due to freeze-thaw weathering: Considering the effects of moisture conditions, Cold Regions Science and Technology, 176: 103092.\n[15] Weng, L., Wu, Z.* & Liu, Q. (2020). Influence of heating/cooling cycles on the micro/macrocracking characteristics of Rucheng granite under unconfined compression, Bulletin of Engineering Geology and the Environment, 79: 1289-1309.\n[14] Weng, L., Wu, Q.*, Zhao, Y. & Wang, S. (2020). Dynamic Response and Failure of Rock in Initial Gradient Stress Field under Stress Wave Loading, Journal of Central South University, 27: 963-972.\n[13] Weng, L., Wu, Z.*, Liu, Q. & Wang Z. (2019). Energy dissipation and dynamic fragmentation of dry and water-saturated siltstones under sub-zero temperatures, Engineering Fracture Mechanics, 220: 106659.\n[12] Wu, Q., Li, X., Weng, L.*, Li, Q., Zhu, Y., & Luo, R. (2019). Experimental investigation of the dynamic response of prestressed rockbolt by using an SHPB-based rockbolt test system, Tunnelling & Underground Space Technology, 93: 103088.\n[11] Weng, L., Wu, Z.* & Liu, Q. (2019). Numerical Analysis of Degradation Characteristics for Heterogeneous Rock under Coupled Thermomechanical Conditions, International Journal of Geomechanics, 19(10): 04019111.\n[10] Wu, Q., Weng, L.*, Zhao, Y., Guo, B. & Luo, T. (2019) On the tensile mechanical characteristics of fine-grained granite after heating/cooling treatments with different cooling rates. Engineering Geology, 253:94-110. （自2019年发表以来连续6年入选ESI高被引论文）\n[9] Su, C., Wu, Q., Weng, L.* & Chang, Xu. (2019). Experimental investigation of mode I fracture features of steel fiber-reinforced reactive powder concrete using semi-circular bend test, Engineering Fracture Mechanics, 209: 187-199.\n[8] Weng, L., Wu, Z.* & Liu, Q. (2019). Evaluating Damage and Microcracking Behavior of Granite Using NMR Testing under Different Levels of Unconfined Compression, International Journal of Geomechanics, 19(1): 04018186.\n[7] Weng, L., Wu, Z.* & Li, X. (2018) Mesodamage characteristics of rock with a pre-cut opening under combined static-dynamic loads: A nuclear magnetic resonance (NMR) investigation, Rock Mechanics and Rock Engineering, 51(8): 2339-2354.\n[6] Weng, L.*, Li, X., Shang, X.. & Xie, X. (2018). Fracturing Behavior and Failure in Hollowed Granite Rock with Static Compression and Coupled Static–Dynamic Loads, International Journal of Geomechanics, 18(6): 04018045.\n[5] Yang, X., Weng, L.*, & Hu, Z. (2018). Damage Evolution of Rocks under Triaxial Compressions: An NMR Investigation, KSCE Journal of Civil Engineering, 22(8): 2856-2863.\n[4] Weng, L.*, Li, X., Taheri, A., Wu, Q. & Xie, X. (2018) Fracture evolution around a cavity in brittle rock under uniaxial compression and coupled static–dynamic loads, Rock Mechanics and Rock Engineering, 51(2): 531-545.\n[3] Weng, L., Huang, L.*, Taheri, A., & Li, X. (2017) Rockburst characteristics and numerical simulation based on a strain energy density index: a case study of a roadway in Linglong gold mine, China, Tunnelling & Underground Space Technology, 69: 223-232.\n[2] Li, X., & Weng, L.* (2016). Numerical investigation on fracturing behaviors of deep-buried opening under dynamic disturbance, Tunnelling & Underground Space Technology, 54: 61-72.\n[1] Weng, L., Li, X.*, Tao, M., & Wang, S. (2014). Numerical modelling of water-coupling cutting blasting in granite quarry, Transactions of the Institution of Mining & Metallurgy, Section A: Mining Technology, 123(4): 183-192.\n代表性中文论文\n[12] 翁磊，郭强，张皓量，王靖宇，刘泉声，储昭飞 & 吴志军. (2025). 基于核磁共振技术的裂隙砂岩注浆扩散特性研究，中南大学学报（自然科学版），已录用.\n[11] 孙勇成，赵振兴，田益琳，卢槐 & 翁磊*. (2024). 基于核磁共振图像数字化技术的裂隙砂岩渗流规律研究，金属矿山，https://link.cnki.net/urlid/34.1055.td.20240624.1538.004\n[10] 向前，王科，翁磊*，尤伟军，储昭飞 & 李泽宇. (2024). 不同卸载方向下高应力岩石真三轴卸荷力学特性研究, 水文地质工程地质，51(3): 80-89.\n[9] 吴秋红，夏宇浩，赵延林，翁磊*，王世鸣 & 冯淦. (2024). 基于DIC及CPG技术的热冷循环后花岗岩I型断裂特性，煤炭学报，47(7)：3102-3117.\n[8] 吴秋红，夏宇浩，赵延林，翁磊*，杨毅 & 冯淦. (2023). 不同温度及冷却速率下花岗岩动态拉伸力学特性，煤炭学报，48(5): 2179-2193\n[7] 吴志军，张锶浪，翁磊*，刘泉声 & 周原. (2022). 温度和围压影响下裂隙砂岩渗透注浆过程的实时核磁共振试验研究, 岩石力学与工程学报, 41(4): 660-675.\n[6] 翁磊*，张皓量，张勇，储昭飞 & 徐翔宇. (2022). 低温下饱水粉砂岩的动态力学特性及本构模型研究, 应用力学学报, 39(6): 1096-1107.\n[5] 吴志军，方立群，翁磊* & 刘泉声. (2022). 基于TBM掘进性能的岩体分级及可掘性等级感知识别方法, 岩石力学与工程学报, 41(S1): 2684-2699.\n[4] 吴志军，卢槐，翁磊*，刘泉声 & 沈坚强. (2021). 基于核磁共振实时成像技术的裂隙砂岩渗流特性研究, 岩石力学与工程学报, 40(2): 263-275.\n[3] 翁磊*, 李夕兵, 周子龙 & 刘科伟. (2016). 屈曲型岩爆的发生机制及其时效性研究，采矿与安全工程学报, 33(1): 172-178.\n[2] 李夕兵, 翁磊*, 谢晓锋 & 吴秋红. (2015). 动静载荷作用下含孔洞硬岩损伤演化的核磁共振特性试验研究，岩石力学与工程学报，34(10): 1985-1993.\n[1] 翁磊*, 李夕兵, 刘科伟, 黄麟淇 & 徐欣. (2014). 玲珑金矿松散围岩主巷变形破坏机制及支护对策，中国安全科学学报, 24(7): 129-134.\n代表性发明专利\n翁磊，吴志军，吴秋红，罗冉，龚兵文，刘夕奇，储昭飞，刘远景. (2024) 一种无损检测水泥浆液水化程度的方法，CN202411813763.8\n翁磊，张皓量，吴志军，储昭飞，徐翔宇，刘泉声. (2024) 一种岩石冻结高度检测方法，CN202410685189.6\n刘远景，翁磊，吴志军，党修哲，张博，任荣，储昭飞，陈鹤，李泽宇，刘泉声. (2025) 一种考虑浆‑岩耦合效应的非稳态浆液扩散过程模拟方法及系统，CN202510664018.X\n蒲华林，刘夕奇，翁磊，王卫光，储昭飞，安关峰，胡荣，杨俊超，赵康定. (2025) 一种基于视觉识别的隧洞围岩变形监测系统及方法，ZL 2024 1 1892125.X\n吴志军，马梁，翁磊，罗冉，储昭飞，刘夕奇，刘泉声. (2025)  注浆材料封堵效果的分析方法及装置，ZL 2025 1 0937751.4\n吴志军，翁磊，吴龙骥，储昭飞，徐翔宇. (2024) 多场耦合下裂隙岩体动水注浆效果测试系统及测试方法，CN202410688101.6\n陈鹤，翁磊，吴志军. (2024) 一种可变开度裂隙模型及脉冲注浆试验平台及试验方法，CN202410669729.1\n翁磊，吴志军，张皓量，殷修梁，吴龙骥，徐翔宇，刘泉声. (2023) 可变倾角裂隙网格岩体动水注浆试验系统及试验方法，CN202311026170.2\n翁磊，吴志军，刘泉声，马梁，储昭飞，张皓量. (2022)  微流控动水注浆可视化试验系统与试验方法，CN202211554192.1\n吴志军，吴龙骥，翁磊，刘泉声，徐翔宇，储昭飞. (2022) 一种高聚物改性水泥动水注浆材料及其制备方法，CN202311401005.0\n翁磊，吴秋红，吴志军，夏雨浩，储昭飞，杨毅，张皓量. (2022) 深部梯度应力环境下预应力锚杆动态力学性能试验装置及方法，CN202310018759.1\n吴志军，张锶浪，翁磊. (2021) 裂隙岩心渗透注浆充填效果检测方法及系统. ZL 2021 1 0158131.2 已授权.\n翁磊，吴志军，储昭飞. (2020) 饱和冻结岩石未冻束缚水和未冻自由水含量的获取方法. ZL 2020 1 1359954. 3 已授权.\n吴志军，王智洋，翁磊. (2020) 非均质岩石波速场的获取方法. ZL 2020 1 1448942.8 已授权.\n吴志军，卢槐，张波，翁磊. (2018) 一种增强3D打印类岩石材料强度及改善其力学性能的方法. ZL 2018 1 1204291.0 已授权.\n吴志军，刘洋，刘泉声，张波，翁磊，马亮亮，于方正. (2019) 一种用于岩石或者混凝土试件的冲击试验装置及试验方法，CN201910014195.8.\n学术组织任职\n中国岩石力学与工程学会国际事务处副秘书长，2023-.\n中国土木工程学会隧道及地下工程分会理事，2024-.\n中国岩石力学与工程学会岩石动力学专委会委员，2025-.\n中国岩石力学与工程学会岩石破碎工程专委会委员，2019-.\n中国岩石力学与工程学会青年工作委员会委员，2023-.\n中国岩石力学与工程学会工程安全与防护分会理事，2023-.\n中国岩石力学与工程学会红层工程分会理事，2023-.\n中国岩石力学与工程学会露天开采与边坡工程专委会委员，2022-.\n2025（第十五届）矿业科学技术大会-深部开采与灾害控制专题论坛组委会秘书长，2025.\n2023（第十三届）矿业科学技术大会学术委员会副秘书长，2023.\n湖北省岩石力学与工程学会理事，2025-.\n湖北省地下工程学会理事，2023-.\n国际岩石力学学会会员(ISRM Membership)，2018-.\n美国土木工程师协会会员(ASCE Membership)，2018-.\n学术期刊任职\nSCI期刊Scientific Report编委，2025-.\nSCI期刊International Journal of Mining Science and Technology青年编委（连续获评2023年、2024年优秀青年编委），2020-.\nSCI期刊International Journal of Coal Science and Technology学术编辑，2021-.\n《岩石力学与工程学报》青年编委，2025-.\n《应用力学学报》青年编委（获评2022年优秀青年编委），2022-.\nSCI期刊Shock and Vibration编委，2023-.\nEI/ESCI期刊Geotechnical and Geological Engineering编委，2023-.\nSCI期刊Advances in Civil Engineering编委，2021-.\n卓越行动计划高起点新期刊Rock Mechanics Bulletin青年编委，2023-.\n《地质科技通报》青年编委，2025-.\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

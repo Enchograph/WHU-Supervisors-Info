@@ -1,0 +1,218 @@
+{
+  "id": "xuyanqing",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xuyanqing/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "许艳青",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地图制图学与地理信息工程",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地理学",
+        "school": "美国路易斯安那州立大学",
+        "period": "2010年 – 2014年",
+        "country": "美国"
+      },
+      {
+        "degree": "硕士",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学",
+        "period": "2008年 – 2010年",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "英语",
+        "school": "华中科技大学",
+        "period": "2006年 – 2008年",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "地理信息系统",
+        "school": "中国地质大学（武汉）",
+        "period": "2004年 – 2008年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "美国路易斯安那州立大学",
+    "academic_honors": [
+      "湖北省海外引进高层次人才计划青年项目",
+      "“武汉英才”优秀青年人才"
+    ],
+    "academic_services": [
+      "Nature旗下期刊Humanities & Social Sciences Communications副主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "地理信息科学",
+      "遥感与环境健康",
+      "健康地理与疾病时空预测",
+      "犯罪地理与公共安全"
+    ],
+    "research_interests": [
+      "环境健康指标体系构建",
+      "空气及土壤污染物遥感定量反演",
+      "多源遥感数据融合",
+      "疾病时空变化监测",
+      "非传染性疾病与环境交互作用",
+      "环境暴露与健康风险复合效应",
+      "地理环境与公共安全的时空关联机制"
+    ],
+    "research_description": "许艳青教授长期从事地理信息科学、遥感及其在城市规划与建设、公共卫生与健康、公共安全与犯罪等领域的理论与应用研究。研究聚焦于环境健康指标体系构建、健康地理中的疾病时空演变与风险预测、以及犯罪地理中地理环境与公共安全的关联机制，多项成果发表于Annals of the American Association of Geographers、Cities、Preventive Medicine、Journal of Criminal Justice等国际权威期刊。",
+    "disciplines": [
+      "地图制图学与地理信息工程",
+      "遥感科学与技术",
+      "公共卫生",
+      "犯罪学",
+      "城市规划"
+    ],
+    "field_tags": [
+      "地理信息科学",
+      "遥感",
+      "环境健康",
+      "健康地理",
+      "犯罪地理",
+      "时空分析",
+      "多源数据融合",
+      "城市空间环境",
+      "公共安全",
+      "疾病预测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 14,
+    "representative_publications": [
+      {
+        "title": "The Impact of Spatial Changes on the Assessment of CCTV Effects: An Example of the Green Light Project in Detroit",
+        "keywords": [
+          "CCTV",
+          "spatial changes",
+          "crime prevention",
+          "Detroit",
+          "urban safety"
+        ],
+        "journal_name": "Annals of the American Association of Geographers",
+        "research_fields": [
+          "犯罪地理",
+          "城市安全",
+          "地理信息科学"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Radon and lung cancer: Current status and future prospects",
+        "keywords": [
+          "氡气",
+          "肺癌",
+          "环境健康",
+          "流行病学",
+          "风险评估"
+        ],
+        "journal_name": "Critical Reviews in Oncology/Hematology",
+        "research_fields": [
+          "环境健康",
+          "公共卫生",
+          "健康地理"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Study on the spatio-temporal evolution characteristics and driving mechanism of China's carbon emissions",
+        "keywords": [
+          "碳排放",
+          "时空演化",
+          "驱动机制",
+          "中国",
+          "可持续发展"
+        ],
+        "journal_name": "Humanities & Social Sciences Communications",
+        "research_fields": [
+          "环境与气候变化",
+          "地理信息科学",
+          "政策分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Identifying the Environmental Determinants of Lung Cancer: A Case Study of Henan, China",
+        "keywords": [
+          "肺癌",
+          "环境决定因素",
+          "河南",
+          "健康地理",
+          "空间分析"
+        ],
+        "journal_name": "GeoHealth",
+        "research_fields": [
+          "健康地理",
+          "环境健康",
+          "空间流行病学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Property crime specialization in Detroit, Michigan",
+        "keywords": [
+          "财产犯罪",
+          "犯罪专业化",
+          "底特律",
+          "犯罪地理",
+          "时空模式"
+        ],
+        "journal_name": "Journal of Criminal Justice",
+        "research_fields": [
+          "犯罪地理",
+          "公共安全",
+          "城市犯罪研究"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=M13ND-0AAAAJ&hl=en"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 许艳青\n页面链接: http://jszy.whu.edu.cn/xuyanqing/zh_CN/index.htm\n==================================================\n武汉大学 许艳青--中文主页--首页\n许艳青\n教授\n博士生导师\n硕士生导师\n性别：女\n毕业院校：Louisiana State University\n学历：博士研究生毕业\n在职信息：在职\n所在单位：遥感信息工程学院\n学科：\n地图制图学与地理信息工程\n联系方式：yanqing.xu@whu.edu.cn\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n许艳青，武汉大学遥感信息工程学院教授、博士生导师；曾任美国马里兰大学National Consortium for the Study of Terrorism and Responses to Terrorism研究所技术主管与研究员、美国托莱多大学地理与规划系终身制副教授、托莱多大学地理信息科学与应用中心主任；入选湖北省海外引进高层次人才计划青年项目、“武汉英才”优秀青年人才；主持国家自然科学基金面上项目；担任Nature旗下期刊Humanities & Social Sciences Communications副主编。\n长期从事地理信息科学、遥感及其在城市规划与建设、公共卫生与健康、公共安全与犯罪等领域的理论与应用研究，多项成果发表在Annals of the American Association of Geographers、Cities、Preventive Medicine、Journal of Criminal Justice等期刊。\n研究兴趣包括：\n 环境健康指标体系构建：空气及土壤污染物遥感定量反演、融合多源遥感数据的城市空间环境信息挖掘\n 健康地理：疾病的时空变化监测及发展趋势预测、非传染性疾病个体与环境交互作用机理研究、环境暴露复杂性与健康风险复合效应研究\n 犯罪地理：地理环境与公共安全的时空关联机制研究\n课题组长期招收地理信息科学、遥感、计算机科学、公共卫生等专业或有较强数学基础、编程基础、具有科研探索精神和团队合作精神的优秀海内外硕士、博士研究生及博士后研究人员。欢迎感兴趣的同学和学者加入！\n工作经历\n2021年08月 – 至今                武汉大学                 教授\n2021年04月 – 2021年07月    美国托莱多大学      副教授\n2015年08月 – 2021年03月    美国托莱多大学      助理教授\n2014年11月 – 2015年07月    美国马里兰大学       技术主管/研究员\n教育经历\n2010年 – 2014年   美国路易斯安那州立大学         博士 (地理学）\n2008年 – 2010年   武汉大学                                  硕士 (地图学与地理信息系统）\n2006年 – 2008年   华中科技大学                           学士 (英语，双学位）\n2004年 – 2008年   中国地质大学（武汉）             学士 (地理信息系统）\n代表性文章\nChen, R., C. Fu, S. Jiang, M. Lan & Y. Xu (2024) The Impact of Spatial Changes on the Assessment of CCTV Effects: An Example of the Green Light Project in Detroit. Annals of American Association of Geographers, 114 (4), 753-769.\nLiu, Y., Y. Xu, W. Xu, Z. He, C. Fu & F. Du (2024) Radon and lung cancer: Current status and future prospects, Critical Reviews in Oncology/Hematology, 198, 104363.\nXu, Y., Y. Liu, R. Chen, Y. Meng, K. Li & C. Fu (2023) Study on the spatio-temporal evolution characteristics and driving mechanism of China's carbon emissions. Humanities & Social Sciences Communications, 10, 786.\nLiu, Y., Y. Xu, Y. Li & H. Wei (2023) Identifying the Environmental Determinants of Lung Cancer: A Case Study of Henan, China. GeoHealth, 7, e2023GH000794.\nFelson, M., Y. Xu & S. Jiang (2022) Property crime specialization in Detroit, Michigan. Journal of Criminal Justice, 82, 101953.\nJabalameli, S., Y. Xu & S. Shetty (2022) Spatial and sentiment analysis of public opinion toward COVID-19 pandemic using twitter data: At the early stage of vaccination. International Journal of Disaster Risk Reduction, 80, 103204.\nDu, H., F. Zhou, Y. Cai, C Li & Y. Xu (2021) Influence of Features of Green Spaces on Health and Well-Being: Case Study of Shanghai, China. Journal of Urban Planning and Development, 147(2), 04021008.\nFelson, M., S. Jiang & Y. Xu (2020) Routine activity effects of the Covid-19 pandemic on burglary in Detroit, March, 2020. Crime Sci, 9(1), 1-7.\nXu, Y. & S. Owusu-Agyemang (2019) Gun-related Crime in Detroit, Michigan: Exploring the Spatial Context of Licensed Firearm Availability and Neighborhood Characteristics. Papers in Applied Geography, 5, 58-76.\nXu, Y., M. Sajja & A. Kumar (2019) Impact of the Hydraulic Fracturing on Indoor Radon Concentrations in Ohio: A Multilevel Modeling Approach. Front. Public Health 7(76).\nXu, Y., C. Fu, E. Kennedy, S. Jiang & S. Owusu-Agyemang (2018) The Impact of Street Lights on Spatial-Temporal Patterns of Crime in Detroit, Michigan. Cities, 79, 45-52.\nXu, Y., C. Fu, X. Shi, T. Onega & F. Wang (2017) Disparities in Geographic Accessibility of National Cancer Institute Cancer Centers in the United States. Journal of Medical Systems, 41(203).\nXu, Y. & F. Wang (2015) Built environment and obesity by urbanicity in the U.S. Health & Place, 34, 19-29.\nXu, Y. & L. Wang (2015) GIS-based analysis of obesity and the built environment in the US. Cartography and Geographic Information Science, 42 (1), 9-21.\nXu, Y., M. Wen & F. Wang (2015) Multilevel Built Environment Features and Individual Odds of Overweight and Obesity in Utah. Applied Geography, 60, 197-203.\nGoogle Scholar: https://scholar.google.com/citations?user=M13ND-0AAAAJ&hl=en\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "iamshuo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/iamshuo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李硕",
+    "english_name": "Lishuo",
+    "title": [
+      "主管技师",
+      "讲师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "检验科",
+    "college": "第一临床学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "医学博士学位",
+        "field": "临床检验诊断学",
+        "school": "武汉大学",
+        "period": "2020.9-2023.6",
+        "country": "中国"
+      },
+      {
+        "degree": "医学硕士学位",
+        "field": "临床检验诊断学",
+        "school": "武汉大学",
+        "period": "2017.9-2020.6",
+        "country": "中国"
+      },
+      {
+        "degree": "双学士",
+        "field": "医学检验/经济学",
+        "school": "武汉大学",
+        "period": "2012.9-2017.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "浙江长三角生物医药研究发展中心脑科学与人工智能临床转化专业委员委员会",
+      "北京整合医学会自然医学分会委员",
+      "中国医药教育协会医学科技创新与成果转化工作委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "单细胞多组学动态图谱和调控网络智能模型开发",
+      "临床检验诊断学液体活检新方法开发"
+    ],
+    "research_interests": [
+      "单细胞多组学",
+      "液体活检",
+      "cfDNA片段组学",
+      "数智模型",
+      "参考图谱构建",
+      "智能分析系统"
+    ],
+    "research_description": "李硕博士主要从事单细胞多组学动态图谱与调控网络数智模型开发，以及临床检验诊断学液体活检新方法的开发。其研究聚焦于构建正常组织单细胞多组学参考图谱，开发智能分析系统与数智细胞模型，并创新性地利用尿液cfDNA片段组学技术开发膀胱癌液体活检新方法，已进入临床试验阶段。近三年作为研究骨干参与省市及重点项目，总经费达813万元。",
+    "disciplines": [
+      "临床检验诊断学",
+      "生物信息学",
+      "分子医学"
+    ],
+    "field_tags": [
+      "单细胞多组学",
+      "液体活检",
+      "cfDNA",
+      "人工智能",
+      "生物信息分析",
+      "精准医学",
+      "临床转化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "基于尿液 cfDNA 片段组学的膀胱癌液体活检新技术",
+        "keywords": [
+          "液体活检",
+          "尿液 cfDNA",
+          "膀胱癌",
+          "片段组学"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "临床检验诊断学",
+          "单细胞多组学",
+          "液体活检"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "单细胞多组学数据智能分析系统及智能模型体系开发",
+        "keywords": [
+          "单细胞多组学",
+          "智能分析系统",
+          "数智模型",
+          "调控网络"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "生物信息学",
+          "人工智能在医学中的应用",
+          "单细胞组学"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/iamshuo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "junior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李硕\n页面链接: http://jszy.whu.edu.cn/iamshuo/zh_CN/index.htm\n==================================================\n武汉大学 李硕--中文主页--首页\n教师个人主页\n李硕\n个人信息\n教师拼音名称：lishuo\n电子邮箱：\n入职时间：2023-07-01\n所在单位：第一临床学院\n职务：主管技师/讲师\n办公地点：第一临床学院（武汉大学人民医院）\n联系方式：18271880986\n在职信息：在职\n毕业院校：武汉大学\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n李硕，临床检验诊断学博士，武汉大学人民医院（湖北省人民医院）检验科主管技师/讲师。主要研究方向： 1）单细胞多组学动态图谱与调控网络数智模型开发 2）临床检验诊断学液体活检新方法开发主要工作成绩：围绕以上研究方向，近三年作为研究骨干主持或参与（排名前二）的省市及重点项目总经费合计813万元，开发单细胞多组学数据智能分析系统及智能模型体系，构建正常组织单细胞多组学参考图谱，并开发数智细胞模型；开发基于尿液 cfDNA 片段组学的膀胱癌液体活检新技术，进入临床试验阶段；以上研究工作，开发早...\n教育经历\n更多>>\n2020.9-2023.6\n武汉大学  | 临床检验诊断学  | 医学博士学位 | 博士研究生毕业\n2017.9-2020.6\n武汉大学  | 临床检验诊断学  | 医学硕士学位 | 研究生(硕士)毕业\n2012.9-2017.6\n武汉大学  | 医学检验/经济学  | 双学士 | 本科(学士)\n工作经历\n2023.7-至今\n检验科 | 武汉大学人民医院 · 湖北省人民医院  | 在职\n社会兼职\n更多>>\n浙江长三角生物医药研究发展中心脑科学与人工智能临床转化专业委员委员会\n北京整合医学会自然医学分会委员\n中国医药教育协会医学科技创新与成果转化工作委员会委员\n研究方向\n单细胞多组学动态图谱和调控网络智能模型开发\n临床检验诊断学液体活检新方法开发\n团队成员\n更多>>\nGDK (Genetic Data to Knowledge)\n围绕临床队列分子组学（多组学，Omics）数据科学分析及临床检验诊断学液体活检新方法开发，走出舒适区，奔向下一个舒适区，乐此不疲，坚持并持续精进！\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

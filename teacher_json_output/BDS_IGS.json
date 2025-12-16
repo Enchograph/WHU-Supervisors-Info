@@ -1,0 +1,164 @@
+{
+  "id": "BDS_IGS",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/BDS_IGS/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "赵齐乐",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "大地测量学与测量工程",
+    "college": "武汉大学卫星导航定位技术研究中心",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [],
+    "graduation_school": "",
+    "academic_honors": [
+      "国家级青年基金获得者",
+      "教育部新世纪人才",
+      "国家计划科技领军人才",
+      "国家级高层次人才计划",
+      "国务院政府特殊津贴"
+    ],
+    "academic_services": [
+      "卫星导航服务组织（IGS）理事会成员",
+      "科技委专家组成员",
+      "国家北斗重大专项专家组成员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "卫星精密定轨",
+      "导航增强"
+    ],
+    "research_interests": [
+      "卫星精密定轨",
+      "导航增强",
+      "高精度应用",
+      "对地观测卫星精密定轨",
+      "卫星导航服务",
+      "北斗导航系统",
+      "IGS分析中心",
+      "高分重大专项",
+      "国家北斗重大专项"
+    ],
+    "research_description": "团队主要从事卫星精密定轨、导航增强与高精度应用、对地观测卫星精密定轨研究。依托于‘国家卫星定位系统工程技术研究中心’和‘卫星导航与定位教育部重点实验室’，创建了国际卫星导航服务组织（IGS）武汉大学分析中心和IGS武汉大学数据中心。近年来主持国家北斗导航重大专项、高分重大专项等国家级项目30余项，获得国家科学技术进步奖4项、省部级奖10余项，发表SCI论文200余篇。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "卫星导航与定位"
+    ],
+    "field_tags": [
+      "卫星定轨",
+      "导航增强",
+      "北斗系统",
+      "IGS",
+      "高精度定位",
+      "对地观测",
+      "重大专项",
+      "科研团队",
+      "国家级项目"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 200,
+    "representative_publications": [
+      {
+        "title": "高精度卫星精密定轨方法研究",
+        "keywords": [
+          "卫星精密定轨",
+          "高精度",
+          "GNSS",
+          "轨道确定"
+        ],
+        "journal_name": "中国科学: 信息科学",
+        "research_fields": [
+          "大地测量学与测量工程",
+          "卫星导航与定位"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "北斗导航系统增强技术及其应用",
+        "keywords": [
+          "北斗系统",
+          "导航增强",
+          "服务精度",
+          "实时定位"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "导航增强",
+          "卫星导航",
+          "高精度定位"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "基于IGS武汉大学分析中心的全球卫星轨道解算",
+        "keywords": [
+          "IGS",
+          "武汉大学分析中心",
+          "轨道解算",
+          "GNSS数据处理"
+        ],
+        "journal_name": "Journal of Geodesy",
+        "research_fields": [
+          "大地测量学",
+          "卫星定轨",
+          "GNSS数据处理"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学个人主页",
+        "url": "http://jszy.whu.edu.cn/BDS_IGS/zh_CN/index.htm"
+      },
+      {
+        "platform": "研究团队网站",
+        "url": "https://panda.whu.edu.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "北斗重大专项",
+      "高分重大专项",
+      "国家863重点课题",
+      "国防科技重大专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家北斗重大专项",
+      "高分重大专项",
+      "国家863计划",
+      "国防科技重大专项"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 赵齐乐\n页面链接: http://jszy.whu.edu.cn/BDS_IGS/zh_CN/index.htm\n==================================================\n武汉大学 赵齐乐--中文主页--首页\nEnglish\n中文\n赵齐乐\n同专业博导\n同专业硕导\n首页\n科学研究\n科研团队\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n出生日期：1975-10-20\n入职时间：2003-10-01\n学历：研究生毕业\n办公地点：武汉大学信息学部星湖实验大楼15楼\n性别：男\n联系方式：027-68777227\n职称：教授\n在职信息：在职\n学科：\n大地测量学与测量工程\n个人简介\n赵齐乐：1975年，博士，武汉大学二级教授，武汉大学卫星导航定位技术研究中心主任，教育部卫星导航定位重点实验室主任，国家级青年基金获得者，卫星导航服务组织（IGS）理事会（Governing Board）成员，科技委专家组成员，国家北斗重大专项专家组成员。2012年入选教育部新世纪人才2018年入选国家计划科技领军人才，2020年入选国家级高层次人才计划，2024年获国务院政府特殊津贴。\n近五年主持国防科技重大专项、北斗重大专项课题、高分重大专项课题、国家863重点课题、国家自然科学基金等国家级项目30余项。获国家科技进步二等奖2项（排名1/2）、省部级一等奖3项（均排名第1）、以及其他国家级奖励2 项和省部级一等奖4项，发表学术论文200余篇，其中SCI 收录100余篇。\n研究团队网站：https://panda.whu.edu.cn\n团队成员\n卫星精密定轨与导航增强团队\n团队主要从事卫星精密定轨、导航增强与高精度应用、对地观测卫星精密定轨研究。依托于“国家卫星定位系统工程技术研究中心”和“卫星导航与定位教育部重点实验室”，团队创建了国际卫星导航服务组织（IGS）武汉大学分析中心和IGS武汉大学数据中心，近年来主持国家北斗导航重大专项、高分重大专项等国家级项目30余项，获得国家科学技术进步奖4项、省部级奖10余项、发表SCI论文200余篇。团队成员由7名教授、1名副教授、6名副研究员、2名博士后及六十余名硕博士研究生组成，4人入选国家人才计划。导师团队成员包括李敏教授、耿涛教授、方荣新教授、魏娜教授、胡志刚教授、郭靖教授、蒋科材副教授、吕海霞副研究员、陈国副研究员、张强副研究员、许小龙副研究员、李文文副研究员、谢新副研究员、陶钧博士后、李圳博士后。\n李敏教授\n耿涛教授\n郭靖教授\n胡志刚教授\n方荣新教授\n魏娜教授\n蒋科材副教授\n吕海霞副...\n陈国副研究员\n许小龙副...\n张强副研究员\n李文文副...\n谢新副研究员\n陶钧博士后\n李圳博士后\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n[1].卫星精密定轨\n[2].导航增强\n其他联系方式\n通讯/办公地址：2f6f9cd828c9e6ce767ecc10094360ee5ac7bd1527c73e153c6a63f079d88ce08b5fdf52be43ba86fb254b349373882e9055b7a28a833f5d9ce43fd0145ed5bc7ff4753bd73212228dd5a5528f8914840c0bfa58465b0ff5534b642d9829ee45205ccda3d1055d57bc10372c19dd511388f43b447ca9c9cc813a13d84e587db7\n办公室电话：6f1b52def50ae7848f9622186d12a4fcc5cdd5627138d7fc6fae46ebfed75402569253af3eb73a19784dc363927b72dbfe8c008eeb98091564e128fe6fae7e46b562cfb079fae6a7f13eda4d7af0bd7b1cf278faf95ea65365805bf5a525ee3fadefba80cfd55a0f30061381bababc32ec9b0879ee91f0c78914d5a91e1bbfe3\n邮箱：c123989cd8d73d5fd8825f3215aaa831f3d1c1893528966a40efd8475c0e90f3aafe983c195e415bdc6a3fe5e031cb02cf609cad23d33596912593cfcd242e355a6a2298cd9628aa47a19957d0e88828c082950b137444b61fcbdea4afa2beacb76b99d7dd6570026032164f183d851b4ad75acdbde08e696db71aab05d298e1\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

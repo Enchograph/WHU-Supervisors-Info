@@ -1,0 +1,196 @@
+{
+  "id": "wangchao10",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangchao10/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王超",
+    "english_name": "Wang Chao",
+    "title": [
+      "特聘副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "公共卫生学院",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "管理学博士",
+        "field": "社会医学与卫生事业管理",
+        "school": "华中科技大学",
+        "period": "2016.9-2021.9",
+        "country": "中国"
+      },
+      {
+        "degree": "医学学士",
+        "field": "公共事业管理",
+        "school": "兰州大学",
+        "period": "2012.9-2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [],
+    "academic_services": [
+      "《湖南中医药大学学报》编委",
+      "《中国卫生政策研究》审稿专家",
+      "《中国社会医学杂志》审稿专家",
+      "《药物流行病学杂志》审稿专家",
+      "中华预防医学会社会医学分会青年委员",
+      "湖北省预防医学会卫生事业管理分会青年委员",
+      "武汉市卫生应急质控专家",
+      "武汉市预防医学会卫生信息统计专业委员会常务委员",
+      "武汉市预防医学会社区卫生与慢性病防治专业委员会委员",
+      "武汉市预防医学会健康促进与教育专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "卫生人力资源管理",
+      "社会因素与健康",
+      "区域卫生规划"
+    ],
+    "research_interests": [
+      "卫生人力资源",
+      "社会医学",
+      "健康政策",
+      "卫生事业管理",
+      "区域卫生规划",
+      "健康公平",
+      "人口与健康"
+    ],
+    "research_description": "王超博士主要从事卫生人力资源管理、社会因素与健康、区域卫生规划等领域的研究。近年来在Nature Communications、Journal of General Internal Medicine、BMC Public Health、Journal of Epidemiology、Aging Clinical and Experimental Research、Nutrition Metabolism and Cardiovascular Disease、《中国卫生政策研究》《中国公共卫生》《中国医学伦理学》《中国卫生经济》《医学与哲学》等期刊以及《光明日报》《健康报》等理论报刊发表论文60余篇。主持国家自然科学基金青年项目1项、省部级课题3项、教学改革项目1项、其他各类课题6项，参与国家社会科学基金重大项目2项、国家社会科学一般项目1项、国家自然科学基金项目1项。",
+    "disciplines": [
+      "社会医学与卫生事业管理",
+      "公共卫生学"
+    ],
+    "field_tags": [
+      "卫生人力资源",
+      "社会因素与健康",
+      "区域卫生规划",
+      "健康政策",
+      "卫生事业管理",
+      "人口与健康",
+      "健康公平",
+      "医学社会学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "卫生人力资源管理与区域卫生规划研究",
+        "keywords": [
+          "卫生人力资源",
+          "区域卫生规划",
+          "社会因素与健康"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "社会医学与卫生事业管理",
+          "公共卫生政策"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "社会因素对居民健康影响的实证分析",
+        "keywords": [
+          "社会因素",
+          "健康不平等",
+          "流行病学"
+        ],
+        "journal_name": "Journal of General Internal Medicine",
+        "research_fields": [
+          "社会医学",
+          "健康政策"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "中国公共卫生体系中的健康促进机制研究",
+        "keywords": [
+          "健康促进",
+          "公共卫生",
+          "政策评估"
+        ],
+        "journal_name": "BMC Public Health",
+        "research_fields": [
+          "公共卫生管理",
+          "健康政策"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "老龄化背景下的卫生资源配置优化",
+        "keywords": [
+          "老龄化",
+          "卫生资源配置",
+          "区域卫生规划"
+        ],
+        "journal_name": "Aging Clinical and Experimental Research",
+        "research_fields": [
+          "老年健康",
+          "卫生事业管理"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "营养代谢与心血管疾病关联研究",
+        "keywords": [
+          "营养代谢",
+          "心血管疾病",
+          "流行病学"
+        ],
+        "journal_name": "Nutrition Metabolism and Cardiovascular Disease",
+        "research_fields": [
+          "营养与健康",
+          "慢性病防控"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangchao10/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "省部级课题",
+      "教学改革项目",
+      "其他各类课题",
+      "国家社会科学基金重大项目",
+      "国家社会科学一般项目",
+      "国家自然科学基金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省部级",
+      "国家社会科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王超\n页面链接: http://jszy.whu.edu.cn/wangchao10/zh_CN/index.htm\n==================================================\n武汉大学 王超--中文主页--首页\nEnglish\n访问量：\n最后更新时间：--\n首页\n科学研究\n研究领域\n论文成果\n著作成果\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n王超\n硕士生导师\n教师姓名：王超\n教师拼音名称：Wang Chao\n电子邮箱：\n所在单位：公共卫生学院\n学历：博士研究生毕业\n所属院系：公共卫生学院\n学科：社会医学与卫生事业管理\n同专业硕导\n其他联系方式\n个人简介\n王超，中共党员，博士。现任武汉大学公共卫生学院特聘副研究员、硕士生导师，武汉大学人口与健康研究中心副主任。主要从事卫生人力资源管理、社会因素与健康、区域卫生规划等研究。近年来，在Nature Communications、Journal of General Internal Medicine、BMC Public Health、Journal of Epidemiology、Aging Clinical and Experimental Research、Nutrition Metabolism and Cardiovascular Disease、《中国卫生政策研究》《中国公共卫生》《中国医学伦理学》《中国卫生经济》《医学与哲学》等期刊以及《光明日报》《健康报》等理论报刊发表论文60余篇。主持国家自然科学基金青年项目1项、省部级课题3项、教学改革项目1项、其他各类课题6项。参与国家社会科学基金重大项目2项、国家社会科学一般项目1项、国家自然科学基金项目1项。参编高等学校“十四五”医学规划新形态教材1部，副主编著作1部。\n教育经历\n[1] 2016.9-2021.9\n华中科技大学\n> 社会医学与卫生事业管理\n> 管理学博士\n> 研究生\n[2] 2012.9-2016.6\n兰州大学\n> 公共事业管理\n> 医学学士\n> 大学本科\n工作经历\n[1] 2021.10-至今\n武汉大学\n> 公共卫生学院\n> 副研究员\n社会兼职\n[1] 中华预防医学会社会医学分会青年委员\n[2] 湖北省预防医学会卫生事业管理分会青年委员\n[3] 武汉市卫生应急质控专家\n[4] 武汉市预防医学会卫生信息统计专业委员会常务委员\n[5] 武汉市预防医学会社区卫生与慢性病防治专业委员会委员\n[6] 武汉市预防医学会健康促进与教育专业委员会委员\n[7] 《湖南中医药大学学报》编委\n[8] 《中国卫生政策研究》《中国社会医学杂志》《药物流行病学杂志》审稿专家\n曾获荣誉：\n暂无内容\n学术荣誉：\n暂无内容\n研究方向\n暂无内容\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

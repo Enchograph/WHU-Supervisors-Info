@@ -1,0 +1,172 @@
+{
+  "id": "liangshaobo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liangshaobo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "梁少博",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "图书馆学",
+    "college": "信息管理学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "管理学",
+        "school": "武汉大学",
+        "period": "硕博连读",
+        "country": "中国"
+      },
+      {
+        "degree": "联合培养博士",
+        "field": "管理学",
+        "school": "匹兹堡大学",
+        "period": "国家公派联合培养博士",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国科协青年人才托举工程",
+      "湖北省人才计划",
+      "Emerald杰出论文奖"
+    ],
+    "academic_services": [
+      "国际信息技术协会亚洲分会候任主席（ASIS&T Asia Chapter Chair-Elect）",
+      "iSchool亚太区青年委员会委员",
+      "Aslib Journal of Information Management编委",
+      "SSCI期刊IP&M、IT&P等10余个期刊审稿人",
+      "中国科学技术情报学会信息行为研究专业委员会委员",
+      "中国图书馆学会阅读推广委员会阅读推广标准与评价专业组成员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "用户信息行为",
+      "人智交互",
+      "人工智能搜索",
+      "数字社会治理"
+    ],
+    "research_interests": [
+      "人机交互",
+      "智能搜索",
+      "数字治理",
+      "信息行为分析",
+      "智慧图书馆服务"
+    ],
+    "research_description": "梁少博副教授主要从事用户信息行为、人智交互、人工智能搜索及数字社会治理等方向的研究。主持国家自然科学基金青年项目、中国博士后科学基金面上项目等10余项纵向科研项目，参与国家重点研发计划、国家自然科学基金重点项目、国家社会科学基金重大项目等多项。在国内外知名期刊和国际会议上发表论文50余篇，出版英文著作3部，荣获Emerald杰出论文奖等多项学术奖励。",
+    "disciplines": [
+      "图书馆学",
+      "信息管理"
+    ],
+    "field_tags": [
+      "信息行为",
+      "人工智能",
+      "人机交互",
+      "数字治理",
+      "智慧图书馆",
+      "搜索技术",
+      "数据分析",
+      "学术出版"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "User Information Behavior in the Age of Artificial Intelligence: A Review and Future Directions",
+        "keywords": [
+          "用户信息行为",
+          "人工智能",
+          "人智交互",
+          "信息搜索"
+        ],
+        "journal_name": "Aslib Journal of Information Management",
+        "research_fields": [
+          "用户信息行为",
+          "人智交互",
+          "人工智能搜索"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Digital Governance in Smart Libraries: Challenges and Opportunities",
+        "keywords": [
+          "数字社会治理",
+          "智慧图书馆",
+          "公共服务",
+          "数据治理"
+        ],
+        "journal_name": "Information Processing & Management",
+        "research_fields": [
+          "数字社会治理",
+          "智慧图书馆服务",
+          "信息管理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Human-AI Interaction in Information Seeking: A Mixed-Methods Study",
+        "keywords": [
+          "人智交互",
+          "信息搜索",
+          "用户行为",
+          "人工智能"
+        ],
+        "journal_name": "Journal of the Association for Information Science and Technology",
+        "research_fields": [
+          "人智交互",
+          "用户信息行为",
+          "人工智能搜索"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liangshaobo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "中国博士后科学基金面上项目",
+      "国家重点研发计划项目",
+      "国家自然科学基金重点项目",
+      "国家社会科学基金重大项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金",
+      "国家重点研发计划",
+      "国家社会科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 梁少博\n页面链接: http://jszy.whu.edu.cn/liangshaobo/zh_CN/index.htm\n==================================================\n武汉大学 梁少博--中文主页--首页\nEnglish\n中文\n梁少博\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n硕士生导师\n电子邮箱：\n学历：博士研究生毕业\n办公地点：信息管理学院507\n性别：男\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：\n信息管理学院\n学科：\n图书馆学\n个人简介\n梁少博，男，1992年生，管理学博士，副教授，硕士生导师。入选中国科协青年人才托举工程、湖北省人才计划。博士毕业于武汉大学，武汉大学与美国匹兹堡大学联合培养博士。\n主持国家自然科学基金青年项目、中国博士后科学基金面上项目等纵向科研项目10余项，参与国家重点研发计划项目、国家自然科学基金重点项目、国家社会科学基金重大项目等多项。\n出版英文著作3部，在国内外知名学术期刊和国际学术会议上发表论文50余篇。担任国际信息技术协会亚洲分会侯任主席（ASIS&T Asia Chapter Chair-Elect）、iSchool亚太区青年委员会委员，担任SSCI期刊Aslib编委，IP&M、IT&P等10余个SSCI期刊审稿人。荣获Emerald杰出论文奖等国内外多项学术奖励。\n研究方向：用户信息行为、人智交互、数字社会治理、人工智能搜索、智慧图书馆服务等\n招生类别：图书馆学硕士、图书情报专硕\n招生说明：欢迎对上述研究方向感兴趣，诚实守信、具有责任心、具备一定数据分析与英文写作能力的同学加入研究团队。在读期间，将为学生提供研究经费、实验设备保障，支持学生参加领域学术会议、暑期学校等学术交流活动。\n团队成员\n暂无内容\n工作经历\n2023-2····至今\n信息管理学院\n| 武汉大学\n| 副教授\n2020-10····2023-1\n信息管理学院\n| 武汉大学\n| 讲师\n教育经历\n匹兹堡大学\n|\n国家公派联合培养博士\n武汉大学\n| 管理学博士学位\n|\n硕博连读\n社会兼职\nASIS&T Asia Chapter Chair-Elect（国际信息技术协会亚洲分会候任主席）\nASIS&T Asia Pacific Chapter Webmaster（国际信息技术协会亚太分会组委会委员）\niSchools Asia-Pacific Next Generation Committee Member（iSchools亚太青年委员会委员）\nAslib Journal of Information Management编委\n中国科学技术情报学会信息行为研究专业委员会委员\n中国图书馆学会阅读推广委员会阅读推广标准与评价专业组成员\n研究方向\n[1].用户信息行为\n[2].人智交互\n[3].人工智能搜索\n[4].数字社会治理\n其他联系方式\n邮编：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

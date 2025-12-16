@@ -1,0 +1,187 @@
+{
+  "id": "huangzhenzhen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huangzhenzhen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄贞贞",
+    "english_name": "Huang Zhenzhen",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "公共卫生学院",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "分析化学",
+        "school": "新加坡国立大学",
+        "period": "2011.1-2015.1",
+        "country": "新加坡"
+      },
+      {
+        "degree": "硕士学位",
+        "field": "高分子化学与物理",
+        "school": "武汉大学",
+        "period": "2008.9-2010.12",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "化学基地班",
+        "school": "武汉大学",
+        "period": "2004.9-2008.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "新加坡国立大学",
+    "academic_honors": [
+      "2022 指导本科生参加全国大学生基础医学创新研究暨实验设计论坛校级二等奖",
+      "2020 指导研究生获得国家奖学金",
+      "2010 新加坡NRF(EWT)全额奖学金"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "环境卫生分析",
+      "污染物暴露健康风险评估",
+      "暴露组学",
+      "代谢组学",
+      "环境卫生毒理"
+    ],
+    "research_interests": [
+      "新兴污染物检测方法",
+      "化学分析方法",
+      "环境介质分析",
+      "人群健康影响研究"
+    ],
+    "research_description": "黄贞贞副教授致力于环境卫生分析和污染物暴露对人群健康影响的研究，重点开展环境介质中新兴污染物的检测方法创新，以及运用化学分析方法进行暴露组学、代谢组学和环境卫生毒理的交叉学科研究。依托国家自然科学基金、省自然科学基金等项目，已在Environmental Science & Technology、Journal of Hazardous Materials等期刊发表多篇高水平论文。",
+    "disciplines": [
+      "公共卫生学",
+      "分析化学",
+      "环境科学",
+      "毒理学"
+    ],
+    "field_tags": [
+      "环境污染物",
+      "暴露组学",
+      "代谢组学",
+      "化学分析",
+      "健康风险评估",
+      "新兴污染物",
+      "交叉学科研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "Environmental Science & Technology",
+        "keywords": [
+          "新兴污染物",
+          "检测方法创新",
+          "暴露组学",
+          "环境卫生分析"
+        ],
+        "journal_name": "Environmental Science & Technology",
+        "research_fields": [
+          "环境卫生分析",
+          "暴露组学",
+          "环境毒理学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Journal of Hazardous Materials",
+        "keywords": [
+          "污染物暴露",
+          "化学分析方法",
+          "健康风险评估",
+          "环境介质"
+        ],
+        "journal_name": "Journal of Hazardous Materials",
+        "research_fields": [
+          "环境污染物",
+          "健康风险评估",
+          "化学分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Science of the Total Environment",
+        "keywords": [
+          "代谢组学",
+          "环境毒理",
+          "污染物检测",
+          "交叉学科研究"
+        ],
+        "journal_name": "Science of the Total Environment",
+        "research_fields": [
+          "代谢组学",
+          "环境卫生毒理",
+          "环境健康"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Journal of Agricultural and Food Chemistry",
+        "keywords": [
+          "环境分析",
+          "化学分析方法",
+          "污染物暴露",
+          "食品与环境安全"
+        ],
+        "journal_name": "Journal of Agricultural and Food Chemistry",
+        "research_fields": [
+          "环境分析化学",
+          "食品安全",
+          "污染物检测"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huangzhenzhen/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省自然科学基金",
+      "中央高校专项基础研究基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省自然科学基金",
+      "中央高校专项基础研究基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄贞贞\n页面链接: http://jszy.whu.edu.cn/huangzhenzhen/zh_CN/index.htm\n==================================================\n武汉大学 黄贞贞--中文主页--首页\n教师个人主页\n黄贞贞\n个人信息\n教师拼音名称：Huang Zhenzhen\n电子邮箱：\n所在单位：公共卫生学院\n学历：博士研究生毕业\n办公地点：武汉大学医学部\n性别：女\n联系方式：zzhuang@whu.edu.cn\n职称：副教授\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n黄贞贞，武汉大学公共卫生学院研究员，博士生导师。近年来致力于环境卫生分析和污染物暴露对人群健康影响相关领域的研究，重点开展环境介质中新兴污染物检测方法创新，以及运用化学分析方法开展暴露组学、代谢组学和环境卫生毒理等方面的交叉学科研究。依托国家自然科学基金、省自然科学基金、中央高校专项基础研究基金等项目的资助，以第一作者或通讯作者在Environmental Science & Technology, Journal of Hazardous Materials，Science of the Total Environment，Journal of Agricultural and Food Chem...\n教育经历\n更多>>\n2011.1-2015.1\n新加坡国立大学  | 分析化学  | 博士 | 博士研究生毕业\n2008.9-2010.12\n武汉大学  | 高分子化学与物理  | 硕士学位 | 研究生(硕士)毕业\n2004.9-2008.6\n武汉大学  | 化学基地班  | 理学学士学位 | 本科(学士)\n工作经历\n更多>>\n2017.5-至今\n武汉大学公共卫生学院\n2016.12-2017.5\n复旦大学公共卫生学院\n2015.6-2016.4\n新加坡国立大学环境研究所\n社会兼职\n暂无内容\n研究方向\n环境卫生分析和污染物暴露健康风险评估\n曾获荣誉\n2022    指导本科生参加全国大学生基础医学创新研究暨实验设计论坛校级二等奖\n2020    指导研究生获得国家奖学金\n2010    新加坡NRF(EWT)全额奖学金\n团队成员\n更多>>\n环境暴露与健康研究组\n由分析化学、流行病学、环境卫生学、临床医学相关背景的教师、学生组成的多学科团队。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

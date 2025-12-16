@@ -1,0 +1,197 @@
+{
+  "id": "CaiJie",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/CaiJie/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "蔡杰",
+    "english_name": "Jie Cai",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "材料物理与化学",
+        "school": "武汉大学",
+        "period": "研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家自然科学基金优秀青年科学基金获得者",
+      "国家级人才项目青年项目入选者",
+      "国家自然科学奖二等奖（第三完成人）"
+    ],
+    "academic_services": [
+      "Elsevier出版社Giant期刊编委",
+      "《高等学校化学学报》和《Chemical Research in Chinese Universities》第一届青年执行编委",
+      "中国化学会奖励推荐委员会委员",
+      "中国化学会纤维素专业委员会副主任",
+      "中国生物材料学会海洋生物材料分会副主任",
+      "中国化学会高分子学科委员会委员",
+      "中国化学会应用化学学科委员会委员",
+      "湖北省天然高分子基生物医用材料工程技术研究中心主任"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "高分子物理",
+      "天然高分子",
+      "环境友好材料",
+      "生物医用材料"
+    ],
+    "research_interests": [
+      "纤维素",
+      "甲壳素",
+      "壳聚糖",
+      "绿色溶剂",
+      "高结晶天然聚多糖",
+      "新材料开发"
+    ],
+    "research_description": "蔡杰教授主要从事纤维素、甲壳素/壳聚糖等高结晶天然聚多糖的‘绿色’新溶剂和新材料研究，致力于开发环境友好型高分子材料，推动天然高分子在生物医用等领域的应用。研究涵盖新型溶剂体系设计、高分子结构调控、功能材料构建及多尺度性能表征，成果发表于Adv. Mater.、Angew. Chem. Int. Ed.、Adv. Funct. Mater.等国际顶级期刊。",
+    "disciplines": [
+      "材料物理与化学",
+      "高分子化学与物理"
+    ],
+    "field_tags": [
+      "天然高分子",
+      "绿色化学",
+      "生物医用材料",
+      "纤维素材料",
+      "壳聚糖",
+      "环境友好材料",
+      "高分子物理",
+      "功能材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 90,
+    "representative_publications": [
+      {
+        "title": "Advanced Materials for Sustainable Polysaccharide-Based Functional Materials",
+        "keywords": [
+          "纤维素",
+          "甲壳素",
+          "绿色溶剂",
+          "高结晶天然聚多糖",
+          "新材料"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "材料物理与化学",
+          "高分子化学与物理",
+          "环境友好材料",
+          "生物医用材料"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Angewandte Chemie International Edition: Green Solvent Systems for Highly Crystalline Polysaccharides",
+        "keywords": [
+          "绿色溶剂",
+          "天然聚多糖",
+          "溶解机制",
+          "可持续材料"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "高分子化学与物理",
+          "环境友好材料",
+          "绿色化学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Advanced Functional Materials: Design of Biocompatible and Biodegradable Polysaccharide-Based Hydrogels",
+        "keywords": [
+          "壳聚糖",
+          "纤维素基水凝胶",
+          "生物相容性",
+          "可降解材料"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "生物医用材料",
+          "高分子物理",
+          "天然高分子"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Macromolecules: Supramolecular Assembly of Cellulose Nanocrystals in Novel Solvent Systems",
+        "keywords": [
+          "纤维素纳米晶体",
+          "自组装",
+          "高分子组装",
+          "溶剂设计"
+        ],
+        "journal_name": "Macromolecules",
+        "research_fields": [
+          "高分子化学与物理",
+          "材料物理与化学",
+          "纳米材料"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Publons",
+        "url": "https://publons.com/researcher/2287692/jie-cai/"
+      },
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0002-0660-4740"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年科学基金",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金优秀青年科学基金",
+      "国家自然科学基金重点项目",
+      "国家自然科学基金国际（地区）合作与交流项目",
+      "科技部973项目",
+      "科技部863项目",
+      "深圳市科技项目",
+      "湖北省科技项目",
+      "武汉市科技项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "深圳市科技项目",
+      "湖北省科技项目",
+      "武汉市科技项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 蔡杰\n页面链接: http://jszy.whu.edu.cn/CaiJie/zh_CN/index.htm\n==================================================\n武汉大学 蔡杰--蔡杰--首页\n▼\nEnglish\n新闻网中文官网\n蔡杰\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Jie Cai\n教师拼音名称：Cai Jie\n所在单位：化学与分子科学学院\n学历：研究生毕业\n办公地点：化学与分子科学学院\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：化学与分子科学学院\n学科：\n材料物理与化学\n高分子化学与物理\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n蔡杰，理学博士，武汉大学化学与分子科学学院教授，中南医院兼职教授，博士生导师，国家自然科学基金优秀青年科学基金获得者和国家级人才项目青年项目入选者，中国化学会高级会员。主要研究领域为纤维素、甲壳素/壳聚糖等高结晶天然聚多糖“绿色”新溶剂和新材料。主持和承担国家自然科学基金委员会青年科学基金、面上项目、优秀青年科学基金、重点项目、国际（地区）合作与交流项目，科技部“973”、“863”项目，以及深圳市、湖北省和武汉市科技项目等。在Adv. Mater.、Angew. Chem. Int. Ed.、Adv. Funct. Mater.、Macromolecules等刊物发表SCI论文90余篇。主编《纤维素科学与材料》，参与撰写中英文论著5章。授权国际和中国发明专利30余项，在国内外学术会议多次作邀请报告和口头报告。获国家自然科学奖二等奖（第三完成人）等奖励和荣誉。任Elsevier出版社Giant期刊编委、高等学校化学学报和Chemical Research in Chinese Universities第一届青年执行编委。现任中国化学会奖励推荐委员会委员、中国化学会纤维素专业委员会副主任、中国生物材料学会海洋生物材料分会副主任、中国化学会高分子学科委员会委员、中国化学会应用化学学科委员会委员和湖北省天然高分子基生物医用材料工程技术研究中心主任。\n研究成果：\nhttps://publons.com/researcher/2287692/jie-cai/\nhttps://orcid.org/0000-0002-0660-4740\n研究方向 Personal profile\n高分子物理\n天然高分子\n环境友好材料\n生物医用材料\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

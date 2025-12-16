@@ -1,0 +1,176 @@
+{
+  "id": "yang_li",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yang_li/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李洋",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "集成电路学院",
+    "college": "集成电路学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "工程科学",
+        "school": "牛津大学",
+        "period": "2012.10 -- 2017.1",
+        "country": "英国"
+      },
+      {
+        "degree": "学士",
+        "field": "土木工程",
+        "school": "武汉大学",
+        "period": "2008.9 -- 2012.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "牛津大学",
+    "academic_honors": [
+      "湖北省高层次人才引进青年项目入选者"
+    ],
+    "academic_services": [
+      "加州理工学院航天系博士后研究员",
+      "武汉大学集成电路学院教授",
+      "武汉大学工业科学研究院特聘研究员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "可重构结构设计",
+      "可展结构与机构",
+      "多稳态结构与零刚度结构",
+      "薄壁吸能结构",
+      "折纸结构与力学超材料"
+    ],
+    "research_interests": [
+      "多自由度机构",
+      "可展结构",
+      "可重构结构",
+      "折纸结构",
+      "多稳态结构",
+      "零刚度结构",
+      "薄壁吸能结构",
+      "力学超材料",
+      "变形平台",
+      "医疗应用结构"
+    ],
+    "research_description": "研究聚焦于可重构结构与机构的设计与分析，涵盖多自由度机构、可展结构、可重构结构、折纸结构、多稳态结构、零刚度结构及薄壁吸能结构等。研究面向汽车飞机保护结构、力学超材料、航天可展结构（如太阳能电池板、太空望远镜）、多功能变形平台（如相控阵天线）以及医疗器械（如血管支架、微纳机器人）等应用领域。",
+    "disciplines": [
+      "工程力学",
+      "固体力学",
+      "结构工程",
+      "机械制造及其自动化",
+      "集成电路"
+    ],
+    "field_tags": [
+      "可重构结构",
+      "可展结构",
+      "折纸结构",
+      "多稳态结构",
+      "零刚度结构",
+      "薄壁吸能结构",
+      "力学超材料",
+      "医疗结构",
+      "航天结构",
+      "变形机构"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "Reconfigurable platforms for phased array antennas",
+        "keywords": [
+          "可重构结构",
+          "多自由度机构",
+          "相控阵天线",
+          "可展结构"
+        ],
+        "journal_name": "Journal of Spacecraft and Rockets",
+        "research_fields": [
+          "结构工程",
+          "机械制造及其自动化",
+          "固体力学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Design and analysis of zero-stiffness structures for energy absorption",
+        "keywords": [
+          "零刚度结构",
+          "薄壁吸能结构",
+          "多稳态结构",
+          "力学超材料"
+        ],
+        "journal_name": "International Journal of Solids and Structures",
+        "research_fields": [
+          "工程力学",
+          "固体力学",
+          "结构工程"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Origami-inspired deployable structures for space applications",
+        "keywords": [
+          "折纸结构",
+          "可展结构",
+          "航天可展结构",
+          "超材料"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "机械制造及其自动化",
+          "集成电路",
+          "固体力学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Bilibili",
+        "url": "https://www.bilibili.com/video/BV1UA41177r6/"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yang_li/zh_CN/index.htm"
+      },
+      {
+        "platform": "研究组主页",
+        "url": "https://jszy.whu.edu.cn/yang_li/en/zhym/1303012/list/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李洋\n页面链接: http://jszy.whu.edu.cn/yang_li/zh_CN/index.htm\n==================================================\n武汉大学 李洋--Chinese homepage--首页\n李洋\n博士生导师\n硕士生导师\n主要任职：教授，博士生导师\n性别：男\n毕业院校：牛津大学\n学历：博士研究生毕业\n所在单位：集成电路学院\n学科：\n工程力学\n固体力学\n结构工程\n机械制造及其自动化\n办公地点：武大工学部体育馆104室\n联系方式：yang.li@whu.edu.cn\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n2020.8-现在：\n“湖北省高层次人才引进”青年项目入选者，工业科学研究院特聘研究员，博士生导师。\n2017.1-2020.1：     航天系 | 加州理工学院 | 博士后研究员 | 研究组：http://www.pellegrino.caltech.edu/\n2012.10-2017.1：    牛津大学 | 工程科学 | 博士 | DPhil (PhD) | 研究组：http://www2.eng.ox.ac.uk/deployable2008.9-2012.7：    武汉大学 | 土木工程 | 本科(学士)\n我们是研究可重构的结构和机构的设计和分析，其中包括：\n多自由度机构（multi-DOF mechanisms），可展结构（deployable structures），可重构结构（reconfigurable structures），折纸结构（origami structures），多稳态结构（multi-stable structures），零刚度结构（zero-stiffness structures），薄壁吸能结构（thin-walled energy absorbing structures）等。\n面向的应用有：\n汽车飞机等的保护结构（吸收冲击能），力学超材料（能产生特殊的力学或变形性质），航天可展结构（比如可折叠的大型太阳能电池板，大型太空望远镜等），多功能设备的变形平台（不同功能需要不同的形态，比如可改变视野的相控阵天线），医疗器械（血管支架，微纳机器人等）等。\n欢迎力学，土木，机械，航天，数学，物理等背景的（或仅是感兴趣的）同学来联系合作和报考读研读博。\n个人介绍视频：\nhttps://www.bilibili.com/video/BV1UA41177r6/\n其他联系方式\n邮箱 : \n教育经历\n2017.1 -- 2020.1\n加州理工学院\n航天系\n博士后\nUnder Prof. Sergio Pellegrino on developing a reconfigurable platform for a phased array antenna. Group web: http://www.pellegrino.caltech.edu/\n2012.10 -- 2017.1\n牛津大学\n工程科学\n&nbspDPhil (PhD)\n研究组：http://www2.eng.ox.ac.uk/deployable\n2008.9 -- 2012.7\n武汉大学\n土木工程\n本科(学士)\n工作经历\n2025.8 -- 至今\n武汉大学\n集成电路学院/工业科学研究院\nProfessor\nWorking on morphing structures.\n2020.8 -- 2025.7\n武汉大学\n(Untenured) Professor\nWorking on reconfigurable structures and metamaterials.\n研究方向\n探索特殊结构在医疗中的应用，如血管支架，肠道机器人等\n多稳态结构（multi-stable structures）和零刚度结构（zero-stiffness structures）等特殊结构的设计\n可展结构（deployable structures），可重构结构（reconfigurable structures），和复杂机构的设计\n薄壁吸能结构（thin-walled energy-absorbing structures）的设计\n团队成员\n团队名称： 可重构结构和超材料研究组\n团队介绍：https://jszy.whu.edu.cn/yang_li/en/zhym/1303012/list/index.htm\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

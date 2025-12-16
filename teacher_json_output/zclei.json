@@ -1,0 +1,221 @@
+{
+  "id": "zclei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zclei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "雷忠诚",
+    "english_name": "",
+    "title": [
+      "副研究员",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "人工智能与自动化系",
+    "college": "机器人学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "机械电子工程",
+        "school": "武汉大学",
+        "period": "2014.9 -- 2019.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "自动化",
+        "school": "武汉大学",
+        "period": "2010.9 -- 2014.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "ESI高被引论文2篇",
+      "2025全球前2%顶尖科学家榜单",
+      "Best Full Paper Award",
+      "Wiley威立中国开放科学高贡献作者奖"
+    ],
+    "academic_services": [
+      "IEEE Transactions on Industrial Electronics 审稿人",
+      "IEEE Transactions on Industrial Informatics 审稿人",
+      "IEEE Transactions on Learning Technologies 审稿人",
+      "Journal of Advanced Studies (JAS) 审稿人",
+      "多个国际会议技术委员会委员",
+      "IEEE 高级会员",
+      "中国自动化学会会员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "网络化控制系统",
+      "数字孪生技术在电力系统中的应用",
+      "虚拟现实/增强现实在控制系统中的应用",
+      "在线实验系统与教育技术"
+    ],
+    "research_interests": [
+      "数字孪生",
+      "在线实验平台",
+      "虚拟现实/增强现实",
+      "教育技术",
+      "电力系统监控与控制",
+      "人机交互系统",
+      "Web-based实验系统",
+      "远程实验",
+      "控制工程教育"
+    ],
+    "research_description": "雷忠诚副研究员主要从事网络化控制系统、数字孪生技术在电力系统与控制工程中的应用研究，致力于构建基于Web的3D交互式在线实验系统，推动控制工程教育的数字化转型。其研究涵盖数字孪生驱动的DC-DC转换器监控与控制、电力系统数字孪生通信系统、人机中心化在线实验系统设计与实现，以及虚拟现实/增强现实技术在实验教学中的融合应用。研究成果发表于Nature Communications、IEEE Transactions on Industrial Electronics、IEEE Transactions on Power Systems等国际顶尖期刊，多项成果为ESI高被引论文。",
+    "disciplines": [
+      "控制科学与工程",
+      "电气工程",
+      "计算机科学与技术",
+      "教育技术学"
+    ],
+    "field_tags": [
+      "数字孪生",
+      "在线实验系统",
+      "网络化控制系统",
+      "虚拟现实",
+      "增强现实",
+      "教育技术",
+      "电力系统",
+      "人机交互",
+      "Web实验平台",
+      "控制工程教育"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "Digital Twin based monitoring and control for DC-DC converters",
+        "keywords": [
+          "数字孪生",
+          "DC-DC转换器",
+          "监控与控制",
+          "网络化控制系统"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "控制理论与控制工程",
+          "数字孪生",
+          "电力电子系统"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Web-based digital twin communication system of power systems for training and education",
+        "keywords": [
+          "基于网络的数字孪生",
+          "电力系统",
+          "教育与培训",
+          "在线实验"
+        ],
+        "journal_name": "IEEE Transactions on Power Systems",
+        "research_fields": [
+          "电力系统",
+          "数字孪生",
+          "教育技术"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Unified and flexible online experimental framework for control engineering education",
+        "keywords": [
+          "在线实验框架",
+          "控制工程教育",
+          "数字孪生",
+          "教育技术"
+        ],
+        "journal_name": "IEEE Transactions on Industrial Electronics",
+        "research_fields": [
+          "控制工程教育",
+          "在线实验系统",
+          "数字孪生"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Toward a web-based digital twin thermal power plant",
+        "keywords": [
+          "网络化数字孪生",
+          "热力发电厂",
+          "在线实验",
+          "工业信息化"
+        ],
+        "journal_name": "IEEE Transactions on Industrial Informatics",
+        "research_fields": [
+          "工业信息化",
+          "数字孪生",
+          "能源系统"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Flipping laboratories toward future experimentation systems: The blended use of hands-on, pocket, and online laboratories",
+        "keywords": [
+          "实验教学改革",
+          "混合式实验",
+          "在线实验室",
+          "教育技术"
+        ],
+        "journal_name": "IEEE Industrial Electronics Magazine",
+        "research_fields": [
+          "教育技术",
+          "实验系统",
+          "控制工程教育"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zclei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年科学基金",
+      "湖北省自然科学基金面上项目",
+      "中国博士后科学基金特别资助（站中）",
+      "博士后国际交流计划学术交流项目",
+      "湖北省博士后创新研究岗位资助项目",
+      "水资源高效利用与工程安全国家工程研究中心开放研究基金",
+      "中央高校自主科研项目",
+      "西班牙科学和创新部项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中国博士后科学基金会",
+      "西班牙科学和创新部",
+      "水资源高效利用与工程安全国家工程研究中心",
+      "中央高校"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 雷忠诚\n页面链接: http://jszy.whu.edu.cn/zclei/zh_CN/index.htm\n==================================================\n武汉大学 雷忠诚--中文主页--首页\n雷忠诚\n硕士生导师\n性别：男\n毕业院校：武汉大学\n学历：博士研究生毕业\n在职信息：在职\n所在单位：机器人学院\n学科：\n控制理论与控制工程\n办公地点：工学部十一教301B\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业硕导\n个人简介\n雷忠诚，男，湖北黄冈人，现为武汉大学机器人学院副研究员，博士生导师。2014年和2019年于武汉大学获工学学士和工学博士学位，2020-2022年于武汉大学电气与自动化学院从事博士后研究工作，2022-2025年为武汉大学电气与自动化学院副研究员。近年来以第一作者/通讯作者在Nature Communications、IEEE Transactions on Industrial Electronics、IEEE Transactions on Industrial Informatics 、IEEE Transactions on Power Systems、IEEE Industrial Electronics Magazine等国际顶尖期刊上发表学术论文二十余篇，其中ESI高被引论文2篇。受理/授权国家发明专利6项，获软件著作权17项。主持国家自然科学基金面上项目、国家自然科学基金青年科学基金、湖北省自然科学基金面上项目、中国博士后科学基金特别资助（站中）、博士后国际交流计划学术交流项目、湖北省博士后创新研究岗位资助项目、水资源高效利用与工程安全国家工程研究中心开放研究基金和中央高校自主科研项目，参与西班牙科学和创新部项目。现为IEEE 高级会员，中国自动化学会会员，担任IEEE TIE、 TII、TLT和JAS等期刊的审稿人和多个国际会议的技术委员会委员，入选2025全球前2%顶尖科学家榜单。目前主要研究方向为网络化控制系统、虚拟现实（VR）/增强现实（AR）和数字孪生在控制系统和电力系统中的应用、在线实验系统与教育技术。\n招生信息：欢迎自动化、计算机、机器人和电气等相关专业和跨专业学生推免和报考，大力支持国际短期访问和国内外学术会议交流。2026年（入学年份）在机器人学院招生，指标充足，欢迎联系zhongcheng.lei@whu.edu.cn。\n期刊论文\n1. Zhongcheng Lei, Hong Zhou, Xiaoran Dai, Wenshan Hu, Guo-Ping Liu, Digital Twin based monitoring and control for DC-DC converters, Nature Communications, 2023, 14, 5064, doi: 10.1038/s41467-023-41248-z. （SCI一区Top）\n2. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Shiqi Guan, Web-based digital twin communication system of power systems for training and education, IEEE Transactions on Power Systems, 2024, 3(2): 3592-3602, doi: 10.1109/TPWRS.2023.3308510. （SCI一区Top）\n3. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Unified and flexible online experimental framework for control engineering education, IEEE Transactions on Industrial Electronics, 2022, 69(1): 835-844, doi: 10.1109/TIE.2021.3053903. （ESI 高被引，SCI一区Top）\n4. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Shiqi Guan, Xingle Feng, Toward a web-based digital twin thermal power plant, IEEE Transactions on Industrial Informatics, 2022, 18(3): 1716-1725, doi: 10.1109/TII.2021.3086149. （SCI一区Top）\n5. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Flipping laboratories toward future experimentation systems: The blended use of hands-on, pocket, and online laboratories, IEEE Industrial Electronics Magazine, 2023, 17(2): 48-60, doi: 10.1109/MIE.2022.3190823. （SCI一区Top）\n6. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Qijun Deng, Dongguo Zhou, Zhi-Wei Liu, Xingran Gao, Unified 3-D interactive human-centered system for online experimentation: Current deployment and future perspectives, IEEE Transactions on Industrial Informatics, 2021, 17(7): 4777-4787, doi: 10.1109/TII.2020.3019238. （SCI一区Top）\n7. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Qijun Deng, Dongguo Zhou, Zhi-Wei Liu, HTML5-based 3-D online control laboratory with virtual interactive wiring practice, IEEE Transactions on Industrial Informatics, 2018, 14(6): 2473-2483, doi: 10.1109/TII.2017.2769883. （SCI一区Top）\n8. Wenshan Hu, Zhongcheng Lei, Hong Zhou, Guo-Ping Liu, Qijun Deng, Dongguo Zhou, Zhi-Wei Liu, Plug-in free web-based 3-D interactive laboratory for control engineering education, IEEE Transactions on Industrial Electronics, 2017, 64(5): 3808-3818, doi: 10.1109/TIE.2016.2645141. （SCI一区Top）\n9. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Controller effect in online laboratories—An Overview, IEEE Transactions on Learning Technologies, 2024, 17: 608-618, doi: 10.1109/TLT.2023.3267491. （SCI和SSCI双检索，ESI 高被引，SCI二区）\n10. Hector Vargas, Ruben Heradio, Gonzalo Farias, Zhongcheng Lei*, Luis de la Torre, A pragmatic framework for assessing learning outcomes in competency-based courses, IEEE Transactions on Education, 2024, 67(2): 224-233, doi: 10.1109/TE.2023.3347273. （SCI三区）\n11. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Teaching and comprehensive learning with remote laboratories and MATLAB for an undergraduate system identification course, IEEE Transactions on Education, 2022, 65(3): 402-408, doi: 10.1109/TE.2021.3123302.  （SCI三区,）\n12. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Qijun Deng, Dongguo Zhou, Zhi-Wei Liu, Xingran Gao, 3-D interactive control laboratory for classroom demonstration and online experimentation in engineering education, IEEE Transactions on Education, 2021, 64(3): 276-282, doi: 10.1109/TE.2020.3041070. （SCI三区）\n13. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Access data based analytics and visualization for web-based online laboratories, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2024, 5(2): 488-497, doi: 10.1109/JESTIE.2023.3342693.\n14. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Concurrent experimentation in NCSLab: A scalable approach for online laboratories, Future Generation Computer Systems, 2023, 148: 139-149, doi: 10.1016/j.future.2023.05.014. （SCI二区Top）\n15. Shiqi Guan, Wenshan Hu*, Zhongcheng Lei*, Hong Zhou, Digital twin-based online tools for electric power communication system training: Online digital twin power communication system, IET Generation, Transmission & Distribution, 2023,17(1): 146-160, doi: 10.1049/gtd2.12670. （SCI四区，封面文章，获2022年第四季度“Wiley威立中国开放科学高贡献作者”奖）\n会议论文\n1. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Web Analytics and Visualization for Online Laboratories, 2022 1st Industrial Electronics Society Annual On-Line Conference (ONCON); Dec. 2022.\n2. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Shiqi Guan, Xingle Feng, From virtual simulation to digital twins in online laboratories, 2021 40th Chinese Control Conference (CCC); Shanghai, China, Jul. 2021.\n3. Zhongcheng Lei, Hong Zhou, Shengwang Ye, Wenshan Hu, Guo-Ping Liu, Cost-effective server-side re-deployment for web-based online laboratories using NGINX reverse proxy, IFAC-PapersOnLine, 21st IFAC World Congress: Berlin, Germany,12-17 July 2020, 53(02): 17204-17209. (IFAC World Congress 2020 Young Author Support Grant)\n4. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Combining MOOL with MOOC to promote control engineering education: Experience with NCSLab, IFAC-PapersOnLine, 12th IFAC Symposium on Advances in Control Education (ACE 2019): Philadelphia, Pennsylvania, USA, 7–9 July 2019, 52(09): 236-241, DOI: 10.1016/j.ifacol.2019.08.207.\n5. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Design and implementation of online fan wiring experiments based on NCSLab, 2017 Chinese Automation Congress (CAC); Jinan, China, Oct. 2017.\n书章节\n1. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Digital twin technology in the electrical power industry, in Digital Twin Technology for the Energy Sector: Fundamentals, Advances, Challenges, and Applications, Elsevier. 2025, pages 95-110, ISBN: 978-0-443-14070-9, DOI: 10.1016/B978-0-443-14070-9.00004-4.\n2. Gabriel Conde Carrillo, Zhongcheng Lei*, Jesús Chacón, and Luis de la Torre, Design of teaching platform for process automation, in Towards a Hybrid, Flexible and Socially Engaged Higher Education (Volume 4), Lecture Notes in Networks and Systems; Switzerland AG: Springer, pages 440–451, ISBN: 978-3-031-53382-2, DOI: 10.1007/978-3-031-53382-2_43.\n3. Zhongcheng Lei, Hong Zhou, Wenshan Hu, Guo-Ping Liu, Human-Centered Design in Online Laboratories for Graduate Engineering Students, in Online Engineering and Society 4.0. New York, USA: Springer, 2022, pages 94-104; ISBN: 978-3-030-82529-4, DOI: 10.1007/978-3-030-82529-4_10. （Best Full Paper Award）\n4. Zhongcheng Lei, Wenshan Hu, Hong Zhou, Weilong Zhang, Integrating a Wireless Power Transfer System into Online Laboratory: Example with NCSLab. in Online Engineering & Internet of Things. Berlin, Germany: Springer, 2018, pages 278-289; ISBN: 978-3-319-64351-9, DOI:10.1007/978-3-319-64352-6_26.\n教育经历\n2014.9 -- 2019.12\n武汉大学\n机械电子工程\n博士研究生毕业\n工学博士学位\n2010.9 -- 2014.6\n武汉大学\n自动化\n本科(学士)\n工学学士学位\n工作经历\n2022.7 -- 至今\n武汉大学\n电气与自动化学院 人工智能与自动化系\n副研究员\n2020.1 -- 2022.6\n武汉大学\n电气与自动化学院 人工智能与自动化系\n博士后，合作导师：刘国平教授，欧洲科学院院士\n社会兼职\nIEEE Senior Member, IES Member, IEEE SA Member\n中国自动化学会会员\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

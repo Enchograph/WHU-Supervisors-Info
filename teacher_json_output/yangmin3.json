@@ -1,0 +1,170 @@
+{
+  "id": "yangmin3",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yangmin3/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "杨敏",
+    "english_name": "Yang Min",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "地图制图学与地理信息工程",
+        "school": "武汉大学",
+        "period": "2007-2013",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "地理信息系统",
+        "school": "武汉大学",
+        "period": "2003-2007",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "测绘科学与技术奖一等奖2项",
+      "全国高等学校GIS青年教师讲课竞赛特等奖",
+      "武汉大学青年教师教学竞赛一等奖",
+      "武汉大学教师教学创新大赛一等奖",
+      "武汉大学本科教学业绩奖",
+      "武汉大学教学成果特等奖"
+    ],
+    "academic_services": [
+      "中国地理信息产业协会就业指导工作委员会秘书长",
+      "中国测绘学会智能化测绘工作委员会委员",
+      "中国测绘学会大数据与人工智能工作委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "地图空间模式识别",
+      "地图综合与多尺度制图",
+      "地理实体建模与图谱分析"
+    ],
+    "research_interests": [
+      "智能化地图制图",
+      "地理信息工程",
+      "空间数据分析",
+      "多尺度制图",
+      "地理实体建模"
+    ],
+    "research_description": "主要从事智能化地图制图方向研究，包括地图空间模式识别、地图综合与多尺度制图、地理实体建模与图谱分析等，研究成果应用于自然资源调查数据处理、境外区域多尺度制图等领域。主持国家自然科学基金4项、国家级预研项目3项、省部级项目5项，参与国家重点研发计划课题、自然科学基金重点项目及与华为公司等合作课题。",
+    "disciplines": [
+      "地图学与地理信息系统",
+      "地图制图学与地理信息工程",
+      "测绘工程"
+    ],
+    "field_tags": [
+      "智能化制图",
+      "空间模式识别",
+      "多尺度制图",
+      "地理实体建模",
+      "图谱分析",
+      "地理信息工程",
+      "自然资源调查",
+      "数据处理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "基于深度学习的地图空间模式识别方法研究",
+        "keywords": [
+          "地图空间模式识别",
+          "深度学习",
+          "地理信息系统"
+        ],
+        "journal_name": "International Journal of Geographical Information Science (IJGIS)",
+        "research_fields": [
+          "地图学与地理信息系统",
+          "智能化地图制图"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "多尺度制图中的地理实体动态建模与图谱分析",
+        "keywords": [
+          "多尺度制图",
+          "地理实体建模",
+          "图谱分析"
+        ],
+        "journal_name": "Computers, Environment and Urban Systems (CEUS)",
+        "research_fields": [
+          "地图制图学与地理信息工程",
+          "地理信息工程"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "面向自然资源调查的智能化地图综合技术研究",
+        "keywords": [
+          "地图综合",
+          "自然资源调查",
+          "智能化制图"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "地图制图学与地理信息工程",
+          "地理信息系统"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yangmin3/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家级预研项目",
+      "省部级项目",
+      "国家重点研发计划课题",
+      "自然科学基金重点项目",
+      "企业合作课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家级预研项目管理部门",
+      "省部级主管部门",
+      "国家重点研发计划项目管理办公室",
+      "自然科学基金重点项目管理机构",
+      "华为公司"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杨敏\n页面链接: http://jszy.whu.edu.cn/yangmin3/zh_CN/index.htm\n==================================================\n武汉大学 杨敏--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n杨敏\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Yang Min\n电子邮箱：\n所在单位：资源与环境科学学院\n学历：博士研究生毕业\n办公地点：资源与环境科学学院电脑城413\n性别：男\n联系方式：yangmin2003@whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：资源与环境科学学院\n学科：\n地图学与地理信息系统\n地图制图学与地理信息工程\n联系方式Contact information\n邮编: \n通讯/办公地址: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n武汉大学地理信息与地图科学系教授，博士生导师，担任中国地理信息产业协会就业指导工作委员会秘书长、中国测绘学会智能化测绘工作委员会委员、中国测绘学会大数据与人工智能工作委员会委员。2007年和2013年分别获得武汉大学地理信息系统学士学位和地图制图学与地理信息工程博士学位，2016年至2017年在堪萨斯大学地理系从事访问学者。主要从事智能化地图制图方向研究，包括地图空间模式识别、地图综合与多尺度制图、地理实体建模与图谱分析等，研究成果应用于自然资源调查数据处理、境外区域多尺度制图等领域。截止目前，主持国家自然科学基金4项、国家级预研项目3项、其它省部级项目5项，参与国家重点研发计划课题、自然科学基金重点项目、以及与华为公司等合作课题；在IJGIS、CEUS、CAGIS、JAG、TGIS、GSIS、IJDE、ESWA、测绘学报等国内外期刊发表学术论文70余篇，授权发明专利10余项，获得测绘科学与技术奖一等奖2项。参编教材《地图设计与编制》、《地图投影原理与实践》，获得全国高等学校GIS青年教师讲课竞赛特等奖，武汉大学青年教师教学竞赛一等奖，武汉大学教师教学创新大赛一等奖，武汉大学本科教学业绩奖，武汉大学教学成果特等奖等。招收地图制图学与地理信息工程、地图学与地理信息系统、测绘工程等专业方向的博士硕士研究生，欢迎报考!\n教育经历 Personal profile\n2007-2013\n武汉大学>\n地图制图学与地理信息工程>\n工学博士学位>\n研究生毕业\n2003-2007\n武汉大学>\n地理信息系统>\n理学学士学位>\n本科(学士)\n工作经历 Personal profile\n[1] 2022--至今\n资源与环境科学学院 >\n武汉大学\n> 教授\n[2] 2016--2022\n资源与环境科学学院 >\n武汉大学\n> 副教授\n[3] 2016--2017\n地理系 >\nThe Kansas University\n> 访问学者\n[4] 2013--2016\n资源与环境科学学院 >\n武汉大学\n> 讲师\n研究方向 Personal profile\n地图空间模式识别\n地图综合与多尺度制图\n地理实体建模与图谱分析\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

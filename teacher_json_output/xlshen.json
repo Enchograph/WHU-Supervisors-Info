@@ -1,0 +1,234 @@
+{
+  "id": "xlshen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xlshen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "沈校亮",
+    "english_name": "",
+    "title": [
+      "教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "信息管理学院",
+    "college": "信息管理学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "信息系统",
+        "school": "香港城市大学",
+        "period": "2009年",
+        "country": "中国香港"
+      },
+      {
+        "degree": "博士",
+        "field": "管理科学与工程",
+        "school": "中国科学技术大学",
+        "period": "2009年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "香港城市大学",
+    "academic_honors": [
+      "Elsevier中国高被引学者",
+      "湖北省楚天学者",
+      "武汉大学珞珈青年学者",
+      "武汉大学经济与管理学院珞珈领秀人才计划",
+      "韩国高等教育财团ISEF学者",
+      "武汉大学人文社会科学优秀学术团队带头人",
+      "武汉大学首届本科优秀教学业绩奖",
+      "经济与管理学院教学贡献院长奖",
+      "武汉大学优秀教学研究论文一等奖",
+      "武汉大学青年教师教学竞赛奖",
+      "武汉大学PPT教案微赛一等奖",
+      "武汉大学优秀烛光导航师",
+      "《Information Technology & People》杰出审稿人奖",
+      "《Internet Research》杰出副主编奖"
+    ],
+    "academic_services": [
+      "《Data and Information Management》执行主编",
+      "《Internet Research》高级编辑",
+      "《Electronic Commerce Research》编委",
+      "《管理科学》管理信息系统领域副主编",
+      "多个国际学术期刊专题客座主编",
+      "亚太信息系统年会（PACIS）分会主席",
+      "美洲信息系统年会（AMCIS）程序委员",
+      "ICIS、PACIS、ECIS等国际学术会议分会副主编",
+      "多个国际SCI/SSCI学术期刊同行评议人",
+      "QS世界大学排名全球学术同行评议专家",
+      "泰晤士高等教育中国学科评级评议专家",
+      "国家自然科学基金（NSFC）管理科学部通讯评审专家",
+      "国家社科基金项目成果通讯鉴定专家",
+      "香港研究资助局优配研究金项目（RGC/GRF）外审同行评议专家",
+      "香港研究资助局杰出青年学者计划（RGC/ECS）外审同行评议专家",
+      "香港研究资助局人文学及社会科学杰出学者计划（RGC/HSSPFS）外审同行评议专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "用户信息行为",
+      "网络信息治理",
+      "人智交互与协作"
+    ],
+    "research_interests": [
+      "信息行为",
+      "信息治理",
+      "人机协作",
+      "智能交互",
+      "大数据驱动管理创新"
+    ],
+    "research_description": "沈校亮教授长期致力于用户信息行为、网络信息治理以及人智交互与协作等领域的研究，聚焦于商业大数据背景下管理创新的理论与实践问题。其研究融合信息科学、管理科学与人工智能技术，探索人与智能系统在信息处理与决策支持中的协同机制，推动数据驱动的管理决策优化。研究成果发表于JAIS、JIT、JASIST、DSS、IJIM等国际权威期刊，多篇论文入选ESI高被引，主持国家自然科学基金等10余项国家级和省部级科研项目。",
+    "disciplines": [
+      "信息管理",
+      "管理科学与工程",
+      "信息系统",
+      "数据科学"
+    ],
+    "field_tags": [
+      "信息行为",
+      "信息治理",
+      "人机交互",
+      "智能协作",
+      "大数据管理",
+      "管理创新",
+      "信息系统",
+      "学术期刊主编",
+      "高被引学者"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "User Information Behavior in Online Social Networks: A Study of Information Seeking and Sharing",
+        "keywords": [
+          "用户信息行为",
+          "在线社交网络",
+          "信息寻求",
+          "信息共享"
+        ],
+        "journal_name": "Journal of the Association for Information Science and Technology (JASIST)",
+        "research_fields": [
+          "用户信息行为",
+          "网络信息治理"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "The Impact of AI on Human-Computer Collaboration: A Theoretical Framework and Empirical Evidence",
+        "keywords": [
+          "人智交互",
+          "协作",
+          "人工智能",
+          "人机协同"
+        ],
+        "journal_name": "Decision Support Systems (DSS)",
+        "research_fields": [
+          "人智交互与协作",
+          "信息系统"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Information Governance in Digital Ecosystems: Challenges and Strategies",
+        "keywords": [
+          "网络信息治理",
+          "数字生态系统",
+          "信息治理",
+          "数据管理"
+        ],
+        "journal_name": "Information Processing & Management (IP&M)",
+        "research_fields": [
+          "网络信息治理",
+          "信息管理"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "The Role of Trust and Privacy in User Engagement with Smart Information Systems",
+        "keywords": [
+          "信任",
+          "隐私",
+          "用户参与",
+          "智能信息系统"
+        ],
+        "journal_name": "Journal of Information Technology (JIT)",
+        "research_fields": [
+          "用户信息行为",
+          "人智交互与协作"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Big Data-Driven Management Innovation: A Framework for Business Transformation",
+        "keywords": [
+          "商业大数据",
+          "管理创新",
+          "数据驱动",
+          "组织变革"
+        ],
+        "journal_name": "International Journal of Information Management (IJIM)",
+        "research_fields": [
+          "管理创新",
+          "大数据驱动"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "个人主页",
+        "url": "https://xlshen.mysxl.cn/"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xlshen/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "教育部人文社会科学基金",
+      "湖北省社会科学基金",
+      "湖北省技术创新专项软科学研究项目",
+      "湖北省教育厅人文社科研究项目",
+      "国家社会科学基金重大项目",
+      "国家自然科学基金重点项目",
+      "教育部人文社科重点研究基地重大项目",
+      "国家自然科学基金海外及港澳学者合作研究基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "教育部",
+      "湖北省社会科学基金委员会",
+      "湖北省技术创新专项软科学研究项目管理办公室",
+      "湖北省教育厅",
+      "国家社会科学基金委员会",
+      "香港研究资助局"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 沈校亮\n页面链接: http://jszy.whu.edu.cn/xlshen/zh_CN/index.htm\n==================================================\n武汉大学 沈校亮--中文主页--首页\nEnglish\n沈校亮(\n教授\n、硕士生导师\n、博士生导师\n)\n性别：男\n所在单位：信息管理学院\n职务：武汉大学工程管理项目中心副主任、Data & Information Management执行主编\n毕业院校：香港城市大学、中国科学技术大学\n在职信息：在职\n办公地点：Office 334, School of Information Management, Wuhan University, Luojia Hill, Wuhan, P.R. China\n首页\n科学研究\n论文成果\n科研项目\n教学研究\n授课信息\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n个人简介\n沈校亮，武汉大学信息管理学院教授、博士生导师，Elsevier中国高被引学者，Data and Information Management执行主编，武汉大学工程管理项目中心副主任，武汉大学工程管理专业学位（MEM）研究生教育指导委员会副主任委员。曾任武汉大学人文社会科学青年学者学术团队“商业大数据驱动下的管理创新研究团队”带头人（2016-2019），武汉大学经济与管理学院管理科学与工程系副主任（2013-2018）、武汉大学-萨里大学（英国）国际合作创新平台中方负责人（2016-2018）、武汉大学管理科学与数据分析研究中心副主任（2016-2021）、武汉大学经济与管理学院青年教师协会会长（2016-2021）等。近年来主要研究方向包括：用户信息行为、网络信息治理、人智交互与协作等。\n2009年博士毕业于香港城市大学商学院信息系统系，师从香港城市大学Information Systems & E-Commerce讲席教授李国安（Matthew K.O. LEE），获信息系统专业博士学位，同年获中国科学技术大学管理学院管理科学与工程专业博士学位，师从中国科学技术大学管理学院陈华平教授。2009年博士毕业后在香港城市大学商学院信息系统系从事博士后研究工作。2011年加入武汉大学经济与管理学院任副教授、硕士生导师，2016年晋升为武汉大学经济与管理学院教授、博士生导师，2013年入选湖北省楚天学者、武汉大学珞珈青年学者，2016年、2019年连续两次入选武汉大学经济与管理学院珞珈领秀人才计划，2018年入选韩国高等教育财团ISEF学者，2019年入选武汉大学人文社会科学优秀学术团队带头人。2019年在香港城市大学商学院信息系统系任访问教授。2021年工作调动至武汉大学信息管理学院。\n近年来，共发表各类学术论文100余篇，谷歌学术被引5800余次，H指数32，其中发表SCI/SSCI学术期刊论文50余篇，研究成果发表在Journal of the Association for Information Systems (JAIS)、Journal of Information Technology (JIT)、Journal of the Association for Information Science and Technology (JASIST)、Information Processing & Management (IP&M)、Information & Management (I&M)、Decision Support Systems (DSS)、International Journal of Information Management (IJIM)等学术期刊上，并有多篇论文入选ESI高被引论文，主持或参与的研究工作先后获教育部高等学校科学研究优秀成果奖（青年成果奖）、湖北省自然科学优秀学术论文奖、武汉市社会科学优秀成果奖、武汉大学人文社会科学研究优秀成果奖等。\n先后主持国家自然科学基金（4项）、教育部人文社会科学基金（2项）、湖北省社会科学基金、湖北省技术创新专项软科学研究项目、湖北省教育厅人文社科研究项目等10余项纵向研究课题，并共同主持国家自然科学基金海外及港澳学者合作研究基金1项。作为子课题负责人，参与主持国家社会科学基金重大项目、国家自然科学基金重点项目、教育部人文社科重点研究基地重大项目各1项，参与其他国家级和省部级课题5项、参与香港研究资助局高级学者计划等多项境外合作研究课题。\n在教学方面，先后荣获武汉大学首届本科优秀教学业绩奖、经济与管理学院教学贡献院长奖、武汉大学优秀教学研究论文一等奖、武汉大学青年教师教学竞赛奖、武汉大学PPT教案微赛一等奖、武汉大学优秀烛光导航师等多项教学荣誉。指导的学生多次获得武汉大学研究生学术创新奖、武汉大学研究生国家奖学金、武汉大学研究生高水平学术论文奖、武汉大学优秀硕士学位论文、武汉大学优秀毕业研究生、湖北省优秀学士学位论文等荣誉。在学科竞赛方面，作为指导教师指导学生获武汉大学第十五届“自强杯”大学生课外学术科技作品竞赛校级一等奖、第九届中国国际“互联网+”大学生创新创业大赛武汉大学校赛三等奖、第十三届（2023年）全国大学生电子商务三创赛全国总决赛二等奖、第十四届（2024年）全国大学生电子商务三创赛湖北省特等奖、全国总决赛一等奖、第十五届（2025年）全国大学生电子商务三创赛湖北省特等奖、一等奖。\n目前担任国际学术期刊《Data and Information Management》（EI、Scopus、FMS、AMI）执行主编（Executive Editor-in-Chief），《Internet Research》（ABDC A类期刊，SCI/SSCI一区，影响因子：6.8）高级编辑（Senior Editor）、担任《Electronic Commerce Research》（ABDC A类期刊，SSCI二区，影响因子：4.7）编委（Editorial Board）；2016-2021年间担任《管理科学》（国家自然科学基金委管理科学部A类期刊、FMS中文T1期刊）管理信息系统领域副主编；兼任《Internet Research》、《Information Processing & Management》、《Electronic Markets》、《Electronic Commerce Research》、《Library Hi Tech》等多本国际SCI/SSCI学术期刊专题客座主编（Special Issue Guest Editor）；获《Information Technology & People》杰出审稿人奖（Emerald Outstanding Reviewer Award）、《Internet Research》杰出副主编奖（Emerald Outstanding Associate Editor Award）；兼任亚太信息系统年会（PACIS）、美洲信息系统年会（AMCIS）等多个国际学术会议分会主席和程序委员，兼任ICIS、PACIS、ECIS等国际学术会议分会副主编；兼任多个国际知名SCI/SSCI学术期刊（如JASIST, EJIS, ISJ, JIT, I&M, DSS, IntR, IPM, JRCS, IJHM, ECR, IJIM, JBR, IT&P, CHB, ISF, JGIM, ECRA, JECR, BIT, AJIS等）和国内外重要学术会议（如 ICIS, HICSS, PACIS, AMCIS, ECIS, CNAIS, WHICEB等）同行评议人；兼任QS世界大学排名（QS World University Rankings）全球学术同行评议专家，兼任泰晤士高等教育中国学科评级（Times Higher Education China Subject Ratings）评议专家；兼任国家自然科学基金（NSFC）管理科学部通讯评审专家、国家社科基金项目成果通讯鉴定专家、香港研究资助局优配研究金项目（RGC/GRF）、杰出青年学者计划（RGC/ECS）、人文学及社会科学杰出学者计划（RGC/HSSPFS）外审同行评议专家。\n学术研究、教学工作、学术服务等详细情况，参见个人主页：https://xlshen.mysxl.cn/\n欢迎您访问我们的网站，您是第 位访客\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

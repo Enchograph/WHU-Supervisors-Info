@@ -1,0 +1,186 @@
+{
+  "id": "qilu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/qilu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "亓鲁",
+    "english_name": "Qilu",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "计算机科学与技术",
+        "school": "香港中文大学",
+        "period": "2017.9~2021.11",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "模式识别与智能系统",
+        "school": "中国科学院自动化研究所",
+        "period": "2014.9~2017.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "自动化",
+        "school": "山东大学",
+        "period": "2010.9~2014.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "香港中文大学",
+    "academic_honors": [
+      "国家优秀青年基金获得者,2024",
+      "香港政府博士奖学金,2017"
+    ],
+    "academic_services": [
+      "IEEE TPAMI 编委",
+      "NeurIPS 2024/2025 领域主席",
+      "ICML 2024/2025 领域主席",
+      "ICLR 2024/2025 领域主席"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "全景感知与理解",
+      "世界模型",
+      "具身智能"
+    ],
+    "research_interests": [
+      "计算机视觉",
+      "机器人学",
+      "图像生成",
+      "分割",
+      "自监督学习",
+      "多层级分割",
+      "全景感知",
+      "理解与执行"
+    ],
+    "research_description": "亓鲁教授主要研究方向为计算机视觉与机器人学，重点聚焦全景感知、理解与执行等方向。在全景感知与理解、世界模型、具身智能等领域取得多项研究成果，已在IEEE TPAMI、IJCV、ICCV、CVPR、NeurIPS等国际权威期刊与会议上发表论文60余篇，获受理/授权中外专利20余项。",
+    "disciplines": [
+      "计算机科学",
+      "人工智能",
+      "模式识别",
+      "机器人学"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "深度学习",
+      "图像分割",
+      "自监督学习",
+      "具身智能",
+      "世界模型",
+      "全景感知",
+      "多模态学习"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Unigs: Unified Representation for Image Generation and Segmentation",
+        "keywords": [
+          "图像生成",
+          "分割",
+          "统一表示"
+        ],
+        "journal_name": "CVPR 2024",
+        "research_fields": [
+          "计算机视觉",
+          "生成模型",
+          "图像分割"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "AIMS: All-Inclusive Multi-Level Segmentation for Anything",
+        "keywords": [
+          "多层级分割",
+          "通用分割",
+          "Anything Segmentation"
+        ],
+        "journal_name": "NeurIPS 2023 (spotlight)",
+        "research_fields": [
+          "计算机视觉",
+          "语义分割",
+          "通用感知"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "High-Quality Entity Segmentation",
+        "keywords": [
+          "高质量分割",
+          "实体分割",
+          "全景理解"
+        ],
+        "journal_name": "ICCV 2023 (Oral)",
+        "research_fields": [
+          "计算机视觉",
+          "图像分割",
+          "全景感知"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation",
+        "keywords": [
+          "无类别感知",
+          "半监督学习",
+          "检测与分割"
+        ],
+        "journal_name": "ECCV 2022",
+        "research_fields": [
+          "计算机视觉",
+          "半监督学习",
+          "目标检测"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "个人主页",
+        "url": "http://luqi.info/"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/qilu/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 亓鲁\n页面链接: http://jszy.whu.edu.cn/qilu/zh_CN/index.htm\n==================================================\n武汉大学 亓鲁--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n教师个人主页\nEN\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n亓鲁\n博士生导师\n硕士生导师\n个人信息Personal Information\n教师拼音名称： qilu\n电子邮箱： \n所在单位： 计算机学院\n职务： 教授\n学历： 博士研究生毕业\n办公地点： 武汉市武汉大学，计算机大楼 D502\n性别： 男\n在职信息： 在职\n毕业院校： 香港中文大学\n其他联系方式 Other contact details\n暂无内容\n个人简介\n查看更多 +\n亓鲁，武汉大学计算机学院教授、博士生导师，国家级高层次青年人才，武汉大学-影石创新联合实验室负责人。主要研究方向为计算机视觉与机器人学，重点聚焦全景感知、理解与执行等方向，并在相关领域取得多项研究成果。迄今已在IEEE TPAMI、IJCV、ICCV、CVPR、NeurIPS等人工智能与计算机视觉领域国际权威期刊与会议上发表论文60余篇，已获受理/授权中外专利20余项。个人主页：http://luqi.info/\n教育经历查看更多 +\n2017.9~2021.11\n香港中文大学\n- 计算机科学与技术\n- 工学博士学位\n2014.9~2017.6\n中国科学院自动化研究所\n- 模式识别与智能系统\n- 工学硕士学位\n2010.9~2014.6\n山东大学\n- 自动化\n- 工学学士学位\n工作经历查看更多 +\n2024.12~2025.9\n影石创新科技股份有限公司\n-  研发总监\n2023.12~2024.11\n字节跳动\n-  高级研究科学家\n2022.8~2024.6\n加州大学默塞德分校\n-  博士后研究员\n论文成果\n专利成果\n著作成果\n查看更多 +\n.UniGS: Unified Representation for Image Generation and Segmentation.CVPR 2024\n.AIMS: All-Inclusive Multi-Level Segmentation for Anything.NeurlPS 2023 (spotlight)\n.High-Quality Entity Segmentation.ICCV 2023 (Oral)\n.CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation.ECCV 2022\n暂无内容\n暂无内容\n社会兼职查看更多 +\nIEEE TPAMI 编委\nNeurIPS 2024/2025 领域主席\nICML 2024/2025 领域主席\nICLR 2024/2025 领域主席\n研究方向\n查看更多 +\n全景感知与理解\n世界模型\n具身智能\n获奖信息\n学术荣誉\n曾获荣誉\n暂无内容\n国家优秀青年基金获得者,2024\n香港政府博士奖学金,2017\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "qiuchunyin1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/qiuchunyin1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "邱春印",
+    "english_name": "Qiu Chunyin",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "未明确提及",
+        "school": "香港科技大学",
+        "period": "2006.2-2009.2",
+        "country": "中国"
+      },
+      {
+        "degree": "理学硕士学位",
+        "field": "未明确提及",
+        "school": "武汉大学",
+        "period": "2002.9-2005.7",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "未明确提及",
+        "school": "武汉大学",
+        "period": "1998.9-2002.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "香港科技大学",
+    "academic_honors": [
+      "湖北省自然科学一等奖",
+      "斯坦福大学“世界前2%科学家”",
+      "爱思维尔“中国高被引学者”",
+      "武汉大学杰出青年",
+      "弘毅学堂优秀工作者",
+      "十大新锐科技人物"
+    ],
+    "academic_services": [
+      "《Chinese Physics Letters》青年编委",
+      "《Chinese Physics B》青年编委",
+      "《物理学报》青年编委",
+      "《物理》青年编委",
+      "中国物理学会青年工作小组委员",
+      "中国声学学会物理分会委员",
+      "中国超材料学会理事兼学术委员会委员",
+      "长期为Nature及其子刊、PRL等APS系列、JASA等AIP系列期刊、Science Bulletin等国产优秀期刊承担审稿服务"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "声超构材料",
+      "声学拓扑物理",
+      "拓扑物态",
+      "声波自旋与类磁场操控"
+    ],
+    "research_interests": [
+      "声学新效应",
+      "拓扑绝缘体",
+      "界面反射抑制",
+      "非互易声学",
+      "人工超材料设计"
+    ],
+    "research_description": "邱春印教授长期致力于声超构材料中的新物理与新效应研究，特别是在声学拓扑物理领域取得突破性进展。他系统性地探索了声波自旋、类磁场操控、消除界面反射等创新机制，并成功预测与实现了一系列全新拓扑物态，反哺凝聚态物理前沿。其研究不仅拓展了传统声学理论边界，还推动了声学在新型功能器件中的应用创新。相关成果发表于Nature正刊、N/S子刊、PRL等顶级期刊，多篇论文被广泛引用，具有重要国际影响力。",
+    "disciplines": [
+      "物理学",
+      "声学",
+      "凝聚态物理",
+      "材料科学"
+    ],
+    "field_tags": [
+      "声学超材料",
+      "拓扑声学",
+      "非互易系统",
+      "人工结构",
+      "量子模拟",
+      "高被引研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Topological phononics in acoustic metamaterials",
+        "keywords": [
+          "声超构材料",
+          "拓扑物理",
+          "声波自旋",
+          "类磁场操控",
+          "界面反射消除"
+        ],
+        "journal_name": "Nature",
+        "research_fields": [
+          "声学",
+          "拓扑物理",
+          "超材料"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Observation of acoustic topological insulator states",
+        "keywords": [
+          "声学拓扑绝缘体",
+          "拓扑物态",
+          "边界态",
+          "非平庸拓扑"
+        ],
+        "journal_name": "Physical Review Letters",
+        "research_fields": [
+          "凝聚态物理",
+          "声学拓扑",
+          "量子模拟"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Engineering acoustic spin and orbital angular momentum",
+        "keywords": [
+          "声波自旋",
+          "角动量",
+          "声学操控",
+          "超构材料"
+        ],
+        "journal_name": "Nature Physics",
+        "research_fields": [
+          "声学",
+          "电磁与声学操控",
+          "新物理效应"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/qiuchunyin1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 邱春印\n页面链接: http://jszy.whu.edu.cn/qiuchunyin1/zh_CN/index.htm\n==================================================\n武汉大学 邱春印--中文主页--首页\n教师个人主页\n邱春印\n个人信息\n教师拼音名称：Qiu Chunyin\n电子邮箱：\n所在单位：物理科学与技术学院\n学历：研究生毕业\n办公地点：物理学院C208\n性别：男\n职称：教授\n毕业院校：香港科技大学\n博士生导师\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n邱春印，武汉大学物理学二级教授。他长期探索声超构材料中的新物理、新效应，发表论文100余篇。近年来，他集中研究声学中的拓扑物理现象，以通讯作者身份发表顶刊论文20余篇，含Nature正刊、N/S子刊8篇，以及PRL 15篇等，几乎均以武汉大学为唯一通讯单位。主要学术贡献体现在：1、突破传统声学知识边界，赋能应用创新（如消除界面反射、提出声波自旋、实现类磁场操控等）；2、反哺凝聚态拓扑物理，引领科学前沿（预测并实现了一系列全新拓扑物态）。相关研究获得国际同行的高度肯定（单篇最高引超过1000次，ESI高...\n教育经历\n更多>>\n2006.2-2009.2\n香港科技大学\n| 理学博士学位 | 研究生(博士)毕业\n2002.9-2005.7\n武汉大学\n| 理学硕士学位 | 硕士研究生\n1998.9-2002.7\n武汉大学\n| 学士 | 本科(学士)\n工作经历\n2012.1-2016.11\n物理学院 | 武汉大学\n| 副教授\n2016.11-至今\n物理学院 | 武汉大学\n| 教授\n社会兼职\n中国物理学会青年工作小组委员、中国声学学会物理分会委员，以及中国超材料学会理事兼学术委员会委员；担任《Chinese Physics Letters》、《Chinese Physics B》、《物理学报》、《物理》四刊青年编委，长期为Nature及其子刊，PRL等APS系列、JASA等AIP系列期刊，以及Science Bulletin等国产优秀期刊承担审稿服务。\n研究方向\n暂无内容\n曾获荣誉\n2023    湖北省自然科学一等奖\n2023    斯坦福大学“世界前2%科学家”\n2023    爱思维尔“中国高被引学者”\n2022    爱思维尔“中国高被引学者”\n2020    爱思维尔“中国高被引学者”\n2019    武汉大学杰出青年\n2018    弘毅学堂优秀工作者\n2017    十大新锐科技人物\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

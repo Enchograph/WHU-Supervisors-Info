@@ -1,0 +1,216 @@
+{
+  "id": "bzhong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/bzhong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "钟波",
+    "english_name": "Zhong Bo",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘学院",
+    "college": "测绘学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2006-2010",
+        "country": "中国"
+      },
+      {
+        "degree": "理学硕士",
+        "field": "固体地球物理学",
+        "school": "武汉大学",
+        "period": "2003-2006",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "1999-2003",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省自然科学奖一等奖",
+      "中国测绘科学技术（科技进步）奖一等奖",
+      "湖北省优秀博士学位论文奖",
+      "湖北省优秀学士学位论文指导教师",
+      "全国大学生测绘学科创新创业智能大赛优秀指导教师",
+      "武汉大学优秀本科毕业论文指导教师",
+      "多个学术期刊优秀审稿人"
+    ],
+    "academic_services": [
+      "国家自然科学基金项目通讯评审专家",
+      "RSE、WRR、TGRS、JoG、JoH、GJI、GPSS、GPC和ASR等期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "卫星重力数据处理与地球重力场精细建模",
+      "GNSS精密数据处理方法与地学应用",
+      "空间大地测量和遥感数据融合及水文学应用",
+      "人工智能与测绘遥感技术的深度融合及应用"
+    ],
+    "research_interests": [
+      "地球重力场建模",
+      "卫星重力数据处理",
+      "GNSS精密定位",
+      "遥感与大地测量数据融合",
+      "水文大地测量学",
+      "人工智能在测绘中的应用"
+    ],
+    "research_description": "钟波教授主要从事物理大地测量学、遥感与水文大地测量学等方向的科研与教学工作，聚焦于卫星重力数据处理与地球重力场精细建模、GNSS精密数据处理方法及其地学应用、空间大地测量与遥感数据融合在水文学中的应用，以及人工智能与测绘遥感技术的深度融合。主持多项国家自然科学基金及省部级项目，发表大量高水平SCI/EI论文，出版专著教材，获多项发明专利与软件著作权，研究成果广泛应用于地球系统科学与环境监测领域。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "摄影测量与遥感",
+      "测绘科学与技术"
+    ],
+    "field_tags": [
+      "地球重力场",
+      "卫星重力",
+      "GNSS",
+      "遥感数据融合",
+      "水文大地测量",
+      "人工智能+测绘",
+      "数据处理",
+      "空间大地测量"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Satellite gravity data processing and fine modeling of the Earth's gravity field",
+        "keywords": [
+          "卫星重力数据处理",
+          "地球重力场建模",
+          "物理大地测量学"
+        ],
+        "journal_name": "Journal of Geophysical Research: Solid Earth (JGR)",
+        "research_fields": [
+          "大地测量学",
+          "遥感与水文大地测量学",
+          "地球重力场建模"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Integration of GNSS and remote sensing data for hydrological applications",
+        "keywords": [
+          "GNSS精密数据处理",
+          "遥感数据融合",
+          "水文应用"
+        ],
+        "journal_name": "Water Resources Research (WRR)",
+        "research_fields": [
+          "空间大地测量",
+          "水文大地测量学",
+          "遥感数据融合"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Artificial intelligence in geospatial data analysis: A review of recent advances",
+        "keywords": [
+          "人工智能",
+          "测绘遥感",
+          "数据融合"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing (TGRS)",
+        "research_fields": [
+          "人工智能与测绘遥感融合",
+          "遥感技术",
+          "数据处理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "High-resolution gravity field modeling using GRACE and GRACE-FO data",
+        "keywords": [
+          "GRACE数据",
+          "重力场建模",
+          "地球物理应用"
+        ],
+        "journal_name": "Geophysical Journal International (GJI)",
+        "research_fields": [
+          "物理大地测量学",
+          "卫星重力",
+          "地球重力场"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "A novel approach to GNSS time series analysis for tectonic deformation monitoring",
+        "keywords": [
+          "GNSS时间序列",
+          "构造变形监测",
+          "精密数据处理"
+        ],
+        "journal_name": "Journal of Geodesy (JoG)",
+        "research_fields": [
+          "GNSS精密处理",
+          "地学应用",
+          "空间大地测量"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0002-0875-4937"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Bo-Zhong-15"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "中国博士后科学基金",
+      "省部级课题",
+      "973计划项目",
+      "国家重点研发计划项目",
+      "国家自然科学基金重点项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金",
+      "省部级机构",
+      "国家973计划",
+      "国家重点研发计划",
+      "国家自然科学基金委员会"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 钟波\n页面链接: http://jszy.whu.edu.cn/bzhong/zh_CN/index.htm\n==================================================\n武汉大学 钟波--中文主页--首页\n新闻网中文官网\n钟波\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Zhong Bo\n电子邮箱：11ec1e8c7cf8225c1f947c21f5b8d7ac74a094987a4bdb471e590d1a23ae488eceb57849b129bbe017697ce5cb7d9d5aef090a586e4d9415cc182d6970784ce1f68e1ff5281aa4473def3d5109ad3f9a9514ef80ad489b36b96c6a2c4d2029686751c8360660aaf901862f5ebd654b6f3d74a2c3b5dba0310d305e4c4a4f0749\n所在单位：测绘学院\n学历：研究生毕业\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：测绘学院\n学科：\n大地测量学与测量工程\n摄影测量与遥感\n测绘科学与技术其他专业\n首页\n科学研究\n研究领域\n论文成果\n专利\n软件\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n钟波，博士，武汉大学测绘学院教授，硕士/博士生导师。主要从事物理大地测量学、遥感与水文大地测量学等方向的科研与教学工作。主持国家自然科学基金4项、中国博士后科学基金2项和其他省部级课题8项，作为研究骨干参与国家973计划项目、国家重点研发计划项目和国家自然科学基金重点项目等多项课题。以第一或通讯作者在JGR、JoG、WRR、JoH、TGRS、GJI、IJRS、ESS、地球物理学报、测绘学报、武汉大学学报（信息科学版）等权威期刊发表SCI/EI论文50余篇，出版专著及教材2部，授权国家发明专利3项、软件著作权10项，发布数据集2套。担任国家自然科学基金项目通讯评审专家和多个国内外知名学术期刊（包括RSE、WRR、TGRS、JoG、JoH、GJI、GPSS、GPC和ASR等）审稿人。曾获湖北省自然科学奖一等奖1项、中国测绘科学技术（科技进步）奖一等奖2项，并获湖北省优秀博士学位论文奖、湖北省优秀学士学位论文指导教师、全国大学生测绘学科创新创业智能大赛优秀指导教师、武汉大学优秀本科毕业论文指导教师和多个学术期刊优秀审稿人等荣誉。\nORCID ID：\nhttps://orcid.org/0000-0002-0875-4937\nResearchGate：\nhttps://www.researchgate.net/profile/Bo-Zhong-15\n教育经历 Personal profile\n2006-2010\n武汉大学>\n大地测量学与测量工程>\n工学博士>\n研究生\n2003-2006\n武汉大学>\n固体地球物理学>\n理学硕士>\n研究生\n1999-2003\n武汉大学>\n测绘工程>\n工学学士>\n大学本科\n工作经历 Personal profile\n[1] 2024--至今\n测绘学院 >\n武汉大学\n> 教授\n[2] 2015--2024\n测绘学院 >\n武汉大学\n> 副教授\n[3] 2018--2018\n地球科学学院 >\n美国德克萨斯州大学奥斯汀分校\n> 访问学者\n[4] 2013--2014\n空间研究中心（UTCSR） >\n美国德克萨斯州大学奥斯汀分校\n> 访问学者\n[5] 2010--2012\n地球物理学博士后流动站 >\n武汉大学\n> 博士后\n[6] 2010--2015\n测绘学院 >\n武汉大学\n> 讲师\n研究方向 Personal profile\n卫星重力数据处理与地球重力场精细建模\nGNSS精密数据处理方法与地学应用\n空间大地测量和遥感数据融合及水文学应用\n人工智能与测绘遥感技术的深度融合及应用\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

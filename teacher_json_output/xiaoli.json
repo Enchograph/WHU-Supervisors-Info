@@ -1,0 +1,212 @@
+{
+  "id": "xiaoli",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xiaoli/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "肖丽",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "电化学",
+        "school": "武汉大学",
+        "period": "2005.9 -- 2010.12",
+        "country": "中国"
+      },
+      {
+        "degree": "交流生",
+        "field": "有机化学",
+        "school": "中国科学院理化技术研究所",
+        "period": "2004.9 -- 2005.5",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "化学基地班",
+        "school": "武汉大学",
+        "period": "2001.9 -- 2005.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "香江学者计划",
+      "武汉大学珞珈青年学者"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "氢能电催化",
+      "燃料电池电催化",
+      "水电解电催化",
+      "二氧化碳电化学还原",
+      "电极/聚电解质界面催化",
+      "远离平衡态电极反应动力学"
+    ],
+    "research_interests": [
+      "非铂催化剂",
+      "电催化反应机理",
+      "溶液电催化与器件电催化差异",
+      "能量-空间-时间多维度电催化研究",
+      "氢-水电化学循环"
+    ],
+    "research_description": "肖丽教授长期从事氢能电催化研究，聚焦于燃料电池、水电解和二氧化碳电化学还原等反应，致力于揭示溶液电催化与器件电催化性能差异的物理化学本质。从能量、空间、时间三个维度出发，建立远离平衡态电极反应动力学研究方法，揭示电极/聚电解质界面催化特性，研究器件工况电催化，推动基础研究规律与实际应用效果的统一。",
+    "disciplines": [
+      "电化学",
+      "材料科学",
+      "能源化学",
+      "催化科学"
+    ],
+    "field_tags": [
+      "氢能",
+      "电催化",
+      "碳中和",
+      "非贵金属催化剂",
+      "燃料电池",
+      "电解水",
+      "CO2还原",
+      "界面催化",
+      "动力学研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "“氢-水”电化学循环中的非铂催化剂研究",
+        "keywords": [
+          "非铂催化剂",
+          "氢-水电化学循环",
+          "电催化",
+          "碳中和"
+        ],
+        "journal_name": "武汉大学出版社",
+        "research_fields": [
+          "电化学",
+          "氢能",
+          "催化剂"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Unraveling the Origin of Performance Discrepancy between Solution and Device Electro catalysis",
+        "keywords": [
+          "电催化性能差异",
+          "溶液电催化",
+          "器件电催化",
+          "动力学研究"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "电化学",
+          "能源材料",
+          "催化机理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Designing Efficient Non-Precious Metal Catalysts for Oxygen Reduction Reaction in Fuel Cells",
+        "keywords": [
+          "非贵金属催化剂",
+          "氧还原反应",
+          "燃料电池",
+          "电催化"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "电催化",
+          "燃料电池",
+          "材料科学"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "In Situ Probing of Electrode/Polyelectrolyte Interface Dynamics in Operando Electrochemical Devices",
+        "keywords": [
+          "电极/聚电解质界面",
+          "原位表征",
+          "器件工况",
+          "电催化"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "界面化学",
+          "电化学工程",
+          "原位分析"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Carbon Dioxide Electroreduction to Value-Added Chemicals on Non-Noble Metal Catalysts",
+        "keywords": [
+          "二氧化碳电还原",
+          "非贵金属催化剂",
+          "电化学转化",
+          "绿色能源"
+        ],
+        "journal_name": "Energy & Environmental Science",
+        "research_fields": [
+          "电化学",
+          "碳捕集与利用",
+          "可持续能源"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院",
+        "url": "http://jszy.whu.edu.cn/xiaoli/zh_CN/index.htm"
+      },
+      {
+        "platform": "实验室主页",
+        "url": "http://zhuang.whu.edu.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家优秀青年基金",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "国家重大研究计划",
+      "863项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重大研究计划",
+      "863项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 肖丽\n页面链接: http://jszy.whu.edu.cn/xiaoli/zh_CN/index.htm\n==================================================\n武汉大学 肖丽--中文主页--首页\n肖丽\n教授\n博士生导师\n硕士生导师\n性别：女\n学历：研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n实验室主页：zhuang.whu.edu.cn\n肖丽，武汉大学教授，博士生导师。2005年本科毕业于武汉大学化学基地班，2010年博士毕业于武汉大学电化学专业（师从庄林教授和陆君涛教授），获武汉大学理学博士学位，之后留校任教。2015年至2016年在美国康奈尔大学（Cornell University）做访问学者（合作者Hector D. Abruna教授），2016年回国晋升为副教授，2022年晋升为教授。\n研究与教学工作\n肖丽教授长期从事氢能电催化研究，以国家“碳中和”政策为出发点，研究兴趣包括燃料电池、水电解和二氧化碳电化学还原等反应，探索造成溶液电催化与器件电催化性能差异来源的物理化学本质。从能量、空间、时间3个维度出发，通过建立远离平衡态电极反应动力学研究方法、揭示电极/聚电解质界面催化特性，以及研究器件工况电催化，消除溶液电催化与器件电催化的分歧，一定程度上实现了基础研究规律与实际应用效果的统一。累计发表SCI论文60余篇，包括Nat. Commun.、PNAS、J. Am. Chem. Soc.、Angew. Chem. Int. Ed.、Energy Environ. Sci.、Nano Energy、ACS Catal.、ACS Energy Lett.等。独著的《“氢-水”电化学循环中的非铂催化剂研究》（ISBN：9787307148918）由武汉大学出版社出版。曾入选“香江学者计划”，荣获2017年“武汉大学珞珈青年学者”称号。\n肖丽教授先后主持国家优秀青年基金、国家自然科学基金面上项目2项、国家自然科学基金青年项目1项，作为骨干参加了多个国家重大研究计划、863项目。\n教育经历\n2005.9 -- 2010.12\n武汉大学\n电化学\n博士\n师从庄林教授和陆君涛教授\n2004.9 -- 2005.5\n中国科学院理化技术研究所\n有机化学\n交流生\n2001.9 -- 2005.6\n武汉大学\n化学基地班\n学士\n工作经历\n2016.7 -- 2022.6\n武汉大学\n化学与分子科学学院\n副教授\n2022.7 -- 至今\n武汉大学\n教授\n2015.6 -- 2016.6\n美国康奈尔大学\n化学院\n访问学者\n合作者Hector D. Abruna教授\n2013.1 -- 2016.6\n武汉大学化学与分子科学学院\n讲师\n2011.1 -- 2012.12\n武汉大学化学与分子科学学院\n师资博士后，讲师\n团队成员\n团队名称： 武汉大学庄林教授课题组\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

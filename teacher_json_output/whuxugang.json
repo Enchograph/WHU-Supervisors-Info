@@ -1,0 +1,297 @@
+{
+  "id": "whuxugang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/whuxugang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "许刚",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "土地科学与工程教研室",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "土地资源管理",
+        "school": "武汉大学",
+        "period": "2016-9 至 2019.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "2014-9 至 2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "本科(学士)",
+        "field": "土地资源管理",
+        "school": "武汉大学",
+        "period": "2010-9 至 2014.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "全球Top2%科学家榜单（2024，城市规划）",
+      "中国知网Top1%高被引学者（2024，地理学）",
+      "“博新计划”（2019）",
+      "地理信息科技进步奖二等奖（2024）",
+      "武汉大学学术创新奖特等奖（校长奖）",
+      "武汉大学资源与环境科学学院青年教师教学竞赛一等奖（2024）",
+      "武汉大学资源与环境科学学院青年教师教学竞赛二等奖（2022）",
+      "中国地理学会地理模型与地理信息分析专业委员会2022学术年会优秀论文"
+    ],
+    "academic_services": [
+      "《Humanities and Social Science Communications》编委",
+      "《中国土地科学》编委",
+      "中国地理学会空间综合人文社会科学工作委员会秘书长"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "复杂城市系统演化",
+      "城市土地扩张与空间格局",
+      "城市标度律与城市系统规律"
+    ],
+    "research_interests": [
+      "城市土地扩张",
+      "城市人口增长与土地响应",
+      "城市标度律",
+      "城市密度与空间结构",
+      "夜间灯光与城市形态",
+      "城市系统复杂性与规律性"
+    ],
+    "research_description": "许刚副教授长期致力于复杂城市系统的研究，聚焦城市土地扩张过程及其与人口增长的响应关系，探索城市标度律在不同城市系统中的演化规律。研究涵盖非洲、日本、中国等区域的全球城市比较，结合遥感数据与地理信息分析，揭示城市规模、土地密度、夜间灯光强度等要素的时空变化特征。其研究融合地理学、城市规划与数据科学，关注城市可持续发展、城市形态演变及重大事件（如新冠疫情）对城市系统的影响。",
+    "disciplines": [
+      "土地资源管理",
+      "地图学与地理信息系统",
+      "人文地理学"
+    ],
+    "field_tags": [
+      "城市系统",
+      "标度律",
+      "土地扩张",
+      "夜间灯光",
+      "城市密度",
+      "复杂系统",
+      "城市规划",
+      "地理信息科学",
+      "可持续城市",
+      "全球城市比较"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 36,
+    "representative_publications": [
+      {
+        "title": "Underlying Rules of Evolutionary Urban Systems in Africa",
+        "keywords": [
+          "城市系统演化",
+          "非洲城市",
+          "标度律",
+          "复杂系统"
+        ],
+        "journal_name": "Nature Cities",
+        "research_fields": [
+          "城市规划",
+          "地理信息系统",
+          "复杂系统研究"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Scaling Law in a Stable Urban System of Japan",
+        "keywords": [
+          "日本城市",
+          "标度律",
+          "城市稳定性",
+          "城市系统"
+        ],
+        "journal_name": "Sustainable Cities and Society",
+        "research_fields": [
+          "城市可持续发展",
+          "城市地理学",
+          "空间分析"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Settlement scaling law reveals population-land tensions in 7000+ African urban agglomerations",
+        "keywords": [
+          "非洲城市聚落",
+          "人口-土地张力",
+          "标度律",
+          "城市扩张"
+        ],
+        "journal_name": "Habitat International",
+        "research_fields": [
+          "土地资源管理",
+          "人文地理学",
+          "城市土地利用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Spatial gradients of urban land density and nighttime light intensity in 30 global megacities",
+        "keywords": [
+          "全球特大城市",
+          "土地密度",
+          "夜间灯光强度",
+          "空间梯度"
+        ],
+        "journal_name": "Humanities & Social Sciences Communications",
+        "research_fields": [
+          "城市地理学",
+          "空间综合人文社会科学",
+          "遥感应用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Spatial mismatches between nighttime light intensity and building morphology in Shanghai, China",
+        "keywords": [
+          "上海",
+          "夜间灯光",
+          "建筑形态",
+          "空间错配"
+        ],
+        "journal_name": "Sustainable Cities and Society",
+        "research_fields": [
+          "城市规划",
+          "城市形态",
+          "遥感与GIS应用"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Lockdown induced night-time light dynamics during the COVID-19 epidemic in global megacities",
+        "keywords": [
+          "新冠疫情",
+          "夜间灯光变化",
+          "城市动态",
+          "全球城市"
+        ],
+        "journal_name": "International Journal of Applied Earth Observation and Geoinformation",
+        "research_fields": [
+          "环境遥感",
+          "城市监测",
+          "公共卫生地理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Compact urban form and expansion pattern slow down the decline in urban densities: A global perspective",
+        "keywords": [
+          "紧凑型城市",
+          "城市密度下降",
+          "城市扩张模式",
+          "全球视角"
+        ],
+        "journal_name": "Land Use Policy",
+        "research_fields": [
+          "土地利用政策",
+          "城市可持续发展",
+          "城市形态"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "How does urban population density decline over time? An exponential model for Chinese cities with international comparisons",
+        "keywords": [
+          "城市人口密度",
+          "指数模型",
+          "中国城市",
+          "国际比较"
+        ],
+        "journal_name": "Landscape and Urban Planning",
+        "research_fields": [
+          "城市地理学",
+          "城市人口",
+          "城市模型"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "城市标度律及应用",
+        "keywords": [
+          "城市标度律",
+          "城市系统",
+          "地理学",
+          "应用研究"
+        ],
+        "journal_name": "地理学报",
+        "research_fields": [
+          "地理学",
+          "城市系统",
+          "空间规律"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "COVID-19病例与城市人口规模的标度律及其时间演化",
+        "keywords": [
+          "新冠疫情",
+          "城市人口规模",
+          "标度律",
+          "时间演化"
+        ],
+        "journal_name": "地理学报",
+        "research_fields": [
+          "城市地理学",
+          "公共卫生地理",
+          "复杂系统"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/whuxugang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家社会科学基金",
+      "教育部人文社科项目",
+      "湖北省自然科学基金",
+      "湖北省社会科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家社会科学基金委员会",
+      "教育部",
+      "湖北省自然科学基金委员会",
+      "湖北省社会科学基金委员会"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 许刚\n页面链接: http://jszy.whu.edu.cn/whuxugang/zh_CN/index.htm\n==================================================\n武汉大学 许刚--中文主页--首页\nEnglish\n中文\n许刚\n同专业硕导\n首页\n科学研究\n论文成果\n科研项目\n教学研究\n授课信息\n获奖信息\n招生信息\n微信扫描\n个人信息\n1\n硕士生导师\n电子邮箱：\n职务：土地科学与工程教研室副主任\n办公地点：资环学院附楼312室\n主要任职：中国地理学会空间综合人文社会科学工作委员会秘书长\n所属院系：\n资源与环境科学学院\n学科：\n土地资源管理\n地图学与地理信息系统\n人文地理学\n个人简介\n许刚，副教授，研究复杂城市系统，入选全球Top2%科学家榜单（2024，城市规划）、中国知网Top1%高被引学者（2024，地理学）、“博新计划”（2019）。在《Nature Cities》等期刊以第一/通讯作者发表论文36篇，ESI高被引论文3篇，F5000顶尖学术论文3篇，Google Scholar被引超3000次，h-index = 30。2篇咨询报告分别被国务院办公厅、教育部采纳，在《光明网》、《中国自然资源报》发表文章4篇，研究成果被联合国项目事务署等采用。主持国家自然/社会科学基金3项、主持教育部人文社科、湖北省自然/社会科学基金等省部级项目6项。讲授2门省级一流/示范课程。担任《Humanities and Social Science Communications》、《中国土地科学》编委。获地理信息科技进步奖二等奖，武汉大学学术创新奖特等奖（校长奖）。\n【工作经历】\n2025/7至今           武汉大学   资源与环境科学学院   副教授\n2022/1—2025/7    武汉大学   资源与环境科学学院   特聘副研究员\n2023/9—2024/9    香港大学   建筑学院       （访问）博士后\n2019/6—2021/12  武汉大学   遥感信息工程学院       博士后\n【代表性成果】\n[1]    Xu G.#, Zhu M.#, Chen B., Salem M., Xu Z., Cobbinah P., Li X., Sumar N., Zhang X., Jiao L.*, Gong P.* 2025. Underlying Rules of Evolutionary Urban Systems in Africa. Nature Cities. 2(2): 327-335\n[2]    Xu, G., Zhu, M., Liu, L., Guo, S.*, Murayama, Y., Salem, M., Jiao, L.* 2025. Scaling Law in a Stable Urban System of Japan. Sustainable Cities and Society, 125: 106335. (IF = 12, SCI 1区).\n[3]    Xu G.*,#, Zhu M.#, Chen B., Salem M., Xu Z.*, Li X., Jiao L., Gong P., 2023. Settlement scaling law reveals population-land tensions in 7000+ African urban agglomerations. Habitat International, 142, 102954. (IF=6.8, SSCI 1区)\n[4]    Zheng, M., Huang, W., Xu, G.*, Li, X., Jiao, L., 2023. Spatial gradients of urban land density and nighttime light intensity in 30 global megacities. Humanities & Social Sciences Communications, 10, 404. (SSCI)\n[5]    Xu, G., Su J., Xia C., Li X., Xiao R.*, 2022. Spatial mismatches between nighttime light intensity and building morphology in Shanghai, China. Sustainable Cities and Society. 81: 103851. (IF = 12, SCI 1区)\n[6]    Xu, G., Xiu T.*, Li X., Liang X., Jiao L., 2021, Lockdown induced night-time light dynamics during the COVID-19 epidemic in global megacities. International Journal of Applied Earth Observation and Geoinformation, 102421. (IF = 7.672, SCI 1区).\n[7]    Xu, G., Zhou, Z., Jiao, L.*, Zhao, R., 2020, Compact urban form and expansion pattern slow down the decline in urban densities: A global perspective, Land Use Policy, 94: 104563. (IF = 6.189, SSCI 1区, ESI高被引论文)\n[8]    Xu, G., Jiao, L.*, Yuan, M., Dong, T., Zhang, B., Du, C., 2019, How does urban population density decline over time? An exponential model for Chinese cities with international comparisons, Landscape and Urban Planning 183(3): 59-67. (IF = 8.119, SCI 1区, SSCI 1区, ESI高被引论文).\n[9]    龚健雅, 许刚*, 焦利民, 秦昆. 城市标度律及应用. 地理学报, 2021,76(2):251-260. (EI、CSSCI)\n[10]  许刚, 焦利民*, 李新虎, 肖逸雄, 宫鹏, 龚健雅. COVID-19病例与城市人口规模的标度律及其时间演化. 地理学报, 2023, 78(2): 503-514. (EI、CSSCI)\n【研究兴趣】\n1、城市土地扩张及其影响\n城市人口的持续增长驱使城市土地不断扩张。如何理解城市土地扩张的格局和过程？城市土地扩张如何回应人口增长？城市土地扩张对城市及周边环境有何影响？\n图1 城市建设用地的圈层划分及城市土地密度函数（Jiao, 2015; Xu et al., 2019）\n2、复杂城市系统标度律\n城市是一个典型的复杂系统，标度律（scaling law）是复杂城市系统背后的简单规则之一。不断演化的城市系统中，标度律存在什么变化特征和规律？\n图2 中国地级市GDP和建成区面积与城市人口规模的标度律\n图3 非洲城市规模分布时间演化\n【奖励荣誉】\n[1]    耕地保护动态监测关键技术及应用，2024年地理信息科技进步奖二等奖（7/12）\n[2]    武汉大学资源与环境科学学院青年教师教学竞赛一等奖（2024/4）、二等奖（2022/4）\n[3]    中国地理学会地理模型与地理信息分析专业委员会2022学术年会优秀论文（2022/9）\n【招生培养】\n招收土地资源管理、人文地理学、地图学与地理信息系统、资源与环境硕士研究生。\n欢迎土管、GIS、遥感、人文地理等相关专业同学联系报考。欢迎高年级本科生加入团队。\n联系方式：将个人简历发送到邮箱 （xugang@whu.edu.cn）\n指导2项国家级大学生创新创业训练计划项目\n[1]     新冠疫情期间全球特大城市夜间灯光亮度时空变化特征分析，2020-2021，国家级大创项目（已结题）\n[2]     标度律视角下新冠疫情演变过程及其与城市规模的关系，2021-2022，国家级大创项目（已结题）\n团队合影\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n2016-9····2019.6\n武汉大学\n|\n土地资源管理\n| 博士\n|\n博士\n2014-9····2016.6\n武汉大学\n|\n测绘工程\n| 硕士\n|\n硕士\n2010-9····2014.6\n武汉大学\n|\n土地资源管理\n| 学士\n|\n本科(学士)\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

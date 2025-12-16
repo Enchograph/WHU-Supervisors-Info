@@ -1,0 +1,127 @@
+{
+  "id": "wangqiao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangqiao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王桥",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "水利水电学院",
+    "college": "水利水电学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "水利水电工程相关领域",
+        "school": "武汉大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家高层次人才特殊支持计划青年拔尖人才",
+      "湖北省楚天学者",
+      "武汉大学珞珈青年学者",
+      "中国大坝工程学会科技进步奖一等奖（排名第2）",
+      "教育部科技进步一等奖（排名第10）",
+      "湖北省优秀博士论文"
+    ],
+    "academic_services": [
+      "中国水利学会水工结构专业委员会会员",
+      "中国大坝工程学会数值模拟专业委员会会员",
+      "中国大坝工程学会大坝混凝土与岩石断裂力学专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "计算力学",
+      "水工结构数值分析",
+      "混凝土性能演变与耐久性",
+      "水工新材料研发"
+    ],
+    "research_interests": [
+      "混凝土",
+      "新材料研发",
+      "数值分析",
+      "耐久性",
+      "力学",
+      "计算机编程",
+      "人工智能"
+    ],
+    "research_description": "王桥教授长期从事计算力学、水工结构数值分析、混凝土性能演变和耐久性、水工新材料等方面的研究工作。研究成果涵盖混凝土材料性能演化机制、新型水工材料开发、结构安全评估与寿命预测，注重多学科交叉，结合数值模拟与实验验证，推动水利结构工程的智能化与可持续发展。",
+    "disciplines": [
+      "力学",
+      "土木工程",
+      "材料科学",
+      "水利工程"
+    ],
+    "field_tags": [
+      "计算力学",
+      "混凝土耐久性",
+      "水工结构",
+      "新材料",
+      "数值模拟",
+      "智能材料",
+      "结构安全",
+      "可持续工程"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "ESI高被引论文",
+        "keywords": [
+          "计算力学",
+          "混凝土性能演变",
+          "耐久性",
+          "数值分析"
+        ],
+        "journal_name": "SCI期刊",
+        "research_fields": [
+          "计算力学",
+          "水工结构数值分析",
+          "混凝土耐久性"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangqiao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王桥\n页面链接: http://jszy.whu.edu.cn/wangqiao/zh_CN/index.htm\n==================================================\n武汉大学 王桥--中文主页--首页\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n新闻网中文官网\nEn\n个人信息 王桥\n性别：男\n联系方式：qiaowang@whu.edu.cn\n在职信息：在职\nMORE +\n个人信息\nPersonal information\n博士生导师\n硕士生导师\n学历：博士研究生毕业\n在职信息：在职\n所在单位：水利水电学院\n电子邮箱：\n个人简介教育经历其他联系方式 工作经历\n社会兼职\n研究方向\n团队成员\n个人简介\nPersonal profile\n王桥，男，武汉大学水利水电学院教授，博士研究生导师，国家高层次人才特殊支持计划青年拔尖人才，湖北省楚天学者，武汉大学珞珈青年学者。长期从事计算力学、水工结构数值分析、混凝土性能演变和耐久性、水工新材料等方面的研究工作。担任中国水利学会水工结构专业委员会会员，中国大坝工程学会数值模拟专业委员会会员，中国大坝工程学会大坝混凝土与岩石断裂力学专业委员会委员。获中国大坝工程学会科技进步奖一等奖1项（排名第2），教育部科技进步一等奖1项（排名第10），成果入选水利先进实用技术2项，博士学位论文入选“湖北省优秀博士论文”。以第一/通讯作者发表SCI论文40余篇，其中ESI高被引论文1篇，授权发明专利10余项，登记软件著作权20余项，参编国家标准3项，行业标准1项。\n课题组诚招硕士、博士研究生、博士后，欢迎对混凝土、新材料、力学、计算机编程和人工智能感兴趣的同学加入！电子邮箱：qiaowang@whu.edu.cn\n教育经历\nEducation experience\n暂无内容\n其他联系方式\nOther Contact information\n[1]邮编:\n[2]传真:\n[3]通讯/办公地址:\n[4]办公室电话:\n[5]移动电话:\n[6]邮箱:\n工作经历\nWork experience\n暂无内容\n社会兼职\nProfessional affiliations\n暂无内容\n研究方向\nResearch direction\n混凝土\n新材料研发\n计算力学\n团队成员\nTeam members\n暂无内容\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

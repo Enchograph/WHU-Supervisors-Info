@@ -1,0 +1,224 @@
+{
+  "id": "kuangjian",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/kuangjian/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "旷俭",
+    "english_name": "Kuang Jian",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "卫星导航定位技术研究中心",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2016.09 – 2019.06",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "导航制导与控制",
+        "school": "武汉大学",
+        "period": "2013.09 – 2016.06",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "测量工程",
+        "school": "武汉大学",
+        "period": "2009.09 – 2013.06",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "IPIN 2025 Competition-Track 6: Smartphone on vehicle (offsite-onsite survey) 国际室内定位比赛冠军",
+      "IPIN 2022 Competition-Track 6: On-vehicle smartphone (off-site) 国际室内定位比赛冠军",
+      "IPIN 2021 Competition-Track 3: Smartphone-based 国际室内定位比赛冠军",
+      "IPIN 2020 Competition-Track 4: Foot-mounted IMU 国际室内定位比赛冠军",
+      "IPIN 2020 Competition-Track 6: On-vehicle smartphone (off-site) 国际室内定位比赛冠军",
+      "IPIN 2018 Competition-Track 4(off-site): Foot-Mounted IMU based positioning 国际室内定位比赛冠军",
+      "IPIN 2018 Competition-Track 3 (off-site): Smartphone based positioning 国际室内定位比赛冠军",
+      "2018 Performance Evaluation of Smartphone Indoor Localization Apps Challenge, 美国国家标准局, 国际室内定位比赛冠军",
+      "入选2021年度“中国精品科技期刊顶尖学术论文（F5000）”论文",
+      "2016年全国大学生创业比赛“创青春”计划组国赛金奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "磁场特征匹配定位",
+      "磁场地图众包构建",
+      "智能终端多源融合定位",
+      "穿戴式行人/车辆航位推算"
+    ],
+    "research_interests": [
+      "磁场导航",
+      "惯性导航",
+      "智能手机定位",
+      "行人定位",
+      "车辆定位",
+      "室内定位",
+      "地磁匹配定位",
+      "多源融合定位",
+      "Crowdsourced magnetic mapping",
+      "Inertial odometry"
+    ],
+    "research_description": "旷俭主要从事磁场导航、惯性导航、智能手机行人与车辆定位等方面的研究，聚焦于磁场特征匹配定位、磁场地图众包构建、智能终端多源融合定位以及穿戴式行人和车辆航位推算等方向。其研究成果已在华为、高德地图、腾讯地图、OPPO、传音等主流终端厂商和地图平台实现规模化应用落地，多次在IPIN和NIST国际室内定位比赛中获得冠军。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "导航制导与控制",
+      "信息与通信工程",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "室内定位",
+      "磁场匹配",
+      "惯性导航",
+      "行人航位推算",
+      "车辆定位",
+      "多源融合",
+      "智能终端定位",
+      "Crowdsourcing",
+      "地磁地图",
+      "GNSS/INS融合"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 33,
+    "representative_publications": [
+      {
+        "title": "A Pedestrian Positioning Method for Urban Canyon Environments Using Magnetic Field Matching/Inertial Odometry Fusion",
+        "keywords": [
+          "磁场匹配",
+          "惯性航位推算",
+          "城市峡谷",
+          "行人定位"
+        ],
+        "journal_name": "IEEE Transactions On Instrumentation and Measurement",
+        "research_fields": [
+          "惯性导航",
+          "室内定位",
+          "多源融合定位"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "CrowdMagMap 2.0: Crowdsourced Magnetic Mapping for Multi-Floor Underground Parking Lot Navigation",
+        "keywords": [
+          "众包磁图",
+          "地下停车场",
+          "多楼层导航",
+          "磁场定位"
+        ],
+        "journal_name": "IEEE Transactions On Intelligent Transportation Systems",
+        "research_fields": [
+          "智能交通系统",
+          "磁场地图构建",
+          "室内定位"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Wheel-GINS: A GNSS/INS Integrated Navigation System With a Wheel-Mounted IMU",
+        "keywords": [
+          "轮式IMU",
+          "GNSS/INS融合",
+          "车辆导航",
+          "高精度定位"
+        ],
+        "journal_name": "IEEE Transactions On Intelligent Transportation Systems",
+        "research_fields": [
+          "车辆导航",
+          "组合导航",
+          "智能交通"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "LLIO: Lightweight Learned Inertial Odometer",
+        "keywords": [
+          "轻量级惯性里程计",
+          "学习型算法",
+          "行人定位",
+          "智能手机"
+        ],
+        "journal_name": "IEEE Internet of Things Journal",
+        "research_fields": [
+          "深度学习在导航中的应用",
+          "行人航位推算",
+          "智能终端定位"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Magnetic Vector Constraint Pedestrian Dead Reckoning Based on Foot-Mounted and Waist-Mounted IMU",
+        "keywords": [
+          "磁矢量约束",
+          "足部/腰部IMU",
+          "行人航位推算",
+          "磁力计"
+        ],
+        "journal_name": "IEEE Internet of Things Journal",
+        "research_fields": [
+          "行人定位",
+          "惯性导航",
+          "磁传感器融合"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/kuangjian/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "湖北省自然科学基金",
+      "国防课题",
+      "企业合作项目",
+      "青年科学家项目"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "湖北省自然科学基金",
+      "国防课题",
+      "华为",
+      "高德地图",
+      "腾讯地图",
+      "OPPO",
+      "传音"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 旷俭\n页面链接: http://jszy.whu.edu.cn/kuangjian/zh_CN/index.htm\n==================================================\n武汉大学 旷俭--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n一、基本介绍\n旷俭，主要从事从事磁场导航、惯性导航、智能手机行人&车辆定位等方面的研究工作。主持国防课题、国家重点研发计划子课题和企业合作等项目10余项，且磁场定位、行人和车辆航位推算等多项研究成果已经在主流终端厂商和地图平台实现了规模化应用落地，入选华为“青年学者”资助计划。以第一/通讯作者发表SCI期刊论文30余篇，授权国家发明专利10余项；获2018年美国国家标准与技术研究院（NIST）国际室内定位比赛冠军、IPIN（2018~2025）国际室内定位比赛冠军7项。\n二、教育背景\n2016.09 – 2019.06，武汉大学，大地测量学与测量工程专业，导师：牛小骥\n2013.09 – 2016.06，武汉大学，导航制导与控制专业，导师：牛小骥\n2009.09 – 2013.06，武汉大学，测量工程专业，本科\n三、工作经历\n2025.09 – 至今，武汉大学，卫星导航定位技术研究中心，副教授\n2022.08 – 2025.08，武汉大学，卫星导航定位技术研究中心，副研究员\n2019.08 – 2022.07，武汉大学，卫星导航定位技术研究中心，博士后，合作导师：刘经南\n四、主持/参与项目\n[1] 智能手机直连卫星高精度泛在定位新技术，国家重点研发计划青年科学家项目，子任务负责人\n[2] 高精度室内定位前沿技术研究，国家重点研发计划，子任务负责人\n[3] 适老适幼社区居家环境风险防范和健康促进产品研发，国家重点研发计划，子任务负责人\n[4] 室内行人磁场定位理论与方法研究，湖北省自然科学基金，课题负责人\n[5] 低空飞行器地磁匹配定位，课题负责人\n[6] 华为校企合作项目5期，主持\n[7] 高德地图校企合作项目4期，主持\n[8] 腾讯地图校企合作项目2期，主持\n[9] OPPO校企合作项目2期，主持\n[10] 传音校企合作项目，主持\n五、发表论文\n[1] Shiyi Chen, Jian Kuang*, Yan Wang, Tingwei Wang, Xiaoji Niu, \"A Pedestrian Positioning Method for Urban Canyon Environments Using Magnetic Field Matching/Inertial Odometry Fusion,\" IEEE Transactions On Instrumentation and Measurement, p. 1-1, (2025).\n[2] Xiaoji Niu*, Zhihao Liu, Longyang Ding, Jian Kuang*, \"A Robust GNSS/INS Integrated System for Pedestrian Navigation in Urban Environments Based on Spatial Consistency Check,\" IEEE Internet of Things Journal, p. 1-1, (2025).\n[3] Jian Kuang, Tao Liu, Yan Wang, Xianmei Meng, Xiaoji Niu, \"Magnetic Vector Constraint Pedestrian Dead Reckoning Based on Foot-Mounted and Waist- Mounted IMU,\" IEEE Internet of Things Journal, p. 1-1, (2025).\n[4] Jian Kuang, Dazhou Xia, Yan Wang, Xianmei Meng, Xiaoji Niu, \"A Shin-mounted Inertial Navigation System for Pedestrian Walking and Running Gait,\" IEEE Sensors Journal, p. 1-1, (2025).\n[5] Jian Kuang, Longyang Ding, Yan Wang, Yilong Yuan, Pan Jiang, Qifan Zhou, Xiaoji Niu, \"A Robust INS State Initialization Method for Vehicular GNSS/MEMS-INS Integrated Navigation in Urban Environment,\" IEEE Transactions On Intelligent Transportation Systems, pp. 1-13, (2025).\n[6] Jian Kuang, Yan Wang, Longyang Ding, Baoding Zhou, Liping Xu, Li Cao, Lanqin He, Yunhui Wen, Xiaoji Niu, \"CrowdMagMap 2.0: Crowdsourced Magnetic Mapping for Multi-Floor Underground Parking Lot Navigation,\" IEEE Transactions On Intelligent Transportation Systems, (2025).\n[7] Yibin Wu, Jian Kuang*, Xiaoji Niu, Cyrill Stachniss, Lasse Klingbeil, Heiner Kuhlmann, \"Wheel-GINS: A GNSS/INS Integrated Navigation System With a Wheel-Mounted IMU,\" IEEE Transactions On Intelligent Transportation Systems, 26, pp. 6891-6903, (2025).\n[8] Xiaoji Niu, Zhihao Liu, Jian Kuang*, Longyang Ding, \"WGINS: A wrist-worn GNSS/INS integrated system considering GNSS body shadowing,\" Measurement, 256, p. 118388, (2025).\n[9] Yan Wang, Jian Kuang*, Tianyi Liu, Xiaoji Niu, Jingnan Liu, \"CrowdMagMap: Crowdsourcing-Based Magnetic Map Construction for Shopping Mall,\" IEEE Internet of Things Journal, 11, pp. 5362-5373, (2024).\n[10]Shiyi Chen, Jian Kuang*, Dazhou Xia, Xiaoji Niu, \"Height Estimation for Floor Identification in Elevator and Escalator Scenarios Based on Smartphones Built-In IMU,\" IEEE Sensors Journal, 24, pp. 29795-29805, (2024).\n[11]Xiaoji Niu, Longyang Ding, Yan Wang, Jian Kuang*, \"MGINS: A Lane-Level Localization System for Challenging Urban Environments Using Magnetic Field Matching/GNSS/INS Fusion,\" IEEE Transactions On Intelligent Transportation Systems, 25, pp. 14890-14904, (2024).\n[12]Tao Liu, Jian Kuang*, Xiaoji Niu, \"An Iterative Method for the Distance Constraints in a Multi-Sensor Positioning System,\" IEEE Transactions On Vehicular Technology, 73, pp. 2728-2739, (2024).\n[13]ao Liu, Jian Kuang*, You Li, Xiaoji Niu*, \"A Novel Minimum Distance Constraint Method Enhanced Dual-Foot-Mounted Inertial Navigation System for Pedestrian Positioning,\" IEEE Internet of Things Journal, 10, pp. 16931-16944, (2023).\n[14]Yan Wang, Jian Kuang*, Xiaoji Niu, Jingnan Liu, \"LLIO: Lightweight Learned Inertial Odometer,\" IEEE Internet of Things Journal, 10, pp. 2508-2518, (2023).\n[15]Yibin Wu, Jian Kuang*, Xiaoji Niu, Jens Behley, Lasse Klingbeil, Heiner Kuhlmann, \"Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-Mounted IMU,\" IEEE Robotics and Automation Letters, 8, pp. 280-287, (2023).\n[16]Qijin Chen, Huan Lin, Jian Kuang*, Yarong Luo, Xiaoji Niu, \"Rapid Initial Heading Alignment for MEMS Land Vehicular GNSS/INS Navigation System,\" IEEE Sensors Journal, 23, pp. 7656-7666, (2023).\n[17]Jian Kuang, Dazhou Xia, Tao Liu, Qijin Chen, Xiaoji Niu, \"Shin-INS: A Shin-Mounted IMU-Based Inertial Navigation System for Pedestrian,\" IEEE Sensors Journal, 23, pp. 25760-25769, (2023).\n[18]Jian Kuang, Taiyu Li, Qijin Chen, Baoding Zhou, Xiaoji Niu, \"Consumer-Grade Inertial Measurement Units Enhanced Indoor Magnetic Field Matching Positioning Scheme,\" IEEE Transactions On Instrumentation and Measurement, 72, pp. 1-14, (2023).\n[19]Yibin Wu, Jian Kuang*, Xiaoji Niu, \"Wheel-INS2: Multiple MEMS IMU-Based Dead Reckoning System With Different Configurations for Wheeled Robots,\" IEEE Transactions On Intelligent Transportation Systems, 24, pp. 3064-3077, (2023).\n[20]Tisheng Zhang, Linfu Wei, Jian Kuang*, Hailiang Tang, Xiaoji Niu, \"Mag-ODO: Motion speed estimation for indoor robots based on dual magnetometers,\" Measurement, 222, p. 113688, (2023).\n[21]  牛小骥, 王庭蔚, 葛雯斐, 旷俭*, \"一种基于视觉二维码/惯性融合的室内高精度定位定姿方法,\" 中国惯性技术学报, 31, pp. 1067-1075, (2023).\n[22]Xiaoji Niu, Tao Liu, Jian Kuang*, Quan Zhang, Chi Guo, \"Pedestrian Trajectory Estimation Based on Foot-Mounted Inertial Navigation System for Multistory Buildings in Postprocessing Mode,\" IEEE Internet of Things Journal, 9, pp. 6879-6892, (2022).\n[23]Jian Kuang, Taiyu Li, Xiaoji Niu*, \"Magnetometer Bias Insensitive Magnetic Field Matching Based on Pedestrian Dead Reckoning for Smartphone Indoor Positioning,\" IEEE Sensors Journal, 22, pp. 4790-4799, (2022).\n[24]Yan Wang, Jian Kuang*, You Li, Xiaoji Niu, \"Magnetic Field-Enhanced Learning-Based Inertial Odometry for Indoor Pedestrian,\" IEEE Transactions On Instrumentation and Measurement, 71, pp. 1-13, (2022).\n[25]Niu Xiaoji*, Wang Yan, Kuang Jian*, \"A pedestrian POS for indoor Mobile Mapping System based on foot-mounted visual–inertial sensors,\" Measurement, 199, p. 111559, (2022).\n[26]Tao Liu, Jian Kuang*, Wenfei Ge, Peng Zhang, Xiaoji Niu, \"A Simple Positioning System for Large-Scale Indoor Patrol Inspection Using Foot-Mounted INS, QR Code Control Points, and Smartphone,\" IEEE Sensors Journal, 21, pp. 4938-4948, (2021).\n[27]Xiaoji Niu, Tao Liu, Jian Kuang*, Yu Li, \"A Novel Position and Orientation System for Pedestrian Indoor Mobile Mapping System,\" IEEE Sensors Journal, 21, pp. 2104-2114, (2021).\n[28]Tao Liu, Xiaoji Niu, Jian Kuang*, Shuai Cao, Lei Zhang, Xiang Chen, \"Doppler Shift Mitigation in Acoustic Positioning Based on Pedestrian Dead Reckoning for Smartphone,\" IEEE Transactions On Instrumentation and Measurement, 70, pp. 1-11, (2021).\n[29]Xiaoji Niu, Yibin Wu, Jian Kuang*, \"Wheel-INS: A Wheel-Mounted MEMS IMU-Based Dead Reckoning System,\" IEEE Transactions On Vehicular Technology, 70, pp. 9814-9825, (2021).\n[30]Yibin Wu, Xiaoji Niu, Jian Kuang*, \"A Comparison of Three Measurement Models for the Wheel-Mounted MEMS IMU-Based Dead Reckoning System,\" IEEE Transactions On Vehicular Technology, 70, pp. 11193-11203, (2021).\n[31]  旷俭, 葛雯斐, 张全, 窦智, 唐爱鹏, 张小兵, 牛小骥, \"基于手机内置传感器的车辆组合定位方法,\" 中国惯性技术学报, 28, pp. 701-708, (2020).\n[32]Jian Kuang, Xiaoji Niu, Xingeng Chen, \"Robust Pedestrian Dead Reckoning Based on MEMS-IMU for Smartphones,\" Sensors, 18, p. 1391, (2018).\n[33]Jian Kuang, Xiaoji Niu, Peng Zhang, Xingeng Chen, \"Indoor Positioning Based on Pedestrian Dead Reckoning and Magnetic Field Matching for Smartphones,\" Sensors, 18, p. 4142, (2018).\n六、授权专利\n[1] 旷俭, 李家铸, 等. 一种九轴传感器阵列的头戴式行人定位方法及头戴式装置, 2025\n[2] 旷俭, 牛小骥, 等. 一种基于个人运动参考模板的传感器安装角估计方法, 2022\n[3] 旷俭, 葛雯斐, 等. 一种基于视觉标记物的低成本动作捕捉方法，2022\n[4] 旷俭, 牛小骥, 等. 一种磁力计零偏无关的磁场指纹库生成方法, 2021\n[5] 旷俭, 李泰宇, 等. 一种基于已知姿态角的磁力计标定方法, 2021\n[6] 旷俭, 牛小骥, 等. 一种九轴传感器的误差参数标定方法, 2021\n[7] 旷俭, 牛小骥, 等. 一种室内定位指纹的采集方法, 2021\n[8] 旷俭, 牛小骥, 等. 一种手机安装角的估计方法, 2021\n[9] 牛小骥, 旷俭, 等. 一种行人惯性导航系统中初始导航状态的确定方法及装置, 2022\n[10] 牛小骥, 旷俭, 等. 一种基于双MEMS-IMU的室内轮式机器人的定位方法, 2020\n七、获奖与荣誉\n[1] IPIN 2025 Competition-Track 6: Smartphone on vehicle (offsite-onsite survey), 国际室内定位比赛冠军\n[2] IPIN 2022 Competition-Track 6: On-vehicle smartphone (off-site), 国际室内定位比赛冠军\n[3] IPIN 2021 Competition-Track 3: Smartphone-based, 国际室内定位比赛冠军\n[4] IPIN 2020 Competition-Track 4: Foot-mounted IMU, 国际室内定位比赛冠军\n[5] IPIN 2020 Competition-Track 6: On-vehicle smartphone (off-site), 国际室内定位比赛冠军\n[6] IPIN 2018 Competition-Track 4(off-site): Foot-Mounted IMU based positioning, 国际室内定位比赛冠军\n[7] IPIN 2018 Competition-Track 3 (off-site): Smartphone based positioning, 国际室内定位比赛冠军\n[8] 2018 Performance Evaluation of Smartphone Indoor Localization Apps Challenge, 美国国家标准局, 国际室内定位比赛冠军\n[9] 入选2021年度“中国精品科技期刊顶尖学术论文（F5000）”论文\n[10] 2016年全国大学生创业比赛“创青春”计划组国赛金奖\n八、联系方式\n办公地点：武汉大学星湖综合实验大楼14层1420室\n电子邮件: kuang@whu.edu.cn\n通讯地址：武汉市珞喻路129号武汉大学信息学部卫星导航定位技术研究中心\n邮政编码：430079\n研究方向\n社会兼职\n磁场特征匹配定位&磁场地图众包构建\n阵列式磁传感器定位导航方法\n智能终端多源融合定位\n穿戴式行人/车辆航位推算\n暂无内容\n教育经历\n工作经历\n暂无内容\n2025.9-----至今\n卫星导航定位技术研究中心\n|\n武汉大学\n|\n副教授\n2022.7-----2025.8\n卫星导航定位技术研究中心\n|\n武汉大学\n|\n特聘副研究员\n2019.7-----2022.6\n卫星导航定位技术研究中心\n|\n武汉大学\n|\n博士后\n团队成员\n暂无内容\n返回顶部\n+\n旷俭\n职务：副教授主要任职：\n同专业硕导>>\n个人信息\n硕士生导师\n教师拼音名称：Kuang Jian\n电子邮箱：\n所在单位：卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）\n职务：副教授\n学历：博士研究生毕业\n办公地点：星湖综合实验大楼1420\n性别：男\n在职信息：在职\n毕业院校：武汉大学\n学科：大地测量学与测量工程\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

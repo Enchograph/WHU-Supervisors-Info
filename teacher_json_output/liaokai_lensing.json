@@ -1,0 +1,175 @@
+{
+  "id": "liaokai_lensing",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liaokai_lensing/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "廖恺",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学学士",
+        "field": "物理学基地班",
+        "school": "华中师范大学",
+        "period": "2006.9 -- 2010.7",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士",
+        "field": "天体物理",
+        "school": "北京师范大学",
+        "period": "2010.9 -- 2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "访问学者",
+        "field": "天体物理",
+        "school": "美国加州大学洛杉矶分校",
+        "period": "2014.9 -- 2015.3",
+        "country": "美国"
+      },
+      {
+        "degree": "访问学者",
+        "field": "天体物理",
+        "school": "美国加州大学圣塔芭芭拉分校",
+        "period": "2013.8 -- 2014.8",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "北京师范大学",
+    "academic_honors": [
+      "国家自然科学基金优秀青年科学基金项目",
+      "国家重点研发计划青年科学家项目"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "宇宙学",
+      "引力透镜",
+      "引力波天文学",
+      "暗物质研究"
+    ],
+    "research_interests": [
+      "透镜化引力波探测",
+      "暗物质小尺度结构探测",
+      "强引力透镜时间延迟测量哈勃常数",
+      "超新星和快速射电暴透镜效应",
+      "引力波速度与波动本性检验"
+    ],
+    "research_description": "廖恺教授主要从事宇宙学、引力透镜、引力波与暗物质等前沿领域的研究。在引力透镜效应的理论与应用方面，他提出了利用类星体光变曲线测量时间延迟的可行性，发展了微引力透镜导致的时间延迟波段依赖效应，并基于强透镜数据实现了模型无关的哈勃常数测量。在引力波透镜天文学方面，他首次提出利用透镜化引力波探测暗物质子结构与原初黑洞，并发展了相关新方法。此外，他还致力于利用快速射电暴和超新星的透镜效应开展宇宙学研究，推动了多信使天文学的发展。",
+    "disciplines": [
+      "天体物理",
+      "理论物理",
+      "宇宙学"
+    ],
+    "field_tags": [
+      "引力透镜",
+      "引力波",
+      "暗物质",
+      "哈勃常数测量",
+      "时间延迟宇宙学",
+      "多信使天文学",
+      "强引力透镜",
+      "原初黑洞",
+      "宇宙加速膨胀"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Strong Lens Time Delay Challenge: II. Results of TDC1",
+        "keywords": [
+          "引力透镜",
+          "时间延迟",
+          "类星体光变曲线",
+          "宇宙学"
+        ],
+        "journal_name": "Astrophysical Journal",
+        "research_fields": [
+          "天体物理",
+          "宇宙学"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "Precision cosmology from future lensed gravitational wave and electromagnetic signals",
+        "keywords": [
+          "引力波透镜",
+          "引力透镜天文学",
+          "宇宙学",
+          "模型无关测量"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "引力波天文学",
+          "宇宙学"
+        ],
+        "publication_year": 2017
+      },
+      {
+        "title": "A model-independent determination of the Hubble constant from lensed quasars and supernovae using Gaussian process regression",
+        "keywords": [
+          "哈勃常数",
+          "模型无关测量",
+          "引力透镜",
+          "时间延迟宇宙学"
+        ],
+        "journal_name": "Astrophysical Journal Letters",
+        "research_fields": [
+          "宇宙学",
+          "天体物理"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学物理科学与技术学院",
+        "url": "http://jszy.whu.edu.cn/liaokai_lensing/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金优秀青年科学基金项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年科学基金项目"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "国家自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 廖恺\n页面链接: http://jszy.whu.edu.cn/liaokai_lensing/zh_CN/index.htm\n==================================================\n武汉大学 廖恺--中文主页--首页\n廖恺\n教授\n博士生导师\n硕士生导师\n性别：男\n毕业院校：北京师范大学\n学历：博士研究生毕业\n在职信息：在职\n所在单位：物理科学与技术学院\n学科：\n天体物理\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n廖恺，武汉大学物理科学与技术学院，教授，博士生导师。\n研究方向：宇宙学、引力透镜、引力波，暗物质等。\n主持科研项目：\n国家重点研发计划：“引力波探测”重点专项（青年科学家项目） 2024/12-2029/11\n国家自然科学基金：  优秀青年科学基金项目 引力透镜天文学        2023/01-2025/12\n国家自然科学基金：  面上项目 透镜引力波及其应用研究               2020/01-2023/12\n国家自然科学基金：  青年科学基金项目 基于LSST多波段观测的引力透镜时间延迟宇宙学研究 2017/01-2019/12\n论文发表：在Nature 子刊，PRL，Astrophysical Journal (Letters), PRD, MNRAS等期刊发表论文60余篇。\n引力透镜几何光学示意图（来源《中国基础科学》刘统华，廖恺）\n类似光在凸透镜中发生偏折，光在引力场中发生偏折的现象称为引力透镜效应。天文观测中一个典型的例子是遥远的类星体，被前景椭圆星系透镜化分裂成多个像（如爱因斯坦十字），依次到达地球，其寄主星系也被透镜化成巨大的光弧（如爱因斯坦环）。在几何光学近似下，引力透镜效应在数学上可以看成是光源所在平面与透镜体（像）所在平面的映射。真实路径由费马原理决定（类似光在介质中变慢，光在引力场中等效速度变慢）。在波动光学情况下，例如对于引力波，透镜天体（障碍物）尺度与波长可比时，衍射改变波形。自爱丁顿对日全食观测以来，引力透镜效应对研究引力本性，天体物理和宇宙学起到了至关重要的作用。随着时域天文学时代各大巡天的开展，越来越的透镜系统将会被发现，保证了该领域的持续蓬勃发展。\n本人在该领域的贡献包括证明了利用类星体光变曲线测量多像时间延迟的可行性，提出了微引力透镜效应导致的时间延迟波段依赖效应，利用强透镜数据给出模型无关的哈勃常数测量值，研究了寄主星系亮度重构问题，首次利用快速射电暴透镜效应和数据限制原初黑洞，发展了引力波透镜天文学，在此框架下提出了检验引力波速度和波动本性，探测暗物质子结构和原初黑洞以及精确测量哈勃常数的新方法。\n当前研究兴趣：1）透镜化引力波探测；2）利用引力透镜探测暗物质小尺度结构；3）利用强透镜时间延迟测量哈勃常数；4）超新星和快速射电暴透镜效应及应用。\n综述文章：\n引力透镜时间延迟研究进展\nStrongly Lensed Transient Sources: A Review - IOPscience\n宇宙加速膨胀与天文观测\n标志性成果：\n工作1：Liao* et al. 2015, Astrophysical Journal, 800, 11 被引150次 [1409.1254] Strong Lens Time Delay Challenge: II. Results of TDC1\n基于光变曲线测量时间延迟的文章成为了强透镜宇宙学领域的标准引用，多次被 COSMOGRAIL，H0LiCOW，LSST Science Collaboration，TDCOSMO 等国际宇宙学和引力透镜大组引用；\n工作2：Liao et al. 2017 Nat. Commun. 8，1148 被引165次  [1703.04151] Precision cosmology from future lensed gravitational wave and electromagnetic signals\n基于透镜化引力波的工作多次被综述期刊，PRL 和 LIGO-Virgo-KAGRA 团队引用[LIGO-P2000400、P1800155、P2100002、P2200031]，成为其搜寻透镜化引力波的主要动机之一；\n工作3：Liao et al. 2019 ApJL 886 L23; 2020 ApJL 895 L29, 被引203次 [1908.04967] A model-independent determination of the Hubble constant from lensed quasars and supernovae using Gaussian process regression\n[2002.10605] Determining Model-independent $H_0$ and Consistency Tests\n基于引力透镜观测和“逆距离阶梯”给出模型无关的H0，成为强透镜时间延迟测量H0的标志性工作，被TDCOSMO等团队，Adam Riess，Eric Linder等著名宇宙学家引用。\n招生招聘：\n每年计划招收天文学或理论物理专业1-2名硕士研究生，1名博士研究生（硕士阶段专业须相关）；\n招聘有相关背景博士后，享受学校同档次最高标准待遇（面议）。\n教育经历\n2006.9 -- 2010.7\n华中师范大学\n物理学基地班\n理学学士学位\n2010.9 -- 2015.6\n北京师范大学\n天体物理\n理学博士学位\n2014.9 -- 2015.3\n美国加州大学洛杉矶分校\n2013.8 -- 2014.8\n美国加州大学圣塔芭芭拉分校\n工作经历\n2022.12 -- 至今\n武汉大学\n教授\n2021.12 -- 2022.11\n武汉大学\n特聘研究员\n2015.12 -- 2021.11\n武汉理工大学\n副教授\n2015.7 -- 2015.11\n武汉理工大学\n讲师\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

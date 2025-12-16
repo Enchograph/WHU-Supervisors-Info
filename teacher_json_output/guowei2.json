@@ -1,0 +1,123 @@
+{
+  "id": "guowei2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/guowei2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "呙维",
+    "english_name": "Guo Wei",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "空间信息系统与服务研究室",
+    "college": "测绘遥感信息工程全国重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2005.9-2010.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "地理信息系统",
+        "school": "武汉大学",
+        "period": "2002.9-2014.6",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "地理信息系统",
+        "school": "武汉大学",
+        "period": "1998.9-2002.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省优秀博士学位论文",
+      "湖北省科学技术一等奖",
+      "武汉市晨光科技人才",
+      "南昌洪城计划人才",
+      "湖北省创新创业战略团队成员",
+      "第九届高校GIS论坛优秀教学成果奖"
+    ],
+    "academic_services": [
+      "武汉大学学报、IJGIS等期刊审稿人",
+      "开源遥感影像处理平台OpenRS核心设计者与研发者",
+      "中国遥感应用协会智慧城市遥感应用专业委员会常务委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感大数据管理",
+      "分析挖掘与网络服务",
+      "船舶轨迹接入与行为分析",
+      "影像变化检测",
+      "地物提取与内容检索"
+    ],
+    "research_interests": [
+      "时空大数据管理",
+      "人工智能",
+      "遥感影像处理",
+      "地理信息工程",
+      "空间信息系统",
+      "变化检测",
+      "轨迹分析"
+    ],
+    "research_description": "主要从事遥感大数据的管理、分析与挖掘，包括遥感影像的变化检测、地物提取与内容检索，船舶轨迹的接入、管理与行为分析，以及空间信息系统的网络服务研究。同时致力于开源遥感影像处理平台OpenRS的开发与应用。",
+    "disciplines": [
+      "地图制图学与地理信息工程",
+      "摄影测量与遥感"
+    ],
+    "field_tags": [
+      "遥感大数据",
+      "时空数据分析",
+      "人工智能",
+      "地理信息系统",
+      "影像处理",
+      "变化检测",
+      "轨迹分析",
+      "空间信息服务",
+      "开源平台"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/guowei2/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 呙维\n页面链接: http://jszy.whu.edu.cn/guowei2/zh_CN/index.htm\n==================================================\n武汉大学 呙维--中文主页--首页\nEnglish\n新闻网中文官网\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n呙维\n同专业博导\n同专业硕导\nPersonal profile\n个人简介\n呙维，教授，博士生导师，男，珞珈青年学者，武汉市晨光科技人才，南昌洪城计划人才，湖北省优秀博士学位论文获得者，湖北省科学技术一等奖获得者，湖北省创新创业战略团队成员。主要研究方向为时空大数据管理、分析与挖掘，人工智能...\nmore+\nPersonal information\n个人信息\n教师拼音名称：Guo Wei\n出生日期：1981-05-02\n电子邮箱：\n入职时间：2013-06-01\n所在单位：测绘遥感信息工程全国重点实验室\n职务：测绘遥感信息工程国家重点实验室空间信息系统与服务研究室副主任\n学历：研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n学科：\n地图制图学与地理信息工程\n摄影测量与遥感\n曾获荣誉：\n2021: 第九届高校GIS论坛优秀教学成果奖\n2017: 湖北省创新创业战略团队成员\n2016: 湖北省优秀博士学位论文\n2018: 南昌洪城计划人才\n2017: 武汉市晨光科技人才\n2016: 湖北省自然科学技术一等奖\nSocial Appointments\n社会兼职\n武汉大学学报、IJGIS等期刊审稿人\n开源遥感影像处理平台OpenRS（http://openrs.whu.edu.cn/）核心设计者与研发者\n中国遥感应用协会智慧城市遥感应用专业委员会常务委员\nEducational experience\n教育经历\n2005.9-2010.12\n武汉大学 | 摄影测量与遥感 | 博士 | 博士\n2002.9-2014.6\n武汉大学 | 地理信息系统 | 硕士学位 | 工学硕士学位\n1998.9-2002.6\n武汉大学 | 地理信息系统 | 学士 | 本科毕业\nWork experience\n工作经历\n测绘遥感信息工程国家重点实验室 | 武汉大学 | 教研室副主任，党支部书记 | 教授\nResearch direction\n研究方向\n遥感大数据管理、分析挖掘与网络服务\n船舶轨迹接入、管理与行为分析\n影像变化检测、地物提取与内容检索\nContact information\n其他联系方式\n移动电话：\n邮箱：\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

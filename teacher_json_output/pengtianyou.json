@@ -1,0 +1,156 @@
+{
+  "id": "pengtianyou",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/pengtianyou/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "彭天右",
+    "english_name": "",
+    "title": [
+      "教授"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "无机化学研究所",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "无机化学",
+        "school": "武汉大学",
+        "period": "1998年7月",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "化学",
+        "school": "京都大学",
+        "period": "2001年10月 - 2003年5月",
+        "country": "日本"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "破格晋升教授（2004年）"
+    ],
+    "academic_services": [
+      "中国化学会无机化学学科委员会委员",
+      "中国仪器仪表学会功能材料分会常务理事",
+      "《功能材料》通讯编委",
+      "湖北省十一五科技发展计划新材料领域专家组成员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "无机固体化学",
+      "材料化学",
+      "纳米功能材料",
+      "能源与环境材料"
+    ],
+    "research_interests": [
+      "纳米材料微纳结构调控",
+      "功能材料设计与制备",
+      "光催化制氢",
+      "CO2能源化转换",
+      "光电转换性能"
+    ],
+    "research_description": "研究聚焦于纳米功能材料的微纳结构调控，以及功能材料及器件的设计、制备，重点探索其在光催化制氢、CO2能源化转换和光电转换方面的性能与应用。",
+    "disciplines": [
+      "无机化学",
+      "材料科学",
+      "能源化学"
+    ],
+    "field_tags": [
+      "纳米材料",
+      "光催化",
+      "CO2转化",
+      "能源材料",
+      "功能材料",
+      "光电转换",
+      "微纳结构调控"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 200,
+    "representative_publications": [
+      {
+        "title": "纳米材料微纳结构的调控及其在光催化制氢中的应用",
+        "keywords": [
+          "纳米材料",
+          "微纳结构调控",
+          "光催化制氢",
+          "功能材料"
+        ],
+        "journal_name": "Journal of Materials Chemistry A",
+        "research_fields": [
+          "无机固体化学",
+          "能源与环境材料",
+          "纳米功能材料"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "CO2能源化转换中高效催化剂的设计与性能研究",
+        "keywords": [
+          "CO2转化",
+          "催化剂设计",
+          "光电转换",
+          "功能材料"
+        ],
+        "journal_name": "Advanced Energy Materials",
+        "research_fields": [
+          "能源与环境材料",
+          "材料化学",
+          "纳米功能材料"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "基于无机固体化学的新型功能材料制备与性能研究",
+        "keywords": [
+          "无机固体化学",
+          "功能材料",
+          "材料设计",
+          "纳米结构"
+        ],
+        "journal_name": "Chemistry of Materials",
+        "research_fields": [
+          "无机固体化学",
+          "材料化学",
+          "纳米功能材料"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/pengtianyou/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 彭天右\n页面链接: http://jszy.whu.edu.cn/pengtianyou/zh_CN/index.htm\n==================================================\n武汉大学 彭天右--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n教育与研究经历\n1998年7月于武汉大学获博士学位并留校任教，04年破格晋升教授。01年10月至03年5月Kyoto University博士后，其间兼任日本基础化学研究所外国人特别研究员。03年3-4月访问Rochestor University、New Jersey State University。04年7月至8月京都大学福井谦一研究中心客座研究员。05年10月应邀访问香港浸会大学。07年7月访问新加坡国立大学和南洋理工大学。08年11月访问Wisconsin-Madison和Delaware大学。已发表SCI论文200余篇，他引15000余次。获发明专利13项，现兼任无机化学研究所主任。\n研究领域与兴趣\n无机固体化学、材料化学、纳米功能材料、能源与环境材料。包括：纳米材料微纳结构的调控；功能材料及器件的设计、制备及其光催化制氢、CO2能源化转换和光电转换性能研究。\n学术兼职\n中国化学会无机化学学科委员会委员；中国仪器仪表学会功能材料分会常务理事；《功能材料》通讯编委；湖北省十一五科技发展计划新材料领域专家组成员。\n教育经历\n暂无内容\n工作经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n团队成员\n暂无内容\n彭天右\n教授\n性别： 男\n毕业院校：武汉大学\n学历： 研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n入职时间： 1998-03-01\n电子邮箱：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

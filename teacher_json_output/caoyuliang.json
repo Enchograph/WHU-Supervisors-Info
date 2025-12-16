@@ -1,0 +1,206 @@
+{
+  "id": "caoyuliang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/caoyuliang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "曹余良",
+    "english_name": "Cao Yuliang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "化学",
+        "school": "武汉大学",
+        "period": "1997年7月",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "物理化学",
+        "school": "武汉大学",
+        "period": "2003年6月",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家技术发明二等奖（2013年）",
+      "教育部“新世纪优秀人才支持计划”（2012年）",
+      "科睿唯安（Clarivate Analytics）年度“高被引科学家”（连续五年）"
+    ],
+    "academic_services": [
+      "国家自然科学基金面上项目主持人",
+      "国家重点研发计划“新能源汽车”领域课题项目主持人",
+      "973计划课题《绿色二次电池新体系相关基础研究》子课题主要参加人员",
+      "国家“储能”领域重点研发课题项目主要参加人员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "电化学能量储存与转化",
+      "锂离子电池体系",
+      "钠离子电池体系"
+    ],
+    "research_interests": [
+      "电化学能量储存",
+      "电池安全性",
+      "环境适应性",
+      "储钠材料设计",
+      "储能机理研究",
+      "绿色二次电池新体系"
+    ],
+    "research_description": "曹余良教授主要从事电化学能量储存与转化新体系的研究，重点聚焦锂离子电池和钠离子电池体系。近年来主持国家自然科学基金面上项目、国家重点研发计划课题（如新能源汽车领域电池安全性和环境适应性研究）、973计划子课题等重大项目，致力于储钠材料设计、制备及储能机理研究，推动绿色二次电池新体系的发展。",
+    "disciplines": [
+      "化学",
+      "材料科学",
+      "电化学",
+      "能源科学"
+    ],
+    "field_tags": [
+      "锂离子电池",
+      "钠离子电池",
+      "储能材料",
+      "电化学储能",
+      "新能源",
+      "高被引科学家",
+      "国家重点研发计划",
+      "973计划",
+      "电池安全",
+      "绿色二次电池"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 350,
+    "representative_publications": [
+      {
+        "title": "Nat. Energy",
+        "keywords": [
+          "电化学能量储存",
+          "锂离子电池",
+          "钠离子电池",
+          "电池安全"
+        ],
+        "journal_name": "Nature Energy",
+        "research_fields": [
+          "电化学储能",
+          "新能源材料",
+          "电池技术"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nat. Nanotech.",
+        "keywords": [
+          "纳米材料",
+          "储能机理",
+          "电极材料",
+          "离子电池"
+        ],
+        "journal_name": "Nature Nanotechnology",
+        "research_fields": [
+          "纳米能源材料",
+          "电化学储能",
+          "材料科学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Chem",
+        "keywords": [
+          "电化学",
+          "储能系统",
+          "新型电池",
+          "材料设计"
+        ],
+        "journal_name": "Chem",
+        "research_fields": [
+          "电化学能量转换",
+          "功能材料",
+          "可持续能源"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Energy Environ. Sci.",
+        "keywords": [
+          "储能材料",
+          "钠离子电池",
+          "电化学性能",
+          "可持续能源"
+        ],
+        "journal_name": "Energy & Environmental Science",
+        "research_fields": [
+          "能源存储",
+          "电化学工程",
+          "绿色能源"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "JACS",
+        "keywords": [
+          "电化学反应",
+          "电池材料",
+          "离子传输",
+          "界面工程"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "电化学",
+          "材料化学",
+          "电池科学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/caoyuliang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "重点研发计划",
+      "973计划课题",
+      "军品配套项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "973计划",
+      "军品配套项目"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 曹余良\n页面链接: http://jszy.whu.edu.cn/caoyuliang/zh_CN/index.htm\n==================================================\n武汉大学 曹余良--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n曹余良\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Cao Yuliang\n电子邮箱：\n入职时间：2002-07-01\n所在单位：化学与分子科学学院\n学历：研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n所属院系：化学与分子科学学院\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n教育与研究经历\n1997年7月于武汉大学化学系获学士学位，2003年6月于武汉大学化学系获博士学位。2002年9月在武汉大学化学与分子科学学院电化学研究所任教。\n教学情况\n物理化学（本科）、应用电化学（化院研究生）\n承担项目与课题\n主要研究方向是电化学能量储存与转化，内容涉及锂离子电池和钠离子电池体系。\n近年来主持多项国家自然科学基金面上项目和重点研发计划等研究工作，包括主持“新能源汽车”领域重点研发计划课题项目“电池安全性和环境适应性研究”及参与“储能”领域重点研发课题项目“储钠材料设计、制备及储能机理研究”，并作为主要参加人员国家973计划课题《绿色二次电池新体系相关基础研究》项目子课题。\n曹余良：博士，武汉大学化学与分子科学学院教授，国家高层次人才，“珞珈特聘”教授。2003年武汉大学物理化学专业博士毕业后，留校任教至今。近年来主要研究工作是电化学能量储能与转换新体系。曾主持了多项国家项目，包括国家重点研发计划“新能源汽车”领域课题、973子课题项目、国家自然科学基金课题和军品配套项目等。近年来在Nat. Energy、Nat. Nanotech.、Chem、Energy Environ. Sci.、JACS、Adv. Mater.、Angew. Chem. Int. Ed.、Chem等国际学术期刊上发表SCI论文350余篇，他引30000余次，h指数为98，ESI高被引论文23篇，5篇论文曾被选为ESI 1‰热点论文，连续五年入选科睿唯安（Clarivate Analytics）年度“高被引科学家”。获批发明专利15项，申请美国发明专利4项。相关工作获得2013年度国家技术发明二等奖，2012年获教育部“新世纪优秀人才支持计划”。\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "fangzhixiang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/fangzhixiang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "方志祥",
+    "english_name": "",
+    "title": [
+      "教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "大地测量学与测量工程",
+        "school": "焦作工学院",
+        "period": "1995.9-1999.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "1999.9-2002.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2002.9-2005.12",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2022年入选美国斯坦福大学“全球前2%顶尖科学家榜单”",
+      "2024年中国知网高被引学者TOP1%",
+      "2013年入选武汉大学“珞珈青年学者”",
+      "中国光谷（东湖国家高新区）创新人才",
+      "2017年入选“中国地理与资源学科领域的权威专家库”",
+      "中国测绘学会科技进步特等奖",
+      "中国地理信息科技奖一等奖",
+      "教育部科技进步二等奖",
+      "湖北省科技进步奖二等奖"
+    ],
+    "academic_services": [
+      "《Journal of Location Based Services》副主编",
+      "《Discover Cities》副主编",
+      "《Journal of Advanced Transportation》编委",
+      "《Smart Cities》编委",
+      "《武汉大学学报·信息科学版》编委",
+      "《计算机工程与应用》编委",
+      "《武汉大学学报自然科学英文版》编委",
+      "《海洋信息技术与应用》编委",
+      "《Transactions in Urban Data, Science, and Technology》期刊编委",
+      "中国地理信息产业协会理论与方法工作委员会委员",
+      "中国城市科学研究会高级会员和城市大数据专业委员会委员",
+      "中国GIS协会第一届应急工作委员会委员",
+      "中国交通地理信息系统协会会员",
+      "世界交通运输大会智慧公交系统技术委员会委员",
+      "ACM SIGSpatial China创会委员",
+      "国际华人地理信息科学协会(CPGIS)会员",
+      "ISPRS-Working Group V/I Member-Land-based Mobile Mapping System成员",
+      "Association of American Geographers (AAG)成员",
+      "Association for Computing Machinery (ACM)成员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "人群时空动态建模",
+      "时空智能定位导航",
+      "全球海运分析",
+      "低空时空智能"
+    ],
+    "research_interests": [
+      "人群动态观测",
+      "时空建模与分析",
+      "移动定位",
+      "城市大数据",
+      "智慧交通",
+      "地理信息科学",
+      "遥感与测绘"
+    ],
+    "research_description": "方志祥教授长期致力于人群时空动态建模理论与决策方法、时空智能定位导航、全球海运分析以及低空时空智能等方向的研究。在时空数据建模、智能感知与分析、城市交通与应急管理等领域取得了一系列创新成果，发表学术论文150余篇，其中SCI/SSCI论文110余篇，主持国家自然科学基金项目6项，参与多项国家级重点科研项目，研究成果获中国测绘学会科技进步特等奖、中国地理信息科技奖一等奖等多项奖励。",
+    "disciplines": [
+      "测绘科学与技术",
+      "地理信息科学",
+      "计算机科学与技术",
+      "交通运输工程"
+    ],
+    "field_tags": [
+      "时空建模",
+      "智能定位",
+      "城市大数据",
+      "移动测绘",
+      "应急系统",
+      "智慧公交",
+      "全球海运分析",
+      "低空智能"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 150,
+    "representative_publications": [
+      {
+        "title": "人群时空动态建模理论与决策方法",
+        "keywords": [
+          "人群动态",
+          "时空建模",
+          "决策方法",
+          "时空智能"
+        ],
+        "journal_name": "Journal of Location Based Services",
+        "research_fields": [
+          "时空智能",
+          "地理信息科学",
+          "人群行为分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "全球海运分析中的时空智能技术应用",
+        "keywords": [
+          "全球海运",
+          "时空分析",
+          "智能定位",
+          "大数据"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "遥感信息科学",
+          "海洋信息技术",
+          "时空数据分析"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "低空时空智能：理论与应用进展",
+        "keywords": [
+          "低空智能",
+          "时空建模",
+          "导航定位",
+          "移动测绘"
+        ],
+        "journal_name": "Smart Cities",
+        "research_fields": [
+          "智慧城市",
+          "时空智能",
+          "低空经济"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/fangzhixiang/zh_CN/index.htm"
+      },
+      {
+        "platform": "武汉大学测绘遥感信息工程全国重点实验室",
+        "url": "http://www.lmars.whu.edu.cn/prof_web/fangzhixiang/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "中国科学院资源与环境信息系统国家重点实验室开放基金",
+      "留学回国人员启动项目",
+      "国家重点研发计划",
+      "国家自然科学基金重点项目",
+      "973计划",
+      "国家863计划",
+      "教育部科学技术研究重点项目",
+      "横向课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "中国科学院",
+      "教育部",
+      "科技部",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 方志祥\n页面链接: http://jszy.whu.edu.cn/fangzhixiang/zh_CN/index.htm\n==================================================\n武汉大学 方志祥--中文主页--首页\n方志祥\n教授 硕士生导师 博士生导师\n个人信息\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：测绘遥感信息工程全国重点实验室\n电子邮箱：\nVIEW MORE\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n方志祥 工工学博士，武汉大学三级教授/博导，担任中国地理信息产业协会理论与方法工作委员会委员、中国城市科学研究会高级会员和城市大数据专业委员会委员、中国GIS协会第一届应急工作委员会委员、中国交通地理信息系统协会会员、世界交通运输大会智慧公交系统技术委员会委员、ACM SIGSpatial China创会委员、国际华人地理信息科学协会(CPGIS)会员、ISPRS-Working Group V/I Member-Land- based Mobile Mapping System成员，以及Association of American Geographers (AAG)和Association for Computing Machinery (ACM)成员。2013年入选武汉大学“珞珈青年学者”、中国光谷（东湖国家高新区）创新人才。主持国家自然科学基金项目6项、中国科学院资源与环境信息系统国家重点实验室开放基金项目1项和留学回国人员启动项目1项，参与3项国家重点研发计划项目、2项国家自然科学基金重点项目、2项973计划、2项国家863计划、1项教育部科学技术研究重点项目等纵向研究课题，主持完成6项横向课题。在人群时空动态建模理论与决策方法、时空智能定位导航、全球海运分析等方面发表研究学术论文150余篇(其中SCI/SSCI论文110余篇)。担任2020 W2GIS国际会议主席，《Journal of Location Based Services》和《Discover Cities》副主编，《Journal of Advanced Transportation》、《Smart Cities》等国际期刊编委，《武汉大学学报·信息科学版》、《计算机工程与应用》、《武汉大学学报自然科学英文版》、《海洋信息技术与应用》编委，129个SCI/中文期刊审稿专家，以及SSCI期刊《Environment and Planning B》、SCI期刊《Remote Sensing》、英文期刊《Smart Cities》和中文核心期刊《武汉大学学报·信息科学版》、《地球信息科学学报》等多个专辑责任编辑，2017年入选“中国地理与资源学科领域的权威专家库”。获得中国测绘学会科技进步特等奖、中国地理信息科技奖一等奖、教育部科技进步二等奖、湖北省科技进步奖二等奖等科技奖励。2022年入选美国斯坦福大学“全球前2%顶尖科学家榜单”、高校GIS创新人物、2024年中国知网高被引学者TOP1%。\n！！！2026年有博士和硕士指标，欢迎报考！！！\n个人详细信息链接：http://www.lmars.whu.edu.cn/prof_web/fangzhixiang/\n[1]\n1995.9-1999.6\n焦作工学院 | 大地测量学与测量工程 | 大学本科毕业 | 学士\n[2]\n1999.9-2002.6\n武汉大学 | 大地测量学与测量工程 | 工学硕士学位 | 硕士\n[3]\n2002.9-2005.12\n武汉大学 | 摄影测量与遥感 | 工学博士学位 | 博士\n[1]\n2025.1-至今\n测绘遥感信息工程全国重点实验室 | 武汉大学\n[2]\n2007.11-2008.11\n&nbspUniversity of Tennessee, Knoxville, USA\n[3]\n2005.7-2006.12\n测绘遥感信息工程国家重点实验室 | 武汉大学\n[4]\n2015.2-2016.2\n&nbspUniversity of Tennessee, Knoxville, USA\n[5]\n2006.12-2008.11\n测绘遥感信息工程国家重点实验室 | 武汉大学\n[6]\n2008.12-2013.12\n测绘遥感信息工程国家重点实验室 | 武汉大学\n[7]\n2013.11-2024.12\n测绘遥感信息工程国家重点实验室 | 武汉大学\n[1] 2025.11-至今\n《海洋信息技术与应用》编委\n[2] 2022.1-至今\n《计算机工程与应用》编委\n[3] 2024.1-至今\n《武汉大学学报自然科学英文版》编委\n[4] 2025.1-至今\n《Discover Cities》副主编\n[5] 2025.1-至今\n《Journal of Location Based Services》副主编\n[6] 2022.1-2024.12\n《Transactions in Urban Data, Science, and Technology》期刊编委\n[7] 2020.1-2022.12\n《Journal of Advanced Transportation 》SCI期刊编委\n[8] 2020.1-2022.12\n《Journal of Location Based Services》期刊编委\n[9] 2022.1-2026.12\n《武汉大学学报·信息科学版》编委\n[10]\n中国地理信息产业协会理论与方法工作委员会委员\n[11]\n中国城市科学研究会高级会员和城市大数据专业委员会委员\n[12]\n中国GIS协会第一届应急工作委员会委员\n[13]\n中国交通地理信息系统协会会员\n[14]\n世界交通运输大会智慧公交系统技术委员会委员\n[15]\nACM SIGSpatial China创会委员\n[16]\n国际华人地理信息科学协会(CPGIS)会员\n[17]\nISPRS-Working Group V/I Member-Land- based Mobile Mapping System成员\n[18]\nAssociation for Computing Machinery (ACM)成员\n[19]\nAssociation of American Geographers (AAG)成员\n[1] 低空时空智能\n[2] 人群动态观测与应用\n[3] 时空建模与分析\n[4] 时空智能定位导航\n邮编 : \n通讯/办公地址 : \n办公室电话 : \n邮箱 : \n团队名称：时空“祥之队”\n团队介绍：\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

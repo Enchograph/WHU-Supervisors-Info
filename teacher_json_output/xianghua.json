@@ -1,0 +1,118 @@
+{
+  "id": "xianghua",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xianghua/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "向华",
+    "english_name": "Hua XIANG",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "数学与统计学院",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算数学",
+        "school": "复旦大学",
+        "period": "2003年9月 - 2006年6月",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "流体力学",
+        "school": "中国科学院力学研究所",
+        "period": "1999年9月 - 2002年6月",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "船舶工程",
+        "school": "哈尔滨工程大学",
+        "period": "1995年9月 - 1999年6月",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "复旦大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "量子计算",
+      "数值代数",
+      "计算流体",
+      "摄动方法"
+    ],
+    "research_interests": [
+      "量子计算",
+      "数值代数",
+      "计算流体",
+      "摄动方法",
+      "偏微分方程数值解",
+      "高性能计算"
+    ],
+    "research_description": "向华教授主要从事量子计算、数值代数、计算流体和摄动方法等方向的研究，致力于发展高效、稳定的数值算法，解决复杂物理系统中的建模与计算问题。其研究涵盖从理论分析到实际应用的多个层面，尤其在量子系统数值模拟与流体力学数值方法方面具有深入探索。",
+    "disciplines": [
+      "数学",
+      "计算数学",
+      "应用数学",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "量子计算",
+      "数值代数",
+      "计算流体",
+      "摄动方法",
+      "偏微分方程",
+      "数值分析",
+      "高性能计算"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xianghua/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973计划",
+      "863计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 向华\n页面链接: http://jszy.whu.edu.cn/xianghua/zh_CN/index.htm\n==================================================\n武汉大学 向华--中文主页--首页\n语言选择\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n向华\n已经得到个称赞     给我点赞\n教授\n博士生导师\n硕士生导师\n教师英文名称：Hua XIANG\n教师拼音名称：Xiang Hua\n电子邮箱：\n入职时间：2006-07-01\n所在单位：数学与统计学院\n学历：研究生毕业\n办公地点：雷军科技楼A303\n性别：男\n在职信息：在职\n毕业院校：复旦大学\n个人简介\n研究方向\n社会兼职\n教育经历\n工作经历\n学术荣誉\n曾获荣誉\n团队成员\n其他联系方式\n姓名：向华\n性别：男\n学历：博士\n专业: 计算数学\n地址：武汉大学数学与统计学院，430071，武汉\nEmail: hxiang@whu.edu.cn\n教育背景：\n◆ 2003年9月 - 2006年6月, 复旦大学数学科学学院，计算数学专业博士。\n◆ 1999年9月 - 2002年6月, 中国科学院力学研究所，流体力学专业硕士。\n◆ 1995年9月 - 1999年6月, 哈尔滨工程大学船舶与海洋工程系，船舶工程专业学士。\n工作经历\n◆2015年11月至今，武汉大学数学与统计学院，教授。\n◆2008年12月 – 2015年11月，武汉大学数学与统计学院，副教授。\n◆2006年07月 – 2008年11月，武汉大学数学与统计学院，讲师。\n其它\n◆2018年1月-2月，2018年8月，2019年2月，2024年1-2月，访问香港理工大学应用数学系。\n◆2011年9月30日-10月8日，2012年8月，2014年1月，2016年1月，访问香港中文大学数学系。\n◆2011年1月-2月，访问巴黎六大Lions实验室。\n◆2009年1月-2009年12月, Laboratoire Jacques-Louis Lions, Universite Pierre et Marie Curie (巴黎六大), 博士后。\n◆2007年1月-2008年08月, INRIA Saclay-Ile de France (法国国家信息与自动化研究院), 博士后。\n研究方向：量子计算，数值代数，计算流体，摄动方法\n数值代数\n量子计算\n暂无内容\n2003.9-2006.6\n复旦大学 |\n计算数学 |\n博士 |\n博士\n1999.9-2002.6\n中国科学院力学研究所 |\n流体力学 |\n硕士 |\n硕士\n1995.9-1999.6\n哈尔滨工程大学 |\n船舶与海洋工程系 |\n学士 |\n学士\n2015.11-至今\n数学与统计学院 |\n武汉大学\n教授 |\n&nbspNovember 2015 – present\n2008.12-2015.11\n数学与统计学院 |\n武汉大学\n副教授 |\n&nbspDecember 2008 – November 2015\n2006.7-2008.12\n数学与统计学院 |\n武汉大学\n讲师 |\n&nbspJuly 2006 – December 2008\n暂无内容\n暂无内容\n暂无内容\n邮箱:\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

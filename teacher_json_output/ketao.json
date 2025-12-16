@@ -1,0 +1,211 @@
+{
+  "id": "ketao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/ketao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "柯涛",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "1997.09－2001.07",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2002.09－2005.07",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2005.09－2008.07",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家科技进步二等奖（排名5）",
+      "教育部科技进步一等奖（排名1）",
+      "省部级科技进步一等奖3项",
+      "国家级人才项目资助"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "航天摄影测量",
+      "航空摄影测量",
+      "低空摄影测量",
+      "近景摄影测量",
+      "数字摄影测量网格（DPGrid）技术",
+      "卫星影像云控制处理"
+    ],
+    "research_interests": [
+      "摄影测量与遥感",
+      "海量影像处理",
+      "无地面控制点定位",
+      "集群并行计算",
+      "无人机影像处理",
+      "快速响应系统",
+      "数字摄影测量网格",
+      "旋转多基线摄影测量"
+    ],
+    "research_description": "柯涛教授长期从事摄影测量与遥感领域的研究，聚焦于航天、航空、低空及近景摄影测量技术，致力于构建开放式、集群化的海量卫星影像处理体系。其研究重点包括自主知识产权的卫星影像云控制摄影测量系统研发，实现光学卫星影像在无地面控制点条件下的高精度对地定位。相关成果已广泛应用于多个国产光学遥感卫星地面处理系统，推动了摄影测量技术的工程化与规模化应用。同时，他在DPGrid（数字摄影测量网格）技术、低空遥感影像全自动匹配、SIFT特征算子应用、地震应急快速响应等方面取得重要突破。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "遥感信息工程",
+      "测绘科学与技术"
+    ],
+    "field_tags": [
+      "摄影测量",
+      "遥感",
+      "卫星影像处理",
+      "云控制",
+      "DPGrid",
+      "集群计算",
+      "快速响应",
+      "近景摄影测量",
+      "无人机遥感",
+      "无控定位"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 11,
+    "representative_publications": [
+      {
+        "title": "Scanning Photogrammetry for Measuring Large Targets in Close Range",
+        "keywords": [
+          "近景摄影测量",
+          "扫描摄影测量",
+          "大目标测量",
+          "图像网络生成"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "摄影测量与遥感",
+          "数字摄影测量网格",
+          "近景摄影测量"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "The Parallel Processing of DPGrid in the Fast Response for China 5.12 Wenchuan Earthquake Rescue",
+        "keywords": [
+          "DPGrid",
+          "并行处理",
+          "汶川地震应急响应",
+          "数字摄影测量网格"
+        ],
+        "journal_name": "The 2nd International Conference On Computer Science and Software Engineering (CSSE 2009)",
+        "research_fields": [
+          "摄影测量",
+          "应急响应",
+          "并行计算"
+        ],
+        "publication_year": 2009
+      },
+      {
+        "title": "Photogrammetry for First Response in Wenchuan Earthquake",
+        "keywords": [
+          "汶川地震",
+          "摄影测量",
+          "快速响应",
+          "遥感应用"
+        ],
+        "journal_name": "ASPRS（Photogrammetric Engineering & Remote Sensing）",
+        "research_fields": [
+          "遥感应急",
+          "摄影测量",
+          "灾害响应"
+        ],
+        "publication_year": 2009
+      },
+      {
+        "title": "Image network generation of uncalibrated uav images with low-cost gps data",
+        "keywords": [
+          "无人机影像",
+          "图像网络生成",
+          "低成本GPS",
+          "无标定影像"
+        ],
+        "journal_name": "Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci. - ISPRS Arch",
+        "research_fields": [
+          "无人机摄影测量",
+          "图像匹配",
+          "低空遥感"
+        ],
+        "publication_year": 2012
+      },
+      {
+        "title": "Panning and multi-baseline digital close-range photogrammetry",
+        "keywords": [
+          "全景摄影测量",
+          "多基线",
+          "数字近景摄影测量",
+          "图像处理"
+        ],
+        "journal_name": "Proc. of SPIE Vol. 6788",
+        "research_fields": [
+          "近景摄影测量",
+          "数字摄影测量",
+          "图像处理"
+        ],
+        "publication_year": 2007
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/ketao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年科学基金",
+      "国家重点研发计划",
+      "高分重大专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "高分重大专项"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 柯涛\n页面链接: http://jszy.whu.edu.cn/ketao/zh_CN/index.htm\n==================================================\n武汉大学 柯涛--中文主页--首页\n柯涛\n教授\n博士生导师\n硕士生导师\n性别：男\n毕业院校：武汉大学\n学历：研究生毕业\n在职信息：在职\n所在单位：遥感信息工程学院\n学科：\n摄影测量与遥感\n办公地点：信息学部教学实验大楼\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n柯涛，武汉大学二教授，博士生导师，“摄影测量与遥感”工学博士，获国家级人才项目资助。长期从事摄影测量与遥感领域的研究与教学，主持、参与科研项目50余项（高分重大专项、国家重点研发计划、国家自然科学基金青年科学基金等国家级科研项目/课题20余项）。主持完成具有完全自主知识产权、卫星影像云控制摄影测量系统研制，较早建立了海量卫星影像开放式、集群处理技术体系，实现了光学卫星影像无地面控制点条件下的高精度对地定位，成果在多个国产光学遥感卫星影像地面处理系统中得到规模化和工程化应用。相关成果获国家科技进步二等奖1项（排名5），教育部科技进步一等奖1项（排名1），其他省部级科技进步一等奖3项。\n教育经历\n1997.09－2001.07，武汉大学遥感信息工程学院，获“测绘工程”学士学位\n2002.09－2005.07，武汉大学遥感信息工程学院，获“摄影测量与遥感”工学硕士学位\n2005.09－2008.07，武汉大学遥感信息工程学院，获“摄影测量与遥感”工学博士学位\n工作经历\n2008.08－2010.11，武汉大学遥感信息工程学院，讲 师\n2010.11－2016.11，武汉大学遥感信息工程学院，副教授\n2016.11－2022.11，武汉大学遥感信息工程学院，研究员\n2019.01－ 至    今 ，武汉大学遥感信息工程学院，博士生导师\n2022.11－ 至    今 ，武汉大学遥感信息工程学院，二级教授\n主讲课程\n本 科：\n《摄影测量学》\n研究生：\n《摄影测量在测绘生产中的应用与案例分析》\n《摄影测量原理与应用》（MOOC课程）\n研究方向\n航天、航空、低空、近景摄影测量，DPGrid（数字摄影测量网格）技术研究\n发明专利\n(1)《扫描近景摄影测量方法》，发明专利号：ZL 2012 1 0031303.0；发明人：张祖勋，柯涛，郑顺义，黄山\n(2)《一种旋转摄影测量系统多片整体平差标定方法》，发明专利号：ZL 2011 1 0385815.2；发明人：张永军，胡堃，柯涛，黄山\n代表论著\n(1) Tao Ke, ZuXun Zhang, JianQing Zhang. Panning and multi-baseline digital close-range photogrammetry. Multispectral Image Processing and Pattern Recognition (MIPPR2007),15-17 November 2007,Wuhan China. Proc. of SPIE Vol. 6788 678813 ( EI)\n(2) Jianqing Zhang, Tao Ke, Yansong Duan. The processing of mass aerial digital images and rapid response based on cluster computer system. Multispectral Image Processing and Pattern Recognition (MIPPR2007), 15-17 November 2007, Wuhan China.Proc. of SPIE Vol. 6789 678926( EI)\n(3) Zuxun Zhang, Yongjun Zhang, Tao Ke, Dahai Guo. Photogrammetry for First Response in Wenchuan Earthquake,ASPRS（Photogrammetric Engineering & Remote Sensing）,2009,5(SCI)\n(4) Tao Ke, Zuxun Zhang, Yongjun Zhang. The Parallel Processing of DPGrid in the Fast Response for China 5.12 Wenchuan Earthquake Rescue. The 2nd International Conference On Computer Science and Software Engineering (CSSE 2009)( EI检索)\n(5) Tao Ke, ZuXun Zhang, Shan Huang. The Scanning Photogrammetry。International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XXXIX-B5, 2012.XXII ISPRS Congress, 25 August – 01 September 2012, Melbourne, Australia ( EI)\n(6) Shan Huang, Zuxun Zhang, Tao Ke*, Ming Tang, Xuan Xu.Scanning Photogrammetry for Measuring Large Targets in Close Range. Remote Sensing. 2015, 7(8): 10042-10077(SCI)\n(7)Huang, Shan，Zhang, Zu Xun，He, Jiannan，Ke, Tao*.Image network generation of uncalibrated uav images with low-cost gps data.Int. Arch. Photogramm.Remote Sens. Spat. Inf. Sci. - ISPRS Arch( EI)\n(8) 张剑清,柯涛,孙明伟,段延松.并行计算在航空摄影测量中的应用与实现－数字摄影测量网格(DPGrid)并行计算技术研究.测绘通报，2008年12期，P11-14(中文核心期刊)\n(9) 柯涛,张祖勋,张剑清.旋转多基线数字近景摄影测量.武大学学报·信息科学版,第34卷第1期，44-47页, 2009.1(中文核心期刊)\n(10) 柯涛，张永军.SIFT特征算子在低空遥感影像全自动匹配中的应用.测绘科学,第34卷 第4期，23-26页, 2009.4(中文核心期刊)\n(11) 张祖勋, 柯涛,郭大海,王建超.数字摄影测量网格在汶川大地震中的快速响应.中国工程科学.2009年第11卷第6期\n获奖\n(1) 2010年,“基于多源控制信息的正射影像快速更新研究与应用”，获国家测绘科技进步一等奖，个人排名第5\n(2) 2012年,“视觉测量方法研究及应用”，获国家测绘科技进步一等奖，个人排名第3\n(3) 2015年,“XXXXXXXX关键技术研究”，获军队科技进步一等奖，个人排名第4\n(4) 2017年,“航空航天遥感影像摄影测量网格处理关键技术与应用”，获国家科技进步二等奖，个人排名第5\n(5) 2020年,“卫星影像‘云控制’处理与规模化生产关键技术”，获教育部科技进步奖一等，个人排名第1\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

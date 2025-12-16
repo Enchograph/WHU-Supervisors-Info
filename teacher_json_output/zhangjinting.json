@@ -1,0 +1,210 @@
+{
+  "id": "zhangjinting",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangjinting/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张金亭",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "土地资源管理",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "经济学学士",
+        "field": "土地管理",
+        "school": "武汉测绘科技大学",
+        "period": "1992-1996",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2001-2011",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "广西自然厅优成果二等奖",
+      "湖北省优秀规划成果二等奖"
+    ],
+    "academic_services": [
+      "《农业工程学报》审稿专家",
+      "省级自然资源部门特聘专家",
+      "省级生态修复中心（原土地整治中心）特聘专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "国土空间规划",
+      "土地综合整治与生态修复",
+      "土地资源资产评估",
+      "地理空间智能（GeoAI）应用"
+    ],
+    "research_interests": [
+      "空间认知与空间优化",
+      "生态修复技术体系",
+      "自然资源资产核算",
+      "地理加权回归",
+      "多源数据融合",
+      "碳平衡与双碳目标"
+    ],
+    "research_description": "张金亭副教授长期从事国土空间规划、土地综合整治与生态修复、土地资源资产评估等领域的理论与实践研究。在国土空间规划方面，参与历次土地利用总体规划编制，主持多个县级国土空间规划与村庄规划项目，构建了从‘空间认知-空间冲突-空间优化’的科学范式。在土地综合整治与生态修复方面，主持30余项县市级项目，形成‘潜力评价-问题诊断-格局构建-分区布局-项目落位’的技术体系。在土地评估方面，涵盖城镇、农用地、集体建设用地等多类型评估，推动城乡一体地价评估与自然资源资产核算。研究融合地理空间智能（GeoAI）技术，开展多尺度空间分析与模型模拟，服务于生态安全、碳平衡、城市扩张等关键议题。",
+    "disciplines": [
+      "土地资源管理",
+      "人文地理学",
+      "公共管理",
+      "测绘工程",
+      "环境科学"
+    ],
+    "field_tags": [
+      "国土空间规划",
+      "生态修复",
+      "土地整治",
+      "GeoAI",
+      "自然资源资产",
+      "空间优化",
+      "碳中和",
+      "地价评估",
+      "GIS",
+      "空间分析"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 68,
+    "representative_publications": [
+      {
+        "title": "Monitoring desertification in Ordos City using integrated vegetation and soil indicators",
+        "keywords": [
+          "荒漠化监测",
+          "植被指标",
+          "土壤指标",
+          "鄂尔多斯"
+        ],
+        "journal_name": "JOURNAL OF ARID ENVIRONMENTS",
+        "research_fields": [
+          "土地资源管理",
+          "生态修复",
+          "地理信息系统"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Disentangling the effects of various risk factors and trends in lung cancer mortality",
+        "keywords": [
+          "肺癌死亡率",
+          "风险因素",
+          "空间异质性",
+          "美国"
+        ],
+        "journal_name": "SCIENTIFIC REPORTS",
+        "research_fields": [
+          "公共卫生",
+          "空间分析",
+          "地理信息科学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Instability and uncertainty of carbon storage in karst regions under land use change: a case study in Guiyang, China",
+        "keywords": [
+          "喀斯特地区",
+          "碳储量",
+          "土地利用变化",
+          "贵阳"
+        ],
+        "journal_name": "FRONTIERS IN ENVIRONMENTAL SCIENCE",
+        "research_fields": [
+          "生态修复",
+          "碳中和",
+          "土地利用规划"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Multi-Scale Study of the Synergy Between Human Activities and Climate Change on Urban Heat Islands in China",
+        "keywords": [
+          "城市热岛",
+          "人类活动",
+          "气候变化",
+          "多尺度分析"
+        ],
+        "journal_name": "SUSTAINABLE CITIES AND SOCIETY",
+        "research_fields": [
+          "城市规划",
+          "环境科学",
+          "GeoAI"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Delineating Ecological Functional Zones and Grades for Multi-Scale Ecosystem Management",
+        "keywords": [
+          "生态功能区划",
+          "生态系统管理",
+          "多尺度",
+          "土地整治"
+        ],
+        "journal_name": "Land",
+        "research_fields": [
+          "国土空间规划",
+          "生态修复",
+          "自然资源管理"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangjinting/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "863项目",
+      "武汉市科技攻关项目",
+      "国土空间规划项目",
+      "土地整治项目",
+      "地价评估项目",
+      "国土空间生态修复规划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家863计划",
+      "武汉市科技局",
+      "自然资源部",
+      "省级自然资源部门"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张金亭\n页面链接: http://jszy.whu.edu.cn/zhangjinting/zh_CN/index.htm\n==================================================\n武汉大学 张金亭--中文主页--首页\nEnglish\n中文\n张金亭\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n出生日期：1975-03-01\n电子邮箱：\n办公地点：资环学院电脑城412\n所属院系：\n资源与环境科学学院\n学科：\n土地资源管理\n人文地理学\n公共管理其他专业\n个人简介\n张金亭 武汉大学副教授，博导，硕导，国家注册土地估价师，国家注册测绘师，省级自然资源部门特聘专家。长期从事国土空间规划、土地综合整治与生态修复和土地资源资产评估等方面的理论、实践和教学工作。参与国家自然基金项目、国家863项目和武汉市科技攻关项目等纵向研究课题8项，主持了自然资源领域的国土空间规划、土地整治、地价评估等相关横向技术咨询服务50项，发表学术论文60余篇（其中SCI/SSCI论文15篇， EI源刊论文4篇，CSSCI或CSCD论文18，其他7篇论文均为学科认定的较重要期刊）。农业工程学报等重要学术期刊审稿专家。\n在国土空间规划方面，参与了1996年来历次土地利用总体规划编制工作。在2019年以来的新一轮国土空间规划中，主持或参与了4个县级的国土空间规划项目， 40个村庄规划，主讲过土地利用规划课程，参与“空间布局优化”相关自然基金课题。获得广西自然厅优成果二等奖，湖北省优秀规划成果二等奖。形成从“空间认知-空间冲突-空间优化”的认识空间规律，优化资源配置的科学范式。\n在土地综合整治与生态修复方面，主持过30多个县市土地综合整治项目的项目的可研、规划设计及预算工作，正在主持2个地级市国土空间生态修复规划。作为省级生态修复中心（原土地整治中心）特聘专家，全面参与综合整治与生态修复类项目的省级政策制定，项目选择论证工作。主讲土地整治与生态修复课程，在理论和实践上形成“潜力评价-问题诊断-格局构建-分区布局-项目落位”的基于自然的土地综合整治与生态修复技术体系。\n在土地评估方面，积累从多地具体城市土地定级估价成果编制、成果管理软件系统开发到省级行业标准起草到的全过程，评估对象从城镇土地，到国有农用地，到集体建设用地和农用地 城乡一体，以及土地（耕地）质量等别划定工作，进而过渡到全部自然资源资产的核定核算，一些工作对于地方都是第一次做，是试点探索性质。理论和实践上形成各类自然资源资产分等定级、潜力评价和价格评估的完成技术流程。\n研究趣点：立足人与自然耦合机理，利用地理空间智能（GeoAi）在自然资源（规划、评价、整治和生态修复）领域开展应用研究。\n招生专业：资源与环境（专博）；土地资源管理（学硕）；人文地理（学硕）；测绘工程（专硕）；公共管理硕士(MPA)\n著作Books:\n[5] 黄经南 张金亭 黄俊 周恒《国土空间规划：从理论到实践》 武汉大学出版社 2024.11\n[4] Manual book of land spatial planning. Wuhan university press.2022(《国土空间规划操作手册》 黄经南 李刚翊 张金亭等，武汉大学出版社 )\n[3] Shenghua LIU etc .Land Management Study. Wuhan:Wuhan University press.2020\n(ISBN978-7-307-21299-2）(刘胜华主编（张金亭参编）《土地管理学》武汉大学出版社2020年)\n[2]  Yingbin LIU.  : Surveying and mapping programming. Wuhan:Wuhan University press.2019 （ISBN 9787307210905） 李英兵主编（张金亭参编） 《测量程序设计》下册武汉大学出版社2019年\n[1] 刘家彬 张金亭 胡石元 . 土地信息系统原理与方法.北京：测绘出版社 2002.（Jiabin Liu,Jinting ZHANG,Shiyuan Hu. Theory and Methods of Land Information System. Beijing: Surveying and mapping press.2002 (Jiabin Liu is my supervisor during my master degree course)\n研究项目：\n在研主持项目\n（1）都昌县多规合一实用性村庄规划编制2022-至今\n（2）防城港市国土空间生态修复规划，2022-至今\n（3）来宾市国土空间生态修复规划，2023-至今\n（4）合山市国土空间规划编制（2021-2035）2021-至今，\n（5）宾阳县国土空间规划编制（2021-2035）2020-至今，\n（6）北海市基准地价体系编制（国农、集农、集建、国建）2019年至今\n参与科研课题\n1）自然基金项目（40901190），基于高性能地理计算的多目标空间优化决策可视化分析,2010-2015年,已结题,参与（主持人张彤）。\n2）自然基金项目（41571385），”面向城市扩展过程的动态空间格局指标与自组织空间结构分析模型”, 参与(主持人焦利民)。\n3) 自然基金项目( 41971368,)城市扩张宏观过程建模与分析, 参与(主持人焦利民)\n4）自然基金项目（40271093），空间信息移动服务关键技术研究；参与(主持人李清泉)\n5）国家863项目(2001AA136031),空间信息移动用户服务系统研究；参与(主持人李清泉)；\n6）武汉市科技公关项目(20021002044), 空间信息移动服务示范系统。参与（主持人：李清泉）\n学术论文\n[68]Jinting Zhang ；Lu Hu;Kui Yang ,  etc.Monitoring desertification in Ordos City using integrated vegetation and soil indicators[J].JOURNAL OF ARID ENVIRONMENTS,2025,V229,DOI:\n10.1016/j.jaridenv.2025.105391\n[67]Xiu Wu , Jinting Zhang* , Yilin Yoshida.Disentangling the effects of various risk factors and trends in lung cancer mortality[J].SCIENTIFIC REPORTS. 2025 V 15,DOI:10.1038/s41598-025-92373-2\n[66]Zhou, Heng ; Tang, Mingdong ; Huang, Jun ;  Jinting Zhang  etc.Instability and uncertainty of carbon storage in karst regions under land use change: a case study in Guiyang, China[J].FRONTIERS IN ENVIRONMENTAL SCIENCE, 2025, 13.https://dol.org/10:1016/jsc5.2025.106341\n[65]Kui Yang , Jinting Zhang*  etc.Multi-Scale Study of the Synergy BetweenHuman Activities and Climate Change onUrban Heat Islands in China[J].SUSTAINABLE CITIES AND SOCIETY,2025,106342.https://dol,org/10:1016/jsc5.2025.106341\n[64]Yan Zhang  , Shuhan Liu , Peiheng Yu  , Yanchi Lu , Yang Zhang , Jinting Zhang  and Yiyun Chen .Delineating Ecological Functional Zones and Grades for Multi-Scale Ecosystem Management[J].Land 2024,13, 1624. https://doi.org/10.3390/land13101624\n[63] Zhang, Jinting; Yang, Kui; Wu Jingdong, et al.Scenario simulation of carbon balance in carbon peak pilot cities under the background of the \"dual carbon\" goals[J].SUSTAINABLE CITIES AND SOCIETY,2024,116.\n[62]彭李智,胡石元,张金亭*,石庆翠,吴秀,顾及城郊农田生态服务价值的中心城区生态安全网络重构,生态学报,2024,44(13):5801-58I5.Peng l. 2, Hu S Y, ZhangjT, 2hou H, Shi 0 C, Wu X.Reonfigumtion af the eeologieal security netwetk in the cenind city consierng lhe eolegicalsemice value of suburban fammland,Aeta Feologiea Sinica,2024.44(13).5801-5815.DOI:10.20103/j.stxb.202307311645\n[61] Wu, Xiu, and Jinting Zhang*. Case Study on Spatial Mismatchbetween Multivariate and Student-Teacher Rate in U.S. Public School Districts. Social Sciences  .2024 13: 93.https://doi.org/10.3390/\n[60]Wu, X (Wu, Xiu) ; Zhang, JT (Zhang, Jinting) * ; Zhang, YX (Zhang, Yaoxuan) ; Zhang, DJ (Zhang, Daojun) [4] . Multi-Scale Toolbox: An Automated ArcGIS Tool for Evaluating Pupil-Teacher Ratios in US Public School Districts..APPLIED SCIENCES-BASEL V12(22)  DEC 2022..DOI:10.3390/app122211449\n[59]Wu, Xiu); Denise, Blanchard-Boehm ; Zhan, FB ;Zhang, Jinting. Determining Association between Lung Cancer Mortality Worldwide and Risk Factors Using Fuzzy Inference Modeling and Random Forest Modeling.INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH,V19(21) NOV 2022,DOI:10.3390/ijerph192114161\n[58]陈晓杰,张长城,张金亭,王静.基于CASA模型的植被净初级生产力时空演变格局及其影响因素——以湖北省为例[J].水土保持研究,2022,29(03):253-261.DOI:10.13869/j.cnki.rswc.2022.03.033.( Chen Xiaojie; Zhang Changcheng; Zhang,jinting; Wang Jing.Analysis of the Spatiotemporal Evolution Patterns of Vegetation Net Primary Productivity and Its Influencing Factors Based on CASA Model -A Case Study of Hubei Province.Research of Soil and Water Conservation 29 (3) , pp.253-261)\n[57]张长城,陈晓杰,张金亭.生态足迹方法在武汉可持续发展研究中的应用[J].国土资源科技管理,2022,39(02):25-35.\n[56]  Zhang, J.; Wu, X. Predict Health Care Accessibility for Texas Medicaid Gap. Healthcare 2021, 9, 1214. https://doi.org/10.3390/ healthcare9091214\n[55]Wu, X.; Zhang, J.; Zhang, D. Explore Associations between Subjective Well-Being and Eco-Logical Footprints with Fixed Effects Panel Regressions. Land 2021, 10（9）931.https://doi.org/10.3390/land10090931\n[54] Zhang, Jinting; Wu, Xiu; Chow, T. E.. \"Space-Time Cluster’s Detection and Geographical Weighted Regression Analysis of COVID-19 Mortality on Texas Counties\" Int. J. Environ. Res. Public Health ，2021，18, no. 11: 5541. https://doi.org/10.3390/ijerph18115541\n[53] Wu, X., Zhang, J. Exploration of spatial-temporal varying impacts on COVID-19 cumulative case in Texas using geographically weighted regression (GWR).  ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH 28 (32) , pp.43732-43746. https://doi.org/10.1007/s11356-021-13653-8\n[52]Ning, Jiachen;etc. ;Zhang, Daojun; Zhang, Jinting. Spatio-temporal characteristics and control strategies in the early period of COVID-19 spread: a case study of the mainland China.\nENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH(APR  2021). DOI: 10.1007/s11356-021-14092-1\n[51]黄经南,晏轶凡,张金亭.新的国土空间规划体系下城镇用地规模预测探究——以广西壮族自治区合山市为例[J].城市问题,2021(09):92-103.DOI:10.13239/j.bjsshkxy.cswt.210910.\n[50]. Zhang, J.; Zhan, F.B.; Wu, X.; Zhang, D. Partial Correlation Analysis of Association between Subjective Well-Being and Ecological Footprint. Sustainability 2021, 13（3）, 1033. https://doi.org/10.3390/ su13031033\n[49]谭华清,张金亭,周希胜.基于最小累计阻力模型的南京市生态安全格局构建[J].水土保持通报,2020,40(03):282-288+296+325.（Tan Huaqing，Zhang Jinting，ZhouXisheng.Construction of ccological security patterns based on minimum cumulative resistance model inNanjing City [J. Bulletin of Soil and Water Conservation，2020,40(3):282-288. DOI:10.13961/j.cnki. stbctb.2020.03.041;）\n[48 ]黄飞波 张金亭.国有农用地基准地价评估若干问题探讨[J].中国房地产业,2020.10（Feibo HUANG,Jin ZHANG.Disscussion on state-owned rural land price appraisal. Chia Estate Industry,2020.10）\n[47]张金亭,董艳超,叶宗达.基于地形改进NPP指数的县域耕地产能测算[J].农业工程学报,2020,36(10):227-234+326. (Zhang Jinting, Dong Yanchao1, Ye Zongda  .Calculation of county-level cultivated land productivity based on NPP index corrected by topography .Transactions of the Chinese Society of Agricultural Engineering 2020,36(10):227-234+326 )\n[46]Zhang, Daojun;etc;Zhang, Jinting .Analysis of spatial variability in factors contributing to vegetation restoration in Yan'an, China.ECOLOGICAL INDICATORS.JUN 2020. DOI: 10.1016/j.ecolind.2020.106278\n[45]Zhang, Daojun; etc.; Zhang, Jinting .A novel similar habitat potential model based on sliding-window technique for vegetation restoration potential mapping.LAND DEGRADATION undefinedamp; DEVELOPMENT APR 2020.DOI: 10.1002/ldr.3494\n[44]Xu, Xin ; Zhang, Daojun;etc; Zhang, Jinting .Evaluating the vegetation restoration potential achievement of ecological projects: A case study of Yan'an, China.LAND USE POLICY JAN 2020:DOI: 10.1016/j.landusepol.2019.104293\n[43]谭华清,张金亭.深圳市生态保护红线划定研究[J].国土与自然资源研究,2020(03):27-30.（Huaqing Tan, Jinting ZHANG. Research on Delimitation of Ecological Protection Redlines in Shenzhen TERRITORY & NATURAL RESOURCES STUDY. 2020(03):27-30 DOI:10.16202/j.cnki.tnrs.2020.03.008）\n[42]张金亭,董艳超,方斌.基于灰色关联法的耕地后备资源供需耦合分析[J].地域研究与开发,2020,39(01):163-167+174.（ZHANG Jinting，DONG Yanchao，FANG Bin.Coupling Analysis of Supply and Demand of Cultivated Land Reserve Resource Based on Gray Correlation Method .AREAL RESEARCH AND DEVELOPMENT 2020,39(01):163-167+174.)\n[41] Zhang, J.T.;Xu, X.;Zhang, D.J. Geometric registration of high spatial resolution images based on Google earth image and global DEM data[J]. Lowland Technology International, v 21, n 3, p 197-204, 2019\n[40]Zhang, Jinting ;Wang, Bei; Chen, Xiaojie; Wu, Xiu; Zhang, Daojun Research trends on land use changes during 1991–2015: A bibliometric analysis[J] Lowland Technology International, v 21, n 1, p 61-70, June 2019\n[39]牛勖,张金亭.客运铁路视角下长江中游城市群网络结构研究[J].测绘地理信息,2019,44(03):99-102.( Niu XU,Jinting ZHANG.Network Structure of Urban Agglomeration in the Middle Reachesof the Yangtze River from the Perspective of Railway Passenger Flow. Journal of Geomatics 2019,44(03):99-102. DO1: 10.14188/ j.2095-6045.2019024)\n[38]张金亭,赵玉丹,田扬戈,何青青,庄艳华,彭韵羲,洪松.大气污染物排放量与颗粒物环境空气质量的空间非协同耦合研究——以武汉市为例[J].地理科学进展,2019,38(04):612-624.( [Zhang JT, Zhao Y D, Tian Y G, et al. 2019. Spatial non-coupling of air pollutant emissions and particulate matfer-related air quality:. A case study in Wuhan City. China.Progress in Geography. 38(4):612-624.] DOE:10.18306/alkxjz.2019.04.013)\n[37] Zhang, Daojun; etc.; Zhang, Jinting). Assessing the coordination of ecological and agricultural goals during ecological restoration efforts: A case study of Wuqi County, Northwest China. LAND USE POLICY. 2019(03) DOI: 10.1016/j.landusepol.2019.01.001\n[36]张金亭,赵瑞.基于地理加权回归的环渤海城市群房价影响因子研究[J].国土与自然资源研究,2019(01):87-93.( ZHANG Jin-ting ,ZHAO Rui.Study on the influence factors of housing price\nin the urban area of Bohai Ring Megalopolis based on geographically weighted regression Territory & Natural Resources Study, 2019(01):87-93 DOI:10.16202/j.cnki.tnrs.2019.01.023)\n[35]程廷,张金亭.基于福利经济学视角的集体土地征补标准研究[J].中国房地产,2019(03):10-17.\n（Ting CHENG,Jinting ZHANG . compensation standard research based on Welfare economics DOI:10.13562/j.china.real.estate.2019.03.003）\n34张金亭,李冰心.存量土地利用规划探讨[J].中国房地产,2018(18):46-53.(ZHANG Jin-ting,   LI-Bingxin. Discussion on   Stock Land Use Planning[J] . China   Real Estate. ,2018(18):46-53.\n33.张金亭,李国珍.深圳市的城镇空间扩张研究[J].国土资源科技管理,2018,35(02):47-58.（ZHANG   Jin-ting, LI-Guozhen .Research on Shenzhen City Expansion. Scientific   and   Technological Management of Land and Resources, 2018,35(02):47-58. DOI:   10.3969/J.ISSN.1009-4210.2018.02.005）\n32.陈晓杰,张金亭,张长城,彭晓军.基于泰森多边形的南京市PM2.5时空特征及其与土地利用的相关性研究[J].水土保持通报,2018,38(01):293-298.( ChenXiaojie，Zhang Jinting，Zhang Changcheng ，et al Spatial and temporal variation of PM 2.5   concentrationsbasen on Thiesen polygon and its correlation with land-use   patterns in Nanjing City[J. Bulletin of Soil andWater Conservation，2018,38(1),293-298. DOI,10.13961/j. cnki.   stbctb.20171228.001.)\n29.Wang Bei;Zhang Jin-ting;Peng Xiao-jun .The Simulation of Urban Growth Induced by the Spatial Regulation Integration of “Three Regulation”Using Constrained CA. Geography and Geo-Information Science. 2017,33(05):69-74. DOI:\n10.3969/J.ISSN.1672-0504.2017.05.011\n(汪贝,张金亭,彭晓军.基于约束性CA的“三规”空间管制整合引导下的城市增长模拟[J].地理与地理信息科学,2017,33(05):69-74.)\n28.ZHANG Jin-ting,YIN Jun,SUN Xue-Jia. The quantitative Assessment Method of Properity Degree of Commercial Service Center based on Huff Model . Scientific and Technological Management of Land and Resources,2017,34(04):118-125. DOI: 10.3969/J.ISSN.1009-4210.2017.04.014\n(张金亭,殷军,孙雪佳.基于Huff模型的商服中心繁华度量化方法[J].国土资源科技管理,2017,34(04):118-12)\n27.ZHANG Yi, , LIU Yue-yan ZHANG Jin-ting ZHANG Peng. Scientometric Study on Land Science Development in China. China Land Sciences,2017,31(08):4-14+2. doi: 10.11994/zgtdkx.20170911.093828(张祎,刘越岩,胡守庚,张金亭,张鹏.基于科学计量学的中国土地科学发展分析[J].中国土地科学,2017,31(08):4-14+2.)\n26.ZHANG Jin-ting, TAN Hua-qing,SUN Xue-jia.A New Approach for the Correction Coefficient of Floor Area Ratio in Calculating the Benchmark Land Price of Residential Land. Scientific and Technological Management of Land and Resources, 2017,34(02):95-100. DOI: 10.3969/J.ISSN.1009-4210.2017.02.011\n(张金亭,谭华清,金缘园.住宅用地基准地价的容积率系数修正新方法[J].国土资源科技管理,2017,34(02):95-100)\n25. Jinting ZHANG;Bei WANG,Daojun ZHANG,  Research trends on Land Use Changes during 1991–2015: A bibliometric analysis, Source ：Pre-IGU 2016 ConferenceWorkshop — Land Use and Rural Sustainability,2016,Xian,China\n24. Lai Qilimengge ;Zhang Jinting ;Niu Peipei. Review of Chinese Land Ecological Research Based on Bibliometrics. Bulletin of Soil and Water Conservation,2016,36(06):333-338. DOI：10.13961/j.cnki.stbctb.2016.06.056\n(赖其力孟格,张金亭,牛蓓蓓.基于文献计量学的中国土地生态研究进展[J].水土保持通报,2016,36(06):333-338.)\n23.   TU Dan，HE Zi － juan，ZHANG Jin － ting . The Correlation between Chinese Stock Market and Ｒeal Estate Market Based on VAＲ. GEOMATICS ＆ SPATIAL INFOＲMATION TECHNOLOGY,2016,39(12):152-154+157)\n(涂丹,何紫娟,张金亭.基于VAR模型的中国股票市场与房地产市场相关性分析[J].测绘与空间地理信息,2016,39(12):152-154+157)\n22. CHEN Lin, ZHANG Jin-ting .A calculation method and proof on urban residential land price in Beihai based on the Geographically Weighted Regression .Territory & Natural Resources Study,2015(03):26-29. DOI：10.16202/j.cnki.tnrs.2015.03.009\n(陈霖,张金亭.基于地理加权回归的住宅地价测算方法及实证[J].国土与自然资源研究,2015(03):26-29)\n21.Jinting< Zhang; ShengXue Ke.The Application of Impedance-weighted Network Distance in Urban Land Grading: Proceedings of IEEE:2011 International Conference on Multimedia Technology，Vol6,ICMT,2011 ,p5583-5586. DOI: 10.1109/ICMT.2011.6002724;\n20.Jinting Zhang ;Xuejia Sun ;Fei Fang.Theoretical Analysis and Determining Methods for Modification Coefficients Between Floor-area Rate and Urban Land Price: Proceedings of IEEE：2011 International Conference on Multimedia Technology，Vol7,ICMT,2011,p6125-6129.  DOI: 10.1109/ICMT.2011.6003205\n19 Jinting zhang .The Assessment Method of Grid-based Benchmark Land Price. Wuhan University Dissertations,2011\n(张金亭. 城市网格基准地价评估方法[D].武汉大学,2011.)\n18.Yaolin Liu;Shiyuan Hu;JintingZhang. Discussion about the Reform of Practice Teaching of the Course Named  Land Information System. Geospatial Information 2008.\n(刘耀林,胡石元,刘艳芳,张金亭.土地信息系统课程实践教学改革探讨[J].地理空间信息,2008(01):7-10)\n17.Yaolin Liu;Shiyuan Hu;Yanfang Liu ,Jinting Zhang. Curriculum Design of Land Information System Course. Geospatial Information,2007(06):4-7.\n(刘耀林,胡石元,刘艳芳,张金亭.土地信息系统课程建设研究[J].地理空间信息,2007(06):4-7.)\n16.Qi Zhang;Shiyuan Hu;Jinting Zhang. The Study of Consolidation,Surveying and Mapping of the Basic Farmland based on GPS Technology . Journal of Geomatics 2007(05): 34-39. DOI：10.14188/j.2095-6045.2007.05.014\n(张奇,胡石元,张金亭.基于GPS技术的基本农田土地整理测绘研究[J].测绘信息与工程,2007(05):34-35.)\n15.Jinting Zhang.Discussion about Land Consolidation,Surveying and Mapping. Scientific and Technological Management of Land and Resources 2006(01): 29-31.\n(张金亭.试论土地整理测绘[J].国土资源科技管理,2006(01):29-31.)\n14.Jinting Zhang;Xiu Wu;Yueyan Liu. The Implementation of Land Use Planning based on the Fuzzy Comprehensive Evaluation Method. Management Geological Science and Technology 2005(05): 82-86.\n(张金亭,吴秀,刘越岩.基于模糊综合评判的土地利用规划实施评价方法[J].国土资源科技管理,2005(05):82-86)\n13.Yueyan Liu;JintingZhang; Hua Xiong;Xiu Wu. Discussion of the Assessment Data Foundation during Land Use Planning Implementation. Management Geological Science and Technology, 2005(03): 62-66.\n(刘越岩,张金亭,熊华,吴秀.土地利用规划实施评价的基础数据整理问题探讨[J].国土资源科技管理,2005(03):62-65+61)\n12.JintingZhang;Qingquan Li;Yonghong Zhang.Design and Implementation of the Palm Pilot about Flood Control Information. Management Geological Science and Technology,2005(02): 85-87.\n(张金亭,李清泉,张永红.防汛信息掌上通设计与实现[J].国土资源科技管理,2005(02):85-87.)\n11. Xiu Wu;Jinting Zhang.The Specific Problems about Planning Implementation Evaluation. Land and Resources Herald 2005(01): 31-33.\n(吴秀,张金亭.关于规划实施评价中的具体问题[J].国土资源导刊,2005(01):31-33.)\n10.Ming Yu;JintingZhang.Analysis Of Mobile GIS Application Mode.Journal of Wuhan University(Information Science Edition) 2004(12A): 32-33.\n(余明 张金亭. 移动地理信息系统应用模式分析. [J].武汉大学学报(信息科学版), 2004(12A): 32-33.)\n9.Li Qingquan; Zhang Jinting;Huang Jingnan; Xie Zhiying Mobile geoinformation services - Concept, reality and problems : Proceedings of SPIE - The International Society for Optical Engineering, v 5283, APOC 2003: Asia-Pacific Optical and Wireless Communications - Mobile Service and Application, 2004, p 28-38.   ISSN: 0277786X;  DOI: 10.1117/12.521915;\n8.Liu Jian-hua, ZHANG Jin-ting. Curriculum Design for Land Resource Management Subject. Establishing Scientifically Developing Views and Enhance land protection,2004,6\n(刘建华 ,张金亭 土地资源管理学科定位与集群式模块课程建设[A]. .树立科学发展观提高土地资源的保障能力研究[C].:,2004:6.)\n7.Xiu Wu; Changgen Zhan; Jinting Zhang. The Application of DCF in Assessment of Industrial Land Price. Science Newground ,2004(08): 50-51. DOI：10.19345/j.cnki.1671-0037.2004.08.018\n(吴秀,詹长根,张金亭.工业地价评估的DCF法应用[J].创新科技,2004(08):50.)\n6.Qingquan Li;Jinting Zhang;Jingnan Huang.A Optimization Algorithm about Distribution Rule. Journal of Wuhan University(Information Science Edition) 2003(01): 9-12. DOI：10.13203/j.whugis2003.01.003\n(李清泉,张金亭,黄经南.一个物流配送优化算法[J].武汉大学学报(信息科学版),2003(01):9-13.)\n5.Jingnan Huang;Jinting Zhang;Lingjun Tang. Building Lifelike 3D Terrain based on AutoCAD Platform. Journal of Wuhan University of Hydraulic and Electric Engineering 2002(05): 104-108.\n(黄经南,张金亭,唐岭军.基于AutoCAD平台构建逼真的三维地形[J].武汉大学学报(工学版),2002(05):104-108)\n4.Hua Xiong;JintingZhang.The Application of Discrete Population Development Model in Land Planning. Wtusm Bulletin of Science and Technology ,2001(01):26-29+33.DOI：10.14188/j.2095-6045.2001.01.009\n(熊华,张金亭,刘家彬.离散型人口发展模型在土地规划中的应用[J].测绘信息与工程,2001(01):26-29+33)\n3.Jinting Zhang; Changgen Zhan;Taokun Liu. The Exploitation of Cadastral Information System based on Component Technology. Journal of Huazhong Agricultural University(Social Science Edition),2001(01): 67-71. DOI：10.13300/j.cnki.hnwkxb.2001.01.019\n(张金亭,詹长根,刘陶琨.基于组件技术的地籍信息系统开发研究[J].华中农业大学学报(社会科学版),2001(01):67-71)\n2.Jinting Zhang;Jingnan Huang. Discussion about The Key Technology of Individual House-drawing Software. Wtusm Bulletin of Science and Technology,2000(04):20-22, DOI：10.14188/j.2095-6045.2000.04.006\n(张金亭,黄经南,詹长根.分户房产图制作软件的关键技术探讨[J].测绘信息与工程,2000(04):20-22.)\n1.    XUE Chang-sheng,ZHANG Jin-ting .Disscuss on the mode of Multipurpose Cadastre. Chinese and Foreign Red Estata Times,1999(01):13-15.\n(]薛长生 ,张金亭.多用途地籍模式若干问题的探讨——以深圳市宝安区多用途地籍模式为例[J].中外房地产导报,1999(01):13-15.)\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n1992-9····1996.7\n武汉测绘科技大学\n|\n土地管理\n| 经济学士\n|\n本科(学士)\n2001-9····2011.5\n武汉大学\n|\n摄影测量与遥感\n| 博士\n|\n工学博士学位\n社会兼职\n暂无内容\n研究方向\n[1].GeoAI及其在自然资源评价规划和管理中的应用\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

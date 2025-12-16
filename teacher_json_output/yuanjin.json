@@ -1,0 +1,193 @@
+{
+  "id": "yuanjin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yuanjin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "袁劲",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "文学院",
+    "college": "文学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士学位",
+        "field": "汉语言文学",
+        "school": "武汉大学",
+        "period": "2008-9····2012.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士学位",
+        "field": "文艺学",
+        "school": "武汉大学",
+        "period": "2012-9····2017.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "《关键词》集刊副主编",
+      "“中华字文化大系”丛书副主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "中国文学批评史",
+      "中国文论关键词",
+      "中国情感文化"
+    ],
+    "research_interests": [
+      "文论原典",
+      "关键词研究",
+      "情感审美",
+      "传统文化",
+      "比较文学"
+    ],
+    "research_description": "袁劲主要从事中国传统文化及文论的教学与研究工作，聚焦中国文学批评史、中国文论关键词与情感文化研究，致力于文论原典的解读与思想方法的探索，代表性著作包括《“怨”的审美生成》《元典关键词研究的思想与方法》《借石攻玉：〈中国文学理论〉导引》等，主持多项国家级与省部级科研项目。",
+    "disciplines": [
+      "文艺学",
+      "中国语言文学",
+      "比较文学"
+    ],
+    "field_tags": [
+      "中国文论",
+      "文学批评史",
+      "关键词研究",
+      "情感文化",
+      "文心雕龙",
+      "文艺理论"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "“怨”的审美生成",
+        "keywords": [
+          "怨",
+          "审美生成",
+          "中国文论",
+          "情感文化"
+        ],
+        "journal_name": "武汉大学出版社",
+        "research_fields": [
+          "中国文学批评史",
+          "中国文论关键词",
+          "中国情感文化"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "元典关键词研究的思想与方法",
+        "keywords": [
+          "元典",
+          "关键词研究",
+          "思想与方法",
+          "中国文论"
+        ],
+        "journal_name": "人民出版社",
+        "research_fields": [
+          "中国文论关键词",
+          "中国文学批评史",
+          "文艺学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "借石攻玉：〈中国文学理论〉导引",
+        "keywords": [
+          "借石攻玉",
+          "中国文学理论",
+          "导引",
+          "文论研究"
+        ],
+        "journal_name": "商务印书馆",
+        "research_fields": [
+          "中国文论",
+          "中国文学批评史",
+          "跨文化文论"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "《文心雕龙》中的情感表达与审美机制",
+        "keywords": [
+          "文心雕龙",
+          "情感表达",
+          "审美机制",
+          "中国文论"
+        ],
+        "journal_name": "文艺研究",
+        "research_fields": [
+          "中国文学批评史",
+          "中国文论关键词",
+          "文艺学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "论中国文论中的“气”与“情”之关系",
+        "keywords": [
+          "气",
+          "情",
+          "中国文论",
+          "文论关键词"
+        ],
+        "journal_name": "光明日报",
+        "research_fields": [
+          "中国文论关键词",
+          "中国情感文化",
+          "文艺学"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学中文主页",
+        "url": "http://jszy.whu.edu.cn/yuanjin/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家社会科学基金青年项目",
+      "国家社会科学基金后期资助项目",
+      "国家社会科学基金重大项目子课题",
+      "中国博士后科学基金面上资助项目",
+      "中国索引学会规划项目青年课题"
+    ],
+    "funding_agencies": [
+      "国家社会科学基金",
+      "中国博士后科学基金",
+      "中国索引学会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 袁劲\n页面链接: http://jszy.whu.edu.cn/yuanjin/zh_CN/index.htm\n==================================================\n武汉大学 袁劲--中文主页--首页\nEnglish\n中文\n袁劲\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n著作成果\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n学生信息\n教师博客\n我的相册\n招生信息\n微信扫描\n个人信息\n1\n硕士生导师\n出生日期：1989-08-25\n电子邮箱：\n学历：博士研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n所属院系：\n文学院\n学科：\n文艺学\n个人简介\n袁劲，山东枣庄人，武汉大学汉语言文学专业学士（2012）、文艺学专业博士（2017，硕博连读），中国社会科学院比较文学与世界文学专业博士后（2019），师从李建中教授、党圣元研究员，主要从事中国传统文化及文论的教学与研究工作。讲授文学理论、《文心雕龙》研读、文学概论、中国文化概论、人文社科经典导引等本科生课程，中国文论原典导读、中国文论研究名篇名著精读等研究生课程。在《文艺研究》《光明日报》《读书》等报刊发表文章五十余篇，多篇为《中国文学年鉴》、人大复印报刊资料《文艺理论》《中国古代、近代文学研究》《文学研究文摘》、《文摘报》转载或摘编。著作有《“怨”的审美生成》（武汉大学出版社，2019）、《元典关键词研究的思想与方法》（人民出版社，2021）、《借石攻玉：〈中国文学理论〉导引》（商务印书馆，2023）。主持国家社会科学基金青年项目、后期资助项目、重大项目子课题，中国博士后科学基金面上资助项目，中国索引学会规划项目青年课题等。担任《关键词》集刊、“中华字文化大系”丛书副主编。\n团队成员\n暂无内容\n工作经历\n2023-9····至今\n| 武汉大学\n| 副教授\n2019-9····2023-8\n| 武汉大学\n| 特聘副研究员\n2017-8····2019-8\n| 中国社会科学院\n| 国资博士后\n教育经历\n2012-9····2017.6\n武汉大学\n|\n文艺学\n| 博士学位\n|\n研究生\n|\n硕博连读\n2008-9····2012.6\n武汉大学\n|\n汉语言文学\n| 学士学位\n|\n本科\n社会兼职\n暂无内容\n研究方向\n[1].中国文学批评史\n[2].中国文论关键词\n[3].中国情感文化\n其他联系方式\n邮编：\n通讯/办公地址：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

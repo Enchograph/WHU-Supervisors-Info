@@ -1,0 +1,282 @@
+{
+  "id": "panzengxin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/panzengxin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "潘增新",
+    "english_name": "",
+    "title": [
+      "研究员",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2016.9 -- 2019.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工程硕士专业学位",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "2014.9 -- 2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "入选湖北省海外人才引进计划",
+      "代表作入选Nature集团亮点推荐论文",
+      "被央视网、新华网、纽约时报等国内外数十家媒体采访和报道"
+    ],
+    "academic_services": [
+      "担任《交叉科学学报》期刊编委",
+      "担任《Scientific Reports》期刊编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "气溶胶-云-降水遥感监测与反演方法",
+      "大气污染对极端天气影响理论与机制",
+      "人工影响气候智能模拟、预测与应用"
+    ],
+    "research_interests": [
+      "大气环境遥感",
+      "遥感信息智能解译",
+      "极端天气大模型预测",
+      "气溶胶-云相互作用",
+      "人工增雨",
+      "气候模拟与预测",
+      "星-地立体监测",
+      "云微物理过程"
+    ],
+    "research_description": "潘增新研究员主要从事大气环境遥感、遥感信息智能解译、极端天气大模型预测等方向的研究，聚焦气溶胶-云-降水相互作用机制，揭示大气污染对极端天气的影响机理，发展人工影响气候的智能模拟与预测技术。研究成果广泛应用于澳大利亚地球工程气候冷却计划及中国湖北、贵州等区域大气环境星-地立体监测体系建设，相关成果发表于Nature Communications、Remote Sensing of Environment等国际权威期刊。",
+    "disciplines": [
+      "遥感科学与技术",
+      "大气科学",
+      "环境科学",
+      "地理信息系统",
+      "计算机科学",
+      "地球物理学"
+    ],
+    "field_tags": [
+      "大气遥感",
+      "气溶胶-云相互作用",
+      "极端天气预测",
+      "人工影响天气",
+      "智能解译",
+      "气候工程",
+      "卫星观测",
+      "环境监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Large warming of tropical convective anvils masked by their underlying clouds",
+        "keywords": [
+          "气溶胶-云-降水",
+          "热带对流云",
+          "卫星遥感",
+          "云辐射强迫"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "大气环境遥感",
+          "气候系统模拟"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Marine Stratocumulus Clouds With More Coarse Sea Spray Aerosols Are Brighter",
+        "keywords": [
+          "海洋层积云",
+          "海盐气溶胶",
+          "云反照率",
+          "气溶胶-云相互作用"
+        ],
+        "journal_name": "Geophysical Research Letters",
+        "research_fields": [
+          "大气物理",
+          "遥感信息解译"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Large effects of fine and coarse aerosols on tropical deep convective systems throughout their lifecycle",
+        "keywords": [
+          "深对流系统",
+          "气溶胶影响",
+          "生命周期分析",
+          "卫星观测"
+        ],
+        "journal_name": "npj Clim Atmos Sci",
+        "research_fields": [
+          "极端天气预测",
+          "大气过程建模"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Combined effects of fine and coarse marine aerosol on vertical raindrop size distribution",
+        "keywords": [
+          "雨滴粒径分布",
+          "海洋气溶胶",
+          "微物理过程",
+          "遥感反演"
+        ],
+        "journal_name": "npj Clim Atmos Sci",
+        "research_fields": [
+          "云微物理",
+          "遥感信息智能解译"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Observing aerosol primary convective invigoration and its meteorological feedback",
+        "keywords": [
+          "对流激发",
+          "气溶胶增强",
+          "气象反馈",
+          "卫星监测"
+        ],
+        "journal_name": "Geophysical Research Letters",
+        "research_fields": [
+          "大气污染与极端天气",
+          "遥感监测"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Frontiers in satellite-based estimates of cloud-mediated aerosol forcing",
+        "keywords": [
+          "气溶胶强迫",
+          "卫星反演",
+          "云-气溶胶相互作用",
+          "综述"
+        ],
+        "journal_name": "Reviews of Geophysics",
+        "research_fields": [
+          "气候系统科学",
+          "遥感数据同化"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Coarse sea spray inhibits lightning",
+        "keywords": [
+          "海盐气溶胶",
+          "闪电抑制",
+          "对流云电过程",
+          "卫星观测"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "大气电学",
+          "人工影响气候"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Full-tracking algorithm for convective thunderstorm system from initiation to complete dissipation",
+        "keywords": [
+          "对流系统追踪",
+          "算法开发",
+          "雷暴生命周期",
+          "遥感数据处理"
+        ],
+        "journal_name": "Journal of Geophysical Research: Atmospheres",
+        "research_fields": [
+          "遥感信息智能解译",
+          "极端天气预测"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Opposing comparable large effects of fine aerosols and coarse sea spray on marine warm clouds",
+        "keywords": [
+          "海洋暖云",
+          "气溶胶对立效应",
+          "云微物理",
+          "遥感反演"
+        ],
+        "journal_name": "Communications Earth & Environment",
+        "research_fields": [
+          "气溶胶-云相互作用",
+          "大气遥感"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Retrieving instantaneous extinction of aerosol undetected by the CALIPSO layer detection algorithm",
+        "keywords": [
+          "气溶胶消光",
+          "CALIPSO数据",
+          "反演算法",
+          "激光雷达"
+        ],
+        "journal_name": "Atmospheric Chemistry and Physics",
+        "research_fields": [
+          "遥感信息解译",
+          "大气化学"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=OP04rTsAAAAJ&hl=en"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Zengxin-Pan?ev=hdr_xprf"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年基金",
+      "中央高校基本科研专项启动经费",
+      "阿联酋国家气象中心项目",
+      "澳大利亚大堡礁基金会项目",
+      "美国-以色列联合基金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中央高校基本科研专项",
+      "阿联酋国家气象中心",
+      "澳大利亚大堡礁基金会",
+      "美国-以色列联合基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 潘增新\n页面链接: http://jszy.whu.edu.cn/panzengxin/zh_CN/index.htm\n==================================================\n武汉大学 潘增新--中文主页--首页\n首页\n教学研究\n授课信息\n教学成果\n团队信息\n学术顾问\n其他栏目\n语种\n潘增新\n博士生导师\n硕士生导师\n主要任职：研究员\n毕业院校：武汉大学\n学历：博士研究生毕业\n所在单位：资源与环境科学学院\n办公地点：武汉大学资源与环境科学学院，附楼410\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n潘增新，武汉大学资源与环境科学学院研究员，博士生导师，入选湖北省海外人才引进计划。主要从事大气环境遥感、遥感信息智能解译、极端天气大模型预测等相关研究，目前在Nature Commun、Remote Sens Environ等国际权威期刊发表SCI论文40余篇，其中第一/通讯作者论文18篇。主持国家自然科学基金青年基金1项，并作为核心骨干参与阿联酋人工增雨研究专项、美国-以色列联合基金等多项国际项目。担任了交叉科学学报、Scientific Reports等期刊编委。代表作入选Nature集团亮点推荐论文，并被央视网、新华网、纽约时报等国内外数十家媒体采访和报道。相关成果被应用于澳大利亚地球工程气候冷却计划、以及中国湖北和贵州等区域大气环境星-地立体监测体系建设。\nGoogle Scholar: https://scholar.google.com/citations?user=OP04rTsAAAAJ&hl=enResearchGate: https://www.researchgate.net/profile/Zengxin-Pan?ev=hdr_xprf\n2026年招收博士研究生专业招生1名，硕士研究生2-3名。\n欢迎地理、遥感、大气、计算机、数学、环境等多类学科背景的同学加入！\n主要研究方向\n1. 气溶胶-云-降水遥感监测与反演方法\n2. 大气污染对极端天气影响理论与机制\n3. 人工影响气候智能模拟、预测与应用\n科研项目\n1. 国家自然科学基金青年基金C类，基于多源卫星的气溶胶对海-陆暖雨分布差异影响量化，202501-202712，主持\n2. 中央高校基本科研专项启动经费，长江中游城市群人为气溶胶污染对区域极端对流天气影响，202501-202712，主持\n3. 阿联酋国家气象中心，Identification of clouds microphysical seedability in an actionable manner，202401-202612，参与\n4. 澳大利亚大堡礁基金会，Support for the task of cloud-aerosol interactions for cooling the GBR，202010-202406，参与\n5. 美国-以色列联合基金，Quantitative evaluation of aerosol impacts on the microphysical composition, electrification and radiative forcing of deep tropical convective clouds，202105-202404，参与\n代表性论文\n2025\n25. Zengxin Pan, Daniel Rosenfeld, Lin Zang, Jianhua Yin, Feiyue Mao. Large warming of tropical convective anvils masked by their underlying clouds, Remote Sensing of Environment, 2025, 317, 114524, doi:https://doi.org/10.1016/j.rse.2024.114524. (中科院一区)\n24. Fan Liu, Feiyue Mao; Daniel Rosenfeld; Zengxin Pan*; Lin Zang; Yannian Zhu; Wei Gong. Marine Stratocumulus Clouds With More Coarse Sea Spray Aerosols Are Brighter, Geophysical Research Letters, 2025, 52(7): e2024GL113718. (中科院一区)\n2024\n23. Jianhua, Yin, Zengxin Pan, Feiyue Mao, Daniel Rosenfeld, Lin Zang, Jiangping Chen, Jianya Gong. Large effects of fine and coarse aerosols on tropical deep convective systems throughout their lifecycle. npj Clim Atmos Sci, 2024, 7, 195. https://doi.org/10.1038/s41612-024-00739-6. (中科院一区)\n22. Fan Liu, Daniel Rosenfeld, Zengxin Pan, Lin Zang, Feiyue Mao. Combined effects of fine and coarse marine aerosol on vertical raindrop size distribution. npj Clim Atmos Sci, 2024, 7, 182. https://doi.org/10.1038/s41612-024-00730-1. (中科院一区)\n2023\n21. Lin Zang, Daniel Rosenfeld, Zengxin Pan*, Feiyue Mao, Yannian Zhu, Xin Lu, Wei Gong. Observing aerosol primary convective invigoration and its meteorological feedback. Geophysical Research Letters, 2023, 50, e2023GL104151. (中科院一区)\n20. Daniel Rosenfeld, Alexander Kokhanovsky, Tom Goren, Edward Gryspeerdt, Otto Hasekamp, Hailing Jia, Anton Lopatin, Johannes Quaas, Zengxin Pan, Odran Sourdeval. Frontiers in satellite-based estimates of cloud-mediated aerosol forcing. Reviews of Geophysics, 2023, 61, e2022RG000799. https://doi.org/10.1029/2022RG000799. (中科院一区, 综述，期刊年度亮点推荐)\n2022\n19. Zengxin Pan, Feiyue Mao, Daniel Rosenfeld, Yannian Zhu, Lin Zang, Xin Lu, Joel A. Thornton, Robert H. Holzworth, Jianhua Yin, Avichay Efraim, Wei Gong. Coarse sea spray inhibits lightning. Nature Communications, 2022, 13, 4289. (中科院一区，Nature出版集团年度亮点推荐论文)\n18. Jianhua Yin, Zengxin Pan*, Daniel Rosenfeld, Feiyue Mao, Lin Zang, Yannian Zhu, Jiaxi Hu, Jiangping Chen, Jianya Gong. Full-tracking algorithm for convective thunderstorm system from initiation to complete dissipation. Journal of Geophysical Research: Atmospheres, 2022, 127, e2022JD037601. (中科院二区TOP)\n17. Fan Liu, Feiyue Mao, Daniel Rosenfeld, Zengxin Pan*, et al. Opposing comparable large effects of fine aerosols and coarse sea spray on marine warm clouds. Communications Earth & Environment, 2022, 3, 232. (中科院一区)\n16. Feiyue Mao, Ruixing Shi, Daniel Rosenfeld, Zengxin Pan*, et al. Retrieving instantaneous extinction of aerosol undetected by the CALIPSO layer detection algorithm, Atmospheric Chemistry and Physics, 2022, 22, 10589–10602. (中科院一区)\n2021\n15. Zengxin Pan, Daniel Rosenfeld, Yannian Zhu, Feiyue Mao, Wei Gong, Lin Zang, Xin Lu,. Observational quantification of aerosol invigoration for deep convective cloud lifecycle properties based on geostationary satellite. Journal of Geophysical Research: Atmospheres, 2021, 126, e2020JD034275. (中科院二区TOP)\n14. Feiyue Mao, Zhenxing Liang, Zengxin Pan, Wei Gong, Jia Sun, Tianhao Zhang, Xin Huang, Lin Zang, Xin Lu, Jia Hong. A simple multiscale layer detection algorithm for CALIPSO measurements, Remote Sensing of Environment, 2021, 266, 112687. (中科院一区)\n13. Lin Zang, Daniel Rosenfeld, Feiyue Mao, Zengxin Pan, Yannian Zhu, Wei Gong, Zemin Wang. CALIOP retrieval of droplet effective radius accounting for cloud vertical homogeneity, Optics Express, 2021, 29, 21921-21935. (中科院二区TOP)\n2020\n12. Xin Lu, Feiyue Mao, Zengxin Pan*, Wei Gong, Yannian Zhu, Jie Yang. Enhancement of atmospheric stability by anomalous elevated aerosols during winter in China. Journal of Geophysical Research: Atmospheres, 2020, 125(4), e2019JD031734. (中科院二区TOP)\n11. Zengxin Pan, Feiyue Mao, Xin Lu, Wei Gong, Huanfeng Shen, Qingzhou Mao. Enhancement of vertical cloud-induced radiative heating in East Asian monsoon circulation derived from CloudSat-CALIPSO observations. International Journal of Remote Sensing, 2020, 41:2, 595-614. (中科院三区)\n10. Feiyue Mao, Lin Zang, Zemin Wang, Zengxin Pan, Bo Zhu, Wei Gong. Dominant synoptic patterns during wintertime and their impacts on aerosol pollution in Central China, Atmospheric Research, 2020, 232, 104701. (中科院二区TOP)\n2020前\n9. Wei Wang, Feiyue Mao, Zengxin Pan, Wei Gong, Mayumi Yoshida, Bin Zou, Huiyun Ma. Evaluating aerosol optical depth from Himawari-8 with Sun Photometer Network. Journal of Geophysical Research: Atmospheres, 2019, 124, 5516– 5538. (中科院二区TOP)\n8.  Zengxin Pan, Feiyue Mao, Wei Wang, Timothy Logan, Jia Hong. Examining intrinsic aerosol-cloud interactions in South Asia through multiple satellite observations. Journal of Geophysical Research: Atmospheres, 2018, 123, 11,210– 11,224. (中科院二区TOP)\n7. Feiyue Mao, Zengxin Pan*, David S.Henderson, Wei Wang, Wei Gong. Vertically resolved physical and radiative response of ice clouds to aerosols during the Indian summer monsoon season. Remote Sensing of Environment, 2018, 216, 171-182. (中科院一区)\n6. Zengxin Pan, Feiyue Mao, Wei Wang, Bo Zhu, Xin Lu, Wei Gong. Impacts of 3D aerosol, cloud, and water vapor variations on the recent brightening during the South Asian monsoon season. Remote Sensing, 2018, 10, 651. (中科院二区)\n5. Feiyue Mao, Zengxin Pan, Wei Wang, Siwei Li, Wei Gong. Iterative method for determining boundaries and lidar ratio of permeable layer of a space lidar. Journal of Quantitative Spectroscopy and Radiative Transfer, 2018, 218: 125-130. (中科院三区)\n4.\nZengxin Pan, Feiyue Mao, Wei Gong, Qilong Min, Wei Wang. The warming of Tibetan Plateau enhanced by 3D variation of low-level clouds during daytime. Remote Sensing of Environment, 2017, 198, 363-368. (中科院一区)\n3. Feiyue Mao, Miaomiao Duan*, Qilong Min, Wei Gong, Zengxin Pan*, et al. Investigating the impact of haze on MODIS cloud detection. Journal of Geophysical Research: Atmospheres, 2015, 120, 12237-12247. (中科院二区TOP)\n2. Zengxin Pan, Wei Gong, Feiyue Mao, Jun Li, Wei Wang, Chen Li, Qilong Min. Macrophysical and optical properties of clouds over East Asia measured by CALIPSO. Journal of Geophysical Research: Atmospheres, 2015, 120, 11653-11668. (中科院二区TOP)\n1. Chen Li, Zengxin Pan, Feiyue Mao, Wei Gong, Shihua Chen, Qilong Min. De-noising and retrieving algorithm of Mie lidar data based on the particle filter and the Fernald method. Optics Express, 2015, 23, 26509-26520. (中科院二区TOP)\n团队合照\n教育经历\n2016.9 -- 2019.6\n武汉大学\n摄影测量与遥感\n博士研究生毕业\n工学博士学位\n导师：龚威教授\n2014.9 -- 2016.6\n武汉大学\n测绘工程\n硕士研究生毕业\n工程硕士专业学位\n导师：龚威教授\n工作经历\n2024.3 -- 至今\n武汉大学\n资源与环境科学学院\n研究员\n在职\n2019.10 -- 2024.2\n以色列希伯来大学\n地球科学研究所\n博士后研究员（合作导师：欧洲科学院Daniel Rosenfeld院士, https://www.researchgate.net/profile/Daniel-Rosenfeld-3）\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "zhaolin_whu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhaolin_whu/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "赵林",
+    "english_name": "Zhao Lin",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地理科学与国土资源系",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士学位",
+        "field": "资源科学与工程",
+        "school": "北京师范大学",
+        "period": "2003-9····2007.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士学位",
+        "field": "自然灾害学",
+        "school": "北京师范大学",
+        "period": "2007-9····2012.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "北京师范大学",
+    "academic_honors": [
+      "ESI高被引论文",
+      "领跑者5000顶尖学术论文",
+      "The Len Curtis Award优秀论文奖",
+      "武汉大学教学成果特等奖",
+      "武汉大学青年教师教学竞赛二等奖",
+      "武汉大学教师教学创新大赛二等奖"
+    ],
+    "academic_services": [
+      "中国地理学会自然灾害风险与综合减灾专业委员会委员",
+      "湖北省地理学会理事",
+      "《Global Health Research and Policy》期刊编委",
+      "国家自然科学基金通讯评审专家",
+      "湖北省与江西省科技厅科技专家库专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "自然灾害监测、评估与风险管理",
+      "极端气候事件与植被生态响应"
+    ],
+    "research_interests": [
+      "气候变化",
+      "水旱灾害",
+      "复合极端事件",
+      "植被生态响应",
+      "干旱与热浪事件",
+      "遥感与地理信息系统",
+      "灾害风险评估",
+      "土地利用与景观生态"
+    ],
+    "research_description": "赵林副教授长期从事自然灾害监测、影响与风险评估方面的教学与科研工作，聚焦气候变化背景下的水旱灾害、复合极端事件、植被生态响应等方向。研究涵盖干旱与热浪事件的时空演变、极端气候对植被物候与生产力的影响、遥感与地理信息系统在灾害监测中的应用，以及灾害风险评估模型与系统开发。已承担国家级与省部级科研课题7项，发表高水平论文60余篇，其中多篇入选ESI高被引论文和领跑者5000顶尖学术论文，获国际遥感与摄影测量协会优秀论文奖。研究成果广泛应用于灾害预警、生态响应评估与区域可持续发展决策。",
+    "disciplines": [
+      "自然地理学",
+      "人文地理学",
+      "地图学与地理信息系统",
+      "地图制图学与地理信息工程"
+    ],
+    "field_tags": [
+      "自然灾害",
+      "气候变化",
+      "极端事件",
+      "植被生态",
+      "遥感监测",
+      "风险评估",
+      "地理信息系统",
+      "水旱灾害",
+      "复合灾害",
+      "生态响应"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "A Systematic Framework of Flash Floods Disaster-Causing Mechanisms in Ungauged Mountainous Micro-Watersheds: Case Study of Qialegeer Village, Xinjiang, China",
+        "keywords": [
+          "洪水灾害",
+          "山地微流域",
+          "灾害成因机制",
+          "无资料流域"
+        ],
+        "journal_name": "International Journal of Disaster Risk Science",
+        "research_fields": [
+          "自然灾害风险与综合减灾",
+          "水旱灾害"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Disentangling vegetation physiological responses under extreme drought in the Amazon Rainforest: A multispectral remote sensing approach with insights from ET, SIF, and VOD",
+        "keywords": [
+          "极端干旱",
+          "植被生理响应",
+          "多光谱遥感",
+          "亚马逊雨林"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "植被生态响应",
+          "遥感与地理信息"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Developing a novel framework to re-examine half a century of compound drought and heatwave events in mainland China",
+        "keywords": [
+          "复合极端事件",
+          "干旱与热浪",
+          "长期趋势分析",
+          "中国区域"
+        ],
+        "journal_name": "Science of the Total Environment",
+        "research_fields": [
+          "气候变化",
+          "复合极端事件",
+          "风险评估"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Unveiling the driver behind China’s greening trend: urban vs. rural areas",
+        "keywords": [
+          "中国绿化趋势",
+          "城市与农村对比",
+          "土地利用变化",
+          "生态响应"
+        ],
+        "journal_name": "Environmental Research Letters",
+        "research_fields": [
+          "气候变化",
+          "植被动态",
+          "土地利用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Changes in global vegetation activity and its driving factors during 1982-2013",
+        "keywords": [
+          "全球植被活动",
+          "驱动因子分析",
+          "长期变化",
+          "气候变化"
+        ],
+        "journal_name": "Agricultural and Forest Meteorology",
+        "research_fields": [
+          "植被生态响应",
+          "气候变化"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学资环院官网",
+        "url": "http://jszy.whu.edu.cn/zhaolin_whu/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级科研课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省科技厅",
+      "江西省科技厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 赵林\n页面链接: http://jszy.whu.edu.cn/zhaolin_whu/zh_CN/index.htm\n==================================================\n武汉大学 赵林--武汉大学资环院赵林-主页--首页\nEnglish\n中文\n赵林\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Zhao Lin\n电子邮箱：\n职务：地理科学与国土资源系副主任\n学历：博士研究生毕业\n办公地点：武汉大学信息学部资环学院317\n性别：男\n联系方式：邮箱:linzhao@whu.edu.cn\nQQ：274330853\n职称：副教授\n在职信息：在职\n主要任职：中国地理学会自然灾害风险与综合减灾专业委员会委员；湖北省地理学会理事\n其他任职：北京师范大学干旱研究中心副主任\n毕业院校：北京师范大学\n所属院系：\n资源与环境科学学院\n学科：\n自然地理学\n人文地理学\n地图学与地理信息系统\n地图制图学与地理信息工程\n个人简介\n研究方向：气候变化与自然灾害\n招生专业：\n1、自然地理（070501）、人文地理（070502）、地图学与地理信息系统（070503）\n2、资源环境监测与规划（0705Z1）\n3、资源与环境（测绘工程,  085700)\n联系方式：linzhao@whu.edu.cn    欢迎感兴趣的同学联系！\n(更新日期：2025年11月29日)\n博士，副教授，博士生导师。2012年获北京师范大学自然灾害学博士学位，曾在纽约州立大学奥尔巴尼分校访学一年，在内布拉斯加-林肯大学（美国国家干旱中心）访学三个月。长期从事自然灾害监测、影响与风险评估方面的教学与科研工作。承担国家级与省部级科研课题7项。围绕水旱灾害、复合极端事件、气候变化、植被生态响应等研究方向发表高水平文章60余篇，多篇文章引用次数超过200次，其中2篇文章入选“ESI高被引论文”，1篇文章入选“领跑者5000顶尖学术论文”，1篇论文获国际遥感与摄影测量协会2013年“The Len Curtis Award”优秀论文奖。出版教材1部，授权发明专利1项，登记软件著作权2项，获地理信息优秀工程银奖1项。担任中国地理学会自然灾害风险与综合减灾专业委员会委员，湖北省地理学会理事，湖北省与江西省科技厅科技专家库专家、国家自然科学基金通讯评审专家、《Global Health Research and Policy》期刊编委。获武汉大学教学成果特等奖、武汉大学青年教师教学竞赛二等奖、武汉大学教师教学创新大赛二等奖等。\n英文论文（按时间倒序）\n[40] Qiuyuan Liu, Ranmao Yang, Lin Zhao*, Xinxin Li, Gangsheng Wang, Jianjun Wu. A Systematic Framework of Flash Floods Disaster-Causing Mechanisms in Ungauged Mountainous Micro-Watersheds: Case Study of Qialegeer Village, Xinjiang, China. International Journal of Disaster Risk Science, 2025, DOI : 10.1007/s13753-025-00675-w.\n[39] Yu Zhang*, Lin Zhao, Shiyuan Hu*. Assessing perception and equity of cultural ecosystem services in urban parks using social media data. Scientific Reports, 2025, 15, 33127.\n[38] Xiang Zhang*, Junyi Liu, Chao Yang, Xihui Gu, Aminjon Gulakhmadov, Jiangyuan Zeng, Hongliang Ma, Zeqiang Chen, Lin Zhao, Lingtong Du, Panda Rabindra Kumar, Mahlatse Kganyago, Veber Costa, Won-Ho Nam, Peng Sun, Yonglin Shen, Dev Niyogi, Nengcheng Chen. Disentangling vegetation physiological responses under extreme drought in the Amazon Rainforest: A multispectral remote sensing approach with insights from ET, SIF, and VOD. ISPRS Journal of Photogrammetry and Remonte Sensing, 2025, 230, 599-615.\n[37] Yixuan Zhou, Hanming Cao, Lin Zhao*, Shao Sun. Increased Exposure Risk of Natural Reserves to Rainstorm in the Eastern Monsoon Region of China. Atmosphere, 2025, 16, 1096.\n[36] Feifei Cao, Leizhen Liu*, Yuping Rong, Lin Zhao, Qian Zhang, Zhitao Wu, Wenhui Zhao, Sheng Li. Climate change enhances greening while human activities accelerate degradation in northern China's grasslands. Science of the Total Environment, 2025, 966, 178570.\n[35] Sai Qu, Jiangong Liu, Bolun Li, Lin Zhao, Xinxin Li, Zhijiang Zhang, Moxi Yuan, Zigeng Niu, Aiwen Lin*. Unveiling the driver behind China’s greening trend: urban vs. rural areas. Environmental Research Letters, 2023, 18, 084027.\n[33] Moxi Yuan, Xinxin Li, Sai Qu, Zuoshi Wen, Lin Zhao*. Spring Phenology Outweighs Temperature for Controlling the Autumn Phenology in the Yellow River Basin. Remote Sensing, 2023, 15(20), 5058.\n[32] Mengjie Hou, Lin Zhao, Aiwen Lin*. Irrigation Cooling Effect on Local Temperatures in the North China Plain Based on an Improved Detection Method. Remote Sensing, 2023, 15, 4571.\n[31] Zhao Lin, Li Xinxin*, Zhijiang Zhang, Moxi Yuan, Shao Sun, Sai Qu, Mengjie Hou, Dan Lu, Yajuan Zhou, Aiwen Lin. Developing a novel framework to re-examine half a century of compound drought and heatwave events in mainland China. Science of the Total Environment, 2023, 874, 162366.\n[30] Zhijiang Zhang, Aiwen Lin*, Lin Zhao, Bingyu Zhao. Attribution of local land surface temperature variations response to irrigation over the North China Plain. Science of the Total Environment, 2022, 826, 154104.\n[29] Zhijiang Zhang, Fengji Zhang, Lunche Wang, Aiwen Lin, Lin Zhao*. Biophysical climate impact of forests with different age classes in mid- and high- latitude North America. Forest Ecology and Management, 2021, 494, 119327.\n[28] Zhigao Zhou, Aiwen Lin, Lunche Wang, Wenmin Qin, Lin Zhao*, Shao Sun*, Yang Zhong, Lijie He, Feiyan Chen. Estimation of the losses in potential concentrated solar thermal power electricity production due to air pollution in China. Science of the Total Environment, 2021, 784, 14721.\n[27] Zhigao Zhou, Lin Zhao (co-first author), Aiwen Lin, Wenmin Qin, Yunbo Lu, Jingyi Li, Yang Zhong, Lijie He. Exploring the potential of deep factorization machine and various gradient boosting models in modeling daily reference evapotranspiration in China. Arabian Journal of Geosciences, 2020, 13: 1287.\n[26] Moxi Yuan, Lin Zhao (co-first author), Aiwen Lin*, Lunche Wang, Qingjun Li, Dunxian She, Sai Qu. Impacts of preseason drought on vegetation spring phenology across the Northeast China Transect. Science of the Total Environment, 2020, 738, 140297.\n[25] Zhijiang Zhang, Lin Zhao (co-first author), Aiwen Lin*. Evaluating the Performance of Sentinel-3A OLCI Land Products for Gross Primary Productivity Estimation Using AmeriFlux Data. Remote Sensing, 2020, 12(12), 1927.\n[24] Zhihong Song, Jun Xia*, Dunxian She, Liping Zhang, Chen Hu, Lin Zhao. The development of a Nonstationary Standardized Precipitation Index using climate covariates: a case study in the middle and lower reaches of Yangtze River Basin, China. Journal of Hydrology, 2020, 588, 125115.\n[23] Moxi Yuan, Lin Zhao (co-first author), Aiwen Lin*, Qingjun Li, Dunxian She, Sai Qu. How do climatic and non-climatic factors contribute to the dynamics of vegetation autumn phenology in the Yellow River Basin, China? Ecological Indicators, 2020, 112, 106112.\n[22] Hu Chen, Xia Jun*, She Dunxian, Xu Chongyu, Zhang Liping, Song Zhihong, Lin Zhao. A modified regional L-moment method for regional extreme precipitation frequency analysis in the Songliao River Basin of China. Atmospheric Research, 2019, 230, 104629.\n[21] Jian Fang, Wentao Yang, Yibo Luan, Juan Du, Aiwen Lin, Lin Zhao*. Evaluation of the TRMM 3B42 and GPM IMERG products for extreme precipitation analysis over China. Atmospheric Research, 2019, 223,24-38. (ESI Highly Cited Paper, 2021-present)\n[20] Xinguang Chen*, Bin Yu, Lin Zhao. The evaluation of global epidemic of HIV/AIDS with a novel approach using country-specific counts of HIV infections and three rates controlled for population and geographic area. Global Health Journal, 2019, 3(3): 66-72.\n[19] Jian Fang, Jiameng Hu, Xianwu Shi, Lin Zhao*. Assessing disaster impacts and response using social media data in China: A case study of 2016 Wuhan rainstorm. International Journal of Disaster Risk Reduction, 2019, 34, 275-282.\n[18] Jian Fang, Feng Kong, Jiayi Fang, Lin Zhao*. Observed changes in hydrological extremes and flood disaster in Yangtze River Basin: spatial–temporal variability and climate change impacts. Natural Hazards, 2018, 93(1), 89-107.\n[17] Lin Zhao, Aiguo Dai*, Bo Dong. Changes in global vegetation activity and its driving factors during 1982-2013. Agricultural and Forest Meteorology, 2018, 249, 198-209. (ESI Highly Cited Paper, 2021-present)\n[16] Lin Zhao, Jingmeng Wang, Zhe Zhao, Jian Fang*. Variation of precipitation concentration from 1960 to 2014 in the middle and lower reaches of Yangtze River Basin, China. Cuadernos de Investigación Geográfica, 2016, 42(1), 205-220.\n[15] Lin Zhao, Jianjun Wu, Jian Fang*. Robust Response of Streamflow Drought to Different Timescales of Meteorological Drought in Xiangjiang River Basin of China. Advances in Meteorology, 2016, http://dx.doi.org/10.1155/2016/1634787.\n[14] Yue Li, Zhenzhong Zeng, Lin Zhao, Shilong Piao*. Spatial patterns of climatological temperature lapse rate in mainland China: A multi-tim-scale investigation. Journal of Geophysical Research: Atmospheres, 2015, 120(7), DOI: 10.1002/2014JD022978.\n[13] Lin Zhao, Aifeng Lü, Jianjun Wu* et al. Impact of Meteorological Drought on Streamflow in the Jinghe River Basin of China. Chinese Geographical Science, 2014, 24 (6), 694–705.\n[12] Lei Zhou, Jianjun Wu*, Tangao Hu, Song Leng, Jianhui Zhang, Ming Liu, Lin Zhao. The Investigation of Relationship between Integrated Surface Drought Index (ISDI) Detected Drought Condition and Crop Yield. 2014 IEEE IGARSS.\n[11] Bin He, Jianjun Wu*, Aifeng Lv, Xuefeng Cui, Lei Zhou, Ming Liu, Lin Zhao. Quantitative assessment and spatial characteristic analysis of agricultural drought risk in China. Natural Hazards, 2013, 66(2): 155-166.\n[10] Lei Zhou, Jianjun Wu*, Jianhui Zhang, Song Leng, Ming Liu, Jie Zhang, Lin Zhao, Fengying Zhang, and Yu Shi.  The Integrated Surface Drought Index (ISDI) as an Indicator for Agricultural Drought Monitoring: Theory, Validation, and Application in Mid-Eastern China. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2013, 6(3).\n[9] Lei Zhou, Jianjun Wu*, Adu Gong, Jianhui Zhang, Ming Liu, Lin Zhao, Song Leng, Xin Lu. Evaluation of Integrated Surface Drought Index (ISDI) via precipitation data and soil moisture. 2013 IEEE IGARSS.\n[8]   Lei Zhou, Jie Zhang, Jianjun Wu*, Lin Zhao, Ming Liu, Aifeng Lü, Zhitao Wu. Comparison of remotely sensed and meteorological data-derived drought indices in mid-eastern China. International Journal of Remote Sensing, 2012, 33(6):1755-1779.（The Len Curtis Award）\n[7]   Lei Zhou, Jianjun Wu*, Song Leng, Ming Liu, Jie Zhang, Lin Zhao, Chunyuan Diao, Jianhui Zhang, Haijiang Luo, Fengying Zhang, Yu Shi. Using a new integrated drought monitoring index to improve drought detection in mid-eastern China. 2012 IEEE IGARSS.\n[6]   Jianjun Wu, Lin Zhao, Yanting Zheng, Aifeng Lü*. Regional differences in the relationship between climatic factors, vegetation, land surface conditions, and dust weather in China’s Beijing-Tianjin Sand Source Region. Natural Hazards, 2011, 62:31-44.\n[5]   Bin He, Aifeng Lü, Jianjun Wu*, Lin Zhao, Ming Liu. Drought hazard assessment and spatial characteristics analysis in China. Journal of Geographical Sciences, 2011, 21(2):235-249.\n[4]   Jianjun Wu, Bin He, Aifeng Lü*, Lei Zhou, Ming Liu, Lin Zhao. Quantitative assessment and spatial characteristics analysis of agricultural drought vulnerability in China. Natural Hazards, 2011, 56(3): 785-801.\n[3]   Lei Zhou, Jianjun Wu*, Jie Zhang, Feifei Zhao, Ming Liu, Lin Zhao. Assessing the drought monitoring characteristic of timeseries NDVI indices in crop growing season. 2010 IEEE IGARSS.\n[2]   Jianjun Wu*, Lei Zhou, Jie Zhang, Ming Liu, Lin Zhao, Feifei Zhao. Analysis of relationships among vegetation condition indices and multiple-time scale SPI of grassland in growing season. 2010 Geoinformatics.\n[1]   Lin Zhao, Jianjun Wu*, Aifeng Lü, Xiaochen Liu, Ming Liu. Temporal and Spatial Analysis of Drought in HUANG-HUAI-HAI District--Based on SPI. 2009 EARAM.\n中文论文（按时间倒序）\n[22] 袁沫汐, 查晓菲, 赵林, 张致江, 李鑫鑫. 基于PLUS模型的“三生”用地情景模拟及景观生态风险分析：以长江中游城市群为例[J]. 环境科学, 2025.\n[21] 景伟, 钟以磊, 王纲胜, 李宛谕, 赵林. 基于多模式集合的CMIP6降水和气温数据模拟研究—以新疆自治区伊犁河流域为例[J]. 中国农村水利水电, 2025.\n[20] 赵林，陈滢*，刘邱源，吴邱钰，李鑫鑫. 基于文献计量的中国区域极端降水研究现状分析[J]. 暴雨灾害, 2025, 44(4): 431-442.\n[19] 袁沫汐, 文佐时, 何利杰, 李鑫鑫, 赵林*. 中国温带草地物候对气候变化的响应及其对总初级生产力的贡献[J]. 生态学报, 2024, 44(1).\n[18] 袁沫汐*, 赵林, 李鑫鑫, 林爱文. 1982-2015年中国温带不同草地植被枯黄期对极端气候事件的响应[J]. 生态学报, 2023, 43(14): 6015-6032.\n[17] 虞莉莎, 刘新靓, 宋康, 王蕊, 龚芳燕, 方亮, 万跃, 赵林*, 黎浩*. 中国脑卒中环境危险因素的系统评价[J]. 医学新知, 2023, 6(33): 173-208.\n[16] 唐旭, 朱梦圆, 罗明霞, 赵林, 胡石元*.集体建设用地基准地价评估方法及实证研究[J]. 测绘地理信息, 2023, 48(2): 86-91.\n[15] 胡石元, 陈卉, 唐旭*, 赵林, 耿红. 等级价统一模型支撑的合浦县城镇土地基准地价评估[J]. 测绘地理信息, 2023, 48(4): 84-89.\n[14] 唐旭, 冯浪, 胡石元*, 赵林, 耿红. 划拨土地经营性利用视角下的学校住宿费价格评估及监管机制[J]. 测绘地理信息, 2023, 48(4): 110-115.\n[13] 胡石元, 贺妍, 唐旭*, 赵林, 耿红. 顾及跨域影响的省域大气环境治理效率分析[J], 测绘地理信息, 2022, 47(4): 1-7.\n[12] 王丹, 杨超, 郑永宏*, 肖雪莹, 赵林, 陈正洪. 海绵城市改造对热岛效应减缓效果的估算[J]. 长江流域资源与环境, 2021, 30(4): 968-975.\n[11] 郭明强, 吴亮, 黄颖, 谢忠, 赵林. WebGIS集群环境下Client主动式负载均衡策略[J]. 武汉大学学报(信息科学版), 2015, 40(12), 1639-1645.\n[10] 赵林, 于家烁, 薄岩, 杨娇, 李汉青. 基于SPEI的湖北省近52年干旱时空格局变化[J]. 长江流域资源与环境, 2015, 24(7), 1230-1237.\n[9]   赵林, 徐春雪, 刘雪莹, 李汉青, 江浩鸿, 林爱文. 干旱对湖北省森林植被净初级生产力的影响[J]. 长江流域资源与环境, 2014, 23(11), 1595-1602.\n[8]   周磊; 武建军; 吕爱锋; 张洁; 赵林. 华北不同地表覆盖类型区干旱演变特征[J]. 地理研究, 2012, 31(4): 597-607.\n[7]   赵林，武建军，吕爱锋，刘晓晨，刘明. 黄淮海平原及其附近地区干旱时空动态格局分析——基于标准化降雨指数[J]. 资源科学, 2011, 33(3): 468-476.（领跑者5000顶尖学术论文）\n[6]   武建军，刘晓晨，吕爱锋，赵林，刘明. 黄淮海地区干湿状况的时空分异研究[J]. 中国人口·资源与环境, 2011, 21(2): 100-105.\n[5]   赵林，武建军，吕爱锋，刘明，杨曦，何斌. 京津风沙源区植被变化对降水的响应规律研究[J]. 北京师范大学学报（自然科学版）, 2010, 46(5): 610-618.\n[4]   刘明，武建军，吕爱锋，赵林，何斌. 黄淮海平原雨养条件下冬小麦水分胁迫分析[J]. 地理科学进展, 2010, 29(4): 427-432.\n[3]   何斌，赵林，刘明，周磊. 湖南省农业旱灾风险综合分析与定量评价[J]. 安徽农业科学, 2010, 38(3): 1559-1562,1578.\n[2]   刘明，武建军，吕爱锋，赵林. 黄淮海平原典型区冬小麦水分胁迫规律与灌溉策略[J]. 农业工程学报, 2010, 26(5):40-44.\n[1]  赵林，武建军. 灾害风险防范数据库的设计与开发[J]. 自然灾害学学报, 2008, 17(1): 44-48.\n专利与软著\n[1] 发明专利：多因素骤旱综合识别方法，ZL201910789269.5\n[2] 软件著作权：洪涝灾害快速评估系统V1.0\n[3] 软件著作权：干旱灾害演进过程监测系统V1.0\n团队成员\n暂无内容\n工作经历\n2022-3····至今\n资源与环境科学学院\n| 武汉大学\n| 地理与国土资源系副主任\n2019-11····至今\n资源与环境科学学院\n| 武汉大学\n| 副教授\n2014-7····2019-10\n资源与环境科学学院\n| 武汉大学\n| 讲师\n2012-7····2014-6\n资源与环境科学学院\n| 武汉大学\n| 师资博士后\n教育经历\n2003-9····2007.6\n北京师范大学\n|\n资源科学与工程\n| 学士学位\n|\n大学本科毕业\n2007-9····2012.6\n北京师范大学\n|\n自然灾害学\n| 理学博士学位\n|\n博士研究生毕业\n社会兼职\n2025-1····至今\n湖北省地理学会理事\n2023-9····至今\n中国地理学会自然灾害风险与综合减灾专业委员会委员\n江西省科技厅科技专家库专家\n2021-12····2024.11\n《Global Health Research and Policy》期刊编委\n2021-8····2026.7\n湖北省科技厅科技专家库专家\n研究方向\n[1].自然灾害监测、评估与风险管理\n[2].极端气候事件与植被生态响应\n其他联系方式\n邮编：\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

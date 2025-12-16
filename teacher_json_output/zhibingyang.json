@@ -1,0 +1,278 @@
+{
+  "id": "zhibingyang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhibingyang/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "杨志兵",
+    "english_name": "Yang Zhibing",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "水利工程其他专业",
+    "college": "水利水电学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地下水水文学",
+        "school": "瑞典乌普萨拉大学",
+        "period": "2008-2012",
+        "country": "瑞典"
+      },
+      {
+        "degree": "访问博士生",
+        "field": "环境科学与工程",
+        "school": "美国科罗拉多矿业学院",
+        "period": "2009-2010",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "瑞典乌普萨拉大学",
+    "academic_honors": [
+      "国家优秀自费留学生奖学金",
+      "国家级青年人才计划项目"
+    ],
+    "academic_services": [
+      "《Advances in Water Resources》副主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多孔及裂隙介质多相渗流机理",
+      "地下水模拟及污染物迁移与修复",
+      "二氧化碳地质封存",
+      "多相渗流-颗粒力学耦合机理"
+    ],
+    "research_interests": [
+      "多相渗流",
+      "地下水污染与修复",
+      "二氧化碳地质封存",
+      "颗粒运移",
+      "微流控技术",
+      "数值模拟",
+      "岩溶水文地质",
+      "污染物迁移",
+      "孔隙尺度研究",
+      "分子动力学模拟"
+    ],
+    "research_description": "杨志兵教授长期致力于地质介质多相渗流机理与控制方法研究，聚焦于多孔及裂隙介质中的多相渗流、地下水污染与修复（包括NAPLs、微塑料、胶体等）、二氧化碳地质封存（含数值模拟、不确定性分析、储层容量评估）以及多相渗流-颗粒力学耦合机理。研究结合多尺度数值模拟（如TOUGH系列、CFD-DEM、KarstFlow3D等）与微观渗流可视化试验（如激光共聚焦显微镜、微流控技术），在Phys. Rev. Lett、Environ. Sci. & Tech.、Water Resour. Res.等高水平期刊发表论文80余篇，参与编写英文专著，授权/申请国家发明专利8项。研究成果服务于重大水利水电工程安全、土壤与地下水污染防治及双碳战略目标。",
+    "disciplines": [
+      "水利工程",
+      "水工结构工程",
+      "环境科学与工程",
+      "地球科学"
+    ],
+    "field_tags": [
+      "多相渗流",
+      "地下水模拟",
+      "污染物迁移",
+      "CO2地质封存",
+      "岩溶水文地质",
+      "颗粒力学",
+      "数值模拟",
+      "微流控",
+      "分子动力学",
+      "环境修复"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "Stability transition in gap expansion-driven interfacial flow",
+        "keywords": [
+          "多相渗流",
+          "界面不稳定性",
+          "间隙扩张",
+          "流体动力学"
+        ],
+        "journal_name": "Physical Review Letters",
+        "research_fields": [
+          "多孔介质渗流",
+          "流体力学"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Groundwater flow through fractured rocks and seepage control in geotechnical engineering: Theories and practices",
+        "keywords": [
+          "裂隙介质",
+          "地下水流动",
+          "渗流控制",
+          "岩土工程"
+        ],
+        "journal_name": "Journal of Rock Mechanics and Geotechnical Engineering",
+        "research_fields": [
+          "岩土工程",
+          "地下水动力学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Displacement Patterns of a Newtonian Fluid by a Shear-Thinning Fluid in a Rough Fracture",
+        "keywords": [
+          "非牛顿流体",
+          "粗糙裂隙",
+          "流体驱替",
+          "渗流模拟"
+        ],
+        "journal_name": "Water Resources Research",
+        "research_fields": [
+          "地下水模拟",
+          "多相流"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Influence of Liquid Splitting Behavior at Intersections on Infiltration Dynamics in an Unsaturated Fracture Network",
+        "keywords": [
+          "非饱和裂隙网络",
+          "液体分流",
+          "入渗动力学",
+          "渗流机理"
+        ],
+        "journal_name": "Water Resources Research",
+        "research_fields": [
+          "非饱和渗流",
+          "裂隙水文地质"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Liquid breakthrough time in an unsaturated fracture network",
+        "keywords": [
+          "非饱和裂隙",
+          "突破时间",
+          "渗流特性",
+          "数值模拟"
+        ],
+        "journal_name": "Water Resources Research",
+        "research_fields": [
+          "裂隙渗流",
+          "地下水运移"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Molecular Origin of Wetting Characteristics on Mineral Surfaces",
+        "keywords": [
+          "润湿性",
+          "矿物表面",
+          "分子动力学",
+          "界面行为"
+        ],
+        "journal_name": "Langmuir",
+        "research_fields": [
+          "界面科学",
+          "分子模拟"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "H2 diffusion in cement nanopores and its implication for underground hydrogen storage",
+        "keywords": [
+          "氢气扩散",
+          "水泥纳米孔",
+          "地下储氢",
+          "多孔介质"
+        ],
+        "journal_name": "Journal of Energy Storage",
+        "research_fields": [
+          "能源存储",
+          "多孔介质传输"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Three-Dimensional Visualization Reveals Pore-Scale Mechanisms of Colloid Transport and Retention in Two-Phase Flow",
+        "keywords": [
+          "胶体运移",
+          "孔隙尺度",
+          "可视化",
+          "污染物迁移"
+        ],
+        "journal_name": "Environmental Science & Technology",
+        "research_fields": [
+          "地下水污染",
+          "环境修复"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Model analysis of CO2 residual trapping from single-well push pull test based on hydraulic withdrawal tests -- Heletz, residual trapping experiment I",
+        "keywords": [
+          "CO2地质封存",
+          "残余捕集",
+          "单井推拉试验",
+          "水力抽提"
+        ],
+        "journal_name": "International Journal of Greenhouse Gas Control",
+        "research_fields": [
+          "碳捕集与封存",
+          "地质工程"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Numerical simulation of tracer breakthrough curves in karst aquifers by a coupled discrete-continuum model",
+        "keywords": [
+          "岩溶含水层",
+          "示踪剂突破曲线",
+          "离散-连续耦合模型",
+          "数值模拟"
+        ],
+        "journal_name": "Journal of Hydrology",
+        "research_fields": [
+          "岩溶水文地质",
+          "地下水模拟"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学水利水电学院教师主页",
+        "url": "http://jszy.whu.edu.cn/zhibingyang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金基础科学中心课题",
+      "国家重点研发计划项目（政府间科技创新合作）",
+      "国家重点实验室仪器研发项目",
+      "瑞典科学基金会项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "瑞典科学基金会",
+      "国家重点实验室"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杨志兵\n页面链接: http://jszy.whu.edu.cn/zhibingyang/zh_CN/index.htm\n==================================================\n武汉大学 杨志兵--中文主页--首页\nEnglish\n中文\n杨志兵\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Yang Zhibing\n入职时间：2017-05-01\n职务：Professor\n学历：博士研究生毕业\n性别：男\n联系方式：zbyang[at]whu.edu.cn\n职称：教授\n在职信息：在职\n所属院系：\n水利水电学院\n学科：\n水利工程其他专业\n水利水电工程\n水工结构工程\n个人简介\n个人简介：杨志兵，武汉大学水利水电学院教授、博士生导师，2017年入选国家级青年人才计划项目。2012年博士毕业于瑞典乌普萨拉大学地球科学系地下水水文学专业。博士期间曾作为访问博士生在美国科罗拉多矿业学院环境科学与工程系学习。博士毕业后先后在瑞典乌普萨拉大学和美国麻省理工学院从事博士后研究。2012年度获国家优秀自费留学生奖学金。曾主持瑞典科学基金会项目1项、国家重点研发计划项目（政府间科技创新合作）1项、国家自然科学基金面上项目3项、国家自然科学基金基础科学中心课题1项、国家重点实验室仪器研发项目1项。\n研究方向：长期致力于地质介质多相渗流机理与控制方法研究，目前主要研究方向：(1)多孔及裂隙介质多相渗流机理；(2)地下水模拟及污染物迁移与修复；(3)二氧化碳地质封存(数值模拟、不确定性分析、储层容量评估等)；(4)多相渗流-颗粒力学耦合机理及应用。在Phys. Rev. Lett、Environ. Sci. & Tech.、Geophys. Res. Lett.、Water Resour. Res.、Water Res.等国内外主流期刊发表论文80余篇，其中自然指数论文17篇，参与编写英文专著一部，授权/申请国家发明专利8项。渗流机理与控制研究成果将服务于我国重大水利水电工程建设与长期安全、土壤与地下水污染防治、双碳愿景目标实现等重要战略。\n研究方法和条件：多尺度数值模拟（分子动力学模拟、孔隙网络模型、离散元模拟、CFD-DEM、深地储层多相流模拟器TOUGH系列软件、岩溶含水层地下水流动和污染物迁移模拟（KarstFlow3D、KarstTrans3D）、土壤与地下水污染修复模拟等）、微观渗流可视化试验（激光扫描共聚焦显微镜、光学倒置显微镜、平面激光扫描成像、微流控技术等）。\n课题组诚招1-2名优秀博士后开展渗流、地下水等相关方向研究，有渗流和运移数值模拟或相关研究经验和成果的优先。欢迎自我推荐！\n教学工作：工程地质、水文学与水文地质、自然地理、地质实习、水利工程渗流分析与控制 （武汉大学）；\nGroundwater Hydraulics、Global Hydrology、Runoff and Groundwater Modelling （at Uppsala University）；\nComputer Programming for Scientific and Engineering Applications （at MIT，as Postdoc Teaching Fellow）\nZhibing Yang is a professor at the School of Water Resources and Hydropower Engineering, Wuhan University. His main research interests focus on the complex transport phenomena of fluids and particles in geological media across scales with applications in, e.g., subsurface hydrology, environmental remediation and earth resources engineering.\nExperience\nPh.D., Uppsala University, 2008-2012 (导师Auli Niemi教授和Fritjof Fagerlund教授)\nVisiting Scholar, Colorado School of Mines, 2009-2010 (导师Tissa Illangasekare教授)\nPostdoctoral researcher, Uppsala University, 2013-2014 (合作导师Auli Niemi教授)\nPostdoctoral researcher, MIT, 2014-2016 (合作导师Ruben Juanes教授)\n具体方向主要论文Selected publications（下划线作者为指导或合作指导的研究生/博士后）：\n多相渗流和非饱和渗流 (Multiphase flow and unsaturated flow in porous and fractured media)：\nLi, D.#, Yang Z.# *, Pahlavan A. A., Zhang, R., Hu, R., & Chen, Y.-F.* (2024). Stability transition in gap expansion-driven interfacial flow. Physical Review Letters, 133, 034003.(click here)\nZhou, C. B., Chen, Y. F., Hu, R., & Yang, Z. (2023). Groundwater flow through fractured rocks and seepage control in geotechnical engineering: Theories and practices. Journal of Rock Mechanics and Geotechnical Engineering, 15(1), 1-36.\nZhang, L., Yang, Z., Méheust, Y., Neuweiler, I., Hu, R., & Chen, Y. F. (2023). Displacement Patterns of a Newtonian Fluid by a Shear-Thinning Fluid in a Rough Fracture. Water Resources Research, 59(9), e2023WR034958. (click here)\nXue, S., Yang, Z., Zhou, Z., Hu, R., & Chen, Y.-F. (2023). Influence of Liquid Splitting Behavior at Intersections on Infiltration Dynamics in an Unsaturated Fracture Network. Water Resources Research, 59(10), e2023WR034639. (click here)\nZhou, Z., Yang, Z., Xue, S., Hu, R., & Chen, Y. F. (2022). Liquid breakthrough time in an unsaturated fracture network. Water Resources Research, 58(3), e2021WR031012. (click here)\nZhou, Z.,Yang, Z., Luo, C., Xue, S., Yao, C., Hu, R., & Chen, Y.-F. (2023). Influence of Inertia on Liquid Splitting at Fracture Intersections. Journal of Hydrology, 129270. (click here)\nA, H., Yang, Z., Hu, R., & Chen, Y.-F. (2023). Molecular Origin of Wetting Characteristics on Mineral Surfaces. Langmuir, 39(8), 2932–2942. (click here)\nA, H., Yang, Z., Hu, R., Chen, Y. F. (2022). Roles of energy dissipation and asymmetric wettability in spontaneous imbibition dynamics in a nanochannel. Journal of Colloid and Interface Science, 607, 1023-1035. (click here)\nA, H., A., Yang, Z., Chen, Y., Hu, R., Wood, C. D., Kang, Q., & Chen, Y. F. (2024). H2 diffusion in cement nanopores and its implication for underground hydrogen storage. Journal of Energy Storage, 102, 113926. (click here)\nXue, S., Yang, Z., Hu, R., & Chen, Y.-F. (2020). Splitting Dynamics of Liquid Slugs at a T-Junction. Water Resources Research, 56(8), e2020WR027730. (click here)\nYang, Z., Méheust, Y., Neuweiler, I., Hu, R., Niemi, A., & Chen, Y. F. (2019). Modeling immiscible two‐phase flow in rough fractures from capillary to viscous fingering. Water Resources Research, 55(3), 2033-2056. (click here)\nA, H., Yang, Z., Hu, R., Chen, Y. F., & Yang, L. (2020). Effect of Solid–Liquid Interactions on Substrate Wettability and Dynamic Spreading of Nanodroplets: A Molecular Dynamics Study. J. Phys. Chem. C, 124, 23260-23269. (click here)\nYang, Z., Xue, S., Zheng, X., & Chen, Y. F. (2019). Partitioning Dynamics of Gravity‐Driven Unsaturated Flow Through Simple T‐Shaped Fracture Intersections. Water Resources Research, 55(8), 7130-7142. (click here)\nYang, Z., Li, D., Xue, S., Hu, R., & Chen, Y. F. (2019). Effect of aperture field anisotropy on two-phase flow in rough fractures. Advances in Water Resources, 132, 103390. (click here)\nYang, Z., I. Neuweiler, Y. Méheust, F. Fagerlund, and A. Niemi (2016). Fluid trapping during capillary displacement in fractures. Advances in Water Resources, 95, 264-275. (click here)\nYang, Z., A. Niemi, F. Fagerlund and T. Illangasekare (2013). Two-phase flow in rough-walled fractures: comparison of continuum and invasion-percolation models. Water Resources Research. 49(2), 993–1002. (click here)\nYang, Z., A. Niemi, F. Fagerlund, and T. Illangasekare (2012). A generalized approach for estimation of in-plane curvature in invasion percolation models for drainage in fractures. Water Resources Research, 48(9), W09507. (click here)\nHu, R., Wu, D. S., Yang, Z., & Chen, Y. F. (2018). Energy conversion reveals regime transition of imbibition in a rough fracture. Geophysical Research Letters, 45(17), 8993-9002. (click here)\nda Silva, J. A., Kang, P. K., Yang, Z., Cueto‐Felgueroso, L., & Juanes, R. (2019). Impact of Confining Stress on Capillary Pressure Behavior During Drainage Through Rough Fractures. Geophysical Research Letters, 46(13), 7424-7436. (click here)\nZhao, B., MacMinn, C. W., Primkulov, B. K., Chen, Y., Valocchi, A. J., Zhao, J., Q. Kang, K. Bruning, J. E. McClure, C. T. Miller, A. Fakhari, D. Bolster, T. Hiller, M. Brinkmann, L. Cueto-Felgueroso, D. A. Cogswell, R. Verma, M. Prodanović, J. Maes, S. Geiger, M. Vassvik, A. Hansen, E. Segre, R. Holtzman, Z. Yang, C. Yuan, B. Chareyre, R. Juanes (2019). Comprehensive comparison of pore-scale models for multiphase flow in porous media. Proceedings of the National Academy of Sciences, 201901619. (click here)\n流体-颗粒力学耦合机理 (Coupled processes of flow and particle mechanics)\nWu, T., Yang, Z., Lehoux, A., Weisbrod, N., Hu, R., Chen, Y. F., & Hu, Y. A. (2025). Liquid fragmentation induced by particle aggregation during two‐phase flow in 3D porous media. Geophysical Research Letters, 52(3), e2024GL113063.(click here)\nA, H., Cao, H., Hu, R., Chen, Y. F., Gui, C., & Yang, Z. (2024). Regulating droplet impact dynamics of nanoparticle suspension: Phenomena, mechanisms, and implications. Physics of Fluids, 36(1). (click here)\nZhang, R., Yang, Z., Detwiler, R., Li, D., Ma, G., Hu, R., & Chen, Y.-F. (2023). Liquid cohesion induced particle agglomeration enhances clogging in rock fractures. Geophysical Research Letters, 50(5), e2022GL102097. (click here)\nLi, D., Yang, Z., Zhang, R., Hu, R., & Chen, Y. F. (2022). Morphological patterns and interface instability during withdrawal of liquid-particle mixtures. Journal of Colloid and Interface Science, 608, 1598-1607. (click here)\nWu, T., Yang, Z., Hu, R., Chen, Y.F., Zhong, H., Yang, L. and Jin, W. (2021). Film entrainment and microplastic particles retention during gas invasion in suspension-filled microchannels. Water Research, 194, p.116919. (click here)\nYang, Z., & Juanes, R. (2018). Two sides of a fault: Grain-scale analysis of pore pressure control on fault slip. Physical Review E, 97(2), 022906. (click here)\nHu, X., Yang, Z., & Chen, Y. F. (2021). Fluid-driven particle transport patterns in a confined geometry: Effect of flow velocity and particle concentration. Journal of Natural Gas Science and Engineering, 92, 103998. (click here)\nMeng, Y., Primkulov, B. K., Yang, Z., Kwok, C. Y., & Juanes, R. (2020). Jamming transition and emergence of fracturing in wet granular media. Physical Review Research, 2(2), 22012. (click here)\n地下水污染与修复（Groundwater contamination and remediation: NAPLs, microplastics, colloids）:\nWu, T., Yang, Z., Hu, R., Chen, Y.F. (2023). Three-Dimensional Visualization Reveals Pore-Scale Mechanisms of Colloid Transport and Retention in Two-Phase Flow. Environmental Science & Technology, 57, 1997−2005. (click here, ES&T cover article)\nWu, T., Chen, Y., & Yang, Z. (2024). 3D pore-scale characterization of colloid aggregation and retention by confocal microscopy: Effects of fluid structure and ionic strength. Science of The Total Environment, 170349. (click here)\nXiong, X., Yang, Z., Hu, R., & Chen, Y. F. (2023). Predicting colloid transport and deposition in an array of collectors. Colloids and Surfaces A: Physicochemical and Engineering Aspects, 659, 130762. (click here)\nWang, Z., Yang, Z., Hu, R., & Chen, Y. F. (2022) Mass transfer during surfactant-enhanced DNAPL remediation: pore-scale experiments and new correlation, Journal of Hydrology, 621, 129586 (click here)\nHe, H., Wu, T., Chen, Y.F., Yang, Z. (2023). A pore-scale investigation of microplastics migration and deposition during unsaturated flow in porous media. Science of the Total Environment, 858, 159934. (click here)\nWang, Z., Yang, Z., Fagerlund, F., Zhong, H., Hu, R., Niemi, A., Illangasekare, T., & Chen, Y. F. (2022). Pore-Scale Mechanisms of Solid Phase Emergence During DNAPL Remediation by Chemical Oxidation. Environmental Science & Technology. (click here)\nWang, Z., Yang, Z., & Chen, Y. F. (2023). Pore-scale investigation of surfactant-enhanced DNAPL mobilization and solubilization. Chemosphere, 341, 140071. (click here)\nXiong, X., Yang, Z., Hu, R., & Chen, Y. F. (2022). Evaluating Single-Collector Efficiencies of Colloid Deposition from Lagrangian Simulations: Geometric Models and Particle Release Scenarios. Water Resources Research, e2022WR033821. (click here)\nWu, T., Yang, Z., Hu, R., Chen, Y.F., Zhong, H., Yang, L. and Jin, W. (2021). Film entrainment and microplastic particles retention during gas invasion in suspension-filled microchannels. Water Research, 194, p.116919. (click here)\nYang, Z., A. Niemi, F. Fagerlund, T. Illangasekare and R. Detwiler (2013). Dissolution of dense non-aqueous phase liquids in vertical fractures: effect of finger residuals and dead-end pools. Journal of Contaminant Hydrology, 149, 88-99. (click here)\nYang, Z., A. Niemi, F. Fagerlund, and T.H. Illangasekare (2012). Effect of single-fracture aperture statistics on entrapment, dissolution and source depletion behavior of dense non-aqueous phase liquids. Journal of Contaminant Hydrology, 133, 1-16. (click here)\nYang, Z., H. Zandin, A. Niemi, and F. Fagerlund (2013), The role of geological heterogeneity and variability in water infiltration on non-aqueous phase liquid migration. Environmental Earth Sciences, 68(7), 2085-2097. (click here)\n二氧化碳地质封存（Geological storage of CO2）：\nJoodaki, S., Yang, Z., Bensabat, J., & Niemi, A. (2020). Model analysis of CO2 residual trapping from single-well push pull test based on hydraulic withdrawal tests -- Heletz, residual trapping experiment I. International Journal of Greenhouse Gas Control, 97, 103058. (click here)\nYang, Z., Chen, Y.-F., & Niemi, A. (2020). Gas migration and residual trapping in bimodal heterogeneous media during geological storage of CO2. Advances in Water Resources, 103608. (click here)\nBasirat, F., Yang, Z., Bensabat, J., Levchenko, S., Pan, L., & Niemi, A. (2020). Characterization of CO2 self-release during Heletz Residual Trapping Experiment I (RTE I) using a coupled wellbore-reservoir simulator. International Journal of Greenhouse Gas Control, 102, 103162. (click here)\nBasirat, F., Z. Yang, and Niemi A. (2017). Pore-scale modeling of wettability effects on CO2–brine displacement during geological storage. Advances in Water Resources, 109, 181-195. (click here)\nYang, Z., A. Niemi, L. Tian, Saba Joodaki, and M. Erlström (2015). Modeling of pressure buildup and estimation of maximum injection rate for geological CO2 storage at the South Scania site, Sweden. Greenhouse Gases: Science and Technology, 5(3), 277-290. (click here)\nYang Z., L. Tian, B. Jung, S. Joodaki, F. Fagerlund, R. Pasquali, R. Vernon, N. O’Neill, and A. Niemi (2015). Assessing CO2 storage capacity in the Dalders Monocline of the Baltic Sea Basin using dynamic models of varying complexity. International Journal of Greenhouse Gas Control. 43, 149-160. (click here)\nYang, Z., L. Tian, A. Niemi and F. Fagerlund (2013). Upscaling of the constitutive relationships for CO2 migration in multimodal heterogeneous formations. International Journal of Greenhouse Gas Control. 19, 743-755. (click here)\n岩溶水文地质 （Karst Hydrogeology）：\nZheng, X., Yang, Z., Zhan, S., Du, X., Chen, Y., Hu, R., & Chen, Y. F. (2024). Numerical simulation of tracer breakthrough curves in karst aquifers by a coupled discrete-continuum model. Journal of Hydrology, 132147.(click here)\nZheng, X., Yang, Z., Wang, S., Chen, Y. F., Hu, R., Zhao, X. J., ... & Yang, X. L. (2021). Evaluation of hydrogeological impact of tunnel engineering in a karst aquifer by coupled discrete-continuum numerical simulations. Journal of Hydrology, 597, 125765. (click here)\nZhou, B. Q., Yang, Z., Hu, R., Zhao, X. J., & Chen, Y. F. (2021). Assessing the impact of tunnelling on karst groundwater balance by using lumped parameter models. Journal of Hydrology, 599, 126375. (click here)\nChen, Y. F., Yuan, J., Wang, G., Xu, J., Hu, R., & Yang, Z. (2022). Evaluation of groundwater flow through a high rockfill dam foundation in karst area in response to reservoir impoundment. International Journal of Rock Mechanics and Mining Sciences, 160, 105268.\n中文论文：\n吴婷，杨志兵，胡冉，陈益峰 (2025). 细颗粒运移与孔隙堵塞对两相渗流特性的影响. 岩土力学 46 (6)\n王泽君， 杨志兵， 胡冉， 陈益峰 (2024). 基于微流控技术的重质非水相液体氧化修复机理. 中国环境科学, 44 (8), 4530-4538.\n李东奇, 杨志兵, 张乐, 胡冉, & 陈益峰. (2023). 空气-悬浮液驱替条件下颗粒边壁滞留研究. 力学学报, 55(11), 2531–2538.\n杨志兵, 周泽雄, 薛松, 郑小康, & 叶雨柯. (2023). 裂隙介质非饱和渗流多尺度机理与数值模型研究进展. 武汉大学学报（工学版）, 56(321), 1472–1482.\n薛松, 杨志兵, 陈益峰, & 童富果. (2023). 交叉裂隙开度对滴状水流分流行为的影响. 岩土工程学报, 45(1), 1–8.\n张乐, 杨志兵, 李东奇, & 陈益峰. (2023). 浆液在透明复制裂隙中驱替行为的可视化试验研究. 岩土力学, 44(6), 1708–1718.\n秦蜂, 詹双桥, 郑小康, 陈运财, 杜兴武, & 杨志兵.（2023）. 隧洞施工和持续干旱对岩溶地下水影响的定量评价. 中国农村水利水电.\n马亚楠，杨志兵，熊小锋，陈益峰（2023）. 粗糙裂隙各向异性对非达西渗流特性的影响. 人民长江 54 (1), 233-239,244.\n郑小康, & 杨志兵. 岩溶含水层饱和-非饱和流动与污染物运移数值模拟[J]. 地质科技通报, 2022, 41(5): 357-366. (click here)\n吴婷, & 杨志兵. (2022). 气-液两相流中颗粒迁移及其对液膜沉积的影响[J].武汉大学学报:工学版, 2022, 55(12):1198-1203.\n阿湖宝, 杨志兵, 胡冉, & 陈益峰. (2021). 纳米尺度下毛细流动的分子动力学模拟. 计算物理, 38(5), 215-223\n薛松, 杨志兵, 李东奇, & 陈益峰. (2021). 滴状流条件下非饱和交叉裂隙分流机制研究. 岩土力学, 42(1), 59-67.\n郭敏丽, 王金生, 杨志兵, & 刘立才. (2012). 非正规垃圾填埋场包气带介质的污染物阻滞能力研究. 环境污染与防治, 34(1), 24-26.\n专利与软件著作权 （Patents and Software）：\n杨志兵，薛松，郑小康，陈益峰，赵先进. 一套模拟交叉裂隙渗流的可视化试验装置及方法，专利号：ZL 201810896871.4, 授权时间2019年7月\n杨志兵，薛松，李东奇，陈益峰. 一种快速测量液滴动态接触角的装置及方法. 专利号：ZL202010071170.4, 授权时间: 2021年5月4日\n杨志兵，李东奇，薛松，陈益峰. 变开度可拆卸的仿真裂隙试验装置及试验方法. 专利号：ZL202010298229.3, 授权时间: 2021年2月19日\n杨志兵，郑小康等，岩溶地下水三维数值模拟软件（KarstFlow3D v1.0），计算机软件著作权登记，2022SR0781934\n杨志兵，郑小康等，岩溶地下水溶质运移三维数值模拟软件（KarstTrans3D v1.0），计算机软件著作权登记，2022SR0825428\n课题组与美国、瑞典、德国、法国等国家的多所著名高校的知名学者、团队有着密切的合作关系。\n课题组诚招1-2名优秀博士后合作研究，欢迎推荐或自我推荐！\n课题组诚招硕士、博士研究生一起在科研征程中攻坚克难，欢迎感兴趣的同学报考!\n邮箱：zbyang[at]whu.edu.cn\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n《Advances in Water Resources》副主编\n研究方向\n暂无内容\n其他联系方式\n邮编：\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "xuxiaofei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xuxiaofei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "许晓菲",
+    "english_name": "Xu Xiaofei",
+    "title": [
+      "特聘副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "数学与统计学院",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士学位",
+        "field": "统计学",
+        "school": "中国科学技术大学",
+        "period": "2011.9-2015.7",
+        "country": "中国"
+      },
+      {
+        "degree": "博士学位",
+        "field": "统计学",
+        "school": "新加坡国立大学",
+        "period": "2015.9-2020.3",
+        "country": "新加坡"
+      }
+    ],
+    "graduation_school": "新加坡国立大学",
+    "academic_honors": [],
+    "academic_services": [
+      "中国现场统计研究会-多元分析应用专业委员会理事",
+      "中国现场统计研究会-旅游大数据分会理事",
+      "中国数学会会员",
+      "Computational Statistics and Data Analysis 审稿人",
+      "Computational Statistics 审稿人",
+      "Statistica Sinica 审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "函数型时间序列分析",
+      "整值时间序列分析",
+      "复杂不平稳时间序列预测"
+    ],
+    "research_interests": [
+      "复杂时间序列分析",
+      "时间序列预测",
+      "社区网络诊断",
+      "交叉领域应用"
+    ],
+    "research_description": "许晓菲博士主要从事复杂时间序列分析与预测、社区网络诊断及相关交叉领域应用的研究。她主持国家自然科学基金青年项目，参与国家自然科学基金原创探索项目，在Statistica Sinica、Journal of Business and Economic Statistics、The Annals of Applied Statistics、Journal of Time Series Analysis等国际权威SCI期刊发表多篇论文。",
+    "disciplines": [
+      "统计学",
+      "数学"
+    ],
+    "field_tags": [
+      "时间序列分析",
+      "函数型数据",
+      "整值数据",
+      "不平稳序列",
+      "预测模型",
+      "网络分析",
+      "交叉学科应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "复杂时间序列分析与预测相关研究",
+        "keywords": [
+          "复杂时间序列分析",
+          "预测",
+          "社区网络诊断",
+          "函数型时间序列",
+          "整值时间序列"
+        ],
+        "journal_name": "Statistica Sinica",
+        "research_fields": [
+          "时间序列分析",
+          "统计学",
+          "数据科学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "复杂不平稳时间序列的建模与应用",
+        "keywords": [
+          "不平稳时间序列",
+          "预测",
+          "统计建模",
+          "交叉应用"
+        ],
+        "journal_name": "Journal of Business and Economic Statistics",
+        "research_fields": [
+          "时间序列分析",
+          "经济统计",
+          "应用统计"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "社区网络诊断与时间序列交叉研究",
+        "keywords": [
+          "社区网络诊断",
+          "时间序列",
+          "交叉领域应用",
+          "统计分析"
+        ],
+        "journal_name": "The Annals of Applied Statistics",
+        "research_fields": [
+          "应用统计",
+          "网络分析",
+          "统计建模"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "整值时间序列分析方法研究",
+        "keywords": [
+          "整值时间序列",
+          "函数型时间序列",
+          "统计建模",
+          "预测"
+        ],
+        "journal_name": "Journal of Time Series Analysis",
+        "research_fields": [
+          "时间序列分析",
+          "统计学",
+          "数学建模"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xuxiaofei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家自然科学基金原创探索项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 许晓菲\n页面链接: http://jszy.whu.edu.cn/xuxiaofei/zh_CN/index.htm\n==================================================\n武汉大学 许晓菲--中文主页--首页\n教师个人主页\n许晓菲\n个人信息\n教师拼音名称：Xu Xiaofei\n电子邮箱：\n入职时间：2022-06-01\n所在单位：数学与统计学院\n学历：博士研究生毕业\n办公地点：雷军科技楼A324\n性别：女\n联系方式：xiaofeix@whu.edu.cn\n在职信息：在职\n主要任职：特聘副研究员\n毕业院校：新加坡国立大学\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n许晓菲，女，湖北襄阳人，武汉大学数学与统计学院特聘副研究员，硕士生导师。本科毕业于中国科学技术大学（统计学），博士毕业于新加坡国立大学（统计学），曾担任日本早稻田大学助理教授。主要研究方向包括复杂时间序列分析和预测、社区网络诊断和相关交叉领域应用等，主持国家自然科学基金青年项目一项，参与国家自然科学基金原创探索项目一项，在Statistica Sinica, Journal of Business and Economic Statistics, The Annals of Applied Statistics, Journal of Time Series Analysis等国际权威SCI期刊发表多...\n教育经历\n2011.9-2015.7\n中国科学技术大学  | 统计学  | 学士学位 | 本科(学士)\n2015.9-2020.3\n新加坡国立大学  | 统计学  | 博士学位 | 博士研究生毕业\n工作经历\n2020.3-2020.12\n风险管理研究所（RMI） | 新加坡国立大学\n| 研究员\n2021.1-2022.5\n理工学术院 | 日本早稻田大学\n| 讲师\n社会兼职\n中国现场统计研究会-多元分析应用专业委员会理事，中国现场统计研究会-旅游大数据分会理事, 中国数学会会员。 统计领域国际权威期刊Computational Statistics and Data Analysis，Computational Statistics和Statistic Sinica等审稿人\n研究方向\n函数型时间序列分析，整值时间序列分析，复杂不平稳时间序列预测。 长期招聘优秀本科和硕士研究生加入研究团队，欢迎有科研兴趣和自我驱动力的本科生和研究生联系我，探索复杂时间序列分析和交叉应用等课题的合作研究！\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

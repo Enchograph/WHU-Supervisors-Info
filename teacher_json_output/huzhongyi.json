@@ -1,0 +1,236 @@
+{
+  "id": "huzhongyi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huzhongyi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "胡忠义",
+    "english_name": "Zhongyi Hu",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "信息管理学院",
+    "college": "信息管理学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "管理学",
+        "school": "哈尔滨工业大学",
+        "period": "2009年",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "管理学",
+        "school": "华中科技大学",
+        "period": "2012年",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "管理学",
+        "school": "华中科技大学",
+        "period": "2015年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "湖北省高等学校人文社科优秀成果二等奖",
+      "第十届湖北省社会科学优秀成果奖三等奖",
+      "Young Scholar Award（The 2nd International Conference on FEFS）",
+      "Outstanding Reviewer of Applied Soft Computing",
+      "International Research Visiting Fellowship (UON)",
+      "BIFE2019优秀论文",
+      "武汉大学优秀教学研究论文一等奖"
+    ],
+    "academic_services": [
+      "Associate Editor, Journal of Systems and Information Technology（EI期刊）",
+      "武汉大学电子商务研究与发展中心副主任",
+      "中国系统工程学会数据科学与知识系统工程专业委员会委员",
+      "中国电子信息行业联合会数字经济专委会成员",
+      "湖北省电子商务学会理事",
+      "国际SCI/SSCI期刊评审专家：IEEE Transactions on Cybernetics、Information Science、Engineering Applications of Artificial Intelligence、Knowledge-based Systems、Applied Soft Computing、Neurocomputing、Neural Computing & Applications、Information Processing and Management等"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "数据科学与机器学习技术",
+      "数据分析与数据挖掘",
+      "商务智能与应用",
+      "自然语言处理"
+    ],
+    "research_interests": [
+      "数据融合",
+      "区间型预测",
+      "恶意网站识别",
+      "电力负荷预测",
+      "金融时间序列预测",
+      "多源数据融合",
+      "支持向量机",
+      "集成学习",
+      "深度学习",
+      "网络分析",
+      "规则提取",
+      "类不平衡问题"
+    ],
+    "research_description": "胡忠义副教授主要从事数据科学与机器学习技术、数据分析与数据挖掘、商务智能与应用、自然语言处理等方向的研究。其研究聚焦于数据融合视角下的区间型深度学习预测技术、多源数据融合的恶意网站识别、基于集成学习的电力负荷预测、金融时间序列多步预测等关键问题。研究成果广泛应用于电力负荷预测、金融预测、网络安全（如钓鱼网站识别）、流行病传播分析等领域，已主持国家自然科学基金面上项目、青年项目及中国博士后科学基金等7项科研项目，发表论文60余篇，其中多篇被SCI/SSCI收录，部分入选ESI高被引论文，并授权国家发明专利5项。",
+    "disciplines": [
+      "管理科学与工程",
+      "信息管理",
+      "计算机科学与技术",
+      "电子商务"
+    ],
+    "field_tags": [
+      "机器学习",
+      "数据挖掘",
+      "商务智能",
+      "预测建模",
+      "网络安全",
+      "时间序列分析",
+      "支持向量机",
+      "集成学习",
+      "深度学习",
+      "自然语言处理",
+      "多源数据融合",
+      "智能系统"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Soybean Futures Price Forecasting Using Dynamic Model Averaging: Do the Predictors Change Over Time?",
+        "keywords": [
+          "大豆期货价格预测",
+          "动态模型平均",
+          "预测因子时变性"
+        ],
+        "journal_name": "Emerging Markets Finance and Trade",
+        "research_fields": [
+          "金融预测",
+          "时间序列分析",
+          "机器学习应用"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Identification of phishing websites through hyperlink analysis and rule extraction",
+        "keywords": [
+          "钓鱼网站识别",
+          "超链接分析",
+          "规则提取"
+        ],
+        "journal_name": "The Electronic Library",
+        "research_fields": [
+          "网络安全",
+          "数据挖掘",
+          "恶意行为检测"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Malicious Web Domain Identification using Online Credibility and Performance Data by Considering the Class Imbalance Issue",
+        "keywords": [
+          "恶意域名识别",
+          "在线信誉",
+          "性能数据",
+          "类别不平衡"
+        ],
+        "journal_name": "Industrial Management & Data Systems",
+        "research_fields": [
+          "商务智能",
+          "数据挖掘",
+          "机器学习"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Profit guided or statistical error guided? A study of stock index forecasting using support vector regression",
+        "keywords": [
+          "股票指数预测",
+          "支持向量回归",
+          "利润导向 vs 统计误差导向"
+        ],
+        "journal_name": "Journal of Systems Science and Complexity",
+        "research_fields": [
+          "金融预测",
+          "机器学习",
+          "优化算法"
+        ],
+        "publication_year": 2017
+      },
+      {
+        "title": "Mid-term Interval Load Forecasting using Multi-output Support Vector Regression with a Memetic Algorithm for Feature Selection",
+        "keywords": [
+          "中期区间负荷预测",
+          "多输出支持向量回归",
+          "膜算法特征选择"
+        ],
+        "journal_name": "Energy",
+        "research_fields": [
+          "电力负荷预测",
+          "区间预测",
+          "智能优化"
+        ],
+        "publication_year": 2015
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=Z3X5ZqkAAAAJ&hl=en"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Zhongyi-Hu"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "中国博士后科学基金特别资助项目",
+      "中国博士后科学基金面上项目",
+      "湖北省自然科学基金面上项目",
+      "国家重点研发计划课题",
+      "中央高校基本科研业务费专项资金项目",
+      "武汉大学自主科研项目",
+      "教育部产学合作协同育人项目",
+      "武汉大学数智教育专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金会",
+      "湖北省自然科学基金",
+      "国家重点研发计划",
+      "中央高校基本科研业务费专项资金",
+      "教育部",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 胡忠义\n页面链接: http://jszy.whu.edu.cn/huzhongyi/zh_CN/index.htm\n==================================================\n武汉大学 胡忠义--中文主页--首页\nEnglish\n中文\n胡忠义\n首页\n科学研究\n研究领域\n教学研究\n授课信息\n招生信息\n微信扫描\n个人信息\n1\n硕士生导师\n教师英文名称：Zhongyi Hu\n电子邮箱：\n学历：博士研究生毕业\n办公地点：SIM 514\n性别：男\n职称：副教授\n所属院系：\n信息管理学院\n学科：\n个人简介\n胡忠义，男，管理学博士，副教授，武汉大学电子商务研究与发展中心副主任。2009年获哈尔滨工业大学管理学学士学位，2012年、2015年分别获华中科技大学管理学硕士和博士学位。2015年7月到武汉大学信息管理学院工作，并在武汉大学管理科学与工程博后流动站从事博士后研究；2016年底受澳大利亚纽卡斯尔大学资助赴该校开展短期合作与交流；2017年至2018年赴澳大利亚悉尼大学商学院开展为期一年的博士后研究与交流。\n主持国家自科基金面上项目和青年项目、中国博士后科学基金特别资助项目和面上项目、湖北省自科基金面上项目、武汉大学自主科研项目等7项，参与国家重点研发计划项目、国家高端智库项目、国家自科基金面上项目、教育部人文社会科学研究项目等多项科研项目。目前，已在国内外重要期刊和会议上发表学术论文60余篇（近半数被SCI/SSCI数据库收录，多篇论文曾/入选ESI高被引论文），授权国家发明专利5项，出版专著1部、教材1部。曾获湖北省高等学校人文社科优秀成果二等奖、第十届湖北省社会科学优秀成果奖三等奖、Young Scholar Award（The 2nd International Conference on FEFS）、Outstanding Reviewer of Applied Soft Computing、International Research Visiting Fellowship (UON)、BIFE2019优秀论文、武汉大学优秀教学研究论文一等奖等。目前担任国际EI期刊Journal of Systems and Information Technology副主编、湖北省电子商务学会理事，并担任多个国际SCI/SSCI期刊和国内权威期刊的评审专家。\nEmail: Zhongyi.Hu<>whu.edu.cn (将<>替换为@)\n研究方向与兴趣：\n数据科学与机器学习技术、数据分析与数据挖掘、商务智能与应用、自然语言处理\n（欢迎对相关方向感兴趣的本科生与研究生参与课题研究）\n开设课程：\n本科生：商务智能、商务数据分析、Python语言、Python语言（实验）\n研究生：机器学习理论与实践、Applied Machine Learning\n代表性学术成果：(More in Google Scholar, ResearchGate)\n【教材与专著】\n[1]     胡忠义 著. 基于计算智能技术的电力负荷预测理论及应用, 武汉大学出版社, 武汉, 2019.01, ISBN: 978-7-307-20613-7. （专著）\n[2] 吴江，胡忠义，万欣，商务智能理论与实践，电子工业出版社，2022.09, ISBN: 9787121439599\n【部分论文】\n[2]     Xiong Tao, Zhongyi Hu*. Soybean Futures Price Forecasting Using Dynamic Model Averaging: Do the Predictors Change Over Time? Emerging Markets Finance and Trade, 2021,75(4):1198-1214.\n[3]     Chaoqun Wang, Zhongyi Hu*, Raymond Chiong, Yukun Bao, Jiang Wu. Identification of phishing websites through hyperlink analysis and rule extraction, The Electronic Library, 2020, Vol. 38 No. 5/6, pp. 1073-1093.\n[4]     胡忠义, 王超群, 陈远, 吴江, 鲍玉昆. 基于多分类器动态集成的P2P违约风险评估.管理学报, 2019, 16(6): 915-922.\n[5]     Zhongyi Hu, Raymond Chiong, Ilung Pranata, Yukun Bao, and Yuqing Lin. Malicious Web Domain Identification using Online Credibility and Performance Data by Considering the Class Imbalance Issue, Industrial Management & Data Systems, 119 (3) (2019), 676-696.\n[6]     胡忠义，王超群，吴江，陈远. 基于链接分析和规则分类的恶意网站识别技术研究. 信息资源管理学报, 2019, 9(1): 105-113, 127.\n[7]     胡忠义, 李雅, 吴江, 张毅铖, 赵杨. 基于招聘信息的商务智能人才需求分析与启示. 信息资源管理学报, 2019, 9(3), 111-118.\n[8]     胡忠义, 王超群, 吴江. 融合多源网络评估数据及URL特征的钓鱼网站识别技术研究. 数据分析与知识发现, 2017, 1 (6): 47-55.\n[9]     Zhongyi Hu, Yukun Bao, Raymond Chiong, Tao Xiong. Profit guided or statistical error guided? A study of stock index forecasting using support vector regression. Journal of Systems Science and Complexity, 2017, 30(6): 1425-1442.\n[10]  Zhongyi Hu, Yukun Bao, Raymond Chiong, Tao Xiong. Mid-term Interval Load Forecasting using Multi-output Support Vector Regression with a Memetic Algorithm for Feature Selection. 2015, Energy, 84:419-431.\n[11]  Zhongyi Hu, Yukun Bao, Tao Xiong, Raymond Chiong. Hybrid Filter-Wrapper Feature Selection for Short-Term Load Forecasting, Engineering Applications of Artificial Intelligence, 2015, 40:17-27.\n[12]  Zhongyi Hu, Yukun Bao, Tao Xiong. Comprehensive Learning Particle Swarm Optimization based Memetic Algorithm for Model Selection in Short-term Load Forecasting using Support Vector Regression. Applied Soft Computing 09/2014; 25:15-25.\n[13]  Yukun Bao, Zhongyi Hu, Tao Xiong. A PSO and Pattern Search based Memetic Algorithm for SVMs Parameters Optimization. Neurocomputing 10/2013; 117:98-106.\n[14]  Yukun Bao, Tao Xiong, Zhongyi Hu. PSO-MISMO Modeling Strategy for MultiStep-Ahead Time Series Prediction. IEEE Transactions on Systems Man and Cybernetics Part B (Cybernetics) 07/2013\n[15]  Tao Xiong, Yukun Bao, Zhongyi Hu. Multiple-output support vector regression with a firefly algorithm for interval-valued stock price index forecasting. Knowledge-Based Systems 01/2014; 55:87–100.\n[16]  Tao Xiong, Yukun Bao, Zhongyi Hu. Beyond One-Step-Ahead Forecasting: Evaluation of Alternative Multi-Step-Ahead Forecasting Models for Crude Oil Prices. Energy Economics 07/2013; 40:405-415.\n[17]  Zhongyi Hu, Yukun Bao, Tao Xiong. Electricity load forecasting using support vector regression with memetic algorithms. The Scientific World Journal 12/2013; 2013:292575.\n科研项目:\n7）国家自然科学基金面上项目，数据融合视角下的区间型深度学习预测技术及其应用研究，主持\n6)   湖北省自然科学基金面上项目，主持\n5）国家重点研发计划课题，乡村文化旅游云服务技术集成与应用示范，骨干成员\n4）国家自然科学基金青年项目，基于集成学习的区间型电力负荷预测技术研究，主持\n3）中国博士后科学基金特别资助项目，基于多源数据融合的恶意网站模式分析与识别技术研究，主持\n2）中国博士后科学基金资助项目，基于多输出支持向量机的区间型电力负荷预测研究，主持\n1）中央高校基本科研业务费专项资金，基于多输出支持向量机的金融时间序列多步预测研究，主持\n教改项目：\n3）武汉大学数智教育专项，数智教育建设：数据挖掘\n2）2023年武汉大学教改项目，产学研用视角下的《商务智能》课程建设研究，主持\n1）教育部产学合作协同育人项目（合作单位：阿里云），商务智能与大数据分析实践，主持\n社会兼职：\n6）Associate Editor（副主编）, Journal of Systems and Information Technology （EI期刊）\n5）武汉大学电子商务研究与发展中心副主任\n4）中国系统工程学会数据科学与知识系统工程专业委员会委员，2024-\n3）中国电子信息行业联合会数字经济专委会，2023-至今\n2）湖北省电子商务学会理事\n1）国际SCI/SSCI期刊评审专家：IEEE Transactions on Cybernetics、Information Science、Engineering Applications of Artificial Intelligence、Knowledge-based Systems、Applied Soft Computing、Neurocomputing、Neural Computing & Applications、Information Processing and Management等\n专利与软著：\n9）一种企业数字化术语库构建方法及系统, 专利号ZL202311666252.3\n8）一种融合多平台多终端搜索指数的客流预测方法及系统，专利号ZL202110315248.7\n7）一种流行病传播分析方法及系统,专利号ZL202110402578.X\n6）一种融合多源数据的钓鱼网站识别方法及系统，专利号ZL202110321608.4\n5）一种融合会话场景信息的微信群聊天记录识别方法及系统, 专利号ZL 202110547942.1\n4) 以图搜村系统V1.0，202304，软著登记号2023SR0439931\n3）景区综合监测系统V1.0, 2021.02, 软著登记号2021SR03773\n2）作业管理系统V1.0，2020.08， 软著登记号2020SR0962017\n1）时序预测系统，2015\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n[1].数据科学与机器学习技术、数据分析与数据挖掘、商务智能与应用、自然语言处理 （欢迎对相关方向感兴趣的本科生与研究生参与课题研究）\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

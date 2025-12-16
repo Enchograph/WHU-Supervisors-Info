@@ -1,0 +1,246 @@
+{
+  "id": "cuidan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/cuidan/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "崔丹",
+    "english_name": "Cui Dan",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "社会医学与卫生事业管理（全球健康）系",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "儿少卫生与妇幼保健学",
+        "school": "华中科技大学同济医学院",
+        "period": "2002.09-2007.07",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "临床医学",
+        "school": "武汉大学医学院",
+        "period": "1992.09-1997.06",
+        "country": "中国"
+      },
+      {
+        "degree": "访问学者",
+        "field": "公共卫生",
+        "school": "美国夏威夷大学公共卫生研究中心",
+        "period": "2008.10-2009.02",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "华中科技大学同济医学院",
+    "academic_honors": [
+      "2018年‘湖北农村健康服务体系评价’获湖北省科技厅省科技进步奖二等奖",
+      "2011年国家‘十一五’科技支撑项目‘避孕节育技术综合评价研究’获原国家人口计生委优秀科技成果二等奖",
+      "2011年‘湖北省农村健康保障研究’获湖北省政府发展研究三等奖"
+    ],
+    "academic_services": [
+      "参编人卫社国家卫计委‘十三五’规划教材《老龄化与全球健康》",
+      "参编人卫社《‘健康中国2030’规划纲要指标解析》",
+      "参编人卫社国家卫计委‘十二五’规划教材《妇幼卫生管理学》",
+      "副主编人卫社国家卫计委‘十二五’规划教材《卫生保健伦理学》"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "医疗保障政策研究",
+      "国家药物政策研究",
+      "老年认知功能障碍研究",
+      "长期照料研究"
+    ],
+    "research_interests": [
+      "基本药物制度",
+      "药品集中采购",
+      "药物经济学评价",
+      "卫生公平性",
+      "老年健康促进",
+      "社区健康研究",
+      "耐药菌感染负担",
+      "医保支付方式",
+      "长期照护保险"
+    ],
+    "research_description": "崔丹副教授主要从事医疗保障政策、国家药物政策、老年认知功能障碍及长期照料等领域的研究。主持多项国家级、省部级及国际合作项目，涵盖基本药物制度评价、国家药物价格谈判准入标准、药品集中采购政策、罕见病用药保障、基层卫生服务能力、卫生公平性、老年健康促进及耐药菌感染疾病负担等议题。研究成果发表于BMC Public Health、Frontiers in Public Health、Journal of Hospital Infection等国际期刊，参与编写多部国家级规划教材，致力于推动中国卫生政策优化与全球健康治理。",
+    "disciplines": [
+      "社会医学与卫生事业管理",
+      "全球健康",
+      "公共卫生"
+    ],
+    "field_tags": [
+      "医疗保障",
+      "药物政策",
+      "老年健康",
+      "长期照护",
+      "基本药物",
+      "药品采购",
+      "药物经济学",
+      "卫生公平",
+      "社区研究",
+      "健康促进"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 22,
+    "representative_publications": [
+      {
+        "title": "Influence of Chinese National Centralized Drug Procurement on the price of policy-related drugs: an interrupted time series analysis",
+        "keywords": [
+          "国家集中采购",
+          "药品价格",
+          "中断时间序列分析",
+          "中国",
+          "政策评估"
+        ],
+        "journal_name": "BMC Public Health",
+        "research_fields": [
+          "卫生政策研究",
+          "药物经济学",
+          "医疗保障体系"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "The Effects of the National Centralized Drug Purchasing Pilot Program on Nucleos(t)ide Analogs in Shenzhen City: An Interrupted Time Series Analysis",
+        "keywords": [
+          "国家集中采购",
+          "核苷（酸）类药物",
+          "深圳",
+          "中断时间序列分析",
+          "药品可及性"
+        ],
+        "journal_name": "Frontiers in Public Health",
+        "research_fields": [
+          "公共卫生",
+          "药物政策",
+          "医疗改革"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Socioeconomic status, social capital, health risk behaviors, and health-related quality of life among Chinese older adults",
+        "keywords": [
+          "老年人",
+          "社会经济地位",
+          "社会资本",
+          "健康相关生活质量",
+          "中国"
+        ],
+        "journal_name": "Health and Quality of Life Outcomes",
+        "research_fields": [
+          "老年健康",
+          "社会医学",
+          "健康公平性"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Direct medical burden of antimicrobial-resistant healthcare-associated infections: empirical evidence from China",
+        "keywords": [
+          "耐药菌",
+          "医院感染",
+          "疾病负担",
+          "中国",
+          "医疗成本"
+        ],
+        "journal_name": "Journal of Hospital Infection",
+        "research_fields": [
+          "感染控制",
+          "公共卫生",
+          "抗菌药物管理"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Use of and microbial resistance to antibiotics in China: a path to reducing antimicrobial resistance",
+        "keywords": [
+          "抗生素使用",
+          "耐药性",
+          "中国",
+          "抗菌药物管理",
+          "公共卫生"
+        ],
+        "journal_name": "Journal of International Medical Research",
+        "research_fields": [
+          "抗菌药物耐药",
+          "药物政策",
+          "全球健康"
+        ],
+        "publication_year": 2017
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学中文主页",
+        "url": "http://jszy.whu.edu.cn/cuidan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973",
+      "863",
+      "国家卫生计生委项目",
+      "财政部项目",
+      "湖北省科技厅项目",
+      "湖北省人社厅项目",
+      "湖北省妇联项目",
+      "武汉市卫计委项目",
+      "深圳市政府项目",
+      "英国繁荣基金项目",
+      "比尔及梅琳达·盖茨基金会项目",
+      "美国NIH项目",
+      "企业委托项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "973",
+      "863",
+      "国家卫生计生委",
+      "财政部",
+      "湖北省科技厅",
+      "湖北省人社厅",
+      "湖北省妇联",
+      "武汉市卫计委",
+      "深圳市政府",
+      "英国大使馆繁荣基金",
+      "比尔及梅琳达·盖茨基金会",
+      "美国NIH",
+      "拜耳制药有限公司",
+      "罗氏制药有限公司",
+      "宜昌人福集团",
+      "绿叶集团",
+      "湖北省医疗保险研究会",
+      "湖北省卫健委",
+      "仙桃市卫健委"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 崔丹\n页面链接: http://jszy.whu.edu.cn/cuidan/zh_CN/index.htm\n==================================================\n武汉大学 崔丹--中文主页--首页\nEnglish\n中文\n崔丹\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n微信扫描\n个人信息\n1\n硕士生导师\n教师英文名称：Cui Dan\n出生日期：1974-05-16\n电子邮箱：\n入职时间：2007-07-01\n学历：研究生毕业\n性别：女\n职称：副教授\n在职信息：在职\n所属院系：\n公共卫生学院\n学科：\n个人简介\n主要研究方向为医疗保障政策研究、国家药物政策研究、老年认知功能障碍及长期照料研究等。主持原国家卫生计生委、财政部、湖北省人社厅、湖北省妇联、武汉市卫计委、深圳市政府、英国繁荣基金等科研项目多项，参与美国NIH、原国家人口计生委项目多项。内容涉及中国医疗保障体系完善、基本药物制度及其评价、国家药物政策评估、基层卫生服务能力、卫生公平性老年健康及老年健康促进的社区研究等。参与2015年首轮国家药物价格谈判的准入标准研究工作。主讲本科生、研究生课程《老龄化与全球健康》、《全球妇幼健康》、《社会医学》、《卫生事业管理学》、《科研设计与论文撰写》等。\n2018年作为编者和秘书参编人卫社国家卫计委“十三五”规划教材《老龄化与全球健康》和人卫社《“健康中国2030”规划纲要指标解析》，2014年作为编者和秘书参编人卫社国家卫计委“十二五”规划教材《妇幼卫生管理学》，2013年作为副主编编撰了人卫社国家卫计委“十二五”规划教材《卫生保健伦理学》。2016年“湖北农村健康服务体系评价”获湖北省科技厅省科技进步奖二等奖；2011年国家“十一五”科技支撑项目“避孕节育技术综合评价研究”获原国家人口计生委优秀科技成果二等奖，2011年“湖北省农村健康保障研究”获湖北省政府发展研究三等奖。\n一、教育背景\n2008.10-2009.02，美国夏威夷大学公共卫生研究中心，访问学者；\n2002.09-2007.07 ，华中科技大学同济医学院，公共卫生学院儿少卫生与妇幼保健学，博士；\n1992.09-1997.06， 武汉大学医学院，临床医学专业，学士。\n二、工作经历\n2016.07 至今 ，武汉大学社会医学与卫生事业管理（全球健康）系，副教授，硕士生导师；\n2016.07 至今 ，武汉大学全球健康研究中心，研究员。\n三、研究方向\n医疗保障政策研究、国家药物政策研究、老年认知功能障碍及长期照料研究等。\n四、科研项目\n1. 主持拜耳制药有限公司委托《基于真实世界的基本药物综合评价体系研究》,30万元,2020/06-2021/06；\n2. 主持罗氏制药有限公司委托《湖北省罕见病用药医疗保障政策体系研究》,30万元,2020/06-2021/06；\n3. 主持湖北省卫健委委托《湖北省基本药物政策实施现状和发展路径研究》,8万元,2020/09-2021/09；\n4. 主持仙桃市卫健委委托《仙桃市“十四五”卫生健康服务体系规划研究》,10万元,2020/10-2021/03；\n5. 主持宜昌人福集团委托《冬凌草滴丸药物经济学评价研究》,10万元,2019/09-2019/11；\n6. 主持绿叶集团委托《紫杉醇脂质体药物经济学评价研究》,10万元,2019/08-2019/09；\n7. 主持财政部（委托国家卫健委卫生发展研究中心管理）《公共卫生机构运行机制和财政投入政策研究》,15万元，2019/05-2020/05；\n8. 共同主持《完善中国医疗保障体系研究》,比尔及梅琳达.盖茨基金会项目,6.1万美元（总额50万美元）,2018/10-2019/12；\n9. 主持《湖北省有关药品医保管理的实施方案研究》,湖北省医疗保险研究会委托项目,30万元,2017/07-2017/10；\n10. 主持《基本药物“六统一”操作性研究》,国家卫生计生委药政司项目,8万元,2016/06-2017/05；\n11. 主持《基本医疗卫生法》公共卫生服务章节立法研究,国家卫生计生委法制司项目,8万元,2015/01-2016/01；\n12. 共同主持《耐药菌医院感染相关疾病负担研究（Estimating the disease burden attributable to healthcare associated infections (HAIs) with antimicrobial resistant (AMR) bacteria in China, UK-China Prosperity Fund.）》,英国大使馆繁荣基金项目,1.6万英镑（占20%，总额8万英镑）,2015/10-2016/10；\n13. 主持《轻度认知障碍老年人社会支持的影响机制研究》,湖北省自然科学基金,湖北省科技厅资助3万元,2015/06-2016/06。\n五、学术论文（第一作者或通讯作者）：\n1. Ni Wang , Ying Yang, Luxinyi Xu, Zongfu Mao, Cui Dan*. Influence of Chinese National Centralized Drug Procurement on the price of policy-related drugs: an interrupted time series analysis. BMC Public Health. 2021 Oct 19;21(1):1883. DOI: 10.1186/s12889-021-11882-7.\n2. Xiaotong Wen, Shicheng Yin, Lanyue Cui, Lining Mao, Zhaoyu Lin, Zilalai Yaermaimaiti, Xin Geng, Yingxia Li, Ying Yang, Dan Cui*, Zongfu Mao*.The Effects of the National Centralized Drug Purchasing Pilot Program on Nucleos(t)ide Analogs in Shenzhen City: An Interrupted Time Series Analysis. Frontiers in Public Health. 2021 Oct 25;9:718013. DOI: 10.3389/fpubh.2021. 718013. eCollection 2021.\n3. Yang Y, Wang S, Chen L, Luo M, Xue L, Cui D*, Mao Z. Socioeconomic status, social capital, health risk behaviors, and health-related quality of life among Chinese older adults. Health and Quality of Life Outcomes. 2020;18:291. DOI：10.1186/s12955-020-01540-8\n4. Liu Xinliang1, Cui Dan*, Li Hao, et al. Direct medical burden of antimicrobial-resistant healthcare-associated infections: empirical evidence from China. Journal of Hospital Infection. 2020 Jan 10. pii: S0195-6701(20)30005-0. DOI: 10.1016/j.jhin.2020.01.003.\n5. Dan Cui, Xinliang Liu, Peter Hawkey, Hao Li, Quan Wang, Zongfu Mao, Jin Sun. Use of and microbial resistance to antibiotics in China: a path to reducing antimicrobial resistance[J]. Journal of International Medical Research, 2017, 45(6): 1768-1778.DOI：10.1177/0300060516686230\n6. 杨赐然,崔丹.医改重点工作任务分解下部门协作层级对比研究——社会网络分析的视角[J].中国卫生政策研究,2021,14(12):34-41.\n7. 何玉华,崔丹,张欲晓,许蜜.我国15个试点城市长期照护保险政策比较分析.中国社会医学杂志. 2021;38(2):126-129.\n8. 彭宏宇,李琛,吴玉攀,罗密,崔丹*,冯友梅,毛宗福.利益相关者视角下我国医保支付方式政策研究.中国医院管理. 2019;39(6):31-34.\n9. 张睿智,乔家骏,毛宗福,崔丹*.我国公立医疗机构药品集中采购现状评述.药物流行病学杂志.2019;28(3):199-204.\n10. 李琛,刘艺敏,王文杰,崔丹*,张欲晓,殷潇.我国药品集中采购工作回顾与展望.中国医院管理.2018;38(9):17-20.\n11. 罗密,王文杰,彭宏宇,李琛,孙杨,毛宗福,冯友梅, 崔丹*. 贵州省新型农村合作医疗运行情况分析.中国卫生经济.2018;37(8):36-38.\n12. 彭宏宇,王文杰,罗密,李琛,孙杨,毛宗福,冯友梅, 崔丹*. 云南省新型农村合作医疗保险基金运行效率分析.中国卫生经济.2018;37(8):39-41.\n13. 李果,毛宗福,王全,崔丹*.基于利益相关者分析的湖北省贫困县“两癌”免费检查管理模式研究.现代预防医学.2018;45(14):2581-2584.\n14. 李琛,王文杰,肖琳琪,崔丹*,张欲晓,殷潇.我国国家基本药物制度实施现状评述.中国医院管理. 2018,38(6):28-31.\n15. 李晓力,刘明瑜,程亮,朱宏飞,尚姝环,崔丹*.口腔健康促进项目对养老院老年人牙周健康和生活质量的影响.上海口腔医学.2018;27(3):285-288.\n16. 李琛,崔丹*,彭宏宇,张欲晓,殷潇,侯宜坦.谈判药品纳入医保管理的实践研究.中国医院管理.2018;38(5):39-41.\n17. 王文杰,李琛,张欲晓,毛宗福,崔丹*.崇左市贫困地区23家农村基层医疗卫生机构基本药物使用情况调查. 中国药房.2018;29(10):1297--1300.\n18. 李晓力,刘明瑜,程亮,朱宏飞,尚姝环,崔丹*.综合健康教育对养老院老年人口腔保健知识、态度和行为的影响.上海口腔医学.2018;27(2):181-184.\n19. 王文杰,肖琳琪,李琛,崔丹*,方欣,张欲晓,杨晓珊,殷潇.我国中西部三省（自治区）贫困边远地区农村基层医疗卫生机构基本药物使用状况.中国卫生资源,2017,20(6):490-5.\n20. 胡江蔺,刘雪云,张欲晓,田梦媛,方欣,殷潇,崔丹*.基于PSQ-18量表的居民社区卫生服务满意度及影响因素研究.现代预防医学,2017,44(11):1991-1995.\n21. 肖琳琪,王文杰,李琛,方欣,张欲晓,崔丹*,傅昌,毛宗福.我国中西部三省（自治区）贫困边远地区农村基层医疗卫生机构处方医生对基本药物制度的知信行调查.中国卫生资源,2017,20(6):495-8.\n22. 田梦媛,崔丹*,张欲晓,殷潇,方欣,胡江蔺.3种抗肿瘤靶向药物的可负担性评价.中国药房.2017;28(20):2746-9.\n六、有关著作\n1. 冯友梅,吴蓓主编.老龄化与全球健康-国家卫生计生委“十三五规划教材”.2018.北京:人民卫生出版社.（参编并任秘书）\n2. 杜玉开,徐勇主编.《“健康中国2030”规划纲要》指标解析.2018.北京:人民卫生出版社.（参编并任秘书）\n3. 李立明总主编,编者丁元林,于雅琴,王红,王波,王蓓,崔丹,等.流行病学（第二十四章多元统计在流行病学中的应用）,人民卫生出版社,1869千字（24千字），2015\n4. 杜玉开,刘毅主编.妇幼卫生管理学—国家卫生计生委“十二五”规划教材.2014.北京：人民卫生出版社.（参编并任秘书）\n5. 佟子林主编,邹宇华,崔丹副主编.卫生保健伦理学—国家卫计委“十二五”规划教材.2013.北京:人民卫生出版社.\n6. 毛宗福,姜潮主编.管理流行病学—国家卫计委“十二五”规划教材.2013.北京:人民卫生出版社.（秘书）\n7. 胡良平主编.正确实施科研设计与统计分析——统计学三型理论在生物医学领域中的应用与发展.2011. 人民军医出版社.(参编)\n8. 胡良平主编.医学统计学——运用三型理论进行现代回归分析.2010.人民军医出版社.(参编)\n9. 李晓松主编.医学统计学——“十一五”国家级规划教材（第二版）.2008.高等教育出版社. (参编)\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

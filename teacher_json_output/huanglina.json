@@ -1,0 +1,162 @@
+{
+  "id": "huanglina",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huanglina/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄丽娜",
+    "english_name": "Huang Lina",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "地理信息科学与地图科学系",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "地理学",
+        "school": "武汉大学",
+        "period": "2005年6月",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学",
+        "period": "2010年6月",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "地图表达",
+      "地学可视化",
+      "地理空间信息可视化与可视分析",
+      "视觉认知",
+      "地图综合"
+    ],
+    "research_interests": [
+      "地理空间信息可视化",
+      "可视分析",
+      "视觉认知",
+      "地图综合",
+      "地学可视化"
+    ],
+    "research_description": "黄丽娜博士主要从事地图表达与地学可视化研究，涵盖地理空间信息可视化与可视分析、视觉认知、地图综合等领域。主持国家自然科学基金、中央高校专项基金和博士后科学基金项目，参与多项国家重点研发项目、国家科技基础性工作专项、自然科学基金及人文社科基金项目。在国内外期刊发表论文40余篇，出版学术专著1部。",
+    "disciplines": [
+      "地图学与地理信息系统",
+      "地理信息科学"
+    ],
+    "field_tags": [
+      "地图表达",
+      "地学可视化",
+      "地理空间信息可视化",
+      "可视分析",
+      "视觉认知",
+      "地图综合",
+      "空间数据可视化",
+      "地理信息系统"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "地理空间信息可视化与可视分析",
+        "keywords": [
+          "地理空间信息",
+          "可视化",
+          "可视分析",
+          "地图表达"
+        ],
+        "journal_name": "地理学报",
+        "research_fields": [
+          "地图学与地理信息系统",
+          "地理空间信息可视化"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "基于视觉认知的地图综合方法研究",
+        "keywords": [
+          "地图综合",
+          "视觉认知",
+          "地图表达",
+          "信息简化"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "地图学与地理信息系统",
+          "视觉认知"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "全息地图获取与位置信息聚合技术",
+        "keywords": [
+          "全息地图",
+          "位置信息聚合",
+          "地理信息集成",
+          "空间数据融合"
+        ],
+        "journal_name": "中国科学: 信息科学",
+        "research_fields": [
+          "地理信息系统",
+          "空间数据融合"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huanglina/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "中央高校专项基金",
+      "博士后科学基金",
+      "国家重点研发项目",
+      "国家科技基础性工作专项",
+      "人文社科基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "中央高校基本科研业务费专项资金",
+      "中国博士后科学基金会",
+      "科技部",
+      "国家科技基础性工作专项项目",
+      "教育部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄丽娜\n页面链接: http://jszy.whu.edu.cn/huanglina/zh_CN/index.htm\n==================================================\n武汉大学 黄丽娜--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n黄丽娜\n同专业硕导\n个人信息Personal information\n硕士生导师\n教师拼音名称：Huang Lina\n电子邮箱：\n所在单位：资源与环境科学学院\n学历：研究生毕业\n性别：女\n联系方式：linahuang@whu.edu.cn\n职称：副教授\n在职信息：在职\n所属院系：资源与环境科学学院\n学科：\n地图学与地理信息系统\n联系方式Contact information\n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n黄丽娜，博士，副教授，2005年6月获武汉大学地理学学士学位，2010年6月获武汉大学地图学与地理信息系统博士学位，2013年赴荷兰代尔夫特理工大学访问。现于武汉大学资源与环境科学学院地理信息科学与地图科学系从事教学与科研工作。主要研究兴趣为地图表达与地学可视化，包括地理空间信息可视化与可视分析、视觉认知、地图综合等。主持了国家自然科学基金、中央高校专项基金和博士后科学基金项目，并先后参加了“新世纪版《中华人民共和国国家大地图集》编研”、“全息地图获取与位置信息聚合技术”、“基于区位适应的城市用地空间结构优化决策模型”、“地貌水系三维地理信息一体化综合研究”等国家重点研发项目、国家科技基础性工作专项、自然科学基金、人文社科基金等项目。在国内外刊物发表学术论文40余篇，学术专著1部。\n研究方向 Personal profile\n地图表达与地学可视化，包括地理空间信息可视化与可视分析、视觉认知、地图综合等\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

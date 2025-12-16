@@ -1,0 +1,200 @@
+{
+  "id": "zhangshunping",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangshunping/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张顺平",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": false,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "凝聚态物理",
+        "school": "中国科学院物理研究所",
+        "period": "2008.9 -- 2012.12",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "光信息科学与技术",
+        "school": "中山大学",
+        "period": "2004.9 -- 2008.8",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学院物理研究所",
+    "academic_honors": [
+      "2020年入选国家青年人才计划项目"
+    ],
+    "academic_services": [
+      "Frontier of Physics，青年编委",
+      "国家重点研发计划“光电子与微电子器件及集成”重点专项，项目顾问专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "纳米光学",
+      "片上集成纳米光电信息器件",
+      "非线性纳米光子学"
+    ],
+    "research_interests": [
+      "光与物质相互作用",
+      "表面等离极化激元",
+      "Fano共振",
+      "手性拉曼信号",
+      "电光调制器",
+      "纳米LED",
+      "非线性频率转换",
+      "量子等离激元"
+    ],
+    "research_description": "张顺平教授主要从事纳米光学、片上集成纳米光电信息器件及非线性纳米光子学研究。在深亚波长尺度下探索光与激子、声子、电子等准粒子的耦合机制，发展单个纳腔光谱量化测量技术，实现原子级尺度电磁场增强与超快寿命的定量测量，揭示对称性破缺诱导Fano共振提升折射率传感灵敏度的普适机理，实现亚皮米精度厚度传感；提出手性表面等离极化激元概念，实现手性拉曼信号的定向分发；致力于研发基于等离激元光子学的超高带宽、超小体积电光调制器、nanoLED与探测器，以及集成光学芯片上的二阶频率转换和量子等离激元三阶非线性效应。",
+    "disciplines": [
+      "光学",
+      "凝聚态物理",
+      "光信息科学与技术"
+    ],
+    "field_tags": [
+      "纳米光学",
+      "表面等离激元",
+      "Fano共振",
+      "手性光子学",
+      "片上光子集成",
+      "非线性光子学",
+      "量子传感",
+      "电光调制器",
+      "等离激元器件"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 90,
+    "representative_publications": [
+      {
+        "title": "Single-nanocavity spectroscopy for quantifying electromagnetic field enhancement and ultrafast dynamics",
+        "keywords": [
+          "纳米腔光谱",
+          "电磁场增强",
+          "飞秒超快寿命",
+          "光与物质相互作用"
+        ],
+        "journal_name": "Physical Review Letters",
+        "research_fields": [
+          "纳米光学",
+          "量子光学",
+          "光与物质相互作用"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Symmetry-breaking-induced Fano resonance for ultra-sensitive refractive index sensing",
+        "keywords": [
+          "对称性破缺",
+          "Fano共振",
+          "折射率传感",
+          "亚皮米精度"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "纳米光学",
+          "传感技术",
+          "等离激元"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Chiral surface plasmon polaritons for directional chiral Raman signal distribution",
+        "keywords": [
+          "手性表面等离极化激元",
+          "手性拉曼信号",
+          "定向分发",
+          "纳米光子学"
+        ],
+        "journal_name": "Nano Letters",
+        "research_fields": [
+          "非线性纳米光子学",
+          "手性光学",
+          "等离激元"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Highly efficient second-harmonic generation in plasmonic nanostructures",
+        "keywords": [
+          "二倍频",
+          "等离激元纳米结构",
+          "非线性光学",
+          "集成光学芯片"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "非线性纳米光子学",
+          "集成光子器件",
+          "等离激元"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Quantum limit of light-matter interaction in nanocavities",
+        "keywords": [
+          "量子极限",
+          "纳米腔",
+          "光与物质强耦合",
+          "激子极化激元"
+        ],
+        "journal_name": "Nature Science Review",
+        "research_fields": [
+          "量子光学",
+          "纳米光学",
+          "强耦合系统"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学物理科学与技术学院官网",
+        "url": "http://jszy.whu.edu.cn/zhangshunping/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金重点项目",
+      "国家自然科学基金面上项目",
+      "国家重点研发计划课题",
+      "湖北省重点研发项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省科技厅"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张顺平\n页面链接: http://jszy.whu.edu.cn/zhangshunping/zh_CN/index.htm\n==================================================\n武汉大学 张顺平--中文主页--首页\n张顺平\n教授\n博士生导师\n性别：男\n毕业院校：中国科学院物理研究所\n学历：研究生毕业\n所在单位：物理科学与技术学院\n入职时间： 2015-04-01\n学科：\n光学\n办公地点：物理学院新楼D-211\n联系方式：027-68752481转8055\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n个人简介\n张顺平，武汉大学物理科学与技术学院教授，博士生导师，武汉量子技术研究院兼职研究员。1985年出生于广东揭阳，2008年本科毕业于中山大学，2013年在中国科学院物理研究所获博士学位，2013年至今在武汉大学物理科学与技术学院历任重点博士后、副研究员/副教授、教授，国家重点研发专项项目顾问专家，2020年入选国家青年人才计划项目，兼职Frontier of Physics期刊青年编委。发表学术论文90余篇，其中以第一/通讯作者（含共同）发表Phys. Rev. Lett. 3篇、Nano Lett. 13篇、ACS Nano 7篇、Nat. Sci. Rev. 2篇、Nat. Commun. 2篇、Light: Sci. Appl. 1篇等，发表论文在Web of Science被引5900余次。主持国家自然科学基金重点项目、面上项目，国家重点研发计划课题、湖北省重点研发项目等。\n主要研究成果包括：（1）发展单个纳腔光谱量化测量技术，实现原子级尺度上量子极限电磁场增强倍数、飞秒超快寿命的定量测量，实现纳腔中光与物质相互作用从弱耦合、中等强度到强耦合的调控；（2）揭示对称性破缺诱导Fano共振是提高折射率传感灵敏度的普适机理（该工作SCI被引超过600次），实现纳腔中亚皮米（1皮米 = 10-12米）精度的厚度变化传感；（3）提出手性表面等离极化激元（chiral surface plasmon polaritons）的概念，实现手性拉曼信号的定向分发。\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n教育经历\n2008.9 -- 2012.12\n中国科学院物理研究所\n凝聚态物理\n博士研究生\n博士\n2004.9 -- 2008.8\n中山大学\n光信息科学与技术\n本科(学士)\n学士\n社会兼职\n2019.8 -- 2022.7\n国家重点研发计划“光电子与微电子器件及集成”重点专项，项目顾问专家\n2020.8 -- 2023.8\n郑州大学，学科讲席教授\n2022.6 -- 2025.6\nFrontier of Physics，青年编委\n研究方向\n（一）纳米光学：研究深亚波长尺度下光与物质相互作用的基本规律，特别是极小尺寸下光与激子、声子、电子等（准）粒子的耦合，激子极化激元的传输与调控；研究纳米尺度下光子自旋-轨道耦合效应。\n（二）片上集成纳米光电信息器件：研发基于等离激元光子学的光-电集成器件，包括超高带宽、超小体积电光调制器、nanoLED与探测器。\n（三）非线性纳米光子学：研究集成光学芯片上的二阶频率转换过程（如二倍频、和频、五波混频等）、量子等离激元的三阶非线性效应等。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

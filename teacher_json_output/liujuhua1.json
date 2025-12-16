@@ -1,0 +1,215 @@
+{
+  "id": "liujuhua1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liujuhua1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘菊华",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "计算机科学与技术",
+        "school": "武汉大学",
+        "period": "2014-07 至 2019-03",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "武汉大学研究生学术创新奖一等奖",
+      "武汉大学研究生学术创新奖二等奖",
+      "首届雷军卓越奖学金（10W）"
+    ],
+    "academic_services": [
+      "AAAI、ACL、EMNLP等人工智能顶级会议SPC/AC"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "计算机视觉",
+      "自然语言处理",
+      "人工智能",
+      "医学影像分析",
+      "大模型训练与应用",
+      "遥感影像智能解译",
+      "文本信息提取与分析"
+    ],
+    "research_interests": [
+      "目标检测",
+      "医学影像智能诊断",
+      "遥感影像解译",
+      "文本检测与识别",
+      "语言模型预训练",
+      "大模型微调",
+      "知识蒸馏",
+      "多模态大模型",
+      "数学推理",
+      "安全大模型",
+      "扩散模型",
+      "变化检测",
+      "方面级情感分析"
+    ],
+    "research_description": "刘菊华教授主要从事计算机视觉、医学影像分析、大模型训练与应用等方向的研究，涵盖目标检测、医学影像智能诊断、遥感影像智能解译、文本信息提取与分析、大模型预训练与微调、知识蒸馏、多模态学习等领域。团队在IEEE TPAMI、IJCV、NeurIPS、CVPR、ICCV、ACL、AAAI、EMNLP等顶刊顶会上发表论文60余篇，提出多项领先方法，如基于SAM的多层次文本分割、稀疏条件文生图、基于扩散模型的字体生成、面向数学推理的大模型应用等。同时，联合京东探索研究院训练了织女V1（15亿参数）和织女V2（60亿参数）语言模型，登顶GLUE和SuperGLUE榜单，并训练多个7B、14B规模的医学语言与多模态大模型，在MedBench评测中表现优异。",
+    "disciplines": [
+      "计算机科学与技术",
+      "软件工程",
+      "人工智能"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "自然语言处理",
+      "大模型",
+      "医学影像分析",
+      "遥感影像解译",
+      "文本识别",
+      "知识蒸馏",
+      "多模态学习",
+      "数学推理",
+      "安全大模型",
+      "扩散模型",
+      "变化检测",
+      "方面级情感分析"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation",
+        "keywords": [
+          "文本分割",
+          "SAM",
+          "层次化分割",
+          "Transformer"
+        ],
+        "journal_name": "IEEE TPAMI",
+        "research_fields": [
+          "计算机视觉",
+          "自然语言处理",
+          "人工智能"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "GoMatching: A Simple Baseline for Video Text Spotting via Long and Short Term Matching",
+        "keywords": [
+          "视频文本检测",
+          "匹配机制",
+          "DeepSolo",
+          "长短期匹配"
+        ],
+        "journal_name": "NeurIPS",
+        "research_fields": [
+          "计算机视觉",
+          "多模态学习",
+          "人工智能"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Diff-Font: Diffusion Model for Robust One-Shot Font Generation",
+        "keywords": [
+          "字体生成",
+          "扩散模型",
+          "One-Shot",
+          "图像生成"
+        ],
+        "journal_name": "IJCV",
+        "research_fields": [
+          "计算机视觉",
+          "生成模型",
+          "人工智能"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Rethink Sparse Signals for Pose-guided Text-to-image Generation",
+        "keywords": [
+          "文生图",
+          "稀疏信号",
+          "姿态引导",
+          "ControlNet"
+        ],
+        "journal_name": "ICCV",
+        "research_fields": [
+          "计算机视觉",
+          "生成模型",
+          "人工智能"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Better Solvers for Math Word Problems",
+        "keywords": [
+          "数学推理",
+          "大模型",
+          "GSM8K",
+          "问题理解"
+        ],
+        "journal_name": "Frontiers of Computer Sciences",
+        "research_fields": [
+          "自然语言处理",
+          "大模型应用",
+          "人工智能"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=wN-rIgIAAAAJ&view_op=list_works"
+      },
+      {
+        "platform": "个人主页",
+        "url": "http://jszy.whu.edu.cn/liujuhua1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中国博士后科学基金",
+      "苏州市产业技术创新专项-前瞻性应用研究项目",
+      "中央高校基本科研业务费专项资金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中国博士后科学基金",
+      "苏州市产业技术创新专项",
+      "中央高校基本科研业务费专项资金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘菊华\n页面链接: http://jszy.whu.edu.cn/liujuhua1/zh_CN/index.htm\n==================================================\n武汉大学 刘菊华--中文主页--首页\nEnglish\n中文\n刘菊华\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n招生信息\n学生信息\n我的相册\n获奖信息\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n学历：博士研究生毕业\n办公地点：武汉大学文理学部计算机学院大楼D407\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：\n计算机学院\n学科：\n计算机科学与技术其他专业\n计算机应用技术\n软件工程其他专业\n个人简介\n刘菊华，武汉大学计算机学院教授，博士生导师。主要从事计算机视觉、医学影像分析、大模型训练与应用等方向研究，在目标检测、医学影像智能诊断、遥感影像智能解译、文本信息提取与分析、大模型等领域积累丰富的研发经验。目前，以第一或通讯作者身份在IEEE TPAMI、IJCV、IEEE TIP、IEEE TKDE、IEEE TASLP、NeurIPS、CVPR、ICCV、ACL、AAAI、IJCAI、ACM MM、EMNLP等国际知名期刊与会议上发表学术论文60余篇。担任AAAI、ACL、EMNLP等人工智能顶级会议SPC/AC。\n近五年主持和参与相关纵向研究课题10余项，其中作为项目/课题负责人主持国家自然科学基金3项、湖北省自然科学基金面上项目1项、中国博士后科学基金1项、苏州市产业技术创新专项-前瞻性应用研究项目1项、中央高校基本科研业务费专项资金项目2项；提出的文本检测与识别方法在ICDAR 2013\\2015\\2019-ArT、Total-Text、CTW1500、SVTP、CUTE80等多个公开数据集上取得目前最优性能；联合京东探索研究院训练大规模语言模型织女V1（2022年1月，参数规模15亿）与织女V2（2022年10月，参数规模60亿），先后登顶国际自然语言理解任务顶级测试GLUE和SuperGLUE榜首；训练多个7B、14B规模的医学语言大模型和医学多模态大模型，其中训练的14B医学语言模型在中文医疗大模型权威评测平台MedBench位列第二，7B医学语言大模型以最少参数规模位列第五（2024年9月）。\nGoogle Scholar: https://scholar.google.com/citations?hl=zh-CN&user=wN-rIgIAAAAJ&view_op=list_works\n课题组每年有多个硕士和博士招生名额，欢迎咨询！尤其欢迎对语言/多模态大模型相关领域感兴趣的同学！\n联系邮箱：liujuhua@whu.edu.cn\n学术动态：\n2025年\n●        博士生宣文杰获批国家自然科学基金青年学生基础研究项目（博士研究生）资助。恭喜文杰！！！\n●        博士生论文“Detect Changes like Humans: Incorporating Semantic Priors for Improved Change Detection”被遥感国际知名期刊IEEE TGRS（CCF B）录用。Github: https://github.com/DREAMXFAR/SA-CDNet（结合语义先验和SAM的变化检测方法）\n●       博士生宣文杰论文“Rethink Sparse Signals for Pose-guided Text-to-image Generation”被计算机视觉顶会ICCV 2025（CCF A）录用。Github: https://github.com/DREAMXFAR/SP-Ctrl（稀疏条件文生图）\n●       博士生钟起煌论文“KaFT: Knowledge-aware Fine-tuning for Boosting LLMs' Domain-specific Question-Answering Performance”被ACL 2025 （CCF A）录用。(大模型微调)\n●       博士生钟起煌、硕士生王康共同一作论文“Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Better Solvers for Math Word Problems”被Frontier of Computer Sciences（CCF B）录用。Github: https://github.com/WHU-ZQH/DUP (大模型应用 - 数学推理)\n2024年\n●        博士生叶茂源论文“Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation”被人工智能顶刊IEEE TPAMI（CCF A）录用。Github：https://github.com/ymy-k/Hi-SAM/(基于SAM的多层次统一文本分割)\n●        博士生钟起煌荣获“武汉大学研究生学术创新奖”一等奖。恭喜起煌！！！\n●        博士生贺海斌、叶茂源共同一作论文“GoMatching: A Simple Baseline for Video Text Spotting via Long and Short Term Matching”被人工智能领域顶会NeurIPS 2024（CCF A）录用。Github: https://github.com/Hxyz-123/GoMatching (基于DeepSolo构建视频text spotting基准)\n●        博士生钟起煌论文“Learning from Imperfect Data: Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL”被自然语言处理领域顶会EMNLP 2023 (CCF B)录用。（大模型部署 - 知识蒸馏）\n●        博士生宣文杰论文“When ControlNet Meets Inexplicit Masks: A Case Study of ControlNet on its Contour-following Ability”被多媒体领域顶会ACM MM 2024（CCF A）录用。Github: https://github.com/DREAMXFAR/Shape-aware-ControlNet（形状感知ControlNet）\n●        博士生贺海斌论文“Diff-Font: Diffusion Model for Robust One-Shot Font Generation”被计算机视觉顶刊IJCV（CCF A）录用。Github: https://github.com/Hxyz-123/Font-diff（基于扩散模型的One-Shot字体生成）\n●        博士生钟起煌论文“ROSE Doesn't Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding”被自然语言处理顶会ACL 2024 （CCF A）录用。Github: https://github.com/WHU-ZQH/ROSE（大模型部署 - 安全）\n●        博士生钟起煌论文“Revisiting Knowledge Distillation for Autoregressive Language Models”被自然语言处理顶会ACL 2024 （CCF A）录用。Github: https://github.com/WHU-ZQH/ATKD（大模型部署 - 知识蒸馏）\n●        博士生论文“RFL-CDNet: Towards Accurate Change Detection via Richer Feature Learning”被模式识别国际知名期刊Pattern Recognition（CCF B）录用。https://github.com/Hhaizee/RFL-CDNet（基于多尺度特征引导的变化检测方法）\n●        博士生钟起煌获首批国家自然科学基金青年学生基础研究项目（博士研究生）资助。恭喜起煌！！！\n●        博士生钟起煌论文“PANDA: Prompt Transfer Meets Knowledge Distillation for Efficient Model Adaptation”被数据挖掘顶刊IEEE TKDE（CCF A）录用。https://github.com/WHU-ZQH/PANDA（大模型微调）\n2023年\n●        硕士生叶茂源荣获“武汉大学研究生学术创新奖”二等奖。恭喜茂源！！！\n●        博士生钟起煌论文“E2S2: Encoding-Enhanced Sequence-to-Sequence Pretraining for Language Understanding and Generation”被数据挖掘顶刊IEEE TKDE（CCF A）录用。https://github.com/WHU-ZQH/E2S2（大模型预训练 - 编码增强）\n●        博士生钟起煌荣获首届“雷军卓越奖学金”（奖金：10W）。恭喜起煌！！！\n●        硕士生朱妙熹、博士生钟起煌共同一作论文“Zero-shot Sharpness-Aware Quantization for Pre-trained Language Models”被自然语言处理领域顶会EMNLP 2023 (CCF B)录用。（大模型部署 - 零样本量化）\n●        博士生宣文杰论文“PNT-Edge: Towards Robust Edge Detection with Noisy Labels by Learning Pixel-level Noise Transitions”被多媒体领域顶会ACM MM 2023（CCF A）录用。Github: https://github.com/DREAMXFAR/PNT-Edge（面向边缘检测的噪音标签学习方法）\n●        一作论文“Unified Instance and Knowledge Alignment Pretraining for Aspect-based Sentiment Analysis”历时两年被国际知名期刊IEEE/ACM TASLP (CCF B)录用。https://github.com/WHU-ZQH/UIKA（方面级情感分析方法）\n●        博士生钟起煌论文“Revisiting Token Dropping Strategy in Efficient BERT Pretraining”被自然语言处理顶会ACL 2023 （CCF A）录用。https://github.com/WHU-ZQH/ScTD（大模型预训练 - Token Dropping预训练）\n●        博士生钟起煌论文“Self-Evolution Learning for Discriminative Language Model Pretraining”被自然语言处理顶会ACL 2023 （CCF A）录用。https://github.com/WHU-ZQH/SE4PLMs（大模型预训练 - 自进化学习）\n●        硕士生叶茂源论文“DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting”被计算机视觉顶会CVPR 2023 （CCF A）录用。https://github.com/ViTAE-Transformer/DeepSolo（基于Transformer的text spotting，Decoder同时输出文本的类别、中心线、外接矩形框、掩码、识别结果）\n●        博士生钟起煌论文“Knowledge Graph Augmented Network Towards Multiview Representation Learning for Aspect-based Sentiment Analysis”被数据挖掘顶刊IEEE TKDE（CCF A）录用。https://github.com/WHU-ZQH/KGAN（方面级情感分析方法）\n●        硕士生叶茂源论文“DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer”被人工智能顶会AAAI 2023（CCF A）录用。https://github.com/ymy-k/DPText-DETR（动态点Query场景文本检测模型DPText-DETR）\n2022年\n●        博士生钟起煌论文“Improving Sharpness-Aware Minimization with Fisher Mask for Better Generalization on Language Models”被自然语言处理领域顶会EMNLP 2022 (CCF B)录用。https://github.com/WHU-ZQH/FSAM4PLM（语言模型优化方法）\n●        硕士生刘佳、宣文杰共同一作论文“An End-to-end Supervised Domain Adaptation Framework for Cross-Domain Change Detection”被模式识别国际知名期刊Pattern Recognition（CCF B）录用。https://github.com/Perfect-You/SDACD（基于监督域适应的变化检测方法）\n●        联合京东探索研究院训练织女v2模型登顶国际复杂语言理解测试SuperGLUE榜首（队名：JDExplore d-team, 2022年10月，参数规模60亿） https://super.gluebenchmark.com/leaderboard\n●        联合京东探索研究院训练织女v1模型登顶国际自然语言理解测试GLUE榜首（队名：JDExplore d-team, 2022年1月，参数规模15亿） https://gluebenchmark.com/leaderboard\n●        硕士生叶健论文“I3CL: Intra-and Inter-Instance Collaborative Learning for Arbitrary-shaped Scene Text Detection”被计算机视觉顶刊IJCV（CCF A）录用。Github: https://github.com/ViTAE-Transformer/I3CL（实例内和实例间协作学习I3CL的任意形状文本检测方法）\n●        博士生何玥论文“Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition”被人工智能顶会AAAI 2022（CCF A）录用。（文本识别方法）\n●        硕士生宣文杰论文“FCL-Net: Towards Accurate Edge Detection via Fine-scale Corrective Learning”被神经网络国际知名期刊Neural Networks（CCF B）录用。Github: https://github.com/DREAMXFAR/FCL-Net（图像边缘检测方法）\n团队成员\n暂无内容\n工作经历\n2022-12····至今\n| 武汉大学\n| 教授\n2019-4····2022-11\n| 武汉大学\n| 副教授\n2018-3····2019-3\n| 悉尼大学\n| 访问学者\n2014-7····2019-3\n| 武汉大学\n| 讲师\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n[1].计算机视觉\n[2].自然语言处理\n[3].人工智能\n其他联系方式\n邮编：\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

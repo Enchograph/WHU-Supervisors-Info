@@ -1,0 +1,201 @@
+{
+  "id": "wangchao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangchao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王超",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "",
+    "college": "",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "未明确提及",
+        "school": "武汉大学",
+        "period": "未明确提及",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "教育部科技进步一等奖（2016）",
+      "测绘科技进步二等奖（2014）",
+      "地理信息科技进步二等奖（2021）",
+      "地理信息科技进步三等奖（2016）",
+      "武汉市科技进步二等奖（2015）",
+      "地理信息科技进步特等奖（2023）",
+      "吉林省自然科学二等奖（2024）"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "智慧城市",
+      "土地利用变化及其生态环境效应",
+      "城市化与城市群发展对水文生态环境的影响",
+      "流域智慧管理与可持续发展"
+    ],
+    "research_interests": [
+      "遥感信息",
+      "地理信息系统",
+      "机器学习",
+      "深度学习",
+      "城市运行状态监测",
+      "水文生态演变",
+      "碳排放时空分析",
+      "可持续城市发展"
+    ],
+    "research_description": "王超副教授长期致力于智慧城市、土地利用变化及其生态环境效应的研究，聚焦于城市化与城市群发展对水文、生态和碳排放等要素的时空演变影响。依托遥感、地理信息、地面观测与社会经济数据，结合地理统计、机器学习与深度学习方法，开展城市运行状态识别、城市日常管理数据融合、事件动态仿真、地质环境演化监测与预警、水资源利用效率评估等研究。研究覆盖长江经济带、长三角、成渝等主要城市群，服务于‘长江大保护’与联合国可持续发展目标（SDGs），在遥感、水文、生态与可持续发展领域取得系列高水平成果，发表于Nature Cities、Remote Sensing of Environment、Water Research等顶级期刊。",
+    "disciplines": [
+      "地理信息科学",
+      "遥感科学与技术",
+      "环境科学",
+      "城市规划与管理",
+      "水文学与水资源"
+    ],
+    "field_tags": [
+      "智慧城市",
+      "土地利用变化",
+      "生态环境效应",
+      "遥感监测",
+      "机器学习",
+      "深度学习",
+      "水文生态",
+      "可持续发展",
+      "长江大保护",
+      "SDGs"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Earth's Future",
+        "keywords": [
+          "城市化",
+          "水文生态",
+          "遥感信息",
+          "可持续发展"
+        ],
+        "journal_name": "Earth's Future",
+        "research_fields": [
+          "智慧城市",
+          "生态环境效应",
+          "土地利用变化"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nature Cities",
+        "keywords": [
+          "城市群发展",
+          "长江流域",
+          "可持续发展目标",
+          "地理信息技术"
+        ],
+        "journal_name": "Nature Cities",
+        "research_fields": [
+          "可持续城市",
+          "地理信息科学",
+          "环境变化"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Remote Sensing of Environment",
+        "keywords": [
+          "遥感监测",
+          "城市运行状态",
+          "多源数据融合",
+          "机器学习"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "遥感科学",
+          "智慧城市",
+          "环境监测"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "keywords": [
+          "摄影测量",
+          "遥感影像分析",
+          "城市扩张",
+          "土地利用变化"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感与摄影测量",
+          "城市地理学",
+          "环境遥感"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Water Research",
+        "keywords": [
+          "水文过程",
+          "水资源利用效率",
+          "降雨径流",
+          "干旱监测"
+        ],
+        "journal_name": "Water Research",
+        "research_fields": [
+          "水文学",
+          "水资源管理",
+          "环境工程"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangchao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家863计划",
+      "973基础研究计划",
+      "国家重点研发计划",
+      "国家自然科学基金重大项目"
+    ],
+    "funding_agencies": [
+      "科技部",
+      "国家自然科学基金委员会",
+      "长江水利委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王超\n页面链接: http://jszy.whu.edu.cn/wangchao/zh_CN/index.htm\n==================================================\n武汉大学 王超--中文主页--首页\nEnglish\n中文\n王超\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n入职时间：2008-07-01\n职务：副教授\n学历：研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n学科：\n个人简介\n王超，男，副教授，工学博士，主要研究方向为智慧城市、土地利用变化及其生态环境效应等，科技部重点领域创新团队“对地观测传感网与智慧城市创新团队”核心成员，曾任测绘遥感信息工程国家重点实验室深圳研发中心研发部部长、美国纽约州立大学布法罗分校研究助理教授。在国内外学术刊物及重要会议上发表近百篇学术论文，其中SCI检索论文50余篇，授权多项国家发明专利。曾参与了国家863计划智慧城市（一期）主题项目课题、智慧城市（二期）重大项目课题，973基础研究计划项目课题等国家重点项目的科研攻关工作，关注于利用地理信息技术识别城市的运行状态与监测方法，相关成果获得教育部科技进步一等奖（2016）、测绘科技进步二等奖（2014）、地理信息科技进步二等奖（2021）、三等奖（2016）以及武汉市科技进步二等奖（2015）。此后，依托对于城市信息的深刻理解，参与了国家重点研发计划“城市日常管理数据汇聚融合与事件动态仿真”、“城市群地质环境演化多源遥感监测与预警”以及“城市群运行状态可视化与可视决策关键技术”等项目，相关成果获得了地理信息科技进步特等奖（2023）。近年来，在“长江大保护”和联合国可持续发展目标（SDGs）提出的背景下，聚焦于武汉大学所处于的长江流域，参与了夏军院士主持的国家自然科学基金重大项目“长江经济带水循环变化与中下游典型城市群绿色发展互馈影响机理及对策研究”和长江水利委员会牵头的国家重点研发计划“流域智慧管理平台构建关键技术及示范应用”，充分调研了土地利用/覆盖变化驱动力及影响，对于长三角、长江中游、成渝等主要城市群开展了更深化的研究，关注于城市化/城市群发展对水文生态环境的相互作用，使用包括遥感信息、地理信息、地面观测以及社会经济数据，通过地理统计、机器学习和深度学习方法，挖掘随着不同城市的建设发展，降雨、土壤水分、植被、径流、干旱、湖泊水质、水资源利用效率、蓄滞洪区以及碳排放的时空演变，探究城市可持续发展的规律和路径。相关研究成果获吉林省自然科学二等奖（2024），并发表于Nature Cities、Remote Sensing of Environment、Water Research、ISPRS Journal of Photogrammetry and Remote Sensing、Sustainable Cities and Society、Earth's Future（2023年最高引用量前10）、Journal of Cleaner Production、Journal of Hydrology和Science of The Total Environment等遥感、水文、生态和可持续发展顶级期刊。\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

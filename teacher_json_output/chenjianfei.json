@@ -1,0 +1,116 @@
+{
+  "id": "chenjianfei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenjianfei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈剑飞",
+    "english_name": "Chen Jianfei",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电气与自动化学院",
+    "college": "电气与自动化学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "电力电子与电力传动",
+        "school": "重庆大学",
+        "period": "2011.9-2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "重庆大学",
+    "academic_honors": [
+      "省高端人才",
+      "湖北省高层次人才",
+      "国家级高层次青年人才"
+    ],
+    "academic_services": [
+      "中国能源学会专家委员会电力、新能源及能源装备三个专家组委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "四电平变流器拓扑与控制",
+      "功率模块封装",
+      "磁集成技术",
+      "混合开关电容技术",
+      "电动汽车用二合一车载充电机",
+      "燃料电池车用大功率软开关DC/DC变流器"
+    ],
+    "research_interests": [
+      "变流器拓扑",
+      "功率电子器件应用",
+      "电动汽车充电技术",
+      "燃料电池电源系统",
+      "GaN/SiC器件应用",
+      "能量路由器",
+      "微型逆变器",
+      "软开关技术"
+    ],
+    "research_description": "陈剑飞教授主要从事电力电子与电力传动领域的研究，聚焦于新型变流器拓扑结构（如四电平变流器）、功率模块封装技术、磁集成与混合开关电容技术，以及面向电动汽车和燃料电池车的大功率、高效率电力电子变换器系统设计。研究涵盖基于GaN和SiC宽禁带半导体器件的车载充电机、DC/DC变换器、三端口/四端口能量路由器及光伏微型逆变器等前沿方向。",
+    "disciplines": [
+      "电力电子与电力传动",
+      "电气工程",
+      "新能源技术"
+    ],
+    "field_tags": [
+      "变流器",
+      "GaN器件",
+      "SiC器件",
+      "车载充电机",
+      "燃料电池",
+      "软开关",
+      "能量管理",
+      "电力电子系统"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chenjianfei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973计划",
+      "863计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "中国能源学会",
+      "美国马里兰大学",
+      "美国韦恩州立大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈剑飞\n页面链接: http://jszy.whu.edu.cn/chenjianfei/zh_CN/index.htm\n==================================================\n武汉大学 陈剑飞--中文主页--首页\nEnglish\n新闻网中文官网\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n陈剑飞\n同专业博导\n同专业硕导\nPersonal profile\n个人简介\n暂无内容\nPersonal information\n个人信息\n教师拼音名称：Chen Jianfei\n电子邮箱：\n入职时间：2022-02-01\n所在单位：电气与自动化学院\n职务：教授\n学历：博士研究生毕业\n办公地点：武汉大学工学部\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：重庆大学\n所属院系：电气与自动化学院\n学科：\n电力电子与电力传动\n学术荣誉：\n2021:  省高端人才\n曾获荣誉：\n2021: 湖北省高层次人才\n2022: 国家级高层次青年人才\nSocial Appointments\n社会兼职\n2022.9-2026.9\n中国能源学会专家委员会电力、新能源及能源装备三个专家组委员\nEducational experience\n教育经历\n2011.9-2016.6\n重庆大学 | 电力电子与电力传动 | 工学博士学位 | 博士研究生毕业\nWork experience\n工作经历\n2015.1-2016.3\n能源技术系 | 丹麦奥尔堡大学 | 访学交流 | 从事风电变流器方面的研究工作\n2019.10-2021.10\n电气与计算机系 | 美国马里兰大学 | 博士后 | 从事博士后研究工作 | 在美国马里兰大学从事博士后研究工作，主要参与基于GaN器件的三端口车载集成充电机、四端口能量路由器、光伏微型逆变器的项目研究。\n2016.10-2019.9\n电气与计算机系 | 美国韦恩州立大学 | 博士后 | 从事博士后研究工作 | 在美国韦恩州立大学从事博士后研究工作，从事四电平变流器拓扑及电压平衡调制策略研究，同时负责或参与三款基于SiC或GaN器件的电机控制器和大功率燃料电池车用DC-DC电源设计。\nResearch direction\n研究方向\n四电平变流器拓扑与控制\n功率模块封装\n磁集成技术\n混合开关电容技术\n电动汽车用二合一车载充电机\n燃料电池车用大功率软开关DC/DC变流器\nContact information\n其他联系方式\n邮编：\n通讯/办公地址：\n邮箱：\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

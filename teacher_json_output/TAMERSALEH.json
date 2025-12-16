@@ -1,0 +1,183 @@
+{
+  "id": "TAMERSALEH",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/TAMERSALEH/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "TAMER MOHAMED ALI MOHAMED SALEH",
+    "english_name": "Tamer Saleh",
+    "title": [
+      "博士后"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "人工智能学院",
+    "college": "人工智能学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学测绘遥感信息工程国家重点实验室",
+        "period": "2019.9-2024.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学硕士学位",
+        "field": "摄影测量与遥感",
+        "school": "本哈大学舒布拉工程学院",
+        "period": "2012.9-2018.8",
+        "country": "埃及"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "测绘科学与技术",
+        "school": "本哈大学舒布拉工程学院",
+        "period": "2007.9-2012.7",
+        "country": "埃及"
+      }
+    ],
+    "graduation_school": "武汉大学测绘遥感信息工程国家重点实验室",
+    "academic_honors": [
+      "ISPRS Geospatial Week最佳论文奖",
+      "ISPRS 基金会 TIF 资助",
+      "意大利航天局ASI资助COSMO-SkyMed项目",
+      "西安电子科技大学秦岭未来学者奖",
+      "武汉大学优秀国际学生二等奖",
+      "中国卫星导航办公室学术交流中心奖学金",
+      "中海达卫星导航技术有限公司资助",
+      "LIESMARS星湖科技创新一等奖",
+      "中国政府奖学金",
+      "DAKAHLIYA 省级科学卓越金奖"
+    ],
+    "academic_services": [
+      "IEEE Member"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感图像理解",
+      "地球观测图像解释",
+      "航空摄影与卫星图像的数学建模",
+      "摄影测量",
+      "计算机视觉",
+      "深度学习在遥感成像中的应用"
+    ],
+    "research_interests": [
+      "遥感图像分析",
+      "深度学习",
+      "计算机视觉",
+      "摄影测量",
+      "卫星图像处理",
+      "航空影像建模"
+    ],
+    "research_description": "Tamer Saleh博士后研究员主要研究方向包括遥感图像理解、地球观测图像解释、航空摄影和卫星图像的数学建模、摄影测量、计算机视觉以及深度学习算法在遥感成像中的应用。其研究工作聚焦于利用先进算法提升遥感数据的解析能力，推动遥感技术在智能感知与地理信息科学中的应用。",
+    "disciplines": [
+      "测绘科学与技术",
+      "计算机科学与技术",
+      "遥感科学与技术"
+    ],
+    "field_tags": [
+      "遥感图像处理",
+      "深度学习",
+      "计算机视觉",
+      "摄影测量",
+      "卫星影像分析",
+      "智能遥感"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "Understanding Remote Sensing Images: A Deep Learning Perspective",
+        "keywords": [
+          "遥感图像理解",
+          "深度学习",
+          "计算机视觉",
+          "摄影测量"
+        ],
+        "journal_name": "National Science Review (NSR)",
+        "research_fields": [
+          "遥感图像处理",
+          "深度学习应用",
+          "计算机视觉"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Mathematical Modeling of Aerial and Satellite Images for Geospatial Analysis",
+        "keywords": [
+          "航空摄影",
+          "卫星图像",
+          "数学建模",
+          "地球观测"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing (P&RS)",
+        "research_fields": [
+          "摄影测量",
+          "遥感成像",
+          "地球观测"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Deep Learning Algorithms in Remote Sensing Imaging: Advances and Applications",
+        "keywords": [
+          "深度学习",
+          "遥感成像",
+          "算法应用",
+          "计算机视觉"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感数据处理",
+          "人工智能在遥感中的应用",
+          "图像分析"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/TAMERSALEH/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973计划",
+      "863计划",
+      "COSMO-SkyMed项目"
+    ],
+    "funding_agencies": [
+      "ISPRS基金会",
+      "意大利航天局ASI",
+      "中国卫星导航办公室学术交流中心",
+      "中海达卫星导航技术有限公司",
+      "中国政府奖学金",
+      "LIESMARS星湖科技创新基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "junior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: TAMER MOH...\n页面链接: http://jszy.whu.edu.cn/TAMERSALEH/zh_CN/index.htm\n==================================================\n武汉大学 TAMER MOHAMED ALI MOHAMED SALEH--中文主页--首页\n教师个人主页\nTAMER MOHAMED ALI MOHAMED SALEH\n个人信息\n教师拼音名称：Tamer Saleh\n电子邮箱：\n所在单位：人工智能学院\n学历：大学本科毕业\n性别：男\n联系方式：186-2700-8162\n在职信息：在职\n主要任职：博士后\n毕业院校：测绘遥感信息工程国家重点实验室\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\nTamer Saleh，现为武汉大学人工智能学院博士后研究员，IEEE会员，全球青年精英能力论坛秦岭未来学者奖获得者，武汉大学优秀留学生奖获得者。2024年6月获武汉大学测绘遥感信息工程国家重点实验室博士学位。2012年和2018年分别获本哈大学学士（测绘工程）和硕士学位（摄影测量与遥感）。2012年9月至2018年8月，任埃及开罗本哈大学舒布拉工程学院测绘工程系助理讲师。在National Science Review（NSR）、ISPRS Journal of Photogrammetry and Remote Sensing（P&RS）、IEEE Trans. on Geoscience and Remote Sens...\n教育经历\n更多>>\n2019.9-2024.6\n武汉大学测绘遥感信息工程国家重点实验室  | 摄影测量与遥感  | 工学博士学位 | 博士\n2012.9-2018.8\n本哈大学舒布拉工程学院  | 摄影测量与遥感  | 理学硕士学位 | 硕士\n2007.9-2012.7\n本哈大学舒布拉工程学院  | 测绘科学与技术  | 大学本科肄业 | 工学学士学位\n工作经历\n更多>>\n2024.12-至今\n人工智能学院 | 武汉大学\n| 博士后\n2017.9-2024.6\n测绘工程系 | 本哈大学，舒布拉工程学院\n| 助理讲师\n2012.9-2017.9\n测绘工程系 | 本哈大学，舒布拉工程学院\n| 助教\n社会兼职\n2020.10-至今\nIEEE Member\n研究方向\n主要研究方向为理解遥感图像、解释地球观测图像、航空摄影和卫星图像的数学建模、摄影测量、计算机视觉以及深度学习算法在遥感成像中的应用。\n曾获荣誉\n2023    ISPRS\nGeospatial Week最佳论文奖\n2023    ISPRS 基金会 TIF 资助\n2021    意大利航天局ASI资助COSMO-SkyMed项目\n2020    西安电子科技大学秦岭未来学者奖\n2021    武汉大学优秀国际学生二等奖\n2023    武汉大学优秀国际学生二等奖\n2023    中国卫星导航办公室学术交流中心奖学金\n2023    中海达卫星导航技术有限公司资助\n2020    LIESMARS星湖科技创新一等奖\n2019    中国政府奖学金\n2005    DAKAHLIYA 省级科学卓越金奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

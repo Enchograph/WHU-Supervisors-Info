@@ -1,0 +1,250 @@
+{
+  "id": "wangkainan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangkainan/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王凯楠",
+    "english_name": "WANG Kainan",
+    "title": [
+      "副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "宇航科学与技术研究院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "工程师科学与技术",
+        "school": "Université Libre de Bruxelles",
+        "period": "2014-9 至 2019-1",
+        "country": "比利时"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "动力机械及工程",
+        "school": "天津大学",
+        "period": "2011-9 至 2014-1",
+        "country": "中国"
+      },
+      {
+        "degree": "文学学士学位",
+        "field": "德语",
+        "school": "华中科技大学",
+        "period": "2009-2 至 2011-6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "热能与动力工程",
+        "school": "武汉理工大学",
+        "period": "2007-9 至 2011-6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "Université Libre de Bruxelles",
+    "academic_honors": [
+      "武汉英才优秀青年人才"
+    ],
+    "academic_services": [
+      "客座编委, Micromachines (SCI收录), 专题: Realizing Optical Control through Mechatronics Systems",
+      "客座编委, Actuators (SCI收录), 专题: Smart Structures and Precision Engineering for Space Systems: A Special Issue in Honor of Prof. Dr. André Preumont",
+      "客座编委, Actuators (SCI收录), 专题: Actuator Design and Control Strategy Development for Vibration Control in Precision Engineering",
+      "客座编委, Actuators (SCI收录), 专题: Piezoelectric and Electrostrictive Materials in Mechatronics, Precision Engineering and Vibration Control",
+      "专题咨询编委, Micromachines (SCI收录)",
+      "专题咨询编委, Photonics (SCI收录)",
+      "教育部空天信息智能服务集成攻关大平台团队成员",
+      "中国光学工程学会大气光学及自适应光学专委会青年委员",
+      "美国航天航空学会 (AIAA) 会员",
+      "国际光电工程学会 (SPIE) 会员",
+      "美国光学工程学会 (OPTICA) 会员",
+      "中国振动工程学会会员",
+      "中国工业与应用数学学会会员",
+      "中国光学工程学会高级会员",
+      "中国宇航学会高级会员",
+      "中国光学学会高级会员",
+      "Engineering, Mechanical Systems and Signal Processing (MSSP) 等20余种期刊评审"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "自适应光学",
+      "主动光学",
+      "压电材料及应用",
+      "精密仪器振动控制",
+      "机电一体化设计",
+      "空间光学系统",
+      "轻量化结构设计",
+      "多物理场耦合控制"
+    ],
+    "research_interests": [
+      "自适应/主动光学系统",
+      "压电致动器",
+      "薄壳反射镜",
+      "光机电热一体化",
+      "振动控制与阻尼",
+      "空间望远镜",
+      "智能结构",
+      "变形镜控制",
+      "非线性致动参数标定",
+      "大惯性元件高带宽控制"
+    ],
+    "research_description": "王凯楠副研究员主要从事自适应/主动光学系统、压电材料及应用、精密仪器振动控制、机电一体化设计等方向的研究。研究聚焦于空间主动光学系统中的轻量化超大口径薄壳反射镜、单压变形镜的“光机电热”一体化设计与控制策略，涵盖极轻量化结构设计、电激励策略、主/被动阻尼、高带宽控制、环境扰动补偿等关键技术。其研究广泛应用于地基大口径望远镜、低轨卫星星载光学平台、空间探测器等场景，致力于实现高精度、高稳定性、高可靠性的智能光学系统。已主持国家自然科学基金、预研项目、湖北省自然科学基金等近10项国家级及省部级课题，参与欧洲空间局多项关键技术攻关，发表论文近40篇，申请专利8项。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "机械电子工程",
+      "模式识别与智能系统",
+      "一般力学与力学基础",
+      "光学工程",
+      "控制科学与工程"
+    ],
+    "field_tags": [
+      "自适应光学",
+      "主动光学",
+      "压电材料",
+      "精密控制",
+      "机电一体化",
+      "空间光学",
+      "轻量化结构",
+      "变形镜",
+      "振动抑制",
+      "多物理场耦合"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Hierarchical Morphing Control of an Ultra-Lightweight Electro-Actuated Polymer Telescope with Thin-Film Actuators",
+        "keywords": [
+          "自适应光学",
+          "轻量化",
+          "薄膜致动器",
+          "形态控制",
+          "空间望远镜"
+        ],
+        "journal_name": "Micromachines",
+        "research_fields": [
+          "精密仪器振动控制",
+          "主动光学",
+          "机电一体化设计"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "On-Earth Observation of Low Earth Orbit Targets through Phase Disturbances by Atmospheric Turbulence",
+        "keywords": [
+          "地基观测",
+          "低地球轨道目标",
+          "大气湍流",
+          "波前畸变",
+          "遥感"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "遥感科学与技术",
+          "大气光学",
+          "自适应光学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Shape Control of a Unimorph Deformable Mirror for Space Active Optics under Uncertainties",
+        "keywords": [
+          "变形镜",
+          "不确定性",
+          "空间主动光学",
+          "压电材料",
+          "形状控制"
+        ],
+        "journal_name": "Micromachines",
+        "research_fields": [
+          "压电材料应用",
+          "主动光学",
+          "精密控制"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Wavefront Control Strategies for Large Active Thin Shell Primaries with Unimorph Actuators",
+        "keywords": [
+          "波前控制",
+          "大口径薄壳反射镜",
+          "单压致动器",
+          "主动光学",
+          "空间系统"
+        ],
+        "journal_name": "Actuators",
+        "research_fields": [
+          "自适应光学",
+          "空间主动光学",
+          "机电一体化"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Adaptive Deployable Thin Spherical Shell Reflectors",
+        "keywords": [
+          "可展开",
+          "薄壳球面反射镜",
+          "主动光学",
+          "空间结构",
+          "轻量化设计"
+        ],
+        "journal_name": "Actuators",
+        "research_fields": [
+          "空间结构设计",
+          "主动光学",
+          "智能结构"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangkainan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家自然科学基金面上项目",
+      "预研项目",
+      "湖北省自然科学基金项目",
+      "珞珈实验室开放课题项目",
+      "中央高校基本科研业务费专项资金资助项目",
+      "欧洲空间局通用支持技术计划项目（GSTP）"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "珞珈实验室",
+      "中央高校基本科研业务费",
+      "欧洲空间局（ESA）"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王凯楠\n页面链接: http://jszy.whu.edu.cn/wangkainan/zh_CN/index.htm\n==================================================\n武汉大学 王凯楠--中文主页--首页\nEnglish\n中文\n王凯楠\n同专业硕导\n首页\n科学研究\n研究领域\n招生信息\n学生信息\n微信扫描\n个人信息\n1\n硕士生导师\n教师英文名称：WANG Kainan\n出生日期：1989-08-31\n电子邮箱：\n职务：副研究员\n学历：博士研究生毕业\n办公地点：宇航科学与技术研究院301室\n性别：男\n联系方式：18571708319\n在职信息：在职\n毕业院校：Université Libre de Bruxelles\n所属院系：\n遥感信息工程学院\n学科：\n摄影测量与遥感\n机械电子工程\n模式识别与智能系统\n一般力学与力学基础\n个人简介\n王凯楠，武汉大学遥感信息工程学院 宇航科学与技术研究院 副研究员/硕士生导师。2019年毕业于比利时法语布鲁塞尔自由大学（Université Libre de Bruxelles），获工程师科学与技术（Docteur en Sciences de l'Ingénieur et Technologie）博士学位（合作导师：André Preumont 教授，比利时皇家科学院院士），2019年至2020年于比利时法语布鲁塞尔自由大学进行博士后研究，历任博士后研究员、责任研究员（Chargé de Recherche，B级），2016年至2020年担任欧洲空间局研究工程师。主要研究方向为：结构机电一体化模拟，自适应/主动光学，压电材料及应用，精密仪器振动控制等。2021回国后，连续获批主持国家自然科学基金青年项目和面上项目、预研项目等国家级科研课题，和湖北省自然科学基金项目、珞珈实验室开放课题项目、中央高校基本科研业务费专项资金资助项目等课题近10项，获评“武汉英才”优秀青年人才。曾以关键人员身份（Key Personnel）主要完成/参与欧洲空间局通用支持技术计划项目（GSTP）2项，负责起草撰写欧洲空间局技术报告7份，完成2项TRL-4技术就绪度自适应/主动光学样机试制，参与国产对地观测卫星研制；发表相关学术论文近40篇，担任20余种期刊评审，担任4项期刊客座编委和2项期刊专题咨询编委，申请专利8项，1项国际会议技术程序委员会委员。\n主要研究领域\n自适应/主动光学、压电材料及应用、精密仪器振动控制、机电一体化设计\n主要学术兼职\n1. 客座编委, Micromachines (SCI收录), 专题: Realizing Optical Control through Mechatronics Systems\n2. 客座编委, Actuators (SCI收录), 专题: Smart Structures and Precision Engineering for Space Systems: A Special Issue in Honor of Prof. Dr. André Preumont\n3. 客座编委, Actuators (SCI收录), 专题: Actuator Design and Control Strategy Development for Vibration Control in Precision Engineering\n4. 客座编委, Actuators (SCI收录), 专题: Piezoelectric and Electrostrictive Materials in Mechatronics, Precision Engineering and Vibration Control\n5. 专题咨询编委, Micromachines (SCI收录)\n6. 专题咨询编委, Photonics (SCI收录)\n7.  教育部空天信息智能服务集成攻关大平台团队成员\n8.  中国光学工程学会大气光学及自适应光学专委会 青年委员\n9.  美国航天航空学会 (AIAA)、国际光电工程学会 (SPIE)、美国光学工程学会 (OPTICA)、中国振动工程学会会员、中国工业与应用数学学会会员、中国光学工程学会高级会员、中国宇航学会高级会员、中国光学学会高级会员\n10.  Engineering, Mechanical Systems and Signal Processing (MSSP) 等20余种期刊评审\n招生专业（硕士研究生）\n学术型：遥感科学与技术、摄影测量与遥感、模式识别与智能系统、地图学与地理信息系统\n专业型：资源与环境、测绘工程\n主要教学课程\n微机接口、精密机械设计基础、工程光学、精密机械设计基础课程设计、新型遥感传感器技术等\n具体研究方向（见下图说明，论文清单后附）\n自适应光学/主动光学系统应用场景研究\n自适应/主动变形镜样机工艺学设计方法研究\n极轻量化超大口径薄壳主动光学反射镜综合电激励策略研究\n空间主动光学单压变形镜“光机电热”一体化设计方法研究\n特殊构型空间主动光学薄壳变形镜机电设计方法研究\n地基大口径望远镜系统机电一体化大惯性元件高带宽控制方法研究\n低刚度变形镜机电一体化设计和主/被动阻尼策略研究\n地基大视场望远镜自适应光学系统近地物体识别策略研究\n压电薄膜非线性致动参数在环标定策略研究\n自适应光学/主动光学系统应用场景研究\n自适应/主动变形镜样机工艺学设计方法研究\n极轻量化超大口径薄壳主动光学反射镜综合电激励策略研究\n空间主动光学单压变形镜“光机电热”一体化设计方法研究\n特殊构型空间主动光学薄壳变形镜机电设计方法研究\n地基大口径望远镜系统机电一体化大惯性元件高带宽控制方法研究\n低刚度单压变形镜机电一体化设计和主/被动阻尼策略研究\n地基大视场望远镜自适应光学系统近地物体识别策略研究\n压电薄膜非线性致动参数在环标定策略研究\n主要学术论文（主动光学/自适应光学、智能机器人领域相关）\n期刊论文\nWANG, K., GONG, Y., YU, Y., PREUMONT, A., HIERARCHICAL MORPHING CONTROL OF AN ULTRA-LIGHTWEIGHT ELECTRO-ACTUATED POLYMER TELESCOPE WITH THIN-FILM ACTUATORS, MICROMACHINES 14, NO. 10 (2023): 1855. MICROMACHINES-14-01855.PDF\nWANG, K., YU, Y., GONG, Y., YI, Y., ZHANG, X., ON-EARTH OBSERVATION OF LOW EARTH ORBIT TARGETS THROUGH PHASE DISTURBANCES BY ATMOSPHERIC TURBULENCE, REMOTE SENSING, NO. 15 (2023): 4718.  REMOTESENSING-15-04718-V2.PDF\nWANG, K., YU, Y., PREUMONT, A., SHAPE CONTROL OF A UNIMORPH DEFORMABLE MIRROR FOR SPACE ACTIVE OPTICS UNDER UNCERTAINTIES, MICROMACHINES 14, NO. 9 (2023): 1756. MICROMACHINES-14-01756-V3.PDF\nFARID, Y., WANG, L., BRANCATO, L., WANG, H., WANG, K., PREUMONT, A., ROBOTIC HUMMINGBIRD AXIAL DYNAMICS AND CONTROL NEAR HOVERING: A SIMULATION MODEL, ACTUATORS 12, NO.7 (2023): 262.  ACTUATORS-12-00262-V2.PDF\nWANG, K., YU, Y., PREUMONT, A., WAVEFRONT CONTROL STRATEGIES FOR LARGE ACTIVE THIN SHELL PRIMARIES WITH UNIMORPH ACTUATORS, ACTUATORS 12, NO. 3 (2023): 100.  ACTUATORS-12-00100-V2.PDF\nNIELSEN, C.J.G., TIAN, D., WANG, K., PREUMONT, A., ADAPTIVE DEPLOYABLE THIN SPHERICAL SHELL REFLECTORS, ACTUATORS 11, NO. 7 (2022): 192. ACTUATORS-11-00198-V2.PDF\nPREUMONT, A., WANG, H., KANG, S., WANG, K., ROSHANBIN, A., A NOTE ON THE ELECTROMECHANICAL DESIGN OF A ROBOTIC HUMMINGBIRD, ACTUATORS 10, NO. 3 (2021): 52.  ACTUATORS-10-00052-V2.PDF\nWANG, K., GODFROID, T., ROBERT, D., PREUMONT, A., ADAPTIVE SHELL SPHERICAL REFLECTOR ACTUATED WITH PVDF-TRFE THIN FILM STRAIN ACTUATORS, ACTUATORS 10, NO. 1 (2021): 7.  ACTUATORS-10-00007-V2.PDF\nWANG, K., ALALUF, D., RODRIGUES, G., PREUMONT, A., PRECISION SHAPE CONTROL OF ULTRA-THIN SHELLS WITH STRAIN ACTUATORS, JOURNAL OF APPLIED AND COMPUTATIONAL MECHANICS 7, (2021): 1130–1137. JACM-1130-1137.PDF\nWANG, K., GODFROID, T., ROBERT, D., PREUMONT, A., ELECTROSTRICTIVE PVDF-TRFE THIN FILM ACTUATORS FOR THE CONTROL OF ADAPTIVE THIN SHELL REFLECTORS, ACTUATORS 9, NO. 3 (2020): 53.  ACTUATORS-09-00053.PDF\nWANG, K., ALALUF, D., PREUMONT, A., THERMAL BALANCE AND ACTIVE DAMPING OF A PIEZOELECTRIC DEFORMABLE MIRROR FOR ADAPTIVE OPTICS, ACTUATORS 8, NO. 4 (2019): 75. ACTUATORS-08-00075.PDF\nALALUF, D., MOKRANI, B., WANG, K., PREUMONT, A., DAMPING OF PIEZOELECTRIC SPACE INSTRUMENTS: APPLICATION TO AN ACTIVE OPTICS DEFORMABLE MIRROR, CEAS SPACE JOURNAL 11, NO. 4 (2019): 543-551. CEAS.PDF\nWANG, K., PREUMONT, A., FIELD STABILIZATION CONTROL OF THE EUROPEAN EXTREMELY LARGE TELESCOPE UNDER WIND DISTURBANCE, APPLIED OPTICS 58, NO. 4 (2019): 1174-1184.  AO-58-4-1174.PDF\nWANG, K., ALALUF, D., MOKRANI, B., PREUMONT, A. CONTROL-STRUCTURE INTERACTION IN PIEZOELECTRIC DEFORMABLE MIRRORS FOR ADAPTIVE OPTICS, SMART STRUCTURES AND SYSTEMS 21, NO. 6 (2018): 777-791. SSS2106007.PDF\nALALUF, D., BASTAITS, R., WANG, K., HORODINCA, M., MARTIC, G., MOKRANI, B., PREUMONT, A., UNIMORPH MIRROR FOR ADAPTIVE OPTICS IN SPACE TELESCOPES, APPLIED OPTICS 57, NO. 14 (2018): 3629-3638. AO-57-14-3629.PDF\n会议论文\nYU, C., GONG, Y., WANG, K., UNIMORPH ACTIVE OPTICS THIN-SHELL REFLECTORS ACTUATED WITH DISTRIBUTED ELECTRIC FIELD, 2ND CONFERENCE ON SPATIAL ATMOSPHERIC MARINE ENVIRONMENTAL OPTICS, HANGZHOU, APRIL 2024.\nYU, C., WANG, K., AN ANALYSIS OF MECHATRONICS DYNAMICS FOR ACTIVE OPTICS DEFORMABLE REFLECTORS WITH SELF-DEFORMATION ESTIMATION, 2ND CONFERENCE ON SPATIAL ATMOSPHERIC MARINE ENVIRONMENTAL OPTICS, HANGZHOU, APRIL 2024.\nYU, Y., GONG, Y., WANG, K., A SIMULATION ON HIERARCHICAL WAVEFRONT CONTROL FOR LARGE APERTURE LIGHTWEIGHT POLYMER MIRRORS, 6TH CONFERENCE ON FRONTIERS IN OPTICAL IMAGING TECHNOLOGY AND APPLICATIONS, NANJING, NOVEMBER 2023.\nGONG, Y., YU, Y., WANG, K., MORPHING CONTROL OF ACTIVE OPTICS REFLECTORS VIA COMPOUND EXCITATION METHODS, 15TH INTERNATIONAL CONFERENCE ON ADVANCED INFOCOMM TECHNOLOGY, HEFEI, OCTOBER 2023.\nGONG, Y., YU, Y., WANG, K., MORPHING BEHAVIOR OF A PIEZOELECTRIC DEFORMABLE MIRROR UNDER COMPLEX ENVIRONMENT FOR SPACE ACTIVE OPTICS, APPLIED OPTICS AND PHOTONICS CHINA 2023, BEIJING, JULY 2023.\nWANG, K., YU, Y., PREUMONT, A. ACTUATION AND CONTROL STRATEGIES FOR ULTRALIGHTWEIGHT ACTIVE THIN SHELL CURVED SPACE REFLECTORS, 9TH SYMPOSIUM ON NOVEL PHOTOELECTRONIC DETECTION TECHNOLOGY AND APPLICATIONS, HEFEI, APRIL 2023.\nWANG, K., PREUMONT, A. SHAPE CONTROL OF AN ADAPTIVE SPHERICAL SHELL REFLECTOR UNDER SPACE ENVIRONMENT, 8TH SYMPOSIUM ON NOVEL PHOTOELECTRONIC DETECTION TECHNOLOGY AND APPLICATIONS, KUNMING, NOVEMBER 2021.\nWANG, K., ALALUF, D., GODFROID, T., ROBERT, D., RODRIGUES, G., & PREUMONT, A. PIEZOELECTRIC ACTIVE SPHERICAL SHELL REFLECTOR FOR SPACE, 17TH INTERNATIONAL CONFERENCE ON NEW ACTUATORS & 11TH EXHIBITION ON SMART ACTUATORS AND DRIVE SYSTEMS (ACTUATOR 2021), ONLINE, FEBRUARY 2021.\nWANG, K., ALALUF, D., MOKRANI, B., PREUMONT, A. DAMPING AUGMENTATION OF LARGE DEFORMABLE MIRRORS FOR ADAPTIVE OPTICS, 16TH INTERNATIONAL CONFERENCE ON NEW ACTUATORS & 10TH EXHIBITION ON SMART ACTUATORS AND DRIVE SYSTEMS (ACTUATOR 2018), BREMEN, JUNE 2018.\nWANG, K., ALALUF, D., MICHIELS, M., RAQUEZ, J-M., RODRIGUES, G., PREUMONT, A. PIEZOELECTRIC ADAPTIVE SHELL REFLECTORS FOR FUTURE SPACE TELESCOPES, 16TH INTERNATIONAL CONFERENCE ON NEW ACTUATORS & 10TH EXHIBITION ON SMART ACTUATORS AND DRIVE SYSTEMS (ACTUATOR 2018), BREMEN, JUNE 2018.\nALALUF, D., MOKRANI, B., WANG, K., PREUMONT, A, PIEZOELECTRIC SHUNT DAMPING OF SPACE TELESCOPES DEFORMABLE MIRRORS UNDER LAUNCHING LOADS, EUROPEAN CONFERENCE ON SPACECRAFT STRUCTURES MATERIALS AND ENVIRONMENTAL TESTING, NOORDWIJK, MAY 2018.\nWANG, K., ALALUF, D., MOKRANI, B., PREUMONT, A. DYNAMIC CONTROL OF DEFORMABLE MIRRORS FOR ADAPTIVE OPTICS, 8TH CONFERENCE ON SMART STRUCTURES AND MATERIALS, AND THE 6TH INTERNATIONAL CONFERENCE ON SMART MATERIALS AND NANOTECHNOLOGY IN ENGINEERING (SMART 2017), MADRID, JUNE 2017.\nALALUF, D., BASTAITS, R., WANG, K., HORODINCA, M., BURDA, I., MARTIC, G., PREUMONT, A., BIMORPH MIRRORS FOR ADAPTIVE OPTICS IN SPACE TELESCOPES, SPIE ASTRONOMICAL TELESCOPES CONFERENCE, EDINBURGH, JULY 2016\nPREUMONT, A., ALALUF, D., WANG, K., RODRIGUES, G., ADAPTIVE THIN SHELL REFLECTORS FOR FUTURE SPACE TELESCOPES, EUROPEAN CONFERENCE ON SPACECRAFT STRUCTURES MATERIALS AND ENVIRONMENTAL TESTING, TOULOUSE, SEPTEMBER 2016.\n学术科普\n仰望天空 只为星辰 - 知乎 (zhihu.com)\n精密仪器振动控制技术探讨 - 知乎 (zhihu.com)\n学术报告\n2017-06    西班牙马德里    ECCOMAS智能结构与材料专题会议（SMART 2017）， 口头报告\nDYNAMIC CONTROL OF DEFORMABLE MIRRORS FOR ADAPTIVE OPTICS\n2018-06    德国不来梅        第十六届新型致动器国际会议（ACTUATOR 2018），口头报告\nPIEZOELECTRIC ADAPTIVE SHELL REFLECTORS FOR FUTURE SPACE TELESCOPES\nDAMPING AUGMENTATION OF LARGE DEFORMABLE MIRRORS FOR ADAPTIVE OPTICS\n2021-02    线上                    新型执行器系统与应用国际会议暨展览会（ACTUATOR），口头报告\nPIEZOELECTRIC ACTIVE SPHERICAL SHELL REFLECTOR FOR SPACE\n2021-10    中国合肥            第五届大气光学及自适应光学技术发展研讨会，口头报告\n极轻量化空间自适应光学曲面反射镜概念设计\n2021-11    中国湖州            浙大西塞山国际交流工作坊，受邀报告\n自适应光学系统的机电一体化控制问题\n2023-07    中国上海            慕尼黑上海光博会/光学检测与智能制造论坛，口头报告\n轻量化空间主动光学变形镜控制策略研究\n2023-07    中国北京            2023世界光子大会暨第12届国际应用光学与光子学技术交流大会（AOPC 2023），口头报告\nMORPHING BEHAVIOR OF A PIEZOELECTRIC DEFORMABLE MIRROR UNDER COMPLEX ENVIRONMENT FOR SPACE ACTIVE OPTICS\n2023-04    中国合肥            第九届国际新型光电探测技术及其应用研讨会（NDTA 2022），口头报告\nACTUATION AND CONTROL STRATEGIES FOR ULTRALIGHTWEIGHT ACTIVE THIN SHELL CURVED SPACE REFLECTORS\n2023-10    中国合肥            IEEE第十五届先进信息通信技术国际会议（ICAIT 2023），受邀报告\nMORPHING CONTROL OF ACTIVE OPTICS REFLECTORS VIA COMPOUND EXCITATION METHODS\n2023-10    中国成都            第六届大气光学及自适应光学技术发展研讨会，口头报告\n大孔径轻型聚合物反射镜的分层波前控制仿真\n2024-04    中国杭州            第二届“空间、大气、海洋与环境光学”学术会议，主题报告\nUNIMORPH ACTIVE OPTICS THIN-SHELL REFLECTORS ACTUATED WITH DISTRIBUTED ELECTRIC FIELD\nAN ANALYSIS OF MECHATRONICS DYNAMICS FOR ACTIVE OPTICS DEFORMABLE REFLECTORS WITH SELF-DEFORMATION ESTIMATION\n2024-07    中国西安            第二届先进光学制造技术及应用国际会议暨第四届国际先进光学制造青年科学家论坛，受邀报告\nSPACE OBSERVATION AND COMMUNICATION PLATFORMS WITH ACTIVE MORPHING THIN-SHELL REFLECTORS\n2024-07    中国西宁            第二届先进成像与信息处理会议暨2024中国光学学会全息与光信息处理专委会学术年会（AIIP 2024），口头报告\n极低轨道小型卫星星载主动光学控制策略研究\n2024-07    中国北京            第13届国际应用光学与光子学技术交流大会（AOPC 2024），口头报告\nCOLLABORATIVE CONTROL WITH MULTI-STAGE DYNAMIC ACTUATION OF ACTIVE MIRRORS IN LARGE TELESCOPES WITH ENVIRONMENTAL DISTURBANCES\n2024-08    中国恩施            IEEE第十六届先进信息通信技术国际会议（ICAIT 2024），受邀报告\nA SIMULATION MODEL OF CONTROL SYSTEM FOR A LIGHTWEIGHT SPACE ACTIVE MIRROR\n2024-11    中国杭州            第三届数学与航天交叉融合学术大会（TMAT2024），受邀报告\n多物理场耦合空间主动光学系统控制和信息集成方法研究\n科研团队\n空间主动光学团队-武汉大学 遥感信息工程学院/宇航科学与技术研究院\n（成员招募中，联系方式-微信 18571708319）\n主要合作人员：André Preumont 院士（Université Libre de Bruxelles - ASL/SAAS）\n激光遥感团队-武汉大学 遥感信息工程学院/宇航科学与技术研究院\n团队负责人：王宣 教授\n团队成员\n暂无内容\n工作经历\n2019-1····2020-12\n控制工程系\n| 法语布鲁塞尔自由大学\n| 责任研究员\n2016-12····2020-12\n机械工程部门\n| 欧洲空间局\n| 研究工程师（兼职）\n| 负责MATS项目执行\n2014-9····2019-1\n机械工程和机器人系\n| 法语布鲁塞尔自由大学\n| 博士研究生（公派）\n教育经历\n2014-9····2019.1\n法语布鲁塞尔自由大学\n|\n工程师科学与技术（Docteur en Sciences de l'Ingénieur et Technologie）\n| 工学博士学位\n|\n博士研究生毕业\n2011-9····2014.1\n天津大学\n|\n动力机械及工程\n| 工学硕士学位\n|\n硕士研究生毕业\n2009-2····2011.6\n华中科技大学\n|\n德语\n| 文学学士学位\n|\n大学本科毕业\n2007-9····2011.6\n武汉理工大学\n|\n热能与动力工程\n| 工学学士学位\n|\n大学本科毕业\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n邮编：\n传真：\n通讯/办公地址：\n办公室电话：\n移动电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

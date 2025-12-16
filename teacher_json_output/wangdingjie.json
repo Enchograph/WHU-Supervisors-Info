@@ -1,0 +1,183 @@
+{
+  "id": "wangdingjie",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangdingjie/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王定杰",
+    "english_name": "Wang Dingjie",
+    "title": [
+      "教授",
+      "准聘副教授",
+      "研究员",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "武汉数学与智能研究院",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学学士",
+        "field": "数学与应用数学",
+        "school": "长沙理工大学",
+        "period": "2009.9-----2013.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士",
+        "field": "计算数学",
+        "school": "武汉大学",
+        "period": "2014.9-----2019.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2024海外高层次青年人才"
+    ],
+    "academic_services": [
+      "iMeta 青年编委",
+      "Genomics, Proteomics & Bioinformatics 青年编委",
+      "GigaScience 青年编委",
+      "Nature Biotechnology 审稿人",
+      "Genome Biology 审稿人",
+      "Bioinformatics 审稿人",
+      "Communication Biology 审稿人",
+      "Artificial Intelligence Review 审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "计算系统生物学",
+      "生物信息学",
+      "机器学习与大数据分析",
+      "高通量测序数据的数学建模与算法开发",
+      "复杂疾病的多源数据整合",
+      "多尺度建模与优化控制"
+    ],
+    "research_interests": [
+      "生物信息学",
+      "计算系统生物学",
+      "机器学习",
+      "大数据分析",
+      "高通量测序数据",
+      "多源数据整合",
+      "数学建模",
+      "算法开发"
+    ],
+    "research_description": "王定杰主要从事数学、机器学习与生物医学的交叉研究，聚焦于高通量测序数据的数学建模与算法开发，复杂疾病的多源数据整合，以及多尺度建模与优化控制等方向。研究成果发表于Nature Biotechnology、Nature Methods、Nature Communications、SIAM Journal on Applied Mathematics等国际知名期刊，主持国家自然科学基金优秀青年科学基金项目（海外）和青年科学基金项目（C类）。",
+    "disciplines": [
+      "计算数学",
+      "生物信息学",
+      "机器学习",
+      "系统生物学",
+      "数据科学"
+    ],
+    "field_tags": [
+      "生物信息学",
+      "计算系统生物学",
+      "机器学习",
+      "大数据分析",
+      "高通量测序",
+      "多源数据整合",
+      "数学建模",
+      "算法开发",
+      "生物医学数据",
+      "优化控制"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "高通量测序数据的数学建模与算法开发",
+        "keywords": [
+          "高通量测序",
+          "数学建模",
+          "机器学习",
+          "算法开发"
+        ],
+        "journal_name": "Nature Biotechnology",
+        "research_fields": [
+          "生物信息学",
+          "计算系统生物学",
+          "机器学习"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "复杂疾病的多源数据整合方法研究",
+        "keywords": [
+          "多源数据整合",
+          "复杂疾病",
+          "大数据分析",
+          "系统生物学"
+        ],
+        "journal_name": "Nature Methods",
+        "research_fields": [
+          "生物信息学",
+          "计算系统生物学",
+          "大数据分析"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "多尺度建模与优化控制在生物系统中的应用",
+        "keywords": [
+          "多尺度建模",
+          "优化控制",
+          "生物系统",
+          "计算数学"
+        ],
+        "journal_name": "SIAM Journal on Applied Mathematics",
+        "research_fields": [
+          "计算数学",
+          "系统生物学",
+          "机器学习"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "个人主页",
+        "url": "https://dingjie-wang.github.io/online-cv/"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangdingjie/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金优秀青年科学基金项目（海外）",
+      "国家自然科学基金青年科学基金项目（C类）"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王定杰\n页面链接: http://jszy.whu.edu.cn/wangdingjie/zh_CN/index.htm\n==================================================\n武汉大学 王定杰--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n王定杰，武汉大学武汉数学与智能研究院准聘副教授、研究员、博士生导师，国家海外高层次青年人才项目入选者。2019年于武汉大学获理学博士学位，此后在美国俄亥俄州立大学与密歇根大学安娜堡分校从事博士后研究工作近五年（2019–2024）。加入武汉大学前，曾任香港理工大学应用数学系研究员。\n主要从事数学、机器学习与生物医学的交叉研究，研究方向涵盖生物信息学、计算系统生物学、机器学习及大数据分析等领域。围绕高通量测序数据的数学建模与算法开发、复杂疾病的多源数据整合、多尺度建模与优化控制等方向，开展了系列研究工作。相关成果以第一作者或共同第一作者发表于 Nature Biotechnology, Nature Methods, Nature Communications, SIAM Journal on Applied Mathematics，Chaos, Information Sciences, Applied Mathematical Modelling等国际知名学术期刊。主持国家自然科学基金优秀青年科学基金项目（海外）和青年科学基金项目（C类）。现任期刊iMeta (2025 IF=33.2)、Genomics, Proteomics & Bioinformatics和GigaScience的青年编委，并担任Nature Biotechnology, Genome Biology, Bioinformatics, Communication Biology, Artificial Intelligence Review等多个国际期刊的审稿人。\n个人主页：https://dingjie-wang.github.io/online-cv/\n研究方向\n社会兼职\n计算系统生物学、生物信息学、机器学习与大数据分析\n暂无内容\n教育经历\n工作经历\n2009.9-----2013.6\n长沙理工大学\n|\n数学与应用数学\n|\n理学学士学位\n|\n理学学士学位\n2014.9-----2019.6\n武汉大学\n|\n计算数学\n|\n理学博士学位\n|\n理学博士学位\n2025.2-----至今\n武汉数学与智能研究院\n|\n武汉大学\n2024.10-----2025.1\n应用数学系\n|\n香港理工大学\n2023.2-----2024.4\n计算医学与生物信息学系\n|\n密歇根大学安娜堡分校\n2019.6-----2023.1\n生物医学信息系\n|\n俄亥俄州立大学\n团队成员\n暂无内容\n返回顶部\n+\n王定杰\n职务：准聘副教授、研究员主要任职：\n同专业硕导>>\n同专业博导>>\n个人信息\n教授\n博士生导师\n硕士生导师\n教师拼音名称：wangdingjie\n电子邮箱：\n所在单位：武汉数学与智能研究院\n职务：准聘副教授、研究员\n学历：博士研究生毕业\n办公地点：雷军科技楼A905室\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n学科：计算数学\n曾获荣誉：\n2024海外高层次青年人才\n其他联系方式\n邮编:\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

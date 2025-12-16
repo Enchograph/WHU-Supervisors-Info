@@ -1,0 +1,192 @@
+{
+  "id": "lihuifang1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lihuifang1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李慧芳",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [],
+    "graduation_school": "",
+    "academic_honors": [
+      "美国摄影测量与遥感协会(ASPRS)授予的ERDAS最佳遥感科学论文奖",
+      "湖北省科技进步一等奖",
+      "地理信息科技进步一等奖",
+      "测绘科技进步一等奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "城市遥感信息处理与应用",
+      "多模型融合的计算校正理论方法",
+      "城市温度多尺度遥感监测与分析"
+    ],
+    "research_interests": [
+      "遥感影像校正",
+      "云雾与阴影校正",
+      "深度学习在遥感中的应用",
+      "城市热环境监测",
+      "多源数据融合",
+      "大气衰减校正",
+      "复杂地表辐射畸变处理"
+    ],
+    "research_description": "李慧芳教授主要研究城市遥感信息处理与应用，针对卫星和航空影像中因大气衰减和复杂地表导致的严重辐射畸变问题，基于机理、变分、统计与深度学习等模型，开展多模型融合的计算校正理论与方法研究，致力于城市温度多尺度遥感监测与分析，取得了一系列创新性成果。",
+    "disciplines": [
+      "遥感科学与技术",
+      "地理信息系统",
+      "资源环境科学",
+      "测绘工程"
+    ],
+    "field_tags": [
+      "遥感影像处理",
+      "城市遥感",
+      "深度学习",
+      "云雾校正",
+      "阴影校正",
+      "多尺度监测",
+      "数据融合",
+      "辐射校正",
+      "城市热环境",
+      "智能遥感"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images",
+        "keywords": [
+          "云合成",
+          "物理模型嵌入",
+          "遥感影像",
+          "生成模型"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感信息处理",
+          "深度学习",
+          "影像校正"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "A thin cloud blind correction method coupling a physical model with unsupervised deep learning for remote sensing imagery",
+        "keywords": [
+          "薄云校正",
+          "物理模型",
+          "无监督深度学习",
+          "遥感影像"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感影像处理",
+          "云雾校正",
+          "深度学习"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "MCTN-Net: A Multi-Class Transportation Network Extraction Method Combining Orientation and Semantic Features",
+        "keywords": [
+          "道路提取",
+          "方向特征",
+          "语义特征",
+          "遥感影像"
+        ],
+        "journal_name": "IEEE Geoscience and Remote Sensing Letters",
+        "research_fields": [
+          "遥感图像解译",
+          "交通网络提取",
+          "深度学习"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Local Climate Zone Mapping by Coupling Multi-Level Features with Prior Knowledge Based on Remote Sensing Images",
+        "keywords": [
+          "局地气候区",
+          "多层级特征",
+          "先验知识",
+          "遥感"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "城市遥感",
+          "地表温度",
+          "城市形态分析"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Learning to Aggregate Multi-Scale Context for Instance Segmentation in Remote Sensing Images",
+        "keywords": [
+          "实例分割",
+          "多尺度上下文",
+          "遥感图像",
+          "深度学习"
+        ],
+        "journal_name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "research_fields": [
+          "遥感图像分割",
+          "深度学习",
+          "实例识别"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/lihuifang1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金优秀青年项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "国家自然科学基金重点项目",
+      "国家重点研发计划课题",
+      "国家重点研发计划子课题",
+      "湖北省重点研发计划",
+      "湖北省自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省重点研发计划",
+      "湖北省自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李慧芳\n页面链接: http://jszy.whu.edu.cn/lihuifang1/zh_CN/index.htm\n==================================================\n武汉大学 李慧芳--中文主页--首页\nEnglish\n中文\n李慧芳\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n学历：研究生毕业\n性别：女\n职称：教授\n在职信息：在职\n所属院系：\n资源与环境科学学院\n学科：\n个人简介\n个人简介\n李慧芳，女，教授，博导，主持国家自然科学基金优秀青年项目，武汉大学资源与环境科学学院。主要研究方向为城市遥感信息处理与应用，针对大气衰减和复杂地表导致的卫星和航空影像中的严重辐射畸变问题，以机理、变分、统计、深度学习等模型为基础，开展多模型融合的计算校正理论方法研究，开展城市温度多尺度遥感监测与分析，取得了系列创新性成果。\n主持国家自然科学基金4项（优青1项），国家重点研发项目课题/子课题3项，省部级及其他项目10余项，在RSE、ISPRS P&RS、IEEE TGRS等期刊发表学术论文50余篇，论文总被引2000多次（Google scholar）；出版《遥感数据质量改善之信息校正》专著一部；获得美国摄影测量与遥感协会(ASPRS)授予的ERDAS最佳遥感科学论文奖、湖北省科技进步一等奖、地理信息科技进步一等奖、测绘科技进步一等奖。\n欢迎有兴趣的研究生、本科生联系并加入我们的研究团队！（长期有效）\n研究生招收专业：\n资源环境监测与规划（硕博）、自然地理（硕博）、人文地理、测绘工程（专硕）、土地资源管理\n科研项目\n国家自然科学基金优秀青年项目，城市遥感信息处理与应用，2025.1-2027.12，主持.\n国家重点研发计划课题，城市典型生态环境问题时空特征与演变规律，2022.9-2026.8，主持.\n国家重点研发计划子课题，多源融合与异构同化的生态环境参数高精度感知技术，2020.1-2022.12，主持.\n国家自然科学基金面上项目, 城市复杂场景下的数据-模型联合驱动遥感影像阴影校正方法，2024-2027，主持.\n国家自然科学基金面上项目，耦合统计信息与物理机制的遥感影像云雾校正研究，2019-2022，主持.\n国家自然科学基金青年项目，高分辨率遥感影像的软阴影检测与高保真修复方法研究，2015.1-2017.12，主持.\n国家自然科学基金重点项目，山地典型生态参量遥感反演建模及其时空表征，2017.01-2021.12,参与.\n国家重点研发计划，高光谱激光雷达理论体系建立及总体技术集成研发，2018.05-2022.04，参与.\n湖北省重点研发计划，多模态大数据融合驱动的城市大气污染监测与预警技术研究，2023-2025，课题主持.\n湖北省自然科学基金，面向城市固体废弃物的遥感信息校正与目标检测方法研究，2021.06-2023.06，主持.\n湖北省自然科学基金，感知驱动的遥感影像快速变分校正方法研究，2014.01-2015.12,主持.\n主要论文\nL. Xu, H. Li*, H. Shen, M. Lei and T. Jiang, \"PGCS: Physical Law embedded Generative Cloud Synthesis in Remote Sensing Images,\" in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2025.3553239. Dataset and Code: https://github.com/Liying-Xu/PGCS.\nL. Xu, H. Li*, H. Shen, C. Zhang and L. Zhang, \"A thin cloud blind correction method coupling a physical model with unsupervised deep learning for remote sensing imagery\", ISPRS Journal of Photogrammetry and Remote Sensing, 218 (2024), 246-259.\nC. Shao, H. Li* and H. Shen, \"MCTN-Net: A Multi-Class Transportation Network Extraction Method Combining Orientation and Semantic Features\", IEEE Geoscience and Remote Sensing Letters, DOI: 10.1109/LGRS.2024.3372194.\nX. Zhong, H. Li*, H. Shen, M. Gao, Z. Wang, J. He, \"Local Climate Zone Mapping by Coupling Multi-Level Features with Prior Knowledge Based on Remote Sensing Images\", IEEE Trans. on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2024.3360522.\nLiu, Ye; Li, Huifang*; Hu, Chao; Luo, Shuang; Luo, Yan; Chen, Chang Wen, \" Learning to  Aggregate Multi-Scale Context for Instance Segmentation in Remote Sensing Images,\" IEEE Transactions on Neural Networks and Learning Systems, 2023, DOI: 10.1109/TNNLS.2023.3336563.\nH. Li*, Y. Han, T. Wang, Z. Wang, Y. Li, H. Shen, Evolution of urban morphological polycentricity and the thermal response in Wuhan from 2000 to 2020, Sustainable Cities and Society, 2023, 105055, ISSN 2210-6707.\nS. Luo, H. Li*, Y. Li, C. Shao, H. Shen and L. Zhang, \"An Evolutionary Shadow Correction Network and a Benchmark UAV Dataset for Remote Sensing Images,\" IEEE Trans. on Geoscience and Remote Sensing, vol. 61, pp. 1-14, 2023, Art no. 5615414, Dataset and Code: https://github.com/UrbanRScode/ESCNet\nC. Zhang, H. Li*, H. Shen, H. He, Y. Liu, P. Yi, L. Xu,  \"A General Thin Cloud Correction Method Combining Statistical Information and a Scattering Model for Visible and Near-infrared Satellite Images,\"  IEEE Trans. on Geoscience and Remote Sensing, vol. 61, pp. 1-19, doi: 10.1109/TGRS.2023.3296151.\nY. Gong, H. Li*, H. Shen, C. Meng,  P. Wu, “Cloud-covered MODIS LST reconstruction by combining assimilation data and remote sensing data through a nonlocality-reinforced network,” International Journal of Applied Earth Observation and Geoinformation, vol. 117, no. 203195, 2023.\nH. Li*; Hu, Chao; Zhong, Xinrun; Zeng, Chao; Shen, Huanfeng, “Solid waste detection in cities using remote sensing imagery based on a location-guided key point network with multiple enhancements”, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 16, pp. 191-201, 2022.\nC. Zhang, H. Li*, H. Shen, A scattering law based cirrus correction method for Landsat 8 OLI visible and near-infrared images, Remote Sensing of Environment, vol. 253, 112202, Feb. 2021.\nH. Li*, Y. Li, T. Wang, Z. Wang, M. Gao, H. Shen, \"Quantifying 3D Building Form Effects on Urban Land Surface Temperature and Modeling Seasonal Correlation Patterns\", Building and Environment, 2021, 204, 108132.\nS. Luo, H. Li*, H. Shen*, Deeply supervised convolutional neural network for shadow detection based on a novel aerial shadow imagery dataset, ISPRS Journal of Photogrammetry and Remote Sensing, vol. 167, Pages 443-457, Sep. 2020. Dataset and Code: https://github.com/RSrscoder/AISD\nH. Shen, C. Zhang, H. Li*, A Spatial-Spectral Adaptive Haze Removal Method for Visible Remote Sensing Images, IEEE Trans. on Geoscience and Remote Sensing, vol. 58, no. 9, pp. 6168-6180, 2020.\nS. Luo, H. Li*, R. Zhu, Y. Gong, and H. Shen, ESPFNet: An Edge-aware Spatial Pyramid Fusion Network for Salient Shadow Detection in Aerial Remote Sensing Images, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, 4633-4645, 2021.\nS. Luo, H. Shen, H. Li*, and Y. Chen, Shadow removal based on separated illumination correction for urban aerial remote sensing images, Signal Processing, vol. 165, pp. 197-208, 2019.\nZ. Li, H. Shen*, H. Li*, G. Xia, P. Gamba, and L. Zhang, Multi-feature combined cloud and cloud shadow detection in GaoFen-1 wide field of view imagery, Remote Sensing of Environment, vol. 191, pp. 342-358, 2017.\nH. Li, L. Xu, H. Shen, L. Zhang, A general variational framework considering cast shadows for the topographic correction of remote sensing imagery, ISPRS Journal of Photogrammetry and Remote Sensing, vol. 117, no. 7, pp. 161-171, 2016.\nH. Li, X. Wang, H. Shen, L. Zhang, An efficient multi-resolution variational Retinex scheme for the radiometric correction of airborne remote sensing images, International Journal of Remote Sensing, vol. 37, no. 5, pp. 1154-1172, 2016.\nH. Li, L. Zhang, H. Shen, A Perceptually Inspired Variational Method for the Uneven Intensity Correction of Remote Sensing Images, IEEE Trans. on Geoscience and Remote Sensing, 2012, vol. 50, no. 8, pp. 3053-3065.\nH. Li, L. Zhang, H. Shen, An adaptive non-local regularized shadow removal method for aerial remote sensing images, IEEE Trans. on Geoscience and Remote Sensing, 2014, vol. 52, no. 1, pp. 106-120.\nH. Li, L. Zhang, H. Shen, A Principal Component based Haze Masking Method for Visible Images, IEEE Geoscience and Remote Sensing Letters, 2014, vol. 11, no. 5, pp. 975-979.\nH. Shen, H. Li*, Y. Qian, L. Zhang, Q. Yuan, An effective thin cloud removal procedure for visible remote sensing images, ISPRS Journal of Photogrammetry and Remote Sensing, 2014, vol. 96, pp. 224-235.\nH. Shen, X. Li, Q. Cheng, C. Zeng, G. Yang, H. Li, and L. Zhang, “Missing Information Reconstruction of Remote Sensing Data: A Technical Review,” IEEE Geoscience and Remote Sensing Magazine, vol. 3, no. 3, pp. 61-85, 2015.\nX. Meng, H. Shen, Q. Yuan, H. Li, L. Zhang, and W. Sun, “Pansharpening for cloud-contaminated very high-resolution remote sensing images,” IEEE Transactions on Geoscience and Remote Sensing, vol. 57, no. 5, pp. 2840-2854, 2018.\nX. Meng, H. Shen, H. Li, L. Zhang, and R. Fu, \"Review of the pansharpening methods for remote sensing images based on the idea of meta-analysis: Practical discussion and challenges,\" Information Fusion, vol. 46, pp. 102-113, 2019.\n李慧芳, 沈焕锋, 张良培, 李平湘, \"一种基于变分Retinex的遥感影像不均匀性校正方法,\" 测绘学报, 39(6),  585-591, 2010.\n王晓静, 李慧芳*, 袁强强, 沈焕锋, 张良培, \"采用分裂Bregman的遥感影像亮度不均变分校正,\" 中国图象图形学报,19(5), 798-805, 2014.\n张弛,李慧芳*,沈焕锋.联合统计信息与散射模型的GF-5 AHSI可见光影像薄云校正[J].遥感学报,2020,24(04):368-378.\n发明专利\n[1] 李慧芳，张弛，沈焕锋.一种短波红外波段辅助的遥感影像薄云雾校正方法，ZL202011339970.6.\n[2] 沈焕锋，罗爽，李慧芳. 一种基于深度学习的无人机遥感影像阴影去除方法，ZL202011349993.5.\n[3] 李慧芳，胡超，罗爽. 沈焕锋基于多策略增强的遥感影像固体废弃物识别方法及系统，ZL202110345854.3.\n[4] 沈焕锋，李志伟，李慧芳，吴崎.一种多特征联合的光学卫星影像云与云阴影检测方法，ZL201610018751.5.\n[5] 李慧芳，徐立颖. 一种不配对遥感影像薄云雾检测及去除方法，申请号：202210554878.4.\n[6] 李慧芳，钟新润. 耦合多层级特征与先验知识的局地气候区分类方法及系统，申请号：2023115459438.\n[7] 李慧芳，邵乘霖. 联合方向和语义特征的多类别道路自动提取方法及系统，申请号：2023115558768.\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

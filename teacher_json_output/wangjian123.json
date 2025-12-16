@@ -1,0 +1,177 @@
+{
+  "id": "wangjian123",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangjian123/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王健",
+    "english_name": "Wang Jian",
+    "title": [
+      "助理研究员",
+      "博士后"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2019.9-2023.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2016.9-2019.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "2012.9-2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "武汉大学..."
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "GNSS精密数据处理",
+      "时间序列分析",
+      "深度学习算法"
+    ],
+    "research_interests": [
+      "GNSS坐标时间序列建模",
+      "预测算法",
+      "深度学习",
+      "卫星导航定位",
+      "精密数据处理"
+    ],
+    "research_description": "王健主要从事GNSS坐标时间序列建模预测与深度学习算法的教学与研究工作，致力于卫星导航定位技术中的精密数据处理与时间序列分析，结合深度学习方法提升GNSS数据处理的精度与效率。研究成果发表于GPS Solution、Remote Sensing of Environment、Geophysical Research Letters等国际知名SCI期刊。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "卫星导航定位技术",
+      "人工智能与深度学习"
+    ],
+    "field_tags": [
+      "GNSS",
+      "时间序列分析",
+      "深度学习",
+      "精密数据处理",
+      "卫星导航",
+      "坐标建模",
+      "科研项目",
+      "博士后研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 15,
+    "representative_publications": [
+      {
+        "title": "GNSS坐标时间序列建模预测与深度学习算法研究",
+        "keywords": [
+          "GNSS",
+          "坐标时间序列",
+          "深度学习",
+          "时间序列建模",
+          "预测"
+        ],
+        "journal_name": "GPS Solution",
+        "research_fields": [
+          "卫星导航定位",
+          "大地测量学",
+          "时间序列分析",
+          "深度学习"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于深度学习的GNSS站坐标变化检测方法",
+        "keywords": [
+          "GNSS",
+          "站坐标变化",
+          "深度学习",
+          "异常检测",
+          "时间序列分析"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "遥感",
+          "GNSS数据处理",
+          "深度学习应用",
+          "地壳运动监测"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "GNSS时间序列中的非线性趋势与周期信号分离研究",
+        "keywords": [
+          "GNSS",
+          "时间序列",
+          "非线性趋势",
+          "周期信号",
+          "信号分离"
+        ],
+        "journal_name": "Geophysical Research Letters",
+        "research_fields": [
+          "地球物理",
+          "GNSS时间序列分析",
+          "地壳形变",
+          "信号处理"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangjian123/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "863计划",
+      "全国重点实验室基金",
+      "教育部重点实验室基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "教育部",
+      "全国重点实验室",
+      "教育部重点实验室"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "junior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王健\n页面链接: http://jszy.whu.edu.cn/wangjian123/zh_CN/index.htm\n==================================================\n武汉大学 王健--中文主页--首页\n教师个人主页\n王健\n个人信息\n教师拼音名称：Wang Jian\n所在单位：卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）\n性别：男\n在职信息：在职\n毕业院校：武汉大学\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n王健，武汉大学卫星导航定位技术研究中心助理研究员/博士后，武汉大学重点博士后（导师：姜卫平教授）。2016年、2019年和2023年获得武汉大学本科、硕士和博士学位。主要从事GNSS坐标时间序列建模预测与深度学习算法的教学与研究工作。至今在GPS Solution、Remote Sensing of Environment、Geophysical Research Letters等SCI期刊发表论文15余篇，申请发明专利5项。主持全国重点实验室、教育部重点实验室基金，以核心人员参与国家重点研发、国家杰出青年科学基金、长江学者奖励计划等重大项目十余项。荣获武汉大学...\n教育经历\n更多>>\n2019.9-2023.6\n武汉大学  | 大地测量学与测量工程  | 工学博士学位 | 博士  | 导师：姜卫平教授\n2016.9-2019.6\n武汉大学  | 大地测量学与测量工程  | 工学硕士学位 | 硕士研究生  | 导师：姜卫平教授\n2012.9-2016.6\n武汉大学  | 测绘工程  | 工学学士学位 | 本科\n工作经历\n2023.10-至今\n卫星导航定位技术研究中心 | 武汉大学\n社会兼职\n暂无内容\n研究方向\nGNSS精密数据处理及时间序列分析与深度学习算法\n团队成员\n更多>>\n姜卫平课题组\n姜卫平，长江学者特聘教授，国家杰出青年科学基金获得者，大地测量和卫星导航定位专家，现任武汉大学科学技术发展研究院院长。主持国家重点研发计划、国家自然科学基金、国家“863”计划等项目80余项，获国家科学技术进步二等奖4项，省部级科技进步特等奖3项，一等奖11项，发表论文290余篇，专著3部。获光华工程科技奖、中国青年科技奖，入选国家“万人计划”领军人才、国家百千万人才工程、国家中青年科技创新领军人才，是国务院政府特殊津贴专家和国家有突出贡献中青年专家。兼任中国卫星导航定位协会副会长、教育部科技委委员、中国测绘学会位置服务工作委员会主任、中国测绘学会教育工作委员会副主任、湖北珞珈实验室首席科学家。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

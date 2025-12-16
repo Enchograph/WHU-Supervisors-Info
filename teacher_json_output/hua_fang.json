@@ -1,0 +1,227 @@
+{
+  "id": "hua_fang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hua_fang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "花放",
+    "english_name": "Fang Hua",
+    "title": [
+      "副教授",
+      "副主任医师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "正畸与儿童口腔中心",
+    "college": "口腔医学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士后",
+        "field": "口腔正畸学",
+        "school": "武汉大学",
+        "period": "博士后阶段",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "口腔公共卫生与社区口腔医学",
+        "school": "Division of Dentistry, University of Manchester",
+        "period": "2013 - 2017",
+        "country": "英国"
+      },
+      {
+        "degree": "硕士",
+        "field": "口腔正畸学",
+        "school": "武汉大学",
+        "period": "2008 - 2013",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "Division of Dentistry, University of Manchester",
+    "academic_honors": [
+      "湖北省海外高层次人才引进计划",
+      "武汉中青年医学骨干人才",
+      "首届中华口腔医学会口腔正畸专委会青年人才",
+      "斯坦福大学全球前 2%顶尖科学家榜单"
+    ],
+    "academic_services": [
+      "国际牙科研究协会（IADR）循证牙医学专委会候任主任委员",
+      "曼彻斯特大学牙学院名誉研究员",
+      "Cochrane协作网口腔健康组编委",
+      "Journal of Evidence-Based Dental Practice编委",
+      "BMC Oral Health编委",
+      "中华口腔医学杂志通讯编委",
+      "中华医学会杂志社指南与标准研究中心STAR工作组口腔医学专科委员会副主任委员",
+      "中华口腔医学会口腔正畸专委会委员",
+      "湖北省睡眠研究会青年委员",
+      "Scientific Reports 编委",
+      "Journal of Orthodontics 编委",
+      "Translational Dental Research 编委",
+      "Heliyon – Heliyon Dentistry 顾问编委",
+      "Cochrane Database of Systematic Reviews - Cochrane口腔健康组 资深编委",
+      "中国研究型医院睡眠医学专业委员会 委员",
+      "引证研究国际联盟 (EBRNetwork) 成员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "循证口腔医学",
+      "口腔正畸学",
+      "临床流行病学",
+      "牙颌颜面发育与睡眠医学"
+    ],
+    "research_interests": [
+      "循证医学",
+      "口腔正畸",
+      "临床研究方法学",
+      "患者报告结局",
+      "人工智能在口腔医学中的应用",
+      "正畸相关釉质脱矿",
+      "睡眠呼吸障碍与牙颌面发育",
+      "系统评价与Meta分析"
+    ],
+    "research_description": "花放副教授主要从事循证口腔医学、口腔正畸学及临床流行病学研究，聚焦于口腔临床研究的方法学改进、患者报告结局（PROs）的应用、正畸治疗中釉质脱矿的预防与治疗、牙颌颜面发育与睡眠医学的交叉研究。其研究涵盖系统评价、Meta分析、随机对照试验报告质量评估、临床研究中的‘spin’现象、开放获取对科研影响力的影响、人工智能在头影测量与正畸诊断中的应用等多个前沿方向。已发表第一/通讯作者论文80余篇，涵盖Annals of Oncology、Cochrane Database of Systematic Reviews、Journal of Clinical Epidemiology、AJO-DO、European Journal of Orthodontics等权威期刊。",
+    "disciplines": [
+      "口腔医学",
+      "循证医学",
+      "临床流行病学",
+      "生物统计学"
+    ],
+    "field_tags": [
+      "循证医学",
+      "口腔正畸",
+      "系统评价",
+      "Meta分析",
+      "患者报告结局",
+      "人工智能",
+      "睡眠医学",
+      "临床研究方法学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "Open access to journal articles in oncology: Current situation and citation impact",
+        "keywords": [
+          "开放获取",
+          "期刊文章",
+          "引用影响",
+          "肿瘤学"
+        ],
+        "journal_name": "Annals of Oncology",
+        "research_fields": [
+          "循证口腔医学",
+          "临床流行病学",
+          "开放获取研究"
+        ],
+        "publication_year": 2017
+      },
+      {
+        "title": "The reporting and methodological quality of split-mouth trials in oral implantology: A methodological study",
+        "keywords": [
+          "交叉试验",
+          "口腔种植",
+          "报告质量",
+          "方法学研究"
+        ],
+        "journal_name": "Clinical Oral Implants Research",
+        "research_fields": [
+          "口腔正畸学",
+          "临床流行病学",
+          "循证医学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Oral hygiene care for critically ill patients to prevent ventilator-associated pneumonia",
+        "keywords": [
+          "重症患者",
+          "口腔护理",
+          "呼吸机相关性肺炎",
+          "系统综述"
+        ],
+        "journal_name": "Cochrane Database of Systematic Reviews",
+        "research_fields": [
+          "循证医学",
+          "临床流行病学",
+          "口腔公共卫生"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Spin in the abstracts of randomized controlled trials in periodontology and oral implantology: A cross-sectional analysis",
+        "keywords": [
+          "研究偏倚",
+          "随机对照试验",
+          "摘要报告",
+          "牙周病学"
+        ],
+        "journal_name": "Journal of Clinical Periodontology",
+        "research_fields": [
+          "循证口腔医学",
+          "临床研究方法学",
+          "牙周病学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "The long-term influence of Open Access on the scientific and social impact of dental journal articles: An updated analysis",
+        "keywords": [
+          "开放获取",
+          "科学影响力",
+          "社会影响力",
+          "牙科期刊"
+        ],
+        "journal_name": "Journal of Dentistry",
+        "research_fields": [
+          "循证医学",
+          "开放获取",
+          "科学传播"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学口腔医学院教师主页",
+        "url": "http://jszy.whu.edu.cn/hua_fang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "中国博士后科学基金一等面上项目",
+      "中国牙防基金会科研项目",
+      "国际正畸基金会精英资助金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金",
+      "中国牙防基金会",
+      "国际正畸基金会"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 花放\n页面链接: http://jszy.whu.edu.cn/hua_fang/zh_CN/index.htm\n==================================================\n武汉大学 花放--中文主页--首页\nEnglish\n中文\n花放\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n硕士生导师\n教师英文名称：Fang Hua\n电子邮箱：\n职务：负责人\n学历：博士研究生毕业\n性别：男\n联系方式：\n在职信息：在职\n主要任职：武汉大学口腔医院光谷院区正畸与儿童口腔中心负责人\n其他任职：武汉大学口腔医院牙颌颜面发育与睡眠医学中心副主任、循证口腔医学中心常务副主任、临床研究中心办公室副主任\n毕业院校：Division of Dentistry, University of Manchester\n所属院系：\n口腔医学院\n学科：\n口腔医学其他专业\n个人简介\n花放，副教授、副主任医师、硕士生导师，武汉大学口腔正畸学硕士、博士后，英国曼彻斯特大学口腔公共卫生与社区口腔医学博士。入选湖北省海外高层次人才引进计划、武汉中青年医学骨干人才、首届中华口腔医学会口腔正畸专委会青年人才、斯坦福大学全球前 2%顶尖科学家榜单。现任武汉大学口腔医院循证口腔医学中心常务副主任、临床研究中心办 公室副主任、牙颌颜面发育与睡眠医学中心副主任、光谷院区正畸与儿童口腔中心负责人；兼任国际牙科研究协会（IADR）循证牙医学专委会候任主任委员、曼彻斯特大学牙学院名誉研究员、Cochrane协作网口腔健康组编委、Journal of Evidence-Based Dental Practice编委、BMC Oral Health编委、中华口腔医学杂志通讯编委、中华医学会杂志社指南与标准研  究中心STAR工作组口腔医学专科委员会副主任委员、中华口腔医学会口腔正畸专委会委员、湖北省睡眠研究会青年委员，60余本SCI或SSCI期刊审稿人。主要研究方向为循证口腔医学、口腔正畸学、临床流行病学。在Annals of Oncology、Cochrane Database of Systematic Reviews、Journal of Clinical Epidemiology、Journal of Dental Research、AJO-DO、European Journal of Orthodontics等相关领域权威SCI期刊发表第一/通讯作者论文 80 余篇。参编《Evidence-Based Orthodontics (Second  Edition)》国际英文专著以及《循证医学（第2版）》、《循证口腔医学（第 3 版）》人卫社教材，《循证口腔正畸学（第 2 版）》副主译。主持国家自然科学基金青年项目、中国博士后科学基金一等面上项目、中国牙防基金会“爱笑少年”科研项目、国际正畸基金会（IOF）精英资助金项目各一项。\n1.      国际牙科研究协会循证牙医学专委会 (IADR EBD Network) 侯任主任委员（2024 -）\n2.      中华医学会杂志社指南与标准研究中心 - STAR口腔医学专科委员会 Vice President（2022 -）\n3.      英国曼彻斯特大学牙医学院 Honorary Research Fellow（2017 -）\n4.      世界正畸医师联盟WFO  Fellow（2020-）\n5.      中国研究型医院睡眠医学专业委员会 委员（2024 -）\n6.      Scientific Reports 编委（2024-）\n7.      Journal of Orthodontics 编委 （2024-）\n8.      Translational Dental Research 编委 （2024-）\n9.      中华口腔医学会杂志 通讯编委（2023 -）\n10.      BMC Oral Health 编委（2023-）\n12.     Heliyon – Heliyon Dentistry 顾问编委（2022 -）\n12.     Journal of Evidence-Based Dental Practice 编委（2019 -）\n13.     Cochrane Database of Systematic Reviews - Cochrane口腔健康组 资深编委（2017 -）\n14.     中华口腔医学会口腔正畸专委会 委员、青年讲师（2020 -）\n15.     湖北省口腔医学会正畸专业委员会 委员（2018 -）\n16.     湖北省睡眠研究会 青年委员（2018 -）\n17.     引证研究国际联盟 (EBRNetwork) 成员（2024 -）\n18.     50 本SCI期刊 审稿人（2014 -）\n发表论文：\n□         Research Articles (第一 / 通讯)\n1. Hua F, Sun H, Walsh T, Glenny AM, Worthington H *. Open access to journal articles in oncology: Current situation and citation impact. Annals of Oncology. 2017 Oct;28(10):2612-7. (IF = 56.7；大类 1 区)\n2. Luo T #, Yan J #, Cao L, Liao X, Wang N, Hua F *, He H *. Novel orthodontic adhesives with antibacterial, mineralization and fluorescence properties for enamel demineralization prevention. Chemical Engineering Journal. 2024 Nov;500:156737. (IF = 13.3；大类1区)\n3. Wu X #, Yan Q #, Fang X, Hua F *, Shi B *, Tu YK. Spin in the abstracts of randomized controlled trials in periodontology and oral implantology: A cross-sectional analysis. Journal of Clinical Periodontology. 2020 Sep;47(9):1079-86. (IF = 5.8；大类1区)\n4. Meng Z, Xiang Q, Wu X, Hua F *, Dong W *, Tu YK. The level of evidence, scientific impact and social impact of clinical studies in periodontology: A methodological study. Journal of Clinical Periodontology. 2020 Aug; 47(8):902-11. (IF = 5.8；大类1区)\n5. Qin D, Hua F *, He H *, Liang S, Worthington H, Walsh T. Quality of split-mouth trials in dentistry: 1998, 2008 and 2018. Journal of Dental Research. 2020 Dec;99(13):1453-60. (IF = 5.7；大类1区)\n6. Hua F, Walsh T*, Glenny AM *, Worthington H*. Surveys on reporting guideline usage in dental journals. Journal of Dental Research. 2016 Oct;95(11):1207-13. (IF = 5.7；大类1区)\n7. Fang X #, Hua F #, Riley P, Chen F, Zhang L, Walsh T, Chen Z *. Abstracts of published randomised controlled trials in Endodontics: Reporting quality and spin. International Endodontic Journal. 2020 Aug;53(8):1050-61. (IF = 5.4；大类1区)\n8. Qin D #, Hua F #, Yue H, Yan Q, He H *, Tu YK. The reporting and methodological quality of split-mouth trials in oral implantology: A methodological study. Clinical Oral Implants Research. 2022 Dec;33(12):1282-92. (IF = 4.8；大类1区)\n9. Wu X #, Hu Q #, Yan Q #, Zhang T, Riley P, Hua F *, Shi B *, Tu YK. Trends in the level of evidence and impact of clinical studies published in leading oral implantology journals: 2008-2018. Clinical Oral Implants Research. 2020 Oct;31(10):980-91. (IF = 4.8；大类1区)\n10. Wu X #, Yan Q #, Riley P, Hua F *, Shi B *, Glenny AM, Tu YK. Abstracts presented at the European Association for Osseointegration (EAO) Congresses: Publication fate and discrepancies with full-length articles. Clinical Oral Implants Research. 2020 Aug;31(8):715-26. (IF = 4.8；大类1区)\n11. Yan J #, Hua F #, Cao L, Yang H *, He H *. Multifunctional modification of orthodontic adhesives with ZnO quantum dots. Dental Materials. 2022 Nov;38(11):1728-41. (IF = 4.6；大类1区)\n12. Zhao T #, Wu X #, Zhang Q, Li C, Worthington H, Hua F *. Oral hygiene care for critically ill patients to prevent ventilator-associated pneumonia. Cochrane Database of Systematic Reviews. 2020 Dec;12:CD008367. (IF= 8.8；大类2区)\n13. Hua F, Xie H, Worthington H, Furness S *, Zhang Q, Li C. Oral hygiene care for critically ill patients to prevent ventilator-associated pneumonia. Cochrane Database of Systematic Reviews. 2016 Oct;10:CD008367. (IF= 8.8；大类2区)\n14. Hua F, Walsh T, Glenny AM, Worthington H *. Thirty percent of abstracts presented at dental conferences are published in full: a systematic review. Journal of Clinical Epidemiology. 2016 Jul;75:16-28. (IF = 7.3；大类2区)\n15. Guo F, Zhao T, Zhai Q, Fang X, Yue H, Hua F *, He H *. “Spin” among abstracts of randomized controlled trials in sleep medicine: A research-on-research study. SLEEP. 2023 Jun;46(6):zsad041. (IF = 5.3；大类2区)\n16. Wang Y #, Guo F #, Chen X, Yu R, Qin D, Hua F *. Selective outcome reporting among randomized controlled trials published in leading dental journals: A research-on-research study. Journal of Dentistry. 2024 Dec;151:105448. (IF = 4.8；大类2区)\n17. Yu X #, Meng Z #, Qin D, Shen C, Hua F *. The long-term influence of Open Access on the scientific and social impact of dental journal articles: An updated analysis. Journal of Dentistry. 2022 Apr;119:104067. (IF = 4.8；大类2区)\n18. Li T #, Hua F #, Dan S, Zhong Y, Levey C, Song Y *. Reporting quality of systematic review abstracts in operative dentistry: An assessment using the PRISMA for Abstracts guidelines. Journal of Dentistry. 2020 Nov;102:103471. (IF = 4.8；大类2区)\n19. Hua F *, Shen C, Walsh T, Glenny AM, Worthington H. Open access: Concepts, findings, and recommendations for stakeholders in dentistry. Journal of Dentistry. 2017 Sep;64:13-22. (IF = 4.8；大类2区)\n20. Hua F *, Sun H, Walsh T, Worthington H, Glenny AM. Open access to journal articles in dentistry: Prevalence and citation impact. Journal of Dentistry. 2016 Apr;47:41-8. (IF = 4.8；大类2区)\n21. Zhao Y #, Yan Q #, Wu X, Hua F *, Shi B *. Characteristics, level of evidence, and impact of clinical studies on peri-implantitis: 2017 to 2021. Journal of Periodontology. 2023 Oct;94(10):1266-76. (IF = 4.2；大类2区)\n22. Yu J #, Hua F #, Shen Y, Haapasalo M, Qin D, Zhao D *, Peng B *, Fouad A. Resumption of endodontic practices in COVID-19 hardest-hit area of China: A web-based survey. Journal of Endodontics. 2020 Nov;46(11):1577-83.e2. (IF = 3.5；大类2区)\n23.  Cao L #, Yan J #, Luo T, Yan H, Hua F *, He H *. Antibacterial and fluorescent clear aligner attachment resin modified with chlorhexidine loaded mesoporous silica nanoparticles and zinc oxide quantum dots. Journal of the Mechanical Behavior of Biomedical Materials. 2023 May;141:105817. (IF = 3.3；大类2区)\n24. Hua F #, Deng L #, Kau CH, Jiang H, He H *, Walsh T. Reporting quality of randomized controlled trial abstracts: survey of leading general dental journals. The Journal of the American Dental Association. 2015 Sep;146(9):669-78.e1. (IF = 3.1；大类2区)\n25. Yan J, Cao L, Luo T, Qin D, Hua F *, He H *. In vitro evaluation of a novel fluoride‑coated clear aligner with antibacterial and enamel remineralization abilities. Clinical Oral Investigations. 2023 Oct;27(10):6027-42. (IF = 3.1；大类2区)\n26. Fang X #, Hua F #, Chen Z *, Zhang L *. Caries risk assessment‑related knowledge, attitude, and behaviors among Chinese dentists: a cross‑sectional survey. Clinical Oral Investigations. 2023 Mar;27(3):1079-87. (IF = 3.1；大类2区)\n27. Yu L #, Yu X #, Li Y, Yang F, Hong J, Qin D, Song G *, Hua F *. The additional benefit of professional fluoride application for children as an adjunct to regular fluoride toothpaste: a systematic review and meta-analysis. Clinical Oral Investigations. 2021 Jun;25(6):3409-19. (IF = 3.1；大类2区)\n28. Hu H #, Feng C #, Jiang Z, Wang L, Shrestha S, Yan J, Shu Y, Ge L, Lai W, Hua F *, Long H *. Effectiveness of remineralizing agents in the prevention and reversal of orthodontically induced white spot lesions: a systematic review and network meta-analysis. Clinical Oral Investigations. 2020 Dec;24(12):4153-67. (IF = 3.1；大类2区)\n29. Hua F #, Yan J #, Zhao S, Yang H *, He H *. In-vitro remineralization of enamel white spot lesions with a carrier-based amorphous calcium phosphate delivery system. Clinical Oral Investigations. 2020 Jun;24(6):2079-89. (IF = 3.1；大类2区)\n30. Lin L #, Tang B #, Cao L, Yan J, Zhao T, Hua F *, He H *. The knowledge, experience, and attitude on artificial intelligence-assisted cephalometric analysis: Survey of orthodontists and orthodontic students. American Journal of Orthodontics and Dentofacial Orthopedics. 2023 Oct;164(4):e97-e105. (IF = 2.7；大类2区)\n31. Wang Y #, Qin D #, Guo F, Levey C, Huang G, Ngan P, Hua F *, He H *. Outcomes used in trials regarding the prevention and treatment of orthodontically induced white spot lesions: A scoping review. American Journal of Orthodontics and Dentofacial Orthopedics. 2021 Nov;160(5):659-70.e7. (IF = 2.7；大类2区)\n32. Hua F, He H *, Ngan P, Bouzid W. Prevalence of peg-shaped maxillary permanent lateral incisors: A meta-analysis. American Journal of Orthodontics and Dentofacial Orthopedics. 2013 Jul;144(1):97-109. (IF = 2.7；大类2区)\n33. Chen L #, Hong J #, Xiong D, Zhang L, Li Y, Huang S *, Hua F *. Are parents’ education levels associated with either their oral health knowledge or their children’s oral health behaviors? A survey of 8446 families in Wuhan. BMC Oral Health. 2020 Jul;20(1):203. (IF = 2.6；大类2区)\n34. Wang N #, Yu J #, Yan J, Hua F *. Recent advances in antibacterial coatings for orthodontic appliances. Frontiers in Bioengineering and Biotechnology. 2023 Feb;11:1093926. (IF = 4.3；大类3区)\n35. Yan J, Yang H, Luo T, Hua F *, He H *. Application of amorphous calcium phosphate agents in the prevention and treatment of enamel demineralization. Frontiers in Bioengineering and Biotechnology. 2022 May;10:853436. (IF = 4.3；大类3区)\n36. Zhao S #, Hua F #, Yan J, Yang H *, Huang C *. Effects of plant extracts on dentin bonding strength: A systematic review and meta-analysis. Frontiers in Bioengineering and Biotechnology. 2022 Feb;10:836042. (IF = 4.3；大类3区)\n37. Guo F #, Ye W #, Qin D, Fang X, Hua F *, He H *. Abstracts of randomized controlled trials in pediatric dentistry: reporting quality and spin. BMC Medical Research Methodology. 2023 Nov;23(11):263. (IF = 3.9；大类3区)\n38. Hua F *, Walsh T, Glenny AM, Worthington H *. Structure formats of randomised controlled trial abstracts: a cross-sectional analysis of their current usage and association with methodology reporting. BMC Medical Research Methodology. 2018 Jan;18(1):6. (IF = 3.9；大类3区)\n39. Lu W #, Yu X #, Li Y, Cao Y, Chen Y *, Hua F *. Artificial intelligence-related dental research: Bibliometric and altmetric analysis. International Dental Journal. 2024 Sep. Online ahead of print. DOI: 10.1016/j.identj.2024.08.004. (IF = 3.2；大类3区)\n40. Li J #, Yu X #, Gao L, Xin L, Wang Y, Guo F, Hua F *. Reporting of search strategy among systematic reviews in leading dental specialty journals: A research-on-research study. Journal of Oral Rehabilitation. 2024 Nov. Online ahead of print. DOI: 10.1111/joor.13904. (IF = 3.1；大类3区)\n41. Li Y #, Zhao T #, Ngan P, Yi S, Wei Z, Hua F *, He H *. Hyoid bone position and upper airway morphology of children with obstructive sleep apnea: A systematic review and meta-analysis. Orthodontics & Craniofacial Research. 2024 Nov. Online ahead of print. DOI: 10.1111/ocr.12873. (IF = 3.1；大类3区)\n42. Huang X #, Qin D #, Ngan P, Cao L, Hua F *, He H *. White spot lesion–related perception of aesthetics and treatment satisfaction among orthodontic patients, orthodontists and other dental specialists. Orthodontics & Craniofacial Research. 2024 Aug;27(4):626-34. (IF = 3.1；大类3区)\n43. Chen D #, Meng Z #, Zhao T, Yu X, He H, Hua F *, Dong W *. Association between sleep-disordered breathing and periodontal diseases: a systematic review protocol. Frontiers in Medicine. 2022 Aug;9:960245. (IF = 3.1；大类3区)\n44. Guo F #, Tang B #, Qin D #, Zhao T, Su YX, McGrath C, Hua F *, He H *. The impact of COVID-19 epidemic on orthodontic patients in China: An analysis of posts on Weibo. Frontiers in Medicine. 2020 Dec;7:577468. (IF = 3.1；大类3区)\n45. Hua F #, Qin D #, Yan J, Zhao T, He H *. COVID-19 related experience, knowledge, attitude and behaviors among 2669 orthodontists, orthodontic residents and nurses in China: A cross-sectional survey. Frontiers in Medicine. 2020 Aug;7:481. (IF = 3.1；大类3区)\n46. Lin L #, Zhao T #, Qin D, Hua F *, He H *. The impact of mouth breathing on dentofacial development: A concise review. Frontiers in Public Health. 2022 Sep;10:929165. (IF = 3.0；大类3区)\n47. Zhao T #, Zhou J #, Yan J, Cao L, Cao Y, Hua F *, He H *. Automated adenoid hypertrophy assessment with lateral cephalometry in children based on artificial intelligence. Diagnostics. 2021 Aug;11(8):1386. (IF = 3.0；大类3区)\n48. Yu J #, Hua F #, Qin D, Zhao D *, Li Z *. Impact of citywide COVID-19 testing on people’s behaviour in seeking for dental services in Wuhan. Oral Diseases. 2022 Apr;28(S1):922-4. (IF = 2.9；大类3区)\n49. Almaqrami BS #, Hua F #, Liu Y, He H *. Research waste related editorial policies of leading dental journals: Situation 2018. Oral Diseases. 2020 Mar;26(3):696-706. (IF = 2.9；大类3区)\n50. Liu Y #, Zhao T #, Ngan P, Qin D, Hua F *, He H *. The dental and craniofacial characteristics among children with obstructive sleep apnea: A systematic review and meta-analysis. European Journal of Orthodontics. 2023 Jun;45(3):346-55. (IF = 2.8；大类3区)\n51. Qin D #, Hua F #, Liang S, Worthington H, He H *. The reporting quality of split-mouth trials in orthodontics according to CONSORT guidelines: 2015–19. European Journal of Orthodontics. 2021 Oct;43(5):557-66. (IF = 2.8；大类3区)\n52. Guo F #, Fang X #, Li C, Qin D, Hua F *, He H *. The presence and characteristics of ‘spin’ among randomized controlled trial abstracts in orthodontics. European Journal of Orthodontics. 2021 Oct;43(5):576-82. (IF = 2.8；大类3区)\n53. Hua F*, Walsh T, Glenny AM, Worthington H. Reporting quality of randomized controlled trial abstracts presented at European Orthodontic Society congresses. European Journal of Orthodontics. 2016 Dec;38(6):584-92. (IF = 2.8；大类3区)\n54. Li J #, Hua F #, Xu P, Huang C, Yang H *. Effects of desensitisers on adhesive-dentin bonding strength: A systematic review and meta-analysis. Journal of Adhesive Dentistry. 2021 Jan;23(1):7-19. (IF = 2.5；大类3区)\n55. Yu L #, Yu X #, Li Y, Li J, Hua F *, Song G *. Is it necessary for children to receive professional fluoride in addition to regular fluoride toothpaste? Protocol for a systematic review. BMJ Open. 2020 Sep;10(9):e037422. (IF = 2.4；大类3区)\n56. Hua F #, Sun Q #, Zhao T, Chen X, He H *. Reporting quality of randomised controlled trial abstracts presented at the SLEEP Annual Meetings: a cross-sectional study. BMJ Open. 2019 Jul;9(7):e029270. (IF = 2.4；大类3区)\n57. Hua F #, Zhao T #, Walsh T, Sun Q, Chen X, Worthington H, Jiang F, He H *. Effects of adenotonsillectomy on the growth of children with obstructive sleep apnoea-hypopnea syndrome (OSAHS): protocol for a systematic review. BMJ Open. 2019 Aug;9(8):e030866. (IF = 2.4；大类3区)\n58. Yan Q #, Wu X #, Su M, Hua F *, Shi B *. Short implants (≤6 mm) versus longer implants with sinus floor elevation in atrophic posterior maxilla: a systematic review and meta-analysis. BMJ Open. 2019 Oct;9(10):e029826. (IF = 2.4；大类3区)\n59. Fang X, Guo F, Chen Z, Hua F *, Zhang L *. Abstracts of randomised controlled trials in the field of dentofacial trauma: Reporting quality and spin. Dental traumatology. 2023 Jan;13:276-284. (IF = 2.3；大类3区)\n60. Zhao T, Yang Z, Ngan P, Luo P, Zhang J, Hua F *, He H *. Association between adenotonsillar hypertrophy and dentofacial characteristics of children seeking for orthodontic treatment: A cross-sectional study. Journal of Stomatology, Oral and Maxillofacial Surgery. 2024 Sep;125(4):101751. (IF = 1.8，大类3区)\n61. Hua F *. Dental patient-reported outcomes update 2023. Journal of Evidence-Based Dental Practice. 2024 Jan;24(1S):101968. (IF = 4.1；大类4区)\n62. Qin D, Hua F *, John MT. Glossary for dental patient-centered outcomes. Journal of Evidence-Based Dental Practice. 2024 Jan;24(1S):101951. (IF = 4.1；大类4区)\n63. Huang X #, Tao Z #, Ngan P, Qin D, He H, Hua F *. The use of dental patient-reported outcomes among comparative observational studies in orthodontics: A methodological study. Journal of Evidence-Based Dental Practice. 2024 Jan;24(1S):101956. (IF = 4.1；大类4区)\n64. Li Q #, Tang S #, Yu X, Glenny AM, Hua F *. The contents, methods and assessment of evidence-based dentistry education: A scoping review. Journal of Evidence-Based Dental Practice. 2023 Sep;23(3):101895. (IF = 4.1；大类4区)\n65. Hua F *. Dental patient-reported outcomes update 2022. Journal of Evidence-Based Dental Practice. 2023 Jan:23(1S):101802. (IF = 4.1；大类4区)\n66. Tao Z #, Zhao T #, Ngan P, Qin D, Hua F *, He H *. The use of dental patient-reported outcomes among randomized controlled trials in orthodontics: A methodological study. Journal of Evidence-Based Dental Practice. 2023 Jan;23(1S):101795. (IF = 4.1；大类4区)\n67. Yu X #, Chen Y #, Li Y, Hong J, Hua F *. A bibliometric mapping study of the literature on oral health-related quality of life. Journal of Evidence-Based Dental Practice. 2023 Jan;23(1S):101780. (IF = 4.1；大类4区)\n68. Zhong Y #, Wang Y #, Dan S, Zhao T, Li T, Qin D, Hua F *. The reporting quality of systematic review abstracts in leading general dental journals: A methodological study. Journal of Evidence-Based Dental Practice. 2023 Mar;23(1):101831. (IF = 4.1；大类4区)\n69. Hua F *. Dental patient-reported outcomes update 2021. Journal of Evidence-Based Dental Practice. 2022 Jan:22(1S):101663. (IF = 4.1；大类4区)\n70. Chen Y #, Hua F #, Mei Y, Thiruvenkatachari B, Riley P, He H *. The characteristics and level of evidence of clinical studies published in 5 leading orthodontic journals. Journal of Evidence-Based Dental Practice. 2019 Sep;19(3):273-82. (IF = 4.1；大类4区)\n71. Li C #, Fang X #, Qin D #, Hua F *. The structure format of abstracts: A survey of leading dental journals and their editors. Journal of Evidence-Based Dental Practice. 2022 Sep;22(3):101646. (IF = 4.1；大类4区)\n72. Qin D, Guo F, Hua F *. How to report outcomes in clinical dental research. Journal of Evidence-Based Dental Practice. 2024 Nov. Online ahead of print. DOI: 10.1016/j.jebdp.2024.102053. (IF = 3.6；大类4区)\n73. Wang Q #, Tao Z #, Zhao T, Qin D, He H, Hua F *. The usage and reporting of dental patient-reported outcomes among systematic reviews in orthodontics: A methodological study. Journal of Evidence-Based Dental Practice. 2024 Oct. Online ahead of print. DOI: 10.1016/j.jebdp.2024.102049. (IF = 3.6；大类4区)\n74. Qin D, He H, Tu YK, Hua F *. Enhancing the quality of reporting of orthodontic clinical research. Seminars in Orthodontics. 2024 Feb;30(1):2-9. (IF = 2.2；大类4区)\n75. Lin L #, Zhao T #, Ngan P, Zhuang Y, Qin D, Hua F *, He H *. Obstructive sleep apnea-related knowledge, attitude, experience, and behaviors among orthodontic professionals: a survey. Sleep and Breathing. 2023 Dec;27:2361-9. (IF = 2.1；大类4区)\n76. Zhao Y #, Yan Q #, Wu X, Hua F *, Shi B *. The benefit of antimicrobial photodynamic therapy to mechanical debridement in the treatment of smokers with peri‑implant diseases: a systematic review and meta‑analysis. Lasers in Medical Science. 2022 Oct;37(8):3051-66. (IF = 2.1；大类4区)\n77. Jin L, Hua F *, Cao Q *. Reporting quality of randomized controlled trial abstracts published in leading laser medicine journals: an assessment using the CONSORT for abstracts guidelines. Lasers in Medical Science. 2016 Nov;31(8):1583-90. (IF = 2.1；大类4区)\n78. Qin D, Wang Y, Levey C, Ngan P, He H *, Hua F *. Protocol for the development of a Core Outcome Set for trials on the prevention and treatment of Orthodontically induced enamel White Spot Lesions (COS-OWSL). Trials. 2021 Jul;22(1):507. (IF = 2.0；大类4区)\n79. Fang X, Wu X, Levey C, Chen Z, Hua F *, Zhang L *. Spin in the Abstracts of Randomized Controlled Trials in Operative Dentistry: A Cross-sectional Analysis. Operative Dentistry. 2022 Jun;47(3):287-300. (IF = 1.4；大类4区)\n80.   汪骐 #，罗婷 #，陆威，赵婷婷，贺红 *，花放 *. 数字化技术在口腔正畸监控中的应用进展. 口腔疾病防治，2024，网络首发（中国知\n网）.\n81. 王楠楠，贺红，花放 *. 正畸相关釉质脱矿危险因素的研究进展. 国际口腔医学杂志，2024，51(1):91-8.\n82. 曹凌云 #，颜家榕 #，汤博钧，赵婷婷，花放 *，贺红 *. 深度学习在头影测量中的应用研究进展. 口腔疾病防治，2023，31(1):58-62.\n83. 黄鑫亮 #，颜家榕 #，花放 *，贺红 *. 正畸治疗与口腔微生物组的相关性研究进展. 口腔疾病防治，2022，30(12):896-901.\n84. 罗婷 #，颜家榕 #，花放 *，贺红 *. 纳米粒子在正畸釉质脱矿预防中的应用. 口腔疾病防治，2022，30(6):443-8.\n85. 晏奇，伍昕宇，潘嘉雯，秦丹晨，李军，尚政军，花放 *. “微助教”在口腔医学文献导读教学中应用的学生问卷调查. 中国高等医学教育，2021，300(12):61-2.\n86. 郭飞扬，花放 *. 正畸釉质脱矿微创治疗的研究进展. 口腔医学研究，2021，37(4):288-91.\n87. 花放，贺红 *. 个体内临床试验报告规范（CONSORT for WPT）解读. 中国循证医学杂志，2018，18(9):1001-6.\n88. 花放，李新，贺红 *. 处理无症状第三磨牙的循证思考. 国际口腔医学杂志，2012，39(2): 237-40.\n         Editorials and Commentaries (第一 / 通讯)\n1. Hua F *. Increasing the value of orthodontic research through the use of dental patient-reported outcomes. Journal of Evidence-Based Dental Practice. 2019 Jun;19(2):99-105. (IF = 4.1；大类4区)\n2. Lu W, Zhang H, Hua F *. Adding calcium phosphate agents alongside fluorides may enhance caries prevention and remineralization, although evidence is limited. Journal of Evidence-Based Dental Practice. 2024 Sep;24(3):102024. (IF = 4.1；大类4区)\n3. Cao L, He H *, Hua F *. Current neural networks demonstrate potential in automated cervical vertebral maturation stage classification based on lateral cephalograms. Journal of Evidence-Based Dental Practice. 2024 Mar;24(1):101928. (IF = 4.1；大类4区)\n4. Cao L, He H *, Hua F *. Deep learning algorithms have high accuracy for automated landmark detection on 2D lateral cephalograms. Journal of Evidence-Based Dental Practice. 2022 Dec;22(4):101798. (IF = 4.1；大类4区)\n5. Huang M, Liu S *, Hua F *. Resin infiltration may be a feasible option to esthetically mask enamel white spot lesions. Journal of Evidence-Based Dental Practice. 2022 Jun;22(2):101715. (IF = 4.1；大类4区)\n6. Zhao T, Hua F *, He H *. Rapid maxillary expansion may increase the upper airway volume of growing patients with maxillary transverse deficiency. Journal of Evidence-Based Dental Practice. 2021 Sep;21(3):101579. (IF = 4.1；大类4区)\n7. Zhao T, Hua F *, He H *. Alternate rapid maxillary expansion and constriction (Alt-RAMEC) may be more effective than rapid maxillary expansion alone for protraction facial mask treatment. Journal of Evidence-Based Dental Practice. 2020 Jun;20(2):101408. (IF = 4.1；大类4区)\n8. Wang Y, Hua F *, Jiang H *. CPP-ACP may be effective, but not significantly greater than using fluorides alone, in preventing and treating white spot lesions around orthodontic brackets. Journal of Evidence-Based Dental Practice. 2020 Mar;20(1):101416. (IF = 4.1；大类4区)\n9. Hua F *, Yang H *, He H *. Current enamel remineralization therapies have limited effects on postorthodontic white spot lesions. Journal of Evidence-Based Dental Practice. 2018 Dec;18(4):339-42. (IF = 4.1；大类4区)\n10. Liu Y, Hua F *, He H *. Nasoalveolar molding therapy may offer positive effects on unilateral clefts of lip and/or palate. Journal of Evidence-Based Dental Practice. 2018 Sep;18(3):252-4. (IF = 4.1；大类4区)\n11. Sun Q, Hua F *, He H *. Adenotonsillectomy may have beneficial effects on the dentofacial development of children with adenotonsillar hypertrophy. Journal of Evidence-Based Dental Practice. 2018 Mar;18(1):73-5. (IF = IF = 4.1；大类4区)\n12. Yan Q *, Hua F *, Shi B *. Patients are more satisfied with implant-supported mandibular overdentures than with conventional dentures. Journal of Evidence-Based Dental Practice. 2017 Dec;17(4):411-3. (IF = 4.1；大类4区)\n13. 花放 *. 循证口腔实践——如何使用文献辅助临床决策. 口腔医学研究，2021，37(1):1-5.\n14. 花放 *. 循证口腔医学 25 年：从理念迈向实践. 口腔医学研究，2018，34(11):1149-53.\n         Correspondence and Letters (第一 / 通讯)\n1. Hua F, Zhao C *. China's National Mental Health Working plan. The Lancet. 2015 Oct;386(10002):1442. (IF = 98.4；大类 1 区)\n2. Hua F, Walsh T, Worthington H, Glenny AM. “Predatory” publishing and open access in dentistry. The Journal of the American Dental Association. 2016 Aug;147(8):600-1. (IF = 3.1；大类 2 区)\n教材专著：\n1. 无托槽隐形矫治原理与生物力学. 沈阳：辽宁科学技术出版社，2024.【副主译】\n2. 阻塞性睡眠呼吸暂停的正畸治疗. 沈阳：辽宁科学技术出版社，2024.【副主译】\n3. 循证口腔正畸学（第2版）. 北京：人民卫生出版社，2022. 【副主译】(In press)\n4. The Coronavirus (COVID-19) and Dentistry: Infection Control, Public Health and Beyond. Lausanne: Frontiers Media SA, 2022.【主编】\n5. 循证医学（第 2 版）-- 研究生国家级规划教材. 北京：人民卫生出版社，2021. 【编者】\n6. 循证口腔医学（第 3 版）-- 本科生改革试验创新教材. 北京：人民卫生出版社，2020. 【编者】\n7. Evidence-Based Orthodontics (2nd Edition). Hoboken: John Wiley & Sons, 2018.【编者】\n8. 口腔正畸策略、控制与技巧. 北京：人民卫生出版社，2015.【编者】\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

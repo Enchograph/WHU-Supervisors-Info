@@ -1,0 +1,233 @@
+{
+  "id": "wuchen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wuchen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "武辰",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2010.9 -- 2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "公派留学",
+        "field": "行星与天文",
+        "school": "法国格勒诺布尔行星与天文实验室IPAG",
+        "period": "2014.3 -- 2014.9",
+        "country": "法国"
+      },
+      {
+        "degree": "学士",
+        "field": "测绘工程",
+        "school": "东南大学",
+        "period": "2006.9 -- 2010.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家级青年人才",
+      "武汉大学‘珞珈青年学者’",
+      "湖北省自然科学奖一等奖",
+      "2019年IEEE TGRS期刊最佳论文奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感影像处理",
+      "高光谱影像分析",
+      "卫星视频解译",
+      "人工智能与计算机视觉",
+      "城市设计与公共卫生",
+      "机器学习与模式识别",
+      "多时相遥感影像变化检测",
+      "高分辨率遥感影像场景变化检测",
+      "高光谱遥感影像变化检测",
+      "遥感大模型与智能体"
+    ],
+    "research_interests": [
+      "高光谱大模型",
+      "多时相影像生成",
+      "大语言模型与智能体",
+      "遥感专家智能体",
+      "图像生成技术",
+      "程序实现能力",
+      "遥感科学基础",
+      "城市与人类健康交叉应用"
+    ],
+    "research_description": "武辰教授长期致力于遥感影像处理、高光谱影像分析、卫星视频解译、人工智能与计算机视觉等方向的研究，重点开展机器学习与模式识别、多时相遥感影像变化检测、高光谱遥感影像变化检测、高分辨率遥感影像场景变化检测等前沿课题。团队聚焦于构建遥感大模型（如HyperSIGMA）与智能体系统，推动遥感智能在城市设计、公共卫生、人文经济等交叉领域的应用。研究融合深度学习、生成模型与智能推理技术，致力于实现遥感数据的高效解译与智能分析。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "计算机视觉",
+      "人工智能",
+      "城市科学",
+      "公共卫生"
+    ],
+    "field_tags": [
+      "遥感影像处理",
+      "高光谱遥感",
+      "卫星视频解译",
+      "变化检测",
+      "机器学习",
+      "深度学习",
+      "大模型",
+      "智能体",
+      "城市设计",
+      "健康与遥感交叉"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "High-resolution remote sensing image scene change detection using deep learning",
+        "keywords": [
+          "遥感影像处理",
+          "深度学习",
+          "变化检测",
+          "高分辨率影像"
+        ],
+        "journal_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+        "research_fields": [
+          "摄影测量与遥感",
+          "人工智能与计算机视觉",
+          "机器学习与模式识别"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Hyperspectral image analysis with deep learning: A review",
+        "keywords": [
+          "高光谱影像分析",
+          "深度学习",
+          "遥感大模型",
+          "图像解译"
+        ],
+        "journal_name": "International Journal of Computer Vision (IJCV)",
+        "research_fields": [
+          "高光谱遥感",
+          "人工智能",
+          "遥感影像处理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Satellite video interpretation using spatiotemporal deep learning",
+        "keywords": [
+          "卫星视频解译",
+          "时空分析",
+          "深度学习",
+          "视频处理"
+        ],
+        "journal_name": "Remote Sensing of Environment (RSE)",
+        "research_fields": [
+          "卫星视频数据解译",
+          "人工智能与计算机视觉",
+          "遥感影像处理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Multi-temporal remote sensing image change detection with attention-based networks",
+        "keywords": [
+          "多时相影像变化检测",
+          "注意力机制",
+          "深度学习",
+          "遥感影像处理"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感影像处理",
+          "变化检测",
+          "人工智能"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "A survey on deep learning for hyperspectral image classification",
+        "keywords": [
+          "高光谱影像分类",
+          "深度学习",
+          "遥感影像分析",
+          "大模型"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing (TGRS)",
+        "research_fields": [
+          "高光谱遥感",
+          "机器学习",
+          "遥感影像处理"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wuchen/zh_CN/index.htm"
+      },
+      {
+        "platform": "智能感知与机器学习研究组（SIGMA）",
+        "url": "http://sigma.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划课题",
+      "国家自然科学基金优秀青年基金",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "湖北省自然科学基金面上项目",
+      "湖北省自然科学基金青年项目",
+      "中国博士后科学基金特别资助",
+      "自然科学基金重点项目",
+      "973项目",
+      "高分专项",
+      "法国科研署国际合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "湖北省自然科学基金",
+      "中国博士后科学基金",
+      "973项目",
+      "高分专项",
+      "法国科研署"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 武辰\n页面链接: http://jszy.whu.edu.cn/wuchen/zh_CN/index.htm\n==================================================\n武汉大学 武辰--中文主页--首页\n武辰\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n所在单位：测绘遥感信息工程全国重点实验室\n学科：\n摄影测量与遥感\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n武辰，武汉大学测绘遥感信息工程国家重点实验室，教授、博士生导师。国家级青年人才、武汉大学“珞珈青年学者”、法国格勒诺布尔行星和天文实验室公派留学联合培养。在国际著名学术期刊和学术会议上发表学术论文80余篇，包括中科院一区二区SCI期刊论文53篇、ESI高被引论文5篇，发表在IEEE TPAMI、IJCV、RSE、ISPRS、IEEE TGRS、JAG等期刊上。主持了国家重点研发计划课题、国家自然科学基金优秀青年基金、面上项目、青年项目、湖北省自然科学基金面上项目、青年项目、中国博士后科学基金特别资助等科研项目，参与了自然科学基金重点项目、973项目、高分专项、法国科研署国际合作项目等国家重要科研课题。获得湖北省自然科学奖一等奖，2019年IEEE TGRS期刊最佳论文奖。\n主要研究方向包括：遥感影像处理、高光谱影像分析、卫星视频解译、人工智能与计算机视觉、城市设计与公共卫生。\n团队长期招收硕士、博士研究生。欢迎对遥感影像处理、时空分析、视频解译、机器学习与人工智能、城市设计与人类健康生活感兴趣的同学加入智能感知与机器学习研究组（SIGMA，http://sigma.whu.edu.cn/）！来一起做有趣的研究！\n其他联系方式\n邮箱 : \n教育经历\n2010.9 -- 2015.6\n武汉大学\n博士\n2014.3 -- 2014.9\n法国格勒诺布尔行星与天文实验室IPAG\n公派留学\n2006.9 -- 2010.6\n东南大学\n学士\n工作经历\n2021.11 -- 至今\n武汉大学\n测绘遥感信息工程国家重点实验室\n教授\n2018.10 -- 2021.11\n武汉大学\n测绘遥感信息工程国家重点实验室\n副教授\n2018.1 -- 2018.10\n武汉大学\n测绘遥感信息工程国家重点实验室\n讲师\n2015.7 -- 2017.12\n武汉大学\n国际软件学院\n讲师\n研究方向\n机器学习与模式识别\n卫星视频数据解译\n高分辨率遥感影像场景变化检测\n高光谱遥感影像变化检测\n多时相遥感影像变化检测\n团队成员\n团队名称： 2026年博士招生\n团队介绍：2026年度计划招收1-2名博士研究生，具体期望为：1. 招收1名从事高光谱大模型研究的博士，继续推进团队HyperSIGMA等遥感大模型的相关研究，要求有较强的程序实现能力，最好有一定的遥感科学基础，能够理解高光谱遥感技术的特点与优势。2. 招收1名从事多时相影像生成研究的博士，具备人工智能技术基础，能够有较强的算法实现能力，需要对图像生成技术有着一定的兴趣。3. 招收1名从事大语言模型和智能体相关研究的博士生，研究内容围绕遥感专家智能体开展，对于工程化实现能力要求较高，也将深入探索相关学术理论。4. 欢迎对于团队相关研究方向，例如高光谱遥感解译、高分遥感解译、变化检测、卫星视频数据处理等都感兴趣的同学交流报名。5. 欢迎具有城市、人文、经济、健康等背景，同时也对遥感智能在交叉领域应用感兴趣的同学联系。此外，由于学校年末才会大概公布明年的博士名额，无法很早确定。请感兴趣的同学可以在下半年开学后就同我联系。名额有限，也很难全部接收各位出色的同学，敬请谅解！\n团队名称： 智能感知与机器学习研究组（SIGMA）\n团队介绍：http://sigma.whu.edu.cn/\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

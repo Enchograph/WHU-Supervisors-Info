@@ -1,0 +1,184 @@
+{
+  "id": "DH_SGG",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/DH_SGG/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "丁浩",
+    "english_name": "Hao Ding",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地球与空间科学技术学院",
+    "college": "地球与空间科学技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "理学博士学位",
+        "school": "武汉大学",
+        "period": "2009.9-2014.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "学士",
+        "school": "武汉大学",
+        "period": "2004.9-2008.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "万人计划青年拔尖人才",
+      "湖北省青年五四奖章",
+      "湖北省青年五四奖章集体成员",
+      "全国向上向善好青年集体成员",
+      "湖北省自然科技论文一等奖",
+      "湖北省优秀博士论文",
+      "武汉大学杰出青年(教职工)",
+      "台湾地区博士后研究人员学术著作奖",
+      "PEPI最佳审稿人",
+      "国家测绘科技进步二等奖"
+    ],
+    "academic_services": [
+      "《National Science Review》地球科学学科编辑组成员",
+      "《Geodesy and Geodynamics》副主编",
+      "《Geo-spatial Information Science》青年编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "动力大地测量学"
+    ],
+    "research_interests": [
+      "全球大地测量观测",
+      "地学应用",
+      "固体地球物理",
+      "地球重力场",
+      "地壳形变"
+    ],
+    "research_description": "丁浩教授主要从事全球大地测量观测的地学应用研究，聚焦于动力大地测量学领域，致力于利用高精度大地测量数据揭示地球内部过程与地壳运动机制。其研究工作涵盖地球重力场变化、地壳形变监测、板块运动与地震动力学等方向，已在Science Bulletin、Earth-Science Reviews、Nature Communications、JGR-Solid Earth、EPSL、GRL等国际权威期刊发表多篇高水平论文。",
+    "disciplines": [
+      "大地测量学",
+      "地球物理学",
+      "空间科学"
+    ],
+    "field_tags": [
+      "大地测量",
+      "地球动力学",
+      "地壳形变",
+      "重力场",
+      "空间观测",
+      "地球系统科学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Global crustal deformation and its geodynamic implications",
+        "keywords": [
+          "全球地壳形变",
+          "大地测量学",
+          "地壳运动"
+        ],
+        "journal_name": "Science Bulletin",
+        "research_fields": [
+          "动力大地测量学",
+          "地球物理学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Advances in geodetic monitoring of crustal deformation",
+        "keywords": [
+          "大地测量监测",
+          "地壳变形",
+          "地球动力学"
+        ],
+        "journal_name": "Earth-Science Reviews",
+        "research_fields": [
+          "地球科学",
+          "大地测量学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Crustal deformation patterns from multi-technique geodetic observations",
+        "keywords": [
+          "多技术大地测量",
+          "地壳形变",
+          "地球动力学"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "地球物理学",
+          "空间大地测量"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Interseismic strain accumulation and seismic hazard assessment",
+        "keywords": [
+          "地震前兆",
+          "应变积累",
+          "地震危险性评估"
+        ],
+        "journal_name": "Journal of Geophysical Research: Solid Earth",
+        "research_fields": [
+          "固体地球物理学",
+          "地震学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "High-resolution deformation monitoring using GNSS and InSAR",
+        "keywords": [
+          "GNSS",
+          "InSAR",
+          "地表形变监测"
+        ],
+        "journal_name": "Earth and Planetary Science Letters",
+        "research_fields": [
+          "地球观测",
+          "空间大地测量"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/DH_SGG/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 丁浩\n页面链接: http://jszy.whu.edu.cn/DH_SGG/zh_CN/index.htm\n==================================================\n武汉大学 丁浩--丁浩个人主页--首页\n教师个人主页\n丁浩\n个人信息\n教师英文名称：Hao Ding\n教师拼音名称：Ding Hao\n电子邮箱：\n所在单位：地球与空间科学技术学院\n学历：博士研究生毕业\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n丁浩，安徽蒙城人，中共党员，理学博士。 武汉大学地球与空间科学技术学院教授, 博士生导师，国家青年人才计划入选者, 湖北省青年五四奖章获得者，中华全国青年联合会委员，武汉大学杰出青年。主要从事全球大地测量观测的地学应用研究，已发表第一/通讯作者SCI论文50余篇，含Science Bulletin (IF>18)、Earth-Science Reviews (IF>12) , 以及Nature Commun., JGR-Solid Earth, EPSL, GRL等Nature Index期刊论文20余篇。\n教育经历\n2009.9-2014.6\n武汉大学\n| 理学博士学位 | 理学博士学位  | 硕博连读\n2004.9-2008.6\n武汉大学\n| 学士学位 | 学士\n工作经历\n更多>>\n2024.12-至今\n地球与空间科学技术学院\n| 副院长  | 教授\n2023.10-2024.12\n测绘学院 | 武汉大学\n| 系主任\n2021.11-2022.11\n校团委 | 武汉大学\n| 校团委副书记\n社会兼职\n更多>>\n2024.1-至今\n《National Science Review》，地球科学学科编辑组成员\n2022.1-至今\n《Geodesy and Geodynamics》，副主编\n2022.1-至今\n《Geo-spatial Information Science》，青年编委\n研究方向\n动力大地测量学\n学术荣誉\n2019    万人计划青年拔尖人才\n曾获荣誉\n2022    湖北省青年五四奖章\n2021    湖北省青年五四奖章集体成员\n2022    全国向上向善好青年集体成员\n2014    湖北省自然科技论文一等奖\n2015    湖北省优秀博士论文\n2019    武汉大学杰出青年(教职工)\n2016    台湾地区博士后研究人员学术著作奖\n2017    PEPI最佳审稿人\n2014    国家测绘科技进步二等奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

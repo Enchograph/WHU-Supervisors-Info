@@ -1,0 +1,131 @@
+{
+  "id": "liangxinlian",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liangxinlian/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "梁欣廉",
+    "english_name": "Liang Xinlian",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": false,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "1998.9-2002.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "摄影测量与遥感",
+        "school": "中国测绘科学研究院",
+        "period": "2002.9-2005.7",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "空间信息",
+        "school": "阿尔托大学 (Aalto University)",
+        "period": "2006.3-2013.10",
+        "country": "芬兰"
+      }
+    ],
+    "graduation_school": "芬兰阿尔托大学",
+    "academic_honors": [
+      "2013年于芬兰阿尔托大学以优秀博士论文成绩取得博士学位"
+    ],
+    "academic_services": [
+      "2022年至今  遥感数据处理与理解工作组主席，国际摄影测量协会 (ISPRS)",
+      "2016-2022  信息提取工作组主席，国际摄影测量协会 (ISPRS)",
+      "2022年至今  Geo-spatial Information Science 主编",
+      "2018年至今  Forest Ecosystems 主编",
+      "2017年至今  Remote Sensing 主编",
+      "2022  森林近距离感知 (Close-Range Sensing of Forests) 客座编辑",
+      "2020  三维森林遥感：进展与展望 (3D Remote Sensing for Forests – Progress and Perspective) 客座编辑",
+      "2019  遥感与精细林业 (Remote Sensing Techniques for Precision Forestry) 客座编辑",
+      "2017  多时相遥感的林业应用 (Multitemporal Remote Sensing for Forestry) 客座编辑",
+      "2017  光谱与三维技术前沿 (Frontiers in Spectral Imaging and 3D Technologies for Geospatial Solutions) 客座编辑",
+      "2015  地面点云与森林调查 (Forest Ground Observations Through Terrestrial Point Clouds) 客座编辑",
+      "IEEE 高级会员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多源支持感知与认知",
+      "复杂场景信息感知与认知",
+      "森林高复杂弱信号环境下的自主感知与认知"
+    ],
+    "research_interests": [
+      "无人机感知",
+      "移动平台传感",
+      "主被动传感器融合",
+      "大数据分析",
+      "机器学习",
+      "森林生态服务功能评估",
+      "碳存储监测",
+      "生物多样性评估",
+      "三维遥感",
+      "点云处理"
+    ],
+    "research_description": "依托大数据、机器学习等技术，利用无人机、移动平台及主被动传感器，开展复杂场景下多源支持感知与认知研究，重点聚焦森林等高复杂、弱信号环境中的自主感知与认知体系构建，实现碳存储、生物多样性等关键生态信息的智能获取与评估。",
+    "disciplines": [
+      "测绘科学与技术",
+      "遥感科学与技术",
+      "地理信息科学",
+      "人工智能"
+    ],
+    "field_tags": [
+      "多源感知",
+      "机器学习",
+      "无人机遥感",
+      "森林遥感",
+      "三维点云",
+      "智能认知",
+      "生态评估",
+      "碳汇监测",
+      "遥感数据处理",
+      "信息提取"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liangxinlian/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 梁欣廉\n页面链接: http://jszy.whu.edu.cn/liangxinlian/zh_CN/index.htm\n==================================================\n武汉大学 梁欣廉--中文主页--首页\nEnglish\n新闻网中文官网\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n梁欣廉\nPersonal profile\n个人简介\n梁欣廉，武汉大学教授, 博士生导师。 2013年于芬兰阿尔托大学（Aalto University）以优秀博士论文成绩取得博士学位。主要研究方向为多源支持感知与认知，依托大数据、机器学习等技术，利用无人机、移动平台、主被动传感器实现复杂场景...\nmore+\nPersonal information\n个人信息\n教师拼音名称：Liang Xinlian\n出生日期：1980-03-09\n电子邮箱：\n入职时间：2021-01-01\n所在单位：测绘遥感信息工程全国重点实验室\n学历：博士研究生毕业\n办公地点：武汉大学信息学部测绘遥感信息工程国家重点实验室\n性别：男\n联系方式：xinlian_liang@hotmail.com\n职称：教授\n在职信息：在职\n毕业院校：芬兰阿尔托大学\nSocial Appointments\n社会兼职\nIEEE 高级会员\n国际组织任职• 2022至今  遥感数据处理与理解工作组主席，国际摄影测量协会 (WG III/1 “Remote Sensing Data Processing andUnderstanding”, International Society for Photogrammetry and Remote Sensing (ISPRS))• 2016-2022  信息提取工作组主席，国际摄影测量协会 ( Chair, WG III/1 “Thematic Information Extraction”, International Society for Photogrammetry and Remote Sensing (ISPRS)）\n期刊主编• 2022年至今  Geo-spatial Information Science  (web of science listed, 影响因子4.28,  二区)• 2018年至今  Forest Ecosystems (web of science listed, 影响因子4.27,  一区) • 2017年至今  Remote Sensing (web of science listed, 影响因子5.35,  二区)\n客座编辑• 2022    森林近距离感知 (Close-Range Sensing of Forests)• 2020   三维森林遥感：进展与展望 (3D Remote Sensing for Forests – Progress and Perspective)。• 2019   遥感与精细林业(Remote Sensing Techniques for Precision Forestry)• 2017   多时相遥感的林业应用 (Multitemporal Remote Sensing for Forestry in Remote Sensing)• 2017   光谱与三维技术前沿 (Frontiers in Spectral Imaging and 3D Technologies for Geospatial Solutions in Remote Sensing)•  2015   地面点云与森林调查 (Forest Ground Observations Through Terrestrial Point Clouds in Forestry)\nEducational experience\n教育经历\n1998.9-2002.6\n武汉大学 | 测绘工程 | 学士学位 | 本科(学士)\n2002.9-2005.7\n中国测绘科学研究院 | 摄影测量与遥感 | 硕士 | 研究生(硕士)毕业\n2006.3-2013.10\n阿尔托大学 (Aalto University) | 空间信息 | 博士 | 研究生(博士)毕业\nEducational experience\n团队成员\n多源感知与认知科研团队\n蔡尚书\n姚海云\n张庆军\n修田雨\n戚瀚文\n王旭\n王晓晨\n代许松\n陈健昌\n王殷瑞\n马洋洋\n伍宜丹\nWork experience\n工作经历\n2021.1-至今\n测绘遥感信息工程国家重点实验室 | 武汉大学 | Professor | 在职\nResearch direction\n研究方向\n多源支持感知与认知，依托大数据、机器学习等技术，利用无人机、移动平台、主被动传感器实现复杂场景信息的感知与认知。\n重点研究以森林为代表的高复杂、弱信号环境下自主感知与认知相关的软、硬件体系及相关理论，实现碳存储、生物多样性等森林生态服务功能评估关键信息的智能获取。\nContact information\n其他联系方式\n邮箱：\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

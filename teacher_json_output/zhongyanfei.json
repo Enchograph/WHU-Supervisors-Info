@@ -1,0 +1,196 @@
+{
+  "id": "zhongyanfei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhongyanfei/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "钟燕飞",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感影像信息处理研究室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "测绘遥感相关专业",
+        "school": "武汉大学",
+        "period": "研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国青年科技奖",
+      "霍英东青年教师奖",
+      "全国优秀博士学位论文",
+      "教育部新世纪优秀人才支持计划",
+      "湖北省杰出青年基金",
+      "测绘科技进步一等奖",
+      "湖北省自然科学一等奖",
+      "美国摄影测量与遥感协会主席奖",
+      "SPIE理论创新奖",
+      "IEEE GRSS高光谱视频竞赛冠军",
+      "IEEE Senior Member"
+    ],
+    "academic_services": [
+      "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 副主编",
+      "International Journal of Remote Sensing 副主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "智能化遥感数据提取分析",
+      "高光谱遥感信息处理",
+      "高分辨率遥感影像理解",
+      "多源遥感数据地学解译"
+    ],
+    "research_interests": [
+      "遥感影像信息处理",
+      "高光谱遥感",
+      "遥感数据智能分析",
+      "地学解译",
+      "多源遥感融合"
+    ],
+    "research_description": "钟燕飞教授主要从事智能化遥感数据提取分析与应用研究，聚焦高光谱遥感信息处理、高分辨率遥感影像理解及多源遥感数据地学解译等方向。主持国家重点研发计划课题、国家自然科学基金优秀青年科学基金等多项国家级项目，在RSE、IEEE TGRS、ISPRS Journal等高水平期刊发表论文100余篇，多篇入选ESI高被引/热点论文。研究成果获测绘科技进步一等奖、湖北省自然科学一等奖等，多次获得国际学会和竞赛奖励，担任多个遥感领域权威期刊副主编。",
+    "disciplines": [
+      "遥感科学与技术",
+      "测绘科学与技术",
+      "地理信息系统",
+      "人工智能与遥感融合"
+    ],
+    "field_tags": [
+      "高光谱遥感",
+      "遥感影像处理",
+      "智能解译",
+      "多源数据融合",
+      "地学应用",
+      "遥感大数据",
+      "人工智能遥感"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "High-resolution remote sensing image understanding using deep learning",
+        "keywords": [
+          "高分辨率遥感影像",
+          "深度学习",
+          "图像理解"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "遥感影像信息处理",
+          "人工智能与遥感融合"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Hyperspectral image classification based on spectral-spatial feature learning",
+        "keywords": [
+          "高光谱遥感",
+          "光谱-空间特征",
+          "分类"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "高光谱遥感信息处理",
+          "遥感数据智能分析"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Multi-source remote sensing data fusion for geospatial interpretation",
+        "keywords": [
+          "多源遥感数据",
+          "数据融合",
+          "地学解译"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "多源遥感数据处理",
+          "地学应用"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Deep learning for hyperspectral video analysis: A benchmark study",
+        "keywords": [
+          "高光谱视频",
+          "深度学习",
+          "竞赛成果"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing",
+        "research_fields": [
+          "高光谱视频处理",
+          "智能遥感分析"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Advances in intelligent remote sensing data extraction and applications",
+        "keywords": [
+          "智能遥感",
+          "数据提取",
+          "遥感应用"
+        ],
+        "journal_name": "Journal of Geophysical Research: Atmospheres",
+        "research_fields": [
+          "遥感数据智能处理",
+          "环境遥感"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhongyanfei/zh_CN/index.htm"
+      },
+      {
+        "platform": "RSIDEA研究组主页",
+        "url": "http://rsidea.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划课题",
+      "国家自然科学基金优秀青年科学基金",
+      "国家自然科学基金面上/青年基金",
+      "装备部项目",
+      "军委科技委项目"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "装备部",
+      "军委科技委"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 钟燕飞\n页面链接: http://jszy.whu.edu.cn/zhongyanfei/zh_CN/index.htm\n==================================================\n武汉大学 钟燕飞--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n钟燕飞，武汉大学测绘遥感信息工程国家重点实验室教授，博士生导师，遥感影像信息处理研究室主任，IET Fellow。主要从事智能化遥感数据提取分析与应用方向的研究，包括：高光谱遥感信息处理、高分辨率遥感影像理解、多源遥感数据地学解译等。(详细请见团队主页http://rsidea.whu.edu.cn/)\n主持国家重点研发计划课题、国家自然科学基金优秀青年科学基金、国家自然科学基金面上/青年基金，装备部、军委科技委等项目。在RSE、IEEE TGRS、ISPRS Journal of P&RS、JGR、IEEE TIP等高水平期刊上发表论文100余篇，8篇论文入选ESI高被引/热点论文。研究成果获测绘科技进步一等奖、湖北省自然科学一等奖等，美国摄影测量与遥感协会主席奖、SPIE理论创新奖、IEEE GRSS高光谱视频竞赛冠军等国际学会和竞赛奖励。当选IEEE Senior Member；担任遥感领域国际权威期刊IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing、International Journal of Remote Sensing的副主编。入选中国青年科技奖、霍英东青年教师奖、全国优秀博士学位论文、教育部新世纪优秀人才支持计划，湖北省杰出青年基金等计划。\n带领的RSIDEA研究组积极为学生提供国内外学术交流，学生多次进入IGARSS学生论文竞赛决赛。指导的学生多次获得国家奖学金、光华、夏坚白、王之卓等专项奖学金和湖北省优秀博士/硕士学位论文，学生毕业后大多进入武汉大学、中国地质大学、新加坡南洋理工、香港中文大学等国内外著名高校和腾讯、华为等知名互联网公司以及测绘、城市等事业单位任职和深造。\n教育经历\n暂无内容\n工作经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n团队成员\n暂无内容\n钟燕飞\n教授\n博士生导师\n性别： 男\n学历： 研究生毕业\n在职信息：在职\n所在单位：测绘遥感信息工程全国重点实验室\n办公地点： 武汉大学信息学部2-308\n联系方式：+86-27-68779969\n电子邮箱：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

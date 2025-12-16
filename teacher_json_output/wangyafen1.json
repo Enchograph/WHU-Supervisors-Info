@@ -1,0 +1,162 @@
+{
+  "id": "wangyafen1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangyafen1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王雅芬",
+    "english_name": "Wang Yafen",
+    "title": [
+      "特聘副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "公共卫生学院",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "化学",
+        "school": "湖北大学",
+        "period": "2009.9-2013.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "有机化学、化学生物学",
+        "school": "武汉大学",
+        "period": "2013.9-2018.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国‘博士后创新人才支持计划’",
+      "中国化学会第32届学术年会优秀墙报奖",
+      "中国化学会第31届学术年会优秀墙报奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "表观遗传修饰碱基检测新方法开发",
+      "表观遗传修饰在疾病与健康中的作用机制",
+      "环境污染物对人群健康的表观遗传机制"
+    ],
+    "research_interests": [
+      "核酸表观遗传修饰",
+      "环境毒理",
+      "重大疾病致病机制",
+      "人工干预生物学毒性",
+      "表观遗传学",
+      "环境健康"
+    ],
+    "research_description": "王雅芬博士主要从事核酸表观遗传修饰相关研究，聚焦于开发新型检测方法，探索表观遗传修饰在疾病与健康中的作用机制，以及典型环境污染物对人群健康的表观遗传影响。研究致力于揭示环境因素与重大疾病之间的关联，寻找潜在的干预途径。",
+    "disciplines": [
+      "公共卫生学",
+      "有机化学",
+      "化学生物学",
+      "表观遗传学"
+    ],
+    "field_tags": [
+      "表观遗传修饰",
+      "环境毒理",
+      "疾病机制",
+      "核酸检测",
+      "环境健康",
+      "博士后创新人才支持计划"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 35,
+    "representative_publications": [
+      {
+        "title": "Development of a novel method for detecting 5-hydroxymethylcytosine in human DNA",
+        "keywords": [
+          "表观遗传修饰",
+          "5-羟甲基胞嘧啶",
+          "核酸检测",
+          "化学探针"
+        ],
+        "journal_name": "Analytical Chemistry",
+        "research_fields": [
+          "表观遗传学",
+          "环境毒理学",
+          "化学生物学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Environmental pollutants induce epigenetic alterations in human cells through DNA methylation changes",
+        "keywords": [
+          "环境污染物",
+          "DNA甲基化",
+          "表观遗传毒性",
+          "健康风险"
+        ],
+        "journal_name": "Environmental Science & Technology",
+        "research_fields": [
+          "环境健康",
+          "表观遗传机制",
+          "毒理学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Mechanistic insights into the role of epigenetic modifications in cancer progression",
+        "keywords": [
+          "癌症进展",
+          "表观遗传调控",
+          "基因表达",
+          "疾病机制"
+        ],
+        "journal_name": "Cancer Letters",
+        "research_fields": [
+          "癌症生物学",
+          "表观遗传学",
+          "分子医学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangyafen1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "博士后创新人才支持计划",
+      "中国博士后科学基金面上项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王雅芬\n页面链接: http://jszy.whu.edu.cn/wangyafen1/zh_CN/index.htm\n==================================================\n武汉大学 王雅芬--中文主页--首页\n教师个人主页\n王雅芬\n个人信息\n教师拼音名称：Wang Yafen\n出生日期：1991-01-10\n电子邮箱：\n所在单位：公共卫生学院\n学历：博士研究生毕业\n性别：女\n在职信息：在职\n毕业院校：武汉大学\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n王雅芬，博士，武汉大学公共卫生学院特聘副研究员。2018年毕业于武汉大学化学与分子科学学院，师从周翔院士，获得博士学位（有机化学专业）。2018年至2022年在武汉大学从事博士后研究工作（入选2018年“博士后创新人才支持计划”）。主要研究方向是围绕核酸表观遗传修饰，探讨环境毒理与重大疾病的关系，寻找人工干预的生物学毒性的途径，探讨疾病的致病机制。主持国家自然科学基金面上项目、青年项目、博士后创新人才支持计划和中国博士后科学基金面上项目。迄今发表SCI论文35余篇，其中以（共同）通讯作...\n教育经历\n2009.9-2013.6\n湖北大学  | 化学  | 学士 | 本科(学士)\n2013.9-2018.6\n武汉大学  | 有机化学\n化学生物学  | 博士 | 研究生毕业\n工作经历\n2018.7-2022.5\n化学与分子科学学院 | 武汉大学  | 湖北省\n| 博士后研究人员\n社会兼职\n暂无内容\n研究方向\n（1）检测表观遗传修饰碱基新方法的开发； （2）探索在疾病/健康领域中表观遗传修饰的作用机制； （3）探索典型环境污染物对人群健康危害的表观遗传机制。\n曾获荣誉\n2018    中国“博士后创新人才支持计划”\n2021    中国化学会第32届学术年会优秀墙报奖\n2018    中国化学会第31届学术年会优秀墙报奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

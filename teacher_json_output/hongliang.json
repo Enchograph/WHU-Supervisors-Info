@@ -1,0 +1,119 @@
+{
+  "id": "hongliang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hongliang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "洪亮",
+    "english_name": "Hong Liang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "人工智能学院",
+    "college": "人工智能学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "计算机软件与理论",
+        "school": "华中科技大学",
+        "period": "2004.9-2009.7",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "计算机科学与技术",
+        "school": "华中科技大学",
+        "period": "1999.9-2003.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "湖北省自然科学优秀学术论文二等奖",
+      "中国科技情报学会情报科学创新团队奖",
+      "ACM JCDL 最佳实践论文奖",
+      "武汉大学人文社科优秀青年学者",
+      "全国高校教师教学创新大赛三等奖",
+      "高等教育国家级教学成果奖一等奖"
+    ],
+    "academic_services": [
+      "中国计算机学会数据库专业委员会执行委员",
+      "中国计算机学会大数据专家委员会执行委员",
+      "中国计算机学会数字金融分会执行委员",
+      "大数据分析与应用技术国家工程实验室研究员",
+      "武汉大学大数据研究院院长助理",
+      "武汉大学大数据研究院技术研发中心主任"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "知识图谱构建",
+      "知识图谱表示学习",
+      "金融知识图谱",
+      "大模型"
+    ],
+    "research_interests": [
+      "知识图谱",
+      "大模型",
+      "数据科学",
+      "智能应用",
+      "金融数据分析",
+      "表示学习"
+    ],
+    "research_description": "洪亮教授致力于知识图谱构建、知识图谱表示学习、金融知识图谱和大模型等方向的研究与应用，其团队在数据科学与智能应用实验室开展前沿探索，推动知识图谱与大模型技术在金融等领域的融合与落地。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能",
+      "数据科学",
+      "信息管理"
+    ],
+    "field_tags": [
+      "知识图谱",
+      "大模型",
+      "人工智能",
+      "大数据",
+      "金融信息",
+      "智能系统",
+      "数据挖掘",
+      "机器学习"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/hongliang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 洪亮\n页面链接: http://jszy.whu.edu.cn/hongliang/zh_CN/index.htm\n==================================================\n武汉大学 洪亮--中文主页--首页\n教师个人主页\n洪亮\n个人信息\n教师拼音名称：Hong Liang\n所在单位：人工智能学院\n职务：副院长\n办公地点：武汉大学人工智能学院大楼\n性别：男\n联系方式：hong AT whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：华中科技大学\n博士生导师\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n洪亮，教授，博士生导师。现任武汉大学人工智能学院副院长、武汉大学大数据研究院院长助理、技术研发中心主任，武汉大学信息管理学院双聘教授；2017年入选武汉大学珞珈青年学者，2021年入选武汉大学人文社会科学优秀青年学者。洪亮于2009年毕业于华中科技大学计算机学院，获工学博士学位，弗吉尼亚大学（University of Virginia）计算机系联合培养博士；2012年获得“铸星计划（Star Track）”资助，担任微软亚洲研究院访问研究员；2015-2016年南加州大学（University of Southern California）计算机系访问学者。...\n教育经历\n2004.9-2009.7\n华中科技大学  | 计算机软件与理论  | 工学博士学位 | 博士研究生毕业\n1999.9-2003.7\n华中科技大学  | 计算机科学与技术  | 学士学位 | 大学本科毕业\n工作经历\n更多>>\n2025.1-2025.1\n人工智能学院 | 武汉大学\n| 副院长  | 教授\n2020.11-2024.12\n信息管理学院 | 武汉大学\n| 教授\n2014.11-2020.11\n信息管理学院 | 武汉大学\n| 副教授\n社会兼职\n更多>>\n2017.1-2025.1\n中国计算机学会数据库专业委员会、大数据专家委员会、数字金融分会执行委员\n2018.1-2025.1\n大数据分析与应用技术国家工程实验室研究员\n2020.1-2025.1\n武汉大学大数据研究院院长助理、技术研发中心主任\n研究方向\n知识图谱与大模型\n曾获荣誉\n2016    湖北省自然科学优秀学术论文二等奖\n2020    中国科技情报学会情报科学创新团队奖\n2020    ACM JCDL 最佳实践论文奖\n2021    武汉大学人文社科优秀青年学者\n2021    全国高校教师教学创新大赛三等奖\n2023    高等教育国家级教学成果奖一等奖\n团队成员\n更多>>\n数据科学与智能应用实验室\n数据科学与智能应用实验室依托武汉大学人工智能学院，致力于知识图谱构建、知识图谱表示学习、金融知识图谱和大模型等方向的研究与应用，形成了博士生、硕士生、本科生的研究梯队，毕业生就业面广、待遇优渥，多数去往国内外知名企事业单位。\n侯雯君\n徐青影\n张士伟\n胡传龙\n蒋翱远\n邓文博\n杨竞帆\n沈明轩\n鞠晓慧\n林志煜\n周嘉诚\n左佑铭\n刘隐帆\n贾冉\n黄淑雅\n刘子忻\n崔袖阳\n伊保坤\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

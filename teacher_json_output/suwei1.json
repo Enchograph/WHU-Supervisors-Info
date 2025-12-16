@@ -1,0 +1,197 @@
+{
+  "id": "suwei1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/suwei1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "苏伟",
+    "english_name": "Su Wei",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "泰康医学院(基础医学院)",
+    "college": "泰康医学院(基础医学院)",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "神经科学",
+        "school": "美国田纳西健康医学中心/圣裘德儿童医院",
+        "period": "2016.8~2021.12",
+        "country": "美国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "生物学基地班",
+        "school": "武汉大学",
+        "period": "2009.8~2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "美国田纳西健康医学中心/圣裘德儿童医院",
+    "academic_honors": [
+      "国家优秀青年基金获得者,2024",
+      "省突贡,2024",
+      "UTHSC研究论文奖,2020",
+      "企业挑战赛二等奖,2020",
+      "国家优秀自费留学生奖学金,2020"
+    ],
+    "academic_services": [
+      "中国免疫学学会会员,2025.10~至今"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "免疫-代谢-神经交叉调控机制",
+      "T细胞免疫与代谢调控",
+      "神经免疫与脑疾病机制"
+    ],
+    "research_interests": [
+      "免疫代谢调控",
+      "神经突触分子机制",
+      "CRISPR筛选",
+      "单细胞测序",
+      "代谢组学",
+      "蛋白质组学",
+      "Treg细胞功能分化",
+      "脑内T细胞驻留",
+      "脂质信号传导"
+    ],
+    "research_description": "苏伟教授课题组聚焦于‘免疫-代谢-神经’的交叉调控机制，结合CRISPR筛选、单细胞测序、代谢组学、蛋白质组学等前沿技术，系统研究T细胞免疫与代谢的互作机制，探索脂质信号在T细胞功能中的作用，以及脑内CD8+ T细胞驻留对阿尔茨海默病等神经退行性疾病的影响，致力于揭示免疫系统在代谢与神经系统疾病中的关键调控作用。",
+    "disciplines": [
+      "免疫学",
+      "代谢生物学",
+      "神经科学",
+      "分子生物学",
+      "生物医学"
+    ],
+    "field_tags": [
+      "免疫代谢",
+      "神经免疫",
+      "T细胞生物学",
+      "CRISPR筛选",
+      "单细胞测序",
+      "代谢组学",
+      "蛋白质组学",
+      "阿尔茨海默病",
+      "脂质信号"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 6,
+    "representative_publications": [
+      {
+        "title": "CRISPR screens unveil signal hubs for nutrient licensing of T cell immunity",
+        "keywords": [
+          "CRISPR筛选",
+          "T细胞免疫",
+          "营养许可",
+          "信号枢纽"
+        ],
+        "journal_name": "Nature",
+        "research_fields": [
+          "免疫学",
+          "代谢调控",
+          "分子生物学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Lipid signalling enforces Treg cell functional specialization in tumors",
+        "keywords": [
+          "脂质信号",
+          "Treg细胞",
+          "肿瘤微环境",
+          "功能特化"
+        ],
+        "journal_name": "Nature",
+        "research_fields": [
+          "免疫代谢",
+          "肿瘤免疫",
+          "T细胞生物学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Lipid metabolism in T cell signaling and function",
+        "keywords": [
+          "脂质代谢",
+          "T细胞信号",
+          "功能调控"
+        ],
+        "journal_name": "Nature Chemical Biology",
+        "research_fields": [
+          "代谢生物学",
+          "免疫学",
+          "化学生物学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Protein prenylation drives discrete signaling programs for the differentiation and maintenance of effector Treg cells",
+        "keywords": [
+          "蛋白质法尼基化",
+          "效应Treg细胞",
+          "信号程序",
+          "分化维持"
+        ],
+        "journal_name": "Cell Metabolism",
+        "research_fields": [
+          "蛋白质修饰",
+          "T细胞分化",
+          "代谢调控"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "CXCR6 orchestrates brain CD8+ T cell residency and limits murine Alzheimer’s disease pathology",
+        "keywords": [
+          "CXCR6",
+          "脑驻留CD8+ T细胞",
+          "阿尔茨海默病",
+          "神经免疫"
+        ],
+        "journal_name": "Nature Immunology",
+        "research_fields": [
+          "神经免疫学",
+          "免疫细胞驻留",
+          "神经退行性疾病"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/suwei1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 苏伟\n页面链接: http://jszy.whu.edu.cn/suwei1/zh_CN/index.htm\n==================================================\n武汉大学 苏伟--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n教师个人主页\nEN\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n苏伟\n博士生导师  硕士生导师\n个人信息\n更多+\n教师拼音名称： suwei\n电子邮箱： \n所在单位： 泰康医学院(基础医学院)\n学历： 博士研究生毕业\n办公地点： 中国 湖北省 武汉市 武昌区 东湖路115号 武汉大学医学部9号楼 1104-1室\n主要任职： 教授、博导，国家级青年人才，泰康生命医学中心PI\n其他联系方式\n移动电话：\n个人简介查看更多\n苏伟教授本科毕业于武汉大学生命科学学院（2009-2013），随后赴美深造，在美国田纳西健康医学中心/圣裘德儿童医院获得博士学位（2016-2021）。博士和博士后期间，他在美国圣裘德儿童医院Dr. Hongbo Chi实验室专注于免疫与代谢调控机制的研究。博士后阶段，进入斯坦福大学医学院（Thomas C. Südhof实验室，2013年诺贝尔生理学或医学奖得主）从事神经突触的分子机制研究，积累了深厚的免疫、代谢与神经跨学科研究经验。2024年入选国家级青年人才计划及湖北省人才项目，于2025年7月加入武汉大学泰康医学院（基础医学院），课题组围绕“免疫-代谢-神经”的交叉调控机制，结合CRISPR筛选、单细胞测序、代谢组学、蛋白质组学等前沿技术，探索免疫系...\n教育经历\n2016.8~2021.12\n美国田纳西健康医学中心/圣裘德儿童医院\n- 神经科学\n- 博士\n- 博士学位\n2009.8~2013.6\n武汉大学\n- 生物学基地班\n- 大学本科\n- 理学学士学位\n工作经历 查看更多\n2023.9~2025.7\n斯坦福大学医学院\n-  博士后\n2021.12~2023.9\n美国圣裘德儿童医院\n-  博士后\n2015.8~2016.5\n清华大学医学院\n- School of Medicine\n-  研究助理\n论文成果\n研究方向\n著作成果\n学术荣誉：\n.CRISPR screens unveil signal hubs for nutrient licensing of T cell immunity.Nature.2021\n.Lipid signalling enforces Treg cell functional specialization in tumors.Nature.2021\n.Lipid metabolism in T cell signaling and function.Nature Chemical Biology.2022\n.Protein prenylation drives discrete signaling programs for the differentiation and maintenance of effector Treg cells.Cell Metabolism.2020\n.CXCR6 orchestrates brain CD8+ T cell residency and limits murine Alzheimer’s disease pathology. Nature Immunology.Nature Immunology.2023\n查看更多>\n神经免疫代谢枢纽实验室\n暂无内容\n国家优秀青年基金获得者,2024\n省突贡,2024\n社会兼职\n2025.10~至今\n中国免疫学学会会员\n曾获荣誉： 查看更多\nUTHSC研究论文奖,2020\n企业挑战赛二等奖,2020\n国家优秀自费留学生奖学金,2020\n团队介绍\n查看更多\n团队名称：\n张梦思\n团队介绍：\n梦思，本科毕业于湖北大学兴趣爱好：看自然风光，探寻美食人生格言：“保持好奇，探索未知”MBTI性格类型：ENTJ\n团队成员：\n总访问量\n今日访问量\n月访问量\n同专业博导\n同专业硕导",
+    "research_section": "",
+    "education_section": ""
+  }
+}

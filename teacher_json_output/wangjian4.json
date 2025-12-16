@@ -1,0 +1,162 @@
+{
+  "id": "wangjian4",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangjian4/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王健",
+    "english_name": "Wang Jian",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "计算机科学与技术",
+        "school": "济南大学",
+        "period": "大学本科",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "计算机应用技术",
+        "school": "贵州大学",
+        "period": "硕士研究生",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "计算机软件与理论",
+        "school": "武汉大学",
+        "period": "博士研究生",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "ISO/IEC标准研制“特别贡献”奖",
+      "湖北省科技进步一等奖",
+      "CCF科技进步一等奖",
+      "湖北省优秀博士学位论文奖",
+      "ICSOC 2023杰出论文奖",
+      "IEEE ICWS 2021最佳学生论文奖",
+      "SEKE 2021最佳论文奖"
+    ],
+    "academic_services": [
+      "中国计算机学会（CCF）高级会员",
+      "CCF服务计算专委会常务委员",
+      "IEEE Senior Member",
+      "武汉计算机软件工程学会副秘书长",
+      "ISO/IEC JTC1 SC32标准工作组专家",
+      "多个国际期刊审稿人",
+      "多个国际会议程序委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "微服务系统构造与智能运维",
+      "AI Agent与认知服务",
+      "智能化软件工程",
+      "机器人流程自动化"
+    ],
+    "research_interests": [
+      "服务计算",
+      "软件工程",
+      "微服务",
+      "智能运维",
+      "AI Agent",
+      "认知服务",
+      "智能化软件工程",
+      "RPA"
+    ],
+    "research_description": "王健副教授长期从事服务计算与软件工程领域的研究，聚焦于微服务系统构造与智能运维、AI Agent与认知服务、智能化软件工程以及机器人流程自动化等方向。主持国家自然科学基金、国家重点研发计划子课题等项目，在TOSEM、TSC、TWEB、FSE、AAAI、IJCAI、ICSOC、ICWS等高水平期刊和会议上发表论文70余篇，主导制定ISO国际标准1项，参与制定国家标准8项，获国家发明专利授权12项，荣获多项国家级和省部级科技奖励，并指导学生在人工智能创新大赛中屡获佳绩。",
+    "disciplines": [
+      "计算机科学与技术",
+      "软件工程",
+      "服务计算",
+      "人工智能"
+    ],
+    "field_tags": [
+      "服务计算",
+      "软件工程",
+      "微服务",
+      "智能运维",
+      "AI Agent",
+      "认知服务",
+      "智能化软件工程",
+      "RPA",
+      "ISO标准",
+      "国家标准",
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "TOSEM、TSC、TWEB、FSE、AAAI、IJCAI、ICSOC、ICWS等期刊和会议论文",
+        "keywords": [
+          "服务计算",
+          "软件工程",
+          "微服务系统",
+          "智能运维",
+          "AI Agent",
+          "认知服务",
+          "智能化软件工程",
+          "机器人流程自动化"
+        ],
+        "journal_name": "TOSEM, TSC, TWEB, FSE, AAAI, IJCAI, ICSOC, ICWS",
+        "research_fields": [
+          "服务计算",
+          "软件工程",
+          "人工智能与软件工程融合",
+          "智能运维"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangjian4/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划子课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王健\n页面链接: http://jszy.whu.edu.cn/wangjian4/zh_CN/index.htm\n==================================================\n武汉大学 王健--中文主页--首页\n教师个人主页\n王健\n个人信息\n教师拼音名称：Wang Jian\n出生日期：1980-04-01\n电子邮箱：\n入职时间：2008-07-01\n所在单位：计算机学院\n学历：研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n博士生导师\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n计算机学院副教授、博士生导师。主持国家自然科学基金、国家重点研发计划子课题等项目，在TOSEM、TSC、TWEB、FSE、AAAI、IJCAI、ICSOC、ICWS等期刊和会议上发表论文70 余篇，主导制定ISO 国际标准1 项、参与制定国家标准8 项，获国家发明专利授权12项。荣获ISO/IEC标准研制“特别贡献”奖、湖北省科技进步一等奖、CCF 科技进步一等奖、湖北省优秀博士学位论文奖、ICSOC 2023杰出论文奖、IEEE ICWS 2021最佳学生论文奖、SEKE 2021最佳论文奖等奖励。指导研究生获2021和2022年中国研究生人工智能创新大赛一等奖，指...\n教育经历\n更多>>\n济南大学  | 计算机科学与技术  | 学士 | 大学本科\n贵州大学  | 计算机应用技术  | 硕士 | 硕士研究生\n武汉大学  | 计算机软件与理论  | 博士 | 博士研究生\n工作经历\n武汉大学计算机学院\n| 助教、讲师、副教授\n多伦多大学信息学院\n| 访问学者（2014.1-2015.1）\n社会兼职\n中国计算机学会（CCF）高级会员、CCF服务计算专委会常务委员、IEEE Senior Member，武汉计算机软件工程学会副秘书长，ISO/IEC JTC1 SC32标准工作组专家，担任多个国际期刊审稿人和多个国际会议程序委员会委员。\n研究方向\n研究领域包括服务计算和软件工程，涉及微服务系统构造与智能运维、AI Agent与认知服务、智能化软件工程、机器人流程自动化等方向。\n团队成员\n更多>>\n智能化软件与服务工程实验室\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

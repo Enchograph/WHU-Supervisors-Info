@@ -1,0 +1,170 @@
+{
+  "id": "dongzhen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/dongzhen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "董震",
+    "english_name": "Dong Zhen",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "3S教研室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [],
+    "graduation_school": "",
+    "academic_honors": [
+      "强国青年科学家（2023）",
+      "湖北省五四青年（2023）",
+      "中国激光雷达青年科技奖（2020）",
+      "国家博士后创新人才（2018）",
+      "自然资源科技奖二等奖（2024，个人排名02）",
+      "上海市科技进步二等奖（2023，个人排名02）",
+      "湖北省自然科学一等奖（2023，个人排名02）",
+      "测绘科技进步二等奖（2022，个人排名02）",
+      "测绘科技进步一等奖（2020，个人排名02）"
+    ],
+    "academic_services": [
+      "空间信息技术专委会常务委员",
+      "国际数字地球学会激光雷达专业委员会委员",
+      "中国图象图形学学会三维视觉专家委员会委员",
+      "《测绘学报》青年编委",
+      "GSIS青年编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "城市空间智能",
+      "具身智能",
+      "智能交通",
+      "植被碳汇",
+      "清洁能源"
+    ],
+    "research_interests": [
+      "激光雷达",
+      "三维视觉",
+      "空间信息技术",
+      "碳计量",
+      "智能感知",
+      "数字地球"
+    ],
+    "research_description": "长期从事城市空间智能与具身智能研究，及其在智能交通、植被碳汇、清洁能源等领域的应用研究。致力于空间信息技术在城市智能感知、碳汇评估与清洁能源管理中的融合与创新。",
+    "disciplines": [
+      "测绘科学与技术",
+      "地理信息科学",
+      "人工智能",
+      "环境科学",
+      "交通工程"
+    ],
+    "field_tags": [
+      "城市智能",
+      "具身智能",
+      "激光雷达",
+      "碳计量",
+      "三维视觉",
+      "智能交通",
+      "空间信息",
+      "可持续发展"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "城市空间智能与具身智能研究及其在智能交通中的应用",
+        "keywords": [
+          "城市空间智能",
+          "具身智能",
+          "智能交通",
+          "3D视觉",
+          "激光雷达"
+        ],
+        "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+        "research_fields": [
+          "智能交通",
+          "城市空间智能",
+          "具身智能"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于激光雷达的植被碳汇估算方法研究",
+        "keywords": [
+          "植被碳汇",
+          "激光雷达",
+          "碳计量",
+          "遥感",
+          "3D建模"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "植被碳汇",
+          "碳计量",
+          "遥感信息处理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "清洁能源场景下的城市空间感知与智能分析",
+        "keywords": [
+          "清洁能源",
+          "城市空间感知",
+          "智能分析",
+          "3S技术",
+          "空间信息"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "清洁能源",
+          "空间信息科学",
+          "智能感知"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "GitHub",
+        "url": "https://dongzhenwhu.github.io/index.html"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/dongzhen/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "科技部",
+      "国家自然科学基金委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 董震\n页面链接: http://jszy.whu.edu.cn/dongzhen/zh_CN/index.htm\n==================================================\n武汉大学 董震--中文主页--首页\nEnglish\n首页\n个人简介\n董震 教授、博士生导师，1988年7月生，山东寿光人，国家级青年人才，国家重点研发计划青年科学家项目首席科学家，测绘遥感信息工程国家重点实验室3S教研室主任，湖北省碳计量中心武汉大学负责人，斯坦福全球前2%顶尖科学家。长期从事城市空间智能与具身智能研究，及其在智能交通、植被碳汇、清洁能源等领域的应用研究。出版学术专著2部，发表SCI论文80余篇，入选强国青年科学家（2023）、湖北省五四青年（2023）、中国激光雷达青年科技奖（2020）、国家博士后创新人才（2018）等人才计划，担任空间信息技术专委会常务委员、国际数字地球学会激光雷达专业委员会委员、中国图象图形学学会三维视觉专家委员会委员、《测绘学报》青年编委、GSIS青年编委，获自然资源科技奖二等奖(2024,个人排名02)、上海市科技进步二等奖(2023,个人排名02)、湖北省自然科学一等奖（2023,个人排名02）、测绘科技进步二等奖(2022,个人排名02)、测绘科技进步一等奖（2020,个人排名02）等省部级科技奖励。\n课题组正在寻找有志同道合的本科生、硕士生、博士生、博士后、研究助理和访问学者！如果您有兴趣和我们一起工作，请给我发电子邮件dongzhenwhu@whu.edu.cn！如果对我们课题组的相关研究感兴趣，欢迎您访问我的个人主页https://dongzhenwhu.github.io/index.html 和课题组的开源平台WHU-USI3DV （github 网址不太稳定，可以使用VPN上网）。\n研究方向\n社会兼职\n暂无内容\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n董震\n个人信息\n教授\n博士生导师\n硕士生导师\n教师拼音名称：Dong Zhen\n出生日期：1988-07-19\n电子邮箱：\n所在单位：测绘遥感信息工程全国重点实验室\n办公地点：武汉大学信息学部星湖综合实验大楼214办公室\n性别：男\n联系方式：dongzhenwhu@whu.edu.cn\n职称：教授\n其他联系方式\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

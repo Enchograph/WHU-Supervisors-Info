@@ -1,0 +1,145 @@
+{
+  "id": "zhangqi2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangqi2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张旗",
+    "english_name": "Zhang Qi",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "土木建筑工程学院",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "采矿工程",
+        "school": "山东科技大学",
+        "period": "2008.9-2012.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "采矿工程",
+        "school": "中国矿业大学(北京)",
+        "period": "2012.9-2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "岩土工程",
+        "school": "武汉大学",
+        "period": "2015.9-2018.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2022年中国岩石力学与工程学会自然科学奖一等奖",
+      "2024年湖北省科学技术进步奖二等奖"
+    ],
+    "academic_services": [
+      "教育部学位论文评审专家",
+      "国家自然科学基金评审专家",
+      "Geohazard Mechanics青年编委",
+      "国际岩石力学学会(ISRM)会员",
+      "中国岩石力学与工程学会(ISRM)会员",
+      "TBM DiGs 2017国际学术会议组织委员会委员",
+      "2022年亚洲隧道青年论坛分会场主席",
+      "2023年第5届全国隧道掘进机工程技术研讨会组织委员会委员",
+      "《Energy》期刊审稿人",
+      "《International Journal of Rock Mechanics and Mining Sciences》期刊审稿人",
+      "《Tunnelling and Underground Space Technology》期刊审稿人",
+      "《Engineering Geology》期刊审稿人",
+      "《Rock Mechanics and Rock Engineering》期刊审稿人",
+      "《Computers and Geotechnics》期刊审稿人",
+      "《Engineering Fracture Mechanics》期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "岩石破裂机制及灾变过程模拟",
+      "深部矿山软岩大变形灾害控制",
+      "TBM高效掘进及智能化决策",
+      "深部工程围岩稳定与硬岩灾害防控"
+    ],
+    "research_interests": [
+      "深部工程",
+      "围岩稳定",
+      "硬岩灾害防控",
+      "TBM掘进",
+      "智能化决策",
+      "软岩大变形",
+      "岩石破裂机制",
+      "灾变过程模拟",
+      "声发射数值模拟",
+      "岩爆预测预警",
+      "微地震监测",
+      "含节理裂隙岩体",
+      "各向异性岩石"
+    ],
+    "research_description": "张旗副教授主要从事深部工程围岩稳定与硬岩灾害防控、TBM高效掘进及智能化决策、深部矿山软岩大变形灾害控制及岩石破裂机制及灾变过程模拟等方面的研究。在高应力下脆性岩石破裂过程、声发射数值模拟、岩爆预测预警及非常规储层压裂诱发微地震等领域取得系列成果，主持国家自然科学基金面上项目、青年基金项目及博士后科学基金项目等多项科研课题。",
+    "disciplines": [
+      "岩土工程",
+      "采矿工程",
+      "隧道工程",
+      "岩石力学"
+    ],
+    "field_tags": [
+      "深部工程",
+      "围岩稳定",
+      "TBM掘进",
+      "岩石破裂",
+      "灾变模拟",
+      "软岩大变形",
+      "岩爆预警",
+      "微地震监测",
+      "智能决策",
+      "节理裂隙岩体"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangqi2/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年基金项目",
+      "博士后科学基金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张旗\n页面链接: http://jszy.whu.edu.cn/zhangqi2/zh_CN/index.htm\n==================================================\n武汉大学 张旗--中文主页--首页\n教师个人主页\n张旗\n个人信息\n教师拼音名称：Zhang Qi\n出生日期：1989-05-02\n电子邮箱：\n所在单位：土木建筑工程学院\n职务：副教授\n学历：博士研究生毕业\n办公地点：土木建筑工程学院结构楼南402\n性别：男\n联系方式：15071498628\n毕业院校：武汉大学\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n张旗，武汉大学副教授，武汉大学博士，主要从事深部工程围岩稳定与硬岩灾害防控、TBM高效掘进及智能化决策、深部矿山软岩大变形灾害控制及岩石破裂机制及灾变过程模拟等方面的研究。近年在各向异性岩石、含节理裂隙岩体材料的裂纹起裂及其在地下工程和隧道工程应用中取得一系列研究成果。先后主持和参与完成了高应力下脆性岩石破裂过程、声发射数值模拟、岩爆预测预警及非常规储层压裂诱发微地震等相关的多项科研课题与应用项目，其中主持国家自然科学基金面上项目1项，青年基金项目1项，博士后科学基金项目1项，...\n教育经历\n更多>>\n2008.9-2012.6\n山东科技大学  | 采矿工程  | 学士学位 | 学士\n2012.9-2015.6\n中国矿业大学(北京)  | 采矿工程  | 硕士学位 | 硕士研究生\n2015.9-2018.6\n武汉大学  | 岩土工程  | 博士 | 博士研究生\n工作经历\n更多>>\n2025.3-至今\n武汉大学\n| 副教授\n2021.9-2024.8\n武汉大学\n| 特聘副研究员\n2018.7-2021.8\n武汉大学\n| 重点资助博士后\n社会兼职\n教育部学位论文评审专家国家自然科学基金评审专家Geohazard Mechanics青年编委国际岩石力学学会(ISRM)会员中国岩石力学与工程学会(ISRM)会员2017年担任TBM DiGs 2017国际学术会议组织委员会委员、2022年亚洲隧道青年论坛分会场主席、2023年第5届全国隧道掘进机工程技术研讨会组织委员会委员《Energy》、《International Journal of Rock Mechanics and Mining Sciences》、《Tunnelling and Underground Space Technology》、《Engineering Geology》、《Rock Mechanics and Rock Engineering》、《Computers and Geotechnics》、《Engineering Fracture Mechanics》等本领域十余本主流期刊审稿人。\n研究方向\n更多>>\n岩石破裂机制及灾变过程模拟\n深部矿山软岩大变形灾害控制\nTBM高效掘进及智能化决策\n深部工程围岩稳定与硬岩灾害防控\n曾获荣誉\n2022    中国岩石力学与工程学会自然科学奖一等奖\n2024    湖北省科学技术进步奖二等奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

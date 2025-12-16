@@ -1,0 +1,302 @@
+{
+  "id": "wangjian12",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangjian12/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王健",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "董辅礽经济社会发展研究院",
+    "college": "董辅礽经济社会发展研究院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "哲学",
+        "school": "纽卡斯尔大学",
+        "period": "博士研究生毕业",
+        "country": "澳大利亚"
+      },
+      {
+        "degree": "硕士",
+        "field": "经济学",
+        "school": "菲律宾大学",
+        "period": "硕士研究生结业",
+        "country": "菲律宾"
+      },
+      {
+        "degree": "专科",
+        "field": "公共卫生",
+        "school": "山东医科大学",
+        "period": "双硕士学位",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "纽卡斯尔大学",
+    "academic_honors": [],
+    "academic_services": [
+      "国家中医药局“十四五”中医药发展规划编制专家组成员（2020-）",
+      "国家医疗保障局区域点数法总额预算和按病种分值付费专家组成员（2020-）",
+      "清华大学公共健康研究中心课程教授（2015-至今）",
+      "中国健康2020公共政策专家委员会委员（2008-2009）",
+      "欧盟医疗保障项目中方顾问（2009）",
+      "山东省卫生系统实施国家基本药物制度专家评估委员会委员（2011-2013）",
+      "中华医学百科全书《卫生经济学》分卷编委会委员",
+      "全国高等学校卫生管理专业第二轮规划教材《卫生管理科研方法》主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "健康经济学",
+      "卫生政策",
+      "健康经济评估",
+      "公共卫生与健康管理"
+    ],
+    "research_interests": [
+      "健康相关生活质量",
+      "疾病经济负担",
+      "医疗保障制度",
+      "健康政策评估",
+      "大数据在公共卫生中的应用",
+      "慢性病管理",
+      "疫苗接种偏好",
+      "终末期医疗决策"
+    ],
+    "research_description": "王健教授长期致力于健康经济学与卫生政策研究，聚焦于中国及全球范围内的健康经济评估、医疗保障制度改革、慢性病与精神疾病经济负担、健康政策制定与评估等领域。其研究涵盖空气污染对老年人健康的影响、糖尿病与痴呆症的流行病学与经济负担、新冠疫苗接种意愿、医疗资源分配效率、以及基于大数据的疫情防控策略等。研究成果发表于《Lancet》《Health Economics》《Journal of Medical Internet Research》《Bulletin of the World Health Organization》等国际权威期刊，具有广泛的政策影响力。",
+    "disciplines": [
+      "经济学",
+      "公共卫生",
+      "卫生管理",
+      "健康政策"
+    ],
+    "field_tags": [
+      "健康经济学",
+      "卫生政策",
+      "健康经济评估",
+      "慢性病管理",
+      "医疗保障",
+      "大数据健康应用",
+      "疾病经济负担",
+      "公共卫生政策"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "Ambient air pollution and the health-related quality of life of older adults: Evidence from Shandong China",
+        "keywords": [
+          "空气污染",
+          "老年人健康",
+          "生活质量",
+          "山东",
+          "环境健康"
+        ],
+        "journal_name": "Journal of Environmental Management",
+        "research_fields": [
+          "环境健康",
+          "卫生经济学",
+          "老年健康"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Exploring physician agency under demand-side cost sharing-An experimental approach",
+        "keywords": [
+          "医生行为",
+          "需求侧成本分担",
+          "实验研究",
+          "医疗决策",
+          "卫生政策"
+        ],
+        "journal_name": "Health Economics",
+        "research_fields": [
+          "卫生经济学",
+          "健康政策",
+          "行为经济学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Preferences for end-of-life care among patients with terminal cancer in China",
+        "keywords": [
+          "临终关怀",
+          "癌症患者",
+          "护理偏好",
+          "中国",
+          "健康政策"
+        ],
+        "journal_name": "JAMA Network Open",
+        "research_fields": [
+          "临终关怀",
+          "卫生政策",
+          "健康经济学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Influencing Indicators and Spatial Variation of Diabetes Mellitus Prevalence in Shandong, China: A Framework for Using Data-Driven and Spatial Methods",
+        "keywords": [
+          "糖尿病流行",
+          "空间分析",
+          "数据驱动方法",
+          "山东",
+          "健康地理"
+        ],
+        "journal_name": "GeoHealth",
+        "research_fields": [
+          "健康地理",
+          "慢性病流行病学",
+          "数据科学与健康"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Individual preferences for COVID-19 vaccination in China",
+        "keywords": [
+          "新冠疫苗",
+          "接种意愿",
+          "中国",
+          "公共卫生",
+          "健康行为"
+        ],
+        "journal_name": "Vaccine",
+        "research_fields": [
+          "公共卫生",
+          "疫苗经济学",
+          "健康行为"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "加快发展中中国特色的健康经济学",
+        "keywords": [
+          "健康经济学",
+          "中国模式",
+          "卫生政策",
+          "管理世界",
+          "学科建设"
+        ],
+        "journal_name": "管理世界",
+        "research_fields": [
+          "健康经济学",
+          "卫生政策",
+          "中国公共政策"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Are patient-regarding preferences stable? Evidence from a laboratory experiment with physicians and medical students from different countries",
+        "keywords": [
+          "患者导向偏好",
+          "医生行为",
+          "实验经济学",
+          "跨国比较",
+          "健康决策"
+        ],
+        "journal_name": "European Economic Review",
+        "research_fields": [
+          "实验经济学",
+          "卫生经济学",
+          "健康决策"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Application of big data technology for COVID-19 prevention and control in China: lessons and recommendations",
+        "keywords": [
+          "大数据",
+          "疫情防控",
+          "中国",
+          "数字健康",
+          "公共卫生"
+        ],
+        "journal_name": "Journal of Medical Internet Research",
+        "research_fields": [
+          "数字健康",
+          "公共卫生",
+          "大数据应用"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "The economic burden of mental disorders in children and adolescents in China: a cross-sectional study",
+        "keywords": [
+          "精神障碍",
+          "儿童青少年",
+          "经济负担",
+          "中国",
+          "健康经济学"
+        ],
+        "journal_name": "The Lancet (Poster Abstracts)",
+        "research_fields": [
+          "儿童青少年健康",
+          "精神卫生经济学",
+          "健康负担"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "The economic burden of dementia in China, 1990-2030: implications for health policy",
+        "keywords": [
+          "痴呆",
+          "经济负担",
+          "中国",
+          "健康政策",
+          "长期照护"
+        ],
+        "journal_name": "Bulletin of the World Health Organization",
+        "research_fields": [
+          "痴呆研究",
+          "健康经济学",
+          "卫生政策"
+        ],
+        "publication_year": 2017
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangjian12/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "世界银行项目",
+      "欧盟医疗保障项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "世界银行",
+      "欧盟"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王健\n页面链接: http://jszy.whu.edu.cn/wangjian12/zh_CN/index.htm\n==================================================\n武汉大学 王健--中文主页--首页\n王健\n教授 硕士生导师 博士生导师\n个人信息\n性别：男\n出生日期：1966年08月09日\n毕业院校：The University of Newcastle\n学历：博士研究生毕业\n在职信息：在职\n所在单位：董辅礽经济社会发展研究院\n电子邮箱：\nVIEW MORE\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n武汉大学董辅礽经济社会发展研究院副院长、武汉大学董辅礽经济社会发展研究院董辅礽讲席教授、博士生导师、健康经济与管理研究中心执行主任。\n2001年获得澳大利亚Newcastle大学经济学博士学位，2001年2月至2004年6月在北京大学中国经济研究中心（现国家发展研究院）作为世界银行客座访问学者和北京大学博士后从事卫生经济和卫生政策研究，2004年7月至2007年1月作为讲师任教于澳大利亚Newcastle大学商学和法学院政策系。\n在SCI、SSCI、CSSCI杂志共发文章70篇，包括在Journal of Medical Internet, Vaccine, Bulletin of the World Health Organization，European Economic Review, Lancet-CAMS Health Summit, Health Economics等国际著名杂志发表SCI论文9篇；中文核心期刊82篇（其中第一或者通讯作者69篇）；主编国家级规划教材1部，译著4部，参编3部著作和教材。代表作如下：\nAmbient air pollution and the health-related quality of life of older adults: Evidence from Shandong China. Tan, J., Chen, N., Bai, J., Yan, P., Ma X., Ren, M., Maitland, E., Nicholas, S., Leng, X., Cheng, W., Chen, C., Wang, J. (2023). Journal of environmental management, Accept. (Corresponding author)\nExploring physician agency under demand-side cost sharing-An experimental approach. Ge, G., Godager, G., & Wang, J. (2022). Health economics, 31(6), 1202–1227. https://doi.org/10.1002/hec.4489.\nPreferences for end-of-life care among patients with terminal cancer in China. Leng, A.,Maitland, E., Wang, S., Nicholas, S., Lan, K., & Wang, J. (2022). JAMA network open, 5(4), e228788. https://doi.org/10.1001/jamanetworkopen.2022.8788. (Corresponding author)\nInfluencing Indicators and Spatial Variation of Diabetes Mellitus Prevalence in Shandong, China: A Framework for Using Data-Driven and Spatial Methods. Li, Y., Fei, T., Wang, J., Nicholas, S., Li, J., Xu, L., Huang, Y., & Li, H. (2021). GeoHealth, 5(3), e2020GH000320. https://doi.org/10.1029/2020GH000320. (Corresponding author)\nIndividual preferences for COVID-19 vaccination in China. Leng, A., Maitland, E., Wang, S., Nicholas, S., Liu, R., & Wang, J. (2021). Vaccine, 39(2), 247–254. https://doi.org/10.1016/j.vaccine.2020.12.009. (Corresponding author)\n加快发展中国特色的健康经济学[J].毛振华,王健,毛宗福,郭敏,袁雪丹.管理世界,2020,36(02):17-26+58+215.DOI:10.19744/j.cnki.11-1235/f.2020.0018.\nAre patient-regarding preferences stable? Evidence from a laboratory experiment with physicians and medical students from different countries[J].Wang J, Iversen T, Hennig-Schmidt H, et al.  European Economic Review, 2020, 125: 103411.\nApplication of big data technology for COVID-19 prevention and control in China: lessons and recommendations.Wu J, Wang J, Nicholas S, et al.  Journal of medical Internet research, 2020, 22(10): e21980.\nThe economic burden of mental disorders in children and adolescents in China: a cross-sectional study. Xu, L., Li, C., Li, J., Yang, F., Wang, J. (2019). The Lancet (Poster Abstracts). https://doi.org/10.1016/S0140-6736(19)32384-0. (Corresponding author)\nThe economic burden of dementia in China, 1990-2030: implications for health policy. Xu, J., Wang, J., Wimo, A., Fratiglioni, L., & Qiu, C. (2017). Bulletin of the World Health Organization, 95(1), 18–26. https://doi.org/10.2471/BLT.15.167726\nCost-effectiveness of exenatide twice daily vs insulin glargine as add-on therapy to oral antidiabetic agents in patients with type 2 diabetes in China. Gu, S., Wang, X., Qiao, Q., Gao, W., Wang, J. Dong, H. (2017). Diabetes Obesity and Metabolism, 19(12), 1688-1697. https://doi.org/10.1111/dom.12991.\nExpanding health insurance coverage in vulnerable groups: a systematic review of options. Meng, Q., Yuan, B., Jia, L., Wang, J., Yu, B., Gao, J., & Garner, P. (2011). Health policy and planning, 26(2), 93–104. https://doi.org/10.1093/heapol/czq038.\nEvidence summaries tailored to health policy-makers in low- and middle-income countries. Rosenbaum, S. E., Glenton, C., Wiysonge, C. S., Abalos, E., Mignini, L., Young, T., Althabe, F., Ciapponi, A., Marti, S. G., Meng, Q., Wang, J., la Hoz Bradford, A. M., Kiwanuka, S. N., Rutebemberwa, E., Pariyo, G. W., Flottorp, S., & Oxman, A. D. (2011). Bulletin of the World Health Organization, 89(1), 54–61. https://doi.org/10.2471/BLT.10.075481.\nInpatient treatment of diabetic patients in Asia: evidence from India, China, Thailand and Malaysia. Goldhaber-Fiebert, J. D., Li, H., Ratanawijitrasin, S., Vidyasagar, S., Wang, X. Y., Aljunid, S., Shah, N., Wang, Z., Hirunrassamee, S., Bairy, K. L., Wang, J., Saperi, S., Nur, A. M., & Eggleston, K. (2010). Diabetic medicine, 27(1), 101–108.\n主要社会兼职包括；国家中医药局“十四五”中医药发展规划编制专家组成员（2020-）；国家医疗保障局区域点数法总额预算和按病种分值付费专家组成员（2020-）；，清华大学公共健康研究中心课程教授（2015-至今）；中国健康2020公共政策专家委员会委员（2008-2009）；欧盟医疗保障项目中方顾问（2009）；山东省卫生系统实施国家基本药物制度专家评估委员会委员（2011-2013）；中华医学百科全书《卫生经济学》分卷编委会委员；全国高等学校卫生管理专业第二轮规划教材《卫生管理科研方法》主编。\n[1]\n山东医科大学 | Public health  | 专科毕业 | 双硕士学位\n[2]\n菲律宾大学 | 经济学 | 硕士研究生结业 | 双硕士学位\n[3]\n纽卡斯尔大学 | 哲学 | 博士研究生毕业 | 博士\n[1]\n武汉大学\n[2]\n武汉大学\n[3]\n武汉大学\n[4]\n山东大学\n[5]\n山东大学\n[6]\n清华大学\n[7]\n纽卡斯尔大学\n[8]\n北京大学\n[9]\n北京大学\n[10]\n北京大学\n[1]\n全国高等学校卫生管理专业第二轮规划教材《卫生管理科研方法》主编\n[2]\n中华医学百科全书《卫生经济学》分卷编委会委员\n[3]\n山东省卫生系统实施国家基本药物制度专家评估委员会委员（2011-2013）\n[4]\n欧盟医疗保障项目中方顾问（2009）\n[5]\n中国健康2020公共政策专家委员会委员（2008-2009）\n[6]\n清华大学公共健康研究中心课程教授（2015-至今）\n[7]\n国家医疗保障局区域点数法总额预算和按病种分值付费专家组成员（2020-）\n[8] 2020.4-至今\n国家中医药局“十四五”中医药发展规划编制专家组成员（2020-）\n[1] Health Economics\n[2] Health Policy\n[3] Health Economics Assessment\n邮编 : \n通讯/办公地址 : \n邮箱 : \n暂无内容\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

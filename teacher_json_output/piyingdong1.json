@@ -1,0 +1,191 @@
+{
+  "id": "piyingdong1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/piyingdong1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "皮英冬",
+    "english_name": "Pi Yingdong",
+    "title": [
+      "副研究员"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2018.7-2021.7",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2014.7-2017.7",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "遥感科学与技术",
+        "school": "武汉大学",
+        "period": "2010.7-2014.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "武汉英才",
+      "湖北五四奖章集体（武汉大学珞珈三号01星遥感信息实时智能服务团队）",
+      "中国地理信息产业协会地理信息科技进步奖二等奖",
+      "领跑者5000中国精品科技期刊顶尖学术论文",
+      "王之卓创新人才奖",
+      "武汉大学学术创新一等奖",
+      "博士研究生国家奖学金"
+    ],
+    "academic_services": [
+      "《Remote sensing》专刊 Guest editor",
+      "《测绘学报》实时遥感测绘专栏副主编",
+      "国际摄影测量与遥感学会第一技术委员会第三工作组成员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "卫星遥感数据高精度处理",
+      "几何误差处理",
+      "空谱信息融合",
+      "空间信息重建",
+      "无地面控制卫星摄影测量",
+      "多模态配准",
+      "区域网平差",
+      "三维重建"
+    ],
+    "research_interests": [
+      "卫星影像高精度处理",
+      "几何辐射定标",
+      "空谱融合",
+      "空间信息重建",
+      "实时遥感测绘",
+      "国产卫星遥感数据应用"
+    ],
+    "research_description": "皮英冬副研究员长期从事卫星影像高精度处理算法研究与应用，聚焦卫星遥感影像几何误差处理、空谱信息融合和空间信息重建等方向，推动卫星摄影测量与遥感从‘有地面控制’向‘无地面控制’发展，致力于提升国产卫星遥感数据在全球范围的高精度应用能力。研究成果发表于IF、ISPRS、TGRS、OE、JSTAR、测绘学报等高水平期刊。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "遥感科学与技术",
+      "空间信息科学",
+      "地球信息科学"
+    ],
+    "field_tags": [
+      "卫星遥感",
+      "高精度处理",
+      "无地面控制",
+      "空谱融合",
+      "三维重建",
+      "区域网平差",
+      "几何定标",
+      "国产卫星应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "基于深度学习的卫星影像空谱信息融合方法研究",
+        "keywords": [
+          "卫星影像",
+          "空谱融合",
+          "深度学习",
+          "高精度处理"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing (TGRS)",
+        "research_fields": [
+          "卫星遥感",
+          "图像处理",
+          "空谱信息融合"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "无地面控制条件下高分辨率卫星影像区域网平差技术",
+        "keywords": [
+          "无地面控制",
+          "区域网平差",
+          "几何误差处理",
+          "摄影测量"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "摄影测量",
+          "遥感影像处理",
+          "空间信息重建"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "珞珈三号01星遥感数据实时智能服务系统研究",
+        "keywords": [
+          "珞珈三号01星",
+          "实时遥感",
+          "智能服务",
+          "空间信息重建"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "遥感应用",
+          "实时处理",
+          "空间信息服务"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "多源卫星影像高精度配准与三维重建方法",
+        "keywords": [
+          "多模态配准",
+          "三维重建",
+          "遥感影像",
+          "几何定标"
+        ],
+        "journal_name": "Optics Express (OE)",
+        "research_fields": [
+          "遥感影像处理",
+          "三维建模",
+          "多源数据融合"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/piyingdong1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 皮英冬\n页面链接: http://jszy.whu.edu.cn/piyingdong1/zh_CN/index.htm\n==================================================\n武汉大学 皮英冬--中文主页--首页\n教师个人主页\n皮英冬\n个人信息\n教师拼音名称：Pi Yingdong\n电子邮箱：\n所在单位：测绘遥感信息工程全国重点实验室\n职务：副研究员\n学历：博士研究生毕业\n性别：男\n在职信息：在职\n毕业院校：武汉大学\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n皮英冬，副研究员，武汉大学珞珈三号01星技术总师助理，先后入选武汉英才、湖北省博士后先锋人才跟踪支持项目、国家级青年托举人才工程。长期从事卫星影像高精度处理算法研究和应用工作，在卫星遥感影像几何误差处理、空谱信息融合和空间信息重建等方面取得了多项创新成果，推动卫星摄影测量与遥感从“有地面控制”向“无地面控制”的发展，为国产卫星遥感数据的全球范围高精度应用做出重要贡献，发表学术论文40余篇，其中以第一/通讯作者在IF、ISPRS、TGRS、OE、JSTAR、测绘学报等国内外高水平SCI/EI期刊发表学术...\n教育经历\n更多>>\n2018.7-2021.7\n武汉大学  | 摄影测量与遥感  | 博士 | 研究生(博士)毕业\n2014.7-2017.7\n武汉大学  | 摄影测量与遥感  | 硕士 | 研究生(硕士)毕业\n2010.7-2014.7\n武汉大学  | 遥感科学与技术  | 学士 | 本科(学士)\n工作经历\n2023.11-至今\n测绘遥感信息工程国家重点实验室 | 武汉大学\n| 副研究员\n2021.7-2023.10\n测绘遥感信息工程国家重点实验室 | 武汉大学\n| 博士后\n社会兼职\n更多>>\n2024.7-至今\n《Remote sensing》专刊 Guest editor\n2023.7-2024.7\n测绘学报《实时遥感测绘》专栏副主编\n2022.1-至今\n国际摄影测量与遥感学会第一技术委员会第三工作组成员\n研究方向\n卫星遥感数据高精度处理与应用（包括但不限于几何辐射定标、多模态配准、区域网平差、三维重建、空谱融合等）\n曾获荣誉\n2024    武汉英才\n2023    湖北五四奖章集体（武汉大学珞珈三号01星遥感信息实时智能服务团队）\n2018    中国地理信息产业协会地理信息科技进步奖二等奖\n2020    领跑者5000中国精品科技期刊顶尖学术论文\n2019    王之卓创新人才奖\n2020    武汉大学学术创新一等奖\n2019    博士研究生国家奖学金\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "id": "zhoujin1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhoujin1/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "周进",
+    "english_name": "Jin Zhou",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "数学与统计学院",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "应用数学",
+        "school": "武汉大学",
+        "period": "2006.09～2009.07",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "应用数学",
+        "school": "武汉大学",
+        "period": "2003.09～2006.07",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "数学",
+        "school": "华中师范大学",
+        "period": "1996.09～2000.07",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家自然科学二等奖",
+      "武汉大学351人才计划珞珈青年学者",
+      "湖北省自然科学一等奖",
+      "全国百篇优秀博士论文提名",
+      "湖北省优秀博士论文",
+      "教育部自然科学一等奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "复杂网络",
+      "多层网络",
+      "高阶网络",
+      "超扩散",
+      "同步与控制",
+      "拓扑识别",
+      "非线性系统"
+    ],
+    "research_interests": [
+      "网络同步",
+      "网络控制",
+      "拓扑识别",
+      "超扩散现象",
+      "多层网络动力学",
+      "非线性系统分析",
+      "复杂系统建模"
+    ],
+    "research_description": "周进教授长期从事复杂网络、多层网络、高阶网络、超扩散、同步与控制、拓扑识别及非线性系统等方向的研究。其研究聚焦于网络结构与动力学行为之间的关系，尤其在复杂网络的同步机制、拓扑识别、控制策略、多层网络中的超扩散现象以及非线性系统的稳定性与区域估计等方面取得了一系列重要成果。研究工作涵盖理论建模、算法设计与实际应用，涉及神经网络、传染病传播、机器人编队、信息传播等多个领域。",
+    "disciplines": [
+      "应用数学",
+      "控制科学与工程",
+      "系统科学",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "复杂网络",
+      "多层网络",
+      "同步控制",
+      "拓扑识别",
+      "超扩散",
+      "非线性系统",
+      "网络动力学",
+      "高阶网络",
+      "系统建模",
+      "智能控制"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 53,
+    "representative_publications": [
+      {
+        "title": "Searching for Key Cycles in a Complex Network",
+        "keywords": [
+          "复杂网络",
+          "关键环",
+          "拓扑识别",
+          "同步"
+        ],
+        "journal_name": "Physical Review Letters",
+        "research_fields": [
+          "复杂网络",
+          "非线性系统",
+          "同步与控制"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Adaptive Synchronization of an Uncertain Complex Dynamical Network",
+        "keywords": [
+          "自适应同步",
+          "复杂动力网络",
+          "控制"
+        ],
+        "journal_name": "IEEE Transactions on Automatic Control",
+        "research_fields": [
+          "控制理论",
+          "复杂网络",
+          "非线性系统"
+        ],
+        "publication_year": 2006
+      },
+      {
+        "title": "Pinning Adaptive Synchronization of A General Complex Dynamical Network",
+        "keywords": [
+          "钉住控制",
+          "自适应同步",
+          "复杂网络"
+        ],
+        "journal_name": "Automatica",
+        "research_fields": [
+          "控制理论",
+          "复杂网络",
+          "同步"
+        ],
+        "publication_year": 2008
+      },
+      {
+        "title": "Finite-time Synchronization of Impulsive Dynamical Networks with Strong Nonlinearity",
+        "keywords": [
+          "有限时间同步",
+          "脉冲网络",
+          "非线性系统"
+        ],
+        "journal_name": "IEEE Transactions on Automatic Control",
+        "research_fields": [
+          "控制理论",
+          "非线性系统",
+          "复杂网络"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Estimating the Region of Attraction on Controlled Complex Networks with Time-varying Delay",
+        "keywords": [
+          "吸引域估计",
+          "时变延迟",
+          "控制网络"
+        ],
+        "journal_name": "IEEE Transactions on Automatic Control",
+        "research_fields": [
+          "控制理论",
+          "复杂网络",
+          "稳定性分析"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "http://scholar.google.com.hk/citations?hl=en&user=QudohvAAAAAJ"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上基金项目",
+      "国家自然科学基金青年基金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 周进\n页面链接: http://jszy.whu.edu.cn/zhoujin1/zh_CN/index.htm\n==================================================\n武汉大学 周进--中文主页--首页\nEnglish\n中文\n周进\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Jin Zhou\n学历：研究生毕业\n性别：女\n职称：教授\n所属院系：\n数学与统计学院\n学科：\n个人简介\n周进        武汉大学数学与统计学院\n教授        博士生导师\n电子邮箱:　 jzhou AT whu.edu.cn　 (请把 AT 替换成 @ )\n专业:　　　 应用数学\n研究方向：  复杂网络、多层网络、高阶网络、超扩散、同步与控制、拓扑识别、非线性系统等等。\n简历\n2016.11～　　　　  武汉大学   数学与统计学院   教授\n2011.11～2016.10　 武汉大学   数学与统计学院   副教授\n2009.09～2011.10　 武汉大学   数学与统计学院   讲师\n2018.01～2018.02　 香港城市大学   电子工程系   研究员\n2017.06～2017.08　 澳大利亚皇家墨尔本理工大学   工程学院   研究员\n2015.01～2016.01　 美国加州大学河滨分校   电力与计算机工程系   访问学者\n2007.08～2009.02　 香港理工大学   电子与资讯工程学系   助理研究员\n2006.09～2009.07　 武汉大学 数学与统计学院   博士\n2003.09～2006.07　 武汉大学 数学与统计学院   硕士\n2000.07～2003.07　 武汉工业学院   数理系   教师\n1996.09～2000.07　 华中师范大学   数学系   学士\n1990.09～1996.07　 武汉市第四中学   初高中\n获奖情况\n2016年　 国家自然科学二等奖\n2014年　 武汉大学351人才计划珞珈青年学者\n2013年　 湖北省自然科学一等奖\n2011年　 全国百篇优秀博士论文提名\n2010年　 湖北省优秀博士论文\n2008年　 教育部自然科学一等奖\n科研项目\n2022.01～2025.12　 国家自然科学基金面上基金项目(62173254)\n2018.01～2021.12　 国家自然科学基金面上基金项目(61773294)\n2014.01～2017.12　 国家自然科学基金面上基金项目(61374173)\n2011.01～2013.12　 国家自然科学基金青年基金项目(61004096)\n论文情况\n已发表学术论文53 篇，全部为SCI或EI收录，其中第一或通讯作者论文47篇，大多数由SCI二区及Top收录，包括物理学顶刊Phys. Rev. Lett.，控制学三大顶级期刊IEEE Trans. Automat. Contr. (长文和短文)、 Automatica 和SIAM J. Control Optim. 截至2023 年5月，据Google Scholar统计所发表论文被国内外引用总计2562次，单篇论文引用前两位分别是738次和639次；据Web of Science 统计，所发表论文引用总计2077次，他引1743次，单篇论文引用前两位分别是612次和515次。论文被本领域著名期刊IEEE Transactions和Automatica (IFAC 会刊) 他引202次，得到18位国家科学院或工程院院士他引162 次，41位IEEE Fellow他引373次。部分论文如下：\n【40】S. Y. Jiang, J. Zhou*, M. Small, J. A. Lu, and Y. Q. Zhang, “Searching for Key Cycles in a Complex Network”, Physical Review Letters, vol. 130, no. 18, 187402, 2023.  pdf\n【39】J. Zhou, J. A. Lu, and J. H. Lü, “Adaptive Synchronization of an Uncertain Complex Dynamical Network”, IEEE Transactions on Automatic Control, vol. 51, no. 4, pp. 652-656, 2006. （WoS Cited times: 612）pdf\n【38】J. Zhou, J. A. Lu, and J. H. Lü, “Pinning Adaptive Synchronization of A General Complex Dynamical Network”, Automatica, vol. 44, no. 4, pp. 996-1003, 2008. （WoS Cited times: 515）pdf\n【37】S. B. Zhu, J. Zhou*, J. H. Lü, and J. A. Lu, “Finite-time Synchronization of Impulsive Dynamical Networks with Strong Nonlinearity”, IEEE Transactions on Automatic Control-Regular Paper, vol. 66, no. 8, pp. 3550-3561, 2021. pdf\n【36】J. Zhou, J. Chen, J. A. Lu and J. H. Lü, “On Applicability of Auxiliary System Approach to Detect Generalized Synchronization in Complex Network,” IEEE Transactions on Automatic Control, vol. 62, no. 7, pp. 3468-3473, 2017. pdf\n【35】S. B. Zhu, J. Zhou*, and J. A. Lu, “Estimating the Region of Attraction on Controlled Complex Networks with Time-varying Delay”, IEEE Transactions on Automatic Control, vol. 68, no. 1, pp. 516-523, 2023. pdf\n【34】S. B. Zhu, J. Zhou*, X. H. Yu, and J. A. Lu, “Bounded Synchronization of Heterogeneous Complex Dynamical Networks: a Unified Approach”, IEEE Transactions on Automatic Control, vol. 66, no. 4, pp. 1756-1762, 2021. pdf\n【33】S. B. Zhu, J. Zhou*, G. R. Chen, and J. A. Lu, “Estimating the Region of Attraction on a Complex Dynamical Network”, SIAM Journal on Control and Optimization, vol. 57, no. 2, pp. 1189–1208, 2019. pdf\n【32】J. Zhou, W. W. Yu, X. M. Li, M. Small, and J. A. Lu, “Identifying the Topology of a Coupled FitzHugh-Nagumo Neurobiological Network via a Pinning Mechanism”, IEEE Transactions on Neural Networks, vol. 20, no. 10, pp. 1679-1684, 2009.  pdf\n【31】S. B. Zhu, J. Zhou, Q. X. Zhu, Na Li, Jun-an Lu, “Adaptive Exponential Synchronization of Complex Networks with Nondifferentiable Time-Varying Delay”, IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 10, pp. 8124-8130, 2023. pdf\n【30】S. B. Zhu, J. Zhou*, X. H. Yu, and J. A. Lu, “Synchronization of Complex Networks With Nondifferentiable Time-Varying Delay”, IEEE Transactions on Cybernetics,vol. 52, no. 5, pp. 3342-3348, 2022. pdf\n【29】S. B. Zhu, J. Zhou*, G. R. Chen and J. A. Lu, “A New Method for Topology Identification of Complex Dynamical Networks”, IEEE Transactions on Cybernetics, vol. 51, no. 4, pp. 2224-2231, 2021. pdf\n【28】X. Y. Zhao, J. Zhou*, and J. A. Lu, “Pinning Synchronization of Multiplex Delayed Networks with Stochastic Perturbations”, IEEE Transactions on Cybernetics, vol. 49, no. 12, pp. 4262-4270, 2019. pdf\n【27】W. Q. Li, J. Zhou*, and J. A. Lu, “The Effect of Behavior of Wearing Masks on Epidemic Dynamics”, Nonlinear Dynamics, vol. 101, 1995-2001, 2020. pdf\n【26】B. Li, J. Zhou*, W. Q. Li, and J. A. Lu, “Diffusibility of a kind of quasi-star higher-order network”, Communications in Nonlinear Science and Numerical Simulation, vol. 126, 107502, 2023.  pdf\n【25】S. B. Zhu, X. Y. Zhao, N. Li, J. Zhou*, and J. A. Lu, “Identifying partial topology of complex dynamical networks with distributed delay”, Communications in Nonlinear Science and Numerical Simulation, vol. 126, 107504, 2023.   pdf\n【24】C. Y. Chen, J. Zhou*, F. L. Qu, C. J. Song, and S. B. Zhu, “Identifying partial topology of complex networks with stochastic perturbations and time delay”, Communications in Nonlinear Science and Numerical Simulation, vol. 115, 106779, 2022.  pdf\n【23】Y. Q. Zhang, J. Zhou*, J. A. Lu, and W. Q. Li, “Superdiffusion induced by complete structure in multiplex networks”, Chaos, vol. 33, no. 2, 023133, 2023. pdf\n【22】H. Guo, J. Zhou*, S. B. Zhu. “The impact of inner-coupling and time delay on synchronization: From single-layer network to hypernetwork”, Chaos, vol. 32, no. 11, 113135, 2022. pdf\n【21】W. Q. Li, J. Zhou*, Z. Jin, and J. A. Lu, “The Combination of Targeted Vaccination and Ring Vaccination”, Chaos, vol. 31, 063108, 2021. pdf\n【20】H. B. Yan, J. Zhou*, W. Q. Li, J. A. Lu, and R. G. Fan, “Superdiffusion Criteria on Duplex Networks”, Chaos, vol. 31, 073108, 2021. pdf\n【19】C. J. Song, J. Zhou*, J. S. Wang. “Finite Time Inter-Layer Synchronization of Duplex Networks via Event-Dependent Intermittent Control”, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 12, pp. 4889-4893, 2022. pdf\n【18】W. Y. Li, J. Zhou*, J. Q. Li, T. Xie, and J. A. Lu, “Cluster Synchronization of Two-layer Networks via Aperiodically Intermittent Pinning Control”, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 4, pp. 1338-1342, 2021. pdf\n【17】X. Y. Zhao, J. Zhou*, S. B. Zhu, C. Ma, and J. A. Lu, “Topology Identification of Multiplex Delayed Networks”, IEEE Transactions on Circuits and Systems II-EXPRESS BRIEFS, vol. 67, no. 2, pp. 290-294, 2020.  pdf\n【16】J. Zhou, X. H. Yu and J. A. Lu, “Node Importance in Controlled Complex Networks,” IEEE Transactions on Circuits and Systems II-EXPRESS BRIEFS, vol. 66, no.3, pp. 437-441, 2019. pdf\n【15】S. B. Zhu, J. Zhou* and J. A. Lu, “Identifying Partial Topology of Complex Dynamical Networks via a Pinning Mechanism”, Chaos, vol. 28, 043108, 2018. pdf\n【14】徐明明，陆君安，周进*, “两层星型网络的特征值谱及同步能力”, 物理学报, 第65卷，028902, 2016. pdf\nM. M. Xu, J. A. Lu and J. Zhou*, “Synchronizability and Eigenvalues of Two-layer Star Networks”, Acta Physica Sinica, 65, 028902, 2016.\n【13】M. M. Xu, J. Zhou*, J. A. Lu and X. Q. Wu, “Synchronizability of Two-layer Networks”, European Physical Journal B, vol. 88, 240, 2015. pdf\n【12】J. Chen, J. A. Lu and J. Zhou*, “Topology Identification of Complex Networks from Noisy Time Series Using ROC Curve Analysis”, Nonlinear Dynamics, vol. 75, pp. 761-768, 2014. pdf\n【11】K. Z. Li, J. Zhou, W. W. Yu, M. Small, and X. C. Fu, “Adaptive Cluster Synchronization in Networks with Time-varying and Distributed Coupling Delays”, Applied Mathematical Modelling, vol. 38, pp. 1300-1314, 2014. pdf\n【10】J. Zhou, “Criterion for Unbounded Synchronous Region in Complex Networks”, Abstract and Applied Analysis, vol. 2013, 513871, 2013. pdf\n【9】陈娟，陆君安，周进, “复杂网络同步态与孤立节点解的关系”, 自动化学报, 第39卷，第12期，页码：2111-2120, 2013.  pdf\nJ. Chen, J. A. Lu and J. Zhou, “On the Relationship between the Synchronous State and the Solution of an Isolated Node in a Complex Network”, ACTA AUTOMATICA SINICA, vol. 39, no. 12, Dec. 2013.\n【8】J. Zhou*, X. Q. Wu, W. W. Yu, M. Small, and J. A. Lu, “Flocking of Multi-agent Dynamical Systems Based on Pseudo-leader Mechanism”, Systems and Control Letters, vol. 61, no. 1, pp. 195-202, 2012. pdf\n【7】X. Q. Wu, W. X. Zheng, and J. Zhou, “Generalized Outer Synchronization between Complex Dynamical Networks”, Chaos, vol. 19, 013109, 2009. pdf\n【6】J. Zhou, X. Q. Wu, W. W. Yu, M. Small, and J. A. Lu, “Pinning Synchronization of Delayed Neural Networks”, Chaos, vol. 18, 043111, 2008.pdf\n【5】J. Zhou, X. K. Xu, J. Zhang, J. F. Sun, M. Small and J. A. Lu, “Generating an Assortative Network with a Given Degree Distribution”, International Journal of Bifurcation and Chaos, vol. 18, no. 11, pp. 3495-3502, 2008. pdf\n【4】M. Small, X. K. Xu, J. Zhou*, J. Zhang, J. F. Sun, and J. A. Lu, “Scale-free Networks which are Highly Assortative but not Small World”, Physical Review E, vol. 77, 066112, 2008. pdf\n【3】J. F. Sun, J. Zhang, J. Zhou, X. K. Xu, and M. Small, “Detecting Phase Synchronization in Noisy Data from Coupled Chaotic Oscillators”, Physical Review E, vol. 77, 046213, 2008. pdf\n【2】J. Zhou and J. A. Lu. “Topology Identification of Weighted Complex Dynamical Networks”, Physica A, vol. 386, no. 1, pp. 481-491, 2007. pdf\n【1】J. Zhou, J. A. Lu and X. Q. Wu, “Linearly and Nonlinearly Bidirectionally Coupled Synchronization of Hyperchaotic Systems”, Chaos, Solitons and Fractals, vol. 31, pp. 230–235, 2007. pdf\n论文引用情况\nhttp://scholar.google.com.hk/citations?hl=en&user=QudohvAAAAAJ\nUpdated  202305\n团队成员\n武汉大学复杂网络中心\n萤火虫发光为什么会同时闪灭？大家鼓掌为什么会趋于一致？机器人编队跳舞为什么可以整齐划一？是不是只要网络全连接，一定能实现同步？为什么有些组织成员形成单线联系的网络更有利于信息的同步？当小世界网络越来越小，我们生活的超小世界是否跟我们处于立体的多层网络有关？加入我们团队一起来研究吧……招生信息研究方向：复杂网络、多层网络、同步与控制、拓扑识别、非线性系统等。目前研究课题：单层网络及多层网络的同步、广义同步、超扩散、传播、控制等。招收对象：常年招收博士生、硕士生。招收要求：具有较好的数学基础和英语基础，对科学研究有热情。联系邮箱：jzhou@whu.edu.cn\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

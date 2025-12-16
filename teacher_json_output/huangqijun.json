@@ -1,0 +1,230 @@
+{
+  "id": "huangqijun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huangqijun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄启俊",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电子科学与技术系",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学学士",
+        "field": "半导体物理",
+        "school": "武汉大学",
+        "period": "1986年6月",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "微电子学与固体电子学",
+        "school": "武汉大学",
+        "period": "2010年6月",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国计量测试学会科学技术进步奖一等奖（2020）",
+      "教育部科技进步二等奖（1994年）",
+      "教育部科技进步三等奖（1995年）",
+      "国家发明四等奖（1993年）",
+      "武汉大学优秀教学成果一等奖（第1完成人，2012年）",
+      "武汉大学优秀导师（2005-2006学年）",
+      "武汉大学优秀研究生导师（2001、2002年）",
+      "武汉大学青年教师优秀教学一、二、三等奖（1999、1995、1997年）",
+      "武汉大学青年教师优秀科研二等奖（1996年）",
+      "武汉大学优秀青年教师（1993年）",
+      "Altera中国大学生电子设计文章竞赛卓越教师奖（2007、2009、2011）",
+      "Altera中国大学生电子设计文章竞赛优秀导师奖（2012年）"
+    ],
+    "academic_services": [
+      "湖北省计量学会副会长（2025-）",
+      "华中地区高等学校EDA技术研究会理事长（2017-）",
+      "中南国家计量测试中心第一届热工专业技术委员会顾问委员（2021-）",
+      "武汉大学-Intel（Altera）EDA/SOPC联合实验室主任（2007-）",
+      "华中地区高等学校EDA技术研究会副理事长（2013-2016）",
+      "湖北省高校EDA/SOPC协会理事（2009-2013）",
+      "中国仪器仪表学会仪表元器件分会理事（2011-2019）",
+      "中国光学学会光电技术专业委员会委员（2003-2015）",
+      "教育部电子科学与技术专业教学指导分委员会协作委员（2006-2010）",
+      "中国电子学会敏感技术专业委员会委员（1998-2007）"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "生物医学信息处理",
+      "微纳电子器件模型研究与光电器件及IC设计"
+    ],
+    "research_interests": [
+      "EMG/ECG检测技术",
+      "可穿戴检测技术",
+      "神经网络与机器学习算法",
+      "压缩感知医学信号分析",
+      "云平台医学信息传输",
+      "碳基场效应器件",
+      "石墨烯场效应管",
+      "纳米材料电学特性",
+      "新型红外探测器件",
+      "TIA与LA集成电路设计"
+    ],
+    "research_description": "黄启俊教授长期从事生物医学信息处理与微纳电子器件及集成电路设计的研究。在生物医学信息处理方面，聚焦于EMG、ECG信号检测与可穿戴设备实现，探索基于神经网络的生物特征提取与分类、轻量化机器学习算法的硬件部署，以及基于压缩感知的医学信号重构与云平台传输技术。在微纳电子器件领域，致力于纳米尺度下碳基与石墨烯场效应器件的量子与电路建模，研究新型红外探测器（PD）、跨阻放大器（TIA）、限幅放大器（LA）等集成电路芯片设计，涵盖从材料特性到器件应用的全链条研究。",
+    "disciplines": [
+      "生物医学工程",
+      "微电子学与固体电子学",
+      "光学",
+      "集成电路设计"
+    ],
+    "field_tags": [
+      "生物医学信号处理",
+      "可穿戴医疗设备",
+      "深度学习硬件加速",
+      "压缩感知",
+      "碳基电子器件",
+      "石墨烯器件",
+      "纳米电子学",
+      "集成电路设计",
+      "红外探测器",
+      "智能医疗"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 270,
+    "representative_publications": [
+      {
+        "title": "JAMC: A jigsaw-based autoencoder with masked contrastive learning for cardiovascular disease diagnosis",
+        "keywords": [
+          "心血管疾病诊断",
+          "自编码器",
+          "对比学习",
+          "医学图像分析"
+        ],
+        "journal_name": "Knowledge-Based Systems",
+        "research_fields": [
+          "生物医学信息处理",
+          "人工智能在医疗中的应用"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "CELL: Supplementing Context for Multi-modal Few-shot Cardiologist",
+        "keywords": [
+          "多模态学习",
+          "少样本学习",
+          "心脏病学",
+          "深度学习"
+        ],
+        "journal_name": "IEEE International Conference on Bioinformatics and Biomedicine 2024",
+        "research_fields": [
+          "生物医学信息处理",
+          "机器学习"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Honest-GE: 2-step Heuristic Optimization and Node-level Embedding Empower Spatial-Temporal Graph Model for ECG",
+        "keywords": [
+          "心电图分析",
+          "时空图模型",
+          "图神经网络",
+          "优化算法"
+        ],
+        "journal_name": "Information Sciences",
+        "research_fields": [
+          "生物医学信息处理",
+          "图神经网络"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "SIGxCL: A Signal-Image-Graph Cross-Modal Contrastive learning Framework for CVD Diagnosis based on Internet of Medical Things",
+        "keywords": [
+          "跨模态对比学习",
+          "物联网医疗",
+          "心血管疾病",
+          "信号-图像-图融合"
+        ],
+        "journal_name": "IEEE Internet of Things Journal",
+        "research_fields": [
+          "生物医学信息处理",
+          "物联网与智能医疗"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "MaeFE: Masked Autoencoders Family of Electrocardiogram for Self-supervised Pre-training and Transfer Learning",
+        "keywords": [
+          "自监督预训练",
+          "心电图",
+          "掩码自编码器",
+          "迁移学习"
+        ],
+        "journal_name": "IEEE Transactions on Instrumentation and Measurement",
+        "research_fields": [
+          "生物医学信息处理",
+          "信号处理"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huangqijun/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家行业科技专项",
+      "863计划",
+      "国家科技支撑计划",
+      "国家重点科技攻关",
+      "国家创新基金",
+      "企业科技攻关项目",
+      "国家空间科学中心项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家行业科技专项",
+      "国家863计划",
+      "国家科技支撑计划",
+      "国家重点科技攻关项目",
+      "国家创新基金",
+      "国家空间科学中心",
+      "华为海思半导体",
+      "华为武研所",
+      "国家气象局",
+      "华北地区闪电定位系统"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄启俊\n页面链接: http://jszy.whu.edu.cn/huangqijun/zh_CN/index.htm\n==================================================\n武汉大学 黄启俊--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n一、学习与工作经历：\n1986年6月于武汉大学物理系半导体物理专业获“理学学士”；2010年6月于武汉大学微电子学与固体电子学专业获“工学博士”。\n1986.6-1987.8：武汉大学物理系教师；\n1987.9-1991.7：武汉大学物理系助教；\n1991.8-1995.4：武汉大学物理系讲师；\n1995.5-2011.10：武汉大学应用物理系、光电技术系、电子科学与技术系副教授；\n2011.11-今：武汉大学电子科学与技术系、微电子系教授。\n其中1996年遴选为硕士生导师，2010年遴选为博士生导师。\n二、教学工作：\n1、本科生教学：\n主讲本科生课程：《集成电路设计方法学》、《半导体基础及太阳能电池》、《半导体及其器件物理》、《微电子与智能社会》。\n曾主讲课程：《半导体物理》、《普通物理》、《半导体工艺原理》、《电子技术基础》、《传感器原理与应用》、《EDA技术》、《EDA实验》等。\n指导本科生国家大学生创新训练计划项目8项，主持武汉大学校级教学改革（课程建设）项目3项，发表教学论文9篇。\n2、研究生教学：\n主讲博士生课程：《微电子学与固体电子学理论》、《集成电路设计前沿》；主讲硕士生课程：《数字集成电路设计II》、《微电子学导论》、《微纳机电系统导论》。曾主讲课程：《微电子CAD技术》、《半导体物理II》等。\n目前指导博士研究生1人，硕士研究生1人。在读博士生：张怀诚；在读硕士生：葛悦。\n已培养毕业博士研究生10人、硕士研究生120余人。毕业博士生如下：\n年份    姓名      工作单位        职务/职称     工作领域/内容\n2025年            史记广    荣耀集团            工程师       AI大模型\n2024年            刘文涵     华东交通大学         讲师       生物/医学信息处理\n2020年            周 晓    中科院电工研究所      副研究员     电路系统硬件设计\n2020年            王家权   中科院电工研究所      副研究员     嵌入式系统软件设计\n2019年   胡睿晗    哈尔滨工业大学        副教授      智能控制算法\n2018年   吕亚威     湖南大学            副教授       微纳器件及建模\n2018年   罗 将     杭州电子科技大学       副教授       模拟与射频IC设计\n2017年   宋笑影    武汉科技大学          教授         图像处理\n2017年   曹 宜      武汉智目智能有限公司    技术总监/副高     电路系统设计\n2014年   罗 军     工信部电子第五研究所    正高级工程师     电路系统设计\n毕业硕士生如下：\n2024年：郭千禧、罗德宇\n2023年：张怀诚（1+4硕博连读）、高鑫玮、纪洁维、谢文鑫\n2022年：秦默然、姚远星、吴鹏程\n2021年：陈爱云\n2020年：王飞、鲁言、仇敏政、黄善择、李倩\n2019年：刘文涵、张梦新、廖远、唐玥、刘芊\n2018年：张翊丹、邢颖\n2017年：王佳权（2+3硕博连读）、许家榆、陈伟、代声发、陈少勇、王皓、武会江、黄佳伟、傅晓锦\n2016年：胡睿晗（1+4硕博连读）、刘神聪、杨俊飞、张玲、靳泽群\n2015年：孙洋、江培海、龚高超、易琨、石俊强、林新、严赵军、熊上导\n2014年：吕亚威（1+4硕博连读）、孟虹兆、钟 维、尚云、苑尚博、何超\n2013年：黄宝莹、彭娟娟、蔡恒、田彩霞、张祥、杨飞鹏、刘毅、李在军、王明、陶 金、赵洋锋、王攀\n2012年：周晓（2+3硕博连读）、李梦竹、崔雪楠、何慧芸、李昌盛、林柏良、陈玮、韦万书、韩芳芳、田卓\n2011年：罗军（2+3硕博连读）、王亚娟、肖芳、毛雪莹、彭俊琪、张雨光、潘超、岳文铎、杨嗣承\n2010年：倪奎、王安文、旷捷、张智毅、周剑、刘浩、郑和新\n2009年：向守坤、李湘琼、江冠群、程方敏、马建伟、魏 纯、付彦召\n2008年：赵东方、于心亮、李雄、田宁军、郭纲、李玉瑜、梁邵华、谷岩松\n2007年：唐杰、张培森、周随霞、郝军、贾伟、余卫斌、彭俊毅、申东伟\n2006年：王豪、孙平、余华涛、陶玉茂、吴振东、刘杰、吴凡、陈洲、王培元、余济海\n2004年：常胜、邱家威、熊力嘉\n2003年：熊江、李华民\n2002年：李学文、郭锦鹏\n2001年：蔡先体\n2000年：钟永春、王海军、张斌、别云成\n三、科研工作：\n1、科研方向：\n（1）生物医学信息处理：研究EMG、ECG检测技术及可穿戴检测技术实现；研究基于神经网络的生物信息特征提取与分类、机器学习算法的轻量化硬件实现；研究基于压缩感知的医学信号分析、算法重构技术；研究基于云的医学信息传输、医学图像压缩关键技术等。\n（2）微纳电子器件模型研究、光电器件及IC设计：研究纳米尺度下碳基场效应器件、石墨烯场效应管的量子模型及器件电路模型；研究纳米材料、纳米器件的电学特性；研究新型红外探测器件（PD）、TIA、LA等集成电路芯片设计技术。\n2、科研项目：\n以项目负责人主持国家行业科技专项、国家自然科学基金等纵向课题20项、企业科技攻关项目7项；以第2、3参加者参与了国家重点科技攻关、863计划、国家自然科学基金、国家创新基金等科研项目18项。主持的部分科研项目如下：\n（1）国家自然科学基金（81971702）：可裁剪的心血管疾病检测智能方法研究，2020.1-2023.12，项目负责人，已结题；\n（2）国家空间科学中心项目：SVOM任务OCG联合工作系统的原型系统研制，2015.11-2017.12，项目负责人 ，已结题；\n（3）企业科技攻关项目（华为海思半导体：HITC2011040）：数据传输接口IP，2011.3-2012.6，项目负责人，已结题；\n（4）国家行业科技专项（GYHY20106049-5）：智能传感器线路设计及研发，2010.9-2012.12，项目负责人，已结题；\n（5）企业科技攻关项目（KF2009-8-Y2）：华北地区闪电定位系统图形应用软件，2009.12-2010.4，项目负责人，已结题；\n（6）国家气象局项目（国家科技支撑计划2008BAC36B05课题）：国家雷电探测网的技术升级方案初步研究，2009.9-2011.9，项目负责人，已结题；\n（7）企业科技攻关项目（华为武研所：YBSW2008013）：网络转发模型建立与研究，2008.9-2009.2，项目负责人，已结题；\n（8）企业科技攻关项目：多媒体码流信号获取及数据时钟恢复芯片设计，2007.8-2007.12，项目负责人，已结题；\n（9）企业科技攻关项目：ITU-BT.656 转换DVI-I模块的设计与开发，2007.1- 2007.12，项目负责人，已结题；\n（10）企业科技攻关项目：电子系统 EDA设计技术研究，2003.7-2005.12，项目负责人，已结题；\n（11）企业科技攻关项目：内调制比色温度仪的性能改进，2002.1-2003.12，项目负责人，已结题；\n（12）国家自然科学基金（69607006）：内调制红外探测器的基础研究，1997.1-1999.12，项目负责人，已结题。\n3、发表科研论文：\n在国内外期刊上发表科研论文270余篇，其中SCI收录80余篇（* 通讯作者），近期发表的论文如下：\n（57）Yue Ge，Huaicheng Zhang，Jiguang Shi，Deyu Luo，Sheng Chang，Jin He，Qijun Huang∗，Hao Wang∗，JAMC: A jigsaw-based autoencoder with masked contrastive learning for cardiovascular disease diagnosis，Knowledge-Based Systems（CCF C类，IF=7.6，1区Top），2025.1，accepted\n（56）Huaicheng Zhang，Jiguang Shi，Yue Guo，Sheng Chang，Hao Wang，Qijun Huang*，CELL: Supplementing Context for Multi-modal Few-shot Cardiologist（ regular papers ），IEEE International Conference on Bioinformatics and Biomedicine 2024（IEEE BIBM 2024）（CCF B类），2024.12，Dec 3-6，Lisbon, Portugal，Doi：10.1109/BIBM62325.2024.10822560\n（55）Jiguang Shi，Wenhan Liu，Huaicheng Zhang，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，CPSS: Fusing Consistency Regularization and Pseudo-labeling Techniques for Semi-supervised Deep Cardiovascular Disease Detection Using All Unlabeled Electrocardiograms，Computer Methods and Programs in Biomedicine（2区Top，IF=6.1，被引1），2024.7，Doi：10.1016/j.cmpb.2024.108315\n（54）Huaicheng Zhang，Wenhan Liu，Deyu Luo，Jiguang Shi，Qianxi Guo，Yue Ge，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，Honest-GE: 2-step Heuristic Optimization and Node-level Embedding Empower Spatial-Temporal Graph Model for ECG，Information Sciences（CCF B类，1区Top，IF=8.1），2024.6，Doi：10.1016/j.ins. 2024.120941\n（53）Jiguang Shi，Zhoutong Li，Wenhan Liu，Huaicheng Zhang，Deyu Luo，Yue Ge，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，An adaptive threshold-based semi-supervised learning method for cardiovascular disease detection，Information Sciences（CCF B类，1区Top，IF=8.1，被引1），2024.6，Doi：10.1016/j.ins.2024.120881\n（52）Huaicheng Zhang，Wenhan Liu，Zhoutong LI，Jiguang Shi，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，SIGxCL: A Signal-Image-Graph Cross-Modal Contrastive learning Framework for CVD Diagnosis based on Internet of Medical Things，IEEE Internet of Things Journal（CCF C类，1区Top，IF=10.6，被引2），2024.4，11（7）： 12984-13000\n（51）Jiguang Shi，Wenhan Liu，Huaicheng Zhang，Zhoutong Li，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，Universal 12-lead ECG representation for signal denoising and cardiovascular disease detection by fusing generative and contrastive learning，Biomedical Signal Processing and Control（2区，IF=5.1，被引23），2024.3，94 (2024) 106253；Doi：10.1016/j.bspc.2024.106253\n（50）Wenhan Liu，Huaicheng Zhang，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，Learning Representations for Multi-Lead Electrocardiograms from Morphology-Rhythm Contrast，IEEE Transactions on Instrumentation and Measurement（2区Top，IF=5.6，被引3），2024.2，V73，2509615；Doi：10.1109/TIM.2024.3369152\n（49）Huaicheng Zhang，Wenhan Liu，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，ST-ReGE: A Novel Spatial-Temporal Residual Graph Convolutional Network for CVD，IEEE Journal of Biomedical and Health Informatics（CCF C类，2区Top，IF=7.7，被引8），2024.1，28（1）：216-227\n（48）Huaicheng Zhang，Wenhan Liu，Qianxi Guo，Jiguang Shi，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，DDDG: A Dual Bi-directional Knowledge Distillation Method with Generative Self-supervised Pre-training and its Hardware Implementation on SoC for ECG，Expert Systems With Applications（CCF C类，1区Top，IF=8.5，被引2），2023.12，244 (2024) 122969；Doi：10.1016 /j.eswa.2023.122969\n（47）Jiguang Shi，Zhoutong Li，Wenhan Liu，Huaicheng Zhang，Qianxi Guo， Sheng Chang，Hao Wang，Jin He，Qijun Huang*，Optimized Solutions of Electrocardiogram Lead and Segment Selection for Cardiovascular Disease Diagnostics，Bioengineering-Basel（3区，IF=4.6，被引3），2023.5，10,607；doi：10.3390/bioengineering 10050607\n（46）Wenhan Liu，Zhoutong Li，Huaicheng Zhang，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，Dense Lead Contrast for Self-Supervised Representation Learning of Multi-Lead Electrocardiograms，Information Sciences（CCF B类，1区Top，IF=8.1，被引12），2023.3，634 (2023) 189–205\n（45）Huaicheng Zhang，Wenhan Liu，Jiguang Shi，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，MaeFE: Masked Autoencoders Family of Electrocardiogram for Self-supervised Pre-training and Transfer Learning，IEEE Transactions on Instrumentation and Measurement（2区Top，IF=5.4，被引34），2023，V72，2502015；doi：10.1109/TIM.2022.3228267\n（44）Wenhan Liu，Qianxi Guo，Siyun Chen，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，A Fully-mapped and Energy-efficient FPGA Accelerator for Dual-function ECG Analysis，Frontiers in Physiology（3区，IF= 4.0，被引6），2023.1.6，1-16；doi: 10.3389/fphys. 2023.1079503\n（43）Wenhan Liu，Huaicheng Zhang，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，A Joint Cross-dimensional Contrastive Learning Framework for 12-lead ECGs and Its Heterogeneous Deployment on SoC，Computers in Biology and Medicine（2区Top，IF=7.7，被引12），2023.1，152 (2023) 106390；doi：10.1016/j.compbiomed. 2022.106390\n（42）Wenhan Liu，Qianxi Guo, Xinwei Gao，Qijun Huang*, Sheng Chang，Hao Wang，Jin He，Lead Separation and Combination: A Novel Unsupervised 12-lead ECG Feature Learning Framework for Internet of Medical Things，IEEE Internet of Things Journal（CCF C类，1区Top，IF=10.6，被引6），2022.12, 9（23）23897-23914\n（41）Jiguang Shi，Fei Wang，Moran Qin，Aiyun Chen，Wenhan Liu，Jin He，Hao Wang，Sheng Chang，Qijun Huang*，New ECG Compression Method for Portable ECG Monitoring System Merged with Binary Convolutional Auto-Encoder and Residual Error Compensation，Biosensors-Basel（3区，IF=5.4，被引15），2022.7, 2022,12（7）：524，doi: 10.3390/ bios12070524\n（40）Wenhan Liu, Jiewei Ji, Sheng Chang, Hao Wang, Jin He，Qijun Huang*，EvoMBN: Evolving Multi-Branch Networks on Myocardial Infarction Diagnosis Using 12-Lead Electrocardiograms，Biosensors-Basel（3区，IF=5.4，被引24），2022.1, 2022, 12（1）：15，doi:10.3390/ bios12010015\n（39）Xiao Zhou，Jiaquan Wang，Qiming Ma，Qijun Huang，Fang Xiao*，A method for determining D region ionosphere reflection height from lightning skywaves，Journal of Atmospheric and Solar-Terrestrial Physics（4区，IF=2.119，被引10），221(2021)105692，2021.9，doi：10.1016/j.jastp.2021.105692\n（38）Qiu minzheng，YeShizhuo，Wang Wei，He Jin，Chang Sheng，Wang Hao*，Huang Qijun，The interfacial states effects on the spin-dependent tunneling of Mn3Al-based magnetic tunnel junction，Journal of Physics D: Applied Physics（3区，IF=3.409，被引2），2021.1，54，115002，doi：10.1088/1361-6463/abcf72\n（37）Jiaquan Wang，Qiming Ma *，Xiao Zhou，Fang Xiao，Shangbo Yuan，Sheng Chang，Jin He，Hao Wang，Qijun Huang，Asia-Pacific Lightning Location Network (APLLN) and preliminary performance assessment，Remote Sensing（2区Top，IF=5.349，被引19），2020.12，12，1537；doi：10.3390/rs12101537\n（36）Aiyun Chen，Yidan Zhang，Mengxin Zhang，Wenhan Liu，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，A Real-time QRS Detection Algorithm based on ET and PD-Controlled Threshold Strategy，Sensors（3区，IF=3.9，被引30），2020.7，20，4003；doi：10.3390/s20144003\n（35）Aiyun Chen，Fei Wang，Wenhan Liu，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，Multi-information Fusion Neural Networks for Arrhythmia Automatic Detection，Computer Methods and Programs in Biomedicine（2区Top，IF=6.1，被引74），2020.4，193（2020）105479；doi：10.1016/j.cmpb.2020.105479\n（34）Jiaquan Wang，Qijun Huang*，Qiming Ma*，Sheng Chang，Jin He，Hao Wang，Xiao Zhou，Fang Xiao，Chao Gao，Classification of VLF/LF Lightning Signals Using Sensors and Deep Learning Methods，Sensors（3区，IF=3.9，被引44），2020.2，20，1030； doi：10.3390/s20041030\n（33）Xiaoying Song，Bing Liu，Ruihan Hu，Qijun Huang*，Design of high-resolution quantization scheme with exp-Golomb code applied to compression of special images，Journal of Visual Communication and Image Representation（3区，IF=2.887，被引7），2019.12，doi：10.1016/j.jvcir.2019.102684\n（32）Minzheng Qiu，Shizuo Ye，Wei Wang，Jin He，Sheng Chang，Hao Wang*，Qijun Huang，Spin transport properties of magnetic tunnel junction based on zinc blende CrS，Superlattices and Microstructures（3区，IF=3.220，被引3），2019.8，doi：10.1016/j.spmi.2019.106199\n（31）Wenhan Liu，Qijun Huang*，Sheng Chang，Hao Wang，Jin He，MFB-CBRNN: a hybrid network for MI detection using 12-lead ECGs，IEEE Journal of Biomedical and Health Informatics（CCF C类，1区Top，IF=7.021，被引94），2020.2，24（2）：503-514\n（30）Ruihan Hu，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，The MBPEP: a deep ensemble pruning algorithm providing high quality uncertainty prediction，Applied Intelligence（CCF C类，2区，IF=5.019，被引38），2019.8，49(8)：2942-2955\n（29）Fei Wang，Qiming Ma*，Wenhan Liu，Sheng Chang，Hao Wang，Jin He，Qijun Huang*，A Novel ECG Signal Compression Method Using Spindle Convolutional Auto-Encoder，Computer Methods and Programs in Biomedicine（2区，IF=7.027，被引57），2019.7，175：139-150\n（28）Hu Ruihan，Chang Sheng*，Wang Hao，He Jin，Huang Qijun，Efficient Multispike Learning for Spiking Neural Networks Using Probability-Modulated Timing Method，IEEE Transactions on Neural Networks and Learning Systems（CCF B类，1区Top，IF=14.255，被引16），2019.7，30（7）：1984-1997\n（27）Lv Yawe，Ye Shizhuo，Wang Hao，He Jin，Huang Qijun，Chang Sheng*，Strain engineering of chevron graphene nanoribbons，Journal of Applied Physics（3区，IF=2.887，被引7），2019.2，125（8）：doi: 10.1063/1.5048527\n（26）Lv Yawei，Huang Qijun，Chang Sheng*，Wang, Hao，He Jin，Wei Chun，Liu Anqi，Ye Shizhuo，Wang Wei，Interface Coupling as a Crucial Factor for Spatial Localization of Electronic States in a Heterojunction of Graphene Nanoribbons，Physical Review Applied（2区，IF=4.931，被引8），2019.2，11（2）：doi: 10.1103/PhysRevApplied.11.024026\n（25）Jiang Luo，Jin He*，Pengwei Chen，Hao Wang，Sheng Chang，Qijun Huang，Xurui Mao*，Yueping Zhang，Micro-Strip Line 90°Phase Shifter with Double Ground Slots for D-band Applications，Journal of Circuits Systems and Computers（4区，IF=1.278，被引1），2018.12，27（12）：\n（24）Wenhan Liu，Yidan Zhang，Mengxin Zhang，Yuan Liao，Qijun Huang*，Sheng Chang，Hao Wang，Jin He，Real-time Multilead Convolutional Neural Network for Myocardial Infarction Detection，IEEE Journal of Biomedical and Health Informatics（CCF C类，1区Top，IF=7.021，被引176），2018.9，22（5）：1434-1444\n（23）Wenhan Liu，Qijun Huang*，Sheng Chang，Hao Wang，Jin He，Multiple-Feature-Branch Convolutional Neural Network for Myocardial Infarction Diagnosis Using Electrocardiogram，Biomedical Signal Processing and Control（2区，IF=5.076，被引167），2018.8，V 45：22-32\n（22）Lv Yawei，Liu Anqi，Huang Qijun，Chang Sheng*，Qin Wenjing，Ye Shizhuo，Wang Hao，He Jin，Restraining Strategy of the Stone-Wales Defect Effect on Graphene Nanoribbon MOSFETs，IEEE Electron Device Letters（2区，IF=4.816，被引10），2018.7，39（7）：1092-1095\n（21）Xiaoying Song，Qijun Huang*，Sheng Chang，Jin He，Hao Wang，Lossless medical image compression using geometry-adaptive partitioning and least-square based prediction，Medical & Biological Engineering & Computing（3区，IF=3.079，被引23），2018.6，（2018）56：957-966\n（20）Jiang Luo，Jin He*，Hao Wang，Sheng Chang，Qijun Huang，Xiao-Peng Yu， A 28 GHz LNA Using Defected Ground Structure for 5G Application，Microwave and Optical Technology Letters（4区，IF=1.311，被引10），2018.5，60（5）：1067-1072\n（19）Lv Yawei，Huang Qijun，Chang sheng*，Wang Hao，He Jin，Liu Anqi，Ye Shizhuo，Wang Wei，Activating impurity effect in edge nitrogen-doped chevron graphene nanoribbons，Journal of Physics Communications（SCI IF=1.2，被引7），2018.4，2（4）：doi: 10.1063/1.5048527\n（18）Jiang Luo，Jin He*，Alit Apriyana，Guangyin Feng，Qijun Huang，Yue Ping Zhang，Tunable surface-plasmon-polariton filter constructed by corrugated metallic line and high permittivity material，IEEE Access（3区，IF=3.367，被引15）， 2018.3，6（1）：10358-10364\n（17）Jiang Luo，Jin He*，Alit Apriyana，Guangyin Feng，Qijun Huang*，A D-band SPST Switch Using Parallel-stripline Swap with Defected Ground Structure，IEICE Electronics Express（4区，IF=0.791，被引2），2017.12，14（24）：1-10\n（16）Jun Luo，Qijun Huang*，Hongwei Luo，Yue Zhi，Xiaoqiang Wang，Hardware implementation of single iterated multiplicative inverse square root，Elektronika Ir Elektrotechnika（4区，IF=1.059，被引2），2017.12，23（4）：18-23\n（15）Yawei Lv，Qijun Huang，Sheng Chang*，Hao Wang，Jin He，Highly Sensitive Bilayer Phosphorene Nanoribbon Pressure Sensor Based on the Energy Gap Modulation Mechanism: A Theoretical Study，IEEE Electron Device Letters（2区，IF=4.816，被引14），2017.9，38(9)：1313 -1316\n（14）Yawe Lv，Wenjing Qin，Qijun Huang，Sheng Chang*，Hao Wang，Jin He，Graphene Nanoribbon Tunnel Field-Effect Transistor via Segmented Edge Saturation，IEEE Transactions on Electron Devices（2区，IF=3.221，被引17），2017.6，64（6）：2694- 2701\n（13）Xiaoying Song，Qijun Huang*，Sheng Chang，He Jin，Wang Hao，3D separate descendant-based SPIHT algorithm for fast compression of high-resolution medical image sequences，IET Image Processing（CCF C类，4区，IF=1.773，被引22），2017.1，11（1）：80-87\n（12）Yawei Lv，Sheng Chang*，Qijun Huang，Hao Wang，Jin He，Scaling Effect of Phosphorene Nanoribbon - Uncovering the Origin of Asymmetric Current Transport，Scientific Reports（3区，IF=14.996，被引12），2016.11，29（6）\n（11）Xiaoying Song，Qijun Huang*，Sheng Chang，He Jin，Wang Hao，Novel Near-Lossless Compression Algorithm for Medical Sequence Images with Adaptive Block-Based Spatial Prediction，Journal of Digital Imaging（2区，IF=4.903，被引17），2016.11，29（6）：706–715\n（10）Yawei Lv，Qijun Huang，Sheng Chang*，Hao Wang，Jin He，Novel Strategy of Edge Saturation Hamiltonian for Graphene Nanoribbon Devices，IEEE Transactions on Electron Devices（2区，IF=3.221，被引11），2016.11，63（11）：4514 -4520\n（9）Yawei Lv，Qijun Huang，Hao Wang*，Sheng Chang，Jin He，A Numerical Study on Graphene Nanoribbon Heterojunction Dual-Material Gate Tunnel FET，IEEE Electron Device Letters（2区，IF=4.861，被引30），2016.10，37(10)：1354 -1357\n（8）Yawei Lv，Sheng Chang*，Hao Wang，Jin He，Qijun Huang，Energy gap tunable graphene antidot nanoribbon MOSFET: A uniform multiscale analysis from band structure to transport properties，Carbon（1区Top，IF=11.307，被引26），2016.1，101（2016）：143-151\n（7）Yawei Lv，Hao Wang*，Sheng Chang，Jin He，Qijun Huang*，Band Structure Effects in Extremely Scaled Silicon Nanowire MOSFETs With Different Cross Section Shapes，IEEE Transactions on Electron Devices（2区，IF=3.221，被引22），2015.11，62（11）：3547-3553\n（6）Jun Luo，Qijun Huang*，Sheng Chang，Hao Wang，Hardware efficient architecture for compressed imaging，IEICE Electronics Express（4区，IF=0.791，被引3），2014.7，11（14）：1-12\n（5）Jun Luo，Qijun Huang*，Sheng Chang，Fast reconstruction with adaptive sampling in block based compressed imaging，IEICE Electronics Express（4区，IF=0.791，被引6），2014.3，11（6）：1-8\n（4）Sheng Chang，Qijun Huang*，Hao Wang，Mincai He，Feng Dai，A High Precision  Multi-colorimetric Pyrometer with a Novel Photoelectronic MOSFET，IEEE Transactions on Instrumentation and Measurement（2区，IF=5.332，被引3），2014.3，63（3）：680-686\n（3）Qijun Huang*，Sheng Chang，Junqi Peng，Xueying Mao，You Zhou，Hao Wang，An Implementation of SOPC-Based Neural Monitoring System，IEEE Transactions on Instrumentation and Measurement（2区，IF=5.332，被引3），2012.9，61（9）：2469-2475\n（2）Yue Hu，Qijun Huang*，Gaofeng Wang*，Sheng Chang，Hao Wang，A Novel High Voltage (> 600 V) LDMOSFET with Buried N-layer in Partial SOI Technology，IEEE Transactions on Electron Devices（2区，IF=3.221，被引29），2012.4，59（4）：1131-1136\n（1）Q. Huang，S. Chang，G. Wang*，A Novel Photoelectric MOSFET with AC Output under Constant Illumination，Optical and Quantum Electronics（4区，IF=2.794，被引1），2009.11，41（11-13）：795-803\n四、获奖情况：\n（1）中国计量测试学会科学技术进步奖一等奖（2020）；教育部科技进步二等奖（1994年）、教育部科技进步三等奖（1995年）；国家发明四等奖（1993年）。\n（2）武汉大学优秀教学成果一等奖（第1 完成人，2012年）；武汉大学优秀导师（2005-2006学年）；武汉大学优秀研究生导师（2001、2002年）；武汉大学青年教师优秀教学一、二、三等奖（1999、1995、1997年）；武汉大学青年教师优秀科研二等奖（1996年）；武汉大学优秀青年教师（1993年）。\n（3）Altera中国大学生电子设计文章竞赛卓越教师奖（2007、2009、2011）、优秀导师奖（2012年）。\n（4）指导学生获得全国研究生电子设计比赛团体银奖、铜奖、个人二、三等奖十余项（2002、2005、2007、2010、2012年）；指导学生获得Altera中国大学生电子设计文章竞赛一等奖（第1名）3项（2007、2009、2011年）、二等奖1项（2012年）、三等奖3项（2009年、2010年）；\n（5）指导学生获得湖北省优秀学士学位论文9篇。\n五、主要学术兼职：\n（1）湖北省计量学会副会长（2025-）\n（2）华中地区高等学校EDA技术研究会理事长（2017-）\n（3）中南国家计量测试中心第一届热工专业技术委员会顾问委员（2021-）\n（4）武汉大学-Intel（Altera）EDA/SOPC联合实验室主任（2007- ）\n（5）华中地区高等学校EDA技术研究会副理事长（2013-2016）\n（6）湖北省高校EDA/SOPC协会理事（2009-2013）\n（7）中国仪器仪表学会仪表元器件分会理事（2011-2019）\n（8）中国光学学会光电技术专业委员会委员（2003-2015）\n（9）教育部电子科学与技术专业教学指导分委员会协作委员（2006-2010）\n（10）中国电子学会敏感技术专业委员会委员（1998-2007）\n教育经历\n暂无内容\n工作经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n团队成员\n暂无内容\n黄启俊\n同专业博导\n同专业硕导\n教授\n博士生导师\n硕士生导师\n性别： 男\n学历： 研究生毕业\n在职信息：离退休\n所在单位：物理科学与技术学院\n入职时间： 1986-06-01\n学科：\n光学\n微电子学与固体电子学\n办公地点： 物理科学与技术学院 新楼 D-126\n联系方式：13807191476\n电子邮箱：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

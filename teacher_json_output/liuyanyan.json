@@ -1,0 +1,175 @@
+{
+  "id": "liuyanyan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuyanyan/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘妍岩",
+    "english_name": "Liu Yanyan",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "数学与统计学院",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "理学",
+        "school": "武汉大学",
+        "period": "2001年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "Statistical Papers 副主编",
+      "中国现场统计学会第十一届理事会常务理事",
+      "中国教育统计协会常务理事",
+      "中国统计学会常务理事"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "生存分析",
+      "半参数统计推断",
+      "复杂高维数据模型结构选择",
+      "大数据统计分析"
+    ],
+    "research_interests": [
+      "生存分析",
+      "半参数模型",
+      "高维数据",
+      "模型选择",
+      "大数据统计",
+      "Cox回归",
+      "惩罚回归",
+      "模型平均"
+    ],
+    "research_description": "刘妍岩教授主要从事生存分析、半参数统计推断、复杂高维数据模型结构选择以及大数据统计分析等方向的研究。在Journal of Machine Learning Research、Biometrics、Biostatistics、Genetics、Lifetime Data Analysis等国际知名期刊发表SCI论文六十余篇，主持国家自然科学基金等多项科研项目，研究聚焦于高维Cox回归、惩罚回归、模型平均及数据扭曲下的统计推断等问题。",
+    "disciplines": [
+      "统计学",
+      "概率论与数理统计"
+    ],
+    "field_tags": [
+      "生存分析",
+      "半参数推断",
+      "高维数据",
+      "模型选择",
+      "大数据分析",
+      "Cox回归",
+      "惩罚回归",
+      "模型平均",
+      "统计推断"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "A Constructive Approach to L0 Penalized Regression",
+        "keywords": [
+          "L0惩罚回归",
+          "高维数据",
+          "模型选择",
+          "机器学习"
+        ],
+        "journal_name": "Journal of Machine Learning Research",
+        "research_fields": [
+          "高维统计",
+          "机器学习",
+          "回归分析"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Functional Martingale Residual Process for High-Dimensional Cox Regression With Model Averaging",
+        "keywords": [
+          "Cox回归",
+          "高维数据",
+          "模型平均",
+          "鞅残差过程"
+        ],
+        "journal_name": "Journal of Machine Learning Research",
+        "research_fields": [
+          "生存分析",
+          "半参数推断",
+          "高维统计"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Cox regression analysis for distorted covariates with an unknown distortion function",
+        "keywords": [
+          "Cox回归",
+          "测量误差",
+          "扭曲协变量",
+          "非参数估计"
+        ],
+        "journal_name": "Biometrical Journal",
+        "research_fields": [
+          "生存分析",
+          "半参数模型",
+          "统计推断"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Histopathological imaging-based cancer heterogeneity analysis via penalized fusion with model averaging",
+        "keywords": [
+          "病理图像",
+          "癌症异质性",
+          "惩罚融合",
+          "模型平均"
+        ],
+        "journal_name": "Biometrics",
+        "research_fields": [
+          "生物统计",
+          "医学图像分析",
+          "高维数据建模"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuyanyan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "教育部基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "教育部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘妍岩\n页面链接: http://jszy.whu.edu.cn/liuyanyan/zh_CN/index.htm\n==================================================\n武汉大学 刘妍岩--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n教师个人主页\nEN\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n刘妍岩\n教授\n博士生导师\n硕士生导师\n个人信息Personal Information\n教师英文名称： Liu Yanyan\n教师拼音名称： Liu Yanyan\n电子邮箱： \n所在单位： 数学与统计学院\n学历： 研究生毕业\n办公地点： 雷军楼A533\n性别： 女\n在职信息： 在职\n毕业院校： 武汉大学\n其他联系方式 Other contact details\n邮编：\n邮箱：\n个人简介\n查看更多 +\n刘妍岩 武汉大学数学与统计学院教授，博士生导师。2001年获武汉大学理学博士学位。主要研究方向为生存分析、半参数统计推断、复杂高维数据模型结构选择以及大数据统计分析技术等。曾到美国北卡来罗纳大学教堂山分校、加拿大Simon-Fraser大学、香港理工大学、香港中文大学、德国Greifswald大学等学校短期访问和工作。主持完成国家自然科学基金以及教育部基金项目6项，目前主持国家自然科学基金面上项目一项。在统计学期刊 Journal of Machine Learning Research, Biometrics, Biostatistics, Genetics，Lifetime Data Analysis等期刊发表SCI研究论文六十余篇。目前担任statistical papers 副主编，以及中国现场统计学会第十一届理事会常务理事...\n教育经历\n暂无内容\n工作经历查看更多 +\n2005.10~至今\nWuhan University\n- School of Mathematics and Statistics\n-  Professor\n1995.10~2005.10\nWuhan University\n- School of Mathematics and Statistics\n-  Associate Professor\n1995.10~1999.9\nWuhan University\n- Department of Mathematics\n-  Lecturer\n论文成果\n专利成果\n著作成果\n查看更多 +\n.A Constructive Approach to L0 Penalized Regression.Journal of Machine Learning Research.19.1-37\n.Functional Martingale Residual Process for High-Dimensional Cox Regression With Model Averaging.Journal of Machine Learning Research.21.1-37\n.Cox regression analysis for distorted covariates with an unknown distortion function.Biometrical Journal.63(5).968-983\n.Histopathological imagingbased cancer heterogeneity analysis via penalized fusion with model averaging.Biometrics.77.1397-1408\n暂无内容\n查看更多 +\n刘妍岩概率论与数理统计同步辅导与习题精解.中国科学技术大学出版社.2006/01/01\n社会兼职\n2019.10~至今\n中国教育统计协会常务理事\n2022.10~至今\n中国统计学会常务理事（2022.01-）\n研究方向\n生存分析、半参数统计推断、复杂高维数据模型结构选择以及大数据统计分析\n获奖信息\n学术荣誉\n曾获荣誉\n暂无内容\n暂无内容\n暂无内容\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

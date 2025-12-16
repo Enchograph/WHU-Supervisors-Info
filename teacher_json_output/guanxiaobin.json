@@ -1,0 +1,187 @@
+{
+  "id": "guanxiaobin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/guanxiaobin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "管小彬",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "地图学与地理信息系统",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学",
+        "period": "2015-9至2018.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "2013-9至2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "地图制图与地理信息工程",
+        "school": "武汉大学",
+        "period": "2009-9至2013.6",
+        "country": "中国"
+      },
+      {
+        "degree": "本科双学位",
+        "field": "金融学",
+        "school": "武汉大学",
+        "period": "2009-9至2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2024年，地理信息科技进步奖，一等奖",
+      "2024年，湖北省科技进步奖，一等奖",
+      "2023年，全国高校测绘学科青年教师讲课竞赛，二等奖",
+      "2023年，第七届全国高校GIS青年教师讲课竞赛，二等奖",
+      "2023年，第一届中国生态学会生态系统遥感大会，优秀报告奖"
+    ],
+    "academic_services": [
+      "Geo-spatial Information Science，客座编辑",
+      "Frontiers in Environmental Science，客座编辑",
+      "Remote Sensing，客座编辑",
+      "中国地理学会，会员",
+      "中国图象图形学学会，会员",
+      "美国地球物理学会，会员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "人工智能和数值优化结合的遥感数据处理",
+      "机理模型与人工智能耦合的碳循环参量模型",
+      "全球碳循环与气候变化的相互作用分析"
+    ],
+    "research_interests": [
+      "植被生态遥感",
+      "全球碳循环",
+      "碳中和",
+      "遥感数据处理",
+      "人工智能",
+      "数值优化",
+      "生态模型",
+      "气候变化响应"
+    ],
+    "research_description": "管小彬副教授主要从事植被生态遥感研究，结合人工智能、数值优化和生态模型等手段，聚焦遥感基础数据处理、全球碳循环关键参量模拟以及碳循环对全球变化的响应等关键科学问题。研究涵盖植被遥感数据处理、陆地生态系统碳循环建模、全球变化与碳中和的相互作用分析，已在Remote Sensing of Environment、Agricultural and Forest Meteorology、Journal of Geophysical Research: Biogeosciences、IEEE Transactions on Geoscience and Remote Sensing等高水平期刊发表论文20余篇，主持国家自然科学基金、中国博士后基金特别资助、武汉市曙光计划等项目，参与多项国家重点研发计划和联合基金重点项目。",
+    "disciplines": [
+      "地图学与地理信息系统",
+      "环境科学",
+      "遥感科学与技术"
+    ],
+    "field_tags": [
+      "植被遥感",
+      "碳循环",
+      "人工智能",
+      "遥感数据处理",
+      "全球变化",
+      "碳中和",
+      "生态模型",
+      "数值优化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "Remote sensing and machine learning in advancing carbon neutrality",
+        "keywords": [
+          "碳中和",
+          "遥感",
+          "机器学习"
+        ],
+        "journal_name": "Geo-spatial Information Science",
+        "research_fields": [
+          "遥感",
+          "人工智能",
+          "碳中和"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Time-Series Mapping and Analysis of Land Surface Parameters and Changes Using Remote Sensing Data",
+        "keywords": [
+          "时间序列遥感",
+          "地表参数",
+          "变化检测"
+        ],
+        "journal_name": "Remote Sensing",
+        "research_fields": [
+          "遥感数据处理",
+          "地表变化分析"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Time Series Remote Sensing Data Processing and Applications",
+        "keywords": [
+          "时间序列处理",
+          "遥感应用",
+          "数据融合"
+        ],
+        "journal_name": "International Journal of Geomatics (RIG)",
+        "research_fields": [
+          "遥感数据处理",
+          "地理信息科学"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/guanxiaobin/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "中国博士后基金特别资助",
+      "武汉市曙光计划",
+      "国家重点研发计划",
+      "联合基金重点"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中国博士后科学基金会",
+      "武汉市科技局",
+      "科技部",
+      "国家自然科学基金委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 管小彬\n页面链接: http://jszy.whu.edu.cn/guanxiaobin/zh_CN/index.htm\n==================================================\n武汉大学 管小彬--中文主页--首页\nEnglish\n中文\n管小彬\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n科研项目\n科研团队\n教学研究\n授课信息\n招生信息\n我的相册\n微信扫描\n个人信息\n1\n硕士生导师\n出生日期：1993-04-17\n电子邮箱：\n入职时间：2021-07-01\n学历：博士研究生毕业\n办公地点：资源与环境科学学院310室\n性别：男\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：\n资源与环境科学学院\n学科：\n地图学与地理信息系统\n个人简介\n管小彬，男，武汉大学资源与环境科学学院副教授，硕士生导师，曾赴加拿大多伦多大学开展博士后研究工作，主要研究方向为植被生态遥感，基于人工智能、数值优化、生态模型等手段，针对遥感基础数据处理、全球碳循环关键参量模拟、碳循环对全球变化响应等关键问题开展工作，目前在Remote Sensing of Environment、Agricultural and Forest Meteorology、Journal of Geophysical Research: Biogeosciences、IEEE Transactions On Geoscience and Remote Sensing等国内外知名期刊发表一作/通讯论文20余篇，申请国家发明专利4项，主持国家自然科学基金2项（面上和青年）、中国博士后基金特别资助、武汉市曙光计划等项目，参与多个国家重点研发计划、联合基金重点等重大项目，担任Geo-spatial Information Science等多个SCI期刊的客座编辑/青年编委等，分别在遥感、环境领域SCI期刊组织了植被、遥感、碳中和相关的6个专刊。\nSpecial Issues Call for Paper:\n[Geo-spatial Information Science]: Remote sensing and machine learning in advancing carbon neutrality. Deadline: Dec. 31, 2023\n[Remote Sensing]: Time-Series Mapping and Analysis of Land Surface Parameters and Changes Using Remote Sensing Data. Deadline: Jun. 31, 2025\n[International Journal of Geomatics (RIG)]: Time Series Remote Sensing Data Processing and Applications. Deadline: Dec. 31, 2025\n【研究方向】\n[1] 人工智能和数值优化结合的遥感数据处理\n[2] 机理模型与人工智能耦合的碳循环参量模型\n[3] 全球碳循环与气候变化的相互作用分析\n【奖励荣誉】\n2024年，地理信息科技进步奖，一等奖；\n2024年，湖北省科技进步奖，一等奖；\n2023年，全国高校测绘学科青年教师讲课竞赛，二等奖；\n2023年，第七届全国高校GIS青年教师讲课竞赛，二等奖；\n2023年，第一届中国生态学会生态系统遥感大会，优秀报告奖；\n【学生培养】\n2024年，指导学生获第三届中国研究生金融科技创新大赛国家三等奖；\n2024年，指导学生获得SuperMap杯第21届全国高校GIS大赛分析组一等奖；\n2024年，指导学生获得SuperMap杯第21届全国高校GIS大赛分析组二等奖；\n2024年，指导2位学生获得武汉大学优秀学士学位论文；\n2023年，指导学生获得SuperMap杯第21届全国高校GIS大赛分析组一等奖；\n2023年，指导学生获得第二届“创青春”碳中和创新创业大赛华中赛区铜奖；\n2022年，指导学生获得“挑战杯”大学生创业计划竞赛湖北省铜奖；\n2022年，指导学生获得武汉大学优秀学士学位论文；\n欢迎本科生报名参与科研及报考研究生！（联系邮箱：guanxb@whu.edu.cn，QQ：746461765）\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n2015-9····2018.6\n武汉大学\n|\n地图学与地理信息系统\n| 博士\n|\n研究生\n2013-9····2015.6\n武汉大学\n|\n测绘工程\n| 硕士\n|\n研究生\n2009-9····2013.6\n武汉大学\n|\n金融学\n|\n本科双学位\n2009-9····2013.6\n武汉大学\n|\n地图制图与地理信息工程\n|\n本科(学士)\n社会兼职\nGeo-spatial Information Science（二区，IF=4.288），客座编辑；\nFrontiers in Environmental Science（IF=5.411），客座编辑；\nRemote Sensing（IF=5.349），客座编辑；\n中国地理学会，会员；\n中国图象图形学学会，会员；\n美国地球物理学会，会员\n研究方向\n[1].植被遥感数据处理\n[2].陆地生态系统碳循环\n[3].全球变化与碳中和\n其他联系方式\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

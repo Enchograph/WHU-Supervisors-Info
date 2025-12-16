@@ -1,0 +1,186 @@
+{
+  "id": "zhaotingting",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhaotingting/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "赵婷婷",
+    "english_name": "Tingting Zhao",
+    "title": [
+      "副主任医师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "口腔正畸一科",
+    "college": "口腔医学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "口腔正畸学",
+        "school": "武汉大学",
+        "period": "未明确提及",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "中国研究型医院学会睡眠医学专业委员会委员",
+      "中国医师协会睡眠医学专委会青年委员",
+      "STAR口腔医学专科委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "儿童颌面部发育",
+      "儿童睡眠呼吸障碍的正畸治疗"
+    ],
+    "research_interests": [
+      "阻塞性睡眠呼吸暂停",
+      "正畸治疗",
+      "颌面部形态",
+      "上气道结构",
+      "腺样体肥大",
+      "口呼吸",
+      "人工智能辅助诊断",
+      "多学科协作诊疗"
+    ],
+    "research_description": "赵婷婷博士主要从事儿童颌面部发育与儿童睡眠呼吸障碍的正畸治疗研究，聚焦于阻塞性睡眠呼吸暂停（OSA）与错合畸形的关联机制、腺样体肥大对牙颌面发育的影响、正畸干预对上气道结构的改善作用，以及人工智能在儿童侧位片中腺样体肥大评估中的应用。研究涵盖临床观察、系统评价、随机对照试验及生物力学分析，强调多学科协作在儿童口腔健康与呼吸功能整合管理中的重要性。",
+    "disciplines": [
+      "口腔临床医学",
+      "正畸学",
+      "睡眠医学",
+      "生物力学"
+    ],
+    "field_tags": [
+      "儿童正畸",
+      "睡眠呼吸障碍",
+      "上气道形态",
+      "腺样体肥大",
+      "人工智能",
+      "多学科协作",
+      "正畸生物力学",
+      "系统评价"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 32,
+    "representative_publications": [
+      {
+        "title": "The dentofacial and upper airway morphology of adults with obstructive sleep apnea: A systematic review and meta-analysis",
+        "keywords": [
+          "阻塞性睡眠呼吸暂停",
+          "牙颌面形态",
+          "上气道形态",
+          "系统评价",
+          "Meta分析"
+        ],
+        "journal_name": "Sleep Medicine Reviews",
+        "research_fields": [
+          "口腔正畸学",
+          "睡眠医学",
+          "头颈影像学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Hyoid Bone Position and Upper Airway Morphology of Children With Obstructive Sleep Apnea: A Systematic Review and Meta-analysis",
+        "keywords": [
+          "舌骨位置",
+          "儿童",
+          "阻塞性睡眠呼吸暂停",
+          "上气道形态",
+          "系统评价"
+        ],
+        "journal_name": "Orthod Craniofac Res",
+        "research_fields": [
+          "儿童口腔正畸",
+          "睡眠呼吸障碍",
+          "头颈解剖学"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Impact of tonsillectomy on the efficacy of Alt-RAMEC/PFM treatment protocols in children with class III malocclusion and tonsillar hypertrophy: protocol for a cluster randomised controlled trial",
+        "keywords": [
+          "扁桃体切除术",
+          "Alt-RAMEC/PFM",
+          "骨性III类错颌",
+          "随机对照试验",
+          "儿童正畸"
+        ],
+        "journal_name": "BMJ Open",
+        "research_fields": [
+          "正畸治疗",
+          "儿童颌面发育",
+          "多学科协作"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Fat mass and obesity-associated protein (FTO) affects midpalatal suture bone remodeling during rapid maxillary expansion",
+        "keywords": [
+          "FTO基因",
+          "腭中缝骨改建",
+          "快速扩弓",
+          "骨代谢",
+          "正畸生物力学"
+        ],
+        "journal_name": "European Journal of Orthodontics",
+        "research_fields": [
+          "正畸生物学",
+          "基因与正畸",
+          "骨改建机制"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Automated Adenoid Hypertrophy Assessment with Lateral Cephalometry in Children Based on Artificial Intelligence",
+        "keywords": [
+          "腺样体肥大",
+          "侧位头影测量",
+          "人工智能",
+          "自动化评估",
+          "儿童正畸"
+        ],
+        "journal_name": "Diagnostics",
+        "research_fields": [
+          "人工智能在口腔医学中的应用",
+          "儿童颌面发育",
+          "影像分析"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学口腔医学院教师主页",
+        "url": "http://jszy.whu.edu.cn/zhaotingting/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 赵婷婷\n页面链接: http://jszy.whu.edu.cn/zhaotingting/zh_CN/index.htm\n==================================================\n武汉大学 赵婷婷--中文主页--首页\nEnglish\n中文\n通用链接组件异常，错误标识码6F1jE, 请查看错误日志\n赵婷婷\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n教师英文名称：Tingting Zhao\n电子邮箱：\n职务：副主任医师\n性别：女\n在职信息：在职\n毕业院校：武汉大学\n所属院系：\n口腔医学院\n学科：\n口腔临床医学\n个人简介\n赵婷婷，口腔正畸学博士，武汉大学口腔医院正畸一科副主任医师。主要课题研究方向为儿童颌面部发育及儿童睡眠呼吸障碍；以第一作者/通讯作者发表学术论文20余篇；授权发明专利1项；主持科研项目2项；《阻塞性睡眠呼吸暂停的正畸治疗》副主译；《无托槽隐形矫治原理与生物力学》副主译；参译论著《循证口腔正畸学》与《口面肌肉学：（第2版）》；现任中国研究型医院学会睡眠医学专业委员会委员、中国医师协会睡眠医学专委会青年委员、STAR口腔医学专科委员会委员。\n发表论文：\n1.     Wei Z #, Zhao T #, Li Y, Ngan P, Wang Z, Hua F *, He H *. The dentofacial and upper airway morphology of adults with obstructive sleep apnea: A systematic review and meta-analysis. Sleep Medicine Reviews. 2025 Apr;80:102065.\n2. Li Y#, Zhao T#, Ngan P, Yi S, Wei Z, Hua F *, He H *. Hyoid Bone Position and Upper Airway Morphology of         Children With Obstructive Sleep Apnea: A Systematic Review and Meta-analysis. Orthod Craniofac Res. 2024 Nov 12. doi: 10.1111/ocr.12873.\n3. Li Y#, Yi S#, Zhang J, Hua F, Zhao T *, He H *. The hyoid bone position and upper airway morphology among children with and without adenotonsillar hypertrophy: a cross-sectional study. BMC Oral Health. 2024 Nov 10;24(1):1365. doi: 10.1186/s12903-024-05139-z.\n4. Guo F#, Li Q#, Ngan P, Guan G, Chen X, Yang X, Lv C, Hua F, Zhao T *, He H *. Impact of tonsillectomy on the efficacy of Alt-RAMEC/PFM treatment protocols in children with class III malocclusion and tonsillar hypertrophy: protocol for a cluster randomised controlled trial. BMJ Open. 2024 Jul 1;14(6):e084703.\n5.     Guo F #, Lv C #, Tang B, Lin L, Zhang C, Zheng J, Zhao T *, He H *. Functional therapy and adenotonsillectomy clinical trial for class II malocclusion (FACT-II): protocol for a randomised controlled trial. BMJ Open. 2024 Apr 16;14(4):e079571. doi: 10.1136/bmjopen-2023-079571.\n6.     Zhao T #, Tao Z #, Zhang G, Zhu J, Du M, Hua F, He H *. Fat mass and obesity-associated protein (FTO) affects midpalatal suture bone remodeling during rapid maxillary expansion, European Journal of Orthodontics, 2024 April, 46(2), cjae009.\n7.     Zhao T, Yang Z, Ngan P, Luo P, Zhang J, Hua F *, He H *. Association between adenotonsillar hypertrophy and dentofacial characteristics of children seeking for orthodontic treatment: A cross-sectional study. Journal of Stomatology Oral and Maxillofacial Surgery. 2023 Dec 24;125(4):101751. doi: 10.1016/j.jormas.2023.101751.\n8.     Lin L #, Zhao T #, Ngan P, Zhuang Y, Qin D, Hua F * and He H *. Obstructive sleep apnea-related knowledge, attitude, experience, and behaviors among orthodontic professionals: a survey. Sleep and Breathing. 2023 December. 27:2361-2369.\n9.     Luo P, Du M, Sun Q, Zhao T * and He H *. IL-38 suppresses macrophage M1 polarization to ameliorate synovial inflammation in the TMJ via GLUT-1 inhibition. International Immunopharmacology. 2023 Jul 16;122:110619.\n10.     Liu Y #, Zhao T #, Ngan P, Qin D, Hua F * and He H *. The dental and craniofacial characteristics among children with obstructive sleep apnoea: a systematic review and meta-analysis. European Journal of Orthodontics. 2023 Feb 10:cjac074.\n11.     Tao Z #, Zhao T #, Ngan P, Qin D, Hua F * and He H *. The use of dental patient-reported outcomes among randomized controlled trials in orthodontics: A methodological study. Journal of Evidence-Based Dental Practice. 2022 Oct. Online ahead of print. DOI: 10.1016/j.jebdp.2022.101795.\n12.     Lin L #, Zhao T #, Qin D, Hua F * and He H *. The impact of mouth breathing on dentofacial development: A concise review. Frontiers in Public Health.2022. 10:929165. doi: 10.3389/fpubh.2022.929165\n13.  Luo P #, Zhao T#, He H *. IL-38-mediated NLRP3/caspase-1 inhibition is a disease-modifying treatment for TMJ inflammation. Ann N Y Acad Sci. 2022 Feb;1508(1):92-104. doi: 10.1111/nyas.14704. Epub 2021 Oct 20. PMID: 34671981.doi: 10.1111/nyas.14704.\n14.  Zhao T #, Zhou J #, Yan J, Cao L, Cao Y, Hua F *, He H *. Automated Adenoid Hypertrophy Assessment with Lateral Cephalometry in Children Based on Artificial Intelligence. Diagnostics. 2021; 11(8):1386. doi: 10.3390/diagnostics11081386\n15.  Zhao T #, Wu X #, Zhang Q, Li C, Worthington HV, Hua F *. Oral hygiene care for critically ill patients to prevent ventilator-associated pneumonia. Cochrane Database of Systematic Reviews. 2020 Dec 24;12:CD008367.\n16.  Zhao T, Hua F *, He H *. Rapid maxillary expansion may increase the upper airway volume of growing patients with maxillary transverse deficiency. Journal of Evidence-Based Dental Practice. 2021 Sep;21(3):101579.\n17.  Zhao T, Hua F*, He H *. Alternate rapid maxillary expansion and constriction (Alt-RAMEC) may be more effective than rapid maxillary expansion alone for protraction facial mask treatment. Journal of Evidence-Based Dental Practice. 2020 Mar;20(1):101408.\n18.  Hua F #, Zhao T #, Walsh T, Sun Q, Chen X, Worthington H, Jiang F, He H *. Effects of adenotonsillectomy on the growth of children with obstructive sleep apnoea-hypopnea syndrome (OSAHS): protocol for a systematic review. BMJ Open. 2019 Aug;9(8):e030866.\n19.  Zhao T #, Zhang X #, Ngan P, Yuan W, Chen X, Hua F, He H *. Effects of Maxillary Skeletal Expansion on Upper Airway Airflow: A Computational Fluid Dynamics Analysis. Journal of Craniofacial Surgery. 2020 Jan/Feb. 31(1): e6-e10.\n20.  Zhao T, Ngan P, Hua F, Zheng J, Zhou S, Zhang M, Xiong H, He H *. Impact of pediatric obstructive sleep apnea on the development of Class II hyperdivergent patients receiving orthodontic treatment: A pilot study. Angle Orthodontist. 2018 Sep;88(5):560–6.\n21. 赵婷婷，贺红*. OSA儿童错合畸形矫治临床路径. 口腔医学, 2024,44(8):561-564\n22.  赵婷婷，贺红*. 儿童呼吸功能异常相关错合畸形的早期矫治. 中华口腔医学杂志,2024\n23.  赵婷婷，王敏，杨郑，张俊，花放，贺红*. 儿童与成人不同骨面型正畸患者扁桃体肥大率初探. 中华口腔医学杂志,2022,57(3):58-64\n24.  赵婷婷，贺红*，陈雄. 颅颌面发育相关的阻塞性睡眠呼吸暂停低通气综合征动物模型研究进展.武汉大学学报(医学版),2020,41(2):341-344\n25.  赵婷婷，贺红*. 儿童口呼吸与错合畸形. 中华口腔正畸学杂志，2019:12:26(4), 217- 220.\n26.  赵婷婷, 邓丽嘉, 贺红*. 儿童错合畸形伴OSAHS诊疗理念——多学科合作. 中国实用口腔科杂志, 2017, 10(2):70-72.\n27. 贺红*，赵婷婷. 儿童错合畸形的早期矫治. 口腔医学研究，2020,36（12）：1083-1086\n28.       Sun Q, Zhao T, Li B, Li M, Luo P, Zhang C, Chen G, Cao Z, Li Y, Du M *, He H *. FTO/RUNX2 signaling axis promotes cementoblast differentiation under normal and inflammatory condition. Biochim Biophys Acta Mol Cell Res. 2022 Dec;1869(12):119358.\n29. Guo F, Zhao T, Zhai Q, Fang X, Yue H, Hua F *, He H *. ‘Spin’ among abstracts of randomized controlled trials in sleep medicine: A research-on research study. Sleep. 2023;zsad041. Doi:10.1093/sleep/zsad041\n30.  Hua F #, Qin D #, Yan J, Zhao T, He H *. COVID-19 Related Experience, Knowledge, Attitude, and Behaviors Among 2,669 Orthodontists, Orthodontic Residents, and Nurses in China: A Cross-Sectional Survey. Front Med (Lausanne). 2020 Aug 7;7:481.\n31.   Guo F #; Tang B #; Qin D #; Zhao T; Su Y; McGrath C; Hua F *; He, Hong *, The Impact of the COVID-19 Epidemic on Orthodontic Patients in China: An Analysis of Posts on Weibo. Front Med (Lausanne). 2020 Aug 7;7:481.\n32.    Hua F #, Sun Q #, Zhao T, Chen X, He H *. Reporting quality of randomised controlled trial abstracts presented at the SLEEP Annual Meetings: a cross-sectional study. BMJ Open. 2019 Jul;9(7):e029270.\n专利：\n2023年12月22日，发明人：赵婷婷；花放；陶振东；贺红. 获批发明专利一项“辅助正畸扩弓加速腭中缝成果 的装置” 专利号：ZL 2022 1 0712319.1\n团队成员\n暂无内容\n工作经历\n口腔医院\n| 武汉大学\n教育经历\n武汉大学\n社会兼职\n暂无内容\n研究方向\n[1].口腔正畸学\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

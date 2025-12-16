@@ -1,0 +1,167 @@
+{
+  "id": "lswade",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lswade/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘盛",
+    "english_name": "",
+    "title": [
+      "特聘副研究员"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "物理与应用物理",
+        "school": "南洋理工大学",
+        "period": "2015.1 -- 2019.10",
+        "country": "新加坡"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "材料科学与工程",
+        "school": "北京科技大学",
+        "period": "2010.9 -- 2013.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "材料科学与工程",
+        "school": "北京科技大学",
+        "period": "2006.9 -- 2010.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "南洋理工大学",
+    "academic_honors": [
+      "湖北省海外高层次人才"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "低维材料光谱与光电子学",
+      "二维反铁磁材料中的磁振子与光学声子强耦合",
+      "二维半导体中的谷极化与量子限域调控"
+    ],
+    "research_interests": [
+      "量子光电物性",
+      "自旋角动量传递",
+      "室温谷极化",
+      "荧光发射波长调控",
+      "反铁磁磁振子",
+      "光学声子"
+    ],
+    "research_description": "刘盛博士主要研究低维材料的光谱与光电子学，聚焦于物质的量子光电物性及其应用。他在二维反铁磁材料中首次发现反铁磁磁振子与光学声子的强耦合作用及自旋角动量传递；在二维半导体中实现了室温谷极化和荧光发射波长的量子限域调控。相关成果发表于Physical Review Letters、ACS Nano、Science Advances等期刊，并被Nature和Nature Review Chemistry报道。",
+    "disciplines": [
+      "物理学",
+      "材料科学",
+      "光电子学"
+    ],
+    "field_tags": [
+      "低维材料",
+      "二维材料",
+      "反铁磁性",
+      "磁振子",
+      "光学声子",
+      "谷电子学",
+      "量子限域效应",
+      "光电子学",
+      "自旋电子学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "First observation of strong coupling between antiferromagnetic magnons and optical phonons in two-dimensional antiferromagnetic materials",
+        "keywords": [
+          "二维反铁磁材料",
+          "反铁磁磁振子",
+          "光学声子",
+          "强耦合",
+          "自旋角动量传递"
+        ],
+        "journal_name": "Physical Review Letters",
+        "research_fields": [
+          "低维材料光谱",
+          "光电子学",
+          "量子光电物性"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Room-temperature valley polarization in two-dimensional semiconductors",
+        "keywords": [
+          "二维半导体",
+          "室温谷极化",
+          "谷电子学"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "低维材料光谱",
+          "谷电子学",
+          "光电子学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Quantum confinement tuning of photoluminescence wavelength in two-dimensional materials",
+        "keywords": [
+          "量子限域调控",
+          "荧光发射波长",
+          "二维材料"
+        ],
+        "journal_name": "Science Advances",
+        "research_fields": [
+          "低维材料光谱",
+          "光电子学",
+          "量子限域效应"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=QQl2hNUAAAAJ&hl=en"
+      },
+      {
+        "platform": "武汉大学物理科学与技术学院主页",
+        "url": "http://jszy.whu.edu.cn/lswade/zh_CN/index.htm"
+      },
+      {
+        "platform": "霆教授课题组",
+        "url": "https://yuting.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘盛\n页面链接: http://jszy.whu.edu.cn/lswade/zh_CN/index.htm\n==================================================\n武汉大学 刘盛--中文主页-LS--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简历\n教育经历\n工作经历\n社会兼职\n研究方向\n团队成员\n个人简历\n简介\n刘盛，男，武汉大学物理科学与技术学院特聘副研究员，湖北省海外高层次人才。现隶属于霆教授课题组（https://yuting.whu.edu.cn/）。\n主要研究方向聚焦低维材料光谱与光电子学，探索物质的量子光电物性与应用（Google Scholar: https://scholar.google.com/citations?user=QQl2hNUAAAAJ&hl=en）。在二维反铁磁材料中首次发现了反铁磁磁振子（AFM Magnon）与光学声子（Optical Phonon）的强耦合作用以及自旋角动量在两者间的传递（ https://doi.org/10.1103/PhysRevLett.127.097401 ）；在二维半导体中实现了室温谷极化（ https://doi.org/10.1021/acsnano.0c02703 ）和荧光发射波长的量子限域调控（https://doi.org/10.1126/sciadv.aav9445）。相关研究成果被Nature（https://doi.org/10.1038/d41586-019-02324-x）和Nature Review Chemistry （ https://doi.org/10.1038/s41570-019-0131-1）转载报道。\n教育经历\n2015.1 --\n2019.10\n南洋理工大学\n物理与应用物理\n博士研究生毕业\n理学博士学位\n2010.9 --\n2013.6\n北京科技大学\n材料科学与工程\n硕士研究生毕业\n工学硕士学位\n2006.9 --\n2010.7\n北京科技大学\n材料科学与工程\n大学本科毕业\n工学学士学位\n工作经历\n2021.4 -- 2023.3\n冲绳科学技术大学院大学\n量子材料研究室\n博士后\n2019.11 -- 2021.4\n南洋理工大学\n物理与应用物理系\n博士后\n社会兼职\n暂无内容\n研究方向\n暂无内容\n团队成员\n暂无内容\n刘盛\n性别： 男\n出生日期：1988-11-16\n毕业院校：南洋理工大学\n学历： 博士研究生毕业\n在职信息：在职\n所在单位：物理科学与技术学院\n办公地点： 武汉光源-湖滨实验楼101物院老楼C-207\n电子邮箱：\n邮箱 : \n开通时间：..\n最后更新时间：..",
+    "research_section": "",
+    "education_section": ""
+  }
+}

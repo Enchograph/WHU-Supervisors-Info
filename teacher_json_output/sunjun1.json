@@ -1,0 +1,197 @@
+{
+  "id": "sunjun1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/sunjun1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "孙俊",
+    "english_name": "Jun SUN",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "数学与统计学院",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "基础数学",
+        "school": "中国科学院数学与系统科学研究院",
+        "period": "2006.9~2011.1",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "基础数学",
+        "school": "中国科学技术大学",
+        "period": "2002.9~2006.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学院数学与系统科学研究院",
+    "academic_honors": [],
+    "academic_services": [
+      "中国兵工学会应用数学专业委员会第九届委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "几何分析",
+      "微分几何",
+      "子流形几何",
+      "几何流"
+    ],
+    "research_interests": [
+      "凯勒曲面中全纯曲线存在性",
+      "Calabi-Yau流形中特殊拉格朗日子流形存在性",
+      "空间形式中子流形的面积比较定理",
+      "渐近平坦流形中超曲面的几何不等式",
+      "CR几何",
+      "拉格朗日平均曲率流",
+      "面积保持平均曲率流",
+      "伪黎曼流形上的椭圆方程"
+    ],
+    "research_description": "孙俊副教授的主要研究方向为几何分析与微分几何，聚焦于子流形几何及几何流相关问题。研究内容涵盖凯勒曲面中全纯曲线的存在性、Calabi-Yau流形中特殊拉格朗日子流形的存在性、空间形式中子流形的面积比较定理、渐近平坦流形中超曲面的几何不等式，以及CR几何等前沿课题。其近期工作涉及拉格朗日平均曲率流的奇点结构、面积保持流的稳定性、伪黎曼流形上偏微分方程的梯度估计等。",
+    "disciplines": [
+      "数学",
+      "几何学",
+      "微分几何",
+      "偏微分方程"
+    ],
+    "field_tags": [
+      "几何分析",
+      "微分几何",
+      "子流形",
+      "几何流",
+      "平均曲率流",
+      "拉格朗日流形",
+      "CR几何",
+      "伪黎曼流形",
+      "面积比较",
+      "奇点分析"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 7,
+    "representative_publications": [
+      {
+        "title": "Type II Singularities of Lagrangian mean curvature flow with zero Maslov class",
+        "keywords": [
+          "Lagrangian mean curvature flow",
+          "Type II singularities",
+          "Maslov class",
+          "geometric analysis"
+        ],
+        "journal_name": "Journal of Functional Analysis",
+        "research_fields": [
+          "几何分析",
+          "微分几何"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Stability of the area preserving mean curvature flow",
+        "keywords": [
+          "area preserving mean curvature flow",
+          "stability",
+          "geometric flow"
+        ],
+        "journal_name": "Journal of Functional Analysis",
+        "research_fields": [
+          "几何分析",
+          "微分几何"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Gradient estimate for solutions to $\\Delta_{b}u=0$ and $\\Delta_{b}u+au\\ln u+bu=0$ on Pseudohermitian manifold",
+        "keywords": [
+          "Pseudohermitian manifold",
+          "gradient estimate",
+          "CR geometry"
+        ],
+        "journal_name": "Journal of Differential Equations",
+        "research_fields": [
+          "几何分析",
+          "CR几何"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Rotationally symmetric translating solitons in ${\\mathbb C}^2$",
+        "keywords": [
+          "translating solitons",
+          "rotationally symmetric",
+          "complex plane"
+        ],
+        "journal_name": "Kodai Mathematical Journal",
+        "research_fields": [
+          "几何分析",
+          "微分几何"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Eternal solutions to symplectic and almost calibrated Lagrangian mean curvature flows",
+        "keywords": [
+          "eternal solutions",
+          "Lagrangian mean curvature flow",
+          "symplectic geometry"
+        ],
+        "journal_name": "Journal of Mathematical Analysis and Applications",
+        "research_fields": [
+          "几何分析",
+          "微分几何"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Gradient flow for $\\beta$-symplectic critical surfaces",
+        "keywords": [
+          "$\\beta$-symplectic critical surfaces",
+          "gradient flow",
+          "variational problems"
+        ],
+        "journal_name": "Annales de l'Institut Henri Poincaré. Analyse Non Linéaire",
+        "research_fields": [
+          "几何分析",
+          "微分几何"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/sunjun1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": false
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 孙俊\n页面链接: http://jszy.whu.edu.cn/sunjun1/zh_CN/index.htm\n==================================================\n武汉大学 孙俊--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n教师个人主页\nEN\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n孙俊\n副教授   博士生导师  硕士生导师\n个人信息\n更多+\n教师英文名称： Jun SUN\n教师拼音名称： Sun Jun\n电子邮箱： \n入职时间： 2014-02-01\n所在单位： 数学与统计学院\n学历： 研究生毕业\n办公地点： 武汉大学数学与统计学院雷军科技楼A361\n性别： 男\n在职信息： 在职\n其他联系方式\n邮箱：\n个人简介\n我的主要研究方向是几何分析与微分几何，特别是子流形几何及几何流相关问题。对包括凯勒曲面中全纯曲线存在性、Calabi-Yau流形中特殊拉格朗日子流形存在性、空间形式中子流形的面积比较定理、空间形式或者渐近平坦流形中超曲面的几何不等式、CR几何等相关问题感兴趣。\n教育经历\n2006.9~2011.1\n中国科学院数学与系统科学研究院\n- 基础数学\n- 理学博士学位\n- 理学博士学位\n2002.9~2006.7\n中国科学技术大学\n- 基础数学\n- 大学普通班毕业\n- 学士\n工作经历 查看更多\n2015.12~2025.10\n武汉大学数学与统计学院\n- 副教授\n2024.1~2024.2\n意大利国际理论物理中心\n- 访问学者\n2016.11~2018.10\n麻省理工学院\n- 访问学者\n论文成果\n研究方向\n著作成果\n学术荣誉：\n.Xiang Li,Yong Luo,Jun Sun.Type II Singularities of Lagrangian mean curvature flow with zero Maslov class.J. Funct. Anal..289.111032.2025\n.Yaoting Gui,Yuqiao Li,Jun Sun.Stability of the area preserving mean curvature flow.J. Funct. Anal..289.111033.2025\n.Shitong Niu,Jun Sun.Gradient estimate for solutions to $\\Delta_{b}u=0$ and $\\Delta_{b}u+au\\ln u+bu=0$ on Pseudohermitian manifold.J. Differential Equations.429.262-282.2025\n.Jun Sun.Rotationally symmetric translating solitons in ${\\mathbb C}^2$.Kodai Math. J..47.267-278.2024\n.Xiang Li,Jun Sun.Eternal solutions to symplectic and almost calibrated Lagrangian mean curvature flows.J. Math. Anal. Appl..531.127804.2024\n.Xiaoli Han,Jiayu Li,Jun Sun.Gradient flow for $\\beta$-symplectic critical surfaces.Ann. Inst. H. Poincar\\'{e} Anal. Non Lin\\'{e}aire.41.1083-1116.2024\n查看更多>\n几何分析\n微分几何\n暂无内容\n暂无内容\n社会兼职\n2025.1~至今\n中国兵工学会应用数学专业委员会第九届委员会委员\n曾获荣誉：\n暂无内容\n总访问量\n今日访问量\n月访问量\n同专业博导\n同专业硕导",
+    "research_section": "",
+    "education_section": ""
+  }
+}

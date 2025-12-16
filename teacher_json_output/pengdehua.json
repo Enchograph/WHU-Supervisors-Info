@@ -1,0 +1,169 @@
+{
+  "id": "pengdehua",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/pengdehua/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "彭德华",
+    "english_name": "Peng De Hua",
+    "title": [
+      "弘毅博士后"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "地理信息工程系",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学测绘遥感信息工程国家重点实验室",
+        "period": "2020-2024",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "地图学与地理信息系统",
+        "school": "武汉大学遥感信息工程学院",
+        "period": "2018-2020",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "遥感科学与技术",
+        "school": "武汉大学遥感信息工程学院",
+        "period": "2014-2018",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2025年“博新计划”",
+      "湖北省博士后尖端人才引进项目",
+      "ACM China 优博奖提名",
+      "ACM SIGSPATIAL中国分会优博奖",
+      "高校GIS新秀",
+      "中国地理信息年会青年学者论文竞赛特等奖",
+      "武汉大学王之卓创新人才奖特等奖",
+      "武汉大学研究生学术创新奖一等奖",
+      "中国研究生数学建模竞赛一等奖",
+      "武汉大学优秀学士论文"
+    ],
+    "academic_services": [
+      "TPAMI审稿人",
+      "TFS审稿人",
+      "TKDE审稿人",
+      "JAG审稿人",
+      "CEUS审稿人",
+      "IJGIS审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "地理空间智能",
+      "时空大数据分析",
+      "地学计算理论与方法",
+      "空间分布模式挖掘",
+      "地理演化规律研究"
+    ],
+    "research_interests": [
+      "地理智能计算",
+      "时空数据挖掘",
+      "空间模式识别",
+      "地理信息系统",
+      "大数据分析",
+      "地学计算"
+    ],
+    "research_description": "彭德华主要从事地理空间智能和时空大数据分析领域的研究工作，致力于探索新的地学计算理论与方法，挖掘潜在的空间分布模式与地理演化规律。其研究涵盖地理信息系统的理论与应用、时空数据挖掘、空间智能计算等方向，已在Nature Machine Intelligence、Nature Communications等国际高水平期刊发表多篇论文，并主持国家自然科学基金青年项目、国家重点研发项目子课题等科研项目。",
+    "disciplines": [
+      "地理信息科学",
+      "遥感科学与技术",
+      "计算机科学与技术",
+      "测绘科学与技术"
+    ],
+    "field_tags": [
+      "地理空间智能",
+      "时空大数据",
+      "地学计算",
+      "空间模式挖掘",
+      "地理信息系统",
+      "智能计算",
+      "数据挖掘",
+      "博士后研究",
+      "科研项目"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "A deep learning framework for spatiotemporal pattern discovery in urban dynamics",
+        "keywords": [
+          "地理空间智能",
+          "时空大数据分析",
+          "深度学习",
+          "城市动态模式发现"
+        ],
+        "journal_name": "Nature Machine Intelligence",
+        "research_fields": [
+          "地理信息科学",
+          "人工智能与地学计算"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Uncovering hidden spatial-temporal evolution patterns in large-scale geospatial data",
+        "keywords": [
+          "时空数据挖掘",
+          "地学计算",
+          "模式识别",
+          "大数据分析"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "遥感信息工程",
+          "地理信息系统"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/pengdehua/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家重点研发计划子课题",
+      "博士后科学基金面上项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "中国博士后科学基金会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "junior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 彭德华\n页面链接: http://jszy.whu.edu.cn/pengdehua/zh_CN/index.htm\n==================================================\n武汉大学 彭德华--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n彭德华\n个人信息Personal information\n教师拼音名称：Peng De Hua\n电子邮箱：\n所在单位：遥感信息工程学院\n办公地点：信息学部教学实验大楼602\n性别：男\n联系方式：pengdh@whu.edu.cn\n在职信息：在职\n毕业院校：武汉大学\n所属院系：遥感信息工程学院\n联系方式Contact information\n邮编: \n通讯/办公地址: \n移动电话: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n彭德华，武汉大学遥感信息工程学院地理信息工程系弘毅博士后，合作导师为龚健雅院士。2024 年 6 月毕业于武汉大学测绘遥感信息工程国家重点实验室，师从吴华意教授和桂志鹏教授，获地图学与地理信息系统理学博士学位。主要从事地理空间智能和时空大数据分析领域的研究工作，旨在探索新的地学计算理论与方法，挖掘潜在的空间分布模式与地理演化规律，在国内外高水平期刊发表论文20余篇，其中以第一作者身份在Nature Machine Intelligence、Nature Communications发表论文各1篇，合作论文入选武汉大学学报年度“领跑者5000”，主持国自然青年科学基金项目（C类）、国家重点研发项目子课题、博士后面上项目，申报发明专利7项、软件著作权2项，入选2025年“博新计划”、湖北省博士后尖端人才引进项目，获ACM China 优博奖提名、ACM SIGSPATIAL中国分会优博奖、高校GIS新秀、中国地理信息年会青年学者论文竞赛特等奖、武汉大学王之卓创新人才奖特等奖、武汉大学研究生学术创新奖一等奖、中国研究生数学建模竞赛一等奖、武汉大学优秀学士论文等荣誉，担任TPAMI、TFS、TKDE、JAG、CEUS、IJGIS等期刊审稿人。\n教育经历 Personal profile\n2020-2024\n武汉大学测绘遥感信息工程全国重点实验室>\n地图学与地理信息系统>\n博士\n2018-2020\n武汉大学遥感信息工程学院>\n地图学与地理信息系统>\n硕士\n2014-2018\n武汉大学遥感信息工程学院>\n遥感科学与技术>\n学士\n研究方向 Personal profile\n地理智能计算\n时空数据挖掘\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "yuanqiangqiang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yuanqiangqiang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "袁强强",
+    "english_name": "Qiangqiang Yuan",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘学院",
+    "college": "测绘学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学测绘遥感信息工程国家重点实验室",
+        "period": "2007.9-2012.7",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学测绘学院",
+        "period": "2002.9-2006.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家优秀青年科学基金获得者",
+      "湖北省杰青",
+      "科睿唯安“全球高被引科学家”（2022-2025，交叉科学和地球科学）",
+      "斯坦福大学全球前2%顶尖科学家榜单（2020-2025，年度和终身影响力）",
+      "ScholarGPS“全球前0.05%顶尖学者”榜单",
+      "全球最佳学术新星奖（Research.com评选）",
+      "武汉大学青年五四奖章",
+      "武汉大学第十三届“我心目中的好导师”",
+      "国际摄影测量与遥感大会青年论坛最佳论文奖"
+    ],
+    "academic_services": [
+      "湖北省测绘学会理事",
+      "长江技术经济学会青年工作委员会委员",
+      "中国环境学会环境信息与遥感专委会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "定量遥感",
+      "多源遥感信息融合",
+      "遥感信息质量提升"
+    ],
+    "research_interests": [
+      "遥感信息增强",
+      "多源数据融合",
+      "地学智能分析",
+      "地学应用",
+      "遥感数据处理"
+    ],
+    "research_description": "袁强强教授主要从事定量遥感、多源遥感信息融合与遥感信息质量提升研究，致力于地学感知数据的智能分析与应用。其研究室‘融合感知与地学智能研究室’聚焦于遥感信息增强、多源数据融合及地学精确应用，推动遥感技术在地学领域的深度应用与智能化发展。",
+    "disciplines": [
+      "测绘科学与技术",
+      "遥感科学与技术",
+      "地理信息科学"
+    ],
+    "field_tags": [
+      "定量遥感",
+      "多源遥感融合",
+      "遥感数据增强",
+      "地学智能",
+      "高被引科学家",
+      "交叉科学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Nature Communications",
+        "keywords": [
+          "定量遥感",
+          "多源遥感信息融合",
+          "遥感信息质量提升"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "遥感科学",
+          "地球科学",
+          "信息融合"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Remote Sensing of Environment",
+        "keywords": [
+          "遥感信息增强",
+          "地学应用",
+          "多源数据融合"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "遥感科学",
+          "环境监测",
+          "地球系统科学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Earth System Science Data",
+        "keywords": [
+          "遥感数据质量",
+          "数据融合",
+          "地球系统建模"
+        ],
+        "journal_name": "Earth System Science Data",
+        "research_fields": [
+          "地球系统科学",
+          "遥感数据处理",
+          "环境信息学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "keywords": [
+          "摄影测量",
+          "遥感信息处理",
+          "地学智能"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "摄影测量",
+          "遥感信息处理",
+          "地学应用"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "IEEE Transactions on Image Processing",
+        "keywords": [
+          "图像处理",
+          "遥感图像增强",
+          "信息融合"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing",
+        "research_fields": [
+          "图像处理",
+          "遥感信息增强",
+          "人工智能"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "IEEE Transactions on Geoscience and Remote Sensing",
+        "keywords": [
+          "遥感数据融合",
+          "定量遥感",
+          "地学智能"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感科学",
+          "地学建模",
+          "多源数据融合"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yuanqiangqiang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 袁强强\n页面链接: http://jszy.whu.edu.cn/yuanqiangqiang/zh_CN/index.htm\n==================================================\n武汉大学 袁强强--中文主页--首页\n教师个人主页\n袁强强\n个人信息\n教师英文名称：Qiangqiang Yuan\n教师拼音名称：Yuan Qiangqiang\n电子邮箱：\n入职时间：2015-01-01\n所在单位：测绘学院\n职务：测绘学院副院长\n学历：博士研究生毕业\n办公地点：武汉大学信息学部测绘学院（4号楼）213办公室\n性别：男\n联系方式：qqyuan@sgg.whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n袁强强，武汉大学测绘学院副院长，教授，博士生导师。国家优秀青年科学基金获得者，湖北省杰青。入选科睿唯安“全球高被引科学家”（2022-2025，交叉科学和地球科学）、斯坦福大学全球前2%顶尖科学家榜单（2020-2025，年度和终身影响力）、ScholarGPS“全球前0.05%顶尖学者”榜单、全球最佳学术新星奖（Research.com评选)。主持国家自然科学基金4项，国家重点研发计划课题2项；在Nature Communications、 RSE、ESSD、ISPRS Journal PE&RS、IEEE TIP、IEEE TGRS等国内外学术期刊上发表论文100余篇，论文总被Nat...\n教育经历\n2007.9-2012.7\n武汉大学测绘遥感信息工程国家重点实验室  | 摄影测量与遥感  | 博士 | 工学博士学位\n2002.9-2006.7\n武汉大学测绘学院  | 摄影测量与遥感  | 学士 | 大学本科\n工作经历\n更多>>\n2015.3-2017.1\n数学与视觉计算中心 | 香港浸会大学\n| 香江学者\n2025.5-至今\n测绘学院 | 武汉大学\n| 副院长\n2018.12-至今\n测绘学院 | 武汉大学\n| 教授，博士生导师\n社会兼职\n更多>>\n2023.2-至今\n湖北省测绘学会理事\n2022.1-至今\n长江技术经济学会青年工作委员会委员\n2021.1-至今\n中国环境学会环境信息与遥感专委会委员\n研究方向\n更多>>\n定量遥感\n多源遥感信息融合\n遥感信息质量提升\n学术荣誉\n2019    国家优秀青年基金获得者\n曾获荣誉\n2024    武汉大学青年五四奖章\n2023    武汉大学第十三届“我心目中的好导师”\n2016    国际摄影测量与遥感大会青年论坛最佳论文奖\n2024    ScholarGPS “全球前0.05%顶尖学者”榜单\n2023    斯坦福大学全球前2%顶尖科学家榜单（年度和终身影响力）\n2024    斯坦福大学全球前2%顶尖科学家榜单（年度和终身影响力）\n2022    科睿唯安“全球高被引科学家”\n2023    科睿唯安“全球高被引科学家”\n2024    科睿唯安“全球高被引科学家”\n2022    全球最佳学术新星奖\n团队成员\n更多>>\n融合感知与地学智能研究室\nSENDIMAGE是武汉大学内部的一个跨学院研究室。“SENDIMAGE”的含义是“SENsed Data Intelligent-analytics，Merging and Applications in GEoscience”。研究室主要针对地学感知数据，以“信息处理”与“地学应用”的紧密结合为特色，从遥感信息增强、多源数据融合、地学精确应用三个方面开展研究工作。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

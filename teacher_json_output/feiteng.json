@@ -1,0 +1,150 @@
+{
+  "id": "feiteng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/feiteng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "费腾",
+    "english_name": "Fei Teng",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "硕士",
+        "field": "地理信息科学",
+        "school": "荷兰ITC",
+        "period": "2005-2006",
+        "country": "荷兰"
+      },
+      {
+        "degree": "博士",
+        "field": "地理信息科学",
+        "school": "荷兰ITC",
+        "period": "2007-2011",
+        "country": "荷兰"
+      }
+    ],
+    "graduation_school": "荷兰ITC",
+    "academic_honors": [
+      "武汉大学优秀本科生毕业论文，2003",
+      "荷兰硕士全额奖学金，2005",
+      "ITC杰出硕士论文（distinction on Msc thesis），2006",
+      "荷兰博士全额奖学金，2007",
+      "教育部际科技进步二等奖（“全数字、多用途土地资源评价关键技术与应用”），2011",
+      "2014年全国GIS青年教师讲课竞赛一等奖",
+      "2018年武汉大学资环院青年教师讲课比赛一等奖",
+      "中国地理信息产业协会2019年第二届全国高等学校GIS教学成果奖二等奖",
+      "Best Poster Award, 16th International Conference on Computers in Urban Planning and Urban Management (CUPUM 2019), China",
+      "Best Short Paper Award, 27th SIGSPATIAL GIS 2019, Chicago",
+      "武汉大学资环院2019届本科毕业论文优秀指导老师",
+      "2021武汉大学珞珈青年学者",
+      "2021武汉大学教学成果特等奖（排名第四）",
+      "2021年武汉大学研究生精品课程《资源与环境遥感》"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "城市地理大数据",
+      "生态遥感应用",
+      "林业遥感",
+      "自然资源管理"
+    ],
+    "research_interests": [
+      "地理信息科学",
+      "基于位置的服务（LBS）",
+      "移动地理信息系统",
+      "遥感与地理信息集成"
+    ],
+    "research_description": "费腾副教授主要从事城市地理大数据、生态遥感应用、林业遥感及自然资源管理等方向的研究，致力于地理信息科学与遥感技术的融合创新，尤其在基于位置的服务（LBS）和移动增强现实地理信息系统方面有深入探索。其研究注重技术应用与实际场景结合，涵盖城市规划、资源管理与环境监测等领域。",
+    "disciplines": [
+      "地理学",
+      "遥感科学与技术",
+      "地理信息科学"
+    ],
+    "field_tags": [
+      "城市地理",
+      "遥感应用",
+      "LBS",
+      "GIS",
+      "自然资源管理",
+      "移动地理信息",
+      "生态遥感",
+      "空间大数据"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "A Location-based Social Network System Integrating Mobile Augmented Reality and User Generated Content",
+        "keywords": [
+          "位置服务",
+          "增强现实",
+          "用户生成内容",
+          "社交网络",
+          "地理信息系统"
+        ],
+        "journal_name": "27th SIGSPATIAL GIS 2019",
+        "research_fields": [
+          "地理信息科学",
+          "城市地理大数据",
+          "基于位置的服务（LBS）"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Best Poster Award, 16th International Conference on Computers in Urban Planning and Urban Management (CUPUM 2019)",
+        "keywords": [
+          "城市规划",
+          "城市计算",
+          "智能城市",
+          "空间数据分析"
+        ],
+        "journal_name": "CUPUM 2019",
+        "research_fields": [
+          "城市地理大数据",
+          "生态遥感应用",
+          "地理信息科学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "GitHub",
+        "url": "http://only4john.github.io"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 费腾\n页面链接: http://jszy.whu.edu.cn/feiteng/zh_CN/index.htm\n==================================================\n武汉大学 费腾--费腾--首页\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n费腾\n个人信息\n教师拼音名称：Fei Teng\n所在单位：资源与环境科学学院\n职务：副教授\n学历：研究生毕业\n办公地点：http://only4john.github.io\n请访问我还在更新的主页\n性别：男\n联系方式：http://only4john.github.io\n请访问我还在更新的主页\n职称：副教授\n在职信息：在职\n主要任职：副教授\n硕士生导师\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n专业兴趣：城市地理大数据，生态遥感应用，地理信息科学，基于位置的服务（LBS），林业遥感，自然资源管理详见 http://only4john.github.io\n教育经历\n暂无内容\n工作经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n曾获荣誉\n2003    武汉大学优秀本科生毕业论文，武汉大学， 2003\n2005    荷兰硕士全额奖学金，荷兰ITC， 2005\n2006    ITC杰出硕士论文 （distinction on Msc thesis），荷兰ITC， 2006\n2007    荷兰博士全额奖学金，荷兰ITC， 2007\n2011    教育部际科技进步二等奖 （“全数字、多用途土地资源评价关键技术与应用”），2011\n2014    2014年全国GIS青年教师讲课竞赛一等奖\n2018    2018年武汉大学资环院青年教师讲课比赛一等奖\n2019    中国地理信息产业协会 2019年 第二届全国高等学校GIS教学成果奖 二等奖\n2016    第十四届（2016）SuperMap杯全国高校GIS大赛 Web与移动开发组 武汉赛区 一等奖 指导老师\n2016    第十四届（2016）SuperMap杯全国高校GIS大赛 全国三等奖 优秀指导老师奖\n2016    2016 Esri杯中国大学生GIS软件开发竞赛 软件开发竞赛 年度最热门应用奖 指导老师\n2016    2016 ESRI杯中国大学生GIS软件开发竞赛 Web与移动开发组 优秀指导教师\n2016    第三届（2016 ）湖北省大学生文化创意设计赛 最佳互联网服务创新设计奖 指导老师\n2017    第三届（2017）武汉大学互联网+大学生创新创业大赛 创意组三等奖 指导老师\n2017    第一届（2017）华测杯创新大赛 Web与移动开发组 特等奖 最佳指导教师奖\n2017    第十五届(2017) SuperMap杯全国高校GIS大赛 三维应用组 优秀奖 优秀指导老师奖\n2018    第七届(2018)中国软件杯 大学生软件设计大赛 最佳创新奖 指导教师\n2018    第二届(2018)“北斗+”双创大赛武汉赛区优秀奖 指导老师\n2018    第十届(2018)中国（深圳）创新创业大赛复赛武汉赛区，优秀奖 指导老师\n2018    第十六届(2018)SuperMap杯全国高校GIS大赛一等奖、最具投资价值奖 最佳指导老师\n2019    Best Poster Award, 16th International Conference on Computers in Urban Planning and Urban Management(CUPUM 2019), China\n2019    武汉大学资环院2019届本科毕业论文优秀指导老师\n2019    第十七届(2019)SuperMap杯全国高校GIS大赛一等奖\n联合指导老师\n2019    Best Short Paper Award, 27th SIGSPATIAL GIS 2019, for the paper \"A Location-based Social Network System Intergrating Mobile Augmented Reality and User Generated Content\", Chicago\n2019    2019数字科技文化节暨全国3D大赛12周年精英联赛龙鼎奖（全国总决赛）一等奖 指导老师\n2019    2019第二届高校GIS教学成果奖二等奖（排名第四）\n2020    武汉大学第七届2020“三创”成果展示会优秀学生论文奖+成果奖指导老师\n2021    武汉大学珞珈青年学者（2021）\n2021    2021武汉大学教学成果特等奖（排名第四）\n2021    2021年武汉大学研究生精品课程《资源与环境遥感》\n团队成员\n暂无内容\nhttp://only4john.github.io请访问我还在更新的主页\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

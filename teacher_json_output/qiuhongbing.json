@@ -1,0 +1,198 @@
+{
+  "id": "qiuhongbing",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/qiuhongbing/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "邱红兵",
+    "english_name": "Qiu Hongbing",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "数学与统计学院",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "数学科学",
+        "school": "复旦大学",
+        "period": "2010年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "复旦大学",
+    "academic_honors": [
+      "2024年世界华人数学家联盟年会45分钟报告",
+      "2026年世界华人数学家大会(ICCM)45分钟报告"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "微分几何",
+      "子流形几何",
+      "平均曲率流",
+      "广义调和映照"
+    ],
+    "research_interests": [
+      "曲率条件",
+      "刚性定理",
+      "自收缩子",
+      "平移孤立子",
+      "古代解",
+      "伯恩斯坦型定理",
+      "拉格朗日平均曲率流",
+      "勒让德自收缩整图",
+      "辛自收缩子",
+      "复相映照",
+      "广义调和映照的存在性与唯一性"
+    ],
+    "research_description": "主要从事微分几何特别是子流形几何、平均曲率流以及广义调和映照等相关领域的研究。在伪欧氏空间中对类空自收缩子、平移孤立子、完备非紧古代解等几何对象的刚性定理、体积增长估计及伯恩斯坦型问题进行了系统研究，证明了多项最优刚性定理与存在性、唯一性结果。同时在广义调和映照的刘维尔定理、施瓦兹引理等方面取得重要进展。",
+    "disciplines": [
+      "数学",
+      "微分几何"
+    ],
+    "field_tags": [
+      "子流形几何",
+      "平均曲率流",
+      "自收缩子",
+      "平移孤立子",
+      "古代解",
+      "刚性定理",
+      "伯恩斯坦型定理",
+      "广义调和映照",
+      "伪欧氏空间",
+      "拉格朗日流",
+      "辛几何",
+      "复相映照"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "证明新型曲率条件下的广义极值原理及其在自收缩子刚性定理中的应用",
+        "keywords": [
+          "广义极值原理",
+          "自收缩子",
+          "刚性定理",
+          "伪欧氏空间",
+          "类空子流形"
+        ],
+        "journal_name": "Adv. Math.",
+        "research_fields": [
+          "微分几何",
+          "子流形几何",
+          "平均曲率流"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "伪欧氏空间中类空自收缩整图的体积增长估计与刚性定理",
+        "keywords": [
+          "体积增长估计",
+          "自收缩子",
+          "整图",
+          "刚性定理",
+          "伪欧氏空间"
+        ],
+        "journal_name": "J. Funct. Anal.",
+        "research_fields": [
+          "微分几何",
+          "平均曲率流",
+          "几何分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "欧氏空间中平移孤立子与平均曲率流古代解的Lawson-Osserman型问题研究",
+        "keywords": [
+          "平移孤立子",
+          "古代解",
+          "伯恩斯坦型定理",
+          "平均曲率流",
+          "欧氏空间"
+        ],
+        "journal_name": "Calc. Var. PDE",
+        "research_fields": [
+          "平均曲率流",
+          "几何演化方程",
+          "子流形几何"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "拉格朗日平均曲率流永恒解的伯恩斯坦型定理",
+        "keywords": [
+          "拉格朗日平均曲率流",
+          "永恒解",
+          "伯恩斯坦型定理",
+          "辛几何"
+        ],
+        "journal_name": "Math. Res. Lett.",
+        "research_fields": [
+          "平均曲率流",
+          "拉格朗日子流形",
+          "几何分析"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "勒让德自收缩整图的最优刚性定理",
+        "keywords": [
+          "勒让德自收缩子",
+          "整图",
+          "刚性定理",
+          "伪欧氏空间"
+        ],
+        "journal_name": "J. Geom. Anal.",
+        "research_fields": [
+          "微分几何",
+          "子流形几何",
+          "调和映照"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学数学与统计学院教师主页",
+        "url": "http://jszy.whu.edu.cn/qiuhongbing/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "省部级资助机构"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 邱红兵\n页面链接: http://jszy.whu.edu.cn/qiuhongbing/zh_CN/index.htm\n==================================================\n武汉大学 邱红兵--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n邱红兵\n武汉大学数学与统计学院副教授，博士生导师，硕士生导师，主要从事微分几何特别是子流形几何、平均曲率流以及广义调和映照等相关领域的研究。\n2010年博士毕业于复旦大学数学科学学院，师从忻元龙教授。博士毕业后在武汉大学数学与统计学院工作至今。曾先后长期访问德国莱比锡马普数学研究所和美国麻省理工学院数学系。在2024世界华人数学家联盟年会作45分钟报告。 受邀将于2026年1月在第10届世界华人数学家大会(ICCM)上作45分钟报告。\n代表性工作包括：\n（1）证明新型曲率条件下的广义极值原理，使其应用范围扩展到多种重要几何情形，作为应用证明了伪欧氏空间中完备类空自收缩子、平移孤立子的最优刚性定理；\n（2）通过在伪欧氏空间中类空自收缩整图上建立新的体积增长估计，证明了该自收缩整图的“几乎”最优刚性定理；\n（3）对欧氏空间中平移孤立子以及平均曲率流的完备非紧古代解的Lawson-Osserman型问题进行了系列研究，证明了相应的伯恩斯坦型定理；\n（4）证明了拉格朗日平均曲率流永恒解的伯恩斯坦型定理；\n（5）证明了勒让德自收缩整图的最优刚性定理；\n（6）利用复相映照证明了辛自收缩子和辛平移孤立子的刚性定理；\n（7）证明了从完备非紧黎曼流形出发的广义调和映照的存在性、唯一性、刘维尔定理和施瓦兹引理。\n在Adv. Math.、J. Funct. Anal.、Calc. Var. PDE、Math. Res. Lett.、J. Geom. Anal.等国际期刊上发表SCI论文20余篇。主持国家级(含面上项目2项)和省部级项目各4项。\n研究方向\n社会兼职\n微分几何\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n邱红兵\n个人信息\n副教授\n博士生导师\n硕士生导师\n教师拼音名称：Qiu Hongbing\n电子邮箱：\n所在单位：数学与统计学院\n办公地点：雷军科技楼A354\n职称：副教授\n在职信息：在职\n毕业院校：复旦大学\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

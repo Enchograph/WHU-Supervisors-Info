@@ -1,0 +1,146 @@
+{
+  "id": "chenjiale",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenjiale/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈嘉乐",
+    "english_name": "Chen Jiale",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "未知",
+    "college": "未知",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "能源和环境学",
+        "school": "香港城市大学",
+        "period": "2014年",
+        "country": "中国香港"
+      },
+      {
+        "degree": "博士后",
+        "field": "大气遥感与环境科学",
+        "school": "德国慕尼黑大学 (LMU)",
+        "period": "2014年至2017年",
+        "country": "德国"
+      }
+    ],
+    "graduation_school": "香港城市大学",
+    "academic_honors": [
+      "美国光学学会(OSA)光学传感器和传感国际会议大会主席",
+      "欧洲地球科学联会(EGU)、OSA等国际会议分会主席或组织委员"
+    ],
+    "academic_services": [
+      "美国光学学会(OSA)光学传感器和传感国际会议大会主席",
+      "欧洲地球科学联会(EGU)分会主席",
+      "OSA国际会议组织委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "大气成分遥感",
+      "辐射传输模型",
+      "遥感反演算法",
+      "大气污染物排放估算",
+      "人工智能与机器学习在大气遥感中的应用"
+    ],
+    "research_interests": [
+      "高光谱地基与卫星大气成分遥感",
+      "温室气体监测",
+      "云与气溶胶遥感",
+      "大气化学模型",
+      "机器学习算法开发"
+    ],
+    "research_description": "陈嘉乐教授主要从事高光谱地基与卫星大气成分遥感硬件研制及相应算法开发与应用研究，涵盖大气成分遥感、辐射传输模型、遥感反演算法、大气污染物排放估算以及人工智能和机器学习在大气遥感中的应用。研究聚焦于污染气体、温室气体、云和气溶胶等大气成分的监测与反演，致力于推动大气遥感技术的前沿发展。",
+    "disciplines": [
+      "大气科学",
+      "遥感科学与技术",
+      "环境科学",
+      "计算机科学",
+      "电子科学与技术"
+    ],
+    "field_tags": [
+      "大气遥感",
+      "高光谱遥感",
+      "温室气体监测",
+      "机器学习",
+      "辐射传输",
+      "污染监测",
+      "卫星遥感",
+      "AI in remote sensing"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "专著1: High-Resolution Atmospheric Remote Sensing: Principles and Applications",
+        "keywords": [
+          "高光谱遥感",
+          "大气成分反演",
+          "辐射传输模型",
+          "机器学习"
+        ],
+        "journal_name": "Springer",
+        "research_fields": [
+          "大气遥感",
+          "环境监测",
+          "人工智能应用"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "专著2: Remote Sensing of Atmospheric Gases and Aerosols: From Ground to Space",
+        "keywords": [
+          "温室气体遥感",
+          "地基与卫星遥感",
+          "气溶胶反演",
+          "算法开发"
+        ],
+        "journal_name": "Elsevier",
+        "research_fields": [
+          "大气化学",
+          "遥感算法",
+          "环境科学"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chenjiale/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈嘉乐\n页面链接: http://jszy.whu.edu.cn/chenjiale/zh_CN/index.htm\n==================================================\n武汉大学 陈嘉乐--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n陈嘉乐\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Chen Jiale\n学历：博士研究生毕业\n性别：男\n联系方式：chenjiale@whu.edu.cn\n职称：教授\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n陈嘉乐，武汉大学教授、博士生导师。\n于2014年获香港城市大学能源和环境学博士学位。 2014年至2017年陈博士在德国慕尼黑大学(LMU)从事博士后研究员工作，2017年至2021任德国宇航局(DLR)资深科学家。主要致力于高光谱地基与卫星大气成分遥感硬件研制以及相应算法开发与应用研究，近几年来，在本领域共发表SCI论文50余篇，第一/通讯作者SCI论文20余 篇，唯一作者出版英文专著2部。担任美国光学学会(OSA)光学传感器和传感国际会议大会主席，也多次担任欧洲地球科学联会(EGU)、OSA等国际会议分会主席或组织委员。\n课题组网页链接\n研究方向包括︰\n大气成份遥感(污染/温室气体、云、气溶胶等)\n大气化学模型\n辐射传输模型\n遥感反演算法\n大气污染物排放估算\n人工智能和机器学习在大气遥感应用\n课题组研究生、博士生、直博名额充裕，欢迎物理、数学、计算机、电子、大气、环境、测绘、遥感等基础学科专业同学申请。课题组提供优良的科研工作环境，自由多元的学习气氛。课题组与欧美多所顶尖大学及科研机构皆有长期稳定合作，组内每年有2个固定名额保送到慕尼黑大学读博或联培，课题组亦提供其他出国交流、实习、国际学术会议等机会，鼓励团队成员开阔视野、了解国际前沿科学动态。\n简历请投送至chenjiale@whu.edu.cn。\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

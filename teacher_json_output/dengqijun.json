@@ -1,0 +1,221 @@
+{
+  "id": "dengqijun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/dengqijun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "邓其军",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "自动化系",
+    "college": "机器人学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "机械电子",
+        "school": "武汉大学",
+        "period": "1999年",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "机械电子",
+        "school": "武汉大学",
+        "period": "2002年",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "计算机应用技术",
+        "school": "武汉大学",
+        "period": "2005年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "中国电源学会无线电能传输技术及装置专业委员会委员",
+      "中国电工学会无线电能传输专业委员会委员",
+      "中电联工业控制系统标准化工作组委员",
+      "能源行业（电力）机器人标准委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "电力具身机器人",
+      "人工智能在电力系统中的应用",
+      "无线充电与无线电能传输",
+      "电动汽车无线电能传输",
+      "人体植入式医疗机器人",
+      "车网灵活互动控制",
+      "光储充一体化控制",
+      "电力电子系统建模与控制",
+      "直流配电测控与保护"
+    ],
+    "research_interests": [
+      "动态无线充电系统",
+      "系统辨识建模",
+      "多能源收集与供电",
+      "无人机自取能",
+      "无线传感网",
+      "数据驱动建模",
+      "H∞鲁棒控制",
+      "多通道无线电能传输",
+      "Litz线高频损耗建模",
+      "光储直柔配用电系统"
+    ],
+    "research_description": "邓其军教授长期致力于电力具身机器人、人工智能在电力系统中的应用、无线充电与无线电能传输、电动汽车无线电能传输、人体植入式医疗机器人、车网灵活互动控制、光储充一体化控制、电力电子系统建模与控制、直流配电测控与保护等方向的研究。其团队聚焦于动态无线充电系统失稳风险演化与控制、多能源综合保障系统规划、基于系统辨识与数据驱动的建模与控制方法、无人机无线充电系统、人体植入式微型机器人系统、光储充协同优化、直流配电系统测控与保护等关键技术攻关，承担国家重点研发计划、国家自然科学基金及多项企业横向项目，研究成果发表于IEEE Transactions on Power Electronics、IEEE Transactions on Industrial Electronics等国际权威期刊。",
+    "disciplines": [
+      "控制科学与工程",
+      "电气工程",
+      "机器人技术",
+      "电力电子与电力传动",
+      "人工智能"
+    ],
+    "field_tags": [
+      "无线充电",
+      "无线电能传输",
+      "电力具身智能",
+      "电动汽车",
+      "人工智能应用",
+      "光储充一体化",
+      "直流配电",
+      "系统辨识",
+      "数据驱动建模",
+      "H∞控制"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 62,
+    "representative_publications": [
+      {
+        "title": "LPV Modeling and Robust Control of Dynamic Wireless Charging for Electric Vehicles",
+        "keywords": [
+          "动态无线充电",
+          "LPV建模",
+          "鲁棒控制",
+          "电动汽车"
+        ],
+        "journal_name": "IEEE Transactions on Industrial Electronics",
+        "research_fields": [
+          "无线充电",
+          "电力电子系统",
+          "智能控制"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "AC-Resistance Evaluation and Reduction Based on Nonuniformity Current Distribution of Large-Strand-Count Litz Wire",
+        "keywords": [
+          "Litz线",
+          "交流电阻",
+          "电流分布不均",
+          "高频损耗"
+        ],
+        "journal_name": "IEEE Transactions on Power Electronics",
+        "research_fields": [
+          "无线电能传输",
+          "电力电子器件",
+          "系统建模"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Research on Rectifier Fault Diagnosis and Self-Protecting for Inductive Power Transfer System With Constant-Current Output",
+        "keywords": [
+          "整流器故障诊断",
+          "自保护",
+          "恒流输出",
+          "无线电能传输"
+        ],
+        "journal_name": "IEEE Transactions on Power Electronics",
+        "research_fields": [
+          "电力电子系统",
+          "故障诊断",
+          "无线充电"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Identification and H∞ Robust Control of Wireless Power Transfer System by Hammerstein Model",
+        "keywords": [
+          "Hammerstein模型",
+          "系统辨识",
+          "H∞鲁棒控制",
+          "无线功率传输"
+        ],
+        "journal_name": "IEEE Transactions on Power Electronics",
+        "research_fields": [
+          "系统辨识",
+          "控制理论",
+          "无线充电"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "A Self-Balanced Multi-Channel Wireless Charging System for EV",
+        "keywords": [
+          "多通道无线充电",
+          "自平衡",
+          "电动汽车",
+          "系统设计"
+        ],
+        "journal_name": "IEEE Transactions on Vehicular Technology",
+        "research_fields": [
+          "电动汽车",
+          "无线充电",
+          "电力系统控制"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/dengqijun/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "企业委托横向项目",
+      "纵向项目",
+      "国际合作项目"
+    ],
+    "funding_agencies": [
+      "国家科学技术部",
+      "国家自然科学基金委员会",
+      "企业",
+      "英国文化教育协会（British Council）"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 邓其军\n页面链接: http://jszy.whu.edu.cn/dengqijun/zh_CN/index.htm\n==================================================\n武汉大学 邓其军--中文主页--首页\n邓其军\n教授\n博士生导师\n硕士生导师\n性别：男\n出生日期：1975-12-10\n学历：研究生毕业\n在职信息：在职\n入职时间： 2005-07-01\n联系方式：DQJ@whu.edu.cn\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n一、个人简介\n1999年及2002年于武汉大学获机械电子专业学士及硕士学位，2005年于武汉大学获计算机应用技术专业获博士学位。2005年7月进入武汉大学自动化系（2018年并入电气与自动化学院，2025年并入机器人学院）。2013年8月至2014年12月在美国纽约大学作访问学者。现任机器人学院教授、博导，自动化系支部书记、机器人学院能源（电力）行业具身智能研究中心负责人，中国电源学会无线电能传输技术及装置专业委员会委员、中国电工学会无线电能传输专业委员会委员、中电联工业控制系统标准化工作组委员、能源行业（电力）机器人标准委员会委员。\n主要研究方向：电力具身机器人、人工智能在电力系统中的应用、无线充电、电动汽车无线电能传输、人体植入式医疗机器人、车网灵活互动控制、光储充一体化控制、电力电子系统建模与控制、直流配电测控与保护等。\n欢迎自动化、计算机、电气等相关专业同学到我课题组攻读硕士（控制科学与工程、机器人技术）、博士（控制科学与工程学博、机器人工程专博）；\n欢迎学有余力的大二、大三同学到实验室参与科研项目。\n本课题组有充足的科研项目与科研经费，近5年到帐经费超过1000万元。\n电子邮箱：dqj@whu.edu.cn\n本课题组2026年入学还可招收1~2名博士，5~6名硕士，欢迎咨询！\n研究生从项目中掌握的学术能力：\n基于无线充电控制、机器人智能控制、无人机自取能识别定位等项目，提取研究问题，在导师及学长指导下撰写SCI一区二区论文，冲击研究生国家奖学金、研究生学术创新奖学金。\n近5年学术型硕士研究生学术成就：\n李直帆（2020级），发表SCI一区论文6篇，奖学金：晨光电缆奖学金（专项奖学金）5000、硕士研究生国家奖学金20000、武汉大学研究生优秀学业奖学金一等奖4000、智洋创新基金乙等奖学金（专项奖学金）3000\n罗鹏（2021级），发表SCI一区论文1篇（2024年发表），奖学金：研究生新生奖学金30000\n王礼贤（2021级），发表SCI四区论文1篇，奖学金：研究生新生奖学金30000\n王小龙（2022级）,发表SCI二区论文1篇（2024年发表），奖学金NR教育基金奖学金8000，研究生优秀学业奖学金二等奖2000\n黄启明(2023级），发表SCI一区论文1篇（2025年刚发表）、SCI四区论文1篇，另已投稿SCI一区论文1篇；奖学金：2025年待评\n二、主持的项目\n1. 国家重点研发计划：基于大数据的海量计量节点采样通道在线校准技术,100万，2025.7~2027.12\n2.  国家自然科学基金:基于系统辨识建模的动态无线充电系统失稳风险演化与控制研究，50万，(2026.1~2029.12）\n3.  企业委托横向项目：基于无线电能传输的人体植入式微型机器人系统研究，35万，2025.7~2026.3\n4.  企业委托横向项目：无人机无线充电系统研究，40万，2025.1~2026.3\n5.  国家自然科学基金:无线电能传输系统数据驱动建模与控制（51977151），2020.1~2023.12，（63万元）\n6.  国家自然科学基金:无线电能传送非理想Litz线线圈高频损耗电阻建模与品质因数优化(51677139),2017.1~2020.12（63万元）\n7.  纵向项目：多能源收集与供电平台研制及优化运，2025.1~2025.6\n8.  纵向项目：多能源综合保障系统多阶段多时间尺度规划仿真，2025.2~2025.10\n9.  纵向项目：电源控制策略及验证研究，2018~2020 （528万元）\n10.纵向项目：多通道无线电能传输系统稳定性研究，2020.11~2021.10\n11.企业委托横向项目：基于虚拟运营商的微电网群资源调度博弈建模与优化技术研究，2024.4~2025.12\n12.企业委托横向项目：配电网高效运行的光储充协同优化技术研究，2024.12~2027.12（149万元）\n13.企业委托横向项目：考虑时空不确定性的充电设施配电网优化配置技术研究，2024.12~2027.12\n14.企业委托横向项目：建筑侧交直流配用电系统演进路径与灵活调度技术研究， 2023.8~2024.11，148万元\n15.企业委托横向项目：传感器取能与网络技术辅助研究与装置研制项目技术开发，023.8~2025.12，358万元\n16.企业委托横向项目：光储直柔配用电系统规划与关键技术研究 2022.6~2023.12 （78.6万元）\n17.企业委托横向项目：输电网关户外运行关键技术研究，南方电网数字电网研究院，2020.11~2022.10\n18.国际合作项目:全球创新计划-面向城市地区节能减排的电动汽车无线充电系统(1310146),3.1万英镑,2014.4~2016.4\nGII (Global Innovation Initiative) Project:Wireless Charging Technologies for Electric Vehicles to Improve Energy Utilizations and Reduce Emissions in the Urban Environment, corporate with  New York University ( USA) and the Strathclde University ( United Kingdom), awarded by British Council.\n19.纵向项目：有线无线混合充电系统. 2017.1~2017.12\n20.企业委托横向项目：非侵入电能质量监测与敏感用户细分模型研究，深圳供电局，2018.1~2019.12\n21.配电网直接供电的100kW电动汽车无线充电，深圳市科创委，2018.1~2019.12\n22.企业委托横向项目:华润售电业务咨询，2017.9~2018.8.\n23.国家电网公司总部科技项目:可充电无线传感网关键技术研究, 2017.1~2018.12\n24.企业委托横向项目:AGV车辆无线充电；2016.8~2017.12\n25.企业委托横向项目:配电网低电压治理验证技术研究, 2016~2017\n26.企业委托横向项目:基于国网GIS数据接口开发, 2015年\n27.企业委托横向项目:基于国网GIS的电力线路规划, 2015年\n28.企业委托横向项目:配电数据采集终端研发, 2012年\n29.企业委托横向项目:GIS导输电航线路巡检系统, 2012~2013\n30.企业委托横向项目:基于GIS的配电网综合管理系统, 2011~2012\n31.企业委托横向项目:典型用户需求响应潜力分析及互动节电模型研究,12015~2016\n32.企业委托横向项目:配电网故障定位系统, 2011~2012\n33.企业委托横向项目:太阳能及风力发电监测系统, 2012年\n34.企业委托横向项目:光伏发电系统数据接口, 2012年\n35.企业委托横向项目:九江供电公司配电网GIS, 2008~2011\n36.企业委托横向项目:起重重量动态精确测量, 2010年\n37.企业委托横向项目:火电厂凝结水精处理系统, 2007年\n参与的项目:\n1.  国家科技支撑计划项目:以电网低碳化为特征的智能电网综合示范工程  2013~2015\n2.  企业委托横向项目:智能电网监测终端无线供电系统,2013~2015\n3.  企业委托横向项目:基于ARM输电线路舞动及覆冰监测系统 ,2009年\n4.  企业委托横向项目:火电厂节能评价系统,2011年\n5.  企业委托横向项目:家居用电智能控制系统研究与开发,2011~2012\n6.  企业委托横向项目:配电监测终端单元(FTU)研发 ,2011~2012\n三、学术成果\n[1]     Z. Li, Q. Deng, S. Li, H. Deng, Q. Huang and W. Hu, \"LPV Modeling and Robust Control of Dynamic Wireless Charging for Electric Vehicles,\" in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2025.3548993\n[2]     Q. Deng, Q. Huang, Z. Li, H. Deng, S. Li and W. Hu, \"AC-Resistance Evaluation and Reduction Based on Nonuniformity Current Distribution of Large-Strand-Count Litz Wire,\" in IEEE Transactions on Power Electronics, vol. 40, no. 7, pp. 10111-10122, July 2025, doi: 10.1109/TPEL.2025.3536849Y.\n[3]     Li , P. Sun , Y. Liang , X. Wu, J. Sun and Q. Deng（邓其军）,  \"Research on Rectifier Fault Diagnosis and Self-Protecting for Inductive Power Transfer System With Constant-Current Output,\" in IEEE Transactions on Power Electronics, vol. 40, no. 2, pp. 3750-3769, Feb. 2025, doi: 10.1109/TPEL.2024.3484767\n[4]     X. Dai, G. -P. Liu, W. Hu, Q. Deng and Z. Lei, \"Distributed Predictive Control for Networked DC Microgrids With Communication Delays and Packet Dropouts,\" in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2024.3498095\n[5]     P. Sun, L. Wang, Y. Liang, X. Wu and Q. Deng, \"Analysis and Cross-Coupling Elimination of Input-Series Output-Parallel (ISOP) Multi-Channel IPT System,\" in IEEE Open Journal of Power Electronics, vol. 5, pp. 1014-1029, 2024, doi: 10.1109/OJPEL.2024.3417177.\n[6]     Y. Liang , P. Sun , X. Wu, L. He, J. Sun , G. Yang, and Q. Deng（邓其军）, \"Improved H∞ Control for Input-Series–Output-Series Multichannel Inductive Power Transfer System Considering Parameter Inconsistency and Load Perturbation,\" in IEEE Transactions on Power Electronics, vol. 39, no. 5, pp. 6477-6491, May 2024, doi: 10.1109/TPEL.2024.3360254\n[7]     Y. Liang，P.Sun*, G.Yang, J.Sun,J.Cai, X.Wu, Q.Deng（邓其军）, \"Analysis and Parameter Design for Input-Series Output-Series (ISOS) Multi-Channel Inductive Power Transfer System Considering Cross Coupling,\" in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2024.3349610.\n[8]     S. Li, Q.Deng,. et al., \"Identification and H∞ Robust Control of Wireless Power Transfer System by Hammerstein Model,\" in IEEE Transactions on Power Electronics, vol. 39, no. 7, pp. 8883-8893, July 2024\n[9]     Y. Mei, X.Gao*, Q.Deng（邓其军）,H.Liu,W. Hu, H.Zhou,Y.Jiang, \"Design and Analysis of A Dual-Channel Wireless Motor Drive with One Pair of Coupling Coils,\" in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2023.3335809\n[10] Q. Deng, X. Wang, J. Chen, X. Gao, P. Luo and L. Wang, \"A Self-Balanced Multi-Channel Wireless Charging System for EV,\" in IEEE Transactions on Vehicular Technology, vol. 73, no. 11, pp. 16491-16502, Nov. 2024\n[11] X. Dai, G. -P. Liu, W. Hu, Q. Deng and Z. Lei, \"Distributed Secondary Control for DC Microgrids With Time-Varying Communication Delays: A Networked Predictive Control Scheme,\" in IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 4459-4472, March 2024, doi: 10.1109/TPWRS.2023.3317423.\n[12] Q. Deng, P. Luo, Z. Li, S. Li, Q. Huang and W. Hu, \"Pulse Interference Suppression for Wireless Shore Power System Considering Energy Supplying Priority,\" in IEEE Transactions on Transportation Electrification, vol. 10, no. 2, pp. 3690-3700, June 2024,\n[13] Huang, Q., Deng, Q., Li, Z. et al. Application of a modified wavelet threshold denoising algorithm in system identification of WPTS. J. Power Electron. 24, 1150–1162 (2024).\n[14] L. Wang, P. Sun*, Y. Liang*, L. He, X. Wu and Q. Deng, \"Research on the Control Strategy of Communication-Free IPT System Based on Multiparameter Joint Real-Time Identification,\" in IEEE Transactions on Power Electronics, vol. 39, no. 1, pp. 1912-1926, Jan. 2024, doi: 10.1109/TPEL.2023.3326248.\n[15] J. Cai, X. Wu, P. Sun*, Q. Deng, J. Sun* and H. Zhou, \"Design of Constant-Voltage and Constant-Current Output Modes of Double-Sided LCC Inductive Power Transfer System for Variable Coupling Conditions,\" in IEEE Transactions on Power Electronics, vol. 39, no. 1, pp. 1676-1689, Jan. 2024, doi: 10.1109/TPEL.2022.3226756.\n[16] Y. Liang, P. Sun*, X. Wu, L.Wang, J. Sun*, E. Rong,Q. Deng, \"Input-Series Output-Series Multichannel IPT System for High-Voltage and High-Power Wireless Power Transfer,\" in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 5, pp. 5509-5523, Oct. 2023, doi: 10.1109/JESTPE.2023.3300873\n[17] L. Wang, P. Sun*, Y. Liang*, J. Sun,X. Wu, H. Shen, Q. Deng, \"Joint Real-Time Identification for Mutual Inductance and Load Charging Parameters of IPT System,\" in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 4, pp. 4574-4590, Aug. 2023, doi: 10.1109/JESTPE.2023.3275138\n[18] Z. Li， Q. Deng* et al., \"Receding Horizon D-Optimal Input Design for Identification of Wireless Power Transfer Systems,\" in IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 11, no. 3, pp. 3597-3606, June 2023, doi: 10.1109/JESTPE.2023.3257960.\n[19] H. Liu, Y.Mei, H.Zhou*, W.Hu, Q.Deng*, X.Gao, L.Fang , \"Compact and Efficient Wireless Motor Drive With Bidirectional Motion Capability,\" in IEEE Transactions on Power Electronics, vol. 38, no. 12, pp. 15097-15101, Dec. 2023, doi: 10.1109/TPEL.2023.3308389\n[20] L. Fang, H. Zhou, W. Hu, X. Gao, H. Liu and Q. Deng, \"Design and Analysis of Flexible Capacitive Power Transfer With Stable Output Capability,\" in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 69, no. 11, pp. 4691-4701, Nov. 2022, doi: 10.1109/TCSI.2022.3194647\n[21] Y. Liang, P. Sun, X. Wu, H. Zhou, J. Sun, G. Yang, J. Cai, Q. Deng, \"H∞ Robust Control for ICPT System With Selected Weighting Function Considering Parameter Perturbations,\" in IEEE Transactions on Power Electronics, vol. 37, no. 11, pp. 13914-13929, Nov. 2022, doi: 10.1109/TPEL.2022.3179979\n[22] J. Cai，X. Wu， P. Sun，Q. Deng，et al., \"Zero-Voltage Switching Regulation Strategy of Full-Bridge Inverter of Inductive Power Transfer System Decoupled From Output Characteristics,\" in IEEE Transactions on Power Electronics, vol. 37, no. 11, pp. 13861-13873, Nov. 2022, doi: 10.1109/TPEL.2022.3161901.\n[23] L. Fang,H. Zhou,W. Hu,J. Chen, A. Zhu,X. Gao,Q. Deng, \"Design of Wireless Individual-Drive System for Variable-Reluctance Stepping Motor,\" in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 4, pp. 2141-2145, April 2022, doi: 10.1109/TCSII.2022.3143172\n[24] Q. Deng, Z. Li*, J. Liu, S. Li, P. Luo and K. Cui, \"Data-Driven Modeling and Control Considering Time Delays for WPT System,\" in IEEE Transactions on Power Electronics, vol. 37, no. 8, pp. 9923-9932, Aug. 2022, doi: 10.1109/TPEL.2022.3151941.\n[25] X. Dai,G. Liu*,Q. Deng*,W. Zeng, Global Optimal Cooperative Control of Multiple DC–DC Converter Systems for Dynamic Consensus, IEEE Transactions on Power Electronics, vol. 36, no. 12, pp. 14340 - 14352, Dec.2021\n[26] L. Wang, P. Sun*, X. Wu, J. Cai, Q. Deng * ，J. Sun, H. Zhou., \"Mutual Inductance Identification of IPT System Based on Soft-start Process,\" IEEE Transactions on Power Electronics, Early access, doi: 10.1109/TPEL.2022.3142289.\n[27] Q. Deng ,Z. Li*, J. Liu*, et al. Multi-Inverter Phase-Shifted Control for Inductive Power Transfer with Overlapped Transmitters. IEEE Transactions on Power Electronics, vol. 36, no. 8, pp. 8799 - 8811, Jan.2021\n[28] Zhu, H. Zhou*, Q Deng*, et al., \"Modeling and Phase Synchronization Control of High-Power Wireless Power Transfer System Supplied By Modular Parallel Multi-Inverters,\" in IEEE Transactions on Vehicular Technology, vol. 70, no. 7, pp. 6450-6462, July 2021, doi: 10.1109/TVT.2021.3080515.\n[29] H. Zhou, A. Zhu, Q Deng*, Protection Strategy for Wireless Charging Electrical Vehicles. IEEE Transactions on Vehicular Technology. vol. 69, no. 11, pp. 13510 -13520, Nov. 2020 (SCI二区,IF=4.5）\n[30] Q. Deng ,Y. Cheng*, F. Chen*, et al. Wired/Wireless Hybrid Charging System for Electrical Vehicles with Minimum Rated Power Requirement for DC Module. IEEE Transactions on Vehicular Technology. , vol. 69, no. 10, pp. 10889 -10898, Oct.2020\n[31] H. Zhou, J. Chen, Q. Deng*, F. Chen*, et al. Input-series output-equivalent-parallel multi-inverter system for high-voltage and high-power wireless power transfer. IEEE Transactions on Power Electronics, vol. 36, no. 1, pp. 228 -238, Jan.2021\n[32] J. Chen, H. Zhou, Q. Deng*, F. Chen*, et al. Free positioning wireless power transfer system based on one-to-multiple topology. IEEE Transactions on Power Electronics, , vol. 35, no. 10, pp. 9959 -9964, Oct.2020.\n[33] F. Chen, P. C. Young, H. Garnier, Q. Deng* and M. K. Kazimierczuk. Data-driven modeling of wireless power transfer systems with multiple transmitters. IEEE Transactions on Power Electronics, vol. 35, no. 11, pp. 11363 -11379, Jan.2020.\n[34] F. Chen, H. Garnier, Q. Deng*, M. K. Kazimierczuk and X. Zhuan. Control-oriented modeling of wireless power transfer systems with phase-shift control. IEEE Transactions on Power Electronics, 35(2):2119–2134, 2020.\n[35] Q. Deng, P. Sun*, W. Hu*, D. Czarkowski,et.al,\" Modular Parallel Multi-Inverter System for High-Power Inductive Power Transfer\", IEEE Transactions on Power Electronics, vol. 34, no. 10, pp. 9422 -9434, Oct.2019 (DOI: 10.1109/TPEL.2019.2891064,  SCI一区,IF=6.8）\n[36] Q. Deng, Z. Wang, C. Chen*, D. Czarkowski,et.al,  \"Modeling and Control of Inductive Power Transfer System Supplied by Multiphase Phase-Controlled Inverter \" , IEEE Transactions on Power Electronics, vol. 34, no. 9, pp. 9303 - 9315, Sep.2019 (DOI: 10.1109/TPEL.2018.2886846,  SCI一区,IF=6.8）\n[37] J. Liu, Q. Deng*, D. Czarkowski, M. Kazimierczuk, H. Zhou and W. Hu,“Frequency Optimization for Inductive Power Transfer Based on AC Resistance Evaluation of Litz-wire ,” IEEE Transactions on Power Electronics, vol. 34, no. 3, pp. 2355 - 2363, March 2019 (DOI:, SCI一区,IF=6.8）\n[38] Liu, Jiangtao(#); Deng, Qijun(*); Wang, Wenbin; Li, Zhifan(*), Modeling and Control of Inverter Zero-Voltage-Switching for Inductive Power Transfer System, IEEE Access, 2019 , 7：139885~139894,\n[39] Chen, Cheng(#); Zhou, Hong; Deng, Qijun(*); Hu, Wenshan; Yu, Yanjuan; Lu, Xiaoqing; Lai, Jingang, Modeling and Design of Zero-Voltage-Switching Controller for Wireless Power Transfer Systems Based on Closed-Loop Dominant Pole, Journal of Power Electronics, 2019.9 , 19(5)：1235~1247,\n[40] Z. Lei, H. Zhou, W. Hu*, Q. Deng*,et., al,Modular Web-Based Interactive Hybrid Laboratory Framework for Research and Education 20152 - 20163, IEEE Access, vol. 6,  pp. Jan. 2018(IF=3.5)\n[41] Q. Deng*, J. Liu, D. Czarkowski,  H. Zhou and  W. Hu, “An Inductive Power Transfer System Supplied by a Multiphase Parallel Inverter,”IEEE Transactions on Industrial Electronics, vol. 64, no. 9, pp. 7039–7047, May 2017.( SCI一区,IF=7.168)\n[42] Q. Deng*, J. Liu*, D. Czarkowski, M. Kazimierczuk, M. Bojarski, H. Zhou and  W. Hu, “Frequency-dependent resistance of Litz-wire square solenoid coils and quality factor optimization for wireless power transfer,”IEEE Transactions on Industrial Electronics, vol. 63, no. 5, pp. 2825–2837, May 2016.( SCI一区,IF=7.168)\n[43] Q. Deng*, J. Liu*, D. Czarkowski, M. Bojarski, J. Chen, H. Zhou and  W. Hu, “Edge Position Detection of On-line Charged Vehicles with Segmental Wireless Power Supply,” IEEE Transactions on Vehicular Technology. vol. 65, no. 5, pp. 3610–3621, May 2017  (IF=4.0)\n[44] Q. Deng*,Jiangtao Liu*,Dariusz Czarkowski, Mariusz Bojarski, Erdem Asa, Francisco de Leon,” Design of a Wireless Charging System with a Phase-Controlled Inverter for Electric Vehicles under Varying Parameters”, IET Power Electron., vol. 9, no. 13, pp. 2461-2470, Oct. 2016   (IF=3.58)\n[45] X. Wang, P. Sun, Q. Deng*, et al. Evaluation of AC Resistance in Litz Wire Planar Spiral Coils for Wireless Power Transfer, Journal of Power Electronics,   Vol.18,   vol. 4, pp.1268-1277, Jul. 2018 (IF=1.2)\n[46] Wenshan Hu, Zhongcheng Lei, Hong Zhou, Guo-Ping Liu, Q. Deng, Dongguo Zhou and Zhi-Wei Liu, , “Plug-in Free Web Based 3-D Interactive Laboratory for Control Engineering Education,”IEEE Transactions on Industrial Electronics,(DOI: 10.1109/TIE.2016.2645141,( SCI一区,IF=7.168)\n[47] Zhongcheng Lei; Hong Zhou; Wenshan Hu; Q. Deng; Dongguo Zhou; Zhi-Wei Liu,\" HTML5-Based 3-D Online Control Laboratory With Virtual Interactive Wiring Practice \",IEEE Transactions on Industrial Infomics, (SCI一区, IF=6.0)\n[48] H Zhou ， C Chen ， J Lai ， X Lu ， Q Deng, Affine nonlinear control for an ultra-supercritical coal fired once-through boiler-turbine unit, Energy , 2018 , 153,(SCI一区，IF=5.8)\n[49] X. Gao, H. Zhou, W. Hu, Q. Deng, et.,al, Capacitive power transfer through virtual self-capacitance route, ,IET Power Electron., vol. 11, no. 6, pp. 1110 - 1118, Oct. 2018  (IF=3.58)\n[50] 邓其军,曾文彬,戴小然, 多斩波器电流协同控制[J]. 电工技术学报, 2021, 36(15): 3272-3281\n[51] 邓其军,刘姜涛,陈诚,等. 应用于无线电能传输 的 Litz线平面矩形螺旋线圈高频电阻计算[J]. 电工技术学报, 2016, 31(11):176-185\n[52] 邓其军,刘姜涛,周洪,等. 应用于无线电能传送的测控系统设计与开发[J]. 电力自动化设备, 2015, 35(7):147-152\n[53] 邓其军,刘姜涛,陈 诚,等. 无线电能传输系统三相相移控制逆变器研发[J]. 电工技术学报,2017，32（18）：52~61。\n[54] 邓其军,刘姜涛, 陈 诚，周洪,等. 多相并联的15 kW无线电能传输系统研发[J]. 电力自动化设备（录用)\n[55] 邓其军,王慧琴. 频率匹配对谐振无线电能传输效率的影响[J]. 武汉大学学报（工学版）, 2016, 49(3):441-445.\n[56] 周洪 ，蒋燕，胡文山，罗垚，邓其军,磁共振式无线电能传输系统应用的电磁环境安全性研究及综述，电工技术学报，2016.1.25，（02）：1~12刘姜涛,\n[57] 邓其军,聂明媚,刘震宇,基于ARM的智能配电房通信管理机设计,自动化与仪表,2014,(01):34-37\n[58] 邓其军,周洪,鲁觉.面向图形对象的配电网单线图绘制与使用[J]. 电力自动化设备,2009,Vol.29(6):97-100. EI检\n[59] 邓其军,周洪,吴昌博.一种新型配电网倒闸操作票生成及防误系统[J]. 电力自动化设备,2009,Vol.29(7):123-126. EI检索\n[60] 陈勇,邓其军,周洪.无重叠交叉的配电网单线图自动生成算法[J]. 电力自动化设备,2010,Vol.30(11):90-93. EI检索\n[61] 邓其军,刘姜涛,周洪,陈勇. 低压台区地理图到电气接线图的自动转换[J].电力系统保护与控制,2011,39(4):132-136. EI检索\n[62] 邓其军,苏克明,赵连明.基于配电网复杂设备的拓扑建模与分析[J].武汉大学学报工学版,2009,Vol.42(4):491-495.\n专著:\n[1]  张国忠,孟红霞,邓其军.普通高等教育“十一五”国家级规划教材《智能控制系统及应用》[M].北京:中国电力出版社,2008\n[2]  周洪,邓其军.普通高等教育“十一五”国家级规划教材《网络控制技术及应用》[M].北京:中国电力出版社,2007\n[3]  周洪,邓其军.专著《智能大厦控制系统》[M].北京:中国电力出版社,2007\n专利:\n[1]       邓其军; 董帅良; 周洪; 胡文山,一种基于IPT并联多逆变器的相位同步检测方法和装置 , 2020-9-3, 中国, CN202010915929.2..\n[2]       邓其军; 程远峰; 董帅良; 周洪; 胡文山,一种基于最小视在功率模块的混合充电系统和设计方法, 2020-9-3, 中国, CN202010917111.4.\n[3]       周洪; 胡文山; 高星冉; 胡悦; 罗语婷; 邓其军; 周东国, 一种全面板极板耦合电容的优化方法, 2018-6-19, 中国, CN201810629068.4.\n[4]       周洪; 胡文山; 高星冉; 王雅倩; 罗语婷; 邓其军; 周东国, 一种双极板电容式高压无线输电直流电源系统, 2018-6-11, 中国, CN201810596175.1.\n[5]       龙晓秘; 邓其军, 一种基于可调直流功率模块的电动汽车无线充电系统,2018-8-7 至2028-1-24, 中国, ZL201820130114.1.\n[6]       龙晓秘; 邓其军, 一种电动汽车无线充电负载端消失的检测与保护装置,2018-8-7 至2028-1-24, 中国, ZL201820130112.2.\n[7]       周洪; 吴雨; 蒋燕; 陈诚; 邓其军; 胡文山, 一种大功率无线电能传输系统的非线性分析控制方法, 2019-7-19, 中国, CN201910655359.5.\n[8]       周洪; 陈诚; 易凌松; 邓其军; 胡文山, 基于温度场的能耗测试与分析方法,2018-12-14 至2036-9-18, 中国, ZL201610827851.2.\n[9]       周洪; 陈诚; 罗新; 邓其军; 胡文山; 高星冉, 一种适用于高压输电线路铁塔的无线电能传输系统安装装置, 2019-10-25 至2038-4-28, 中国, ZL201810397709.8.\n[10]    周洪; 陈诚; 蒋燕; 范惠子; 高星冉; 邓其军; 胡文山, 应用于高压线路监测的无线供电装置电磁安全性分析方法, 2018-2-2, 中国, CN201810108015.8.\n[11]    周洪; 李佳; 李刚; 陈晶; 邓其军; 胡文山, 电容调谐电路, 2018-01-16 至2026-12-14, 中国, ZL201621374077.6.\n[12]    胡文山; 周洪; 张兴豪; 邓其军; 李刚; 李佳, 一种电能传输系统, 2017-04-06, 中国, CN201710221407.0.\n[13]    邓其军; 周洪; 陈晶; 胡文山; 李刚; 李佳, 一种电动汽车位置检测装置、方法, 2017-04-06, 中国, CN201710221408.5.\n[14]    邓其军; 周洪; 陈晶; 胡文山; 李刚; 李佳, 一种动态无线传电通道、道路、系统, 2017-04-06, 中国, CN201710221410.2.\n[15]    胡文山; 周洪; 张兴豪; 邓其军; 李刚; 李佳, 一种台灯装置, 2017-02-08至2037-03-27, 中国, CN201710189047.0.\n[16]    周洪; 李佳; 李刚; 张兴豪; 邓其军; 胡文山, 电网输电线路检测系统,2017-12-12 至2026-12-14, 中国, ZL201621374383.X.\n[17]    邓其军,陈诚,刘姜涛,周洪,胡文山, 一种基于相控逆变器实现功率调节的        电动汽车无线充电系统及方法,  中国, CN201510359749.X。\n[18]    周洪,胡文山,邓其军,蒋燕,高星冉,一种高压强电环境下的无线供电装置,中国,CN201520658826.7。\n[19]    高立克,胡文山,谢雄威,周洪,周柯,邓其军,吴智丁,罗胜琪,祝文姬,刘常坤,李克文,蒋燕,俞小勇,吴丽芳,李珊,吴剑豪,一种基于无线能量传输的固有频率调节装置,2014.11.5-2024.6.19,CN201420328673.5。\n[20]    周柯,邓其军,谢雄威,胡文山,高立克,周洪,吴智丁,蒋燕,祝文姬,刘常坤,李克文,罗胜琪,俞小勇,吴丽芳,李珊,吴剑豪,一种无线能量传输系统的电磁辐射安全预警系统,2013.9.11-2023.4.27, CN201320223793.4。\n[21]    吴智丁,邓其军,谢雄威,胡文山,高立克,周洪,周柯,刘常坤,祝文姬,蒋燕,李克文,罗胜琪,俞小勇,吴丽芳,李珊,一种用于无线能量传输的高频功率驱动系统,2013.10.2-2023.4.25,CN201320215196.7。\n[22]    谢雄威,周洪,高立克,邓其军,周柯,胡文山,吴智丁,罗胜琪,祝文姬,蒋燕,李克文,刘常坤,俞小勇,吴丽芳,李珊,吴剑豪,一种无线能量传输系统的接收端设备,2013.10.2-2023.4.25,CN201320215184.4。\n[23]    祝文姬,周洪,谢雄威,邓其军,高立克,胡文山,周柯,刘常坤,吴智丁,蒋燕,李克文,罗胜琪,俞小勇,吴丽芳,李珊,吴剑豪,一种小尺寸无线能量传输系统,2013.9.11-2023.4.25,广西,CN201320215874.X。\n[24]    刘姜涛,邓其军,应黎明,一种变步长调整的变压器噪声有源控制方法,2013.7.17-2033.3.12,湖北,CN201310078114.3。\n[25]    谢雄威,胡文山,高立克,周洪,周柯,邓其军,吴智丁,刘常坤,祝文姬,李克文,俞小勇,吴丽芳,李珊,吴剑豪,一种无线能量传输系统,2013.8.21-2023.1.31,广西,CN201320054448.2。\n[26]    谢雄威,邓其军,高立克,周洪,周柯,胡文山,吴智丁,蒋燕,祝文姬,李克文,俞小勇,吴丽芳,李珊,吴剑豪,基于共振耦合的无线能量传输中线圈匝数选择方法,2013.6.5-2033.1.31,CN201310038342.8。\n[27]    谢雄威,周洪,高立克,胡文山,周柯,邓其军,吴智丁,江朝强,祝文姬,李克文,俞小勇,吴丽芳,李珊,吴剑豪,信号波形对谐振感应无线能量传输效率影响的验证方法,2013.5.15-2033.1.31, CN201310037584.5。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

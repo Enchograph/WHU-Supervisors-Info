@@ -1,0 +1,204 @@
+{
+  "id": "wuyu7",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wuyu7/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "武宇",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "人工智能/计算机科学",
+        "school": "悉尼科技大学",
+        "period": "2018-2022",
+        "country": "澳大利亚"
+      },
+      {
+        "degree": "本科",
+        "field": "计算机科学与技术",
+        "school": "上海交通大学",
+        "period": "2014-2018",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "悉尼科技大学",
+    "academic_honors": [
+      "2020年Google PhD Fellowship奖励",
+      "2024年AAAI学术新星奖",
+      "国家海外优青高层次青年人才项目入选者"
+    ],
+    "academic_services": [
+      "CVPR、NeurIPS等人工智能顶会领域主席",
+      "CVPR 2023大会Workshop Chair"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "生成式人工智能",
+      "多模态学习",
+      "AI4Science",
+      "计算机视觉"
+    ],
+    "research_interests": [
+      "AIGC图文生成",
+      "音频生成",
+      "跨模态检索",
+      "captioning",
+      "视觉分类",
+      "视觉分割",
+      "视觉检测",
+      "计算机与化学、生物、物理、医学的交叉研究"
+    ],
+    "research_description": "武宇教授主要从事生成式人工智能、多模态机器学习及AI4Science等方向的研究，致力于推动人工智能在科学计算、跨模态生成与理解等领域的应用。长期担任CVPR、NeurIPS等顶会领域主席，曾获Google PhD Fellowship、AAAI学术新星奖，入选国家海外优青项目。在人工智能顶级会议/期刊发表论文50余篇，6次获CVPR比赛冠军，谷歌学术引用超5000次。",
+    "disciplines": [
+      "人工智能",
+      "计算机科学",
+      "机器学习",
+      "计算机视觉",
+      "多模态学习"
+    ],
+    "field_tags": [
+      "生成式AI",
+      "多模态学习",
+      "AI4Science",
+      "AIGC",
+      "跨模态生成",
+      "计算机视觉",
+      "顶会论文",
+      "博士后招聘"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "CVPR 2023 Workshop Chair",
+        "keywords": [
+          "生成式人工智能",
+          "多模态学习",
+          "计算机视觉",
+          "顶会组织"
+        ],
+        "journal_name": "CVPR",
+        "research_fields": [
+          "人工智能",
+          "计算机视觉",
+          "多模态机器学习"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Google PhD Fellowship Winner (2020)",
+        "keywords": [
+          "博士后研究",
+          "生成式AI",
+          "全球顶尖奖学金"
+        ],
+        "journal_name": "Google PhD Fellowship",
+        "research_fields": [
+          "人工智能",
+          "机器学习",
+          "生成式模型"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "AAAI New Faculty Highlight (2024)",
+        "keywords": [
+          "学术新星",
+          "人工智能前沿研究",
+          "青年学者奖励"
+        ],
+        "journal_name": "AAAI",
+        "research_fields": [
+          "人工智能",
+          "机器学习",
+          "计算机视觉"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "6次CVPR比赛冠军",
+        "keywords": [
+          "CVPR竞赛",
+          "生成式AI",
+          "多模态生成",
+          "图像生成"
+        ],
+        "journal_name": "CVPR Competition",
+        "research_fields": [
+          "计算机视觉",
+          "生成式人工智能",
+          "多模态学习"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "AI4Science: Cross-disciplinary Research in Chemistry, Biology, Physics, and Medicine",
+        "keywords": [
+          "AI4Science",
+          "跨学科研究",
+          "生成式AI",
+          "科学计算"
+        ],
+        "journal_name": "Top-tier AI Journals/Conferences",
+        "research_fields": [
+          "人工智能",
+          "AI4Science",
+          "多模态学习"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "个人主页",
+        "url": "https://yu-wu.net/"
+      },
+      {
+        "platform": "谷歌学术",
+        "url": "https://scholar.google.com.au/citations?user=23SZHUwAAAAJ&hl=en"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家海外优青"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家海外高层次人才引进计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 武宇\n页面链接: http://jszy.whu.edu.cn/wuyu7/zh_CN/index.htm\n==================================================\n武汉大学 武宇--中文主页--首页\nEnglish\n中文\n武宇\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n出生日期：1993-10-01\n入职时间：2022-10-01\n学历：博士研究生毕业\n办公地点：计算机学院D507\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：悉尼科技大学\n所属院系：\n计算机学院\n学科：\n个人简介\n武宇，本科毕业于上海交通大学，博士毕业于悉尼科技大学，后于普林斯顿大学从事博士后研究，于2022年10月全职加入武汉大学计算机学院担任教授、博士生导师。\n武宇教授主要从事生成式人工智能、多模态机器学习相关的研究，长期担任CVPR、NeurIPS等人工智能顶会的领域主席，是计算机视觉顶级会议CVPR 2023大会的主要组织者之一（大会Workshop Chair）。曾获得2020年Google PhD Fellowship奖励（全球范围每年仅10位获奖者）、2024年AAAI学术新星奖（AAAI New Faculty Highlight)，入选国家海外优青高层次青年人才项目。在人工智能顶级会议/期刊上发表50余篇论文，6次获得CVPR比赛冠军，目前谷歌学术引用数量超过5000次。\n个人主页：https://yu-wu.net/\n谷歌学术：https://scholar.google.com.au/citations?user=23SZHUwAAAAJ&hl=en\n欢迎感兴趣的本科生、研究生、博士生！！同时长年开放重点资助博士后岗位（年薪不低于40万/年）。\n26级博士还有名额！欢迎邮件联系！\n请感兴趣的同学发送邮件到wuyucs@whu.edu.cn ，并附上简历。\n学生培养：\n• 一手的科研指导：对初学者低年级同学，提供从idea到实验再到写作的全方位指导。\n• 自由的科研环境：对中高年级同学，提供充分的研究自由度，尊重学生的想法，开放式的科研交流。\n• 充足的成长空间：支持鼓励优秀的博士生海外访问（如普林斯顿等），提供与行业大牛（如浙大求是讲席教授杨易教授，ImageNet一作、ECCV PC主席Olga Russakovsky教授）等合作交流的机会。\n研究领域:\n人工智能、计算机视觉、机器学习\n已有研究方向有生成式AI、多模态学习、AI4Science等，也开放更多更新的人工智能相关研究课题（方向open，只要能说服我新方向的意义）。\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n[1].AI4Science：计算机与化学、生物、物理、医学的交叉研究\n[2].多模态学习：AIGC图文生成、音频生成、跨模态检索、captioning等各类多模态任务\n[3].计算机视觉：生成式AI，以及分类、分割、检测等各类视觉基础任务\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

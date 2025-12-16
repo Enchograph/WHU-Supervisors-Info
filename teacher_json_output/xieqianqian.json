@@ -1,0 +1,196 @@
+{
+  "id": "xieqianqian",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xieqianqian/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "谢倩倩",
+    "english_name": "Qianqian Xie",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "人工智能学院",
+    "college": "人工智能学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "人工智能/自然语言处理",
+        "school": "武汉大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2024年国家高层次青年人才项目（海外）",
+      "2025年CCF-腾讯犀牛鸟基金项目",
+      "湖北省科技进步二等奖",
+      "CCL 2024亮点英文论文奖",
+      "csc奖学金",
+      "雷军奖学金"
+    ],
+    "academic_services": [
+      "ACL 2023、EMNLP 2023、ACL 2025、NeurIPS 2025、COLING 2025、EMNLP 2025、LREC 2026 领域主席",
+      "FinNLP-FNP-LLMFinLegal @ COLING-2025 大会联合主席",
+      "IJCAI-2024 和 ACL 2023 评测任务组织者",
+      "NeurIPS/ICLR/ICML/ACL/EMNLP/NAACL/KDD/npj Digital Medicine 等会议和期刊审稿人",
+      "英国罗素大学集团 University Research Fellowships 2023 基金评审人",
+      "欧洲生物信息研究所专题研讨会主讲嘉宾",
+      "美国国家卫生院 (NIH) 课程 BIOF 395 客座讲师",
+      "耶鲁大学课程 CBB 574 客座讲师"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "推理与可解释性",
+      "医学与金融自然语言处理",
+      "AI+心理健康",
+      "AI+文学"
+    ],
+    "research_interests": [
+      "大语言模型推理能力",
+      "可解释性",
+      "可控性",
+      "领域知识融合",
+      "生成式AI稳健性",
+      "事实准确性",
+      "决策推理",
+      "情绪识别",
+      "心理风险预测",
+      "个性化对话系统",
+      "文学创作",
+      "跨语言翻译",
+      "文化传播",
+      "低资源语言翻译",
+      "本地化"
+    ],
+    "research_description": "长期从事自然语言处理研究，聚焦大语言模型在医学、金融等高风险场景下的推理能力、可解释性与可控性提升，结合领域知识增强生成式AI的稳健性与事实准确性。同时探索AI在心理健康服务、文学创作与跨文化传播中的应用，推动多模态数据融合与低资源语言处理技术发展。相关成果涵盖开源数据集、基准评测、大模型系统与隐私保护方案，广泛应用于国际权威评测任务。",
+    "disciplines": [
+      "计算机科学",
+      "人工智能",
+      "自然语言处理",
+      "医学信息学",
+      "心理健康技术",
+      "计算语言学"
+    ],
+    "field_tags": [
+      "大语言模型",
+      "可解释AI",
+      "生成式AI",
+      "医疗NLP",
+      "金融NLP",
+      "心理健康AI",
+      "文学生成",
+      "跨语言翻译",
+      "低资源语言",
+      "多模态AI",
+      "开源社区",
+      "基准评测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "面向医疗与金融领域的生成式AI可解释性研究",
+        "keywords": [
+          "自然语言处理",
+          "大语言模型",
+          "可解释性",
+          "医疗NLP",
+          "金融NLP"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "自然语言处理",
+          "人工智能与医疗",
+          "生成式AI"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于领域知识增强的金融大语言模型构建",
+        "keywords": [
+          "金融自然语言处理",
+          "大语言模型",
+          "知识融合",
+          "事实准确性"
+        ],
+        "journal_name": "npj Digital Medicine",
+        "research_fields": [
+          "金融AI",
+          "生成式AI",
+          "可解释AI"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "跨语言文学生成与文化传播中的大模型应用",
+        "keywords": [
+          "文学生成",
+          "跨语言翻译",
+          "文化传播",
+          "低资源语言"
+        ],
+        "journal_name": "TOIS",
+        "research_fields": [
+          "自然语言处理",
+          "人工智能与文化",
+          "多语言AI"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "个人主页",
+        "url": "https://qianqian-xie.github.io"
+      },
+      {
+        "platform": "谷歌学术",
+        "url": "https://scholar.google.com/citations?user=UYW7X_0AAAAJ"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973计划",
+      "863计划",
+      "K99/R00 Pathway to Independence Award",
+      "CCF-腾讯犀牛鸟基金项目",
+      "国家高层次青年人才项目（海外）"
+    ],
+    "funding_agencies": [
+      "美国国家卫生院 (NIH)",
+      "国家自然科学基金委员会",
+      "中国计算机学会 (CCF)",
+      "腾讯公司",
+      "英国罗素大学集团"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 谢倩倩\n页面链接: http://jszy.whu.edu.cn/xieqianqian/zh_CN/index.htm\n==================================================\n武汉大学 谢倩倩--中文主页--首页\nEnglish\n中文\n谢倩倩\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Qianqian Xie\n电子邮箱：\n职务：教授\n学历：博士研究生毕业\n办公地点：武汉大学人工智能学院A231\n性别：女\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n学科：\n个人简介\n长期从事自然语言处理的研究，在国际顶级会议NeurIPS/ACL/EMNLP/NAACL/KDD/SIGIR/WWW/ICDM/COLING和国际顶级期刊Nature Communications/npj Digital Medicine/TOIS/TKDE等发表论文60 余篇。截止2025年为止，相关github开源项目获得累计星标2000+, 多个开源的数据集成为领域内的评估基准并被用于组织国际权威的ACL-BioNLP 和IJCAI的评测任务，吸引了包括密歇根大学和佐治亚理工等国内外知名机构在内的两百多个队伍参加。相关的开源金融和医疗大语言模型下载量已超过12400次，数据下载量超过73800次。受邀担任ACL 2023、EMNLP 2023, ACL 2025, NeurIPS 2025, COLING 2025, EMNLP 2025, LREC 2026的领域主席，担任 FinNLP-FNP-LLMFinLegal @ COLING-2025 的大会联合主席，同时也是IJCAI-2024 和ACL 2023 评测任务的组织者。长期担任NeurIPS/ICLR/ICML/ACL/EMNLP/NAACL/KDD/ npj Digital Medicine等会议和期刊的审稿人，担任了英国罗素大学集团University Research Fellowships 2023的基金评审人。受邀担任欧洲生物信息研究所组织的专题研讨会的主讲嘉宾，美国国家卫生院 (NIH) 的课程BIOF 395和的耶鲁大学的课程CBB 574的客座讲师。作为项目主持人，曾获得美国国家卫生院授予的K99/R00: Pathway to Independence Award独立之路奖，4年共计83万美元的资助。入选2024年国家高层次青年人才项目（海外），2025年CCF-腾讯犀牛鸟基金项目。获得湖北省科技进步二等奖1项，CCL 2024亮点英文论文奖，csc奖学金和雷军奖学金。和曼彻斯特大学、耶鲁大学、NYU、哈佛、哥大、明尼苏达大学、蒙特利尔大学等国内外高校保持长期合作。近年来，指导了来自耶鲁大学、哥伦比亚大学、纽约大学、曼彻斯特大学、蒙特利尔大学、新加坡国立大学、清华大学、南京大学、中山大学等国内外知名高校的多位学生。\n欢迎感兴趣加入组里的本科生、硕士生、和博士生联系！同时长年招收研究助理、实习生，访问学生（可远程），长年开放重点资助博士后岗位（年薪不低于30万/年）。博士后申请需要已获得（3年内）或即将获得（相关专业）博士学位。\n个人主页：https://qianqian-xie.github.io\n谷歌学术：https://scholar.google.com/citations?user=UYW7X_0AAAAJ\n学生培养：\n• 一对一的指导，每周至少30分钟1v1 meeting\n• 尊重个人兴趣，鼓励自主课题探索与开放交流。\n• 支持鼓励优秀的学生海外访问，提供与领域顶尖学者合作交流的机会。\n• 支持实习及与工业界的深度合作。\n研究方向：\n推理与可解释性：研究提升大语言模型的推理能力、可解释性和可控性。\n医学与金融自然语言处理：研究如何结合领域知识提高生成式 AI 在高风险场景下的稳健性、事实准确性、决策推理能力与可解释性。从从基准数据集、模型架构、应用落地到隐私保护等各个维度推动大语言模型在垂直领域场景下的发展。\nAI+心理健康：利用大语言模型与多模态数据（文本、语音、结构化医疗数据）等，开发情绪识别、早期心理风险预测与个性化对话式辅导系统等，促进心理健康服务普惠。\nAI+文学：研究大语言模型在文学创作、跨语言翻译和文化传播中的新范式。重点关注网络文学出海、东南亚等低资源语言翻译与本地化。\n也鼓励学生探索更多自己感兴趣的研究领域。\n工作经历：\n教授，武汉大学，人工智能学院, 2025.05 -- 至今\n副研究科学家, 耶鲁大学，医学院, 合作导师：Hua Xu，2024.09 -- 2025.04\n博士后研究员, 耶鲁大学，医学院, 合作导师：Hua Xu，2023.07 -- 2024.09\n博士后研究员, 康奈尔大学，医学, 合作导师：Fei Wang，2022.09 -- 2023.07\n助理研究员, 曼彻斯特大学，计算机科学与技术系, 合作导师：Sophia Ananiadou教授和ACL终身成就奖获得者Junichi Tsujiij教授，2021.02 -- 2022.09\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

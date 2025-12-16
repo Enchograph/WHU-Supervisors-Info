@@ -1,0 +1,123 @@
+{
+  "id": "hewei5",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hewei5/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "贺威",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2012.9 -- 2017.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "IEEE TGRS最佳审稿人",
+      "第九届高校GIS论坛优秀教学成果奖",
+      "RIKEN Research Incentive Award",
+      "The autumn conference of the Remote Sensing Society of Japan (RSSJ) 最佳论文奖",
+      "IEEE GRSS 青年论文奖"
+    ],
+    "academic_services": [
+      "IEEE TGRS 领域副主编",
+      "IEEE Access (Geoscience and Remote Sensing Society Section) 副主编",
+      "《测绘学报》青年编委",
+      "IEEE senior member",
+      "Associate President of IEEE Wuhan Section Geoscience and Remote Sensing Society"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感图像处理",
+      "人工智能与机器学习在遥感中的应用",
+      "高光谱图像重建与融合",
+      "多源遥感数据融合",
+      "智能遥感解译与地物分类"
+    ],
+    "research_interests": [
+      "深度学习",
+      "高光谱遥感",
+      "图像重建",
+      "跨模态融合",
+      "小样本学习",
+      "可解释性AI",
+      "遥感数据融合",
+      "智能计算成像"
+    ],
+    "research_description": "贺威教授主要从事人工智能、机器学习与遥感图像处理的交叉研究，聚焦于高光谱图像重建、多源遥感数据融合、遥感图像智能解译与地物分类等方向。其研究融合了模型驱动与数据驱动方法，致力于提升遥感图像在灾害监测、城市规划、农田监管等领域的应用效能。团队在IEEE TGRS、TPAMI、CVPR、ICCV等顶级期刊和会议发表大量高水平论文，多次获得国际竞赛冠军，研究成果获日本RIKEN研究激励奖、IEEE GRSS青年论文奖等荣誉。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "计算机科学与技术",
+      "人工智能"
+    ],
+    "field_tags": [
+      "遥感图像处理",
+      "高光谱成像",
+      "深度学习",
+      "数据融合",
+      "智能解译",
+      "可解释AI",
+      "多模态学习",
+      "图像重建",
+      "小样本学习",
+      "遥感应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": []
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重大科研仪器研制项目",
+      "重点研发计划",
+      "应急管理部重点科技计划项目",
+      "横向项目",
+      "日本JSPS KAKENHI Grant-in-Aid for Early-Career Scientists",
+      "国家高层次青年人才项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "应急管理部",
+      "日本JSPS",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 贺威\n页面链接: http://jszy.whu.edu.cn/hewei5/zh_CN/index.htm\n==================================================\n武汉大学 贺威--中文主页--首页\n贺威\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：测绘遥感信息工程全国重点实验室\n入职时间： 2022-01-01\n学科：\n摄影测量与遥感\n办公地点：武汉大学 信息学部 星湖综合办公大楼501A\n联系方式：热烈欢迎 遥感/测绘/数学/计算机 相关专业学生报考我组博士、硕士、博士后，同时欢迎有科研兴趣的本科实习生，有意向者请发邮件：weihe1990@whu.edu.cn\n电子邮箱：\n2024曾获荣誉当选：IEEE TGRS最佳审稿人 2021曾获荣誉当选：第九届高校GIS论坛 优秀教学成果奖 2020曾获荣誉当选：RIKEN Research Incentive Award 2019曾获荣誉当选：The autumn conference of the Remote Sensing Society of Japan (RSSJ) 2014曾获荣誉当选：IEEE GRSS 青年论文奖\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n贺威，武汉大学教授、博士生导师。2017年毕业与武汉大学测绘遥感信息工程国家重点实验室。主要从事人工智能、机器学习、遥感图像处理与应用的研究。已发表TPAMI、TCYB、TGRS等SCI期刊论文70余篇，ESI热点论文2篇（地学前0.1%）、ESI高被引论文12篇（地学前1%）；会议论文8篇，其中计算机视觉顶级会议CVPR Oral论文2篇（前5.6%，288/5165）、CVPR Spotlight论文1篇（前5.6%，324/2719/11532）、ECCV Spotlight论文1篇（前5.3%，265/5025）。Google Scholar总引用5000余次。研究成果获日本RIKEN研究激励奖、日本遥感协会最佳论文奖、IEEE国际地球学科与遥感协会最佳论文奖和IEEE国际地球科学与遥感协会数据融合竞赛双赛道冠军等。主持日本国家自然科学基金1项、自然科学基金面上项目1项。获IEEE TGRS最佳审稿人称号。\n个人主页：https://prowdiy.github.io/weihe.github.io/\n长期招收遥感/计算机等专业背景的博士后，欢迎申请！\n最新动态\n2025/09/20:One paper accepted to NeurIPS Datasets and Benchmarks 2025! Congratulations to Xiao An!\n2025/09/20:One paper accepted to IEEE TCVST! Congratulations to Jiepan Li!\n2025/07/14:One paper accepted to ICCV 2025! Congratulations to Zhehui Wu!\n2025/07/14:One paper accepted to ISPRS Journal! Congratulations to Haifeng Wang!\n2025/07/14:One paper accepted to IEEE TCVST! Congratulations to Yong Chen!\n2024/9/15:One paper accepted to IEEE TIP! Congratulations to Yuyan Liu!\n2024/9/15:Two papers accepted to TGRS! Congratulations to Xiao An and Jiaqi Zou!\n2024/9/15: One accepted to TGRS! Congratulations to Yong Chen!\n2024/9/15:One paper (TGRS) has been recognized as the ESI highly cited paper (Top 1%)!\n2024/8/1: One paper accepted to Sustainable Cities and Society! Congratulations to Linxin Li!\n2024/6/10: Two papers accepted to Information Fusion! Congratulations to He Huang!\n2024/6/10: One paper accepted to TGRS! Congratulations to Jiaxin Sun!\n2024/4/15: I was nominated as the Topical Associate Editor of the TGRS\n2024/4/15: I was nominated as the associate editor of the GRSS Section in IEEE Access\n2024/4/15: I was nominated as the young editorial member of <测绘学报>\n2024/4/5: I was nominated as the best reviewer of TGRS2023!\n2024/4/5: One paper accepted to CVPR poster (highlight,11.9%)! Congratulations to Zhuohong LI!\n2024/4/1: We won the double champions of IEEE GRSS DFC2024 (both two tracks)! Congratulations to Jiepan Li and He Huang!\n2024/4/1: One paper accepted to Journal of Hydrology: Regional Studies! Congratulations to Guoyin Yin!2024/4/1: One paper accepted to JAG! Congratulations to Yu Xia!\n2024/4/1: One paper accepted to ISPRS Journal! Congratulations to Man Liu!\n2024/2/4: One paper accepted to TGRS! Congratulations to Jiepan Li!\n2024/1/8: One paper accepted to TIP! Congratulations to Yong Chen!\n2024/1/8: Two papers accepted to TGRS! Congratulations to Yong Chen and Yu Xia!\n学生培养\n2025年，第二届“高分对地观测应用技术创新大赛”二等奖，获奖学生：盛宇、李杰潘、黄和、张芷维，指导老师：贺威\n2025年，IEEE国际地球科学与遥感学会数据融合大赛，冠军，获奖学生：李杰潘、黄和、盛宇、郭瑜君，指导老师：贺威\n2024年，中国国际大学生创新大赛（互联网+），全国银奖（湖北金奖），获奖学生：邹佳琦、孙煜航、、张昕、范舒然、陈阳、缪语涵、胡成超、胡喆宇、钟晨、李旭东、徐敬娴、宋阳、王鑫、李卓鸿、刘曼，指导老师：贺威、杨光义、李德仁、郑先伟、张良培、张洪艳\n2024年，lEEE WHISPERS 多模态遥感融合竞赛，冠军，获奖学生：李杰潘、黄和、夏宇\n2024年，CVPR小样本土地制图挑战赛，冠军，获奖学生：李卓鸿、卢方骁、邹佳琦、胡磊\n2024年，IEEE国际地球科学与遥感学会数据融合大赛，双赛道冠军，获奖学生：李杰潘、黄和，指导老师：贺威、张洪艳、张良培\n2023年，中国国际大学生创新大赛（互联网+），全国银奖，获奖学生：宋阳、汪雨晴、王文宇等，指导老师：杨光义、吕龙飞、张沪寅、张洪艳、贺威、张良培、李星华、郑先伟\n2023年，Agro-Geoinformatics 2023，最佳学生论文竞赛三等奖，获奖学生：程谟凡，指导老师：张洪艳、贺威\n2023年，第五届中国湿地遥感大会，优秀报告奖，获奖学生：邹佳琦，指导老师：张洪艳、贺威\n2023年，IEEE WHISPERS会议跨城市多模态语义分割大赛，亚军，获奖学生：邹佳琦、李卓鸿、卢方骁，指导老师：张洪艳、贺威\n2022年，地球空间信息科学国际博士生论坛，最佳报告奖，获奖学生：邹佳琦，指导老师：张洪艳、贺威\n2022年，“欧比特杯”全国高光谱卫星遥感影像智能处理与行业应用大赛，一等奖，获奖学生：邹佳琦，指导老师：张洪艳、贺威\n科研项目\n2024年，共口径全谱段智能机载光学成像系统，自然基金委国家重大科研仪器研制项目，课题PI （基于用户需求和环境感知的智能计算成像技术）\n2024年，露天矿山等重要目标卫星遥感智能监测关键技术研发，应急管理部重点科技计划项目，课题PI （多源国产民用遥感卫星协同观测 与数据融合重建）\n2024年，长江流域全覆盖水监控系统建设遥感智能解译模型多源影像泛化方法研究，横向项目，PI\n2022年，混合噪声条件下的可解释性高光谱深度融合方法研究，自然基金委面上，PI\n2022年，高标准农田天空地一体化智慧监管技术与应用，科技部重点研发，子课题PI（面向农田多要素数据获取的卫星组网与数据融合技术）\n2021年，高时-空-谱遥感压缩计算成像与重建理论方法研究，国家高层次青年人才项目，PI\n2019年，Generative Adversarial Networks Based Multi-Sensor Remote Sensing Image Translation for Disaster Damage Mapping，日本JSPS KAKANHI Grant-in-Aid for Early-Career Scientists，PI\n代表性期刊论文 （https://prowdiy.github.io/weihe.github.io/publication.html）\nHaifeng Wang, Wei He*, Zhuohong Li, Naoto Yokoya,\"Cross-scenario damaged building extraction network: Methodology, application, and efficiency using single-temporal HRRS imagery\",ISPRS, 2025.\nYong Chen, Feiwang Yuan, Wenzhen Lai, Jinshan Zeng*, Wei He*, Qing Huang,\"Low-Rank Tensor Meets Deep Prior: Coupling Model-Driven and Data-Driven Methods for Hyperspectral Image Reconstruction\",IEEE TCSVT, 2025.\nJiaqi Zou, Wei He, Haifeng Wang, Hongyan Zhang,\"SAM-CTMapper: Utilizing segment anything model and scale-aware mixed CNN-Transformer facilitates coastal wetland hyperspectral image classification\",JAG, 2025.\nJiepan Li, Wei He*, Zhuohong Li, Yujun Guo, Hongyan Zhang,\"Overcoming the uncertainty challenges in detecting building changes from remote sensing images\",ISPRS, 2025.\nYuyan Liu, Wei He, Hongyan Zhang,\"GRiD: Guided Refinement for Detector-free Multimodal Image Matching\",TIP, 2024.\nXiao An, Wei He*, Jiaqi Zou, Guangyi Yang, Hongyan Zhang,\"Pretrain a Remote Sensing Foundation Model by Promoting Intra-instance Similarity\",TGRS, 2024. [paper]\nMofan Cheng, Wei He, Zhuohong Li, Guangyi Yang, Hongyan Zhang,\"Harmony in diversity: Content cleansing change detection framework for very-high-resolution remote-sensing images\",ISPRS, 2024. [papar]\nLinxin Li, Ting Hu, Guangyi Yang, Wei He, Hongyan Zhang,\"High-resolution comprehensive regional development mapping using multisource geographic data\",Sustainable Cities and Society, 2024.\nWei He*, Zongliang Wu, Naoto Yokoya, and Xin Yuan,\"An Interpretable and Flexible Fusion Prior to Boost Hyperspectral Imaging Reconstruction\",Information Fusion, 2024.\nHe Huang, Wei He*, Hongyan Zhang, Yu Xia, and Liangpei Zhang,\"STFDiff: Remote sensing image spatiotemporal fusion with diffusion models\",Information Fusion, 2024.\nYu Xia, Wei He, Qi Huang, Guoying Yin, Wenbin Liu, Hongyan Zhang,\"CRformer: Multi-modal data fusion to reconstruct cloud-free optical imagery\",JAG, 2024. [code] [SMILE-CR数据]\nJiepan Li, Wei He*, Weinan Cao, Liangpei Zhang, Hongyan Zhang,\"UANet: an Uncertainty-Aware Network for Building Extraction from Remote Sensing Images\",TGRS, 2024. [papar] [github] (ESI highly cited paper)\nYong Chen, Wenzhen Lai, Wei He*, Xi-Le Zhao, Jinshan Zeng*,\"Hyperspectral Compressive Snapshot Reconstruction via Coupled Low-Rank Subspace Representation and Self-Supervised Deep Network\",TIP, 2024. [papar] (ESI highly cited paper)\nYujun Guo, Wei He, Yu Xia, Hongyan Zhang,\"Blind Single-Image-based Thin Cloud Removal using a Cloud Perception Integrated Fast Fourier Convolutional Network\",ISPRS, 2023. [papar]\nLei Hu, Wei He*, Liangpei Zhang, and Hongyan Zhang,\"Cross-Domain Meta-Learning under Dual Adjustment Mode for Few-Shot Hyperspectral Image Classification\",TGRS, 2023. [code] [papar]\nZhuohong Li, Wei He, Mofan Cheng, Jingxin Hu, Guangyi Yang, and Hongyan Zhang,\"SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data\",Earth System Science Data, 2023. [papar] [data]\nYuting Wan, Ailong Ma, Wei He, Yanfei Zhong,\"Accurate Multi-Objective Low-Rank and Sparse Model for Hyperspectral Image Denoising Method\",IEEE Transactions on Evolutionary Computation 2023. (ESI highly cited paper)\nWei He, Yong Chen, Naoto Yokoya, Chao Li, and Qibin Zhao,\"Hyperspectral super-resolution via coupled tensor ring factorization\",Pattern Recognition, 2021. [arXiv] [link] [code]\nWei He*, Naoto Yokoya, Xin Yuan,\"Fast Hyperspectral Image Recovery of Dual-Camera Compressive Hyperspectral Imaging via Non-iterative Subspace-based Fusion,\"TIP2021. [arXiv] [code]\nWei He, Quanming Yao, Chao Li, Naoto Yokoya, Qibin Zhao, Hongyan Zhang, Liangpei Zhang,\"Non-local Meets Global: An Integrated Paradigm for Hyperspectral Restoration\",TPAMI 2022. (highly cited paper)  [NGmeet_denoising]  [NGmeet_CS] [arXiv]\nLinxi Huan, Nan Xue, Xianwei Zheng, Wei He, Jianya Gong, Gui-Song Xia,\"Unmixing Convolutional Features for Crisp Edge Detection\",TPAMI2022. [arXiv] [code]\nHongyan Zhang, Jinyi Cai, Wei He*, Liangpei Zhang,\"Double Low-Rank Matrix Decomposition for Hyperspectral Image Denoising and Destriping\",TGRS2021. (ESI highly cited paper) [paper]\nDanfeng Hong, Wei He*, Naoto Yokoya, Jing Yao, Lianru Gao*, Liangpei Zhang, Jocelyn Chanussot, Xiao Xiang Zhu,\"Interpretable Hyperspectral AI: When Non-Convex Modeling meets Hyperspectral Remote Sensing\",IEEE Geoscience and Remote Sensing Maganize 2021. (ESI hot paper, highly cited paper) [arXiv]\nNaoto Yokoya, Kazuki Yamanoi, Wei He, Gerald Baier, Bruno Adriano, Hiroyuki Miura, Satoru Oishi,\"Breaking the Limits of Remote Sensing by Simulation and Deep Learning for Flood and Debris Flow Mapping\",TGRS2020. (highly cited paper) [arXiv]\nYong Chen, Ting-Zhu Huang*, Wei He*, Naoto Yokoya, Xi-Le Zhao,\"Hyperspectral Image Compressive Sensing Reconstruction Using Subspace-based Non-local Tensor Ring Decomposition\",TIP 2020. [pdf]\nHongyan Zhang, Lu Liu, Wei He*, and Liangpei Zhang,“Hyperspectral Image Denoising With Total Variation Regularization and Nonlocal Low-Rank Tensor Decomposition”,TGRS 2019. (highly cited paper) [paper]\nYong Chen, Wei He*, Naoto Yokoya, and Ting-Zhu Huang,“Hyperspectral Image Restoration Using Weighted Group Sparsity Regularized Low-Rank Tensor Decomposition”,IEEE Transactions on Cybernetics (TCYB) 2019. (highly cited paper) [code]\nW. He, H. Zhang, H. Shen, and L. Zhang,“Hyperspectral Image Denoising Using Local Low-Rank Matrix Recovery and Global Spatial-Spectral Total Variation,”IEEE J. Sel.Topics Appl. Earth Observ. Remote Sens., vol. 11, no. 3, pp. 713-729, 2018. (ESI highly cited paper) [code]\nW. He, H. Zhang, L. Zhang,“Total Variation Regularized Reweighted Sparse Nonnegative Matrix Factorization for Hyperspectral Unmixing,”IEEE Trans. Geosci. Remote Sens., vol. 55, no. 7, pp. 3909-3921, 2017. (highly cited paper) [code]\nW. He, H. Zhang, L. Zhang, H. Shen,\"Total-Variation-Regularized Low-rank Matrix Factorization for Hyperspectral Image Restoration\",IEEE Trans. Geosci. Remote Sens., vol. 54, pp. 178-188, Jan. 2016. (highly cited paper) [code]\nH. Zhang, W. He, L. Zhang, H. Shen, Q. Yuan,\"Hyperspectral Image Restoration Using Low-Rank Matrix Recovery\",IEEE Trans. Geosci. Remote Sens., vol. 52, no. 8, pp. 4729-4743, 2014. (ESI hot paper, highly cited paper) [code]\n代表性会议论文 （https://prowdiy.github.io/weihe.github.io/publication.html）\nZhehui Wu, Yong Chen, Naoto Yokoya, Wei He*\"MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration\",ICCV, 2025.\nZhuohong Li, Wei He, Jiepan Li, Fangxiao Lu, Hongyan Zhang\"Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels\",CVPR poster (spotlight, 11.9%), 2024.  [paper]\nWei He, Quanming Yao, Naoyo Yokoya, Tatsumi Uezato, Hongyan Zhang, Liangpei Zhang\"Spectrum-aware and Transferable Architecture Search for Hyperspectral Image Restoration\",ECCV, 2022.  [paper]  [slides]  [video]\nZiqiao Wang, Hongyan Zhang*, Wei He*, Liangpei Zhang,\"Phenology Alignment Network: A Novel Framework for Cross-Regional Time Series Crop Classification\",CVPRW, 2021. [paper]\nTatsumi Uezato, Danfeng Hong, Naoto Yokoya, and Wei He,\"Guided Deep Decoder: Unsupervised Image Pair Fusion\",ECCV, 2020, spotlight. [paper] [code]\nWei He,Quanming Yao, Chao Li, Naoto Yokoya, Qibin Zhao,\"Non-local Meets Global: An Integrated Paradigm for Hyperspectral Denoising\",CVPR, 2019. (oral, 288/1300/5165)  [slides] [paper]\nChao Li, Wei He, Longhao Yuan, Zhun Sun, Qibin Zhao,\"Guaranteed Matrix Completion under Multiple Linear Transformations\",CVPR, 2019. (oral, 288/1300/5165)  [slides]\nWei He*, Longhao Yuan, Naoto Yokoya,\"Total-variation-regularized tensor ring completion for remote sensing image reconstruction\",ICASSP, 2019.\nW. He, H. Zhang, L. Zhang, H. Shen,\"A Noise-Adjusted Iterative Randomized Singular Value Decomposition Method for Hyperspectral Image Denoising\",IGRASS 2014, Quebec, Canada, 13–18 July, 2014. (2014 IEEE GARSS Student Paper Contest Top 3)  [slides]\n教育经历\n2012.9 -- 2017.6\n武汉大学\n摄影测量与遥感\n博士研究生毕业\n博士研究生结业\n工作经历\n2022.1 -- 至今\n武汉大学\n测绘遥感信息工程国家重点实验室 （LIESMARS）\n教授\n2018.1 -- 2021.11\n日本 理化研究所 先端智能实验室 （RIKEN AIP）\n研究员\n社会兼职\n2023.4 -- 至今\nIEEE senior member\n2023.4 -- 至今\nAssociate President of IEEE Wuhan Section Geoscience and Remote Sensing Society\n2024.4 -- 至今\nIEEE TGRS 领域副主编\n2024.3 -- 至今\nIEEE access （Geoscience and Remote Sensing Society Section）副主编\n2023.7 -- 至今\nGSIS期刊青年编委\n团队成员\n团队名称： EarthVision&Application\n程谟凡\n郭瑜君\n刘曼\n胡磊\n李杰潘\n王海峰\n卢方骁\n黄和\n薛若尧\n吴哲晖\n安潇\n团队名称： 毕业学生去向\n许晓斌-山东科...\n尹国应-江苏省...\n夏宇-鹏城实验室\n李卓鸿\n邹佳琦\n刘宇雁-安徽理...\n李琳鑫\n孙嘉星\n王梦园\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

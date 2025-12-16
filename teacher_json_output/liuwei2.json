@@ -1,0 +1,197 @@
+{
+  "id": "liuwei2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuwei2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘威",
+    "english_name": "Wei Liu",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "集成电路学院",
+    "college": "集成电路学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "本科",
+        "field": "",
+        "school": "武汉大学",
+        "period": "2000",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "",
+        "school": "武汉大学",
+        "period": "2003",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "",
+        "school": "武汉大学",
+        "period": "2008",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "工信部 集成电路领军人才",
+      "科技部 集成电路国家级“优青”人才",
+      "湖北省科技厅 自然科学奖 一等奖（2014）",
+      "湖北省科技厅 自然科学奖 一等奖（2021）"
+    ],
+    "academic_services": [
+      "湖北省物理学会 副秘书长",
+      "湖北省半导体行业协会 副会长",
+      "武汉大学半导体校友会 副会长",
+      "湖北青科协 理事",
+      "Nanotechnology 客座编辑"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "芯片设计",
+      "下一代基于AI的芯片设计自动化 (EDA)"
+    ],
+    "research_interests": [
+      "芯片设计",
+      "AI驱动的EDA",
+      "集成电路设计",
+      "芯片制造工艺",
+      "RISC-V架构"
+    ],
+    "research_description": "长期从事芯片设计与芯片设计自动化软件（EDA）的研究工作，聚焦于下一代基于人工智能的芯片设计自动化技术。实验室拥有全套正版EDA工具、大型服务器工作站及超大GPU集群，与国内主流芯片设计与制造企业保持广泛合作，致力于推动AI在芯片设计中的应用与创新。",
+    "disciplines": [
+      "集成电路科学与工程",
+      "电子科学与技术",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "芯片设计",
+      "AI-EDA",
+      "RISC-V",
+      "集成电路创新",
+      "EDA工具",
+      "半导体技术"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Advanced Functional Materials",
+        "keywords": [
+          "纳米材料",
+          "功能材料",
+          "生物医学应用",
+          "电化学"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "材料科学",
+          "纳米技术",
+          "生物医学工程"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "ACS Nano",
+        "keywords": [
+          "纳米颗粒",
+          "生物成像",
+          "药物递送",
+          "表面修饰"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "纳米科技",
+          "生物材料",
+          "药物递送系统"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "NANO LETTERS",
+        "keywords": [
+          "纳米结构",
+          "电化学传感器",
+          "生物检测",
+          "微纳制造"
+        ],
+        "journal_name": "NANO LETTERS",
+        "research_fields": [
+          "纳米技术",
+          "传感器",
+          "生物医学检测"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Theranostics",
+        "keywords": [
+          "诊疗一体化",
+          "纳米药物",
+          "癌症治疗",
+          "生物成像"
+        ],
+        "journal_name": "Theranostics",
+        "research_fields": [
+          "纳米医学",
+          "精准医疗",
+          "癌症治疗"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Advanced Materials",
+        "keywords": [
+          "先进材料",
+          "功能材料",
+          "光电性能",
+          "柔性电子"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "材料科学",
+          "先进功能材料",
+          "电子器件"
+        ],
+        "publication_year": 2016
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuwei2/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘威\n页面链接: http://jszy.whu.edu.cn/liuwei2/zh_CN/index.htm\n==================================================\n武汉大学 刘威--中文主页--首页\nEnglish\n首页\n科学研究\n教学研究\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n刘威 教授、博导、集成电路学院-教授委员会主任\n研究方向： 芯片设计，下一代基于AI的芯片设计自动化 ( EDA )联系方式： wliu@whu.edu.cn\n一、学习工作经历：\n2000、2003、2008          武汉大学                               本科、硕士、博士，\n2015.1~2016.2，             约翰霍普金斯大学                 访问学者。\n目前：\n武汉大学集成电路学院                 教授，博士生导师，教授委员会主任\n湖北省半导体行业协会                副会长\n湖北省物理学会                             副秘书长\n武汉大学半导体校友会                副会长\n武汉大学物理科学与技术学院     教授，博士生导师\n二、荣誉：\n工信部                                  集成电路领军人才\n科技部                                  集成电路国家级“优 青”人才\n湖北省科技厅                      自然科学奖           一等奖（2014）(5)\n湖北省科技厅                      自然科学奖           一等奖（2021）(3)\n三、社会兼职：\n湖北省物理学会                     副秘书长\n湖北省半导体行业协会           副会长\n武汉大学半导体校友会           副会长\n湖北青科协                             理事\nNanotechnology                    客座编辑\n五、教学：\n本科教学：     《电路分析》  《模拟电路》   《数字集成电路设计》  《硅芯片制造工艺综合实验》\n研究生教学：   《高等数字集成电路设计》\n六、指导研究生：\nNew!  热烈祝贺陈杰、王文豪、朱沛然获2023年集成电路创新创业大赛全国总决赛一等奖！\n(以总成绩排名全国第一获企业大奖),\n祝贺陈杰同学集创赛作品作为学生代表成果进入130年校庆成果展.\n祝贺研究生一年级陈杰同学获研究生国家奖学金\nNew!  热烈祝贺胡蕴豪、朱开本、贺书培获2022年集成电路创新创业大赛全国总决赛一等奖！\n武汉大学珞珈十大风云学子：饶浪       （top 0.2‰，武大学生最高荣誉）\n武汉大学十大学术之星：饶浪           （top 0.5‰，武大研究生最高荣誉）\n武汉大学学术创新一等奖：饶浪         （top 1‰）\n研究生国家奖学金：罗达明，饶浪，孟倩芳,  陈杰     （top 5‰）\n华为奖学金：饶浪\n中国研究生电子设计竞赛华中区二等奖。   2012， 涂思聪，冯芳，付建航\n中国研究生电子设计竞赛华中区二等奖。   2013， 黄海林，湛彬彬，王文欢\n中国研究生电子设计竞赛华中区一等奖。   2014， 甘奇，马驰，刘畅\n中国研究生电子设计竞赛华中区一等奖。   2015， 李明，罗达明，喻晗\n中国研究生电子设计竞赛华中区一等奖。  2016， 高松，周小模，冯立志\n中国研究生电子设计竞赛华中区二等奖。  2017， 何鑫，陈爽，刘文涛\n指导了30多位芯片设计的硕士和博士，2022、2023两次获研究生集成电路创新创业大赛国赛一等奖。 其中陈杰团队获Risc-V赛道全国第一名,课题组近几年毕业的学生，都在华为海思（阮宇鹏、柴卓敏）；烽火微电子（张浩）；汇顶科技（马彬）；比亚迪微电子（苏兴、吴文韬）；杭州士兰微（陈杰）；阿里平头哥（王文豪）；京微齐力fpga（胡亚群，朱新凯，喻岚鑫）；王宇飞（南科大）；英集微（朱峰，夏睦威）；帝奥微（刘腾飞）等国内头部的芯片设计部门。\n七、主持科研项目：\n国家“十四五”重点研发计划(2022YFA1402503)     2022             （子课题）\n国防专项(***芯片研究)                                                            2023\n科技部重点专项(2020YFF0426493)           2020      (首席)\n国家自然科学基金\"优 青\"(61722405)          2017                  (主持)\n国家“十三五”重点研发计划(2016YFC1000701)     2016             （子课题）\n国家重大仪器专项(81527801)                                            2016               （子课题）\n国家自然科学基金面上项目   2015\n国家自然科学基金面上项目   2013\n国家自然科学基金青年项目   2009\n国家“十一五”重点研发计划 2010                （子课题）\n中央高等院校专项                    2010\n八、研究兴趣：   芯片设计，下一代基于AI的芯片设计自动化( EDA )\n研究方向简介：   多年从事芯片设计，芯片设计自动化软件 ( EDA )研究工作。在芯片设计，芯片设计自动化软件 ( EDA )等方面有多年的技术积累。实验室拥有全套正版EDA设计工具软件，拥大型服务器工作站，可以使用超大计算中心，超大GPU集群。\n实验室和国内主流芯片设计与制造企业有着广泛的合作关系。\n九、论文成果  (*表示通讯作者，论文被引用7000多次)\n论文成果简介：在   Advanced Materials   、ACS Nano、Nano Letters、Advanced Functional Materials、ANGEWANDTE CHEMIE-INTERNATIONAL EDITION  等著名学术期刊上发表SCI论文50余篇。论文他引5000余次；为   Advanced Materials   、Advanced Healthcare Materials、Advanced Functional Materials等20余学术期刊承担审稿服务。\n著作、论文\n---2021---\n1.Ke Ma,Wei Xie,Lei Wang,Dong Wang,Ben Zhong Tang*,Wei Liu*\nAdv. Funct. Mater.     31，2102645 ，2021         (IF=13)\n2. Liu, XD；Chen, B；Wang, GG ；Ma, S ；Cheng, L；Liu, Wei*; Zhou, Li*; Wang, Qu-Quan*\nAdv. Funct. Mater.     31，2104424 ，2021          (IF=13)\n3. Zhang, Taoye;Peng, Wei;Jiang, Wanli;Gao, KF;Liu, Wei*\nACS Applied Materials & Interfaces 13(21): 24543-24552.  2021          (IF=9.8)\n---2019---\n6.Rao, Lang; Wang, Wenbiao; Meng, Qian-Fang; Chen Xiaoyuan*, Sun Zhijun*, Liu Wei*et al.\nAdv. Funct. Mater.   Volume:  29    Issue:  10      1905671   2019         (IF=13)\n5.Lin‐Lin Bu  Lang Rao  Guang‐Tao Yu  Lei Chen  Wei‐Wei Deng  Jian‐Feng Liu  Hao Wu  Qian‐Fang Meng  Shi‐Shang Guo  Xing‐Zhong Zhao  Wen‐Feng Zhang  Guojun Chen  Zhen Gu ,  Zhi‐Jun Sun,*  Wei Liu*\nAdv. Funct. Mater.   Volume:  29    Issue:  10      807733   2019         (IF=13)\n4.Wei Xie, Wei Wei Deng, Ming Hui Zan, Song Gao, Dao Ming Zhu, Wen Tao Liu, Li Wei Ji, Wen Tao Wu, Bei Chen, Li Ben Chen, Kan Liu, Zhi Jun Sun, Shi-Shang Guo, Hui Ming Huang, Sun Zhijun*, Wei Liu*\nACS Nano  Volume:  13    3   2849-2857     2019           (IF=13)\n5. By: Rao, Lang; Wang, Wenbiao; Meng, Qian-Fang; Liu Wei* , Wu Jianguo*.\nNANO LETTERS  Volume:  19  4    2215-2222   2019           (IF=13)\n2.Weijie Ma1, #, Daoming Zhu2, #, Jinghua Li 1, #, Wei Xie2, #, Xi Chen 1, Xiang Jiang1, Long Wu1, Ganggang Wang1, Yusha Xiao1, Zhisu Liu1, Fubing Wang4, Andrew Li5, Dan Shao3,6, Wen-Fei Dong3,*,  Yufeng Yuan1,*Wei Liu2,*,\nTheranostics\n(IF=9.5)\n1.Wei Xie,  TaiLang Yin,  Yu-Ling Chen,  Dao-Ming Zhu,  Ming-Hui Zan,  Bei Chen,  Li-Wei Ji,  LiBen Chen,  Shi-Shang Guo,  Hui-Ming Huang,  Xing-Zhong Zhao,  Yang Wang,*  Yanting Wu*  and  Wei Liu*\nNanoscale    Volume:  11    Issue:  17       8293-8303        (IF=7.5)\n---2018---\n11.By:Guang-Tao Yu†, Lang Rao†, Hao Wu, Lei-Lei Yang, Wei-Wei Deng, Liang Mao, Jian-Feng Liu, Lei Wu, Xiao-Lin Nan, Wei Liu*, Zhi-Jun Sun*\nAdv. Funct. Mater.                                                   (IF=13)\n10.Lang Rao  QianFang Meng  Qinqin Huang  Zixiang Wang  GuangTao Yu  Andrew Li  Weijie Ma Nangang Zhang  Shi‐Shang Guo  Xing‐Zhong Zhao  Kan Liu  Yufeng Yuan* Liu Wei*;et al.\nAdv. Funct. Mater. 2018, Volume: 57   Issue: 4   Pages: 1803531   2018                                               (IF=13)\n9.By: Rao, Lang; Bu, Lin-Lin; Ma, Liang; Sun Zhijun*; Liu Wei*;et al.\nANGEWANDTE CHEMIE-INTERNATIONAL EDITION  57    4   Pages: 986 2018                                                         (IF=13)\n8.By: Qi, Fei; Wang, Changlei; Cheng, Nian; Liu Wei*; Zhao Xingzhong*et al.\nELECTROCHIMICA ACTA Volume: 282   Pages: 10-15   2018           (IF=4.7)\n7.By: Zan, Minghui; Rao, Lang; Huang, Huiming; Liu Wei*; et al.\nSENSORS AND ACTUATORS B-CHEMICAL Volume: 262   Pages: 555-561    2018         (IF=3.7)\n6.By: Li, R.; Chen, F. F.; Liu, H. Q.; Liu Wei; Guo Shishang*et al.\nACS APPLIED MATERIALS undefinedamp; INTERFACES  Volume: 10   Issue: 19   Pages: 16327-16334   2018                                 (IF=7)\n5.By: Zhu, Dao-Ming; Wu, Lei; Suo, Meng; Liu Wei*;et al.\nNANOSCALE  Volume: 10   Issue: 13   Pages: 6014-6023   2018                   (IF=7)\n4.By: Meng, Qian-Fang; Rao, Lang; Zan, Minghui; Liu Wei*;et al.\nNANOTECHNOLOGY  Volume: 29   Issue: 13    : 134004   2018             (IF=3.7)\n3.By: Zhu, Dao-Ming; Xie, Wei; Xiao, Yu-Sha; Liu Wei*; et al.\nNANOTECHNOLOGY  Volume: 29   Issue: 8     Article Number: 084002   2018           (IF=3.7)\n2.By: Gui, Jinzheng; Zhu, Yezi; Zhang, Lingling; Liu Wei; Guo Shishang* et al.\nAPPLIED PHYSICS LETTERS  Volume: 112   Issue: 7     Article Number: 072902    2018         (IF=3.7)\n1.By: Huang, Qinqin; Wang, Fu-Bing; Yuan, Chun-Hui; Liu Wei;,Zhao Xingzhong*et al.\nTHERANOSTICS  Volume: 8   Issue: 6   Pages: 1624-1635   2018           (IF=8.9)\n---2017---\n5.  By: Rao, Lang; Cai, Bo; Bu, Lin-Lin; Liao, Qing-Quan; Guo, Shi-Shang; Zhao, Xing-Zhong; Dong, Wenfei*; Liu, Wei*;et al.\nACS Nano, 2017, 11   , 4   Pages: 3496-3505   2017         (IF=12)\n4..  By: Lang Rao,Lin-Lin Bu,Qian-Fang Meng,Bo Cai,Wei-Wei Deng,Andrew Li,Kaiyang Li,Shi-Shang Guo,Wen-Feng Zhang,Wei Liu,Zhi-Jun Sun*, Liu Wei*;et al.\nAdvanced Functional Materials, 2017, 10 (1), pp 104774           (IF=13)\n3.. By: Lang Rao, Qian-Fang Meng, Lin-Lin Bu, Bo Cai, Qinqin Huang, Zhi-Jun Sun, Wen-Feng Zhang, Jeff Wang, Shi-Shang Guo, Liu Wei*;et al.\nACS Appl. Mater. Interfaces, 2017, 9 (3), pp 2159–2168         (IF=8.9)\n2. By: Rao, Lang; He, Zhaobo; Meng, Qian-Fang; Liu Wei*; et al.\nJOURNAL OF BIOMEDICAL MATERIALS RESEARCH PART A  Volume: 105   Issue: 2   Pages: 521-530   2017       (IF=3.9)\n1. By: Mehnane, Hadja Fatima; Wang, Changlei; Kondamareddy, Kiran Kumar; Liu Wei*; Guo SS*; Zhao XingZhong*; et al.\nRSC ADVANCES  Volume: 7   Issue: 4   Pages: 2358-2364   Published: 2017         (IF=3.8)\n---2016---\n16. By: Rao, Lang; Bu, Lin-Lin; Cai, Bo;Wang Hao， Liu Wei*; et al.\nADVANCED MATERIALS  Volume: 28   Issue: 18   Pages: 3460-+   2016     (IF=21)\n15. By: Zhang, Zhangyuan; Zou, Xuming; Xu, Lei; Liu Wei; Liao Lei*;et al.\nNANOSCALE  Volume: 7   Issue: 22   Pages: 10078-10084   2015           (IF=7.9)\n14.By: Rao, Lang; Meng, Qian-Fang; Huang, Qinqin; Liu Wei*; et al.\nADVANCED HEALTHCARE MATERIALS  Volume: 5   Issue: 12   Pages: 1420-1427   2016     (IF=6.7)\n13  By: Huang, Qinqin; Cai, Bo; Chen, Bolei; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nADVANCED HEALTHCARE MATERIALS  Volume: 5   Issue: 13   Pages: 1554-1559  2016    (IF=6.7)\n12. By: Rao, Lang; Xu, Jun-Hua; Cai, Bo; Liu Wei*; et al.\nNANOTECHNOLOGY  Volume: 27   Issue: 8     Article Number: 085106   Published: FEB 26 2016\n11. By: Yu, Zhenhua; Qi, Fei; Liu, Pei; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nNANOSCALE  Volume: 8   Issue: 11   Pages: 5847-5851   Published: 2016\n10. By:  Lang Rao, Qian-Fang Meng, Lin-Lin Bu, Bo Cai, Qinqin Huang, Zhi-Jun Sun, Wen-Feng Zhang, Andrew Li, Shi-Shang Guo, Liu Wei*;et al.\nJOURNAL OF BIOMEDICAL MATERIALS RESEARCH PART A  Volume: 105   Issue: 2   Pages: 551-555   Published: NOV 2016\n9. By: Yu, Wenjing; Liu, Yumin; Cheng, Nian; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nELECTROCHIMICA ACTA  Volume: 220   Pages: 398-404   Published: DEC 1 2016\n8. By: Cheng, Nian; Liu, Pei; Qi, Fei; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nJOURNAL OF POWER SOURCES Volume: 332   Pages: 24-29   Published: NOV 15 2016\n7. By: Zhan, Kan; Su, Rui; Bai, Sihang; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nNANOSCALE  Volume: 8   Issue: 42   Pages: 18121-18133   Published: NOV 14 2016\n6. By: Cai, Bo; Rao, Lang; Ji, Xinghu; Liu Wei; Zhao XingZhong*;et al.\nJOURNAL OF BIOMEDICAL MATERIALS RESEARCH PART A  Volume: 104   Issue: 11   Pages: 2854-2860   Published: NOV 2016\n5. By: Cheng, Nian; Liu, Pei; Bai, Sihang; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nJOURNAL OF POWER SOURCES  Volume: 321   Pages: 71-75   Published: JUL 30 2016\n4.By: Cheng, Nian; Liu, Pei; Bai, Sihang; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nJOURNAL OF POWER SOURCES  Volume: 319   Pages: 111-115   Published: JUL 1 2016\n3. By: Cai, Bo; He, Rongxiang; Yu, Xiaolei; Liu Wei; Zhao XingZhong*;et al.\nMICROFLUIDICS AND NANOFLUIDICS  Volume: 20   Issue: 4     Article Number: 56   Published: APR 2016\n2. By: Zhang, Cancan; Yu, Xiaolei; You, Sujian; Liu Wei; Guo SS*; et al.\nBIOMICROFLUIDICS  Volume: 10   Issue:     Article Number: 024106   Published: MAR 2016\n1. By: Yu, Xiaolei; Zhang, Cancan; You, Sujian; Liu Wei; Guo SS*;et al.\nAPPLIED PHYSICS LETTERS  Volume: 108   Issue: 7     Article Number: 073504   Published: FEB 15 2016\n---2015---\n9. By: Rao, Lang; Bu, Lin-Lin; Xu, Jun-Hua; Sun Zhijun*; Liu Wei*; et al.\nSMALL  Volume: 11   Issue: 46   Pages: 6225-6236   Published: DEC 9 2015\n8. By: Rao, Lang; Cai, Bo; Wang, Jieli; Liu Wei*; et al.\nSENSORS AND ACTUATORS B-CHEMICAL  Volume: 210   Pages: 328-335   Published: APR 2015\n7. By: Yu, Xiaolei; Wang, Fubing; Zhang, Nangang; Liu Wei; Guo SS*; et al.\nACS Applied Materials undefinedamp; Interfaces  Volume: 7   Issue: 43   Pages: 24001-24007   Published: NOV 4 2015\n6. By: Yu, Wenjing; Sun, Weiwei; Liu, Yumin; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nELECTROCHIMICA ACTA  Volume: 180   Pages: 705-711   Published: OCT 20 2015\n5. By: Liu, Chang; Hua, Bo; You, Sujian; Liu Wei; Guo SS*; et al.\nAPPLIED PHYSICS LETTERS  Volume: 106   Issue: 16     Article Number: 163901   Published: APR 20 2015\n4. By: Bai, Sihang; Liang, Liangliang; Wang, Changlei; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nJOURNAL OF POWER SOURCES  Volume: 280   Pages: 430-434   Published: APR 15 2015\n3. By: Liu, Hui-qin; Yu, Xiao-lei; Cai, Bo; Liu Wei; Guo SS*;et al.\nAPPLIED PHYSICS LETTERS Volume: 106   Issue: 9     Article Number: 093703   Published: MAR 2015\n2. By: Sun, Weiwei; Liu, Huiqin; Liu, Yumin; Liu Wei;  Zhao XingZhong*;et al.\nNANOSCALE  Volume: 7   Issue: 31   Pages: 13173-13180   Published: 2015\n1. By: Zhang, Lingling; Yu, Xiaolei; You, Sujian; Liu Wei; Guo SS*; et al.\nAPPLIED PHYSICS LETTERS Volume: 107   Issue: 24     Article Number: 242901   Published: DEC 14 2015\n---2014---\n9. By: Cai, Bo; Guo, Feng; Zhao, Libo; Liu Wei*;et al.\nMICROFLUIDICS AND NANOFLUIDICS  Volume: 16   Issue: 1-2   Pages: 29-37   Published: JAN 2014\n8. By: Huang, Qinqin; Chen, Bolei; He, Rongxiang; Liu Wei*; Yuan Jikang*; Zhao XingZhong*;et al.\nADVANCED HEALTHCARE MATERIALS  Volume: 3   Issue: 9   Pages: 1420-1425   Published: SEP 2014\n7. By: Yu, Xiaolei; He, Rongxiang; Li, Shasha; Liu Wei; Guo SS*;et al.\nSMALL  Volume: 9   Issue: 22   Pages: 3895-3901   Published: NOV 25 2013\n6. By: Tong, Zhengfu; Peng, Tao; Sun, Weiwei; Liu Wei*; Guo SS*; Zhao XingZhong*;et al.\nJOURNAL OF PHYSICAL CHEMISTRY C  Volume: 118   Issue: 30   Special Issue: SI   Pages: 16892-16895   Published: JUL 31 2014\n5. By: Zhou, Ziyao; Wang, Jiahong; Nan, Fan; Liu Wei; Zhao XingZhong*;et al.\nNANOSCALE  Volume: 6   Issue: 4   Pages: 2052-2055   Published: 2014\n4. By: You, Sujian; Liu, Chang; Liu, Huiqing; Liu Wei; Guo SS*;et al.\nMATERIALS LETTERS Volume: 130   Pages: 157-159   Published: SEP 1 2014\n3. By: Li, Shasha; Yu, Xiaolei; You, Sujian; Liu Wei; Guo SS*;et al.\nAPPLIED PHYSICS LETTERS Volume: 105   Issue: 4     Article Number: 042903   Published: JUL 28 2014\n2. By: Liu, Haimin; Liang, Liangliang; Peng, Tao; Liu Wei; Zhao XingZhong*;et al.\nELECTROCHIMICA ACTA  Volume: 132   Pages: 25-30   Published: JUN 20 2014\n1. By: Yu, Zhenhua; You, Sujian; Wang, Changlei; Liu Wei;  Zhao XingZhong*;et al.\nJOURNAL OF MATERIALS CHEMISTRY A Volume:   Issue: 24   Pages: 9007-9010   Published: 2014\n---2013年以前---\n1.        Liang, Liangliang; Liu, Yumin; Bu, Chenghao; Liu Wei*;Guo ShiShang*; Zhao XingZhong*;et al.; ADVANCED MATERIALS  Volume: 25   Issue: 15   Pages: 2174-2180   Published: APR 18 2013\n2.       Zhang, Nangang; Deng, Yuliang; Tai, Qidong; Liu Wei; Xiong Bing*，Zhao XingZhong*;et al.;                              ADVANCED MATERIALS  Volume: 24   Issue: 20   Pages: 2756-2760   Published: MAY 22 2012\n3.        Yu, Xiaolei; He, Rongxiang; Li, Shasha; Liu Wei; Guo Shishang*;Zhao XingZhong;et al.;            SMALL  Volume: 9   Issue: 22   Pages: 3895-3901   Published: NOV 25 2013\n4.        Xu, Jun-Hua; Gao, Fu-Ping; Li, Li-Li; Liu Wei; Zhao XingZhong*;et al.; MICROPOROUS AND MESOPOROUS MATERIALS  Volume: 182   Pages: 165-172   Published: DEC 2013\n5.        He, Rongxiang; Zhao, Libo; Liu, Yumin; Liu Wei; Zhao XingZhong*;et al.; BIOMEDICAL MICRODEVICES  Volume: 15   Issue: 4   Pages: 617-626   Published: AUG 2013\n6.        Xie, Yanan; Huang, Niu; Liu, Yumin; Liu Wei; Zhao XingZhong*;et al.; ELECTROCHIMICA ACTA  Volume: 93   Pages: 202-206   Published: MAR 30 2013\n7.        You, S. J.; Ai, L.; Li, D.; Liu Wei; Zhao XingZhong*;et al.; MATERIALS LETTERS Volume: 94   Pages: 183-185   Published: MAR 1 2013\n8.        Xie, Yanan; Huang, Niu; You, Sujian; Liu Wei; Zhao XingZhong*;et al.; JOURNAL OF POWER SOURCES Volume: 224   Pages: 168-173   Published: FEB 15 2013\n9.        Cheng Liang; Gan Zhang-Hua; Liu Wei; Liu Wei*;et al.; ACTA PHYSICA SINICA  Volume: 61   Issue: 23     Article Number: 237107   Published: 2012\n10.    Liu, Kan; Deng, Yuliang; Zhang, Nangang; Liu Wei; Zhao XingZhong*;et al.;MICROFLUIDICS AND NANOFLUIDICS  Volume: 13   Issue: 5   Pages: 761-767   Published: NOV 2012\n11.    Chen, Bo-Lei; Hu, Hao; Tai, Qi-Dong; Liu Wei; Zhao XingZhong*;et al.; ELECTROCHIMICA ACTA  Volume: 59   Pages: 581-586   Published: JAN 1 2012\n12.    Zeng, Q.; Guo, F.; Yao, L.; Liu Wei; Zhao XingZhong*;et al.; SENSORS AND ACTUATORS B-CHEMICAL Volume: 160   Issue: 1   Pages: 1552-1556   Published: DEC 15 2011\n13.    Guo, Zhi-Xiao; Zeng, Qian; Zhang, Meng; Liu Wei; Zhao XingZhong*;et al.; SENSORS AND ACTUATORS A-PHYSICAL  Volume: 172   Issue:   Pages: 546-551   Published: DEC 2011\n14.    Cheng, Wei; Li, Si-Zhe; Zeng, Qian; Liu Wei; Guo Shishang*;et al.; ELECTROPHORESIS  Volume: 32   Issue: 23   Special Issue: SI   Pages: 3371-3377undefinedamp;nnbsp;  Published: NOV 2011\n15.    Zhu, Hong-Wei; Zhang, Nan-Gang; He, Rong-Xiang; Liu Wei*; Zhao XingZhong*; MICROFLUIDICS AND NANOFLUIDICS  Volume: 10   Issue: 6   Pages: 1343-1349   Published: JUN 2011\n16.    Peng, Lu; Yang, Min; Guo, Shi-shang; Liu Wei*; Guo SS; Zhao XingZhong*; BIOMEDICAL MICRODEVICES  Volume: 13   Issue: 3   Pages: 559-564   Published: JUN 2011\n17.   Zhao, Li-Bo; Li, Si-Zhe; Hu, Hao; Liu Wei; Zhao XingZhong*;et al.; MICROFLUIDICS AND NANOFLUIDICS  Volume: 10   Issue:   Pages: 453-458   Published: FEB 2011\n18.    Ji, Xing-Hu; Zhang, Nan-Gang; Cheng, Wei; Liu Wei; Zhao XingZhong*;et al.; JOURNAL OF MATERIALS CHEMISTRY  Volume: 21   Issue: 35   Pages: 13380-13387   Published: 2011\n19.    Ji, Xing-Hu; Cheng, Wei; Guo, Feng; Liu Wei; Zhao XingZhong*;et al.; LAB ON A CHIP  Volume: 11   Issue: 15   Pages: 2561-2568   Published: 2011\n20.    Deng, Yuliang; Zhang, Nangang; Zhao, Libo; Liu Wei; Zhao XingZhong*;et al.; LAB ON A CHIP  Volume: 11   Issue: 23   Pages: 4117-4121   Published: 2011\n21.    Guo, Feng; Liu, Kan; Ji, Xing-Hu; Liu Wei; Zhao XingZhong*;et al.; APPLIED PHYSICS LETTERS Volume: 97   Issue: 23     Article Number: 233701   Published: DEC 6 2010\n22.    Guo, Feng; Ji, Xing-Hu; Liu, Kan; Liu Wei; Zhao XingZhong*;et al.; APPLIED PHYSICS LETTERS  Volume: 96   Issue: 19     Article Number: 193701   Published: MAY 10 2010\n23.    Quan, Zuci; Li, Dan; Sebo, Bobby; Liu Wei; Zhao XingZhong*;et al.; APPLIED SURFACE SCIENCE Volume: 256   Issue: 11   Pages: 3669-3675   Published: MAR 15 2010\n24.      Liu, Wei; He, Rongxiang; Zhu, Hongwei; Zhao XingZhong*;et al.; APPLIED PHYSICS LETTERS  Volume: 96   Issue: 5     Article Number: 053114   Published: FEB 1 2010\n25.    Chen Yu; Chen Wei; Guo Feng; Liu Wei*;et al.; CHINESE PHYSICS B  Volume: 18   Issue: 9   Pages: 3922-3927   Article Number: 1674-1056(2009)18:9<3922:SACOHO>2.0.TX;2-T   Published: SEP 2009\n26.    Quan, Zuci; Hu, Hao; Guo, Shishang; Liu Wei; Zhao XingZhong*;et al.; APPLIED SURFACE SCIENCE  Volume: 255   Issue: 22   Pages: 9045-9053   Published: AUG 30 2009\n27.    Liu, Wei; Chen, Yu; Quan, Zuci; Zhao XingZhong*;et al.; APPLIED PHYSICS LETTERS  Volume: 95   Issue: 8     Article Number: 083125   Published: AUG 24 2009\n28.    Sun, Nanhai; Fang, Guojia; Zheng, Qiao; Liu Wei; Zhao XingZhong*;et al.; SEMICONDUCTOR SCIENCE AND TECHNOLOGY  Volume: 24   Issue: 8     Article Number: 085025   Published: AUG 12 2009\n29.    Yang, Ying; Zhou, Cong-Hua; Xu, Sheng; Liu Wei; Zhao XingZhong*;et al.; NANOTECHNOLOGY  Volume: 20   Issue: 10     Article Number: 105204   Published: MAR 11 2009\n30.    Zhao, L. B.; Pan, L.; Zhang, K.; Liu Wei; Zhao XingZhong*;et al.; LAB ON A CHIP Volume: 9   Issue: 20   Pages: 2981-2986   Published: 2009\n31.    Yang, Ying; Zhou, Cong-hua; Xu, Sheng; Liu Wei; Zhao XingZhong*;et al.; JOURNAL OF POWER SOURCES  Volume: 185   Issue:   Pages: 1492-1498   Published: DEC 1 2008\n32.    Quan, Zuci; Hu, Hao; Xu, Sheng; Liu Wei; Zhao XingZhong*;et al.; JOURNAL OF SOL-GEL SCIENCE AND TECHNOLOGY  Volume: 48   Issue: 3   Pages: 261-266   Published: DEC 2008\n33.    Quan, Zuci; Xu, Sheng; Hu, Hao; Liu Wei; Zhao XingZhong*;et al.;MICROELECTRONIC ENGINEERING Volume: 85   Issue: 11   Pages: 2269-2275   Published: NOV 2008\n34.    Quan, Zuci; Liu, Wei; Hu, Hao; Liu Wei; Zhao XingZhong*;et al.; JOURNAL OF APPLIED PHYSICS  Volume: 104   Issue: 8     Article Number: 084106   Published: OCT 15 2008\n35.    Liu, Wei; Wang, Sheng; Chen, Yu;  Zhao XingZhong*;et al.; SENSORS AND ACTUATORS B-CHEMICAL  Volume: 134   Issue: 1   Pages: 62-65   Published: AUG 28 2008\n36.    Yang, Ying; Zhang, Jing; Zhou, Conghua; Liu Wei; Zhao XingZhong*;et al.; JOURNAL OF PHYSICAL CHEMISTRY B  Volume: 112   Issue: 21   Pages: 6594-6602   Published: MAY 29 2008\n37.    Wang, Sheng; Guo, MingSen; Liu, Wei; Liu Wei; Zhao XingZhong*;et al.; REVIEW OF SCIENTIFIC INSTRUMENTS  Volume: 78   Issue: 7     Article Number: 074702   Published: JUL 2007\n38.    Liu, Wei; Sun, Xiaohua; Han, Hongwei; Zhao XingZhong*;et al.; APPLIED PHYSICS LETTERS Volume: 89   Issue: 16     Article Number: 163122   Published: OCT 16 2006\n39.    Han, HW; Liu Wei;  Zhang, J; Zhao XingZhong*;et al.; ADVANCED FUNCTIONAL MATERIALS  Volume: 15   Issue: 12   Pages: 1940-1944   Published: DEC 2005\n研究方向\n社会兼职\n暂无内容\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n刘威\n个人信息\n教授\n博士生导师\n教师英文名称：Wei Liu\n教师拼音名称：Liu Wei\n出生日期：1979-01-30\n电子邮箱：\n入职时间：2003-07-01\n所在单位：集成电路学院\n性别：男\n联系方式：wliu@whu.edu.cn\n职称：教授\n在职信息：在职\n主要任职：湖北省半导体协会副会长，湖北省物理学会副秘书长\n其他任职：Vice President，Hubei Semiconductor Industry Association\n毕业院校：武汉大学\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

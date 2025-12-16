@@ -1,0 +1,158 @@
+{
+  "id": "zhanghui2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhanghui2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张晖",
+    "english_name": "Hui Zhang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "环境工程",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "化学工程",
+        "school": "华南理工大学",
+        "period": "1992.9 -- 1995.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "化学工程",
+        "school": "成都科技大学(现四川大学)",
+        "period": "1989.9 -- 1992.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "化学工程",
+        "school": "成都科技大学(现四川大学)",
+        "period": "1985.9 -- 1989.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华南理工大学",
+    "academic_honors": [
+      "2020年度Environmental Science & Technology最佳论文奖",
+      "湖北省自然科学三等奖 (2020年，第一完成人)",
+      "湖北省自然科学三等奖 (2017年，第一完成人)",
+      "湖北省自然科学三等奖 (2008年，第三完成人)",
+      "湖北省优秀硕士论文指导教师 (雷洋、黎慧圆)"
+    ],
+    "academic_services": [
+      "《Journal of Hazardous Materials》编委会委员",
+      "《Catalysts》编委会委员",
+      "《Discover Catalysis》编委会委员",
+      "《水处理技术》第十届编委会委员",
+      "《化工环保》第一届编委会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "环境催化",
+      "高级氧化技术"
+    ],
+    "research_interests": [
+      "催化氧化",
+      "污染物降解",
+      "环境功能材料",
+      "水处理技术",
+      "危险废物处理"
+    ],
+    "research_description": "张晖教授长期从事环境催化与高级氧化技术的研究，致力于开发高效催化材料用于环境污染物的降解与治理，特别是在水处理领域具有深厚积累。其研究涵盖新型催化剂设计、高级氧化过程机理探索及实际应用，成果发表于Journal of Hazardous Materials、Environmental Science & Technology等国际权威期刊。团队持续承担国家级科研项目，培养了大量硕士与博士研究生，部分学生获得法国高校联合培养博士学位。",
+    "disciplines": [
+      "环境工程",
+      "化学工程"
+    ],
+    "field_tags": [
+      "环境催化",
+      "高级氧化",
+      "水污染控制",
+      "催化剂开发",
+      "环境修复",
+      "可持续环境技术"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "Environmental Science & Technology最佳论文奖获奖论文",
+        "keywords": [
+          "环境催化",
+          "高级氧化",
+          "环境科学与工程",
+          "高被引论文"
+        ],
+        "journal_name": "Environmental Science & Technology",
+        "research_fields": [
+          "环境工程",
+          "环境催化",
+          "高级氧化技术"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ResearchGate",
+        "url": "http://www.researchgate.net/profile/Hui_Zhang67"
+      },
+      {
+        "platform": "Web of Science",
+        "url": "https://www.webofscience.com/wos/author/record/2038773"
+      },
+      {
+        "platform": "Journal of Hazardous Materials 编委会",
+        "url": "https://www.journals.elsevier.com/journal-of-hazardous-materials/editorial-board/hui-zhang"
+      },
+      {
+        "platform": "Catalysts (MDPI) 编委会",
+        "url": "https://www.mdpi.com/journal/catalysts/editors?page_no=22"
+      },
+      {
+        "platform": "Discover Catalysis (Springer) 编委会",
+        "url": "https://link.springer.com/journal/44344/editors"
+      },
+      {
+        "platform": "《水处理技术》编委会",
+        "url": "https://www.scljs1975.com/CN/column/item5.shtml"
+      },
+      {
+        "platform": "《化工环保》编委会",
+        "url": "https://www.hghb.com.cn/CN/column/column3.shtml"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张晖\n页面链接: http://jszy.whu.edu.cn/zhanghui2/zh_CN/index.htm\n==================================================\n武汉大学 张晖--中文主页--首页\n张晖\n教授\n博士生导师\n硕士生导师\n所在单位：资源与环境科学学院\n学科：\n环境工程\n电子邮箱：\n2020年度Environmental Science & Technology最佳论文奖；湖北省自然科学三等奖 (2020年，第一完成人)；湖北省自然科学三等奖 (2017年，第一完成人)；湖北省自然科学三等奖 (2008年，第三完成人)；湖北省优秀硕士论文 (雷洋、黎慧圆)指导教师。\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n1985年由武汉二中考入成都科技大学(现四川大学)，并于1989年和1992年先后获得化学工程工学学士和化学工程工学硕士学位，1995年在华南理工大学获得化学工程工学博士学位，同年分配到武汉大学环境科学系，任讲师。1998年5月-2000年6月在美国特拉华大学(University of Delaware)从事访问学者和博士后研究工作。2000年回国并晋升为副教授，2003年破格晋升为教授。2009.5.21-31出访西班牙巴塞罗那大学(University of Barcelona)、桑坦德大学(University of Cantabria)、胡安卡洛斯国王大学(Rey Juan Carlos University)和埃斯特雷马杜拉大学(University of Extremadura)，2010年11-12月法国巴黎东马恩拉瓦雷大学(Universite Paris-Est Marne-la-Vallée)访问教授(Invited Professor)，2011年6-8月法国普瓦提埃大学(Universite de Poitiers)访问学者，2012.9.15-28及2013.7.11-8.7两次出访英国阿伯泰邓迪大学(University of Abertay Dundee)，2014年6-7月法国巴黎东马恩拉瓦雷大学(Universite Paris-Est Marne-la-Vallée)高级访问学者(Senior Visiting Fellow)，2016年6-7月法国巴黎东马恩拉瓦雷大学(Universite Paris-Est Marne-la-Vallée)访问教授(Invited Professor)，2018年3-4月法国巴黎东大(Universite Paris-Est)高级访问学者(Invited High Level Researcher)，2019年10-11月澳大利亚阿德莱德大学(University of Adelaide)高级访问学者(Senior Research Fellow)，2025年9-10月法国里尔大学( Université de Lille)高级访问学者(Senior Research Fellow)。\n现任《化工环保》、《水处理技术》、Catalysts (MDPI)、Discover Catalysis (Springer)以及Journal of Hazardous Materials (Elsevier)等期刊编委会委员；连续五次入选爱思唯尔(Elsevier)“环境科学与工程”学科中国高被引学者榜单(2020-2024年度)，连续两次入选科睿唯安(Clarivate)“跨学科”领域“高被引科学家”榜单(2022、2023年度)。\nWebsite in ResearchGate: http://www.researchgate.net/profile/Hui_Zhang67\nWebsite in Web of Science:  https://www.webofscience.com/wos/author/record/2038773\n教育经历\n1992.9 -- 1995.6\n华南理工大学\n化学工程\n工学博士学位\n博士\n1989.9 -- 1992.6\n成都科技大学(现四川大学)\n化学工程\n工学硕士学位\n硕士\n1985.9 -- 1989.6\n成都科技大学(现四川大学)\n化学工程\n工学学士学位\n学士\n工作经历\n2003.9 -- 至今\n武汉大学\n资源与环境科学学院\n教授\n2025.9 -- 2025.10\n法国里尔大学( Université de Lille)\n高级访问学者\n2019.10 -- 2019.11\n澳大利亚阿德莱德大学(University of Adelaide)\n高级访问学者\n2018.3 -- 2018.4\n法国巴黎东大(Universite Paris-Est)\n高级访问学者\n2016.6 -- 2017.7\n法国巴黎东马恩拉瓦雷大学(Universite Paris-Est Marne-la-Vallée)\n访问教授\n2014.6 -- 2014.7\n法国巴黎东马恩拉瓦雷大学(Universite Paris-Est Marne-la-Vallée)\n高级访问学者\n2011.6 -- 2011.9\n法国普瓦提埃大学(Universite de Poitiers)\n访问学者\n2010.11 -- 2010.12\n法国巴黎东马恩拉瓦雷大学(Universite Paris-Est Marne-la-Vallée)\n访问教授\n2001.1 -- 2003.11\n武汉大学\n资源与环境科学学院\n副教授\n2000.7 -- 2000.12\n武汉大学\n环境科学与工程系\n副教授\n1998.5 -- 2000.6\n美国特拉华大学(University of Delaware)\n访问学者/博士后\n1995.7 -- 1998.5\n武汉大学\n环境科学系\n讲师\n社会兼职\nJournal of Hazardous Materials 编委会委员(https://www.journals.elsevier.com/journal-of-hazardous-materials/editorial-board/hui-zhang)；\nCatalysts 编委会委员(https://www.mdpi.com/journal/catalysts/editors?page_no=22)；\nDiscover Catalysis 编委会委员(https://link.springer.com/journal/44344/editors)；\n《水处理技术》第十届编委会委员(https://www.scljs1975.com/CN/column/item5.shtml)；\n《化工环保》第一届编委会委员(https://www.hghb.com.cn/CN/column/column3.shtml)。\n研究方向\n环境催化与高级氧化\n团队成员\n团队名称： 环境催化与高级氧化课题组\n团队介绍：2001年以来指导大学生创新创业训练计划17项，其中国家级项目2项(结题均为优秀)。2002年以来指导本科毕业论文/设计77人，其中傅清果毕业论文获湖北省2002年度大学生科研成果三等奖、马玉玮毕业论文获2006年度湖北省优秀学士论文三等奖、邱迪毕业论文被评为2012年湖北省优秀学士学位论文、袁学宏毕业论文被评为武汉大学2020届优秀学士学位论文。2003年以来指导52名硕士生获得硕士学位，其中雷洋和黎慧圆硕士论文被评为2017年湖北省优秀硕士论文。目前2023级在读“学硕”3人，2024级在读“学硕”2人。2009年以来指导19名博士生获得博士学位(侯利玮、徐银和陶雨芳还分别获得法国Universite de Poitiers、法国Université de Lille和法国Universite Clermont Auvergne博士学位，林恒和刘夫珍还获得法国Universite Paris-Est博士学位)，目前环境工程2022级在读1人，资源环境2024级在读1人。\n康瑾(22级博士...\n张廷(24级博士...\n曾桢逸(23级硕...\n梁博闻(23级硕...\n孟鑫(23级硕士...\n海笑萌(24级硕...\n王茜(24级硕士...\n杜巧歆(25级硕...\n王梓晴(25级硕...\n欧阳钰楠(25级...\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

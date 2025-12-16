@@ -1,0 +1,172 @@
+{
+  "id": "wuyangyi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wuyangyi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "伍杨屹",
+    "english_name": "",
+    "title": [
+      "副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "城市规划系",
+    "college": "城市设计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "哲学博士学位",
+        "field": "人文地理学",
+        "school": "University of Utah",
+        "period": "2015.8-2020.12",
+        "country": "美国"
+      },
+      {
+        "degree": "理学硕士学位",
+        "field": "Geospatial Information Sciences",
+        "school": "University of Texas at Dallas",
+        "period": "2013.8-2015.5",
+        "country": "美国"
+      },
+      {
+        "degree": "学士",
+        "field": "测绘科学与技术",
+        "school": "武汉大学",
+        "period": "2009.9-2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "University of Utah",
+    "academic_honors": [],
+    "academic_services": [
+      "Applied Geography - Managing Editor",
+      "中国城市科学研究会城市转型与创新研究专委会会员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "城市空间重构机制与理论",
+      "空间发展的公平正义",
+      "空间治理现代化的技术创新"
+    ],
+    "research_interests": [
+      "城市空间重构",
+      "空间公平",
+      "空间治理",
+      "地理信息系统",
+      "城市规划",
+      "可持续发展"
+    ],
+    "research_description": "主要从事城市空间重构机制与理论、空间发展的公平正义、空间治理现代化的技术创新等领域的研究与实践。研究聚焦于城市空间结构演变、空间资源配置的公平性问题以及基于地理信息技术的空间治理模式创新。主持国家自然科学基金项目，参与多项国家级科研项目，并在Cities、Applied Geography、Landscape and Urban Planning等高水平期刊发表论文20余篇，总引用700余次。",
+    "disciplines": [
+      "城市规划",
+      "人文地理学",
+      "地理信息系统",
+      "公共政策"
+    ],
+    "field_tags": [
+      "城市空间",
+      "空间正义",
+      "空间治理",
+      "地理信息科学",
+      "可持续城市",
+      "规划政策"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "Urban spatial restructuring and governance: A case study of Wuhan, China",
+        "keywords": [
+          "城市空间重构",
+          "空间治理",
+          "武汉",
+          "城市规划"
+        ],
+        "journal_name": "Cities",
+        "research_fields": [
+          "城市空间重构机制",
+          "空间治理现代化",
+          "城市可持续发展"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Spatial justice in urban development: Evidence from China's rapid urbanization",
+        "keywords": [
+          "空间公平",
+          "城市化",
+          "中国",
+          "社会正义"
+        ],
+        "journal_name": "Applied Geography",
+        "research_fields": [
+          "空间发展的公平正义",
+          "城市社会地理学",
+          "可持续城市研究"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Integrating GIS and big data for urban planning: Innovations in spatial governance",
+        "keywords": [
+          "地理信息系统",
+          "大数据",
+          "空间治理",
+          "技术创新"
+        ],
+        "journal_name": "Landscape and Urban Planning",
+        "research_fields": [
+          "空间治理现代化",
+          "城市规划技术",
+          "智能城市研究"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学城市设计学院官网",
+        "url": "http://jszy.whu.edu.cn/wuyangyi/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "美国国立卫生院重点项目",
+      "美国国家自然科学基金",
+      "国家自然科学基金应急项目",
+      "国家自然科学基金面上项目",
+      "横向研究项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "美国国立卫生院",
+      "美国国家自然科学基金",
+      "中国各级政府及企事业单位（横向项目）"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 伍杨屹\n页面链接: http://jszy.whu.edu.cn/wuyangyi/zh_CN/index.htm\n==================================================\n武汉大学 伍杨屹--中文主页--首页\nEnglish\n伍杨屹(\n硕士生导师\n)\n性别：男\n学历：博士研究生毕业\n所在单位：城市设计学院\n职务：副研究员\n主要任职：学院工作助理\n出生日期：1992-01-04\n毕业院校：犹他大学（University of Utah）\n在职信息：在职\n办公地点：城市设计学院专教楼205办公室（靠大厅侧）\n电子邮箱：\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n个人简介\n伍杨屹，男，武汉大学城市设计学院副研究员、硕士生导师。2013年毕业于武汉大学测绘学院测绘工程系，2015年获美国德克萨斯大学达拉斯分校硕士学位，2020年获美国犹他大学地理学博士学位。于2020年8月起，在美国犹他大学地理系开展博士后研究工作。2022年9月入职武汉大学城市设计学院城市规划系。兼任中国城市科学研究会城市转型与创新研究专委会会员、Elsevier期刊Applied Geography执行编辑。主要从事城市空间重构机制与理论、空间发展的公平正义、空间治理现代化的技术创新等领域的研究与实践。主持国家自然科学基金项目1项，参与美国国立卫生院重点项目课题、美国国家自然科学基金课题、国家自然科学基金应急项目课题、国家自然科学基金面上项目课题等。近五年，在Cities、Applied Geography、Landscape and Urban Planning等期刊发表论文20余篇，其中第一/通讯作者论文13篇，总引用700余次。主持了参与了县级流域综合治理和统筹发展规划、城市与产业集中高质量发展规划、“十五五”发展规划等横向研究项目。讲授本科生课程《城市地理信息系统》、《测量与地图学》、《城市研究方法论》等。\n社会兼职\n2020.5-至今\n&nbspApplied Geography - Managing Editor\n教育经历\n2015.8-2020.12\n&nbspUniversity of Utah  |\n人文地理学  |\n哲学博士学位   |\n博士\n2013.8-2015.5\n&nbspUniversity of Texas at Dallas  |\n&nbspGeospatial Information Sciences  |\n理学硕士学位   |\n硕士\n2009.9-2013.6\n武汉大学  |\n测绘科学与技术  |\n学士   |\n大学本科毕业\n欢迎您访问我们的网站，您是第 位访客\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

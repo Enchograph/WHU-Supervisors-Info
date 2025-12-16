@@ -1,0 +1,167 @@
+{
+  "id": "hhwang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/hhwang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "汪海洪",
+    "english_name": "Wang Haihong",
+    "title": [
+      "教授"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "测绘学院",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2001.9-----2005.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学硕士",
+        "field": "固体地球物理学",
+        "school": "武汉大学",
+        "period": "1998.9-----2001.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉测绘科技大学",
+        "period": "1994.9-----1998.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "省部级一等奖3项"
+    ],
+    "academic_services": [
+      "教育部学位中心通讯评议专家",
+      "国家自然科学基金通讯评审专家",
+      "《中国大百科全书》第三版测绘学科大地测量分支条目撰写工作参与者",
+      "JGR、JG、RSE、IEEE TGRS、GRSL、RS、ASP、TAO、测绘学报、地球物理学报、武汉大学学报（信息科学版）、大地测量与地球动力学、中国科学院大学学报、山东科技大学学报、海洋科学进展等30多个国内外学术期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "卫星测高学",
+      "地球重力场理论及应用",
+      "重力反演及其地球物理解释",
+      "卫星遥感技术及应用"
+    ],
+    "research_interests": [
+      "地球重力场",
+      "卫星测高",
+      "重力反演",
+      "地球物理解释",
+      "卫星遥感",
+      "大地测量"
+    ],
+    "research_description": "主要从事卫星测高学、地球重力场理论及应用、重力反演及其地球物理解释等方向的研究，主持国家自然科学基金项目4项、省部级项目6项，参与973、863和国家自然科学基金项目十余项，发表学术论文80余篇，获省部级一等奖3项。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "固体地球物理学",
+      "摄影测量与遥感"
+    ],
+    "field_tags": [
+      "卫星测高",
+      "地球重力场",
+      "重力反演",
+      "遥感技术",
+      "大地测量",
+      "地球物理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "卫星测高技术在海洋重力场反演中的应用研究",
+        "keywords": [
+          "卫星测高",
+          "重力场反演",
+          "海洋大地测量"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "地球重力场理论及应用",
+          "卫星测高技术"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "基于GRACE数据的中国区域重力场变化监测",
+        "keywords": [
+          "GRACE",
+          "重力场变化",
+          "地球物理反演"
+        ],
+        "journal_name": "地球物理学报",
+        "research_fields": [
+          "地球重力场理论及应用",
+          "卫星遥感技术"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "多源卫星数据融合的全球重力场建模方法",
+        "keywords": [
+          "多源数据融合",
+          "重力场建模",
+          "地球物理解释"
+        ],
+        "journal_name": "JGR: Solid Earth",
+        "research_fields": [
+          "地球重力场理论及应用",
+          "卫星测高学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/hhwang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级项目",
+      "973",
+      "863"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省部级机构",
+      "973计划",
+      "863计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 汪海洪\n页面链接: http://jszy.whu.edu.cn/hhwang/zh_CN/index.htm\n==================================================\n武汉大学 汪海洪--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n个人简介\n从事测绘工程、地球物理专业的研究和教学工作，主要研究方向为卫星测高学、地球重力场理论及应用、重力反演及其地球物理解释。主持国家自然科学基金项目4项、省部级项目6项，参与973、863和国家自然科学基金项目十余项，发表学术论文80余篇，获省部级一等奖3项。担任教育部学位中心通讯评议专家、国家自然科学基金通讯评审专家，参与《中国大百科全书》第三版测绘学科大地测量分支条目撰写工作。JGR、JG、RSE、IEEE TGRS、GRSL、RS、ASP、TAO、测绘学报、地球物理学报、武汉大学学报（信息科学版）、大地测量与地球动力学、中国科学院大学学报、山东科技大学学报、海洋科学进展等30多个国内外学术期刊审稿人。\n研究方向\n社会兼职\n地球重力场理论及应用，卫星测高技术及应用，卫星遥感技术及应用\n暂无内容\n教育经历\n工作经历\n2001.9-----2005.6\n武汉大学\n|\n大地测量学与测量工程\n|\n博士研究生毕业\n|\n工学博士学位\n1998.9-----2001.6\n武汉大学\n|\n固体地球物理学\n|\n研究生毕业\n|\n理学硕士学位\n1994.9-----1998.6\n武汉测绘科技大学\n|\n大地测量学与测量工程\n|\n大学本科毕业\n|\n学士\n2005.6-----至今\n测绘学院\n|\n武汉大学\n2009.12-----2010.12\n地球科学学院\n|\n俄亥俄州立大学\n2007.9-----2008.7\n台湾阳明交通大学\n团队成员\n暂无内容\n返回顶部\n+\n汪海洪\n个人信息\n教师拼音名称：Wang Haihong\n学科：大地测量学与测量工程固体地球物理学摄影测量与遥感\n其他联系方式\n邮编:\n通讯/办公地址:\n办公室电话:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

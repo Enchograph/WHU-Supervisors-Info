@@ -1,0 +1,258 @@
+{
+  "id": "yangbo9",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yangbo9/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "杨博",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "航空航天摄影测量教研室",
+    "college": "测绘遥感信息工程全国重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2009.9 -- 2014.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2007.9 -- 2009.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "测绘工程",
+        "school": "武汉大学",
+        "period": "2001.9 -- 2005.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省自然科学基金重点类项目-创新群体",
+      "中国精品科技期刊顶尖学术论文领跑者F5000奖",
+      "教育部十大科技进展",
+      "测绘科技进步一等奖",
+      "测绘科技进步特等奖",
+      "湖北省技术发明一等奖",
+      "军队科技进步一等奖",
+      "国家科技进步一等奖"
+    ],
+    "academic_services": [
+      "武汉九天高分遥感技术有限公司首席科学家",
+      "航天宏图信息技术有限公司摄影测量高级顾问"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多源遥感智能感知",
+      "场景重建",
+      "国产光学卫星影像高精度几何处理",
+      "无地面控制区域网平差",
+      "卫星影像大数据高性能处理"
+    ],
+    "research_interests": [
+      "遥感影像几何处理",
+      "深度学习在遥感中的应用",
+      "光学-激光-SAR融合处理",
+      "卫星影像匹配",
+      "高精度定位与校准",
+      "全球地理信息资源建设"
+    ],
+    "research_description": "杨博副教授长期从事国产高分辨率光学卫星影像高精度几何处理理论与算法研究，主持国家自然科学基金、国家重点研发计划、高分辨率对地观测重大专项等国家级项目，主持研制我国首个具有独立知识产权的卫星影像大数据高性能处理系统，首次实现全球无控制光学遥感卫星影像高精度几何定位，支撑了我国全球地理信息资源建设、国土三调等重大工程。研究聚焦于多源遥感智能感知与场景重建，涵盖无地面控制区域网平差、卫星影像协同处理、深度学习驱动的遥感图像匹配与几何校正等关键技术。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "计算机视觉",
+      "遥感信息科学与技术"
+    ],
+    "field_tags": [
+      "遥感影像处理",
+      "高精度几何定位",
+      "无控制平差",
+      "卫星影像大数据",
+      "智能感知",
+      "场景重建",
+      "国产卫星",
+      "深度学习",
+      "多源融合"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "Large-scale automatic block adjustment from satellite to indoor photogrammetry",
+        "keywords": [
+          "卫星影像",
+          "区域网平差",
+          "无地面控制",
+          "摄影测量",
+          "三维重建"
+        ],
+        "journal_name": "Geo-spatial Information Science",
+        "research_fields": [
+          "遥感影像处理",
+          "摄影测量与遥感",
+          "智能感知"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Integrated geometric self-calibration of stereo cameras on board the ZiYuan-3 satellite",
+        "keywords": [
+          "立体相机",
+          "几何自校正",
+          "资源三号卫星",
+          "无控制点",
+          "摄影测量"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "卫星影像几何处理",
+          "摄影测量",
+          "遥感系统校准"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Global Iterative Geometric Calibration of a Linear Optical Satellite Based on Sparse GCPs",
+        "keywords": [
+          "线性光学卫星",
+          "稀疏地面控制点",
+          "几何校正",
+          "遥感影像处理"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感几何校正",
+          "卫星影像处理",
+          "摄影测量"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Relative Geometric Refinement of Patch Images Without Use of Ground Control Points for the Geostationary Optical Satellite GaoFen4",
+        "keywords": [
+          "地球静止卫星",
+          "高分四号",
+          "局部几何精化",
+          "无控制点",
+          "影像匹配"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感影像处理",
+          "地球静止卫星",
+          "几何精化"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Large-scale Block Adjustment without Use of Ground Control Points Based on the Compensation of Geometric Calibration for ZY-3 Images",
+        "keywords": [
+          "资源三号",
+          "无控制点区域网平差",
+          "几何校正补偿",
+          "大规模影像处理"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "遥感影像处理",
+          "摄影测量",
+          "高分辨率卫星"
+        ],
+        "publication_year": 2017
+      },
+      {
+        "title": "Hyperspectral Image Super-Resolution via Joint Network with Spectral-Spatial Strategy",
+        "keywords": [
+          "高光谱图像",
+          "超分辨率",
+          "光谱-空间联合网络",
+          "深度学习"
+        ],
+        "journal_name": "Geo-spatial Information Science",
+        "research_fields": [
+          "高光谱遥感",
+          "图像超分辨率",
+          "深度学习"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "FRIM: A Framework for Satellite-Borne Remote Sensing Image Matching",
+        "keywords": [
+          "遥感图像匹配",
+          "卫星影像",
+          "图像匹配框架",
+          "遥感智能感知"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感图像匹配",
+          "智能感知",
+          "计算机视觉"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yangbo9/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家重点研发计划课题",
+      "国家973计划子课题",
+      "高分辨率对地观测重大专项项目",
+      "JWKJW173基础加强计划项目课题",
+      "国家重大科技专项（高分专项）项目",
+      "国防A类项目",
+      "国家民用空间基础设施项目",
+      "湖北省青年拔尖人才培养计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家基础地理信息中心",
+      "国家重大科技专项（高分专项）",
+      "国防A类项目主管部门",
+      "湖北省科学技术厅",
+      "国家民用空间基础设施专项"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杨博\n页面链接: http://jszy.whu.edu.cn/yangbo9/zh_CN/index.htm\n==================================================\n武汉大学 杨博--多源遥感智能感知与场景重建--首页\n杨博\n副教授\n博士生导师\n硕士生导师\n性别：男\n出生日期：1984-03-29\n毕业院校：武汉大学\n学历：博士研究生毕业\n在职信息：在职\n所在单位：测绘遥感信息工程全国重点实验室\n入职时间： 2020-06-01\n学科：\n摄影测量与遥感\n办公地点：武汉大学测绘遥感信息工程国家重点实验室408室\n联系方式：13437178040\n电子邮箱：\n2020曾获荣誉当选：湖北省自然科学基金重点类项目-创新群体 2020曾获荣誉当选：中国精品科技期刊顶尖学术论文领跑者F5000奖 2020曾获荣誉当选：教育部十大科技进展 2019曾获荣誉当选：测绘科技进步一等奖 2016曾获荣誉当选：测绘科技进步特等奖 2016曾获荣誉当选：湖北省技术发明一等奖 2019曾获荣誉当选：军队科技进步一等奖 2020曾获荣誉当选：国家科技进步一等奖\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n多源遥感智能感知与场景重建团队，长期诚招遥感/计算机等专业背景的硕士、博士\n欢迎优秀学子们申请加入！\n联系方式\n电话：13437178040\n邮箱： 93341186@qq.com\n祝贺杨博教授荣获国家科技技术进步一等奖 国家级 2021年\n祝贺杨博教授荣获2020中国高校十大科技进展 国家级 2020年\n祝贺杨博教授获批国家重点研发计划课题(国拨260万)\n祝贺杨博教授荣获中国精品科技期刊顶尖学术论文领跑者F5000奖 国家级 2021年\n个人简历：杨博，武汉大学，副教授，博士生导师、航空航天摄影测量教研室副主任，长期从事国产光学卫星影像高精度几何处理理论与算法研究和系统研制工作。主持国家自然科学基金青年基金、面上项目、JWKJW173基础加强计划项目课题、重点研发项目课题、国家973计划子课题、高分辨率对地观测重大专项项目、湖北省青年拔尖人才等多项国家级/省级研究课题，近五年累计到账经费超2000万元，在国产高分辨率光学卫星遥感影像高精度几何处理的基础理论与关键技术方面取得了里程碑式创新成果，主持研制了我国首个具有独立知识产权的卫星影像大数据高性能处理系统，首次实现了全球无控制光学遥感卫星影像高精度几何定位，支撑了我国全球地理信息资源建设、国土三调等多项重大工程的成功实施。相关成果获国家科技进步一等奖一项(8/15)，省部级特等奖一项(5/30)，一等奖三项(4/6、7/15、8/15)，并入选2020年教育部十大科技进展，获授权发明专利 13 项、软件著作权 5 项、以第一和通讯作者在本领域国际顶尖期刊共发表 SCI/EI 论文 20 余篇。\n毕业学生去处（排名按笔划排序）\n【党政机关& 事业单位】\n皮英东博士 任职武汉大学，愿在科研与育人之路上再攀高峰！\n刘飞 荣任中共咸阳市高新区委组织部\n孙浩天 加入 中共天津市委教育工作委员会\n杨文环博士 成功入职 中国四维测绘技术有限公司\n高浩博 成功考取 选调生\n胡海滨 成功就职于 青岛市勘察测绘研究所\n【知名企业 & 科技领域】\n曹涵慧 成功任职 华为 ，为全球数字化发展贡献力量!\n李斯昌 成功任职  长光卫星，愿为中国商业航天发展注入新动能！\n邓凯强 成功任职 大疆（DJI），愿在无人机领域创新突破！\n龙长飞 成功任职 腾讯数据平台部，助力大数据与云计算发展！\n刘琨 成功任职 华为，愿为科技强国贡献智慧与力量！\n杨宇辉 成功任职 网易，期待在互联网行业大展宏图！\n主持或承担重大项目情况\n(1) 国家自然科学基金委员会, 面上项目, 41971419, 无地面控制大规模卫星影像区域网平差关键问题研 究, 2020-01-01 至 2023-12-31, 58万元, 在研, 主持\n(2) 武汉大学, 拔尖创新人才培育Ⅰ类项目, 2042021kf0189, 无地面控制大规模卫星影像区域网平差关键 问题研究, 2021-05 至 2022-05, 9万元, 在研, 主持\n(3) 国家基础地理信息中心, 国家重点研发计划, 2016YFB0501402, 国产卫星遥感影像高精度协同几何处 理技术, 2016-07 至 2021-06, 977万元, 结题, 参与\n(4).无地面控制大规模卫星影像区域网平差关键问题研究,纵向科研项目,国家自然科学基金面上项目,58,58,2020-01至2023-12,1 (5).2022-207光学-激光-SAR融合处理****研究与应用,纵向科研项目,JWKJW173基础加强重点研究计划课题负责人,2450,450,2022-06至2025-06,4 (6). xx关键技术研究与xxx系统改造集成项目, 纵向科研项目, 国家重大科技专项（高分专项）项目负责人,891,400,2019-07至2021-06(7).基于深度学习的****技术研究,纵向科研项目,国防A类项目负责人,165,100,2019-07至2020-12(8).国家民用空间基础设施十三五 陆地观测卫星地面系统-卫星在轨性能检测、参数优化 与质量改进专家软件,横向科研项目,国家民用空基专项项目负责人,1162,1162,2020-11至2023-06(9).湖北省青年拔尖人才培养计划,纵向科研项目, 湖北省青年拔尖人才培养计划,60,60,2023-01至2024-01\n(10) 国家基础地理信息中心, 国家重点研发计划, 2016YFB0501402, 国产卫星遥感影像高精度协同几何处 理技术, 2016-07 至 2021-06, 977万元, 结题, 参与\n(11) 国家自然科学基金委员会, 重大研究计划, 91638201, 空间信息网络下的高光谱遥感协同观测理论与 方法研究, 2017-01-01 至 2020-12-31, 350万元, 结题, 参与\n代表性研究成果和学术奖励情况（填写代表性论文时应根据其发表时的真实情况如实规范列出所有作者署名，并对本人署名情况进行标注，包括：①作者署名按姓氏排序；②唯一第一作者；③共同第一作者；④唯一通讯作者；⑤共同通讯作者；⑥其他情况）：\n代表性论著（请在“ 申请书详情 ”界面，点开“人员信息 ”-“代表性成果 ”卡片查看对 应的全文）：\n(1) Deren Li; Bo Yang; Mi Wang; Taiping Wang; Yunlong Gao; Yingdong Pi;Large-scale automaticblockadjustmentfromsatellitetoindoorphotogrammetry, Geo-spatialInformationScience, 2023, 26(2):160-174(期刊论文)( 本人标注:唯一通讯作者 )\n(2) Yang, Bo; Pi, Yingdong; Li, Xin; Yang, Yuhui;Integratedgeometricself-calibrationof stereocamerasonboardtheZiYuan-3 satellite, ISPRSJournalofPhotogrametryandRemote Sensing, 2020,162(C):173-183(期刊论文)( 本人标注: 唯一第一作者 )\n(3) Yingdong Pi; Xin Li; Bo Yang; GlobalIterative GeometricCalibrationofa LinearOptical SatelliteBasedonSparseGCPs, IEEETransactionsonGeoscienceandRemoteSensing, 2020.1,58(1): 436-446(期刊论文)( 本人标注: 唯一通讯作者 )\n(4) Bo Yang; Yingdong Pi; Xin Li; Mi Wang; Relative GeometricRefinementof PatchImages WithoutUseofGroundControlPointsfortheGeostationaryOpticalSatelliteGaoFen4,IEEE\nTransactionsonGeoscienceandRemoteSensing, 2018, 56(1): 474-484(期刊论文)( 本人标注: 唯一第一作者 )\n(5) Bo Yang; Mi Wang; Wen Xu; Deren Li;Jianya Gong; Yingdong Pi;Large-scale Block AdjustmentwithoutUseofGroundControlPointsBasedontheCompensationofGeometric CalibrationforZY-3 Images, ISPRSJournalofPhotogrametryandRemoteSensing, 2017,134:1-14(期刊论文)( 本人标注:唯一第一作者 )\n(6) Yaxin Dong; Bo Yang; Cong Liu, Zemin Geng, Taiping Wang; Hyperspectral Image Super-Resolution via Joint Network with Spectral-Spatial Strategy, Geo-spatial Information Science, 2025, (期刊论文)( 本人标注:唯一通讯作者 )\n(7)Geng Zemin, Yang Bo, Pi Yingdong, et al. FRIM: A Framework for Satellite-Borne Remote Sensing Image Matching, IEEE Transactions on Geoscience and Remote Sensing,2025,(期刊论文)( 本人标注: 通讯作者 )\n其他联系方式\n通讯/办公地址 : \n移动电话 : \n邮箱 : \n教育经历\n2009.9 -- 2014.6\n武汉大学\n摄影测量与遥感\n博士研究生毕业\n工学博士学位\n2007.9 -- 2009.6\n武汉大学\n摄影测量与遥感\n硕士研究生毕业\n硕士\n2001.9 -- 2005.6\n武汉大学\n测绘工程\n大学本科毕业\n学士\n社会兼职\n2018.9 -- 至今\n武汉九天高分遥感技术有限公司首席科学家\n2019.10 -- 至今\n航天宏图信息技术有限公司摄影测量高级顾问\n研究方向\n摄影测量与遥感、计算机视觉\n团队成员\n团队名称： 多源遥感智能感知与场景重建\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

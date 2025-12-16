@@ -1,0 +1,134 @@
+{
+  "id": "fudejun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/fudejun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "付德君",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "物理科学与技术",
+        "school": "武汉大学物理科学与技术学院",
+        "period": "1996.9-1999.7",
+        "country": "中国"
+      },
+      {
+        "degree": "理学硕士学位",
+        "field": "物理系",
+        "school": "武汉大学物理系",
+        "period": "1985.9-1988.7",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "物理系",
+        "school": "武汉大学物理系",
+        "period": "1981.9-1985.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学物理科学与技术学院",
+    "academic_honors": [],
+    "academic_services": [
+      "中国粒子加速器学会理事，高压专业组副组长",
+      "中国电工技术学会电子束离子束专业委员会副主任委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "飞行器离子推进",
+      "22nm芯片离子注入",
+      "二维材料与器件",
+      "磁光谱与穆斯堡尔谱"
+    ],
+    "research_interests": [
+      "离子推进",
+      "离子注入",
+      "二维材料",
+      "磁光谱",
+      "穆斯堡尔谱",
+      "材料动力学",
+      "半导体器件"
+    ],
+    "research_description": "主要从事飞行器离子推进、22nm芯片离子注入、二维材料与器件、磁光谱与穆斯堡尔谱等方向的研究，尤其在57Fe穆斯堡尔谱及其在Fe3S4晶体中晶格动力学研究方面有深入工作。",
+    "disciplines": [
+      "物理学",
+      "材料科学",
+      "微电子学",
+      "航天工程"
+    ],
+    "field_tags": [
+      "离子推进",
+      "离子注入",
+      "二维材料",
+      "穆斯堡尔谱",
+      "磁光谱",
+      "半导体器件",
+      "材料动力学",
+      "高压物理",
+      "加速器技术"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 1,
+    "representative_publications": [
+      {
+        "title": "Study on velocity mode of 57Fe Mӧssbauer spectroscopy and determination of lattice dynamics in Fe3S4",
+        "keywords": [
+          "57Fe Mössbauer spectroscopy",
+          "lattice dynamics",
+          "Fe3S4",
+          "velocity mode"
+        ],
+        "journal_name": "Results in Physics",
+        "research_fields": [
+          "磁光谱",
+          "穆斯堡尔谱",
+          "材料物理"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/fudejun/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 付德君\n页面链接: http://jszy.whu.edu.cn/fudejun/zh_CN/index.htm\n==================================================\n武汉大学 付德君--中文主页--首页\n访问量：\n最后更新时间：--\nEnglish\n新闻网中文官网\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\nPersonal profile人简介\nmore +\n近期主要论文：1. W. B. Zuo, V. O. Pelenovich, Q. D. Li, X. M. Zeng, D. J. Fu, Study on velocity mode of 57Fe Mӧssbauer spectroscopy and determination of lattice dynamics in Fe3S4, Results in Phys. 12 (2019) 1214-121...查看全部\nPersonal information人信息 more +\n出生日期：1963-09-06\n电子邮箱：\n入职时间：2004-07-01\n所在单位：物理科学与技术学院\n学历：研究生毕业\n职称：教授\nEducational experience育经历\n[1] 1996.9-1999.7\n武汉大学物理科学与技术学院 | 理学博士学位\n[2] 1985.9-1988.7\n武汉大学物理系 | 理学硕士学位\n[3] 1981.9-1985.7\n武汉大学物理系 | 理学学士学位\nWork experience作经历\nmore +\n[1] 2004.7-至今\n武汉大学物理学院 | 教授\n[2] 2001.9-2004.7\n东国大学量子功能半导体研究中心 | 研究教授\n[3] 1999.10-2001.9\n东国(Dongguk)大学量子功能半导体研究中心 | 博士后\nSocial Appointments会兼职\n[1]\n中国粒子加速器学会理事，高压专业组副组长\n[2]\n中国电工技术学会电子束离子束专业委员会副主任委员\nTeam members队成员\nI love my group\n付德君（教授），Uygun Valiev（教授），Alexander Tolstoguzov（教授），杨兵（教授，动力与机械学院），田灿鑫（副教授），刘传胜（高级工程师），余益飞（电气工程师），任立武（机械工程师）博士后：Vasiliy Pelenovich，Neena Devi，Ganjaboy Boltaev博士/硕士研究生：王振国，兰越强，左文彬，曾晓梅，Rakhimbergan Rakhimov, 陈军联，韩旭韩国东国大学，美国休斯顿大学，乌兹别克科学院离子-等离子体与激光研究所，乌兹别克斯坦国立大学，俄罗斯科学院微电子所(IMT)，莫斯科航空研究院（MAI），国立莫斯科大学，国立梁赞无线电工程大学，撒马尔罕国立大学\n付德君\n同专业博导\n同专业硕导\nResearch direction究方向\n飞行器离子推进\n22nm芯片离子注入，二维材料与器件\n磁光谱、穆斯堡尔谱\nContact information系方式\n移动电话：\n邮箱：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

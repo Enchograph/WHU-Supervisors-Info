@@ -1,0 +1,212 @@
+{
+  "id": "lishaohua",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lishaohua/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李少华",
+    "english_name": "Li Shaohua",
+    "title": [
+      "特聘副研究员",
+      "玛丽·居里学者",
+      "楚天学者"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "土木工程系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "采矿工程",
+        "school": "东北大学",
+        "period": "2014.9-----2018.10",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "采矿工程",
+        "school": "东北大学",
+        "period": "2012.9-----2014.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "东北大学",
+    "academic_honors": [
+      "2023年，湖北省“楚天学者”",
+      "2019年，欧盟“玛丽居里学者”",
+      "2024年，武汉大学第十二届青年教师教学竞赛二等奖",
+      "2024年，武汉大学土木建筑工程学院青年教师教学竞赛一等奖"
+    ],
+    "academic_services": [
+      "担任Construction and Building Materials期刊审稿人",
+      "担任International Journal of Mechanical Science期刊审稿人",
+      "担任Rock Mechanics and Rock Engineering期刊审稿人",
+      "担任Journal of Building Engineering期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多应变率下非均质材料的多尺度损伤与破裂机理",
+      "功能性先进土木工程材料的开发与性能提升",
+      "超高性能混凝土（UHPC）的微观力学与宏观性能关系研究",
+      "冻融-动荷载耦合作用下的材料劣化机制"
+    ],
+    "research_interests": [
+      "UHPC材料",
+      "混凝土界面粘结性能",
+      "微裂纹演化",
+      "纳米改性混凝土",
+      "岩石力学",
+      "多尺度损伤机制",
+      "动态力学响应",
+      "冻融循环",
+      "盐冻损伤",
+      "机器学习在材料表征中的应用"
+    ],
+    "research_description": "李少华主要从事高性能土木工程材料的破坏机理与性能提升研究，聚焦于超高性能混凝土（UHPC）在复杂环境与荷载条件下的多尺度损伤行为，尤其关注非均质微观结构对材料动态性能、界面传力机制及耐久性的影响。研究涵盖冻融-动荷载交互作用、低收缩SUHPC粘结界面的动态拉-剪耦合损伤、微裂纹演化与劣化机制，并结合实验、数值模拟与机器学习方法进行多尺度分析。其工作涉及材料设计、微观结构调控、界面性能优化及工程应用，致力于推动先进混凝土材料在极端环境下的长期服役性能提升。",
+    "disciplines": [
+      "土木工程",
+      "材料科学与工程",
+      "力学",
+      "岩石力学"
+    ],
+    "field_tags": [
+      "UHPC",
+      "混凝土材料",
+      "多尺度损伤",
+      "冻融循环",
+      "动态加载",
+      "界面粘结",
+      "纳米改性",
+      "岩石力学",
+      "机器学习",
+      "耐久性"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Fracture resistance of sulfoaluminate cementious paste with silane coupling agents: synergistic mechanism of chemical transformations and microstructure shaping",
+        "keywords": [
+          "硫铝酸盐水泥",
+          "硅烷偶联剂",
+          "断裂韧性",
+          "微结构调控"
+        ],
+        "journal_name": "Materials and Structures",
+        "research_fields": [
+          "高性能混凝土",
+          "材料损伤机理",
+          "多尺度力学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "The effect of pore structure on the pessimum effect of salt scaling: A perspective from cryogenic liquid transport and ice pressure",
+        "keywords": [
+          "盐冻损伤",
+          "孔结构",
+          "冰压",
+          "pessimum效应"
+        ],
+        "journal_name": "Cement and Concrete Research",
+        "research_fields": [
+          "混凝土耐久性",
+          "冻融损伤",
+          "多相流体传输"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Enhancing the rate-dependent cracking resistance of UHPC under mixed tensile-shear mode by calcined bauxite aggregate",
+        "keywords": [
+          "超高性能混凝土",
+          "煅烧铝矾土骨料",
+          "率相关开裂抗力",
+          "混合拉剪"
+        ],
+        "journal_name": "Cement and Concrete Composites",
+        "research_fields": [
+          "先进土木工程材料",
+          "动态力学性能",
+          "材料改性"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Investigation of the dynamic mechanical response of corroded ultra-high performance fiber reinforced concrete (UHPFRC) with initial defects",
+        "keywords": [
+          "腐蚀UHPFRC",
+          "初始缺陷",
+          "动态力学响应",
+          "多尺度损伤"
+        ],
+        "journal_name": "Cement and Concrete Composites",
+        "research_fields": [
+          "结构耐久性",
+          "纤维增强混凝土",
+          "动态加载"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Effects of autogenous shrinkage microcracks on UHPC: Insights from a machine learning based crack quantification approach",
+        "keywords": [
+          "自收缩微裂纹",
+          "UHPC",
+          "机器学习",
+          "裂纹量化"
+        ],
+        "journal_name": "Construction and Building Materials",
+        "research_fields": [
+          "混凝土材料科学",
+          "智能分析",
+          "微裂纹演化"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/lishaohua/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "欧洲卓越理工大学联盟博士后项目",
+      "湖北省自然科学基金",
+      "教育部重点实验室开放课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "欧盟第八框架协议地平线计划（Horizon 2020）",
+      "湖北省科技厅",
+      "道路与铁道工程安全保障省部共建教育部重点实验室"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李少华\n页面链接: http://jszy.whu.edu.cn/lishaohua/zh_CN/index.htm\n==================================================\n武汉大学 李少华--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n李少华，特聘副研究员，玛丽·居里学者，楚天学者。主要从事高性能土木工程材料破坏机理及性能提升的研究。近五年来，主持国家自然科学基金2项（面上、青年），湖北省自然科学基金青年项目1项，在内的纵向项目6项，总经费超200万。在本领域权威期刊（如Cement and Concrete Research、Composites Part B: Engineering与 Rock Mechanics and Rock Engineering等）发表论文40余篇，其中第一或通讯作者SCI论文27篇，ESI高被引论文2篇。授权发明专利10余项，1项已应用，软件著作权5项。担任Construction and Building Materials、International Journal of Mechanical Science、Rock Mechanics and Rock Engineering、Journal of Building Engineering等本领域主流期刊审稿人。长期招收混凝土材料、结构工程、力学、岩石力学等方向的硕士研究生、博士研究生。\n科研项目：\n1. 国家自然科学基金面上项目，考虑非均质微观力学的UHPC冻融-动荷载损伤交互与劣化机理研究，国家自然科学基金委员会，52374223， 2024-01 至 2027-12，资助金额 50万。\n2. 国家自然科学基金青年科学基金项目，低收缩SUHPC粘结界面动态拉-剪耦合损伤与传力机制研究 ，国家自然科学基金委员会，52308414， 2024-01 至 2026-12，资助金额 30万。\n3. 欧洲卓越理工大学联盟博士后项目 (“玛丽·居里”学者COFUND) Scale-span study of dynamic performance of ultra-high performance concrete containing microcracks, 欧盟第八框架协议地平线计划（Horizon 2020），N0.TUM#2019070310006155，2019-10至2021-10, 资助金额120万。\n4. 湖北省自然科学基金青年项目，复杂加载下SUHPC界面粘结性能劣化机制及提升方法研究，湖北省科技厅，2023-07 至 2025-06，资助金额5万。\n5. 教育部重点实验室开放课题，冻融-动荷载作用下含隧道洞渣UHPC多尺度劣化机制研究，道路与铁道工程安全保障省部共建教育部重点实验室，2023-12至2025-12，资助金额5万。\n代表论文成果：\n1.     Junzu Ma, Weiji Sun, Jiaxu Jin, Shaohua Li*, Mingxu Li, Meng Dong. Fracture resistance of sulfoaluminate cementious paste with silane coupling agents: synergistic mechanism of chemical transformations and microstructure shaping. Materials and Structures. 2025, 58: 247. (Corresponding author)\n2.     Qian Deng, Weitan Zhuang, Xuzhe Zhang, Shaohua Li*, Qingliang Yu**. The effect of pore structure on the pessimum effect of salt scaling: A perspective from cryogenic liquid transport and ice pressure. Cement and Concrete Research. 2025, 196: 107945. (Corresponding author)\n3.     Shaohua Li, Ole Mejlhede Jensen*, Qingliang Yu**. Enhancing the rate-dependent cracking resistance of UHPC under mixed tensile-shear mode by calcined bauxite aggregate. Cement and Concrete Composites. 2025, 159:105993.\n4.     Zhaoping Song, Shaohua Li*, Lulu Cheng, Qingliang Yu**. Investigation of the dynamic mechanical response of corroded ultra-high performance fiber reinforced concrete (UHPFRC) with initial defects. Cement and Concrete Composites. 2024, 154: 105780. (Corresponding author)\n5.     Xiaolan Zeng, Qian Deng, Shaohua Li*, Hongbo Gao, Qingliang Yu*. Effects of autogenous shrinkage microcracks on UHPC: Insights from a machine learning based crack quantification approach. Construction and Building Materials. 2024, 428: 136400. (Corresponding author)\n6.     Weiji Sun, Junzu Ma*, Jiaxu Jin*, Shaohua Li*, Qiang Liu, Haibo Wang. Quantitative Study of the Failure Characteristics of Sandstone with Freeze–Thaw Damage: Insight into the Cracking Behavior. Rock Mechanics and Rock Engineering, 2024, 57:5843–5862. (Corresponding author)\n7.     Shaohua Li, Chen, Y., Brouwers, H. J. H., & Yu, Q. Effects of amorphous silica on mechanical contribution of coarse aggregates in UHPC: From micromechanics to mesoscale fracture and macroscopic strength. Cement and Concrete Composites. 2023,142: 105225.\n8.     Yuxuan Chen, Shaohua Li*, Rui Yu, B. Mezari, E.J.M. Hensen, K. Schollbach, H.J.H Brouwers, Qingliang Yu*. Effect of highly dispersed colloidal olivine nano-silica on early age properties of ultra-high performance concrete[J]. Cement and Concrete Composites. 2022,131:104564. (Corresponding author)\n9.     Shaohua Li, O. M. Jensen, Zhengzhi Wang, Qingliang Yu*. Influence of micromechanical property on the rate-dependent flexural strength of ultra-high performance concrete containing coarse aggregates (UHPC-CA)[J]. Composites Part B: Engineering, 2021, 227: 109394.\n10.  Shaohua Li, Wancheng Zhu*, Leilei Niu, Chongfeng Chen. Dynamic characteristics of green sandstone subjected to repetitive impact loading: phenomena and mechanisms[J]. Rock Mechanics and Rock Engineering, 2018, 51(6): 1921-1936. (ESI High-cited Paper)\n奖励与荣誉：\n1. 2023年， 湖北省“楚天学者”\n2. 2019年， 欧盟“玛丽居里学者”\n3. 2024年， 武汉大学第十二届青年教师教学竞赛二等奖\n4. 2024年， 武汉大学土木建筑工程学院青年教师教学竞赛一等奖\n研究方向\n社会兼职\n1. 多应变率下混凝土、岩石等非均质材料的多尺度损伤与破裂机理；\n2. 功能性先进土木工程材料（超高性能混凝土、纳米改性混凝土等）；\n社会兼职内容：担任Construction and Building Materials、International Journal of Mechanical Science、Rock Mechanics and Rock Engineering、Journal of Building Engineering等本领域主流期刊审稿人。\n教育经历\n工作经历\n2014.9-----2018.10\n东北大学\n|\n采矿工程\n|\n博士研究生毕业\n|\n工学博士学位（导师：朱万成教授）\n2012.9-----2014.7\n东北大学\n|\n采矿工程\n|\n硕士研究生毕业\n|\n工学硕士学位（导师：朱万成教授）\n2022.3-----至今\n土木建筑工程学院\n|\n武汉大学\n|\n特聘副研究员\n2021.12-----2022.3\n土木工程系\n|\n丹麦科技大学\n|\n博士后（合作导师：Ole M. Jensen院士）\n2019.10-----2021.12\n建筑环境系\n|\n埃因霍温理工大学\n|\n博士后（合作导师：Jos Brouwers教授、于清亮教授）\n2019.2-----2019.10\n工程力学系\n|\n华南理工大学\n|\n博士后（合作导师：姚小虎教授）\n团队成员\n团队名称：招生信息\n团队名称：武汉大学先进混凝土结构材料课题组\n团队介绍：\n长期招收混凝土材料、结构工程、力学、岩石力学等方向的硕士研究生、博士研究生。 每年招生博士研究生，硕士研究生若干。研究生有每月研究补贴与年终学术奖励，为开阔学术视野鼓励参加国际或国内学术会议。\n团队介绍：\nhttps://www.x-mol.com/groups/yu_qingliang\n返回顶部\n+\n李少华\n个人信息\n教师拼音名称：Li Shaohua\n电子邮箱：\n所在单位：土木建筑工程学院\n学历：博士研究生毕业\n办公地点：湖北省武汉市武昌区八一路299号武汉大学结构楼\n性别：男\n在职信息：在职\n毕业院校：东北大学\n曾获荣誉：\n2023- 楚天学者\n2019- 玛丽·居里学者\n其他联系方式\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

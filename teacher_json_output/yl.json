@@ -1,0 +1,99 @@
+{
+  "id": "yl",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yl/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘艺斌",
+    "english_name": "Liu Yibin",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "化学",
+        "school": "北京大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "北京大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "新型化学生物学探针开发",
+      "高通量测序技术建立",
+      "核酸化学修饰在生物医学中的应用"
+    ],
+    "research_interests": [
+      "核酸化学修饰",
+      "化学生物学工具",
+      "高通量测序",
+      "单碱基分辨率检测",
+      "生物标志物发现",
+      "细胞游离DNA",
+      "外泌体",
+      "单细胞分析"
+    ],
+    "research_description": "本课题组致力于开发新颖的化学生物学工具，结合高通量测序技术，精准解析核酸的化学修饰，重点研究新型化学标记探针的设计与反应机理，建立无DNA损伤的高通量测序新方法，实现全基因组单碱基分辨率修饰图谱绘制，并应用于cfDNA、外泌体、单细胞等低丰度临床样本，探索其在癌症等重大疾病早期诊断中的生物标志物潜力。",
+    "disciplines": [
+      "化学生物学",
+      "分子生物学",
+      "表观遗传学",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "核酸修饰",
+      "化学探针",
+      "高通量测序",
+      "单细胞分析",
+      "癌症早期诊断",
+      "生物标志物",
+      "表观遗传学",
+      "多学科交叉"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院官网",
+        "url": "http://jszy.whu.edu.cn/yl/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘艺斌\n页面链接: http://jszy.whu.edu.cn/yl/zh_CN/index.htm\n==================================================\n武汉大学 刘艺斌--Liu Lab--主页 Home\nEnglish\n访问量：\n最后更新时间：--\n主页 Home\n个人简介 PI\n课题组 Team\n发表论文 Publications\n实验室 Lab\n刘艺斌\n博士生导师\n硕士生导师\n教师姓名：刘艺斌\n教师拼音名称：Liu Yibin\n电子邮箱：\n入职时间：2022-10-01\n所在单位：化学与分子科学学院\n职务：教授\n学历：博士研究生毕业\n办公地点：医学部9号楼1513-2\n毕业院校：北京大学\n所属院系：化学与分子科学学院\n其他联系方式\n暂无内容\n主页 Home\n当前位置：\nLiu Lab\n>\n主页 Home\n欢迎来到刘艺斌课题组！\n本课题组是一个多学科交叉团队，致力于开发新颖的化学生物学工具，并结合高通量测序技术，精准解析核酸的化学修饰，为重大疾病的早期诊断提供全新解决方案。\n我们的研究聚焦于以下三大方向：\n1. 开发新型化学标记工具。我们通过对反应机理的深入研究，并结合理论计算，理性设计并开发高效、特异的化学生物学探针，用于精准识别DNA和RNA上的关键修饰。\n2. 建立高通量测序新技术。我们将原创的化学标记方法与分子生物学技术融合，建立创新的高通量测序流程。我们的新方法避免了传统方法的DNA损伤，能够以单碱基分辨率、高信噪比地绘制全基因组修饰图谱，实现对微量样本的精准检测。\n3. 探索生物医学应用与标志物。我们将新技术应用于细胞游离DNA (cfDNA)、外泌体(EV)、单细胞(single-cell)等低丰度临床样本，通过分析其表观遗传修饰特征，致力于发现与癌症等重大疾病相关的生物标志物，服务于疾病的早期诊断与精准治疗。\n课题组热忱欢迎对核酸化学感兴趣的学生、学者加入，共同探索化学和生命科学的交叉前沿。联系邮箱：liuyibin@whu.edu.cn\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

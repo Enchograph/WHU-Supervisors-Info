@@ -1,0 +1,217 @@
+{
+  "id": "lixue1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lixue1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李雪",
+    "english_name": "",
+    "title": [
+      "副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "应用化学系",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "化学与生物分子工程",
+        "school": "新加坡国立大学",
+        "period": "2009～2013",
+        "country": "新加坡"
+      },
+      {
+        "degree": "硕士",
+        "field": "应用化学",
+        "school": "南京大学",
+        "period": "2006～2009",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "应用化学",
+        "school": "南京大学",
+        "period": "2002～2006",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "新加坡国立大学",
+    "academic_honors": [
+      "2015 北美膜科学学会青年膜科学家奖",
+      "2014 世界未来基金会环境与可持续性发展优秀博士论文奖",
+      "2012 第十四届亚太化工代表大会青年科学研究者奖",
+      "2010 新加坡工程师协会优秀工程奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "渗透能源开发",
+      "高分子膜材料表面功能化",
+      "高分子膜形态调控",
+      "污水处理与海水淡化"
+    ],
+    "research_interests": [
+      "压强延迟渗透",
+      "减压渗透",
+      "抗污染膜",
+      "超薄复合膜",
+      "正渗透分离",
+      "纳滤分离",
+      "两性离子聚合物",
+      "点击接枝",
+      "自修复膜",
+      "油水分离"
+    ],
+    "research_description": "李雪博士主要从事新型渗透能源（如压强延迟渗透/减压渗透）的开发利用，致力于设计和制备高透量、强耐压的高分子超薄复合膜，用于河流与海水交汇、污水与卤水混合等场景下的渗透发电。同时，研究高分子膜材料的表面功能化改性，提升其抗生物污染、抗细菌吸附和杀菌性能，以减少膜性能损耗。此外，开展高分子膜形态（如对称膜、非对称膜、中空纤维膜、复合膜等）的系统研究，通过非溶剂诱导相分离技术实现结构调控。在应用层面，聚焦高分子膜在污水处理和海水淡化中的低能耗净化技术，推动水资源可持续利用与新能源开发。",
+    "disciplines": [
+      "应用化学",
+      "材料科学",
+      "环境工程",
+      "化学工程"
+    ],
+    "field_tags": [
+      "渗透发电",
+      "高分子膜",
+      "抗污染",
+      "水处理",
+      "新能源",
+      "膜分离",
+      "自修复材料",
+      "纳米复合材料",
+      "可持续发展",
+      "废水资源化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 27,
+    "representative_publications": [
+      {
+        "title": "“Button and buttonhole” supramolecular structure enables the self-healing behaviors of functionalized poly(ether sulfone) membranes for osmotic power generation",
+        "keywords": [
+          "压强延迟渗透",
+          "自修复膜",
+          "高分子超薄复合膜",
+          "渗透发电"
+        ],
+        "journal_name": "ACS Applied Materials & Interfaces",
+        "research_fields": [
+          "新能源开发",
+          "高分子膜材料",
+          "水资源利用"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Membrane fouling by the aggregations formed from oppositely charged organic foulants",
+        "keywords": [
+          "膜污染",
+          "有机污染物",
+          "反渗透",
+          "污水处理"
+        ],
+        "journal_name": "Water Research",
+        "research_fields": [
+          "环境科学",
+          "水处理技术",
+          "膜分离"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Precise growth of polymer brushes on silica-based nanocomposites via visible-light-regulated controlled radical polymerization",
+        "keywords": [
+          "聚合物刷",
+          "光调控聚合",
+          "纳米复合材料",
+          "可控自由基聚合"
+        ],
+        "journal_name": "Journal of Materials Chemistry A",
+        "research_fields": [
+          "材料科学",
+          "高分子化学",
+          "纳米技术"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Sulfonated hyperbranched polyglycerol grafted membranes with antifouling properties for sustainable osmotic power generation using municipal wastewater",
+        "keywords": [
+          "两性离子聚合物",
+          "抗污染膜",
+          "市政污水",
+          "渗透发电"
+        ],
+        "journal_name": "Journal of Membrane Science",
+        "research_fields": [
+          "膜技术",
+          "环境工程",
+          "可再生能源"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Thin-film composite P84 co-polyimide hollow fiber membranes for osmotic power generation",
+        "keywords": [
+          "复合膜",
+          "聚酰亚胺",
+          "中空纤维膜",
+          "盐差能发电"
+        ],
+        "journal_name": "Applied Energy",
+        "research_fields": [
+          "能源材料",
+          "膜分离",
+          "清洁发电"
+        ],
+        "publication_year": 2014
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院",
+        "url": "http://jszy.whu.edu.cn/lixue1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "深圳市科技计划",
+      "江苏省自然科学基金",
+      "湖北省自然科学基金",
+      "中央高校基本科研业务费专项资金",
+      "新加坡国立研究基金会项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "深圳市科技计划",
+      "江苏省自然科学基金",
+      "湖北省自然科学基金",
+      "中央高校基本科研业务费专项资金",
+      "新加坡国立研究基金会"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李雪\n页面链接: http://jszy.whu.edu.cn/lixue1/zh_CN/index.htm\n==================================================\n武汉大学 李雪--中文主页--首页\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n新闻网中文官网\nEn\n同专业硕导\n个人信息 李雪\n性别：女\n学科：\n应用化学\n在职信息：在职\nMORE +\n个人信息\nPersonal information\n硕士生导师\n学历：博士研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n入职时间：2016-09-01\n职务：应用化学系副主任\n办公地点：武汉大学化学与分子科学学院化西316\n电子邮箱：\n个人简介教育经历其他联系方式 工作经历\n社会兼职\n研究方向\n团队成员\n个人简介\nPersonal profile\n教育、工作背景\n2016～至今\n武汉大学 化学与分子科学学院\n副研究员\n2013～2016\n新加坡国立大学 化学与生物分子工程系\n博士后 (Research Fellow)\n2009～2013\n新加坡国立大学 化学与生物分子工程系\n博士 (导师：Prof. Neal Chung Tai-Shung)\n2006～2009\n南京大学 化学化工学院  应用化学专业\n硕士\n2002～2006\n南京大学 化学化工学院  应用化学专业\n学士\n科研工作简介\nA.新型渗透能源(Osmotic energy)的开发利用\n水资源利用和新能源开发是全球性的热点问题。利用压强延迟渗透/减压渗透(Pressure-retarded osmosis)技术，结合高分子膜的半渗透特性，对具有渗透压差的自然水流（如河流与海水交汇）、污染水源（如污水与卤水混合）进行新型能源开发。此项工作设计并纺制高透量强耐压的高分子超薄复合膜，研究该类型膜的能源生产效能；工作处于世界领先水平，对废水资源利用和新能源开发具有积极意义。\nB.高分子膜材料表面功能化及抗污染膜的制备\n高分子膜材料种类多样，但功能往往单一，限制了它的实际应用。为实现高分子膜应用多样化，对高分子材料进行表面功能化改性研究，利用简单有效的化学及物理修饰，可使其具有抗生物污染、抗细菌吸附和杀菌的性能，从而减少膜性能损耗，提高薄膜的分离效率。\nC.高分子膜形态研究\n高分子膜的形态对膜功能和分离效能起着决定性作用。对称膜、非对称膜、半渗透膜、平板膜、单层中空纤维膜、双层中空纤维膜、复合型膜等形态多样，功能各异。此项工作对高分子膜进行形态研究，通过非溶剂诱导相分离，纺制多种形态的高分子膜。\nD.污水处理和海水淡化\n为应对水资源污染和淡水缺乏问题，高分子膜已广泛应用于反渗透、纳滤、微滤等领域。此项工作利用高分子膜的正渗透分离与纳滤分离法对污水及海水进行低能耗净化。\n奖励与荣誉\n2015 北美膜科学学会青年膜科学家奖 (2015 NAMS Young Membrane Scientist Award) 2014 世界未来基金会环境与可持续性发展优秀博士论文奖 一万美金 (The World Future Foundation PhD Prize in Environmental undefinedamp; Sustainability Research) 2012 第十四届亚太化工代表大会青年科学研究者奖 (The Young Researcher Award at the 14th Asia Pacific Confederation of Chemical Engineering Congress (APCChE)) 2010 新加坡工程师协会优秀工程奖 (The IES Prestigious Engineering Achievement Awards 2010 of the Institution of Engineers, Singapore (IES))\n近期项目\n2018~2020   国家自然科学基金51703167“两性离子聚合物接枝的压力延滞渗透膜制备及其亲水性、耐压性和抗污染研究”，主持\n2017~2019   深圳市科技计划JCYJ20170303170340122“耐压型渗透膜的制备及其渗透发电性能研究”，主持\n2017~2020   江苏省自然科学基金BK20170412 “点击接枝超支化聚合物对电纺丝膜结构与性能调控的研究及其对含油废水的处理”，主持\n2017~2018   能量存储与转换材料化学教育部重点实验室开放基金项目“压力延滞渗透发电膜制备及其在污水中抗污染性能研究”，参与\n2017~2019   湖北省自然科学基金2017CFB127“具有抗污染能力的纳滤膜及其结构与性能研究”，主持\n2017~2018   中央高校基本科研业务费专项资金武汉大学自主科研项目2042017kf0014“强抗压型高通量渗透发电膜的研究”，主持\n2013~2018   新加坡国立研究基金会 (Singapore National Research Foundation) 项目1102-IRIS-11：“Membrane development for osmotic power generation”，参与，Project leader\n代表性成果\n近期：\n1.    Li, J. L.; Wang, C. P.; Xiang, Z.; Zhao, Y. J.; Zhang, Y.; Li, X.*; Cai, T.* “Button and buttonhole” supramolecular structure enables the self-healing behaviors of functionalized poly(ether sulfone) membranes for osmotic power generation, ACS Appl. Mater. Interfaces 2019, 11, 42322−42329 (2018 IF = 8.456，工程技术I区，Top 10 (27/293，材料科学))。\n2.    Huang, Y.; Zhang, X. R.; Ye, S.-J.; Li, J. L.; Li, X.*; Cai, T.* Robust hollow nanocomposites with ruthenium-bipyridine complexes for heterogeneous catalysis of logic-controlled RAFT polymerization, Nanoscale 2019, 11, 13502–13510 (2018 IF = 6.97，工程技术I区，Top 12 (18/148，应用物理))。\n3.    Shao, S.; Fu, W.; Li, X. J.; Shi, D.; Jiang, Y.; Li, J.; Gong, T.; Li, X.* Membrane fouling by the aggregations formed from oppositely charged organic foulants, Water Research 2019, 159, 95−101 (2018 IF = 7.913，环境科学与生态学I区，Top 1 (1/90，水资源研究)，Top 4 (10/250，环境科学))。\n4.    Li, X.; Ye, S.-J.; Huang, Y.; Li, J. L.; Cai, T.* Precise growth of polymer brushes on silica-based nanocomposites via visible-light-regulated controlled radical polymerization, Journal of Materials Chemistry A 2019, 7, 6173−6179 (2018 IF = 10.733，工程技术I区，Top 7 (21/293, 材料科学)，Top 6 (6/103, 能源燃料))。\n5.    Li, J. L.; Zhang, Y.; Zhang, S.; Liu, M.; Li, X.*; Cai, T.* Hyperbranched poly(ionic liquid) functionalized poly(ether sulfone) membranes as healable antifouling coatings for osmotic power generation, Journal of Materials Chemistry A 2019, 7, 8167−8176 Highlighted in back cover (2018 IF = 10.733，工程技术I区，Top 7 (21/293, 材料科学)，Top 6 (6/103, 能源燃料))。\n6.    Huang, Y. #; Li, X.#; Li, J. L.; Zhang, B.*; Cai, T.* An environmentally benign and pH-sensitive photocatalyst with surface-bound metalloporphyrin for heterogeneous catalysis of controlled radical polymerization, Macromolecule 2018, 51(20), 7974−7982 (2018 IF = 5.997，化学II区TOP，Top 5 (5/87，高分子科学)) 。\n7.    Li, X.; Li, J. L.; Huang, W. G.; Zhang, X.-Z.; Zhang, B.*; Cai, T.* Metalloporphyrin-bound Janus nanocomposites with dual stimuli responsiveness for nanocatalysis in living radical polymerization, Nanoscale 2018, 10, 19254–19261 Outside back cover (2018 IF = 6.97，工程技术I区，Top 12 (18/148，应用物理))。\n8.    Zhang, Y.; Li, J. L.; Cai, T.; Cheng, Z. L.; Li, X.*; Chung, T. S.* Sulfonated hyperbranched polyglycerol grafted membranes with antifouling properties for sustainable osmotic power generation using municipal wastewater, Journal of Membrane Science 2018, 563, 521–530 (2018 IF = 7.015，工程技术I区，Top 3 (2/87，高分子科学))。\n9.    Li, X.; Li, J. L.; Wang, Y.; Cai, T.* Fabrication of smart hybrid nanoreactors from platinum nanodendrites encapsulating in hyperbranched polyglycerol hollow shells, ACS Appl. Nano Mater. 2018, 1, 2559−2566。\n10. Cheng, Z. L.; Li, X.; Chung, T. S.* The forward osmosis-pressure retarded osmosis (FO-PRO) hybrid system: A new process to mitigate membrane fouling for sustainable osmotic power generation, Journal of Membrane Science 2018, 559, 63–74 ((2018 IF = 7.015，工程技术I区，Top 3 (2/87，高分子科学))。\n11. Cheng, Z. L.; Li, X.; Feng, Y. N.; Wan, C. F.; Chung, T. S.* Tuning water content in polymer dopes to boost the performance of outer-selective thin-film composite (TFC) hollow fiber membranes for osmotic power generation, Journal of Membrane Science 2017, 524, 97–107 (2018 IF = 7.015，2017 IF = 6.578，工程技术I区，Top 3 (2/87，高分子科学))。\n12. Li, X.; Hu, X.; Cai, T.* Construction of hierarchical fouling resistance surfaces onto poly(vinylidene fluoride) membranes for combating membrane biofouling, Langmuir 2017, 33(18), 4477–4489 (2018 IF = 3.683，2017 IF = 3.789，化学II区TOP)。\n13. Li, X.; Cai, T.; Amy, G. L.; Chung, T. S.* Cleaning strategies and membrane flux recovery on anti-fouling membranes for pressure retarded osmosis, Journal of Membrane Science 2017, 522, 116–123 (2018 IF = 7.015，2017 IF = 6.578，工程技术I区，Top 3 (2/87，高分子科学))。\n14. Li, X.; Cai, T.*; Kang, E. T.* Hairy hybrid nanorattles of platinum nanoclusters with dual-responsive polymer shells for confined nanocatalysis, Macromolecules 2016, 49(15), 5649–5659 (2018 IF = 5.997，2016 IF = 5.835，化学II区TOP，Top 5 (5/87，高分子科学))。\n2016年以前\n1.    Li, X.; Cai, T.; Chen, C.; Chung, T. S.* Negatively charged hyperbranched polyglycerol grafted membranes for osmotic power generation from municipal wastewater, Water Research 2016, 89, 50–58 (2018 IF = 7.913，2016 IF = 6.942，环境科学与生态学I区，Top 1 (1/90，水资源研究)，Top 4 (10/250，环境科学))。\n2.    Li, X.; Ang, W. L.; Liu, Y. D.; Chung, T. S.* Engineering design of outer-selective tri-bore hollow fiber membranes for forward osmosis and oil-water separation, AIChE Journal 2015, 61(12), 4491–4501 (2018 IF = 3.463，2015 IF = 2.980，工程技术II区，美国化工协会会刊，国际化工领域具有最高综合影响的期刊)。\n3.    Li, X.; Cai, T.; Chung, T. S.* Anti-fouling behavior of hyperbranched polyglycerol-grafted poly(ether sulfone) hollow fiber membranes for osmotic power generation, Environmental Science & Technology 2014, 48(16), 9898–9907, Highly Cited Paper (top 1% of the academic field of Environment/Ecology, analysized by Web of Science) (2018 IF = 7.149，2014 IF = 5.330，环境科学与生态学I区，Top 6 (14/250，环境科学))。\n4.    Li, X. and Chung, T. S.* Thin-film composite P84 co-polyimide hollow fiber membranes for osmotic power generation, Applied Energy 2014, 114, 600–610 (2018 IF = 8.426，2014 IF = 5.613，工程技术I区，Top 4 (5/138，化学工程))。\n5.    Li, X.; Zhang, S.; Fu, F. J.; Chung, T. S.* Deformation and reinforcement of thin-film composite (TFC) polyamide-imide (PAI) membranes for osmotic power generation, Journal of Membrane Science 2013, 434, 204–217 (2018 IF = 7.015，2013 IF = 4.908，工程技术I区，Top 3 (2/87，高分子科学))。\n6.    Li, X. and Chung, T. S.* Effects of free volume in thin-film composite membranes on osmotic power generation, AIChE Journal 2013, 59(12), 4749–4761 (2018 IF = 3.463，2015 IF = 2.980，2013 IF = 2.581，工程技术II区，美国化工协会会刊，国际化工领域具有最高综合影响力的期刊)。\n7.    Li, X.; Wang, K. Y.; Helmer, B.; Chung, T. S.* Thin-film composite membranes and formation mechanism of thin-film layers on hydrophilic cellulose acetate propionate substrates for forward osmosis processes, Industrial & Engineering Chemistry Research 2012, 51(30), 10039–10050 (2018 IF = 3.375，2012 IF = 2.206，工程技术II区TOP)。\n8.    Chung, T. S.*; Li, X.; Ong, R. C.; Ge, Q. C.; Wang, H. L.; Han, G. Emerging forward osmosis (FO) technologies and challenges ahead for clean water and clean energy applications, Current Opinion in Chemical Engineering 2012, 1(3), 246–257, Top Cited Paper (2018 IF = 4.463，2015 IF = 3.571，Top 15 (20/138，化学工程))。\n9.    Cai, T.; Li, X.; Wan, C. F.; Chung, T. S.* Zwitterionic polymers grafted poly(ether sulfone) hollow fiber membranes and their antifouling behaviors for osmotic power generation, Journal of Membrane Science 2016, 497, 142–152 (2018 IF = 7.015，2016 IF = 6.035，工程技术I区，Top 3 (2/87，高分子科学))。\n10. Cheng, Z. L.; Li, X.; Liu, Y. D.; Chung, T. S.* Robust outer-selective thin-film composite polyethersulfone hollow fiber membranes with low reverse salt flux for renewable salinity-gradient energy generation, Journal of Membrane Science 2016, 506, 119–129 (2018 IF = 7.015，2016 IF = 6.035，工程技术I区，Top 3 (2/87，高分子科学))。\n11.    Gai, W. X.; Li, X.; Xiong, J. Y.; Wan, C. F.; Chung, T. S.* Evolution of micro-deformation in inner-selective thin film composite hollow fiber membranes and its implications for osmotic power generation, Journal of Membrane Science 2016, 516, 104–112 (2018 IF = 7.015，2016 IF = 6.035，工程技术I区，Top 3 (2/87，高分子科学))。\n12.    Han, G.; Zhang, S.; Li, X.; Chung, T. S.* Progress in pressure retarded osmosis (PRO) membranes for osmotic power generation, Progress in Polymer Science 2015, 51, 1–27 (2018 IF = 24.505，2015 IF = 27.184，化学I区，Top 1 (1/87，高分子科学))。\n13.    Zhao, D. L.; Qiu, G. L.; Li, X.; Wan, C. F.; Lu, K. J.; Chung, T. S.* Zwitterions coated hollow fiber membranes with enhanced antifouling properties for osmotic power generation from municipal wastewater, Water Research 2016, 104, 389–396 (2018 IF = 7.913，2016 IF = 6.942，环境科学与生态学I区，Top 1 (1/90，水资源研究)，Top 4 (10/250，环境科学))。\n14.    Han, G.; Zhang, S.; Li, X.; Chung, T. S.* High performance thin film composite pressure retarded osmosis (PRO) membranes for renewable salinity-gradient energy generation, Journal of Membrane Science 2013, 440, 108–121 (2018 IF = 7.015，2017 IF = 6.578，2016 IF = 6.035，2015 IF = 5.557，2014 IF = 5.056，2013 IF = 4.908，工程技术I区，Top 3 (2/87，高分子科学))。\n15.    Han, G.; Zhang, S.; Li, X.; Widjojo, N.; Chung, T. S.* Thin film composite forward osmosis membranes based on polydopamine modified polysulfone substrates with enhancements in both water flux and salt rejection, Chemical Engineering Science 2012, 80, 219–231 (2018 IF = 3.372，2012 IF = 2.386，工程技术II区TOP)。\n16.    Li, J. G.; Liu, Q.; Li, X.; Liu, Y. B.*; Xie, J. P.* Template-assisted fabrication of thin-film composite forward-osmosis membrane with controllable internal concentration polarization, Industrial & Engineering Chemistry Research 2016, 55(18), 5327–5334 (2018 IF = 3.375，2016 IF = 2.843，工程技术II区TOP)。\n教育经历\nEducation experience\n暂无内容\n其他联系方式\nOther Contact information\n[1]邮编:\n[2]传真:\n[3]通讯/办公地址:\n[4]办公室电话:\n[5]移动电话:\n[6]邮箱:\n工作经历\nWork experience\n暂无内容\n社会兼职\nProfessional affiliations\n暂无内容\n研究方向\nResearch direction\n暂无内容\n团队成员\nTeam members\n暂无内容\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

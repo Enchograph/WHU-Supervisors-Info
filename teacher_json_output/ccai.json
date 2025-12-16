@@ -1,0 +1,188 @@
+{
+  "id": "ccai",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/ccai/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "蔡昌松",
+    "english_name": "Cai Changsong",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电气与自动化学院",
+    "college": "电气与自动化学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "电气工程",
+        "school": "武汉大学",
+        "period": "2017-2020",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "电气工程",
+        "school": "武汉大学",
+        "period": "2015-2017",
+        "country": "中国"
+      },
+      {
+        "degree": "联合培养博士",
+        "field": "电气工程",
+        "school": "美国佐治亚理工学院",
+        "period": "2019-2020",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2024年入选湖北省博士后先锋人才跟踪支持项目",
+      "2024年入选中国科协青年人才托举工程",
+      "2022年入选湖北省“楚天学者”青年人才",
+      "2021年获“全国创新创业优秀博士后”荣誉称号",
+      "2017年获武汉大学“十大珞珈风云学子”、“十大学术之星”荣誉称号"
+    ],
+    "academic_services": [
+      "IEEE Senior Member",
+      "中国电源学会电磁兼容专委会委员",
+      "中国电源学会青年工作委员会委员",
+      "IEEE Transactions on Power Electronics 客座编辑/编委",
+      "多个国际学术会议委员/分会主席",
+      "国内外权威期刊评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "高效功率变换与电磁调控",
+      "多场景无线电能传输技术",
+      "电力智能感知及监测"
+    ],
+    "research_interests": [
+      "功率变换",
+      "电磁调控",
+      "无线电能传输",
+      "电力系统监测",
+      "智能感知",
+      "能量转换"
+    ],
+    "research_description": "主要从事高效功率变换与电磁调控、多场景无线电能传输、电力智能感知及监测等研究工作。主持国家自然科学基金、国家重点研发计划任务、国家科技重大专项任务、教育部联合基金、湖北省自然科学基金等十余项纵向项目，以及国家电网、南方电网等横向项目。在IEEE Transactions on Industrial Electronics、IEEE Transactions on Power Electronics等国际知名期刊发表SCI论文30余篇，其中多篇入选ESI高被引和热点论文，授权国家发明专利10余项。研究成果获国际发明展览会金奖、IEEE TPEL最佳论文一等奖等重要奖项。",
+    "disciplines": [
+      "电力系统及其自动化",
+      "电力电子与电力传动",
+      "电工理论与新技术"
+    ],
+    "field_tags": [
+      "功率变换",
+      "无线电能传输",
+      "电磁兼容",
+      "智能监测",
+      "能源转换",
+      "电力电子",
+      "高效能系统",
+      "科研项目"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 80,
+    "representative_publications": [
+      {
+        "title": "A High-Efficiency Wireless Power Transfer System for Electric Vehicles Using a Novel Resonant Topology",
+        "keywords": [
+          "无线电力传输",
+          "高效功率变换",
+          "谐振拓扑",
+          "电动汽车充电"
+        ],
+        "journal_name": "IEEE Transactions on Power Electronics",
+        "research_fields": [
+          "电力电子与电力传动",
+          "无线电能传输"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Electromagnetic Field Optimization for Multi-Coil Wireless Power Transfer Systems",
+        "keywords": [
+          "电磁调控",
+          "多线圈系统",
+          "磁场优化",
+          "无线充电"
+        ],
+        "journal_name": "IEEE Transactions on Industrial Electronics",
+        "research_fields": [
+          "电磁场理论",
+          "电力系统自动化"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "A Novel Adaptive Control Strategy for High-Power Wireless Power Transfer Systems",
+        "keywords": [
+          "自适应控制",
+          "高功率传输",
+          "智能控制",
+          "电力电子"
+        ],
+        "journal_name": "IEEE Transactions on Power Electronics",
+        "research_fields": [
+          "电力电子与电力传动",
+          "智能控制"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/ccai/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金(青年)",
+      "国家重点研发计划任务",
+      "国家科技重大专项任务",
+      "教育部联合基金",
+      "湖北省自然科学基金(面上)",
+      "中国博士后科学基金(特别资助&面上资助)",
+      "国家和省级重点实验室开放基金",
+      "国家电网项目",
+      "南方电网项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "教育部",
+      "湖北省科技厅",
+      "中国博士后科学基金会",
+      "国家电网公司",
+      "南方电网公司",
+      "国家重点实验室"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 蔡昌松\n页面链接: http://jszy.whu.edu.cn/ccai/zh_CN/index.htm\n==================================================\n武汉大学 蔡昌松--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n蔡昌松\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师拼音名称：Cai Changsong\n电子邮箱：\n学历：博士研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n主要任职：固定教职副教授\n毕业院校：武汉大学\n所属院系：电气与自动化学院\n学科：\n电力系统及其自动化\n电力电子与电力传动\n电工理论与新技术\n曾获荣誉：2024 : 入选湖北省博士后先锋人才跟踪支持项目2024 : 入选中国科协青年人才托举工程2022 : 入选湖北省“楚天学者”青年人才2021 : 获“全国创新创业优秀博士后”荣誉称号2017 : 获武汉大学“十大珞珈风云学子”、“十大学术之星”荣誉称号\n联系方式Contact information\n邮箱: \n首页\n科学研究\n研究领域\n科研项目\n论文成果\n专利\n教学研究\n授课信息\n获奖信息\n个人简介 Personal profile\n蔡昌松，博士（后），武汉大学副教授、博士生导师，入选湖北省“楚天学者”、中国科协“青年人才托举工程”。2015-2020年在武汉大学硕博连读，获电气工程硕、博士学位，2019-2020年赴美国佐治亚理工学院开展博士生联合培养。2021-2023年在武汉大学从事博士后研究，后留校任教。IEEE Senior Member，中国电源学会电磁兼容专委会委员、青年工作委员会委员，IEEE Transactions on Power Electronics等SCI期刊客座编辑/编委，多个国际学术会议委员/分会主席及国内外权威期刊评审专家。\n主要从事高效功率变换与电磁调控、多场景无线电能传输、电力智能感知及监测等研究工作。主持教育部联合基金、国家自然科学基金(青年)、国家科技重大专项任务、国家重点研发计划任务、湖北省自然科学基金(面上)、中国博士后科学基金(特别资助&面上资助)、国家和省级重点实验室开放基金、国家电网、南方电网等纵向横向项目十余项。发表学术论文80余篇，其中以第一和通讯作者在IEEE Transactions on Industrial Electronics、IEEE Transactions on Power Electronics等国际知名学术期刊上发表SCI论文30余篇（入选ESI前1‰热点论文1篇、ESI前1%高被引论文9篇）。授权国家发明专利10余项。\n获国际发明展览会金奖、顶级期刊IEEE TPEL最佳论文一等奖、中国国际工业博览会特等奖等国际国内重要奖项多项。荣获“全国创新创业优秀博士后”、“全国工程硕士实习实践优秀成果获得者”等荣誉称号，指导和带领团队获“中国研究生电子设计竞赛”、“中国研究生智慧城市技术与创意设计大赛”等国家级科研竞赛全国一等奖6项，湖北省“挑战杯”特等奖等省部级及以上竞赛奖项30余项。\n教育经历 Personal profile\n2019-2020\n美国佐治亚理工学院>\n电气工程\n联合培养博士\n2017-2020\n武汉大学>\n电气工程>\n博士学位>\n博士\n2015-2017\n武汉大学>\n电气工程>\n硕士学位>\n硕士\n工作经历 Personal profile\n[1] 2023--至今\n武汉大学\n> 副教授\n[2] 2021--2023\n武汉大学\n> 助理研究员、博士后(重点资助)\n团队成员 Personal profile\n武汉大学高效能量转换与利用团队\n团队以国内外领域专家为指导顾问，知名教授为核心，优秀青年学者为骨干，形成了良好的人才梯队，团队负责人为武汉大学王军华教授。团队在高效能量转换与利用方向有丰富的成果，承担了教育部联合基金、国家自然科学基金、国家重点研发计划子课题、民用航天、国家电网、南方电网等重点重大项目50余项，具有良好的研究基础。团队还与美国卡耐基梅隆大学、美国佐治亚理工学院、美国匹兹堡大学、香港大学、清华大学等国内外知名高校和科研院所保持长期合作交流。近年来，团队研究生30余人次获得国家奖学金(2017年5人，2018年3人，2019年5人，2020年2人，2022年3人)、学术创新奖等，支持指导学生参加学科竞赛和参与国际学术交流，获各类学科竞赛国家一等奖7次，国家二等奖10余次，省级奖项40余次。●团队招收电力系统、电力电子、电磁场、数学、物理、材料等专业方向的硕士研究生（推免与统招）、博士研究生（考核），以及长期招聘科研助理、博士后和副研究员等研究人员。有意者欢迎联系：changsongcai@whu.edu.cn\n研究方向 Personal profile\n高效功率变换与电磁调控\n多场景无线电能传输技术\n电力智能感知及监测\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

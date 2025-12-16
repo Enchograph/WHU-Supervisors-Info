@@ -1,0 +1,178 @@
+{
+  "id": "lisouming",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lisouming/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李明",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "计算机视觉、深度学习、遥感与人工智能",
+        "school": "武汉大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家最高科学技术奖获得者（2024）指导学生（李德仁院士）",
+      "与瑞士苏黎世联邦理工学院（ETH Zurich）合作研究经历"
+    ],
+    "academic_services": [
+      "《ISPRS Journal of Photogrammetry and Remote Sensing》期刊审稿人",
+      "《IEEE Geoscience and Remote Sensing Magazine》期刊审稿人",
+      "国家自然科学基金项目评审专家",
+      "国家重点研发计划项目评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "水下光学无人遥感",
+      "多模态数据融合与定位导航",
+      "卫星影像智能处理与服务",
+      "三维建模与视觉定位",
+      "智能视觉感知与理解"
+    ],
+    "research_interests": [
+      "水下机器人",
+      "珊瑚礁三维建模",
+      "视觉定位",
+      "语义SLAM",
+      "深度学习",
+      "无人机遥感",
+      "绿激光雷达",
+      "智能表征学习",
+      "数字孪生",
+      "自主感知"
+    ],
+    "research_description": "李明教授主要从事水下光学无人遥感研究，聚焦于水下机器人多模态数据融合与定位导航、卫星影像智能处理与服务、水下珊瑚礁/结构物/重要基础设施/精细地形的自主感知与测量、图像智能理解、语义SLAM、无人机环境视觉感知与建模、绿激光雷达研制与应用等方向。团队承担国家重点研发计划、国家自然科学基金、国际合作项目等十余项，研究成果发表于ISPRS Journal of Photogrammetry and Remote Sensing、IEEE Geoscience and Remote Sensing Magazine等权威期刊。",
+    "disciplines": [
+      "计算机视觉",
+      "遥感科学与技术",
+      "人工智能",
+      "机器人学",
+      "测绘科学与技术"
+    ],
+    "field_tags": [
+      "水下遥感",
+      "智能视觉",
+      "三维重建",
+      "SLAM",
+      "深度学习",
+      "无人机",
+      "数字孪生",
+      "遥感影像处理",
+      "多模态融合",
+      "自主导航"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "全球气候变化下珊瑚礁空-天-水下一体化数字孪生项目",
+        "keywords": [
+          "珊瑚礁三维建模",
+          "数字孪生",
+          "水下遥感",
+          "多模态数据融合"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "计算机视觉",
+          "水下机器人",
+          "遥感技术",
+          "人工智能"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于国产POS的无人机免像控高精度遥感技术",
+        "keywords": [
+          "无人机遥感",
+          "免像控",
+          "高精度定位",
+          "国产POS"
+        ],
+        "journal_name": "IEEE Geoscience and Remote Sensing Magazine",
+        "research_fields": [
+          "遥感测绘",
+          "无人机技术",
+          "智能感知",
+          "地理信息科学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "水下机器人多模态数据融合与导航、制图、定位",
+        "keywords": [
+          "水下机器人",
+          "多模态融合",
+          "导航定位",
+          "SLAM"
+        ],
+        "journal_name": "Journal of Field Robotics",
+        "research_fields": [
+          "机器人学",
+          "水下感知",
+          "智能导航",
+          "自主系统"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/lisouming/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "国家杰出自然科学基金",
+      "中央高校基本科研业务费",
+      "国际Long-term合作课题",
+      "横向课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "国家自然资源部",
+      "中央高校基本科研业务费",
+      "国际合作机构"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李明\n页面链接: http://jszy.whu.edu.cn/lisouming/zh_CN/index.htm\n==================================================\n武汉大学 李明--中文主页--首页\n李明\n硕士生导师\n任职 : 研究生导师\n性别：男\n学历：博士研究生毕业\n联系方式：liwhuer(at)whu(dot)edu(dot)cn\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\nI am an Associate Professor and serve as a supervisor for graduate students. My primary research interests lie in the fields of computer vision, deep learning, robotics, and artificial intelligence. I have led and participated in over 10 projects, including national key special projects, the National Natural Science Foundation of China, the Young Teachers' Innovation Fund, and various long-term international collaborations.\nI had the privilege of studying under Academician Li Deren(国家最高科学技术奖获得者2024), and Academician Armin Gruen from Switzerland. I worked at ETH Zurich for four years as a postdoctoral researcher and senior scientist, collaborating with Professors Konrad Schindler and Marc Pollefeys, which helped establish strong domestic and international research partnerships.\nMy research has been highly recognized by esteemed scientists such as Academician Liu Jingnan from Wuhan University and the Director of the Remote Sensing Institute at Peking University. Many outstanding students from my research group have gone on to pursue Ph.D. and postdoctoral studies at prestigious universities in the United States, the United Kingdom, Canada, Europe, and Hong Kong.\n近几年主持和参与的部分项目简要介绍：\n国际Long-term合作课题：全球气候变化下珊瑚礁空-天-水下一体化数字孪生项目\n国家重点研发计划：室内视觉定位技术\n国家重点研发计划：基于国产POS的无人机免像控高精度遥感技术\n国家杰出自然科学基金：卫星智能服务\n国家自然科学基金：智能手机视觉定位技术\n中央高校基本科研业务费（青年教师人才项目）：室内机器人三维建模与视觉定位技术\n国家自然资源部南海遥感测绘协同应用技术创新中心：基于水下遥感和Neural表征的珊瑚礁三维建模\n国际合作：水下机器人多模态数据融合与导航、制图、定位\n横向课题：四旋翼无人机关键技术研究\n横向课题：基于深度学习的水深与水下地貌测量技术研究\n......\n相关论文发表在摄影测量与遥感、计算机视觉、机器人的权威期刊和顶会（如ISPRS Journal of Photogrammetry and Remote Sensing(IF:12.7)、IEEE Geoscience and Remote Sensing Magazine(IF:16.2)等）。\n我们目前在院士和单位领导的指导下主要开展面向水下的光学无人遥感研究，目前的研究主题主要涉及：水下机器人多模态数据融合与定位导航、卫星影像智能处理与服务、水下珊瑚礁/结构物/重要基础设施/精细地形自主感知与测量、图像智能理解、语义SLAM、无人机环境视觉感知与建模、绿激光雷达研制与应用等。团队与国家央企、国内外知名大学和教授建立了良好合作，优秀的同学可推荐进行实习、交流、学习和访问。\nWelcome to the Lujia Machine Learning and Intelligent Vision Research Group! We offer opportunities for excellent students who are interested in my research and application areas, as well as those who have their own ideas, self-discipline, proactivity, and a strong sense of responsibility. Each year, we have 3-5 positions available for master's students and several joint doctoral positions for recruitment. Joining our group will provide you with the chance to engage in interesting and valuable research, as well as the opportunity to be recommended for exchanges, further studies, and employment at renowned domestic and overseas institutions.\nIf you are interested, please feel free to contact me via email at liwhuer@whu.edu.cn. We look forward to hearing from motivated and talented individuals who are eager to contribute to our research endeavors.\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

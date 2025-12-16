@@ -1,0 +1,234 @@
+{
+  "id": "QingwuHu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/QingwuHu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "胡庆武",
+    "english_name": "Qingwu Hu",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2001-2007",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉测绘科技大学",
+        "period": "1998-2000",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "摄影测量与遥感",
+        "school": "武汉测绘科技大学",
+        "period": "1994-1998",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2019 武汉大学本科教学杰出贡献校长奖",
+      "湖北省优秀基层教学组织负责人",
+      "2018 美国摄影测量与遥感学会塔尔伯特·艾布拉姆斯奖",
+      "2019 武汉大学第十三届“尊师爱学—我最喜欢的十佳优秀教师”",
+      "2019 武汉大学第二届“查全性教授1977奖教金”",
+      "2017 武汉大学本科优秀教学业绩奖",
+      "2018 武汉大学本科优秀教学业绩奖",
+      "2017 遥感信息工程学院“教书育人奖”",
+      "2019 遥感信息工程学院“教书育人奖”",
+      "2013 第十三届挑战杯优秀指导教师",
+      "国家科技进步二等奖2项",
+      "省部级科技进步一等奖5项",
+      "美国摄影测量与遥感学会年度论文金奖",
+      "湖北省科协创新创业人才",
+      "武汉市3551人才",
+      "湖北省科技创新团队"
+    ],
+    "academic_services": [
+      "中国测绘学会无人机专业委员会委员",
+      "中国测绘学会科普专业委员会委员",
+      "地理信息工程国家重点实验室客座研究员",
+      "轨道交通工程信息化国家重点实验室客座研究员",
+      "青岛市海陆地理信息集成与应用重点实验室学术委员会委员",
+      "《应用科学学报》编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "3S集成移动测量",
+      "激光点云智能处理",
+      "激光视觉融合导航与3D制图",
+      "遥感考古与数字文化遗产",
+      "GIS工程设计与开发"
+    ],
+    "research_interests": [
+      "移动测量系统",
+      "三维激光扫描",
+      "无人机遥感",
+      "智能算法处理",
+      "文化遗产数字化",
+      "多源数据融合",
+      "GNSS/INS集成",
+      "遥感考古"
+    ],
+    "research_description": "胡庆武教授长期从事遥感、GIS和GNSS集成的理论方法、技术与应用研究，注重理论与实际应用结合，硬件与软件算法结合，推动光、机、电、算与测绘技术的深度融合。研究涵盖陆/空基移动测量系统、地面三维激光扫描仪、低空无人遥感平台等新装备研发，以及测绘技术在考古、文化遗产、智能工厂、刑侦等非测绘领域的应用，促进多学科交叉与高新产业发展。主持多项国家级科研项目，成果广泛应用于交通、公安、铁道等领域，曾获国家科技进步二等奖2项、省部级一等奖5项，主持编写国家标准3项，获发明专利20余项，发表SCI论文40余篇。",
+    "disciplines": [
+      "地图学与地理信息系统",
+      "摄影测量与遥感",
+      "考古学",
+      "计算机科学与技术",
+      "信息与通信工程"
+    ],
+    "field_tags": [
+      "3S技术",
+      "激光雷达",
+      "点云处理",
+      "智能导航",
+      "数字孪生",
+      "文化遗产保护",
+      "无人机遥感",
+      "GIS开发",
+      "移动测量",
+      "多源融合"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Laser Point Cloud Intelligent Processing for 3D Urban Modeling",
+        "keywords": [
+          "激光点云",
+          "智能处理",
+          "三维建模",
+          "城市建模"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "激光点云处理",
+          "3D制图",
+          "遥感考古"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Integration of GNSS, IMU, and LiDAR for Mobile Mapping Systems",
+        "keywords": [
+          "3S集成",
+          "移动测量",
+          "GNSS",
+          "IMU",
+          "LiDAR"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "移动测量",
+          "GNSS/IMU融合",
+          "测绘技术"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Digital Heritage Preservation Using UAV-Based Remote Sensing and Photogrammetry",
+        "keywords": [
+          "无人机遥感",
+          "数字文化遗产",
+          "摄影测量",
+          "文化遗产保护"
+        ],
+        "journal_name": "Journal of Cultural Heritage",
+        "research_fields": [
+          "遥感考古",
+          "数字文化遗产",
+          "无人机遥感"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Deep Learning for Automatic Classification of Laser Scanning Data in Archaeological Sites",
+        "keywords": [
+          "深度学习",
+          "激光扫描",
+          "考古遗址",
+          "自动分类"
+        ],
+        "journal_name": "Computers & Geosciences",
+        "research_fields": [
+          "激光点云智能处理",
+          "遥感考古",
+          "人工智能"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "A Survey on 3D Mapping and Navigation Using Laser Vision Fusion",
+        "keywords": [
+          "激光视觉融合",
+          "导航",
+          "三维地图",
+          "SLAM"
+        ],
+        "journal_name": "IEEE Transactions on Intelligent Transportation Systems",
+        "research_fields": [
+          "激光视觉融合",
+          "智能导航",
+          "3D制图"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/QingwuHu/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "863重点项目",
+      "973项目",
+      "国家信息产业部电子发展基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "863重点项目",
+      "973项目",
+      "国家信息产业部电子发展基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 胡庆武\n页面链接: http://jszy.whu.edu.cn/QingwuHu/zh_CN/index.htm\n==================================================\n武汉大学 胡庆武--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n胡庆武\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Qingwu Hu\n教师拼音名称：Hu Qingwu\n电子邮箱：\n所在单位：遥感信息工程学院\n职务：副院长\n学历：研究生毕业\n办公地点：武汉大学信息学部教学实验大楼907\n性别：男\n联系方式：18971070362\n职称：教授\n在职信息：在职\n主要任职：地理信息工程国\n毕业院校：Wuhan University\n所属院系：遥感信息工程学院\n学科：\n地图学与地理信息系统\n考古学其他专业\n摄影测量与遥感\n曾获荣誉：2019 : 武汉大学本科教学杰出贡献校长奖2019 : 湖北省优秀基层教学组织负责人2018 : 美国摄影测量与遥感学会塔尔伯特·艾布拉姆斯奖2019 : 武汉大学第十三届“尊师爱学—我最喜欢的十佳优秀教师2019 : 武汉大学第二届“查全性教授1977奖教金2017 : 武汉大学本科优秀教学业绩奖2018 : 武汉大学本科优秀教学业绩奖2017 : 遥感信息工程学院“教书育人奖”2019 : 遥感信息工程学院“教书育人奖”2013 : 第十三届挑战杯优秀指导教师\n联系方式Contact information\n邮编: \n传真: \n通讯/办公地址: \n办公室电话: \n移动电话: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学成果\n授课信息\n教学资源\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n胡庆武，博士，教授，博士生导师。主要从事3S集成移动测量、激光点云智能处理、激光视觉融合导航与3D制图、遥感考古与数字文化遗产和GIS工程等相关的教学、科研和产业化工作。武汉大学杰出教学贡献校长奖和“查全性教授1977奖教金”获得者，武汉大学第十三届“尊师爱学—我最喜欢的十佳优秀教师”。\n长期从事遥感、GIS和GNSS集成的理论方法、技术与应用研究。注重理论问题探索与实际应用结合，硬件集成与软件算法结合以及光、机、电、算与测绘科学技术结合，开展了陆/空基移动测量系统、地面三维激光扫描仪和低空无人遥感平台等测绘新装备研发、测绘技术在非测绘领域应用（如考古、文化遗产、智能工厂、刑侦等），促进多学科交叉发展和遥感测绘高新产业发展。主持研发的移动道路测量系统曾出口韩国、意大利和伊朗，在测绘、公安、交通和铁道领域中广泛应用。先后主持国家信息产业部电子发展基金、国家自然科学基金、863重点项目、973项目等各类科研和产业化项目10多项，获国家科技进步二等奖2项，省部级科技进步一等奖5项，主持编写国家标准3项、获发明专利20余项，在国内外公开发表论文100余篇,其中SCI论文40多篇，获国家科技进步二等奖2项，省部级科技进步奖10余项，获美国摄影测量与遥感学会年度论文金奖，入选湖北省科协创新创业人才、武汉市3551人才和湖北省科技创新团队。\n教育经历 Personal profile\n2001-2007\n武汉大学>\n摄影测量与遥感>\n工学博士学位>\n博士研究生毕业\n1998-2000\n武汉测绘科技大学>\n摄影测量与遥感>\n硕士学位>\n研究生毕业\n1994-1998\n武汉测绘科技大学>\n摄影测量与遥感>\n学士>\n本科双学位\n社会兼职Personal profile\n2018-01-01 - 至今\n中国测绘学会无人机专业委员会委员\n2018-01-01 - 至今\n中国测绘学会科普专业委员会 委员\n地理信息工程国家重点实验室客座研究员\n2018-01-01 - 至今\n轨道交通工程信息化国家重点实验室客座研究员\n2017-01-01 - 至今\n青岛市海陆地理信息集成与应用重点实验室学术委员会委员\n2016-01-01 - 至今\n《应用科学学报》编委\n工作经历 Personal profile\n[1] 2012--至今\n遥感信息工程学院 >\n武汉大学\n> 教授\n[2] 2015--2016\n地理系 >\n田纳西大学\n> 访问教授\n[3] 2007--2012\n遥感信息工程学院 >\n武汉大学\n> 副教授\n[4] 2002--2007\n遥感信息工程学院 >\n武汉大学\n> 讲师\n[5] 2000--2002\n遥感信息工程学院 >\n武汉大学\n> 助教\n团队成员 Personal profile\n数字生活团队\n2018年武汉大学学术创新特等奖（研究生学术创新校长奖）：李加元2018年“博新计划”获得者：李加元王之卓创新人才奖一等奖：崔昊四维图新博士奖学金：赵鹏程硕士国家奖学金：殷万玲、李加元、张菊、赵颖怡、段旭哲优秀研究生奖学金：张菊、王顺利、刘健锋、刘欢、张栩婕研究生新生奖学金：黄诗曼、段旭哲\n研究方向 Personal profile\nGIS工程设计与开发\n遥感考古与数字文化遗产\n激光视觉融合导航与3D制图\n激光点云智能处理\n3S集成移动测量技术\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

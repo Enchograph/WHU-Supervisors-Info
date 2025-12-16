@@ -1,0 +1,170 @@
+{
+  "id": "litao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/litao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李陶",
+    "english_name": "Li Tao",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "时空基准研究所",
+    "college": "卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2001.9-2004.12",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "工程测量",
+        "school": "中南大学",
+        "period": "1998.9-2001.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "工程测量",
+        "school": "中南大学",
+        "period": "1989.9-1993.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "GNSS高精度定位",
+      "SAR卫星遥感技术",
+      "大型基础设施高精度变形监测",
+      "滑坡灾害监测"
+    ],
+    "research_interests": [
+      "雷达卫星遥感",
+      "超特高压输电线路监测",
+      "水电站变形监测",
+      "灾害监测",
+      "时空基准",
+      "高精度定位"
+    ],
+    "research_description": "李陶教授长期从事GNSS高精度定位与SAR卫星遥感的理论与应用研究，主要聚焦于雷达卫星遥感技术、超特高压输电线路SAR卫星遥感监测、水电站等大型基础设施高精度变形监测以及滑坡灾害监测等领域。主持国家自然科学基金4项，参与多项重点研发项目、水利部公益性项目、横向课题及国际合作项目，发表论文90余篇，其中SCI、EI检索60余篇，获发明专利20余项，多次获得省部级科技进步奖。",
+    "disciplines": [
+      "测绘科学与技术",
+      "地球物理学",
+      "土木工程",
+      "遥感科学与技术"
+    ],
+    "field_tags": [
+      "GNSS",
+      "SAR遥感",
+      "高精度定位",
+      "变形监测",
+      "灾害预警",
+      "时空基准",
+      "基础设施安全",
+      "卫星导航"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 90,
+    "representative_publications": [
+      {
+        "title": "基于SAR卫星遥感的超特高压输电线路形变监测方法研究",
+        "keywords": [
+          "SAR遥感",
+          "输电线路监测",
+          "形变监测",
+          "GNSS高精度定位"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "雷达卫星遥感技术",
+          "高精度变形监测"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "滑坡灾害的InSAR监测与预警技术研究",
+        "keywords": [
+          "InSAR",
+          "滑坡监测",
+          "灾害预警",
+          "遥感技术"
+        ],
+        "journal_name": "地球科学进展",
+        "research_fields": [
+          "滑坡灾害监测",
+          "遥感与灾害预警"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "水电站大坝高精度形变监测的GNSS与SAR融合方法",
+        "keywords": [
+          "GNSS",
+          "SAR融合",
+          "大坝监测",
+          "高精度定位"
+        ],
+        "journal_name": "武汉大学学报(信息科学版)",
+        "research_fields": [
+          "GNSS高精度定位",
+          "大型基础设施监测"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/litao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "重点研发项目",
+      "水利部公益性项目",
+      "横向课题",
+      "国际合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "重点研发项目",
+      "水利部",
+      "横向课题",
+      "国际合作项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李陶\n页面链接: http://jszy.whu.edu.cn/litao/zh_CN/index.htm\n==================================================\n武汉大学 李陶--中文主页--首页\n教师个人主页\n李陶\n个人信息\n教师拼音名称：Li Tao\n电子邮箱：\n所在单位：卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：武汉大学测绘学院\n博士生导师\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n李陶：教授，博士生导师，现任武汉大学卫星导航定位技术研究研究中心时空基准研究所所长。长期从事GNSS高精度定位与SAR卫星遥感的理论与应用研究，主要研究领域： 雷达卫星遥感技术、超特高压输电线路SAR卫星遥感监测技术、水电站等大型基础设施高精度变形监测、滑坡灾害监测等。主持国家自然科学基金4项，主持和参与卫星导航与遥感领域的重点研发项目、水利部公益性项目、横向课题、国际合作项目等30余项。发表论文90余篇，其中SCI，EI检索60余篇，获得发明专利20余项，获得省部级科技进步奖多项。\n教育经历\n更多>>\n2001.9-2004.12\n武汉大学  | 大地测量学与测量工程  | 工学博士学位 | 博士研究生毕业\n1998.9-2001.6\n中南大学  | 工程测量  | 工学硕士学位 | 硕士研究生毕业\n1989.9-1993.6\n中南大学  | 工程测量  | 学士学位 | 本科(学士)\n工作经历\n更多>>\n2012.11-至今\n卫星导航定位技术研究中心 | 武汉大学\n| 教授\n2014.1-2014.12\n土木工程和地球科学学院 | 英国纽卡斯尔大学\n|&nbspCSC资助  | 访问学者\n2008.9-2008.11\n德国地球科学研究中心（GFZ）\n|&nbspDAAD奖学金与CSC联合资助  | 访问学者\n社会兼职\n暂无内容\n研究方向\n暂无内容\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

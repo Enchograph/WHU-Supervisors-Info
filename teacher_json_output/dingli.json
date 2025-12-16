@@ -1,0 +1,214 @@
+{
+  "id": "dingli",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/dingli/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "丁李",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "人工智能与自动化系",
+    "college": "电气与自动化学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "控制科学与工程",
+        "school": "华中科技大学",
+        "period": "2004.9 -- 2010.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "自动化",
+        "school": "武汉理工大学",
+        "period": "1999.9 -- 2003.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "第19届“挑战杯”全国大学生课外学术科技作品竞赛“揭榜挂帅”专项赛“擂主”奖指导老师",
+      "机械工业科学技术奖（科技进步奖二等）",
+      "中国发明协会发明创业创新奖",
+      "美国数学建模大赛F奖指导老师",
+      "武汉大学优秀学士论文指导老师",
+      "湖北省优秀学士学位论文指导老师",
+      "武汉大学动力与机械学院青年教师教学竞赛二等奖"
+    ],
+    "academic_services": [
+      "IEEE Senior Member",
+      "IEEE PES 智能电网与新技术委员会 智能电网与人工智能分委会 常务理事",
+      "亚太人工智能学会 Senior Member",
+      "广东省企业科技特派员",
+      "湖北省自动化学会 常务理事"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "多智能体集群控制",
+      "智能用电技术",
+      "智能电网控制与优化",
+      "微电网能量管理",
+      "电力系统故障检测与诊断"
+    ],
+    "research_interests": [
+      "分布式控制",
+      "事件触发机制",
+      "模型预测控制",
+      "网络化控制系统",
+      "电力系统稳定性",
+      "需求响应",
+      "拓扑识别",
+      "鲁棒优化",
+      "智能电网安全"
+    ],
+    "research_description": "丁李教授长期从事智能电网与自动化领域的研究，聚焦于多智能体系统控制、智能用电技术、电力系统优化与故障检测等方向。其研究涵盖分布式协同控制、事件触发通信机制、微电网能量管理、电力系统多线路故障检测、基于压缩感知的拓扑识别等关键技术，致力于提升智能电网的稳定性、安全性与能效水平。主持国家科技重大专项、国家自然科学基金等多项国家级项目，研究成果发表于IEEE Transactions系列等高水平期刊。",
+    "disciplines": [
+      "控制科学与工程",
+      "电气工程",
+      "能源动力",
+      "人工智能",
+      "电力系统"
+    ],
+    "field_tags": [
+      "智能电网",
+      "多智能体系统",
+      "分布式控制",
+      "需求响应",
+      "微电网",
+      "电力系统优化",
+      "故障检测",
+      "事件触发控制",
+      "网络化控制",
+      "能源管理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "Multitimescale Incentive-Based Demand Response Scheduling Models",
+        "keywords": [
+          "需求响应",
+          "多时间尺度",
+          "激励机制",
+          "能源管理"
+        ],
+        "journal_name": "IEEE Transactions on Engineering Management",
+        "research_fields": [
+          "智能电网控制",
+          "能源系统优化",
+          "电力市场"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Distributed Multiobjective Optimization Scheme for Load Aggregators in Incentive-Based Demand Response Programs",
+        "keywords": [
+          "分布式优化",
+          "多目标",
+          "负荷聚合商",
+          "激励型需求响应"
+        ],
+        "journal_name": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+        "research_fields": [
+          "智能电网",
+          "多智能体系统",
+          "能源管理"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Multi-Time Scale Model Predictive Control-Based Demand Side Management for a Microgrid",
+        "keywords": [
+          "模型预测控制",
+          "微电网",
+          "需求侧管理",
+          "多时间尺度"
+        ],
+        "journal_name": "IEEE Transactions on Smart Grid",
+        "research_fields": [
+          "微电网控制",
+          "智能电网",
+          "能源优化"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Asynchronous Communication-Based Distributed Control Strategy for ON/OFF State Thermostatically Controlled Loads",
+        "keywords": [
+          "异步通信",
+          "分布式控制",
+          "恒温负载",
+          "智能用电"
+        ],
+        "journal_name": "IEEE Transactions on Smart Grid",
+        "research_fields": [
+          "智能电网",
+          "多智能体系统",
+          "负荷控制"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Distributed Robust Low-Carbon Optimal Energy Management in Islanded Microgrids",
+        "keywords": [
+          "分布式优化",
+          "低碳",
+          "孤岛微电网",
+          "鲁棒控制"
+        ],
+        "journal_name": "IEEE Transactions on Industrial Informatics",
+        "research_fields": [
+          "微电网",
+          "低碳能源系统",
+          "智能控制"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/dingli/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家科技重大专项",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年基金项目"
+    ],
+    "funding_agencies": [
+      "国家科技重大专项",
+      "国家自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 丁李\n页面链接: http://jszy.whu.edu.cn/dingli/zh_CN/index.htm\n==================================================\n武汉大学 丁李--中文主页--首页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n语种\n丁李\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：研究生毕业\n办公地点：工学部十一教\n电子邮箱：\n2024曾获荣誉当选：第19届“挑战杯”全国大学生课外学术科技作品竞赛“揭榜挂帅”专项赛“擂主”奖指导老师 2023曾获荣誉当选：机械工业科学技术奖（科技进步奖二等） 2024曾获荣誉当选：中国发明协会发明创业创新奖 2022曾获荣誉当选：美国数学建模大赛F奖指导老师 2019曾获荣誉当选：武汉大学优秀学士论文指导老师 2017曾获荣誉当选：湖北省优秀学士学位论文指导老师 2016曾获荣誉当选：武汉大学动力与机械学院青年教师教学竞赛二等奖\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n教授、博士生导师，人工智能与自动化系主任。主要研究方向：多智能体集群控制、智能用电技术、智能电网控制与优化等。主持智能电网国家科技重大专项课题一项，国家自然科学基金面上项目三项，青年基金项目一项。\n联系方式\n邮箱：liding@whu.edu.cn。\n指导方向\n博士：控制科学与工程（学术学位）、电气工程（学术学位）、能源动力（专业学位）\n硕士：控制、电气学科学术学位硕士、专业学位硕士\n主讲课程\n本科生：自动控制原理、现代控制理论，硕士生：专业英语。\n学术专著\nHandbook of Real-Time Computing, Chapter: Impulsive Control of Multi-agent Systems with Partial Information, Ming-Feng Ge, Zhi-Wei Liu, Li Ding, Springer, 2019.\n网络控制系统的性能分析与设计, 关治洪, 黄剑, 丁李, 姜晓伟著, 科学出版社, 2016.\n代表性论文\nK. Zhou, L. Ding, and X. Li, \"Multitimescale Incentive-Based Demand Response Scheduling Models,\" IEEE Transactions on Engineering Management, vol. 72, pp. 3528-3541, 2025, doi: 10.1109/tem.2025.3598292.\nX. Li, L. Ding, Y.-R. Chen, Z.-W. Yu, and Q. Lin, \"Distributed Multiobjective Optimization Scheme for Load Aggregators in Incentive-Based Demand Response Programs,\" IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 55, no. 4, pp. 2870-2883, 2025, doi: 10.1109/tsmc.2024.3524646.\nQ. Lin, L. Ding, Z. Kong, Z.-W. Yu, X. Li, and H. Wang, \"Multi-Time Scale Model Predictive Control-Based Demand Side Management for a Microgrid,\" IEEE Transactions on Smart Grid, vol. 16, no. 2, pp. 1181-1193, 2025, doi: 10.1109/tsg.2024.3493958.\nZ.-W. Yu, L. Ding, Q. Lin, S.-R. Zhang, and Z.-W. Liu, \"Asynchronous Communication-Based Distributed Control Strategy for ON/OFF State Thermostatically Controlled Loads,\" IEEE Transactions on Smart Grid, vol. 16, no. 1, pp. 131-145, 2025, doi: 10.1109/tsg.2024.3443062.\nX. Li, L. Ding, and Z.-M. Kong, \"Distributed Robust Low-Carbon Optimal Energy Management in Islanded Microgrids,\" IEEE Transactions on Industrial Informatics, vol. 20, no. 7, pp. 9803-9813, 2024, doi: 10.1109/tii.2024.3390567.\nZ.-W. Yu, L. Ding, Z.-M. Kong, and Z.-W. Liu, \"Optimal leader-following consensus under switching topologies based on event-triggered NN-based observer,\" Journal of the Franklin Institute, vol. 361, no. 6, 2024, doi: 10.1016/j.jfranklin.2024.106758.\nZ. Mi, Z. Kong, T. Huang, P. Shi, Z. Yu, and L. Ding, \"Fixed-Time Hierarchical Distributed Control for Flexible Thermostatically Controlled Loads,\" IEEE Systems Journal, vol. 18, no. 2, pp. 1344-1355, 2024, doi: 10.1109/jsyst.2024.3366226.\nZ.-W. Yu, L. Ding, Z.-M. Kong, Z.-W. Liu, P. Hu, and Y. Xiao, \"A Distributed Coordinated Framework With Fair Comfort Level Sharing for Inverter Air Conditioner in Auxiliary Services,\" IEEE Transactions on Smart Grid, vol. 15, no. 3, pp. 2776-2790, 2024, doi: 10.1109/tsg.2023.3321654.\nW. Li, Z.-W. Liu, L. Ding, Z.-G. Wu, and Q. He, \"Multiple Line Outage Detection for Power Systems Under Multi-Parameter Uncertainty,\" IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 71, no. 3, pp. 1491-1495, 2024, doi: 10.1109/tcsii.2023.3318649.\nY. Feng, Y. Wang, B.-C. Wang, and L. Ding, \"Optimized Weights for Heterogeneous Epidemic Spreading Networks: A Constrained Cooperative Coevolution Strategy,\" IEEE Transactions on Computational Social Systems, vol. 11, no. 3, pp. 3911-3919, 2024, doi: 10.1109/tcss.2023.3323400.\nX. Li, L. Lin, Q. Liu, Z. Kong, and L. Ding, \"Topology Identification of Weighted Networks Via Binary Time Series From Propagation Dynamics,\" IEEE Transactions on Computational Social Systems, vol. 10, no. 1, pp. 24-35, 2023, doi: 10.1109/tcss.2021.3125360.\nC.-Y. Chen, Y. Zhou, Y. Wang, L. Ding, and T. Huang, \"Vulnerable Line Identification of Cascading Failure in Power Grid Based on New Electrical Betweenness,\" IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 2, pp. 665-669, 2023, doi: 10.1109/tcsii.2022.3213552.\nQ. He, L. Ding, Z.-M. Kong, P. Hu, and Z.-H. Guan, \"Distributed Scheme for Line Overload Mitigation With Linearized AC Power Flow,\" IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 6, pp. 2877-2881, 2022, doi: 10.1109/tcsii.2022.3151708.\nL. Ding, W. Li, M. Huang, Z. Kong, and C. Chen, \"Frequency synchronization adaptive control for power grids under topological uncertainty,\" Journal of the Franklin Institute, vol. 359, no. 15, pp. 7775-7795, 2022, doi: 10.1016/j.jfranklin.2022.08.037.\nM. Huang, L. Ding, W. Li, C.-Y. Chen, and Z. Liu, \"Distributed Observer-Based H_∞ Fault-Tolerant Control for DC Microgrids With Sensor Fault,\" IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 4, pp. 1659-1670, 2021, doi: 10.1109/tcsi.2020.3048971.\nZ. Dong, M. Tian, and L. Ding, \"A Framework for Modeling and Structural Vulnerability Analysis of Spatial Cyber-Physical Power Systems From an Attack–Defense Perspective,\" IEEE Systems Journal, vol. 15, no. 1, pp. 1369-1380, 2021, doi: 10.1109/jsyst.2020.3013959.\nL. Ding, S. Nie, W. Li, P. Hu, and F. Liu, \"Multiple Line Outage Detection in Power Systems by Sparse Recovery Using Transient Data,\" IEEE Transactions on Smart Grid, vol. 12, no. 4, pp. 3448-3457, 2021, doi: 10.1109/tsg.2021.3057822.\nL. Ding, P. Hu, Z.-W. Liu, and G. Wen, \"Transmission Lines Overload Alleviation: Distributed Online Optimization Approach,\" IEEE Transactions on Industrial Informatics, vol. 17, no. 5, pp. 3197-3208, 2021, doi: 10.1109/tii.2020.3009749.\nL. Ding, P. Hu, Z.-H. Guan, and T. Li, \"An Efficient Hybrid Control Strategy for Restraining Rumor Spreading,\" IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 51, no. 11, pp. 6779-6791, 2021, doi: 10.1109/tsmc.2019.2963418.\nS. Nie, L. Ding, and W. Li, \"Multiple Line-Outage Detection in Power System With Load Stochastic Perturbations,\" IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 67, no. 10, pp. 1994-1998, 2020, doi: 10.1109/tcsii.2019.2940095.\nL. Ding, W. Li, S. Nie, and P. Hu, \"Topology Identification for Power Systems via Compressive Sensing Based on Transient Dynamics,\" IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 67, no. 12, pp. 3202-3206, 2020, doi: 10.1109/tcsii.2020.2980615.\nP. Hu, L. Ding, and T. Hadzibeganovic, \"Individual-based optimal weight adaptation for heterogeneous epidemic spreading networks,\" Communications in Nonlinear Science and Numerical Simulation, vol. 63, pp. 339-355, 2018, doi: 10.1016/j.cnsns.2018.04.003.\nP. Hu, L. Ding, and X. An, \"Epidemic spreading with awareness diffusion on activity-driven networks,\" Physical Review E, vol. 98, no. 6, 2018, doi: 10.1103/PhysRevE.98.062322.\nY. Feng, L. Ding, and P. Hu, \"Epidemic spreading on random surfer networks with optimal interaction radius,\" Communications in Nonlinear Science and Numerical Simulation, vol. 56, pp. 344-353, 2018, doi: 10.1016/j.cnsns.2017.06.031.\nH.-X. Zhang, P. Hu, Z.-W. Liu, and L. Ding, \"Consensus analysis for multi-agent systems via periodic event-triggered algorithms with quantized information,\" Journal of the Franklin Institute, vol. 354, no. 14, pp. 6364-6380, 2017, doi: 10.1016/j.jfranklin.2017.08.003.\nP. Yu, L. Ding, Z.-W. Liu, and Z.-H. Guan, \"Distributed event-triggered consensus of general linear multi-agent systems with quantised measurements,\" IET Control Theory & Applications, vol. 11, no. 3, pp. 308-318, 2017, doi: 10.1049/iet-cta.2016.0425.\nE.-w. Bai and L. Ding, \"Robust target localization in the absence of signal propagation models,\" Automatica, vol. 76, pp. 127-137, 2017, doi: 10.1016/j.automatica.2016.10.008.\nP. Yu, L. Ding, Z.-W. Liu, and Z.-H. Guan, \"Leader-follower flocking based on distributed event-triggered hybrid control,\" International Journal of Robust and Nonlinear Control, vol. 26, no. 1, pp. 143-153, 2016, doi: 10.1002/rnc.3308.\nP. Yu, L. Ding, Z.-W. Liu, and Z.-H. Guan, \"A distributed event-triggered transmission strategy for exponential consensus of general linear multi-agent systems with directed topology,\" Journal of the Franklin Institute, vol. 352, no. 12, pp. 5866-5881, 2015, doi: 10.1016/j.jfranklin.2015.10.014.\nZ.-H. Guan, B. Wang, and L. Ding, \"Modified tracking performance limitations of unstable linear SIMO feedback control systems,\" Automatica, vol. 50, no. 1, pp. 262-267, 2014, doi: 10.1016/j.automatica.2013.10.008.\nL. Ding, P. Yu, Z.-W. Liu, Z.-H. Guan, and G. Feng, \"Consensus of second-order multi-agent systems via impulsive control using sampled hetero-information,\" Automatica, vol. 49, no. 9, pp. 2881-2886, 2013, doi: 10.1016/j.automatica.2013.06.014.\nL. Ding, P. Yu, Z.-H. Guan, and Z.-W. Liu, \"Consensus and performance optimisation of multi-agent systems with position-only information via impulsive control,\" IET Control Theory & Applications, vol. 7, no. 1, pp. 16-24, 2013, doi: 10.1049/iet-cta.2012.0461.\nL. Ding, H. N. Wang, J. Chen, and Z. H. Guan, \"Tracking under additive white Gaussian noise effect,\" IET Control Theory & Applications, vol. 4, no. 11, pp. 2471-2478, 2010, doi: 10.1049/iet-cta.2009.0449.\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n教育经历\n2004.9 -- 2010.6\n华中科技大学\n控制科学与工程\n博士研究生毕业\n工学博士学位\n1999.9 -- 2003.6\n武汉理工大学\n自动化\n本科(学士)\n工学学士学位\n工作经历\n2018.10 -- 至今\n武汉大学，电气与自动化学院，人工智能与自动化系\n2010.7 -- 2018.9\n武汉大学，动力与机械学院，自动化系\n2014.2 -- 2015.2\nDepartment of Electronic Engineering, College of Engineering, University of Iowa, USA\nVisiting Scholar\n2009.5 -- 2009.8\nDepartment of Manufacturing Engineering and Engineering Management, City University of Hong Kong\nResearch Assistant\n2010.7 -- 2010.8\nDepartment of Electronic Engineering, City University of Hong Kong\nVisitor\n社会兼职\nIEEE Senior Member\nIEEE PES 智能电网与新技术委员会 智能电网与人工智能分委会 常务理事\n亚太人工智能学会 Senior Member\n广东省企业科技特派员\n湖北省自动化学会 常务理事\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

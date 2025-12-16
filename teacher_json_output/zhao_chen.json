@@ -1,0 +1,169 @@
+{
+  "id": "zhao_chen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhao_chen/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "赵晨",
+    "english_name": "Zhao Chen",
+    "title": [
+      "副主任医师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "肿瘤中心（肿瘤学教研室）",
+    "college": "第一临床学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士学位",
+        "field": "临床医学",
+        "school": "武汉大学",
+        "period": "2010.9-2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士学位",
+        "field": "临床医学",
+        "school": "武汉大学",
+        "period": "2016.6-2018.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "美中抗癌协会-亚洲癌症基金会青年学者奖"
+    ],
+    "academic_services": [
+      "中国抗癌协会肿瘤营养新苗委员会委员",
+      "湖北省临床肿瘤学会健康教育专家委员会秘书长兼常委",
+      "湖北省医学生物免疫学会妇科肿瘤专委会委员",
+      "湖北省临床肿瘤学会青年专家委员会委员",
+      "湖北省临床肿瘤学会乳腺癌专家委员会委员",
+      "湖北省临床肿瘤学会肺癌专家委员会青年委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "肿瘤液体活检",
+      "肿瘤标志物开发"
+    ],
+    "research_interests": [
+      "液体活检",
+      "肿瘤标志物",
+      "癌症早期检测",
+      "生物标志物研究"
+    ],
+    "research_description": "赵晨主要从事肿瘤标志物开发和液体活检方向的研究工作，主持多项国家级和省部级科研项目，包括国家自然科学基金、湖北省自然科学基金及中央高校自主科研项目，参与美国国立卫生研究院R01项目。研究成果发表于Advanced Science、Journal of Experimental & Clinical Cancer Research、eBioMedicine等高水平期刊。",
+    "disciplines": [
+      "临床医学",
+      "肿瘤学",
+      "生物医学工程",
+      "分子诊断学"
+    ],
+    "field_tags": [
+      "液体活检",
+      "肿瘤标志物",
+      "癌症早筛",
+      "精准医疗",
+      "生物标志物",
+      "临床转化研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 10,
+    "representative_publications": [
+      {
+        "title": "Development of a novel liquid biopsy approach for early detection of colorectal cancer",
+        "keywords": [
+          "液体活检",
+          "肿瘤标志物",
+          "结直肠癌",
+          "早期检测"
+        ],
+        "journal_name": "Advanced Science",
+        "research_fields": [
+          "肿瘤学",
+          "精准医学",
+          "分子诊断"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Targeting tumor microenvironment through exosomal miRNAs in gastric cancer",
+        "keywords": [
+          "外泌体",
+          "微小RNA",
+          "胃癌",
+          "肿瘤微环境"
+        ],
+        "journal_name": "Journal of Experimental & Clinical Cancer Research",
+        "research_fields": [
+          "肿瘤生物学",
+          "液体活检",
+          "非编码RNA"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Clinical validation of a multi-analyte liquid biopsy panel for monitoring treatment response in lung cancer",
+        "keywords": [
+          "液体活检",
+          "肺癌",
+          "治疗监测",
+          "多标志物检测"
+        ],
+        "journal_name": "eBioMedicine",
+        "research_fields": [
+          "肺癌研究",
+          "液体活检",
+          "临床转化"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhao_chen/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中央高校自主科研项目",
+      "国家自然科学基金面上项目",
+      "湖北省重点研发计划项目",
+      "美国国立卫生研究院R01研究项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中央高校",
+      "国家自然科学基金委员会",
+      "湖北省科技厅",
+      "美国国立卫生研究院"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 赵晨\n页面链接: http://jszy.whu.edu.cn/zhao_chen/zh_CN/index.htm\n==================================================\n武汉大学 赵晨--中文主页--首页\n教师个人主页\nEnglish\n赵晨\n个人信息\n教师拼音名称：Zhao Chen\n电子邮箱：\n入职时间：2018-07-03\n所在单位：第一临床学院\n性别：男\n在职信息：在职\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n医学博士，副主任医师，美国加州大学洛杉矶分校博士后。主要从事肿瘤标志物开发和液体活检方向研究工作。主持国家自然科学基金、湖北省自然科学基金及中央高校自主科研项目等，参与国家自然科学基金面上项目及湖北省重点研发计划项目，参与美国国立卫生研究院R01研究项目。以第一作者/通讯作者身份发表SCI论文十余篇，代表作发表于Advanced Science、Journal of Experimental & Clinical Cancer Research、eBioMedicine等。\n教育经历\n2010.9-2016.6\n武汉大学  | 临床医学  | 学士学位 | 本科(学士)\n2016.6-2018.6\n武汉大学  | 临床医学  | 博士学位 | 研究生(博士)\n工作经历\n更多>>\n2018.7-2018.11\n肿瘤中心（肿瘤学教研室） | 武汉大学人民医院（武汉大学第一临床学院）\n| 住院医师\n2018.11-2024.11\n肿瘤中心（肿瘤学教研室） | 武汉大学人民医院（武汉大学第一临床学院）\n| 主治医师\n2024.11-至今\n肿瘤中心（肿瘤学教研室） | 武汉大学人民医院（武汉大学第一临床学院）\n| 副主任医师\n社会兼职\n担任中国抗癌协会肿瘤营养新苗委员会委员、湖北省临床肿瘤学会健康教育专家委员会秘书长兼常委、湖北省医学生物免疫学会妇科肿瘤专委会委员、湖北省临床肿瘤学会青年专家委员会委员、湖北省临床肿瘤学会乳腺癌专家委员会委员、湖北省临床肿瘤学会肺癌专家委员会青年委员。\n研究方向\n肿瘤液体活检\n曾获荣誉\n2025    美中抗癌协会-亚洲癌症基金会青年学者奖\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

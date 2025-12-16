@@ -1,0 +1,137 @@
+{
+  "id": "chenliang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenliang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈亮",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程国家重点实验室",
+    "college": "地球空间信息技术协同创新中心",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "信号与信息处理",
+        "school": "东南大学",
+        "period": "2009",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "相关领域",
+        "school": "芬兰坦佩雷理工大学",
+        "period": "2009-2010",
+        "country": "芬兰"
+      }
+    ],
+    "graduation_school": "东南大学",
+    "academic_honors": [
+      "美国导航年会奖项",
+      "欧洲导航年会奖项",
+      "欧盟工业联盟委员会项目峰会奖项"
+    ],
+    "academic_services": [
+      "Journal of Navigation 副主编",
+      "NAVIGATION 副主编",
+      "Electronics Letters 副主编",
+      "IEEE 泛在定位室内导航与位置服务（UPINLBS）大会技术主席",
+      "多个SCI期刊审稿人",
+      "多个国际会议分会主席及学术委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "导航新体制信号与信息处理",
+      "智能手机泛在定位",
+      "多源融合室内外无缝导航"
+    ],
+    "research_interests": [
+      "室内外无缝定位与导航",
+      "新体制导航定位",
+      "传感器融合",
+      "室内导航",
+      "定位算法",
+      "多源数据融合"
+    ],
+    "research_description": "主要从事‘室内外无缝定位与导航’领域的研究，在导航新信号体制理论与方法、智能手机泛在定位、多源融合室内外无缝导航等方向取得了多项研究成果。已发表论文70余篇，其中撰写新体制导航定位专著1本，书稿5章，SCI收录20余篇，EI收录50余篇。曾主持和参与了欧盟框架、芬兰科学院等资助的十余个科研项目，研究成果获美国导航年会、欧洲导航年会、欧盟工业联盟委员会项目峰会等奖项。",
+    "disciplines": [
+      "测绘科学与技术",
+      "信息与通信工程",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "定位导航",
+      "室内外无缝定位",
+      "多源融合",
+      "智能手机定位",
+      "新体制导航",
+      "传感器融合",
+      "室内导航",
+      "GNSS",
+      "SLAM",
+      "位置服务"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "新体制导航定位专著",
+        "keywords": [
+          "导航新信号体制",
+          "信息处理",
+          "室内外无缝定位"
+        ],
+        "journal_name": "专著",
+        "research_fields": [
+          "导航新体制信号与信息处理",
+          "室内外无缝定位与导航"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chenliang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "欧盟框架",
+      "芬兰科学院"
+    ],
+    "funding_agencies": [
+      "欧盟",
+      "芬兰科学院"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈亮\n页面链接: http://jszy.whu.edu.cn/chenliang/zh_CN/index.htm\n==================================================\n武汉大学 陈亮--中文主页--首页\nEnglish\n中文\n陈亮\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n出生日期：1977-08-16\n电子邮箱：\n入职时间：2017-03-01\n学历：博士研究生毕业\n办公地点：信息学部2号教学楼320办公室\n性别：男\n职称：教授\n在职信息：在职\n学科：\n个人简介\n教授、博导，现任职于武汉大学测绘遥感信息工程国家重点实验室和地球空间信息技术协同创新中心。2009年获东南大学信号与信息处理专业博士学位，2009年至2010年芬兰坦佩雷理工大学博士后，2011年至2017年芬兰大地测量研究所高级研究员，担任传感器与室内导航研究组副组长，同时也是芬兰激光雷达“国家优秀创新中心”科研骨干。\n主要从事“室内外无缝定位与导航”领域的研究，在导航新信号体制理论与方法、智能手机泛在定位、多源融合室内外无缝导航等方向取得了多项研究成果。已发表论文70余篇，其中撰写新体制导航定位专著1本，书稿5章，SCI收录20余篇，EI收录50余篇。曾主持和参与了欧盟框架、芬兰科学院等资助的十余个科研项目，研究成果获美国导航年会、欧洲导航年会、欧盟工业联盟委员会项目峰会等奖项。受英国、法国、意大利、西班牙等多所导航领域知名大学课题组邀请进行客座研究，并保持长期密切合作。担任Journal of Navigation等多个SCI期刊及专刊编委，IEEE 泛在定位室内导航与位置服务（UPINLBS）大会技术主席，多次担任定位导航领域国际会议分会主席及学术委员，担任10余个SCI期刊的审稿人，在国际知名大学、研究所、国际学术会议上作特邀报告或大会报告多次。\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\nNAVIGATION、Journal of Navigation、Electronics Letters等SCI期刊副主编\n美国导航定位核心期刊Navigation、英国皇家科学院导航领域核心期刊 Journal of Navigation、Electronics Letters 副主编\n研究方向\n[1].导航新体制信号与信息处理\n[2].主要从事“室内外无缝定位与导航”领域的研究，研究方向为导航新信号体制理论与方法、智能手机泛在定位、多源融合室内外无缝导航等\n其他联系方式\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

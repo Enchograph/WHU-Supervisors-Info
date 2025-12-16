@@ -1,0 +1,187 @@
+{
+  "id": "jiaxiangyang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/jiaxiangyang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "贾向阳",
+    "english_name": "Jia Xiangyang",
+    "title": [
+      "讲师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "软件工程",
+        "school": "武汉大学",
+        "period": "2008年6月",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "智能软工",
+      "AI安全"
+    ],
+    "research_interests": [
+      "大模型应用",
+      "代码生成",
+      "测试自动化",
+      "缺陷检测",
+      "代码理解",
+      "文档生成",
+      "RAG系统",
+      "智能体优化",
+      "对抗攻击与防御",
+      "后门攻击与防御",
+      "图像伪造检测与取证"
+    ],
+    "research_description": "研究聚焦于智能软件工程与AI安全领域，探索大模型在代码生成、测试自动化、缺陷检测、代码理解、文档生成等方面的应用，同时研究RAG系统与智能体的算法与性能优化。在AI安全方面，关注视觉模型的对抗攻击与防御、RAG系统的后门攻击与防御、基于大模型的图像伪造检测与取证等关键问题。团队通过工程实践发现学术问题，以研究解决实际工程难题。",
+    "disciplines": [
+      "软件工程",
+      "人工智能"
+    ],
+    "field_tags": [
+      "智能软件工程",
+      "大模型应用",
+      "AI安全",
+      "RAG",
+      "智能体",
+      "代码生成",
+      "软件缺陷检测",
+      "对抗攻击",
+      "图像伪造检测",
+      "时空智能"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 12,
+    "representative_publications": [
+      {
+        "title": "Enhancing Reuse of Constraint Solutions to Improve Symbolic Execution",
+        "keywords": [
+          "符号执行",
+          "约束求解复用",
+          "软件测试"
+        ],
+        "journal_name": "Proceedings of International Symposium on Software Testing and Analysis - ISSTA’15",
+        "research_fields": [
+          "软件工程",
+          "程序分析",
+          "软件测试"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "Where to Handle an Exception? Recommending Exception Handling Locations from a Global Perspective",
+        "keywords": [
+          "异常处理",
+          "程序理解",
+          "推荐系统"
+        ],
+        "journal_name": "29th IEEE/ACM International Conference on Program Comprehension (ICPC 2021)",
+        "research_fields": [
+          "软件工程",
+          "程序理解",
+          "智能软件工程"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Automatically Identifying Calling-Prone Higher-Order Functions to Assist Testers",
+        "keywords": [
+          "高阶函数",
+          "测试辅助",
+          "代码分析"
+        ],
+        "journal_name": "Journal of Computer Science and Technology",
+        "research_fields": [
+          "软件工程",
+          "程序分析",
+          "智能测试"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Mining the Use of Higher-Order Functions: An Exploratory Study on Scala Programs",
+        "keywords": [
+          "高阶函数",
+          "Scala程序",
+          "实证研究"
+        ],
+        "journal_name": "Empirical Software Engineering",
+        "research_fields": [
+          "软件工程",
+          "实证软件工程",
+          "编程语言"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Progress on Software Crash Research",
+        "keywords": [
+          "软件崩溃",
+          "系统稳定性",
+          "故障分析"
+        ],
+        "journal_name": "中国科学：信息版",
+        "research_fields": [
+          "软件工程",
+          "系统可靠性",
+          "软件缺陷"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/jiaxiangyang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家重点研发计划",
+      "973项目",
+      "863项目",
+      "国家自然科学重点基金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "973项目",
+      "863项目",
+      "国家自然科学重点基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 贾向阳\n页面链接: http://jszy.whu.edu.cn/jiaxiangyang/zh_CN/index.htm\n==================================================\n武汉大学 贾向阳--中文主页--首页\nEnglish\n首页\n个人简介\n贾向阳，男。2008年6月毕业于武汉大学并获得工学博士学位，并留校从事软件工程方面的科研、教学以及软件开发工作。2014年赴米兰理工大学，在Carlo Ghezzi教授（ACM SIGSOFT 杰出研究奖获得者）的DEEPSE小组访学一年。\n主持了自然科学基金面上项目，作为核心人员参加了国家重点研发计划、973项目、863项目、国家自然科学重点基金项目等多项国家级科研项目，与中国电科、航天科技集团、湖北电网等国企，以及华为、Oppo等互联网大厂都有科研合作项目。在CCF认定的高水平国际会议和期刊上发表多篇论文，与国内外软工领域学者和团队有很多合作和交流。\n对软件工程实践有深入理解，有丰富的架构设计和软件开发经验。作为研发负责人和架构师，组织了10余个大型软件平台的研发工作。研发的“面向服务的信息集成平台SOAWARE” 在全国四十多家电力企业部署使用；研发的“综合减灾信息服务平台”在国家民政部减灾中心部署使用；研发的“泛时空数据智能治理平台”在北京、合肥、海南、成都等多个城市部署和使用；研发的“AI开放平台”在北京、重庆多地部署使用。\n研究团队\n我和其他老师有一个研究团队和一个全职开发团队。两个团队相互协同，在工程中发现学术问题，在研究中解决工程难题。\n研究团队由研究生和本科生组成，主要研究方向包括：\n- 智能软工：随着大模型的快速发展，软件工程的智能化时代已经到来，软件形态以及开发模式正经历革命性变化。该方向一方面研究大模型在代码生成、测试自动化、缺陷检测、代码理解、文档生成等方面的应用，另一方面研究RAG、智能体等新型智能软件的算法和性能优化。目前正在做的工作包括代码库问答系统、智能体工具调用优化、Web/UI智能体优化等。\n- AI安全：AI和大模型的广泛应用，凸显出很多安全隐患。目前正在做的工作包括视觉模型的对抗攻击与防御、RAG系统的后门攻击与防御、基于大模型的图像伪造检测与取证等。\n开发团队以全职开发人员为主，学生可以阶段性参与，目前主要工作包括：\n- AI开放平台： 实现智能化、傻瓜化的AI模型训练推理与应用构造，支持各种视觉与大模型的数据标注增强、分布式训练与推理加速、安全测试以及智能体构造。包括智能数据工场（“大模型帮你标数据”）、自助训练工坊（“人人都是炼丹师”）、AI模型市场（“模型即服务”）、AI测评中心（“AI安全体检”）、AI智能体实验室（“快速构造大模型应用”）五个子平台。\n- 时空智能平台：支持遥感影像、无人机影像、矢量、轨迹、文档等各类泛时空数据的汇聚、搜索、解译和分发。支持问答式搜索，图像快速目标定位、图像理解与问答、图像识别检测与分割、智能推荐等各种能力。\n- AI应用：包括各类智能体（知识库问答、办事助手、文案助手、智能搜索、视觉问答等）、车载智能盒子、无人机巡检与盘点、工业缺陷检测等。\n学生培养\n团队会根据学生的情况和未来规划，安排合适的培养方案：\n- 科研为主：对于研究生以及保研问题不大的本科生同学，根据个人兴趣安排科研工作以及科研相关的开发工作。\n- 开发为主：对于准备直接就业的本科生同学，安排参与开发团队，提高就业竞争力。\n- 比赛为主：对于在保研线附近的本科生同学，指导参与各类比赛，争取保研加分。\n- 学习为主：对于准备考研的本科生同学，以备考为主，可根据个人情况少量参与科研、开发或比赛。\n团队培养的学生大部分都进入了大厂、银行或国企，还有很多进入了国内外名校深造。\n发表论文\n1. Xiangyang Jia, Carlo Ghezzi, Shi Ying. Enhancing Reuse of Constraint Solutions to Improve Symbolic Execution. In Proceedings of International Symposium on Software Testing and Analysis - ISSTA’15, Baltimore, USA, 2015, pp. 177-187（CCF A类）\n2. Xiangyang Jia, Songqiang Chen, Xingqi Zhou, Xintong Li, Run Yu, Xu Chen and Jifeng Xuan.Where to Handle an Exception? Recommending Exception Handling Locations from a Global Perspective.29th IEEE/ACM International Conference on Program Comprehension (ICPC 2021) ，to appear.(CCF B类)\n3. Yisen Xu, Xiangyang Jia, Fan Wu, Lingbo Li, Jifeng Xuan. Automatically Identifying Calling-Prone Higher-Order Functions to Assist Testers. Journal of Computer Science and Technology, to appear.（CCF B类）\n4. Yisen Xu, Fan Wu, Xiangyang Jia, Lingbo Li, Jifeng Xuan. Mining the Use of Higher-Order Functions: An Exploratory Study on Scala Programs. Empirical Software Engineering, to appear.（CCF B类）\n5. Yongfeng Gu, Ping Ma, Xiangyang Jia, He Jiang, Jifeng Xuan.Progress on Software Crash Research. 中国科学：信息版, 2019（CCF B类）\n6. Yuhang Li, Shi Ying, Xiangyang Jia, Yisen Xu, Lili Zhao, Guoli Cheng, Bingming Wang, Jifeng Xuan.EH-Recommender: Recommending Exception Handling Strategies Based on Program Context. Proceedings of the 23rd IEEE International Conference on Engineering of Complex Computer Systems (ICECCS 2018), Melbourne, Austrilia, December 12-14, 2018,（CCF C类）\n7. Yongfeng Gu, Yuntianyi Chen, Xiangyang Jia, Jifeng Xuan. Multi-Objective Configuration Sampling for Performance Ranking in Configurable Systems. Proceedings of the the 26th Asia-Pacific Software Engineering Conference (APSEC 2019), Putrajaya, Malaysia. December 2-5, 2019（CCF C类）\n8. Xin Zhang, Yang Chen, Yongfeng Gu, Weiqin Zou, Xiaoyuan Xie, Xiangyang Jia, Jifeng Xuan. How do Multiple Pull Requests Change the Same Code: A Study of Competing Pull Requests in GitHub. Proceedings of the 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018), Madrid, Spain. September 23-29, 2018.（CCF C类）\n9. Xiao Yu, Jin Liu, Zijiang Yang, Xiangyang Jia, Qi Ling, Sizhe Ye:Learning from Imbalanced Data for Predicting the Number of Software Defects. ISSRE 2017: 78-89 (CCF C类)\n10. Xiao Yu, Man Wu, Xiangyang Jia, Ye Liu: A Reinforced Hungarian Algorithm for Task Allocation in Global Software Development. SEKE 2017: 386-391 (CCF C类)\n11. Jin Liu, Yiqiuzi Tian, Xiao Yu, Zijiang Yang, Xiangyang Jia, Chuanxiang Ma, Zheng Xu: A Multi-Source Approach for Bug Triage. International Journal of Software Engineering and Knowledge Engineering 26(9-10): 1593-1604 (2016) (CCF C类)\n12. Guoliang He, Yong Duan, Yifei Li, Tieyun Qian, Jinrong He, Xiangyang Jia:Active Learning for Multivariate Time Series Classification with Positive Unlabeled Data. ICTAI 2015: 178-185 (CCF C类)\n研究方向\n社会兼职\n暂无内容\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n贾向阳\n个人信息\n讲师\n教师拼音名称：Jia Xiangyang\n电子邮箱：\n所在单位：计算机学院\n学历：研究生毕业\n办公地点：计算机学院大楼E316办公室\n性别：男\n职称：讲师\n在职信息：在职\n毕业院校：武汉大学\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

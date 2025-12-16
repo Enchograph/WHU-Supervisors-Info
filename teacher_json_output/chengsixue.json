@@ -1,0 +1,202 @@
+{
+  "id": "chengsixue",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chengsixue/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "程巳雪",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "",
+        "school": "华南理工大学",
+        "period": "1992年",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "",
+        "school": "中国科学技术大学",
+        "period": "1995年",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "",
+        "school": "新加坡国立大学",
+        "period": "2000年",
+        "country": "新加坡"
+      }
+    ],
+    "graduation_school": "新加坡国立大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "生物医用高分子材料",
+      "药物及基因传递系统",
+      "生物材料自组装",
+      "疾病诊断与治疗相关材料"
+    ],
+    "research_interests": [
+      "肿瘤异质性靶向",
+      "循环肿瘤细胞检测",
+      "多靶向纳米探针",
+      "基因编辑系统",
+      "免疫微环境调控",
+      "纳米药物递送",
+      "单细胞水平分析",
+      "生物材料功能化"
+    ],
+    "research_description": "程巳雪教授长期致力于生物医用高分子材料的研究，聚焦于开发用于疾病诊断与治疗的先进功能材料。研究重点包括基于纳米系统的多靶向药物与基因传递、生物材料的自组装行为、循环肿瘤细胞的精准检测与功能调控，以及通过基因编辑和免疫调节策略实现对癌症免疫抑制微环境的逆转。团队在肿瘤异质性分析、单细胞水平生物标志物检测、纳米探针设计与应用等方面取得系列创新成果，推动了精准医疗与个性化治疗的发展。",
+    "disciplines": [
+      "高分子化学与物理",
+      "生物材料学",
+      "药物递送科学",
+      "纳米医学"
+    ],
+    "field_tags": [
+      "生物医用高分子",
+      "纳米药物递送",
+      "基因治疗",
+      "肿瘤诊断",
+      "免疫治疗",
+      "单细胞分析",
+      "智能材料",
+      "靶向治疗"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 16,
+    "representative_publications": [
+      {
+        "title": "Functional delivery systems for targeting tumor heterogeneity: Reversing immunosuppression and modulating cancer-immune interplay",
+        "keywords": [
+          "肿瘤异质性",
+          "免疫抑制",
+          "癌症-免疫互作",
+          "靶向递送系统"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "生物医用高分子",
+          "肿瘤治疗",
+          "免疫调节"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Precision blood biopsy for lung cancer diagnosis using a targeting nanoprobe to detect multiple mRNA biomarkers in circulating malignant cells",
+        "keywords": [
+          "液体活检",
+          "肺癌诊断",
+          "多mRNA生物标志物",
+          "纳米探针"
+        ],
+        "journal_name": "Appl. Phys. Rev.",
+        "research_fields": [
+          "疾病诊断",
+          "纳米生物材料",
+          "循环肿瘤细胞"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "A multiple targeting genome editing system for remodulation of circulating malignant cells to eliminate cancer immunosuppression and restore immune responses",
+        "keywords": [
+          "基因编辑",
+          "循环恶性细胞",
+          "免疫恢复",
+          "多重靶向"
+        ],
+        "journal_name": "Adv. Healthcare Mater.",
+        "research_fields": [
+          "基因治疗",
+          "免疫治疗",
+          "生物材料自组装"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "A multiple targeting nanoprobe for identifying cancer metastatic sites based on detection of various mRNAs in circulating tumor cells",
+        "keywords": [
+          "转移灶识别",
+          "循环肿瘤细胞",
+          "多mRNA检测",
+          "纳米探针"
+        ],
+        "journal_name": "Nano Lett.",
+        "research_fields": [
+          "癌症转移",
+          "生物传感",
+          "精准医学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A multifunctional delivery system for remodulating cell behaviors of circulating malignant cells to prevent cell fusion",
+        "keywords": [
+          "细胞融合抑制",
+          "多功能递送系统",
+          "循环恶性细胞",
+          "细胞行为调控"
+        ],
+        "journal_name": "Adv. Sci.",
+        "research_fields": [
+          "生物材料功能化",
+          "细胞行为调控",
+          "癌症治疗"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chengsixue/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973计划",
+      "863计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 程巳雪\n页面链接: http://jszy.whu.edu.cn/chengsixue/zh_CN/index.htm\n==================================================\n武汉大学 程巳雪--中文主页--首页\n程巳雪\n教授\n博士生导师\n硕士生导师\n性别：女\n毕业院校：新加坡国立大学\n学历：研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n入职时间： 2001-01-01\n学科：\n高分子化学与物理\n办公地点：化学与分子科学学院化北N401\n联系方式：chengsixue@whu.edu.cn\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n个人信息\n出生日期 1971年4月30日\n教育与研究经历\n学士：华南理工大学 1992年\n硕士：中国科学技术大学 1995年\n博士：新加坡国立大学 2000年\n2000年1月-2001年1月：新加坡 材料研究与工程研究所（研究助理）\n2001年1月-2003年11月：武汉大学 化学学院 生物医用高分子材料教育部开放/重点实验室（副教授）\n2003年11月-：武汉大学 化学学院 生物医用高分子材料教育部重点实验室（教授）\n研究领域与兴趣\n生物医用高分子\n药物及基因传递材料\n生物材料的自组装\n疾病诊断与治疗相关生物材料\n教学情况\n主讲本科生课程《科技论文阅读与写作》\n主讲研究生课程《专业英语与科技写作》《博士英语》\n近年代表论文\n1.       Han D, Liao XR, Huang QY, Qi LJ, Xu C, Ren XH, He XY, Guo T, Huang Y, Pang X, Chen X, Zhang XZ, Cheng SX, Functional delivery systems for targeting tumor heterogeneity: Reversing immunosuppression and modulating cancer-immune interplay, ACS Nano 2025, 19, 20808−20823.\n2.       Han D, Liao XR, Huang QY, Gao QY, Qi LJ, Lei JJ*, Yuan JP, He XY*, Guo T*, Zhang XZ, Cheng SX*, Precision blood biopsy for lung cancer diagnosis using a targeting nanoprobe to detect multiple mRNA biomarkers in circulating malignant cells, Appl. Phys. Rev. 2025, 12, 021401.\n3.       Ren XH, Guo T, Xu MF, Huang Y*, Liao XR, Qi LJ, Cheng SX*, A multiple targeting genome editing system for remodulation of circulating malignant cells to eliminate cancer immunosuppression and restore immune responses, Adv. Healthcare Mater. 2025, 14, 2401223\n4.       Han D, Ren XH, Liao XR, He XY*, Guo T*, Chen XS, Pang X, Cheng SX*, A multiple targeting nanoprobe for identifying cancer metastatic sites based on detection of various mRNAs in circulating tumor cells, Nano Lett. 2023, 23, 3678−3686.\n5.       Han D, He XY, Huang Y, Gao M, Guo T, Ren XH, Liao XR, Chen XS, Pang X, Cheng SX*, A multifunctional delivery system for remodulating cell behaviors of circulating malignant cells to prevent cell fusion, Adv. Sci. 2023, 10, 2303309.\n6.       Che YJ, Ren XH, Wang ZW*, Wu Q, Xing K, Zhang M, Xu C, Han D, Yuan S, Zheng SH, Chen YY, Liao XR, Shi F, Zhong XH, Cai X, Cheng SX*, Lymph node targeted drug delivery for effective immunomodulation to prolong the long-term survival after heart transplantation, Adv. Mater. 2023, 35, 2207227.\n7.       Han D, Ren XH, He XY, Chen XS, Pang X, Cheng SX*, Aptamer/peptide-functionalized nanoprobe for detecting multiple miRNAs in circulating malignant cells to study tumor heterogeneity, ACS Biomater. Sci. Eng. 2023, 9, 5832−5842.\n8.       Ren XH, Han D, He XY, Guo T, Chen XS, Pang X, Cheng SX*, Multi-Targeting nano-systems targeting heterogenous cancer cells for therapeutics and biomarker detection, Adv. Healthc. Mater. 2023, 12, 2202155.\n9.       Xu C, Ren XH, Han D, Peng Y, Lei JJ, Yu LX, Liu LJ, Xu WC, Cheng SX*, Precise detection on cell-cell fusion by a facile molecular beacon-based method, Anal. Chem. 2022, 94, 17334−17340.\n10.    Xu C, He XY, Ren XH, Han D, Cheng SX*, Detection of mRNAs of ribosomal protein L15 and E-cadherin in living circulating tumor cells at single cell resolution to study tumor heterogeneity, Anal. Chem. 2022, 94, 10610−10616.\n11.    Ren XH, He XY, Xu C, Han D, Cheng SX*, Functional tumor targeting nano-systems for reprogramming circulating tumor cells with in situ evaluation on therapeutic efficiency at the single-cell level, Adv. Sci. 2022, 2105806.\n12.    Han D, Xu C, Ren XH, Peng Y, Xu B, Song JL, Chen J, Cheng SX*, In situ detection on nanotoxicity in living cells based on multiple miRNAs probed by peptide functionalized nanoprobe, Anal. Chem. 2022, 94, 2399−2407.\n13.    Ren XH, Xu C, Li LL, Zuo Y, Han D, He XY*, Cheng SX*, A targeting delivery system for effective genome editing in leukemia cells to reverse malignancy, J. Control. Release 2022, 343, 645–656.\n14.      Xu C, He XY, Ren XH, Cheng SX*, Direct detection of intracellular miRNA in living circulating tumor cells by tumor targeting nanoprobe in peripheral blood, Biosen. Bioelectron. 2021, 190, 113401.\n15.    He XY, Ren XH, Peng Y, Zhang JP, Ai SL, Liu BY, Xu C, Cheng SX*, Aptamer/peptide functionalized genome editing system for effective immune restoration through reversal of PD-L1 mediated cancer immunosuppression, Adv. Mater. 2020, 32, 2000208.\n16.    Xu C, He XY, Peng Y, Dai BS, Liu BY, Cheng SX*, Facile strategy to enhance specificity and sensitivity of molecular beacons by an aptamer-functionalized delivery vector, Anal. Chem. 2020, 92, 2088-2096.\n（备注：英文版网页介绍为在线系统根据中文版自动翻译而来，因此有较多不规范的英文语言表达，特此说明并深表歉意。）\n其他联系方式\n邮编 : \n通讯/办公地址 : \n办公室电话 : \n邮箱 : \n教育经历\n华南理工大学\n本科(学士)\n学士\n中国科学技术大学\n硕士研究生毕业\n硕士\n新加坡国立大学\n博士研究生毕业\n博士\n工作经历\n2001.1 -- 至今\n武汉大学\n2000.1 -- 2001.1\n新加坡材料研究与工程研究所\n研究方向\n疾病治疗与检测材料\n基因与药物传递\n生物医用材料\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

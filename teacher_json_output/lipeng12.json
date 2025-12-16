@@ -1,0 +1,208 @@
+{
+  "id": "lipeng12",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lipeng12/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李朋",
+    "english_name": "",
+    "title": [
+      "特聘副研究员",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士",
+        "field": "物理化学",
+        "school": "武汉大学",
+        "period": "2016.9-2021.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "化学",
+        "school": "武汉大学",
+        "period": "2021.7-2023.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "5篇论文入选ESI高被引",
+      "H-index 34"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "基础电催化",
+      "计算电化学",
+      "界面电化学",
+      "电催化剂材料设计",
+      "构效关系研究"
+    ],
+    "research_interests": [
+      "氢电极反应",
+      "氧电极反应",
+      "电催化机理",
+      "电极/电解质界面结构",
+      "双电层效应",
+      "密度泛函理论计算",
+      "从头算分子动力学模拟",
+      "计算谱学",
+      "电化学原位谱学"
+    ],
+    "research_description": "李朋博士长期从事基础电催化、计算电化学与界面电化学研究，聚焦于氢、氧电极反应等电催化体系的表界面微观结构、反应机理与动力学过程。通过结合密度泛函理论计算、从头算分子动力学模拟、计算谱学及电化学原位谱学等多种方法，系统研究电催化剂的构效关系，揭示双电层微环境、表面亲氧性、阳离子效应、氢键网络等对电催化性能的调控机制。研究成果发表于Nat. Catal., J. Am. Chem. Soc., Nat. Commun., Angew. Chem. Int. Ed. 等国际顶级期刊。",
+    "disciplines": [
+      "物理化学",
+      "电化学",
+      "材料科学",
+      "计算化学"
+    ],
+    "field_tags": [
+      "电催化",
+      "双电层",
+      "氢析出反应",
+      "氧还原反应",
+      "密度泛函理论",
+      "分子动力学模拟",
+      "界面化学",
+      "催化剂设计",
+      "构效关系"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 25,
+    "representative_publications": [
+      {
+        "title": "Electric-Double-Layer Mechanism of Surface Oxophilicity in Regulating the Alkaline Hydrogen Electrocatalytic Kinetics",
+        "keywords": [
+          "电双层",
+          "表面亲氧性",
+          "碱性析氢催化",
+          "动力学调控"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "电催化",
+          "计算电化学",
+          "界面电化学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Kinetic cation effect in alkaline hydrogen electrocatalysis and double layer proton transfer",
+        "keywords": [
+          "阳离子效应",
+          "碱性析氢",
+          "双电层质子转移",
+          "动力学"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "电催化",
+          "电化学动力学",
+          "界面微环境"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Hydrogen bond network connectivity in the electric double layer dominates the kinetic pH effect in hydrogen electrocatalysis on Pt",
+        "keywords": [
+          "氢键网络",
+          "电双层",
+          "pH效应",
+          "铂催化"
+        ],
+        "journal_name": "Nature Catalysis",
+        "research_fields": [
+          "电催化",
+          "计算电化学",
+          "构效关系"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Revealing the role of double-layer microenvironments in pH-dependent oxygen reduction activity over metal-nitrogen-carbon catalysts",
+        "keywords": [
+          "双电层微环境",
+          "pH依赖性",
+          "氧还原反应",
+          "金属-氮-碳催化剂"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "电催化",
+          "界面电化学",
+          "催化剂设计"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Electric Double Layer Effects in Electrocatalysis: Insights from Ab Initio Simulation and Hierarchical Continuum Modeling",
+        "keywords": [
+          "电双层效应",
+          "从头算模拟",
+          "多尺度建模",
+          "电催化"
+        ],
+        "journal_name": "JACS Au",
+        "research_fields": [
+          "计算电化学",
+          "电催化机理",
+          "理论模拟"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/lipeng12/zh_CN/index.htm"
+      },
+      {
+        "platform": "实验室官网",
+        "url": "https://slchen.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年科学基金项目",
+      "湖北省自然科学基金面上项目",
+      "中国博士后科学基金面上项目",
+      "国家自然科学基金重点项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中国博士后科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李朋\n页面链接: http://jszy.whu.edu.cn/lipeng12/zh_CN/index.htm\n==================================================\n武汉大学 李朋--中文主页--首页\nEnglish\n中文\n李朋\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n入职时间：2023-08-01\n学历：博士研究生毕业\n办公地点：电化学楼 C309\n性别：男\n在职信息：在职\n主要任职：特聘副研究员\n毕业院校：武汉大学\n所属院系：\n化学与分子科学学院\n学科：\n个人简介\n教育与研究经历：\n2016.9-2021.6  武汉大学化学与分子科学学院，物理化学专业, 理学博士, 导师：陈胜利教授\n2021.7-2023.7  武汉大学化学与分子科学学院, 博士后, 合作导师：陈胜利教授、曹余良教授\n2023.8-至今    武汉大学化学与分子科学学院，特聘副研究员，加入陈胜利教授研究团队\n主要研究领域与兴趣：\n基础电催化、计算电化学、界面电化学、电催化剂材料设计及构效关系\n近年来，结合密度泛函理论计算、从头算分子动力学模拟、计算谱学、电化学原位谱学等多种方法，在探究氢、氧电极反应等各类电催化体系的表界面微观结构、反应机理及动力学、电催化剂“构效关系”等方面开展了深入且系统的基础性研究。迄今以第一作者及通讯作者（含共同）身份在Nat.Catal.、J.Am.Chem.Soc.、Nat. Commun.、Angew.Chem.Int.Ed.、JACS Au等杂志上发表学术论文25篇，其中5篇入选ESI高被引，共参与发表论文40余篇，总引用5000余次，H-index 34。目前主持国家自然科学基金面上项目及青年科学基金项目、湖北省自然科学基金面上项目，已结题中国博士后科学基金面上项目，并作为骨干研究人员参与多项国家自然科学基金重点项目和面上项目。\n更多信息可前往本实验室网页查看：https://slchen.whu.edu.cn/\n（暂无博士名额）\n近期代表性成果：\n1. Yaling Jiang#, Peimeng Qiu#, Qinghua Liu, Peng Li*, Shengli Chen*. Electric-Double-Layer Mechanism of Surface Oxophilicity in Regulating the Alkaline Hydrogen Electrocatalytic Kinetics. Journal of the American Chemical Society 2025, 10.1021/jacs.4c14511.\n2. Peng Li, Yaling Jiang, Yana Men, Yuzhou Jiao, Shengli Chen*. Kinetic cation effect in alkaline hydrogen electrocatalysis and double layer proton transfer. Nature Communications 2025, 16, 1844.\n3. Peng Li#, Yaling Jiang#, Youcheng Hu, Yana Men, Yuwen Liu, Wenbin Cai, Shengli Chen*. Hydrogen bond network connectivity in the electric double layer dominates the kinetic pH effect in hydrogen electrocatalysis on Pt. Nature Catalysis 2022, 5, 900-911.  Selected as “Cover”\n4. Peng Li#, Yuzhou Jiao#, Yaner Ruan, Houguo Fei, Yana Men, Cunlan Guo, Yuen Wu*, Shengli Chen*. Revealing the role of double-layer microenvironments in pH-dependent oxygen reduction activity over metal-nitrogen-carbon catalysts. Nature Communications 2023, 14, 6936.\n5. Peng Li, Yuzhou Jiao, Jun Huang*, Shengli Chen*. Electric Double Layer Effects in Electrocatalysis: Insights from Ab Initio Simulation and Hierarchical Continuum Modeling. JACS Au 2023, 3(10), 2640-2659.\n6. Peng Li, Yuwen Liu, Shengli Chen*. Microscopic EDL structures and charge-potential relation on stepped platinum surface: Insights from the ab initio molecular dynamics simulations. The Journal of Chemical Physics 2022, 156(10), 104701.\n7. Peng Li, Jun Huang, Youcheng Hu, Shengli Chen*. Establishment of the potential of zero charge of metals in aqueous solutions: Different faces of water revealed by ab initio molecular dynamics simulations. The Journal of Physical Chemistry C 2021, 125(7), 3972-3979.\n团队成员\n能源电化学基础实验室\n武汉大学-能源电化学基础实验室-陈胜利教授课题组https://slchen.whu.edu.cn/\n能源电化...\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n其他联系方式\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

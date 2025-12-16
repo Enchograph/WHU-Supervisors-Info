@@ -1,0 +1,156 @@
+{
+  "id": "ly",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/ly/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "余磊",
+    "english_name": "Yu Lei",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "人工智能学院",
+    "college": "人工智能学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "信号与信息处理",
+        "school": "武汉大学",
+        "period": "2006.9-2012.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "信号与信息处理",
+        "school": "ENSEA（法国）",
+        "period": "2007.9-2011.12",
+        "country": "法国"
+      },
+      {
+        "degree": "本科",
+        "field": "电子信息工程",
+        "school": "武汉大学",
+        "period": "2002.9-2006.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2021 人工智能顶级会议CVPR最佳论文候选",
+      "2021 国际摄影测量与遥感ISPRS最佳论文",
+      "2016 武汉大学珞珈青年学者",
+      "2013 湖北省楚天学者计划（楚天学子）"
+    ],
+    "academic_services": [
+      "中国图象图形学会类脑视觉专委会委员",
+      "IEEE TPAMI、TIP、TSP等国际期刊审稿人",
+      "IEEE CVPR、ICCV、ECCV等国际会议审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "类脑视觉感知",
+      "事件相机感知成像",
+      "计算机视觉",
+      "图像处理"
+    ],
+    "research_interests": [
+      "事件相机",
+      "类脑视觉",
+      "合成孔径成像",
+      "模糊重建",
+      "视频插帧",
+      "生物启发视觉传感器",
+      "高动态范围成像",
+      "微秒级时间分辨率"
+    ],
+    "research_description": "余磊教授主要从事类脑视觉和事件相机感知成像技术领域的研究。事件相机作为新一代生物启发的类脑视觉传感器，具有微秒级时间分辨率和超高动态范围，代表了未来视觉传感技术的重要发展方向。自2018年起，他率先开展事件相机与传统成像技术的融合应用研究，在这一前沿交叉领域形成了系统性的理论和应用框架，提出了E-SAI（事件合成孔径成像）和EVDI（融合事件的联合模糊重建和视频插帧）等创新方法。",
+    "disciplines": [
+      "人工智能",
+      "计算机视觉",
+      "信号与信息处理",
+      "图像处理"
+    ],
+    "field_tags": [
+      "事件相机",
+      "类脑视觉",
+      "视觉感知",
+      "智能传感",
+      "计算机视觉",
+      "图像重建",
+      "视频处理",
+      "生物启发计算"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "E-SAI（事件合成孔径成像）",
+        "keywords": [
+          "事件相机",
+          "合成孔径成像",
+          "类脑视觉",
+          "视觉感知"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "类脑视觉感知",
+          "计算机视觉",
+          "图像处理"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "EVDI（融合事件的联合模糊重建和视频插帧）",
+        "keywords": [
+          "事件相机",
+          "视频插帧",
+          "模糊重建",
+          "多模态融合"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "类脑视觉感知",
+          "计算机视觉",
+          "人工智能"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/ly/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 余磊\n页面链接: http://jszy.whu.edu.cn/ly/zh_CN/index.htm\n==================================================\n武汉大学 余磊--主页--首页\n教师个人主页\n余磊\n个人信息\n教师拼音名称：Yu Lei\n电子邮箱：\n职称：教授\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n武汉大学人工智能学院教授，硕/博士生导师，湖北省“楚天学子”，武汉大学“珞珈青年学者”，中国图形图象学会类脑视觉专委会委员。余磊教授主要从事类脑视觉和事件相机感知成像技术领域研究。事件相机作为新一代生物启发的类脑视觉传感器，具有微秒级时间分辨率和超高动态范围，代表了未来视觉传感技术的重要发展方向。自2018年起率先开展事件相机与传统成像技术的融合应用研究，在这一前沿交叉领域形成了系统性的理论和应用框架，分别提出了E-SAI（事件合成孔径成像）、EVDI（融合事件的联合模糊重建和视频插帧...\n教育经历\n更多>>\n2006.9-2012.6\n武汉大学  | 信号与信息处理  | 博士 | 博士\n2007.9-2011.12\nENSEA（法国）  | 信号与信息处理  | 博士 | 博士\n2002.9-2006.6\n武汉大学  | 电子信息工程  | 学士 | 本科(学士)\n工作经历\n更多>>\n2024.12-至今\n人工智能学院 | 武汉大学  | 教授\n2023.1-2024.12\n电子信息学院 | 武汉大学  | 教授\n2018.5-2018.5\n&nbspENSEA（法国）  | 客座教授\n社会兼职\n更多>>\n2021.1-至今\n中国图象图形学会类脑视觉专委会委员\nIEEE TPAMI、TIP、TSP等国际期刊审稿人\nIEEE CVPR、ICCV、ECCV等国际会议审稿人\n研究方向\n更多>>\n类脑视觉感知\n计算机视觉\n人工智能\n图像处理\n曾获荣誉\n2021    人工智能顶级会议CVPR最佳论文候选\n2021    国际摄影测量与遥感ISPRS最佳论文\n2016    武汉大学珞珈青年学者\n2013    湖北省楚天学者计划（楚天学子）\n团队成员\n更多>>\nEvent Camera Group\n主要研究事件相机相关的视觉感知和处理问题。\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

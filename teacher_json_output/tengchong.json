@@ -1,0 +1,142 @@
+{
+  "id": "tengchong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/tengchong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "滕冲",
+    "english_name": "Teng Chong",
+    "title": [
+      "教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "国家网络安全学院",
+    "college": "国家网络安全学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "未明确提及",
+        "school": "武汉大学",
+        "period": "未明确提及",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [],
+    "academic_services": [
+      "中国中文信息学会会员",
+      "中国中文信息学会社交媒体专委会委员",
+      "中国计算机学会（CCF）专业会员",
+      "中国计算机学会（CCF）教育专委委员",
+      "中国计算机学会（CCF）自然语言处理专委委员",
+      "中国计算机学会（CCF）大数据专委委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "自然语言处理",
+      "舆情分析",
+      "社交媒体分析",
+      "大数据分析",
+      "认知计算",
+      "内容安全"
+    ],
+    "research_interests": [
+      "自然语言处理",
+      "舆情分析",
+      "社交媒体分析",
+      "大数据分析",
+      "认知计算",
+      "内容安全"
+    ],
+    "research_description": "滕冲教授主要从事自然语言处理、舆情分析、社交媒体分析、大数据分析、认知计算、内容安全等方向的研究。其所在的语言和认知计算实验室承担多项国家重点研发计划、国家自然科学基金、国家社科基金、国防重点项目、湖北省自然科学基金等国家级和省部级项目，研究成果发表在ACL、WWW、SIGIR、AAAI、IJCAI、EMNLP、COLING、TNNLS、TASLP等CCF推荐的高水平会议和期刊上。实验室注重前沿基础研究与项目实践落地相结合，拥有高性能计算服务器和Nvidia 3090、4090、A100等高性能显卡，为科研提供良好硬件支持。",
+    "disciplines": [
+      "计算机科学",
+      "信息科学",
+      "人工智能",
+      "网络安全"
+    ],
+    "field_tags": [
+      "自然语言处理",
+      "舆情分析",
+      "社交媒体分析",
+      "大数据分析",
+      "认知计算",
+      "内容安全",
+      "人工智能",
+      "网络安全",
+      "机器学习",
+      "文本挖掘"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "ACL、WWW、SIGIR、AAAI、IJCAI、EMNLP、COLING、TNNLS、TASLP等CCF推荐高水平会议和期刊论文",
+        "keywords": [
+          "自然语言处理",
+          "舆情分析",
+          "社交媒体分析",
+          "大数据分析",
+          "认知计算",
+          "内容安全"
+        ],
+        "journal_name": "ACL, WWW, SIGIR, AAAI, IJCAI, EMNLP, COLING, TNNLS, TASLP",
+        "research_fields": [
+          "自然语言处理",
+          "舆情分析",
+          "社交媒体分析",
+          "大数据分析",
+          "认知计算",
+          "内容安全"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/tengchong/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "国家社科基金",
+      "国防重点项目",
+      "湖北省自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家社会科学基金委员会",
+      "科技部",
+      "国防科技工业局",
+      "湖北省科技厅"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 滕冲\n页面链接: http://jszy.whu.edu.cn/tengchong/zh_CN/index.htm\n==================================================\n武汉大学 滕冲--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n滕冲\n个人信息Personal information\n硕士生导师\n教师拼音名称：Teng Chong\n电子邮箱：\n所在单位：国家网络安全学院\n学历：博士研究生毕业\n办公地点：武汉大学国家网络安全学院（网安基地）新珈楼\n性别：女\n职称：教授\n在职信息：在职\n所属院系：国家网络安全学院\n首页\n科学研究\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n滕冲，女，武汉大学国家网络安全学院教授，硕士生导师。中国中文信息学会会员和社交媒体专委会委员， 中国计算机学会（CCF）专业会员和教育专委委员、自然语言处理专委委员、大数据专委委员。\n团队成员 Personal profile\n武汉大学国家网络安全学院语言和认知计算实验室\n语言和认知计算实验室有姬东鸿教授、滕冲教授、李霏副教授和在读硕博研究生约50余人组成。主要从事自然语言处理、舆情分析、社交媒体分析、大数据分析、认知计算、内容安全等方向的研究。实验室承既强调前沿基础研究，也注重项目实践落地。历年来承担多项国家重点研发计划、国家自然科学基金、国家社科基金、国防重点项目、湖北省自然科学基金等国家级和省部级项目。实验室多次发表ACL、WWW、SIGIR、AAAI、IJCAI、EMNLP、COLING、TNNLS、TASLP等CCF推荐高水平会议和期刊论文。实验室拥有多台的高性能计算服务器，配备Nvidia3090、4090、A100等高性能显卡，为科研提供了良好的硬件环境。实验室培养的学生曾获得武汉大学研究生学术创新奖、研究生国家奖学金、武汉大学优秀研究生标兵、武汉大学优秀毕业生等荣誉。实验室学生就业情况良好，包含国内外知名高校（NUS、西湖大学、武汉大学、华中师范大学）、政府机关和企事业单位（公务员、银行、国企、研究所）、知名IT公司（微软、阿里巴巴、腾讯、百度、字节跳动、华为、小米等）。\n研究方向 Personal profile\n自然语言处理、舆情分析、社交媒体分析、大数据分析、认知计算、内容安全\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

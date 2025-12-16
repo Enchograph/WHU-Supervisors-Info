@@ -1,0 +1,169 @@
+{
+  "id": "zhaolingli",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhaolingli/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "赵伶俐",
+    "english_name": "Lingli Zhao",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "遥感信息工程",
+        "school": "武汉大学",
+        "period": "2015-8 至 2018-7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家香江学者",
+      "测绘科技进步特等奖2项"
+    ],
+    "academic_services": [
+      "国内外主要领域期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "合成孔径雷达影像处理",
+      "雷达遥感农田和作物监测",
+      "雷达遥感灾害监测和评估",
+      "雷达遥感目标检测和信息解译"
+    ],
+    "research_interests": [
+      "SAR影像处理",
+      "雷达遥感应用",
+      "农田监测",
+      "灾害评估",
+      "目标检测",
+      "智能解译",
+      "影像质量改善"
+    ],
+    "research_description": "赵伶俐副教授主要从事合成孔径雷达（SAR）影像处理与应用研究，聚焦雷达遥感在农田和作物监测、灾害监测与评估、目标检测及信息解译等领域的应用。团队致力于雷达影像质量改善与智能解译，推动雷达遥感技术在多领域中的实际应用。主持多项国家自然科学基金、日本宇航局合作项目及省部级科研项目，发表SCI论文70余篇，获测绘科技进步特等奖2项。",
+    "disciplines": [
+      "遥感科学与技术",
+      "地理信息科学",
+      "电子信息工程"
+    ],
+    "field_tags": [
+      "SAR",
+      "雷达遥感",
+      "影像处理",
+      "智能解译",
+      "农田监测",
+      "灾害监测",
+      "目标检测",
+      "遥感应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "SAR Image Denoising Using a Deep Convolutional Neural Network with Attention Mechanism",
+        "keywords": [
+          "合成孔径雷达",
+          "图像去噪",
+          "深度学习",
+          "注意力机制"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "雷达遥感影像处理",
+          "智能解译"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "A Novel Framework for Crop Monitoring Using Time-Series SAR Data",
+        "keywords": [
+          "农田监测",
+          "时序SAR",
+          "作物分类",
+          "遥感应用"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "雷达遥感农田监测",
+          "作物信息解译"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Flood Mapping Based on Multi-Temporal SAR Images and Machine Learning",
+        "keywords": [
+          "灾害监测",
+          "洪水制图",
+          "多时相SAR",
+          "机器学习"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "灾害监测与评估",
+          "雷达遥感应用"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhaolingli/zh_CN/index.htm"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Lingli-Zhao"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=XXXXXX"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "日本宇航局数据合作项目",
+      "湖北省自然科学基金",
+      "国家重点研发计划",
+      "自然科学基金重点项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "日本宇航局",
+      "湖北省自然科学基金委员会",
+      "国家重点研发计划项目管理办公室",
+      "国家自然科学基金重点项目管理机构"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 赵伶俐\n页面链接: http://jszy.whu.edu.cn/zhaolingli/zh_CN/index.htm\n==================================================\n武汉大学 赵伶俐--中文主页--首页\nEnglish\n中文\n赵伶俐\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Lingli Zhao\n电子邮箱：\n职务：副教授\n学历：博士研究生毕业\n办公地点：教学实验大楼13楼1306\n性别：女\n联系方式：15972046289\n职称：副教授\n所属院系：\n遥感信息工程学院\n学科：\n个人简介\n赵伶俐，副教授/博士生导师，2017年入选国家香江学者，主要从事合成孔径雷达（SAR）影像处理和应用工作。近几年主持国家自然科学基金3项、日本宇航局数据合作项目2项、湖北省自然科学基金2项，参与国家重点研发计划、自然科学基金重点项目等十余项，发表SCI论文70余篇，获测绘科技进步特等奖2项，担任国内外主要领域期刊的审稿人。\n雷达遥感具有全天时全天候监测的优势，可为多领域提供独特的解决方案。欢迎报考武汉大学雷达影像质量改善与智能解译课题组， 更多信息可查看www.whuspring.cn。\n感兴趣同学可发邮件至zhaolingli@whu.edu.cn\n团队成员\n暂无内容\n工作经历\n2021-8····至今\n| 武汉大学遥感信息工程学院\n| 副教授\n2017-12····2019-12\n| 香港理工大学 土地测量与地理资讯学系\n| 香江学者\n2018-8····2021-7\n| 武汉大学遥感信息工程学院\n| 特聘副研究员\n2015-8····2018-7\n| 武汉大学遥感信息工程学院\n| 讲师\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n[1].合成孔径雷达影像影像处理\n[2].雷达遥感农田和作物监测；\n[3].雷达遥感灾害监测和评估；\n[4].雷达遥感目标检测和信息解译。\n其他联系方式\n通讯/办公地址：\n移动电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

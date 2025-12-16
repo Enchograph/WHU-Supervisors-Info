@@ -1,0 +1,215 @@
+{
+  "id": "jiangxulin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/jiangxulin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "蒋序林",
+    "english_name": "Xulin Jiang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "生物医用高分子材料教育部重点实验室",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "高分子材料",
+        "school": "成都科技大学",
+        "period": "1985.9-1989.7",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "高分子材料工程",
+        "school": "成都科技大学",
+        "period": "1989.9-1992.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "高分子分析",
+        "school": "荷兰阿姆斯特丹大学",
+        "period": "2000.9-2004.5",
+        "country": "荷兰"
+      }
+    ],
+    "graduation_school": "荷兰阿姆斯特丹大学",
+    "academic_honors": [],
+    "academic_services": [
+      "中国医药卫生文化协会生物医药材料专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "可控高分子的合成与改性",
+      "可降解高分子药物载体",
+      "温敏性可注射水凝胶载体",
+      "基因药物载体系统",
+      "HPLC分离与表征功能高分子"
+    ],
+    "research_interests": [
+      "热敏性可降解高分子",
+      "温敏性水凝胶",
+      "可注射载体",
+      "基因递送",
+      "多肽蛋白质药物",
+      "抗肿瘤药物",
+      "止血材料",
+      "局部麻醉缓释",
+      "荧光示踪",
+      "点击化学",
+      "超分子自组装"
+    ],
+    "research_description": "蒋序林教授长期致力于生物医用高分子材料的研究，聚焦于可控高分子的合成、改性及共轭技术，开发新型可降解高分子载体用于基因药物和抗肿瘤药物的靶向递送。研究重点包括热敏性与温敏性可注射可降解高分子水凝胶的构建，用于多肽、蛋白质及细胞的递送与组织再生。同时，其团队在HPLC分离与表征功能高分子方面具有深厚积累，并结合点击化学、超分子自组装等策略，设计多功能、可示踪、响应性药物递送系统，应用于骨关节修复、伤口愈合、止血及长效镇痛等领域。",
+    "disciplines": [
+      "高分子化学与物理",
+      "生物材料",
+      "药物递送",
+      "化学工程",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "生物医用高分子",
+      "可降解材料",
+      "温敏水凝胶",
+      "基因载体",
+      "药物控释",
+      "点击化学",
+      "HPLC表征",
+      "甲壳素衍生物",
+      "组织工程",
+      "靶向递送"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 104,
+    "representative_publications": [
+      {
+        "title": "Silver loaded biodegradable carboxymethyl chitin films with long-lasting antibacterial activity for infected wound healing",
+        "keywords": [
+          "羧甲基甲壳素",
+          "抗菌",
+          "伤口愈合",
+          "可降解材料"
+        ],
+        "journal_name": "Biomater. Sci.",
+        "research_fields": [
+          "生物医用高分子材料",
+          "药物递送系统",
+          "组织工程"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Visualization of degradation of injectable thermosensitive hydroxypropyl chitin modified by aggregation-induced emission",
+        "keywords": [
+          "温敏性水凝胶",
+          "甲壳素衍生物",
+          "荧光示踪",
+          "降解行为"
+        ],
+        "journal_name": "Carbohydr. Polym.",
+        "research_fields": [
+          "高分子材料表征",
+          "智能响应材料",
+          "生物可降解材料"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Targeted and fluorescence traceable multifunctional host-guest supramolecular gene delivery platform based on poly(cyclodextrin) and rhodamine conjugated disulfide-containing azobenzeneterminated branched polymer",
+        "keywords": [
+          "基因载体",
+          "主客体相互作用",
+          "荧光示踪",
+          "可降解高分子"
+        ],
+        "journal_name": "Int J Polym Mater Polym Biomater",
+        "research_fields": [
+          "非病毒基因递送",
+          "智能高分子",
+          "生物材料"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Injectable immunomodulation-based porous chitosan microspheres/HPCH hydrogel composites as a controlled drug delivery system for osteochondral regeneration",
+        "keywords": [
+          "软骨再生",
+          "免疫调节",
+          "多孔微球",
+          "温敏水凝胶"
+        ],
+        "journal_name": "Biomaterials",
+        "research_fields": [
+          "组织工程",
+          "药物控释",
+          "生物材料"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Bupivacaine-loaded hydroxypropyl chitin based sponges prepared via a solvent-free process provide long-acting local anesthesia for postoperative pain",
+        "keywords": [
+          "布比卡因",
+          "局部麻醉",
+          "无溶剂工艺",
+          "甲壳素海绵"
+        ],
+        "journal_name": "J Drug Delivery Sci Tech",
+        "research_fields": [
+          "药物缓释",
+          "生物医用材料",
+          "术后镇痛"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/jiangxulin/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "高校博士点新教师基金",
+      "教育部回国基金",
+      "横向项目"
+    ],
+    "funding_agencies": [
+      "科技部",
+      "国家自然科学基金委员会",
+      "教育部",
+      "企业"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 蒋序林\n页面链接: http://jszy.whu.edu.cn/jiangxulin/zh_CN/index.htm\n==================================================\n武汉大学 蒋序林--中文主页--首页\nEnglish\n中文\n蒋序林\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Xulin Jiang\n电子邮箱：\n入职时间：2006-11-01\n学历：研究生毕业\n办公地点：化西407\n性别：男\n联系方式：027-68754226，xljiang@whu.edu.cn\n职称：教授\n在职信息：在职\n其他任职：中国医药卫生文化协会生物医药材料专业委员会委员\n毕业院校：荷兰阿姆斯特丹大学\n所属院系：\n化学与分子科学学院\n学科：\n个人简介\n教育与研究经历\n1985,9-1989,7     成都科技大学优秀生试点班, 高分子材料系, 学士\n1989,9-1992,6     成都科技大学高分子材料工程国家重点实验室，硕士(导师：徐僖院士，郑邦乾教授)\n1992,7-2000,9     上海交通大学化学化工学院高分子材料系        助教，讲师，副教授\n2000,9-2004,5     荷兰阿姆斯特丹大学高分子分析组, 博士(导师: Prof. Dr. P. J. Schoenmakers)\n2004,6-2006,10    荷兰乌特勒支大学药学院药剂系博士后(导师: Prof. Dr. W.E. Hennink)\n2011.6-12             荷兰阿姆斯特丹大学，高访研究员。\n2006,11-至今：    武汉大学化学学院生物医用高分子材料教育部重点实验室（教授，博导）\n研究领域与兴趣\n1. 可控高分子的合成、改性及共轭技术的研究\n2. 基因药物用新型可降解高分子载体的研究\n3. 热敏性可降解高分子药物靶向载体研究（抗肿瘤药物、多肽蛋白质药物）\n4. 温敏性可注射可降解高分子水凝胶载体(多肽蛋白细胞）的研究\n5. HPLC分离与表征功能高分子\n学术兼职\n中国医药卫生文化协会生物医药材料专业委员会委员\n主持科研项目：\n主持国家重点研发计划“政府间国际科技创新合作”重点专项：\n生物医用新型可示踪温敏改性甲壳素的合成和表征（2021YFE0104100），2021-2023年\n主持国家自然科学基金项目：\n1. 可注射可降解的长效镇痛无溶剂缓释体系（22175133），2022-2025年\n2. 可降解温敏物理交联改性甲壳素止血微球的研究（21875168），2019-2022年\n3. 可降解温敏性可注射改性甲壳素水凝胶的制备及其细胞载体的研究（21674083）\n4. 多功能化聚合物超分子自组装基因载体系统的研究 (21374083)\n5. 长循环-靶向-逃逸-示踪-多功能高分子胶束药物载体及其与细胞相互作用的研究 (21174109)\n6. 稳定化热敏性肿瘤靶向高分子纳米胶束载药体系的研究（21074100）\n7. 点击化学合成可降解梳形聚合物及其用于基因载体的研究 (20774068)\n8.  HPLC用于新型生物医用高分子的分离与表征（20744002）\n主持高校博士点新教师基金项目：点击化学可控合成基因载体用新型可降解星形阳离子高分子（20070486035）；\n主持教育部回国基金：高效液相色谱分离和表征新型药用高分子。\n主持横向项目：\n羧甲基甲壳素的检测方法研究，企业横向项目，2016.05 - 2017.12，26万，主持，结题；\n止血胶原粉的开发研究，企业横向项目，2020.1-2022.12， 50万，主持，在研；\n温敏改性甲克素水凝胶医用研究，企业横向项目，2020.8-2025.12， 50万，主持，在研；\n药物植入缓释体系的开发研究，企业横向项目，2022.1-2026.12， 30万，主持，在研。\n作为骨干成员参与多项973项目（2005CB623903, 2009CB930300，2011CB606202）和国家重点研发计划重点专项 (2016YFC1100700，2016YFB0700802，2018YFB1105502)。\n近期代表性研究论文及授权专利:\n1. S. Lv and X. Jiang*, Silver loaded biodegradable carboxymethyl chitin films with long-lasting antibacterial activity for infected wound healing，Biomater. Sci., 2022, DOI: 10.1039/D2BM01046A.\n2. L. Huang, H.-J. Zhan, X.-L. Jiang*, Visualization of degradation of injectable thermosensitive hydroxypropyl chitin modified by aggregation-induced emission, Carbohydr. Polym.，2022, 293, 119739.\n3. Q.-M. Jiang*, X.-L. Jiang*, et al, Targeted and fluorescence traceable multifunctional host-guest supramolecular gene delivery platform based on poly(cyclodextrin) and rhodamine conjugated disulfide-containing azobenzeneterminated branched polymer, Int J Polym Mater Polym Biomater, 2022, 71, DOI: 10.1080/00914037.2022.2029438.\n4. X.-F. Ji*, H.-W. Shao, X.-H. Li, M. W. Ullah, G.-W. Luo, Z.-Y. Xu, L.-M. Ma, X.-C. He, Z.-H. Lei, Q. Li, X.-L. Jiang*, G. Yang*, Y. Zhang*, Injectable immunomodulation-based porous chitosan microspheres/HPCH hydrogel composites as a controlled drug delivery system for osteochondral regeneration. Biomaterials. 2022, 285, 121530.\n5. F. Yang, Q-Q Qiao, M.-Z. Cai, Z.-G. Xia*, X.-L. Jiang*, Bupivacaine-loaded hydroxypropyl chitin based sponges prepared via a solvent-free process provide long-acting local anesthesia for postoperative pain，J Drug Delivery Sci Tech, 2022, 73, 103453.\n6. W.-B. Liu，M.-S. Ma，Z.-H. Lei，Z.-X. Xiong，T.-H. Tao，P.-F. Lei，Y.-H. Hu*，X.-L. Jiang*，J. Xiao*，Intra-articular injectable hydroxypropyl chitin/hyaluronic acid hydrogel as bio-lubricants to attenuate osteoarthritis progression, Mater Design, 2022, 217, 110579.\n7. S.-Y. Lv, M.-Z. Cai, F. Leng, X.-L. Jiang*, Carboxymethyl chitin-based hemostatic sponges with high strength and shape memory for non-compressible hemorrhage, Carbohydr. Polym.，2022, 288, 119369.\n8. Q-Q Qiao, X.-Y. Fu, R. Huang, S.-Q. Lei, Y. Leng, Z.-G. Liu, Z.-G. Xia*, X.-L. Jiang*, Ropivacaine-loaded, hydroxypropyl chitin thermo-sensitive hydrogel combined with hyaluronan: an injectable, sustained-release system for providing long-lasting local anesthesia in rats, Reg Anesth Pain Med 2022, 47, 234-241.\n9. F. Leng, S. Lei, B. Luo, S.-Y. Lv, L. Huang, X.-L. Jiang*, Size-tunable and biodegradable thrombin-functionalized carboxymethyl chitin microspheres for endovascular embolization，Carbohydr. Polym.，2022, 286, 119274. https://doi.org/10.1016/j.carbpol.2022.119274\n10. F. Leng, F.-X. Chen, X.-L. Jiang*, Modified porous carboxymethyl chitin microspheres by an organic solvent-free process for rapid hemostasis, Carbohydr. Polym.，2021, 270, 118348.\n11. M.-S. Ma, Y.-L. Zhong and X.-L. Jiang*, Injectable photothermally active antibacterial composite hydroxypropyl chitin hydrogel for promoting wound healing process through photobiomodulation，2021，Journal of Materials Chemistry B, 2021, 9, 4567-4576.\n12. J.-Y. Zheng, S.-Y. Lv, Y.-L. Zhong, X.-L. Jiang*, Injectable hydroxypropyl chitin hydrogels embedded with carboxymethyl chitin microspheres prepared via a solvent-free process for drug delivery, Journal of Biomaterials Science, Polymer Edition，2021, 32N12, 1564-1583.\n13. Q.-L. Li，J. Liu，H.-L. Fan，L. Shi，Y. Deng，L. Zhao，M.-X. Xiang，Y.-R. Xu，X.-L. Jiang， G.-B. Wang，L. Wang，Z. Wang，IDO-inhibitor potentiated immunogenic chemotherapy abolishes primary tumor growth and eradicates metastatic lesions by targeting distinct compartments within tumor microenvironment, Biomaterials, 2021, 269, 120388，https://doi.org/10.1016/j.biomaterials.2020.120388.\n14. Y.-W. Xu, Y. Xu, B. Bi, M.-J. Hou, L. Yao, Q. Du, A. He, Y. Liu, C. Miao, X. Liang, X.-L. Jiang*, G.-D. Zhou∗, Y.-L. Cao*, A moldable thermosensitive hydroxypropyl chitin hydrogel for 3D cartilage regeneration in vitro and in vivo，Acta Biomaterialia, 2020, 108, 87-96.\n15. Y. Zhao, J.-Z. Li, F. Leng, S.-Y. Lv, W. Huang, W.-Q. Sun, X.-L. Jiang*， Degradable porous carboxymethyl chitin hemostatic microspheres， Journal of Biomaterials Science, Polymer Edition, 2020，31:11, 1369-1384.\n16. J. Liu, L. Zhao, L. Shi, Y. Yuan, D. Fu, Z.-L. Ye, Q.-L. Li, Y. Deng, X.-X. Liu, Q.-Y. Lv, Y.-N. Cheng, Y.-R. Xu, X.-L. Jiang, G.-B. Wang, L. Wang, and Z. Wang，A sequentially responsive nanosystem breaches cascaded bio-barriers and suppresses P-glycoprotein function for reversing cancer drug resistance，ACS Appl. Mater. Interfaces 2020, 12N49, 54343-54355, https://doi.org/10.1021/acsami.0c13852.\n17. J.-Z. Li, Y. Zhao, X.-L. Jiang*, Quantitative analysis of protein in thermosensitive hydroxypropyl chitin for biomedical applications, Analytical Biochemistry，2020, 599, 113745.\n18. M.-S. Ma, Y.-L. Zhong, X.-L. Jiang*, Thermosensitive and pH-responsive tannin-containing hydroxypropyl chitin hydrogel with long-lasting antibacterial activity for wound healing, Carbohydr. Polym.，2020, 236, 116096.\n19. X.-F. Ji, Z.-H. Lei, M.Yuan, H. Zhu, Y. Xi, W.-B. Liu, H.-X. Pu, J.-W. Jiang, Y. Zhang*, X.-L. Jiang*, J. Xiao*, Cartilage repair mediated by thermosensitive photocrosslinkable TGFβ1-loaded GM-HPCH via immunomodulating macrophages, recruiting MSCs and promoting chondrogenesis. Theranostics 2020, 10N6, 2872-2887. IF 11.556.\n20. X.-F. Ji, Y. Xi, L.-M. Ma, B. Bi, H. Zhu, Z.-H. lei, W.-B. Liu, H.-X. Pu, J.-W. Jiang, X.-L. Jiang*, Y. Zhang*, J. Xiao*, Mesenchymal stem cell-loaded thermosensitive hydroxypropyl chitin hydrogel combined with a three-dimensional-printed poly(ε-caprolactone) /nano-hydroxyapatite scaffold to repair bone defects via osteogenesis, angiogenesis and immunomodulation, Theranostics 2020, 10N2, 725-740.\n21. P. Yu, Y.-P. Liu, R.-T. Jin, P. Zhang, C.-M. Ding, X.-L. Jiang, J.-Q. Xing, B. Bi, J. Xie,* and J.-S. Li*，Thermosensitive polysaccharide hydrogel as a versatile platform for prolonged salmon calcitonin release and calcium regulation，ACS Biomater. Sci. Eng. 2020, 6, 4077-4086\n22. P. Yu, J. Xie, Y. Chen, J.-M. Liu, Y.-P. Liu, B. Bi, J. Luo, S.-Y. Li, X.-L. Jiang*, J.-S. Li*，A thermo-sensitive injectable hydroxypropyl chitin hydrogel for sustained salmon calcitonin release with enhanced osteogenesis and hypocalcemic effects，J. Mater. Chem. B, 2020，8, 270-281.\n23. B. Bi, M.-S. Ma, S.-Y. Lv, R.-X. Zhuo, X.-L. Jiang*, In-situ forming thermosensitive hydroxypropyl chitin-based hydrogel crosslinked by Diels-Alder reaction for three dimensional cell culture, Carbohydr. Polym.，2019, 212, 368-377.\n24. Guangyan Zhang 1,2,* and Xulin Jiang, Temperature Responsive Nanoparticles Based on PEGylated Polyaspartamide Derivatives for Drug Delivery, Polymers, 2019,11N2, 00316\n25. B. Bi, H. Liu, W.-T. Kang, R.-X. Zhuo, X.-L. Jiang*, An injectable enzymatically crosslinked tyramine-modified carboxymethyl chitin hydrogel for biomedical applications, Colloid Surfaces B, 2019, 175, 614-624.\n26. Y. Li, X.-L. Jiang, L. Li, Z.-N. Chen, G. Gao, R. Yao, W. Sun, 3D printing human induced pluripotent stem cells with novel hydroxypropyl chitin bioink: scalable expansion and uniform aggregation, Biofabrication, 2018, 10N4, 044101.\n27. M. Yuan, B. Bi, J.-C. Huang, R.-X. Zhuo, X.-L. Jiang*, Thermosensitive and photocrosslinkable hydroxypropyl chitin-based hydrogels for biomedical applications, Carbohydr. Polym.，2018, 192, 10-18.\n28. J. Liu, X.-X. Liu, Y. Yuan, Q.-L. Li, B.-C. Chang, L.-M. Xu, B. Cai, C. Qi, C. Li, X.-L. Jiang, G.-B. Wang, Z. Wang, L. Wang, Supramolecular Modular Approach toward Conveniently Constructing and Multifunctioning a pH/Redox Dual-Responsive Drug Delivery Nanoplatform for Improved Cancer Chemotherapy，ACS Appl. Mater. Interfaces 2018, 10, 26473-26484\n29. J.-C. Huang，X.-L. Jiang*，Injectable and degradable pH-responsive hydrogel via spontaneous amino-yne click reaction, ACS Appl. Mater. Inter., 2018，10(1), 361-370.\n30. Y.-T. Zhang ，Q.-M. Jiang，M. Wojnilowicz，S.-J. Pan，Y. Ju，W.-J. Zhang，J. Liu，R.-X. Zhuo，X.-L. Jiang*，   Acid-sensitive poly(β-cyclodextrin)-based multifunctional supramolecular gene vector，Polym. Chem.，2018，9(4)：450~462\n31. Y.-T. Zhang ，Q.-M. Jiang，B. Bi，L.-M. Xu，J. Liu，R.-X. Zhuo，X.-L. Jiang*， A bioreducible supramolecular nanoparticle gene delivery system based on cyclodextrin-conjugated polyaspartamide and adamantyl-terminated polyethylenimine，J. Mater. Chem. B，2018，6(4)：797~808.\n32. 付开乔，张光彦，蒋序林，聚天冬酰胺衍生物药物/基因载体的合成和应用，化学进展，2016.8.26，(08)：1196~1206.\n33. X.-L. Jiang*，H. Liu, G.-D. Zhou, Y.-P. Feng, W. Fang, X. Long, R.-X. Zhuo,Thermosensitive injectable modified chitin hydrogel for cell delivery，4th Symposium on Innovative Polymers for Controlled Delivery (SIPCD), J. Control. Release 2017, 259, E161-E162\n34. Q.-M. Jiang, Y.-T. Zhang, R.-X. Zhuo, X.-L. Jiang∗,Light and redox dual sensitive supramolecular self-assembly system based on branched polycations for gene delivery，4th Symposium on Innovative Polymers for Controlled Delivery (SIPCD) J. Control. Release 2017, 259, E110\n35. W.-T. Kang, B. Bi, R.-X. Zhuo，X.-L. Jiang∗, Photocrosslinked methacrylated carboxymethyl chitin hydrogels with tunable degradation and mechanical behavior，Carbohydr. Polym.，2017, 160, 18-25.\n36. Y.-Z. Wei ，Y.-F. Chu，E. Uliyanchenko，P. J. Schoenmakers，R.-X. Zhuo，X.-L. Jiang∗, Separation and characterization of benzaldehyde functional polyethylene glycols by liquid chromatography under critical conditions，Polym. Chem.，2016, 7, 7506-7513.\n37. Q.-M. Jiang, Y.-T. Zhang, R.-X. Zhuo, X.-L. Jiang∗, Light and reduction dual sensitive supramolecular self-assembly gene delivery system based on poly(cyclodextrin) and disulfide-containing azobenzene-terminated branched polycations, J. Mater. Chem. B, 2016, 4, 7731-7740.\n38. J. Liu, W. E. Hennink, M. J. van Steenbergen, R.-X. Zhuo, X.-L. Jiang∗, A facile modular approach toward multifunctional supramolecular polyplexes for targeting gene delivery, J. Mater. Chem. B, 2016, 4, 7022-7030.\n39. Y.-Z. Wei, R.-X. Zhuo, X.-L. Jiang∗, Separation of polyethylene glycols and maleimide-terminated polyethylene glycols by reversed-phase liquid chromatography under critical conditions, J. Sep. Sci. 2016, 39(22), 4305-4313.\n40. X. Du, Y.-B. Jiang, R.-X. Zhuo, X.-L. Jiang∗, Thermosensitive and photocleavable polyaspartamide derivatives for drug delivery, J. Polym. Sci., Part A: Polym. Chem. 2016, 54, 2855-2863.\n41. Q.-M. Jiang, Y.-T. Zhang, R.-X. Zhuo, X.-L. Jiang∗, Supramolecular host-guest polycationic gene delivery system basedon poly(cyclodextrin) and azobenzene-terminated polycations, Colloid Surfaces B, 2016, 147, 25-35.\n42. J. Liu, L.-M. Xu, Y. Jin, C. Qi, Q.-L. Li, Y.-T. Zhang, X.-L. Jiang, G.-B. Wang, Z. Wang, L. Wang, Cell-targeting cationic gene delivery system based on a modular design rationale, ACS Appl. Mater. Interfaces 2016, 8, 14200-14210.\n43. J. Liu, C. Qi, K.-X. Tao, J.-X. Zhang, J. Zhang, L.-M. Xu, X.-L. Jiang, Y.-T. Zhang, L. Huang, Q.-L. Li, H.-J. Xie, J.-B. Gao, X.-M. Shuai, G.-B. Wang, Z. Wang, L. Wang, Sericin/dextran injectable hydrogel as an optically trackable drug delivery system for malignant melanoma treatment, ACS Appl. Mater. Interfaces 2016, 8, 6411-6422.\n44. Y.-Z. Wei, R.-X. Zhuo, X.-L. Jiang*, Separation of polyethylene glycols and amino-terminatedpolyethylene glycols by high-performance liquid chromatographyunder near critical conditions. J Chromatogr. A, 2016, 1447, 122-128.\n45. J. Liu, W.E. Hennink, M. van Steenbergen, R.-X. Zhuo, X.-L. Jiang*， Versatile supramolecular gene vector based on host-guest interaction, Bioconjugate Chem.，2016, 27N4, 1143-1152.\n46. H. Liu, J. Liu, C. Qi, Y.-P. Fang, L.-N. Zhang，R.-X. Zhuo, X.-L. Jiang*， Thermosensitive injectable in-situ forming carboxymethyl chitin hydrogel for three-dimensional cell culture， Acta Biomaterialia, 2016, 35, 228-237.\n47. Y.-Y. Ma, G.-Y. Zhang, L.-J., H. Yu, J. Liu, C.-Q. Wang, Y.-F. Chu, R.-X. Zhuo, and X.-L. Jiang*，Temperature and pH Dual-Sensitive Polyaspartamide Derivatives for Antitumor Drug Delivery ，J. Polym. Sci., Part A: Polym. Chem. 2016, 54, 879-888.\n48. H. Liu, Q.-Z. Yang, L.-N. Zhang, R.-X. Zhuo, X.-L. Jiang*, Synthesis of carboxymethyl chitin in aqueous solution and its thermo- and pH-sensitive behaviors, Carbohydr. Polym., 2016, 137, 600-607.\n49. H. Yu, J. Sun, Y.-T. Zhang, G.-Y. Zhang, Y.-F. Chu, R.-X. Zhuo, X.-L. Jiang*， pH- and β-cyclodextrin-responsive micelles based on polyaspartamide derivatives as drug carrier，J. Polym. Sci., Part A: Polym. Chem. 2015, 53(11), 1387-1395\n50. J. Liu, X.-L. Jiang*, W. E. Hennink, R.-X. Zhuo, A modular approach toward multifunctional supramolecular nanopolyplexes for targeting gene delivery, J. Control. Release, 2015, 213, e123-e124\n51. G.-Y. Zhang, H. Yu, Y.-T. Zhang, R.-X. Zhuo, X.-L. Jiang*, pH and thermo dual-responsive polyaspartamide derivatives by click chemistry for drug delivery, Journal of Controlled Release, 2015，213，e34-e35\n52. G.-Y. Zhang, Y.-T. Zhang, Y.-F. Chu, Y.-Y. Ma, R.-X. Zhuo, and X.-L. Jiang*， Facile synthesis of thermosensitive functional polyaspartamide derivatives by click chemistry，J Polym Sci Part A: Polym Chem, 2015, 53(10), 1296-1306.\n53. Y.-F. Chu, H. Yu, Y.-T. Zhang, G.-Y. Zhang, Y.-Y. Ma, R.-X. Zhuo, X.-L. Jiang*, Synthesis and characterization of biodegradable amphiphilic ABC Y-shaped miktoarm terpolymer by click chemistry for drug delivery, J Polym Sci A，2014，52(23), 3346-3355.\n54. Y.-Y. Ma, X.-L. Jiang*, R.-X. Zhuo, Biodegradable and thermosensitive polyaspartamide derivatives bearing aromatic structures, Materials Letters, 2014, 121, 78-80.\n55. Y.-F. Chu, H. Yu, Y.-Y. Ma, Y.-T. Zhang, G.-Y. Zhang, H. Wei, R.-X. Zhuo, X.-L. Jiang*，Synthesis and Characterization of Biodegradable pH and Reduction Dual-sensitive Polymeric Micelles for Intracellular Doxorubicin Delivery，J Polym Sci A，2014，52(13), 1771-1780.\n56. 黄果，蒋序林*，热敏性可降解高分子胶束药物载体的研究进展，高分子通报，2014，（2），61-68.\n57. J. Liu, Y.-L. Xu, Q.-Z. Yang, C. Li, W. E. Hennink, R.-X. Zhuo, X.-L. Jiang*, Reduction Biodegradable Brushed PDMAEMA Derivatives Synthesized by ATRP and Click Chemistry for Gene Delivery, Acta Biomater, 2013, 9, 7758-7766.\n58. Y.-Y. Ma, X.-L. Jiang*, R.-X. Zhuo, Biodegradable and Thermosensitive Micelles of Amphiphilic Polyaspartamide Derivatives Containing Aromatic Groups for Drug Delivery, J. Polym. Sci., Part A: Polym. Chem. 2013, 51, 3917-3924.\n59. X.-G. Huang, X.-L. Jiang*,Q.-Z. Yang, Y.-F. Chu, G.-Y. Zhang, B. Yang and R.-X. Zhuo, Triple-stimuli (pH/thermo/reduction) sensitive copolymers for intracellular drug delivery, J. Mater. Chem. B, 2013,1, 1860-1868.\n60. X.-G. Huang, Q.-Z. Yang, Y.-F. Chu, G.-Y. Zhang,  B. Yang, R.-X. Zhuo, X.-L. Jiang*，Thermo-, pH and reduction-responsive block copolymers for drug delivery，J. Control. Release, 2013, 172(1), e62.\n61. G.-Y. Zhang, X.-L. Jiang*, J. Liu, Q.-Z. Yang, R.-X. Zhuo，Reduction-degradable brushed polyethylenimine derivative synthesized by click chemistry for gene delivery, J. Control. Release, 2013, 172(1), e118-e119.\n62. G.-Y. Zhang, J. Liu, Q.-Z. Yang, R.-X. Zhuo, and X.-L. Jiang*, Disulfide-Containing Brushed Polyethylenimine Derivative Synthesized by Click Chemistry for Nonviral Gene Delivery, Bioconjugate Chem. 2012, 23, 1290-1299.\n63. X.-G. Huang, X.-L. Jiang*, R.-X. Zhuo, Microwave-assisted solid-phase synthesis of pH-responsive polyaspartamide derivatives, Carbohydrate Polymers, 2012, 89,788-794.\n64. X.-L. Jiang*, L.-H. Li, J. Liu, W. E. Hennink, R.X. Zhuo，Facile Fabrication of Thermo-Responsive and Reduction-Sensitive Polymeric Micelles for Anticancer Drug Delivery, Macromol. Biosci. 2012, 12, 703-711.\n65. X.-L. Jiang*, Y.-F. Chu, J. Liu, G.-Y. Zhang and R.-X. Zhuo，Aqueous SEC Analysis of Cationic Polymers ass Gene Carriers，Chinese Journal of Polymer Science 2011, 29(4), 421-426\n66. X.-L. Jiang*, L.-H. Li, J. Liu, R.-X. Zhuo, Reduction-responsive polymeric micelles for anticancer drug delivery, J. Control. Release, 2011, 152 S1, e36-e37.\n67. J. Liu, L. Xu, X.-L. Jiang*, W. E. Hennink, X.-M. Wang, R.-X. Zhuo, Disulfide-containing cross-linked PEI derivative synthesized by click chemistry for non-viral gene delivery, J. Control. Release, 2011, 152, S1, e157-e159\n68. Y. Chen, L.-Z. Zhou, Y. Pang, W. Huang, F. Qiu, X.-L. Jiang, X.-Y. Zhu, D.-Y. Yan, and Q. Chen, Photoluminescent Hyperbranched Poly(amido amine) Containing β-Cyclodextrin as a Nonviral Gene Delivery, Bioconjugate Chem. 2011, 22, 1162-1170.\n69. X.-L. Jiang, J. Liu, L. Xu, R.-X. Zhuo，Disulfide-Containing Hyperbranched Polyethylenimine Derivative via Click Chemistry for Nonviral Gene Delivery，Macromol. Chem. Phys. 2011, 212, 64-71.\n70. 杨奇志, 刘佳, 蒋序林*, 点击化学在生物医用高分子中的应用,化学进展, 2010, 22 (12): 2337-2347.\n71. J. Liu, X.-L. Jiang, L. Xu, X.-M. Wang, W. E. Hennink, R.-X. Zhuo，Novel Reduction-Responsive Cross-Linked Polyethylenimine Derivatives by Click Chemistry for Nonviral Gene Delivery, Bioconjugate Chem. 2010, 21(10), 1827-1835.\n72. 钟亚兰，蒋序林*，高效液相色谱表征高聚物，化学进展, 2010，22（4）, 706-712.\n73. R.-B Wang, L.-Z. Zhou, Y.-F. Zhou, G.-L. Li, X.-Y. Zhu, H.-C. Gu, X.-L. Jiang, H.-Q. Li, J.-L. Wu, L. He, X.-Q. Guo, B.-S. Zhu, and D.-Y. Yan, Synthesis and Gene Delivery of Poly(amido amine)s with Different Branched Architecture, Biomacromolecules 2010, 11, 489-495.\n74. L.-H. Li, X.-L. Jiang*, R.-X. Zhuo, Synthesis and Characterization of Thermoresponsive Polymers Containing Reduction-Sensitive Disulfide Linkage, J Polym Sci Part A: Polym Chem 2009, 47: 5989–5997.\n75. H. Wan, Y. Chen, L. Chen, X. Zhu, D. Yan, B. Li, T. Liu, L. Zhao, X. Jiang, G. Zhang, Supramolecular Control of the Branched Topology of Poly(sulfone-amine) from Divinylsulfone and Hexamethylenediamine, Macromolecules, 2008, 41(2), 465-470\n76. J. Xue, L. Zhou, P. He, X.-Y. Zhu, D.-Y. Yan and X.-L. Jiang, “Supramolecular End-Group Separation of Linear Polymers with Different Terminals through Host-Guest Interaction”, J. Incl. Phenom. Macrocycl. Chem., 2008, 61, 83-88.\n77. C. Lin, Z. Zhong, M.C. Lok, X.-L. Jiang, W. E Hennink, J. Feijen, J. F. J. Engbersen, Random and block copolymers of bioreducible poly(amido amine)s with high- and low-basicity amino groups: study of DNA condensation and buffer capacity on gene transfection, J Controlled Release, 2007, 123, 67-75.\n78. X.-L, Jiang, M. C. Lok, C. F. van Nostrum, W. E. Hennink, “Degradable-Brushed pHEMA-pDMAEMA Synthesized via ATRP and Click Chemistry for Gene Delivery”, Bioconjugate Chem., 2007, 18(6), 2077-2084.\n79. C. Lin, Z.-Y. Zhong, M. C. Lok, X.-L. Jiang, W. E. Hennink, J. Feijen, J. F. J. Engbersen, “Novel Bioreducible Poly(amido amine)s for Highly Efficient Gene Delivery”, Bioconjugate Chem., 2007, 18(1), 138 – 145.\n80. K. D. F. Vlugt-Wensink, X.-L.Jiang, G. Schotman, G. Kruijtzer, A. Vredenberg, J.T. Chung, Z. Zhang, C. Versluis, D. Ramos, R. Verrijk, W. Jiskoot, D. J. A. Crommelin, W. E. Hennink, “In Vitro Degradation Behavior of Microspheres Based on Cross-Linked Dextran”, Biomacromolecules, 2006, 7(11), 2983-2990.\n81. X. Jiang, A. van der Horst, M.J. van Steenbergen, N. Akeroyd, C.F. van Nostrum, P.J. Schoenmakers and W.E. Hennink, “Aqueous size-exclusion chromatography of cationic polymers for gene delivery”, J. Controlled Release, 2006, 116(2), e69-e71.\n82. C. Hiemstra, Z.Y. Zhong, X. Jiang, W.E. Hennink, P.J. Dijkstra and J. Feijen, “PEG–PLLA and PEG–PDLA multiblock copolymers: Synthesis and in situ hydrogel formation by stereocomplexation”, J. Controlled Release, 2006, 116(2), e17-e19.\n83. C. Lin, Z.Y. Zhong, M.C. Lok, X.-L. Jiang, W.E. Hennink, J. Feijen and J. F.J. Engbersen，“Linear poly(amido amine)s with secondary and tertiary amino groups and variable amounts of disulfide linkages: Synthesis and in vitro gene transfer properties”, J. Controlled Release, 2006, 116(2), 130-137.\n84. X.-L, Jiang, A. van der Horst, M. J. van Steenbergen, C. F. van Nostrum, P. J. Schoenmakers, W. E. Hennink, “Molar-Mass Characterization of Cationic Polymers for Gene Delivery by Aqueous SEC with Online Multi-Angle Light Scattering Detection”, Pharmaceut. Res., 2006，23(3), 595-603..\n85. X.-L, Jiang, A. van der Horst, V. Lima, P. J. Schoenmakers, “Comprehesive Two-Dimentional Liquid Chromatography for the Characterization of Functional Acrylate Polymers”, J. Chromatogr. A, 2005, 1076(1-2), 51-61.\n86. V. Lima V, X.-L. Jiang, J. Brokken-Zijp, P. J. Schoenmakers, B. Klumperman, R. Van Der Linde, “Synthesis and characterization of telechelic polymethacrylates via RAFT polymerization”m, J. Polym. Sci.: Polym. Chem., 2005, 43(5), 959-973.\n87. X.-L. Jiang, P. J. Schoenmakers, X.-W. Lou, V. Lima, J. L. J. van Dongen, and  J. Brokken-Zijp, “Separation and Characterization of Functional Poly(n-Butyl Acrylate) by Critical Liquid Chromatography”, J. Chromatogr. A, 2004, 1055(1-2), 123-133.\n88. H.-Q. Zhang, X.-L. Jiang, R. van der Linde, “Synthesis of Hydroxyl End-Capped Telechelic Polymers with Poly(Methyl Methacrylate)-block-Poly(n-Butyl Acrylate) Backbones via Atom-Transfer Radical Polymerisation”, Polymer, 2004, 45 (5), 1445-1466.\n89. X.-L. Jiang, P. J. Schoenmakers, J. L.M van Dongen, X.W. Lou, V. Lima, J. Brokken-Zijp, “Mass-Spectrometric Characterization of Functional Poly(Methyl Methacrylate) in Combination with Critical Liquid Chromatography”, Anal. Chem., 2003, 75(20), 5517-5524.\n90. X.-L. Jiang, V. Lima, P. J. Schoenmakers, “Robust Isocratic Liquid Chromatography Separation of Functional Poly(Methyl Methacrylate)”, J. Chromatogr. A, 2003, 1018(1), 19-27.\n91. X.-L. Jang, A. van der Horst, P. J. Schoenmakers, “Breakthrough of Polymers in Interactive Liquid Chromatography”,  J. Chromatogr. A, 2002, 982 (1), 55-68.\n92. J.-Y. Li, D.-Y. Yan, X.-L. Jiang, Q. Chen, “Formation of the Crystalline Inclusion Complex between Gamma-Cyclodextrin and Poly(N-acetylethylenimine)”, Polymer, 2002, 43, 2625-2629.\n93. 夏平 蒋序林  颜德岳, “耐热性星型甲基丙烯酸甲酯基共聚物的合成”，高等学校化学学报,2002. 23(2), 336-338.\n94. W.-X. Wang, D.-Y. Yan, X.-L. Jiang, C. Detrembleur, P. Lecomte, R. Jérôme, “Reverse Atom-Transfer Radical Polymerization at Room Temperature”, Macromol. Rapid Commun. 2001, 22, 439-443.\n95. P. Xia, Q.-S. Hu, X.-L. Qian, X.-L. Jiang, D.-Y. Yan, “Simultaneous Measurement of Free Rdical Decay in Polymerization of MMA Initiated by AIBN Using ESR and Its Kinetic Model”, Chinese J. Polym. Sci. 2001, 19 (1), 33-38.\n96. X.-L. Jiang, P. Xia, D.-Y. Yan, W.-L. Liu, “Atom Transfer Radical Copolymerization of Styrene and N-cyclohexylmaleimide”, J. Polym. Sci.: Polym. Chem., 2000, 38(8), 1203.\n97. X.-L. Jiang, D.-Y. Yan, Y.-L. Zhong, W.-L. Liu, and Q.-X. Chen. “Atom Transfer Radical Copolymerization of MMA and N-cyclohexylmaleimide”, Polym. Int., 2000, 49, 893-897.\n98. X.-L. Jiang, Y.-L. Zhong, D.-Y. Yan, and H. Yu, “Hyperbranched Copolymers of p-(Chloromethyl)styrene and N-Cyclohexylmaleimide Synthesized by ATRP”, J. Appl. Polym. Sci., 2000, 78(11), 1992-1997.\n99. 蒋序林  颜德岳  刘万里, “原子转移自由基聚合（ATRP）合成耐热性共聚物”，高等学校化学学报,2000. 21(10), 1613-1615.\n100. 李勇进  颜德岳  朱新远  蒋序林, “尼龙1012 的Brill转变”，高等学校化学学报,2000. 21(6), 983-984.\n101. 蒋序林, 钟亚兰, 易新文, 颜德岳, “酚醛树脂乳液的合成及在摩擦材料中的应用”,高分子材料科学与工程, 2000, 16(5), 173-175.\n102. X.-L. Jiang, H.-Y. Tai, P. Xia, D.-Y. Yan, “Kinetics for Copolymerization of Methyl Methacrylate with N-Cyclohexylmaleimide”, J. Appl. Polym. Sci. 1999, 74(5), 1293.\n103. X.-L. Jiang, D.-Y. Yan, X.Y. Zhu, J. Lin, “Radical Copolymerization between Methyl Methacrylate and N-cyclohexylmaleimide with Thiol as an Inifer”, J. Appl. Polym. Sci., 1999, 74(6), 1417.\n104. 学术专著：C. Xie，W. Huang，W.-Q.Sun, X.-L. Jiang*, Injectable polymeric gels based on chiyosan and chitin for biomedical applications， in Handbook of Chitin and Chitosan v3 (Chitin- and Chitosan-based Polymer Materials for Various Applications) Pp 281-306, Elsevier 2020-06..\n授权专利：\n1. 蒋序林, 李丽花, 卓仁禧, 还原敏感性的两亲性嵌段共聚物及其胶束，2011.9, 中国发明专利, ZL200910273157.0.\n2. 蒋序林, 刘佳, 徐丽, 卓仁禧, 还原敏感性聚乙烯亚胺衍生物及其制备方法和应用，2012.7, 中国发明专利, ZL201010154628.9.\n3. 蒋序林, 刘佳, 张光彦，杨奇志，卓仁禧，可还原降解的梳型高分子基因载体及其制备方法，2013.3, 中国发明专利, ZL201110020684.8.\n4. 蒋序林, 马颖颖, 余欢，卓仁禧, 多功能可降解聚天冬酰胺改性聚合物载药胶束及其制备方法，2014.11, 中国发明专利, ZL201210585852.2.\n5. 蒋序林，刘慧，杨奇志，卓仁禧 ，一种均相制备低脱乙酰度羟丙基改性甲壳素的方法，2016.1, 中国发明专利, ZL201410170871.8，（该项已申请PCT）\n6. 蒋序林，刘慧，杨奇志，卓仁禧 ，一种均相制备低脱乙酰度羧基甲壳素的方法及其应用，2017. 1, 中国发明专利, ZL201310641249.6.\n7. 蒋序林，黄佳昌 ，一种可注射高强度甲壳素基水凝胶及其制备方法和应用，2019. 10, 中国发明专利, ZL201710766653.4.\n8. 蒋序林，毕波，袁蒙，黄佳昌，中国专利公开部分CN20180108226.1，可注射高强度温敏性改性甲壳素基水凝胶及其制备方法和应用，申请日：2018.2.2，授权公告日：2021.8.3.\n9. 蒋序林，马梦思，钟亚兰，ZL201910768980.2-一种可注射含单宁酸的温敏复合抗菌水凝胶材料及其制备和应用， 申请日：2019.8.20，授权公告日：2021.7.6.\n10. 蒋序林，李家振，ZL202010298540.8，一种甲壳素衍生物中蛋白质含量的测定方法, 申请日：2020.4.16，中国发明专利授权公告日：2021.9.14.\n11. 蒋序林，赵勇，李家振，ZL202010324043.0，一种羧甲基甲壳素多孔颗粒材料、制备方法及用途申请日：2020.4.22，授权日：2021.5.18.\n12. 蒋序林，黄龙，黄佳昌，ZL2021115335953，AIE功能化可荧光示踪的改性甲壳素材料、制备方法和应用，申请日：2021.12.15，授权日：2022.9.5.\n中国专利申请：\n1. 蒋序林，乔芊芊，郑洁玉，钟亚兰，CN202110437908.9，一种温敏改性甲壳素水凝胶载局部麻药缓释镇痛体系、制备方法及应用，申请日：2021.4.22.\n2. 蒋序林，马梦思，CN202110609013.9，一种温敏改性甲壳素水凝胶关节腔注射剂及其制备方法和应用，申请日：2021.6.1.\n3. 蒋序林，吕思瑶，CN2021113339095，一种羧甲基甲壳素止血海绵材料、制备方法和应用，申请日：2021.11.11.\n4. 蒋序林，冷帆，CN2021113338849，一种羧甲基甲壳素微球栓塞剂及其制备方法和应用，申请日：2021.11.11.\n5. 蒋序林，蔡明真，CN2022100938539，季铵化改性温敏甲壳素材料及其制备方法和应用, 申请日：2022.1.26\n6. 蒋序林，马梦思，CN2020110722442，一种具有良好光热效应的温敏复合抗菌水凝胶及其使用方法和应用，申请日：2020.10.09.\n7. 蒋序林，乔芊芊，李涛涛，杨帆，CN2022104578208，一种温敏性改性甲壳素海绵载药植入缓释体系及其制备方法和应用，申请日：2022.4.27.\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n中国医药卫生文化协会生物医药材料专业委员会委员\n研究方向\n[1].1. 可控高分子的合成、改性及共轭技术的研究 2. 基因药物用新型可降解高分子载体的研究 3. 热敏性可降解高分子药物靶向载体研究（抗肿瘤药物、多肽蛋白质药物） 4. 温敏性可注射可降解高分子水凝胶载体(多肽蛋白细胞）的研究 5. HPLC分离与表征功能高分子\n其他联系方式\n邮编：\n传真：\n通讯/办公地址：\n办公室电话：\n移动电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

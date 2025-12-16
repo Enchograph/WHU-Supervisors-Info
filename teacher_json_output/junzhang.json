@@ -1,0 +1,219 @@
+{
+  "id": "junzhang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/junzhang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张俊",
+    "english_name": "Jun Zhang",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "应用化学",
+        "school": "南京航空航天大学",
+        "period": "2009.9-----2013.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "化学",
+        "school": "日本东北大学",
+        "period": "2014.10-----2016.9",
+        "country": "日本"
+      },
+      {
+        "degree": "博士",
+        "field": "化学",
+        "school": "日本东北大学",
+        "period": "2016.10-----2019.9",
+        "country": "日本"
+      }
+    ],
+    "graduation_school": "日本东北大学",
+    "academic_honors": [
+      "国家优秀自费留学生奖学金",
+      "日本学术振兴会特别研究员",
+      "日本东北大学杰出研究员",
+      "国际配位化学会新星奖",
+      "国家海外高层次青年人才项目"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "磁性配合物的构筑与调控",
+      "金属有机框架材料的功能化设计",
+      "主-客体相互作用与性能调控",
+      "电荷转移与自旋耦合机制研究"
+    ],
+    "research_interests": [
+      "磁-电性能调控",
+      "气体响应性材料",
+      "电荷转移型MOFs",
+      "主-客体电子转移",
+      "自旋耦合",
+      "动态物理性能表征"
+    ],
+    "research_description": "主要从事磁性配合物的构筑及其物理性能调控，聚焦于通过溶剂、气体等客体小分子实现配合物磁学、电学功能的可逆转换。从电子结构角度出发，设计并构建了一系列电荷转移型金属有机框架材料，提出了主体电子转移、主-客体电子转移以及主-客体自旋耦合等新型调控策略。研究涵盖CO2、O2等气体分子对材料磁性、电子态和结构的动态调控，实现了从顺磁性到铁磁性/反铁磁性的转变，揭示了气体吸附诱导的电子-自旋-晶格协同演化机制。",
+    "disciplines": [
+      "无机化学",
+      "材料化学",
+      "物理化学",
+      "功能材料"
+    ],
+    "field_tags": [
+      "金属有机框架",
+      "磁性材料",
+      "主-客体化学",
+      "气体响应",
+      "电荷转移",
+      "自旋调控",
+      "功能配合物",
+      "动态材料",
+      "MOFs",
+      "磁电耦合"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 10,
+    "representative_publications": [
+      {
+        "title": "A metal–organic framework that exhibits CO2-induced transitions between paramagnetism and ferrimagnetism",
+        "keywords": [
+          "金属有机框架",
+          "磁性转换",
+          "CO2响应",
+          "电荷转移",
+          "自旋耦合"
+        ],
+        "journal_name": "Nature Chemistry",
+        "research_fields": [
+          "无机化学",
+          "材料化学",
+          "配位化学",
+          "功能材料"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "CO2-Sensitive Porous Magnet: Antiferromagnet Creation from a Paramagnetic Charge-Transfer Layered Metal-Organic Framework",
+        "keywords": [
+          "多孔磁性材料",
+          "CO2敏感",
+          "电荷转移",
+          "反铁磁性",
+          "主-客体相互作用"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "功能材料",
+          "磁性配合物",
+          "气体响应材料",
+          "金属有机框架"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Cooperative Magnetic Phase Evolution via Oxygen Spin Coupling in a Layered Metal-Organic Framework",
+        "keywords": [
+          "层状金属有机框架",
+          "氧自旋耦合",
+          "磁相变",
+          "协同效应",
+          "电子结构调控"
+        ],
+        "journal_name": "Journal of the American Chemical Society",
+        "research_fields": [
+          "磁性材料",
+          "配位化学",
+          "电子转移",
+          "动态物理性能"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Densely Packed CO2 Aids Charge, Spin, and Lattice Ordering Partially Fluctuated in a Porous Metal-Organic Framework Magnet",
+        "keywords": [
+          "密集CO2填充",
+          "电荷/自旋/晶格有序",
+          "多孔磁性框架",
+          "主-客体相互作用"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "功能材料",
+          "磁性调控",
+          "气体吸附",
+          "电子结构"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A Host–Guest Electron Transfer Mechanism for Magnetic and Electronic Modifications in a Redox‐Active Metal–Organic Framework",
+        "keywords": [
+          "主-客体电子转移",
+          "氧化还原活性",
+          "磁性调控",
+          "电子结构",
+          "金属有机框架"
+        ],
+        "journal_name": "Angewandte Chemie International Edition",
+        "research_fields": [
+          "配位化学",
+          "电荷转移",
+          "功能材料",
+          "磁电耦合"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/junzhang/zh_CN/index.htm"
+      },
+      {
+        "platform": "课题组网站",
+        "url": "http://junzhang.whu.edu.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "日本学术振兴会青年科学基金",
+      "日本东北大学创新研究基金"
+    ],
+    "funding_agencies": [
+      "日本学术振兴会",
+      "日本东北大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张俊\n页面链接: http://jszy.whu.edu.cn/junzhang/zh_CN/index.htm\n==================================================\n武汉大学 张俊--中文主页--首页\nEnglish\n首页\n科学研究\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n个人简介\n张俊，武汉大学化学与分子科学学院教授、博士生导师。曾获国家优秀自费留学生奖学金、日本学术振兴会特别研究员、日本东北大学杰出研究员、国际配位化学会新星奖、国家海外高层次青年人才项目等荣誉。主持日本学术振兴会青年科学基金、日本东北大学创新研究基金等科研项目。主要从事磁性配合物的构筑及其物理性能调控，专注于通过溶剂、气体等客体小分子实现配合物磁学、电学的功能转换。从电子结构的角度出发，构筑了一系列电荷转移型金属有机框架，提出了主体上电子转移、主-客体电子转移以及主-客体自旋耦合等调控策略。以第一作者在Nature Chem., J. Am. Chem. Soc., Angew. Chem. Int. Ed. 等国际顶尖期刊上发表论文数篇。本课题组长期招收博士后、博士生与硕士生，欢迎热爱科研、有进取心的同学加入。\n课题组网站：junzhang.whu.edu.cn\nJun Zhang, Yang Cao, Wataru Kosaka, Masaki Mimura, Yasutaka Kitagawa, Hitoshi Miyasaka*, Cooperative Magnetic Phase Evolution via Oxygen Spin Coupling in a Layered Metal-Organic Framework, J. Am. Chem. Soc.  2025, 147 (39), 35742–35754.\nJun Zhang, Wataru Kosaka, Qingxin Liu, Naoka Amamizu, Yasutaka Kitagawa, Hitoshi Miyasaka*. CO2-Sensitive Porous Magnet: Antiferromagnet Creation from a Paramagnetic Charge-Transfer Layered Metal-Organic Framework. J. Am. Chem. Soc. 2023, 145, 26179–26189.\nWataru Kosaka, Yoshie Hiwatashi, Naoka Amamizu, Yasutaka Kitagawa, Jun Zhang, Hitoshi Miyasaka*. Densely Packed CO2 Aids Charge, Spin, and Lattice Ordering Partially Fluctuated in a Porous Metal-Organic Framework Magnet. Angew. Chem. Int. Ed. 2023, 62, e20231220.\nJun Zhang, Wataru Kosaka, Yasutaka Kitagawa, Hitoshi Miyasaka*. A Host–Guest Electron Transfer Mechanism for Magnetic and Electronic Modifications in a Redox‐Active Metal–Organic Framework, Angew. Chem. Int. Ed. 2022, 134, e202115976.\nJun Zhang, Wataru Kosaka, Hiroyasu Sato, Hitoshi Miyasaka*. Magnet Creation by Guest Insertion into a Paramagnetic Charge-Flexible Layered Metal–Organic Framework, J. Am. Chem. Soc. 2021, 143, 7021-7031.\nJun Zhang, Wataru Kosaka, Yasutaka Kitagawa, Hitoshi Miyasaka*. A metal–organic framework that exhibits CO2-induced transitions between paramagnetism and ferrimagnetism, Nat. Chem. 2021, 13, 191–199.\nJun Zhang, Wataru Kosaka, Yasutaka Kitagawa, Hitoshi Miyasaka*. Host-Guest Hydrogen Bonding Varies the Charge-State Behavior of Magnetic Sponges, Angew. Chem. Int. Ed. 2019, 58, 7351–7356.\nWataru Kosaka, Zhaoyuan Liu, Jun Zhang, Yohei Sato, Akihiro Hori, Ryotaro Matsuda, Susumu Kitagawa, Hitoshi Miyasaka*. Gas-responsive Porous Magnet Distinguishes the Electron Spin of Molecular Oxygen, Nat. Commun. 2018, 9, 5420.\nJun Zhang, Wataru Kosaka, Kunihisa Sugimoto, Hitoshi Miyasaka*. Magnetic Sponge Behavior via Electronic State Modulations, J. Am. Chem. Soc. 2018, 140, 5644–5652.\nWataru Kosaka, Kayo Yamagishi, Jun Zhang, Hitoshi Miyasaka*. Gate-Opening Gas Adsorption and Host-Guest Interacting Gas Trapping Behavior of Porous Coordination Polymers under Applied AC Electric Fields, J. Am. Chem. Soc. 2014, 136, 12304–12313.\n本课题组诚聘硕士/博士研究生、博士后、研究助理、本科生等。\np  硕士、博士研究生\n欢迎对科学研究有好奇心和兴趣、认真负责的化学、材料、物理等相关专业的同学报考硕士和博士研究生（可推免或申请考核）。课题组将提供良好的科研平台、学习氛围和良好的发展机遇。\n学校硕士和博士招生相关政策，请参考：\nhttps://info.whu.edu.cn/info/1667/25737.htm\nhttps://info.whu.edu.cn/info/1667/26412.htm\np  博士后\n博士后待遇按照科研背景和研究计划进行评定，年薪35-40万，特别优秀者待遇可进一步协商。课题组将根据研究成果提供额外津贴。可申请武汉大学“卓越博士后计划”（年薪40万）、“重点博后资助计划”以及国家级博士后创新人才支持计划和各项博士后基金。享受武汉大学博士后各项福利待遇（博士后公寓、公费医疗、住房公积金、子女入学）。出站考核优秀的博士后可申报学校固定编制、职称晋升等。\n弘毅博士后招生及待遇政策，请参考：\nhttps://www.whu.edu.cn/info/1118/174554.htm\np  研究助理\n硕士毕业，化学、材料、物理等相关专业。\n具有良好英文阅读和写作能力。具备责任心、良好的沟通协作技巧和团队合作精神。\n根据武汉大学的政策执行，此外根据工作业绩额外发放津贴，可优先报考博士研究生。\n本招聘长期有效，有兴趣者请将个人简历和代表性科研成果发送至邮箱junzhang@whu.edu.cn。   邮件标题注明\"应聘岗位+姓名\"。确定正式申请后可依照相关规定提交其他材料。\n欢迎有理想和抱负的青年才俊加盟！\n研究方向\n社会兼职\n功能配合物设计；磁-电-光性能调控；动态物理性能表征\n暂无内容\n教育经历\n工作经历\n2009.9-----2013.6\n南京航空航天大学\n|\n应用化学\n|\n学士\n|\n学士\n2014.10-----2016.9\n日本东北大学\n|\n化学\n|\n硕士\n|\n硕士\n2016.10-----2019.9\n日本东北大学\n|\n化学\n|\n博士\n|\n博士\n2019.10-----2020.12\n金属材料研究所\n|\n日本东北大学\n2021.1-----2023.1\n前沿交叉学科研究所\n|\n日本东北大学\n2023.3-----至今\n化学与分子科学学院\n|\n武汉大学\n团队成员\n暂无内容\n返回顶部\n+\n张俊\n职务：教授主要任职：\n同专业博导>>\n个人信息\n教授\n博士生导师\n教师拼音名称：Zhang Jun\n电子邮箱：\n所在单位：化学与分子科学学院\n职务：教授\n办公地点：武汉大学化学与分子科学学院化南112\n职称：教授\n学科：无机化学\n其他联系方式\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

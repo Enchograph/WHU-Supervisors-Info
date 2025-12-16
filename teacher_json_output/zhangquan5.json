@@ -1,0 +1,128 @@
+{
+  "id": "zhangquan5",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangquan5/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张全",
+    "english_name": "Zhang Quan",
+    "title": [
+      "副教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2011.9-2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2009.9-2011.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士",
+        "field": "大地测量学与测量工程",
+        "school": "山东科技大学",
+        "period": "2005.9-2009.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省“青年拔尖人才”"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "定位与导航完好性监测技术",
+      "基于MEMS惯导的多源信息融合导航技术与应用",
+      "GNSS/INS组合导航技术与应用",
+      "惯性导航技术"
+    ],
+    "research_interests": [
+      "高精度多源信息融合",
+      "低成本MEMS器件导航性能挖掘",
+      "车辆运动控制与运动特征约束辅助",
+      "多源融合定位完好性监测",
+      "智能驾驶导航",
+      "智能交通导航",
+      "智慧农业位置服务"
+    ],
+    "research_description": "张全副教授长期专注于惯性导航和多源融合导航理论、方法与应用研究，面向智能驾驶、智能交通、智慧农业等全天候、多场景、高精度、高可靠性的导航与位置服务需求，开展高精度多源信息融合技术研究，重点挖掘低成本MEMS器件的导航性能，研究车辆运动控制与运动特征约束辅助、多源信息融合设计及多源融合定位完好性监测方法等关键技术。主持国家自然科学基金、国家重点研发计划项目子课题、湖北省科技重大专项子课题等多项科研项目。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "导航与定位技术",
+      "智能交通系统",
+      "智能驾驶技术"
+    ],
+    "field_tags": [
+      "惯性导航",
+      "多源融合",
+      "GNSS/INS组合导航",
+      "MEMS惯导",
+      "导航完好性",
+      "智能驾驶",
+      "智慧农业",
+      "高精度定位",
+      "位置服务"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangquan5/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划项目子课题",
+      "湖北省科技重大专项子课题",
+      "中国博士后科学基金",
+      "武汉大学自主科研项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "湖北省科技厅",
+      "中国博士后科学基金会",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张全\n页面链接: http://jszy.whu.edu.cn/zhangquan5/zh_CN/index.htm\n==================================================\n武汉大学 张全--中文主页--首页\n教师个人主页\n张全\n个人信息\n教师拼音名称：Zhang Quan\n出生日期：1986-07-11\n电子邮箱：\n入职时间：2020-01-01\n所在单位：卫星导航定位技术研究中心（国家卫星定位系统工程技术研究中心）\n职务：副教授\n学历：博士研究生毕业\n办公地点：武汉大学信息学部星湖综合实验大楼14楼\n性别：男\n联系方式：zhangquan@whu.edu.cn\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n张全，男，副教授，硕/博士生导师，入选湖北省“青年拔尖人才”，长期专注于惯性导航和多源融合导航理论、方法与应用等研究。面向智能驾驶、智能交通、智慧农业等全天候、多场景、高精度、高可靠性的导航与位置服务需求，开展高精度多源信息融合技术研究，挖掘低成本MEMS器件的导航性能、研究车辆运动控制与运动特征约束辅助、多源信息融合设计、多源融合定位完好性监测方法等关键技术。主持国家自然科学基金、国家重点研发计划项目子课题、湖北省科技重大专项子课题、中国博士后科学基金、武汉大学自主科研项目等...\n教育经历\n更多>>\n2011.9-2015.6\n武汉大学  | 大地测量学与测量工程  | 工学博士学位\n2009.9-2011.6\n武汉大学  | 大地测量学与测量工程  | 工学硕士学位\n2005.9-2009.6\n山东科技大学  | 大地测量学与测量工程  | 工学学士学位\n工作经历\n更多>>\n2022.1-至今\n武汉大学  | 副教授\n2019.9-2021.12\n武汉大学  | 特聘副研究员\n2017.7-2018.9\n&nbspPurdue University  |&nbspResearch Assistant\n社会兼职\n暂无内容\n研究方向\n更多>>\n定位与导航完好性监测技术\n基于MEMS惯导的多源信息融合导航技术与应用\nGNSS/INS组合导航技术与应用\n惯性导航技术\n团队成员\n更多>>\n多源智能导航实验室（i2NAV）\n详见http://i2nav.com/index\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

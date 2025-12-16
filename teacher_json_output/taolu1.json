@@ -1,0 +1,122 @@
+{
+  "id": "taolu1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/taolu1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陶璐",
+    "english_name": "TAO Lu",
+    "title": [
+      "特聘副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "地图学与地理信息系统",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "信息学",
+        "school": "名古屋大学",
+        "period": "2018-4····2023.7",
+        "country": "日本"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "导航、制导与控制",
+        "school": "武汉大学",
+        "period": "2014-9····2017.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "地理信息系统",
+        "school": "武汉大学",
+        "period": "2010-9····2014.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "名古屋大学",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "智能网联汽车",
+      "高精动态地图",
+      "车路云一体化",
+      "多源信息融合",
+      "边缘计算与云计算"
+    ],
+    "research_interests": [
+      "协同感知预测",
+      "多源信息融合",
+      "边缘计算",
+      "云计算",
+      "智能交通系统",
+      "自动驾驶"
+    ],
+    "research_description": "陶璐的研究聚焦于智能网联汽车领域的多学科交叉前沿，涵盖高精动态地图构建、协同感知与预测、多源信息融合、车路云一体化架构设计、边缘计算与云计算技术应用。其研究成果已成功应用于日本经济产业省和国土交通省主导的国家级Level4协同自动驾驶示范项目CooL4,RoAD to the L4，具有显著的产业转化价值。",
+    "disciplines": [
+      "地图学与地理信息系统",
+      "测绘科学与技术",
+      "控制科学与工程",
+      "计算机科学与技术"
+    ],
+    "field_tags": [
+      "智能网联汽车",
+      "自动驾驶",
+      "高精地图",
+      "车路协同",
+      "边缘计算",
+      "多源融合",
+      "智能交通",
+      "信息融合",
+      "云计算"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "个人主页",
+        "url": "http://lutaonuwhu.github.io"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973",
+      "863",
+      "国际合作项目"
+    ],
+    "funding_agencies": [
+      "日本经济产业省",
+      "日本国土交通省",
+      "武汉大学"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "junior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陶璐\n页面链接: http://jszy.whu.edu.cn/taolu1/zh_CN/index.htm\n==================================================\n武汉大学 陶璐--中文主页--首页\nEnglish\n中文\n陶璐\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n硕士生导师\n教师英文名称：TAO Lu\n电子邮箱：\n入职时间：2025-03-01\n学历：博士研究生毕业\n办公地点：资源与环境科学学院电脑城附楼404\n性别：男\n联系方式：ltao@whu.edu.cn\n在职信息：在职\n毕业院校：名古屋大学\n所属院系：\n资源与环境科学学院\n学科：\n地图学与地理信息系统\n测绘科学与技术其他专业\n个人简介\n陶璐，现任资源与环境科学学院特聘副研究员，硕士生导师。具备多学科交叉教育背景，本硕博横跨地理学、控制科学与工程、计算机科学与技术三个一级学科，在日本名古屋大学取得信息学博士学位。研究内容集中在智能网联汽车前沿多学科交叉领域，包括：高精动态地图、协同感知预测、多源信息融合、车路云一体化、边缘计算、云计算等。2023-2024年，受聘为名古屋大学未来社会创造机构和情报学研究科附属嵌入式系统研究中心研究员。全流程参与日本动态地图研发，研究成果成功运用在日本经济产业省和国土交通省主导的国家级Level4协同自动驾驶示范项目CooL4,RoAD to the L4，被日本产业界广泛采用。\n详细信息，见个人主页：lutaonuwhu.github.io（复制到浏览器打开）。\n团队成员\n暂无内容\n工作经历\n2023-8····2024-8\n嵌入式系统研究中心\n| 名古屋大学\n| 兼职\n| 研究员\n2023-8····2024-8\n未来社会创造机构\n| 名古屋大学\n| 全职\n| 研究员\n2024-9····至今\n| 光昱明晟智能技术有限公司\n| 兼职\n| 算法总监\n2025-3····至今\n资源与环境科学学院\n| 武汉大学\n| 全职\n| 特聘副研究员\n教育经历\n2018-4····2023.7\n名古屋大学\n|\n信息学\n| 工学博士学位\n|\n博士\n2014-9····2017.6\n武汉大学\n|\n导航、制导与控制\n| 工学硕士学位\n|\n硕士研究生\n2010-9····2014.6\n武汉大学\n|\n地理信息系统\n| 理学学士学位\n|\n大学本科\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

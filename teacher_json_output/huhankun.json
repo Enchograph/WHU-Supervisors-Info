@@ -1,0 +1,104 @@
+{
+  "id": "huhankun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huhankun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "胡汉昆",
+    "english_name": "Hankun Hu",
+    "title": [
+      "教授",
+      "二级主任药师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "药学其他专业",
+    "college": "第二临床学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2025年第十四届中国创新创业大赛颠覆性技术创新大赛（未来健康领域赛）优秀奖",
+      "2024年第九届创客中国生物制造中小企业创新创业大赛一等奖",
+      "2023年第二届湖北省生命健康科技创新创业大赛金奖"
+    ],
+    "academic_services": [
+      "中国民族医药学会方药量效研究分会副会长",
+      "《世界临床药物》杂志副主任编委",
+      "国家科技奖励评审专家",
+      "国家重点研发计划评审专家",
+      "教育部高校科研成果奖评审专家",
+      "《中国药业》杂志常务编委",
+      "《中国药物应用与评价》常务编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "药学基础研究",
+      "临床药学与医院药学",
+      "中药质量评价新方法",
+      "中药功效的科学表征",
+      "医工交叉与生物工程"
+    ],
+    "research_interests": [
+      "药物递送系统",
+      "微针贴片",
+      "生物材料",
+      "糖尿病伤口愈合",
+      "炎症治疗",
+      "肿瘤治疗",
+      "器官芯片",
+      "多组学技术",
+      "AI辅助药物研发",
+      "药物安全性评价"
+    ],
+    "research_description": "胡汉昆教授主要从事药学基础研究、临床药学与医院药学、中药质量评价新方法及中药功效的科学表征，聚焦医工交叉与生物工程领域。研究重点包括基于微针贴片的药物递送系统、智能响应型水凝胶在糖尿病伤口愈合中的应用、基于多组学与AI的药物研发替代技术、以及用于药物安全性评价的微流控器官芯片系统。其团队在光动力治疗、抗炎治疗、抗感染治疗及内源性抗菌肽调控等方面取得系列成果。",
+    "disciplines": [
+      "药学",
+      "生物医学工程",
+      "临床药学",
+      "中药学",
+      "生物材料"
+    ],
+    "field_tags": [
+      "药物递送",
+      "微针贴片",
+      "智能水凝胶",
+      "糖尿病伤口愈合",
+      "炎症与免疫",
+      "医工交叉",
+      "器官芯片",
+      "多组学",
+      "AI药物研发",
+      "药物安全性评价"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": []
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 胡汉昆\n页面链接: http://jszy.whu.edu.cn/huhankun/zh_CN/index.htm\n==================================================\n武汉大学 胡汉昆--中文主页--首页\nEnglish\n中文\n胡汉昆\n同专业博导\n同专业硕导\n科研方向\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n社会兼职\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：Hankun Hu\n电子邮箱：\n职务：博士生导师/二级主任药师\n在职信息：在职\n主要任职：二级主任药师（专业技术三级）\n毕业院校：武汉大学\n所属院系：\n第二临床学院\n学科：\n药学其他专业\n个人简介\n武汉大学中南医院胡汉昆主任药师课题组博士后招聘启事\nhttps://mp.weixin.qq.com/s/yFSDUO_zYyqcBBZvYjxWvw\nhttps://www.znhospital.com/Uploads/Picture/2025/09/10/u68c0dcc3d8596.pdf\n代表性论著\n1. Oxygen-boosted dual-section microneedle patch for enhanced drug penetration and improved photodynamic and anti-inflammatory therapy in psoriasis.\nActa Pharmaceutica Sinica B ,https://doi.org/10.1016/j.apsb.2025.09.037\n2. Clinical, Epidemiological, Virological Characteristics and Outcomes of 286 Patients Infected With Monkeypox Virus in China.\nALLERGY, 2025, 80, 5, 1436-1451\n3. Double-Layered Microneedle Patch Integrated with Multifunctional Nanoparticles and Live Bacteria for Long-Term Treatment of Atopic Dermatitis.\nSMALL, 2025, 21, 3\n4. MMP-9 responsive hydrogel promotes diabetic wound healing by suppressing ferroptosis of endothelial cells.（ESI-HIGH）\nBIOACTIVE MATERIALS, 2025, 43, 240-254\n5.The ROS-responsive FA@Ni@HA hydrogel promotes infected wound healing in DIO mice through endogenous antimicrobial peptides and macrophage recruitment.\nCHEMICAL ENGINEERING JOURNAL, 2024, 500\n6. Hypoxia endothelial cells-derived exosomes facilitate diabetic wound healing through improving endothelial cell function and promoting M2 macrophages polarization.\n（ESI-HIGH,ESI-HOT）\nBIOACTIVE MATERIALS, 2024, 33, 3, 157-173\n7. Glucose-responsive, antioxidative HA-PBA-FA/EN106 hydrogel enhanced diabetic wound healing through modulation of FEM1b-FNIP1 axis and promoting angiogenesis.\nBIOACTIVE MATERIALS,  2023, 30, 12, 29-45\n荣誉奖励\n1. 2025年第十四届中国创新创业大赛颠覆性技术创新大赛（未来健康领域赛）优秀奖\n基于新药研发动物实验替代技术的AI多组学器官芯片系统高端装备（湖北省唯一入选项目）\n2. 2024年第九届创客中国生物制造中小企业创新创业大赛一等奖（全国仅2项）\n基于质谱在线多组学技术的药物安全性评价微流控器官芯片系统\n3. 2023年第二届湖北省生命健康科技创新创业大赛金奖（5项金奖之一）\n传染病病房共融护理机器人\n社会与学术兼职\n1.中国民族医药学会方药量效研究分会，副会长\n2.《世界临床药物》杂志，副主任编委\n3. 国家科技奖励评审专家\n4. 国家重点研发计划评审专家\n5. 教育部高校科研成果奖评审专家\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n2024-11····至今\n《中国药业》杂志常务编委\n2024-1····至今\n《世界临床药物》杂志编委会副主任委员\n2023-9····至今\n中国民族医药学会方药量效研究分会副会长\n2024-6····至今\n《中国药物应用与评价》常务编委\n研究方向\n[1].1.药学基础研究\n[2].2.临床药学和医院药学\n[3].3.中药质量评价新方法及中药功效的科学表征\n[4].4.医工交叉与生物工程\n其他联系方式\n邮编：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

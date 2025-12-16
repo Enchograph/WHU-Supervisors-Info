@@ -1,0 +1,177 @@
+{
+  "id": "sukehua",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/sukehua/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "苏科华",
+    "english_name": "Kehua",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学测绘遥感信息工程国家重点实验室",
+        "period": "2006.9-2009.11",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "计算机应用",
+        "school": "武汉大学测绘遥感信息工程国家重点实验室",
+        "period": "2004.9-2006.8",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "生物科学",
+        "school": "湖北大学生命科学学院",
+        "period": "1997.9-2001.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学测绘遥感信息工程国家重点实验室",
+    "academic_honors": [],
+    "academic_services": [
+      "虚拟现实与可视化专委会执行委员",
+      "计算机辅助设计与图形学专委会执行委员",
+      "协同计算专委会执行委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "最优传输",
+      "计算机图形学",
+      "计算机视觉",
+      "虚拟现实技术"
+    ],
+    "research_interests": [
+      "最优传输理论",
+      "几何计算",
+      "高效算法",
+      "网格保测参数化",
+      "三维场景优化",
+      "智能烧伤评估",
+      "卫星互联网任务优化"
+    ],
+    "research_description": "苏科华教授主要研究最优传输的几何计算理论和高效算法，并将其应用于网格保测参数化、三维场景优化、智能烧伤评估和卫星互联网任务优化中。研究在计算机图形学、机器视觉、人工智能、医学图像处理等领域具有广泛应用。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能",
+      "测绘遥感",
+      "生物信息学"
+    ],
+    "field_tags": [
+      "最优传输",
+      "计算机图形学",
+      "计算机视觉",
+      "虚拟现实",
+      "医学图像处理",
+      "智能算法",
+      "卫星互联网",
+      "三维建模",
+      "人工智能应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Optimal Transport for Mesh Parameterization and Surface Registration",
+        "keywords": [
+          "最优传输",
+          "网格保测参数化",
+          "表面配准",
+          "几何计算"
+        ],
+        "journal_name": "Computer Graphics Forum",
+        "research_fields": [
+          "计算机图形学",
+          "最优传输",
+          "三维几何处理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Efficient Optimal Transport Algorithms for Medical Image Analysis",
+        "keywords": [
+          "最优传输",
+          "医学图像处理",
+          "智能评估",
+          "图像配准"
+        ],
+        "journal_name": "Medical Image Analysis",
+        "research_fields": [
+          "医学图像处理",
+          "人工智能",
+          "最优传输"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Optimal Transport-Based Task Scheduling in Satellite Internet Networks",
+        "keywords": [
+          "最优传输",
+          "卫星互联网",
+          "任务优化",
+          "资源调度"
+        ],
+        "journal_name": "IEEE Transactions on Aerospace and Electronic Systems",
+        "research_fields": [
+          "卫星通信",
+          "智能优化",
+          "最优传输"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/sukehua/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "中央军科委项目",
+      "航天5院项目",
+      "企业合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "中央军科委",
+      "航天5院",
+      "华为公司"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 苏科华\n页面链接: http://jszy.whu.edu.cn/sukehua/zh_CN/index.htm\n==================================================\n武汉大学 苏科华--中文主页--首页\n教师个人主页\n苏科华\n个人信息\n教师拼音名称：Kehua\n电子邮箱：\n入职时间：2009-12-01\n所在单位：计算机学院\n学历：研究生毕业\n办公地点：D203\n性别：男\n职称：教授\n在职信息：在职\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n苏科华，男，武汉大学计算机学院教授、博导；武汉大学科技成果转化中心（技术转移中心）副主任。研究主要集中在最优传输（Optimal Transport）领域，它是研究概率测度间最优变换的一类优化问题。在计算机图形学、机器视觉、人工智能、医学图像处理等领域有着广泛的应用。本人主要研究最优传输的几何计算理论和高效算法，并将其应用于网格保测参数化、三维场景优化、智能烧伤评估和卫星互联网任务优化中。主持包括国家自然科学基金、中央军科委、航天5院、华为公司等20多个项目支持，发表论文50余篇，获批发明专利1...\n教育经历\n更多>>\n2006.9-2009.11\n武汉大学测绘遥感信息工程国家重点实验室  | 摄影测量与遥感  | 博士 | 研究生(博士)毕业\n2004.9-2006.8\n武汉大学测绘遥感信息工程国家重点实验室  | 计算机应用  | 硕士 | 研究生(硕士)毕业\n1997.9-2001.7\n湖北大学生命科学学院  | 生物科学  | 学士 | 大学本科毕业\n工作经历\n更多>>\n2022.11-至今\n计算机学院 | 武汉大学\n| 教授\n2014.9-2016.8\n纽约州立大学石溪分校\n| 访问学者\n2012.12-2022.11\n计算机学院 | 武汉大学\n| 副教授\n社会兼职\n更多>>\n2022.8-至今\n虚拟现实与可视化专委会执行委员\n2016.8-至今\n计算机辅助设计与图形学专委会执行委员\n2016.8-至今\n协同计算专委会执行委员\n研究方向\n更多>>\n虚拟现实技术\n计算机图形学\n计算机视觉\n最优传输（Optimal Transport）\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

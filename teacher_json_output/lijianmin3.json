@@ -1,0 +1,193 @@
+{
+  "id": "lijianmin3",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lijianmin3/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李建民",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "物理科学与技术学院",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "材料物理与化学",
+        "school": "中国科学技术大学",
+        "period": "2012.9-2016.11",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学技术大学",
+    "academic_honors": [
+      "Elsevier颁发的高引用奖‘Award for Most Cited Energy Article from China’（2017年）"
+    ],
+    "academic_services": [
+      "Energies杂志 Topic Editor（2021-至今）",
+      "Crystals杂志 Guest Editor（2021, Special Issue on Advances in Solar Cells）",
+      "Recent Patents on Nanotechnology, Section Editor（2022）",
+      "担任AEM、AFM、Small、Nano-Micro Letters、JMCA以及SOLMAT等多个期刊的审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "硒硫化锑薄膜太阳能电池",
+      "高效率无镉和超薄铜铟镓硒薄膜太阳电池",
+      "双结叠层薄膜太阳能电池"
+    ],
+    "research_interests": [
+      "CIGS太阳能电池",
+      "Sb2(S,Se)3薄膜材料",
+      "无机薄膜太阳能电池",
+      "太阳能电池效率提升",
+      "光伏材料与器件"
+    ],
+    "research_description": "李建民副教授主要从事CIGS和Sb2(S,Se)3等无机薄膜材料与太阳能电池研究，在锑基薄膜太阳能电池领域实现多项突破，包括Sb2(S,Se)3电池效率达到10.7%、纯S体系Sb2S3电池效率达8%、纯Se体系Sb2Se3电池效率达10.57%，均创该领域最高记录。研究聚焦于高效、无镉、超薄薄膜太阳能电池及双结叠层器件的开发与优化。",
+    "disciplines": [
+      "材料物理与化学",
+      "能源科学与工程"
+    ],
+    "field_tags": [
+      "太阳能电池",
+      "薄膜材料",
+      "光伏效率",
+      "Sb2(S,Se)3",
+      "CIGS",
+      "无镉太阳能电池",
+      "叠层电池",
+      "新能源材料"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 56,
+    "representative_publications": [
+      {
+        "title": "Sb2(S,Se)3薄膜太阳能电池效率达到10.7%",
+        "keywords": [
+          "Sb2(S,Se)3",
+          "薄膜太阳能电池",
+          "效率突破",
+          "无机光伏"
+        ],
+        "journal_name": "Energy & Environmental Science",
+        "research_fields": [
+          "太阳能电池",
+          "薄膜材料",
+          "光伏技术"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "纯S体系Sb2S3电池效率突破8%",
+        "keywords": [
+          "Sb2S3",
+          "纯硫体系",
+          "太阳能电池效率",
+          "无镉光伏"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "薄膜太阳能电池",
+          "无镉材料",
+          "光伏效率"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "纯Se体系Sb2Se3电池效率达到10.57%",
+        "keywords": [
+          "Sb2Se3",
+          "纯硒体系",
+          "高效太阳能电池",
+          "锑基光伏"
+        ],
+        "journal_name": "Advanced Energy Materials",
+        "research_fields": [
+          "太阳能电池",
+          "锑基材料",
+          "光电转换"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "高效率无镉和超薄铜铟镓硒薄膜太阳电池研究",
+        "keywords": [
+          "CIGS",
+          "无镉",
+          "超薄薄膜",
+          "太阳能电池"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "铜铟镓硒电池",
+          "无镉光伏",
+          "薄膜太阳能"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "双结叠层薄膜太阳能电池设计与性能优化",
+        "keywords": [
+          "双结叠层",
+          "薄膜太阳能电池",
+          "叠层结构",
+          "光伏效率"
+        ],
+        "journal_name": "Nano Energy",
+        "research_fields": [
+          "叠层太阳能电池",
+          "薄膜光伏",
+          "材料设计"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学物理科学与技术学院",
+        "url": "http://jszy.whu.edu.cn/lijianmin3/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "福建省太阳能转换与储能工程技术研究中心开放课题",
+      "武汉大学青年教师资助项目",
+      "香港创新与科技基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "福建省太阳能转换与储能工程技术研究中心",
+      "武汉大学",
+      "香港创新与科技基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李建民\n页面链接: http://jszy.whu.edu.cn/lijianmin3/zh_CN/index.htm\n==================================================\n武汉大学 李建民--中文主页--首页\nEnglish\n李建民(\n副教授\n、硕士生导师\n)\n性别：男\n学历：博士研究生毕业\n所在单位：物理科学与技术学院\n职务：副教授\n出生日期：1989-02-08\n毕业院校：中国科学技术大学\n在职信息：在职\n入职时间：2020-05-01\n办公地点：武汉大学物理科学与技术学院 D219\n联系方式：15156895960\n电子邮箱：\n学科：\n材料物理与化学\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n个人简介\n李建民副教授，武汉大学物理科学与技术学院，硕士生导师，中国可再生能源学会会员。\n主要从事CIGS和Sb2(S,Se)3等无机薄膜材料与太阳能电池研究。2021-至今，连续在锑（Sb）基薄膜太阳能电池领域实现突破。2021年底，实现了Sb2(S,Se)3效率达到10.7%，该效率是锑基电池领域的最高记录；2022年8月，纯S体系Sb2S3电池性能打破了自2014年以来的效率记录，达到8%； 2022年10月，纯Se体系Sb2Se3电池性能达到10.57%。以上转换效率均为该领域的最高报道值。\n近年来，主持并参与多项项目（国家自然科学基金、湖北省自然科学基金、福建省太阳能转换与储能工程技术研究中心开放课题、武汉大学青年教师资助项目、香港创新与科技基金等）。\n目前，已在国际期刊和会议在线发表56篇论文，其中以第一作者和通讯作者在Energy & Environmental Science、Advanced Materials、Advanced Energy Materials（2篇）、Advanced Functional Materials、Advanced Science（2篇）、Science Bulletin、Nano Energy、Chemical Engineering Journal（3篇）以及JMCA（3篇）等杂志38篇，申请6项中国专利，已授权3项。2017年获得了Elsevier颁发的高引用奖‘Award for Most Citied Energy Article from China’。\n目前担任了Energies杂志的Topic Editor（2021-至今）；Crystals杂志 Guest Editor, (2021, Special Issue on Advances in Solar Cells)；Recent Patents on Nanotechnology, Section Editor (2022)。承担包括AEM、AFM、Small、Nano-Micro Letters、JMCA以及SOLMAT在内等多个期刊杂志的审稿工作。\n社会兼职\n&nbspRecent Patents on Nanotechnology, Section Editor (2022)\n&nbspCrystals, Guest Editor, (2021, Special Issue on Advances in Solar Cells)\n&nbspEnergies, Topic Editor, 2021-至今\n教育经历\n2012.9-2016.11\n中国科学技术大学  |\n材料物理与化学  |\n工学博士学位   |\n博士研究生毕业\n工作经历\n2023.2-至今\n武汉大学 | 物理科学与技术学院 | 副教授\n2020.5-2023.1\n武汉大学 | 物理科学与技术学院 | 副研究员\n2019.4-2020.4\n香港中文大学 | 物理系 | Postdoctoral Fellow\n2017.4-2019.4\n香港中文大学 | 物理系 | Research Associate\n其他联系方式\n邮编 : \n通讯/办公地址 : \n移动电话 : \n邮箱 : \n研究方向\n1) 硒硫化锑薄膜太阳能电池； 2) 高效率无镉和超薄铜铟镓硒薄膜太阳电池； 3) 双结叠层薄膜太阳能电池；\n同专业硕导\n欢迎您访问我们的网站，您是第 位访客\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

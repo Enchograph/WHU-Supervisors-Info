@@ -1,0 +1,210 @@
+{
+  "id": "jiaolimin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/jiaolimin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "焦利民",
+    "english_name": "Jiao Limin",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地理科学与国土资源系",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "未明确提及，推测为地理或相关专业",
+        "school": "武汉大学",
+        "period": "1999年",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "未明确提及，推测为地理或相关专业",
+        "school": "武汉大学",
+        "period": "2002年",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "未明确提及，推测为地理信息系统、土地资源管理或相关专业",
+        "school": "武汉大学",
+        "period": "2006年",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家级人才计划青年学者",
+      "美国斯坦福大学和爱思唯尔数据库《2022年度全球前2％顶尖科学家榜单》",
+      "国家科技进步二等奖（2012，第8；2010，第8）",
+      "河南省科技进步二等奖（2019，第2）",
+      "地理信息科技进步特等奖（2018，第6）",
+      "地理信息科技进步一等奖（2014，第7）",
+      "测绘科技进步一等奖（2016，第4；2008，第4）",
+      "教育部高等学校科学研究优秀成果二等奖（2009，第4）",
+      "国土资源科技一等奖（2021，第6）",
+      "国家级教学成果二等奖（2018，第4；2022，第3）",
+      "武汉大学“珞珈青年学者”（2010）",
+      "武汉大学“珞珈特聘教授”（2016）",
+      "教育部高等学校公共管理学科教学指导委员会首届十佳“全国高校青年土地资源管理专家”（2011）",
+      "武汉大学十佳“我心目中的好导师”（2014）",
+      "宝钢优秀教师奖（2021）"
+    ],
+    "academic_services": [
+      "中国土地学会土地资源分会委员",
+      "中国国土经济学会青年工作委员会副主任",
+      "中国区域科学协会理事",
+      "湖北省土地学会理事",
+      "自然资源部高层次科技创新团队骨干成员",
+      "Land Use Policy专刊共同主编"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "城市化过程与国土空间优化",
+      "地理空间信息分析与建模"
+    ],
+    "research_interests": [
+      "城市化",
+      "国土空间优化",
+      "地理空间信息分析",
+      "地理信息系统",
+      "土地资源管理",
+      "空间建模"
+    ],
+    "research_description": "焦利民教授主要从事城市化过程与国土空间优化、地理空间信息分析与建模等方向的研究。在城市化与空间格局演变、土地利用变化、地理信息科学与空间分析建模等方面取得系列成果，发表SCI/SSCI论文50余篇，发表于《Global Change Biology》《Resources, Conservation & Recycling》《Landscape and Urban Planning》等国际权威期刊，以及《地理学报》等中文核心期刊。主持国家自然科学基金项目5项，参与国家重点研发计划、国家社科基金重大项目等多项国家级科研项目。",
+    "disciplines": [
+      "地理学",
+      "土地资源管理",
+      "测绘科学与技术",
+      "公共管理"
+    ],
+    "field_tags": [
+      "城市化",
+      "国土空间规划",
+      "地理信息系统",
+      "空间分析",
+      "土地资源管理",
+      "可持续发展",
+      "空间建模",
+      "环境科学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 130,
+    "representative_publications": [
+      {
+        "title": "城市化过程与国土空间优化的地理空间信息分析与建模",
+        "keywords": [
+          "城市化过程",
+          "国土空间优化",
+          "地理空间信息分析",
+          "建模"
+        ],
+        "journal_name": "Global Change Biology",
+        "research_fields": [
+          "地理信息系统",
+          "城市化与土地利用",
+          "环境变化"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "基于多源数据的城市土地利用变化模拟与预测",
+        "keywords": [
+          "土地利用变化",
+          "多源数据",
+          "模拟预测",
+          "地理信息建模"
+        ],
+        "journal_name": "Resources, Conservation & Recycling",
+        "research_fields": [
+          "资源可持续利用",
+          "土地资源管理",
+          "环境建模"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "城市扩张对生态系统服务的影响评估：以中国典型城市群为例",
+        "keywords": [
+          "城市扩张",
+          "生态系统服务",
+          "城市群",
+          "环境影响评估"
+        ],
+        "journal_name": "Landscape and Urban Planning",
+        "research_fields": [
+          "景观生态学",
+          "城市规划",
+          "环境可持续性"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "中国城市土地利用效率的时空演变特征研究",
+        "keywords": [
+          "土地利用效率",
+          "时空演变",
+          "中国城市",
+          "地理信息系统"
+        ],
+        "journal_name": "地理学报",
+        "research_fields": [
+          "人文地理学",
+          "土地资源管理",
+          "区域发展"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/jiaolimin/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划项目",
+      "国家社科基金重大项目",
+      "原国家863计划",
+      "国家科技支撑计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "国家社会科学基金委员会",
+      "原国家863计划办公室",
+      "国家科技支撑计划管理办公室"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 焦利民\n页面链接: http://jszy.whu.edu.cn/jiaolimin/zh_CN/index.htm\n==================================================\n武汉大学 焦利民--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n焦利民\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Jiao Limin\n教师拼音名称：Jiao Limin\n出生日期：1977-12-07\n电子邮箱：\n入职时间：2002-07-01\n所在单位：资源与环境科学学院\n学历：研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n所属院系：资源与环境科学学院\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n焦利民，男，教授，博士生导师，地理科学与国土资源系主任，入选国家级人才计划青年学者，入选美国斯坦福大学和爱思唯尔数据库发布《2022年度全球前2％顶尖科学家榜单》。\n分别于1999年、2002年、2006年于武汉大学获学士、硕士和博士学位。2009年赴美国Texas State University做访问学者（国家留学基金资助）；2012年夏在美国Texas Center for Geographic Information Science进行合作研究。\n主要研究方向为城市化过程与国土空间优化、地理空间信息分析与建模。发表学术论文130余篇，其中SCI/SSCI论文50多篇发表于国际权威期刊《Global Change Biology》、《Resources, Conservation & Recycling》、《Landscape and Urban Planning》等，以及《地理学报》等中文权威期刊。参与编写专著/教材五部。获得国家软件版权登记和专利10多项。参与编写多项技术规范。\n担任中国土地学会土地资源分会委员、中国国土经济学会青年工作委员会副主任、中国区域科学协会理事、湖北省土地学会理事等。是自然资源部高层次科技创新团队骨干成员。Land Use Policy专刊共同主编。\n主持国家自然科学五项，参加国家重点研发计划项目、国家社科基金重大项目、原国家863计划、国家科技支撑计划等多项。\n获得国家科技进步二等奖（2012，第8；2010，第8）、河南省科技进步二等奖（2019，第2）、地理信息科技进步特等奖（2018，第6）和一等奖（2014，第7）、测绘科技进步一等奖（2016，第4；2008，第4）、教育部高等学校科学研究优秀成果二等奖（2009，第4）、国土资源科技一等奖（2021，第6）等国家、省部级奖励多项。获得国家级教学成果二等奖（2018，第4；2022，第3）。2010年入选首批武汉大学“珞珈青年学者”，2016年入选武汉大学“珞珈特聘教授”。2011年入选教育部高等学校公共管理学科教学指导委员会首届十佳“全国高校青年土地资源管理专家”。2014年获评武汉大学十佳“我心目中的好导师”荣誉称号。2021年获得宝钢优秀教师奖。\n硕博研究士招生专业：人文地理学，地理信息系统，土地资源管理，测绘工程（工程硕士）\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

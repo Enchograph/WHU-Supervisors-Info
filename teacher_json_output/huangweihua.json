@@ -1,0 +1,110 @@
+{
+  "id": "huangweihua",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huangweihua/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄卫华",
+    "english_name": "Huang Weihua",
+    "title": [
+      "教授",
+      "博士生导师",
+      "珞珈特聘教授"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "化学",
+        "school": "武汉大学",
+        "period": "1992.9-1996.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "分析化学",
+        "school": "武汉大学",
+        "period": "1996.9-2002.12",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "教育部“新世纪优秀人才支持计划”入选者",
+      "国家杰出青年科学基金获得者"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "微纳米电化学传感",
+      "单细胞与亚细胞分析",
+      "柔性电化学传感",
+      "微流控芯片与液体活检"
+    ],
+    "research_interests": [
+      "电化学传感",
+      "单细胞分析",
+      "亚细胞分析",
+      "柔性传感器",
+      "微流控技术",
+      "液体活检",
+      "生物分析"
+    ],
+    "research_description": "黄卫华教授主要从事微纳米电化学传感、单细胞与亚细胞分析、柔性电化学传感以及微流控芯片与液体活检等方向的研究，致力于发展高灵敏、高选择性的电化学分析技术，实现对细胞生命活动的精准测量。其课题组聚焦于新型电化学传感器的构建及其在生物医学检测中的应用，尤其关注在微纳尺度下对生物样本的实时、原位分析。",
+    "disciplines": [
+      "分析化学",
+      "化学其他专业"
+    ],
+    "field_tags": [
+      "电化学传感",
+      "单细胞分析",
+      "微流控芯片",
+      "柔性电子",
+      "液体活检",
+      "生物分析",
+      "纳米技术"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huangweihua/zh_CN/index.htm"
+      },
+      {
+        "platform": "课题组主页",
+        "url": "http://huanglab.whu.edu.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄卫华\n页面链接: http://jszy.whu.edu.cn/huangweihua/zh_CN/index.htm\n==================================================\n武汉大学 黄卫华--中文主页--首页\nEnglish\n新闻网中文官网\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n黄卫华\n同专业博导\n同专业硕导\nPersonal profile\n个人简介\n黄卫华，男，武汉大学化学与分子科学学院教授，博士生导师，武汉大学珞珈特聘教授，国家杰出青年科学基金获得者。分别于1996与2002年在武汉大学获得学士和博士学位，然后留校任教。2005年3月到2006年3月在法国巴黎高师(ENS)从事博士后...\nmore+\nPersonal information\n个人信息\n教师拼音名称：Huang Weihua\n电子邮箱：\n所在单位：化学与分子科学学院\n学历：研究生毕业\n办公地点：化学与分子科学学院化南324\n性别：男\n联系方式：whhuang@whu.edu.cn\n职称：教授\n在职信息：在职\n主要任职：副院长\n所属院系：化学与分子科学学院\n学科：\n化学其他专业\n分析化学\n学术荣誉：\n2009:  教育部“新世纪优秀人才支持计划“入选者\n2017:  国家杰出青年科学基金获得者\nEducational experience\n教育经历\n1992.9-1996.6\n武汉大学 | 化学 | 学士学位 | 本科\n1996.9-2002.12\n武汉大学 | 分析化学 | 博士 | 研究生毕业\nEducational experience\n团队成员\n细胞生命活动精准测量\n详情请见课题组主页：http://huanglab.whu.edu.cn热忱欢迎本科生、研究生以及博士后加盟！\nWork experience\n工作经历\n2002.12-2004.11\n化学与分子科学学院 | 武汉大学 | 讲师\n2005.3-2006.2\n法国巴黎高等师范学院（ENS） | 博士后\n2004.12-2007.11\n化学与分子科学学院 | 武汉大学 | 副教授\n2007.12-至今\n化学与分子科学学院 | 武汉大学 | 教授\nResearch direction\n研究方向\n微纳米电化学传感单细胞与亚细胞分析\n柔性电化学传感\n微流控芯片与液体活检\nContact information\n其他联系方式\n邮编：\n通讯/办公地址：\n办公室电话：\n邮箱：\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

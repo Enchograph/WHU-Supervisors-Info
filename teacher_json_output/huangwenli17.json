@@ -1,0 +1,233 @@
+{
+  "id": "huangwenli17",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huangwenli17/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄文丽",
+    "english_name": "Huang Wenli",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地图学与地理信息系统",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "地图学与地理信息系统",
+        "school": "美国马里兰大学",
+        "period": "2009.8-----2015.8",
+        "country": "美国"
+      },
+      {
+        "degree": "理学硕士学位",
+        "field": "地图学与地理信息系统",
+        "school": "北京师范大学",
+        "period": "2006.9-----2009.7",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "地理信息系统",
+        "school": "武汉大学",
+        "period": "2002.9-----2006.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "美国马里兰大学",
+    "academic_honors": [
+      "2022湖北省第十二届“挑战杯·中国银行”大学生创业计划竞赛金奖（指导教师）",
+      "2023武汉大学2022年度大学生课外学术科技创新创业竞赛优秀指导教师",
+      "2022第九届“创青春” 中国青年创新创业大赛（数字经济专项）创新组金奖（指导教师）",
+      "2014 Ann G. Wylie毕业论文奖学金（马里兰大学）",
+      "2012 Goldhaber奖学金（马里兰大学）",
+      "2006 武汉大学优秀毕业生"
+    ],
+    "academic_services": [
+      "Remote Sensing学术编委",
+      "Forest Research青年编委",
+      "中国地理学会会员",
+      "中国林学会高级会员",
+      "IEEE国际地球科学与遥感分会会员",
+      "美国地理家协会（AAG）会员",
+      "美国地球物理协会（AGU）会员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感与地理信息在生态环境中的应用",
+      "植被生态参数遥感估测",
+      "森林碳监测与模型模拟",
+      "森林碳核查",
+      "激光雷达植被遥感",
+      "生态遥感",
+      "城市与水体监测"
+    ],
+    "research_interests": [
+      "森林碳储量监测",
+      "土地利用/覆盖变化遥感监测",
+      "多源遥感数据融合",
+      "植被参数反演",
+      "生态系统韧性分析",
+      "城市土地资源监测",
+      "SAR影像处理与应用",
+      "深度学习在遥感中的应用"
+    ],
+    "research_description": "黄文丽博士主要从事遥感与地理信息科学在生态环境领域的应用研究，聚焦于植被生态参数的遥感估测、森林碳监测与模型模拟、森林碳核查等方向。研究涵盖多源遥感数据（如GEDI、Landsat、Sentinel、SAR、LiDAR）在森林生物量、碳储量、地表覆盖变化及城市生态特征监测中的应用，结合机器学习与空间统计方法提升遥感产品精度与空间连续性。其研究团队长期参与国家自然科学基金、国家重点研发计划、NASA等重大科研项目，致力于推动高分辨率、高精度的生态遥感监测技术发展。",
+    "disciplines": [
+      "地理学",
+      "地图学与地理信息系统",
+      "资源与环境",
+      "遥感科学与技术"
+    ],
+    "field_tags": [
+      "遥感",
+      "地理信息系统",
+      "森林碳汇",
+      "生态遥感",
+      "激光雷达",
+      "多源数据融合",
+      "碳监测",
+      "城市土地资源监测",
+      "深度学习",
+      "SAR影像处理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Improving the Spatial Continuity of GEDI Aboveground Biomass Density Products Using Multisource Remote Sensing Data with Consideration of Spatial Correlation and Heterogeneity",
+        "keywords": [
+          "GEDI",
+          "aboveground biomass",
+          "remote sensing",
+          "spatial continuity",
+          "multisource data"
+        ],
+        "journal_name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "research_fields": [
+          "遥感生态学",
+          "森林碳监测",
+          "地理信息科学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "DSMF-Net: A One-stage SAR Ship Detection Network Based on Deformable Strip Convolution and Multi-scale Feature Refinement and Fusion",
+        "keywords": [
+          "SAR ship detection",
+          "deep learning",
+          "deformable convolution",
+          "multi-scale feature fusion"
+        ],
+        "journal_name": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+        "research_fields": [
+          "合成孔径雷达",
+          "遥感图像处理",
+          "人工智能遥感"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Ecosystem Resilience Trends and Its Influencing Factors in China’s Three-River Headwater Region: A Comprehensive Analysis Using CSD Indicators (1982–2023)",
+        "keywords": [
+          "ecosystem resilience",
+          "Three-River Headwater Region",
+          "CSD indicators",
+          "land degradation"
+        ],
+        "journal_name": "Land",
+        "research_fields": [
+          "生态遥感",
+          "生态系统健康",
+          "环境变化"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Incorporating of spatial effects in forest canopy height mapping using airborne, spaceborne lidar and spatial continuous remote sensing data",
+        "keywords": [
+          "forest canopy height",
+          "lidar",
+          "spatial effects",
+          "remote sensing fusion"
+        ],
+        "journal_name": "International Journal of Applied Earth Observation and Geoinformation",
+        "research_fields": [
+          "激光雷达遥感",
+          "森林参数反演",
+          "空间建模"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "An Evaluation of Radiometric Normalization Methods for GaoFen-2 Vegetation Index Mapping",
+        "keywords": [
+          "radiometric normalization",
+          "GaoFen-2",
+          "vegetation index",
+          "remote sensing data processing"
+        ],
+        "journal_name": "IEEE Geoscience and Remote Sensing Letters",
+        "research_fields": [
+          "高分遥感",
+          "辐射定标",
+          "植被监测"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huangwenli17/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金项目",
+      "国家重点研发计划/自然科学基金地区联合重点项目子课题及专题任务",
+      "国家人力资源部赤子计划重点资助课题",
+      "遥感科学国家重点实验室开放基金重点资助项目",
+      "自然资源部城市土地资源监测与仿真重点实验室开放课题",
+      "横向技术开发项目",
+      "美国航空航天局（NASA）陆地生态系统专项",
+      "美国航空航天局（NASA）碳监测与预测专项",
+      "美国航空航天局（NASA）土地利用/覆盖变化专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "国家人力资源部",
+      "遥感科学国家重点实验室",
+      "自然资源部城市土地资源监测与仿真重点实验室",
+      "美国航空航天局（NASA）"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄文丽\n页面链接: http://jszy.whu.edu.cn/huangwenli17/zh_CN/index.htm\n==================================================\n武汉大学 黄文丽--黄文丽-教师中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n黄文丽，博士，副教授，主要研究兴趣是将遥感及地理信息等技术应用在生态环境领域，包括植被生态参数遥感估测、森林碳监测与模型模拟、森林碳核查等方面。于2015年获马里兰大学地理学博士学位，并继续开展博后研究至2018年。2019年入职武汉大学资源与环境科学学院。\n作为项目负责人，先后承担国家自然科学基金项目、国家重点研发计划/自然科学基金地区联合重点项目子课题及专题任务，国家人力资源部赤子计划重点资助课题、遥感科学国家重点实验室开放基金重点资助项目、自然资源部城市土地资源监测与仿真重点实验室开放课题及横向技术开发等多项科研课题。\n作为重要研究骨干，参与了美国航空航天局的陆地生态系统专项（2009-2013）、碳监测与预测专项（2012-2018）、土地利用/覆盖变化专项（2015-2018）等科研课题。\n在国内外刊物发表学术论文40余篇，参编学术专著2部；担任Remote Sensing期刊学术编委，Forestry Research期刊青年编委，Forest专刊客座编辑，以及Remote Sensing of Environment、IEEE Transactions Geoscience and Remote Sensing、Environmental Research Letters、Remote Sensing、人民长江等20余个国内外期刊审稿人。\n指导学生参与校省及国家级大学生创新创业赛事活动，获2023年度武汉大学优秀指导教师称号。\n指导研究生专业如下，欢迎有意向的同学联系（Email: wenli.huang@whu.edu.cn；QQ：179578478）\n学术型学位硕士：地图学与地理信息系统\n学术型学位硕士：地图制图学与地理信息工程\n专业学位博士：资源与环境\n专业学位硕士：资源与环境（测绘工程）\n主要研究论文（*为通讯作者，#为共同第一/贡献作者，+为指导本科/研究生\nMin W+, Huang W*, Chen Y*, Xu R, Bao L. (2025). Improving the Spatial Continuity of GEDI Aboveground Biomass Density Products Using Multisource Remote Sensing Data with Consideration of Spatial Correlation and Heterogeneity. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 18: 24783-24800 SCI. JCR-Q1.中科院2区\nDOI: 10.1109/JSTARS.2025.3611427 (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11172296)\nLiu X+, Pan J*, Hu R, Huang W*, Lin J, Hu J. (2025). DSMF-Net: A One-stage SAR Ship Detection Network Based on Deformable Strip Convolution and Multi-scale Feature Refinement and Fusion. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. JCR-Q1 中科院2区DOI: 10.1109/JSTARS.2025.3559414 (https://ieeexplore.ieee.org/document/10960366)\nWang Z+, Huang W*, Guan X. (2024). Ecosystem Resilience Trends and Its Influencing Factors in China’s Three-River Headwater Region: A Comprehensive Analysis Using CSD Indicators (1982–2023). Land.  13(8):1224. https://doi.org/10.3390/land13081224 SSCI.\nMin W+, Chen Y*, Huang W*, Wilson JP, Tang H, Guo M, Xu R. (2024). Incorporating of spatial effects in forest canopy height mapping using airborne, spaceborne lidar and spatial continuous remote sensing data. International Journal of Applied Earth Observation and Geoinformation, 133; JCR-Q1 中科院1区Top. DOI: https://doi.org/10.1016/j.jag.2024.104123\nHuang W*, Tao Y+, Gan W, Shen H*. (2023). An Evaluation of Radiometric Normalization Methods for GaoFen-2 Vegetation Index Mapping. IEEE Geoscience and Remote Sensing Letters. DOI: 10.1109/LGRS.2023.3332610. SCI&EI.\n刘宇承+，罗芳，杜清运，黄文丽*，石仪伟.(2023). 深圳市宝安区土地利用遥感分类方法对比分析. 时空信息学报. v.30(4), 491-499.\nZheng M+, Huang W#, Xu G*, Li X, & Jiao L. (2023). Spatial gradients of urban land density and nighttime light intensity in 30 global megacities. Humanities and Social Sciences Communications, 10, 404. DOI: https://www.nature.com/articles/s41599-023-01884-8 SSCI. 中科院1区\nLuan Q, Yang C, Feng T+, & Huang W*. (2023). Analysis of the urban turbidity island effect: a case study in Beijing City, China. Environmental Research Letters, 18, 024010. SCI, IF=6.096; JCR-Q1; 中科院2区Top.\nYang R+, Luo F, Ren F, Huang W*, Li Q, Du K, Yuan D. (2022). Identifying Urban Wetlands through Remote Sensing Scene Classification Using Deep Learning: A Case Study of Shenzhen, China. ISPRS International Journal of Geo-Information. 2022; 11(2):131. DOI: https://doi.org/10.3390/ijgi11020131.\nHuang W*, Min W#+, Ding J+, Liu Y, Hu Y, Ni W, Shen H*. (2022). Forest height mapping using inventory and multi-source satellite data over Hunan Province in southern China. Forest Ecosystems (9): 100006. DOI: https://doi.org/10.1016/j.fecs.2022.100006 SCI. IF=6.096; JCR-Q1, 中科院1区Top.\nChen S+, Huang W*, Chen Y, Feng M. (2021). An adaptive thresholding approach toward rapid flood coverage extraction from Sentinel-1 SAR imagery. Remote Sensing, 13(23): 4899. DOI: 10.3390/rs13234899. SCI. JCR-Q1, 中科院2区Top.\n丁家祺+，黄文丽*，胡杨，刘迎春 (2021).基于机器学习及多源数据的湘西北森林地上生物量估测.林业科学. 2021, 57 (10): 36-48. https://doi.org/10.11707/j.1001-7488.20211004 EI.\nSong XP*, Huang W*, Hansen MC, Potapov P. (2021). An evaluation of Landsat, Sentinel-2, Sentinel-1 and MODIS data for crop type mapping. Science of Remote Sensing, .DOI: https://doi.org/10.1016/j.srs.2021.100018\nHuang W*, Dolan K, Swatantran A, Johnson K, O'Neil Dunne J, Tang H, Dubayah R, Hurtt G. (2019). High-Resolution Mapping of Aboveground Biomass for Forest Carbon Monitoring System in the Tri-State Region of Maryland, Pennsylvania and Delaware, USA. Environment Research Letters. 14(6): 095002. DOI: 10.1088/1748-9326/ab2917  SCI&EI, IF=6.096; 中科院1区Top.\nHuang W*, DeVries B, Huang C, Jones J, Lang, M, Creed I, & Carroll M. (2018). Automated Extraction of Surface Water Extent from Sentinel-1 data. SCI. JCR-Q1, 中科院2区Top. Remote Sensing. 10 (5): 797-816. DOI: 10.3390/rs10050797. SCI&EI, IF=4.118; JCR-Q1; 中科院2区Top.\nHuang W*, Swatantran A, Duncanson LI, Johnson K, Watkinson D, Dolan K, O-Neil Dune J, Hurtt G, & Dubayah R. (2017). County-Scale Biomass Map Comparison: a Case Study for Sonoma, California. Carbon Management. 8: 417-434. DOI: 10.1080/17583004.2017.1396840. SCI&SSCI&EI.\nHuang W*, Swatantran A#, Johnson K, Duncanson L, Tang H, O'Neil Dunne J, Hurtt G, Dubayah R. (2015). Local Discrepancies in Continental Scale Biomass Maps: A Case Study over Forested and Non-Forested Landscapes in Maryland, USA. Carbon Balance and Management. 10: 19. SCI, IF=1.48; JCR-Q2.DOI: 10.1186/s13021-015-0030-9.\nHuang W*, Sun G, Ni W, Zhang Z, Dubayah R. (2015). Sensitivity of multi-source SAR backscatter to changes in forest aboveground biomass. Remote Sensing. 8 (7): 9587-9609. DOI: 10.3390/rs70809587. SCI&EI, IF=3.036; JCR-Q1; 中科院2区Top.\nHuang W*, Sun G, Montesano P, Ni W, Zhang Z. (2013). Mapping biomass change after forest disturbance: Applying LiDAR footprint-derived models at key map scales. Remote Sensing of Environment. 134: 319-332. DOI: 10.1016/j.rse.2013.03.017. SCI&EI, IF=7.65; JCR-Q1; 中科院1区Top.\n研究方向\n社会兼职\n激光雷达植被遥感\n生态遥感\n森林碳计量\n2020.10-----至今\n社会兼职内容：Remote Sensing学术编委\n2022.10-----至今\n社会兼职内容：Forest Research青年编委\n2019.1-----至今\n社会兼职内容：中国地理学会会员\n2020.12-----至今\n社会兼职内容：中国林学会高级会员\n2009.12-----至今\n社会兼职内容：IEEE国际地球科学与遥感分会会员\n2009.12-----至今\n社会兼职内容：美国地理家协会（AAG）会员\n2009.9-----至今\n社会兼职内容：美国地球物理协会（AGU）会员\n教育经历\n工作经历\n2009.8-----2015.8\n美国马里兰大学\n|\n地图学与地理信息系统\n|\n研究生(博士)毕业\n|\n理学博士学位|\n森林碳储量监测与预测、森林和土地覆盖变化遥感监测\n2006.9-----2009.7\n北京师范大学\n|\n地图学与地理信息系统\n|\n研究生(硕士)毕业\n|\n理学硕士学位|\n城市土地利用变化遥感监测与模型模拟\n2002.9-----2006.6\n武汉大学\n|\n地理信息系统\n|\n大学本科毕业\n|\n理学学士学位|\n计算机制图专业\n2009.8-----2015.8\n地理科学系\n|\n美国马里兰大学\n|\nna\n|\n作为技术骨干参与陆地生态系统、土地利用/覆盖变化等NASA科研项目\n2015.8-----2018.12\n地理科学系\n|\n美国马里兰大学\n|\n作为技术骨干参与碳监测与预测、土地利用/覆盖变化等NASA科研项目\n2019.1-----至今\n资源与环境科学学院\n|\n武汉大学\n|\n从事森林碳监测与预测、城市和水体监测等方面研究\n团队成员\n暂无内容\n返回顶部\n+\n黄文丽\n同专业硕导>>\n同专业博导>>\n个人信息\n博士生导师\n硕士生导师\n教师英文名称：Huang Wenli\n教师拼音名称：Huang Wenli\n学历：博士研究生毕业\n办公地点：南极电脑城303室\n联系方式：wenli.huang@whu.edu.cn\n毕业院校：马里兰大学\n学科：地图制图学与地理信息工程地图学与地理信息系统\n曾获荣誉：\n2022湖北省第十二届“挑战杯·中国银行”大学生创业计划竞赛金奖（指导教师）\n2023武汉大学2022年度大学生课外学术科技创新创业竞赛优秀指导教师\n2022第九届“创青春” 中国青年创新创业大赛（数字经济专项）创新组金奖（指导教师）\n2014Ann G. Wylie毕业论文奖学金（马里兰大学）\n2012Goldhaber奖学金（马里兰大学）\n2006武汉大学优秀毕业生\n其他联系方式\n邮编:\n传真:\n邮箱:\n最后更新时间：--\n访问量：\n黄文丽@武汉大学",
+    "research_section": "",
+    "education_section": ""
+  }
+}

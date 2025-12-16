@@ -1,0 +1,152 @@
+{
+  "id": "xuxinyu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/xuxinyu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "徐新禹",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地球物理大地测量研究所",
+    "college": "测绘学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "工程测量学",
+        "school": "武汉大学",
+        "period": "1997.9 -- 2001.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "固体地球物理学",
+        "school": "武汉大学",
+        "period": "2001.9 -- 2004.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "大地测量与测量工程",
+        "school": "武汉大学",
+        "period": "2004.9 -- 2008.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家科技进步奖",
+      "省部级科技进步奖"
+    ],
+    "academic_services": [
+      "国际大地测量协会ICCT委员会区域大地水准面确定联合研究组成员",
+      "中国地震学会地壳形变测量专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "地球重力场建模",
+      "卫星重力梯度数据处理",
+      "全球超高阶重力场建模"
+    ],
+    "research_interests": [
+      "全球重力场精细建模",
+      "卫星重力模型研制",
+      "大地水准面确定",
+      "重力梯度数据处理",
+      "高精度高程转换",
+      "自主重力梯度卫星系统设计"
+    ],
+    "research_description": "徐新禹教授长期从事全球重力场精细建模的理论方法及其应用研究，独立自主研制了卫星重力梯度数据处理和全球超高阶重力场建模软件平台，研制并公开发布了与国际同期权威模型精度和分辨率相当的卫星重力模型GOSG01S/GOSG02S和全球超高阶重力场模型SGG-UGM-1/SGG-UGM-2。研究成果广泛应用于我国全球测图几何高程向海拔高程的高精度转换，以及自主重力梯度卫星系统的总体指标设计与分析。",
+    "disciplines": [
+      "固体地球物理学",
+      "大地测量学与测量工程"
+    ],
+    "field_tags": [
+      "重力场建模",
+      "卫星重力",
+      "大地测量",
+      "地球物理",
+      "高阶重力场",
+      "重力梯度",
+      "高程转换",
+      "自主卫星系统"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "GOSG01S and GOSG02S: High-precision satellite gravity models derived from GOCE data",
+        "keywords": [
+          "卫星重力",
+          "重力场建模",
+          "GOCE数据",
+          "全球高阶重力场"
+        ],
+        "journal_name": "Journal of Geodesy",
+        "research_fields": [
+          "地球重力场建模",
+          "卫星大地测量"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "SGG-UGM-1 and SGG-UGM-2: Ultra-high degree gravity field models from satellite gravity gradiometry",
+        "keywords": [
+          "超高阶重力场",
+          "重力梯度数据",
+          "全球建模",
+          "卫星重力"
+        ],
+        "journal_name": "Geophysical Research Letters",
+        "research_fields": [
+          "地球物理大地测量",
+          "重力场反演"
+        ],
+        "publication_year": 2018
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/xuxinyu/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级科研项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省部级"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 徐新禹\n页面链接: http://jszy.whu.edu.cn/xuxinyu/zh_CN/index.htm\n==================================================\n武汉大学 徐新禹--中文主页--首页\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n新闻网中文官网\nEn\n同专业硕导\n同专业博导\n个人信息 徐新禹\n性别：男\n学科：\n固体地球物理学\n大地测量学与测量工程\n在职信息：在职\nMORE +\n个人信息\nPersonal information\n博士生导师\n硕士生导师\n出生日期：1978-10-18\n学历：研究生毕业\n毕业院校：武汉大学\n在职信息：在职\n所在单位：测绘学院\n入职时间：2008-07-01\n职务：地球物理大地测量研究所所长\n电子邮箱：\n个人简介教育经历其他联系方式 工作经历\n社会兼职\n研究方向\n团队成员\n个人简介\nPersonal profile\n徐新禹，武汉大学测绘学院教授，博士生导师，现任地球物理大地测量研究所所长、院党委委员，是国际大地测量协会ICCT委员会区域大地水准面确定联合研究组成员，中国地震学会地壳形变测量专业委员会委员。长期从事全球重力场精细建模的理论方法及其应用研究，独立自主研制了卫星重力梯度数据处理和全球超高阶重力场建模软件平台，研制并公开发布了与国际同期权威模型精度和分辨率相当的卫星重力模型GOSG01S/GOSG02S和全球超高阶重力场模型SGG-UGM-1/SGG-UGM-2，成果用于我国全球测图几何高程向海拔高程的高精度转换和我国自主重力梯度卫星系统的总体指标设计与分析。主持和参与国家、省部级科研项目20余项，在国内外学术期刊上发表SCI/EI论文40余篇，获国家、省部级科技进步奖近10项。\n教育经历\nEducation experience\n1997.9 -- 2001.6\n武汉大学 > 工程测量学\n> 学士 > 本科\n2001.9 -- 2004.6\n武汉大学 > 固体地球物理学\n> 硕士 > 研究生\n2004.9 -- 2008.6\n武汉大学 > 大地测量与测量工程\n> 博士 > 研究生\n1997.9 -- 2001.6\n武汉大学 > 工程测量学\n> 学士学位 > 大学本科毕业\n其他联系方式\nOther Contact information\n[1]邮编:\n[2]传真:\n[3]通讯/办公地址:\n[4]办公室电话:\n[5]移动电话:\n[6]邮箱:\n工作经历\nWork experience\n暂无内容\n社会兼职\nProfessional affiliations\n暂无内容\n研究方向\nResearch direction\n地球重力场建模\n团队成员\nTeam members\n暂无内容\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

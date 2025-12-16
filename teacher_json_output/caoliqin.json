@@ -1,0 +1,186 @@
+{
+  "id": "caoliqin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/caoliqin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "曹丽琴",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "测绘遥感信息工程",
+        "school": "武汉大学测绘遥感信息工程国家重点实验室",
+        "period": "研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学测绘遥感信息工程国家重点实验室",
+    "academic_honors": [
+      "2021年度全国颠覆性技术创新大赛优秀奖",
+      "武汉大学青年教师讲课比赛三等奖",
+      "第一届高等学校印刷工程专业青年教师讲课竞赛一等奖",
+      "测绘科技进步奖一等奖（个人排名第7）",
+      "测绘科技进步奖二等奖（个人排名5）"
+    ],
+    "academic_services": [
+      "Applied Sciences 客座编辑",
+      "International Symposium on the Tsetlin Machine 会议组委会成员",
+      "中国遥感应用协会热红外遥感专业委员会委员",
+      "IEEE TGRS 期刊审稿人",
+      "PE&RS 期刊审稿人",
+      "Remote Sensing 期刊审稿人",
+      "Photogrammetric Engineering & Remote Sensing 期刊审稿人",
+      "Journal of Geovisualization and Spatial Analysis 期刊审稿人",
+      "Remote Sensing Letter 期刊审稿人",
+      "Land Degradation & Development 期刊审稿人",
+      "Journal of Selected Topic in Applied Earth Observations and Remote Sensing 期刊审稿人",
+      "Applied Science期刊“Intelligent Detection and Identification System Based on Computer Vision Technology”专刊召集人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "环境智能监测与信息提取",
+      "地表参量遥感定量反演",
+      "国产卫星地表温度反演",
+      "多源影像矿物制图",
+      "智能化全球甲烷监测",
+      "高光谱影像月球矿物制图",
+      "图谱驱动的地下管网空间智能分析"
+    ],
+    "research_interests": [
+      "遥感定量反演",
+      "智能监测",
+      "地表温度",
+      "矿物制图",
+      "甲烷监测",
+      "高光谱遥感",
+      "空间智能分析",
+      "图谱驱动",
+      "国产卫星应用"
+    ],
+    "research_description": "曹丽琴副教授主要从事环境智能监测与信息提取、地表参量遥感定量反演等方向的研究。作为负责人主持国家重点研发计划课题、国家自然科学基金项目等，参与多项国家级科研项目。研究聚焦于国产卫星地表温度反演、多源影像矿物制图、智能化全球甲烷监测、高光谱影像月球矿物制图以及图谱驱动的地下管网空间智能分析等前沿方向。在RSE、TGRS等高水平期刊发表论文30余篇，申请/获批国家发明专利7项，获测绘科技进步奖一等奖、二等奖及全国颠覆性技术创新大赛优秀奖。团队长期招收地理、地信、遥感、测绘、计算机、信息、数学等专业背景的博士生、硕士生及本科生参与科研训练。",
+    "disciplines": [
+      "遥感科学与技术",
+      "地理信息系统",
+      "环境科学",
+      "测绘科学与技术",
+      "计算机科学与技术",
+      "地球信息科学"
+    ],
+    "field_tags": [
+      "遥感定量反演",
+      "智能监测",
+      "地表温度",
+      "矿物制图",
+      "甲烷监测",
+      "高光谱遥感",
+      "空间分析",
+      "图谱驱动",
+      "国产卫星",
+      "环境监测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "国产卫星地表温度反演方法研究",
+        "keywords": [
+          "地表温度反演",
+          "国产卫星",
+          "遥感定量反演"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "遥感定量反演",
+          "环境智能监测"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "多源影像融合在矿物制图中的应用",
+        "keywords": [
+          "多源影像",
+          "矿物制图",
+          "高光谱遥感"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "高光谱影像分析",
+          "地表参量反演"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "图谱驱动的地下管网空间智能分析方法",
+        "keywords": [
+          "地下管网",
+          "空间智能分析",
+          "图谱驱动"
+        ],
+        "journal_name": "Journal of Geovisualization and Spatial Analysis",
+        "research_fields": [
+          "空间信息智能分析",
+          "环境监测"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/caoliqin/zh_CN/index.htm"
+      },
+      {
+        "platform": "RSIDEA智能遥感公众号",
+        "url": "http://rsidea.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "核资源与核遥感全国重点实验室基金",
+      "地球观测与导航重点专项",
+      "国防领域基金"
+    ],
+    "funding_agencies": [
+      "国家重点研发计划",
+      "国家自然科学基金",
+      "核资源与核遥感全国重点实验室",
+      "地球观测与导航重点专项",
+      "国防领域基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 曹丽琴\n页面链接: http://jszy.whu.edu.cn/caoliqin/zh_CN/index.htm\n==================================================\n武汉大学 曹丽琴--中文主页--首页\n曹丽琴\n副教授\n博士生导师\n硕士生导师\n性别：女\n毕业院校：武汉大学测绘遥感信息工程国家重点实验室\n学历：研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n办公地点：3教学楼315\n电子邮箱：217ca15a6bfa22eba4f9fc4920de3be0982eb37c5927a4b97d86a7d47a32f1f154e1eb9907fae2d6fa2cb6f096266e270e7f989a3acef73ed0b69f83b49bb93eba89f0b6cd2b60ce274f13a69c8599d096be43c6edd17d9d2de1ba18e9fb5e8f6d6f030ac02f45e5888a6be3a7ebeea89cda53b3ece4b65ddf82de2a71cc950d\n2021曾获荣誉当选：2021年度全国颠覆性技术创新大赛优秀奖 2020曾获荣誉当选：武汉大学青年教师讲课比赛 三等奖 2017曾获荣誉当选：第一届高等学校印刷工程专业青年教师讲课竞赛 一等奖 2018曾获荣誉当选：测绘科技进步奖一等奖 个人排名第7 2021曾获荣誉当选：测绘科技进步奖二等奖 个人排名5\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n曹丽琴，博士，副教授，硕/博士生导师。主要研究方向为环境智能监测与信息提取、地表参量遥感定量反演等。作为负责人主持国家重点研发计划“城镇可持续发展关键技术与装备”专项课题，国家自然科学基金（青年&面上），核资源与核遥感全国重点实验室基金等项目，参与重点研发“地球观测与导航”重点专项、国防领域基金等20余项纵向/横向科研课题，并获国家测绘科技进步奖一等奖、二等奖各1次，2021年全国颠覆性技术创新大赛优秀奖等，在RSE、TGRS等相关领域国内外学术期刊发表论文30余篇，主编出版教材1部，申请/获批国家发明专利7项。担任Applied Sciences客座编辑、International Symposium on the Tsetlin Machine会议组委会成员、中国遥感应用协会热红外遥感专业委员会委员、IEEE TGRS，PE&RS等国际期刊审稿人。\n欢迎有兴趣的研究生、本科生联系并加入我们的研究团队！（长期有效）\n招收（推免和统考）：地理/地信/遥感/测绘/计算机/信息/数学等专业背景的博士生和硕士生，欢迎加入！\n常年招收：本科生到课题组开展科研训练！\n方向包括：国产卫星地表温度反演，多源影像矿物制图，智能化全球甲烷监测，高光谱影像月球矿物制图，图谱驱动的地下管网空间智能分析等。\n若方向上自带想法的同学，欢迎讨论！\n近几年团队毕业生就业单位：\n京东、TP-LINK、应急管理部国家自然灾害防治研究院、中科院地理所等\n公众号：RSIDEA智能遥感\n其他联系方式\n通讯/办公地址 : 0979dd1c53cca64888dccdfe91602e73718c37e5a79b869e3af5dcadfb6c6d22afb5914d146f535b463e370b14ddcd4b34e2adf85f14678d6fb954539372ba9b69b2a89dbdf760d8211f482653513c81c072f605bb744aed0642105ee37cc82e33175274be1b7c0450a5275bdbdc02ab2c000adef9bf86bba07b62afc1314a4d\n邮箱 : 217ca15a6bfa22eba4f9fc4920de3be0982eb37c5927a4b97d86a7d47a32f1f154e1eb9907fae2d6fa2cb6f096266e270e7f989a3acef73ed0b69f83b49bb93eba89f0b6cd2b60ce274f13a69c8599d096be43c6edd17d9d2de1ba18e9fb5e8f6d6f030ac02f45e5888a6be3a7ebeea89cda53b3ece4b65ddf82de2a71cc950d\n社会兼职\n2019.9 -- 2024.4\n受邀担任Remote Sensing、Photogrammetric Engineering & Remote Sensing 、Journal of Geovisualization and Spatial Analysis、Remote Sensing Letter、Land Degradation & Development、Journal of Selected Topic in Applied Earth Observations and Remote Sensing等国际期刊审稿人，Applied Science期刊“Intelligent Detection and Identification System Based on Computer Vision Technology”专刊召集人，中国遥感应用协会热红外遥感专业委员会委员。\n研究方向\n环境智能监测与信息提取、地表参量遥感定量反演\n团队成员\n团队名称： RSIDEA\n团队介绍：http://rsidea.whu.edu.cn/\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

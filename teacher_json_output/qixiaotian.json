@@ -1,0 +1,227 @@
+{
+  "id": "qixiaotian",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/qixiaotian/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "戚孝天",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "化学工程与技术",
+        "school": "重庆大学",
+        "period": "2013.9 -- 2017.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "应用化学",
+        "school": "重庆大学",
+        "period": "2009.9 -- 2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "重庆大学",
+    "academic_honors": [
+      "发表科研论文70余篇，其中（共同）一作和通讯作者文章22篇，包括1篇Chem、2篇J. Am. Chem. Soc.、3篇Angew. Chem. Int. Ed.，另有第二作者Nature文章1篇",
+      "科研论文被正面引用2100余次，个人H因子为29"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "过渡金属催化自由基不对称偶联反应的理论研究",
+      "机理研究和机器学习导向的高效配体设计与反应优化",
+      "基于密度泛函理论(DFT)的金属有机化学反应机理研究"
+    ],
+    "research_interests": [
+      "自由基偶联反应",
+      "能量分解分析(EDA)",
+      "金属有机化学",
+      "反应选择性",
+      "催化剂设计",
+      "机器学习",
+      "配体优化",
+      "反应机理"
+    ],
+    "research_description": "戚孝天教授致力于通过理论计算研究过渡金属促进的自由基偶联过程，借助能量分解分析(EDA)方法、自由基-配体局域相互作用模型等策略揭示影响反应活性和选择性的主导因素，归纳总结金属有机化学中自由基成键、断键的一般规律，建立自由基本征活性预测模型。研究涵盖过渡金属催化自由基不对称偶联反应、机理研究与机器学习导向的高效配体设计，以及基于DFT的金属有机化学反应机理研究。",
+    "disciplines": [
+      "有机化学",
+      "理论化学",
+      "计算化学"
+    ],
+    "field_tags": [
+      "理论与计算有机化学",
+      "过渡金属催化",
+      "自由基化学",
+      "反应机理",
+      "能量分解分析",
+      "DFT计算",
+      "机器学习辅助催化设计",
+      "配体优化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "Electrochemical Borylation of Alkyl Halides: Fast, Scalable Access to Alkyl Boronic Esters",
+        "keywords": [
+          "电化学硼化",
+          "烷基卤化物",
+          "烷基硼酸酯",
+          "自由基偶联"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "理论与计算有机化学",
+          "过渡金属催化"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Development and Mechanistic Studies of the Iridium-Catalyzed C-H Alkenylation of Enamides with Vinyl Acetates: A Versatile Approach for Ketone Functionalization",
+        "keywords": [
+          "铱催化",
+          "C-H烯基化",
+          "酰胺",
+          "酮功能化",
+          "机理研究"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "过渡金属催化",
+          "反应机理",
+          "自由基化学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Recent Advances in Theoretical Studies on Transition-Metal-Catalyzed Carbene Transformations",
+        "keywords": [
+          "卡宾转化",
+          "过渡金属催化",
+          "理论研究",
+          "机理分析"
+        ],
+        "journal_name": "Acc. Chem. Res.",
+        "research_fields": [
+          "理论有机化学",
+          "金属有机化学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Compatibility Score for Rational Electrophile Selection in Pd/NBE Cooperative Catalysis",
+        "keywords": [
+          "兼容性评分",
+          "钯/NBE协同催化",
+          "亲电试剂选择",
+          "反应优化"
+        ],
+        "journal_name": "Chem",
+        "research_fields": [
+          "催化反应设计",
+          "理论计算",
+          "机器学习辅助"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Stereodivergent Alkyne Hydrofluorination Using Protic Tetrafluoroborates as Tunable Reagents",
+        "keywords": [
+          "立体发散性",
+          "炔烃氢氟化",
+          "质子四氟硼酸盐",
+          "可调试剂"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "立体选择性反应",
+          "自由基化学",
+          "机理研究"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Energy Decomposition Analyses Reveal the Origins of Catalyst and Nucleophile Effects on Regioselectivity in Nucleopalladation of Alkenes",
+        "keywords": [
+          "能量分解分析",
+          "钯化反应",
+          "区域选择性",
+          "催化剂效应"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "理论计算",
+          "反应机理",
+          "EDA方法"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Deacylative transformations of ketones via aromatization-promoted C–C bond activation",
+        "keywords": [
+          "去酰基化",
+          "芳香化促进",
+          "C-C键活化",
+          "酮转化"
+        ],
+        "journal_name": "Nature",
+        "research_fields": [
+          "有机合成",
+          "反应机理",
+          "自由基化学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院",
+        "url": "http://jszy.whu.edu.cn/qixiaotian/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973计划",
+      "863计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 戚孝天\n页面链接: http://jszy.whu.edu.cn/qixiaotian/zh_CN/index.htm\n==================================================\n武汉大学 戚孝天--中文主页--首页\n戚孝天\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n学科：\n有机化学\n办公地点：化学院化北118\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n戚孝天，教授、博导、课题组长(PI)。2013年6月在重庆大学获得学士学位，2017年6月在重庆大学获得博士学位，师从蓝宇教授。2017年9月至2020年12月在美国匹兹堡大学(University of Pittsburgh)刘鹏教授(Peng Liu)课题组从事博士后研究。2021年初加入武汉大学开展独立科研，主要研究方向为理论与计算有机化学，致力于通过理论计算研究过渡金属促进的自由基偶联过程，借助能量分解分析(EDA)方法、自由基-配体局域相互作用模型等策略揭示影响反应活性和选择性的主导因素，归纳总结金属有机化学中自由基成键、断键的一般规律，建立自由基本征活性预测模型。\n目前发表科研论文70余篇，其中（共同）一作和通讯作者文章22篇，包括1篇Chem、2篇J. Am. Chem. Soc.、3篇Angew. Chem. Int. Ed.，另有第二作者Nature 文章1篇。科研论文被正面引用2100余次，个人H因子为29。\n代表性论文：\n（1）Wang, B.; Peng, P.; Ma, W.; Liu, Z.; Huang, C.; Cao, Y.; Hu, P.; Qi, X.;* Lu, Q.* Electrochemical Borylation of Alkyl Halides: Fast, Scalable Access to Alkyl Boronic Esters. J. Am. Chem. Soc. 2021, 143, 12985-12991. （加入武大之后科研成果）\n（2）Zhou, B.; Qi, X.;* Liu, P.;* Dong, G.* Development and Mechanistic Studies of the Iridium-Catalyzed C-H Alkenylation of Enamides with Vinyl Acetates: A Versatile Approach for Ketone Functionalization. Angew. Chem. Int. Ed. 2021, 60, 20926-20934. （加入武大之后科研成果）\n（3）Qi, X.;* Lan, Y.* Recent Advances in Theoretical Studies on Transition-Metal-Catalyzed Carbene Transformations. Acc. Chem. Res. 2021, 54, 2905-2915. （加入武大之后科研成果）\n（4）Qi, X.; Wang, J.; Dong, Z.; Dong, G.;* Liu, P.* Compatibility Score for Rational Electrophile Selection in Pd/NBE Cooperative Catalysis. Chem 2020, 6, 2810-2825.\n（5）Guo, R.;# Qi, X.;# Xiang, H.; Geaneotes, P.; Wang, R.; Liu, P.;* Wang, Y.-M.* Stereodivergent Alkyne Hydrofluorination Using Protic Tetrafluoroborates as Tunable Reagents. Angew. Chem. Int. Ed. 2020, 59, 16651-16660. （Equal contribution）\n（6）Qi, X.; Kohler, D. G.; Hull, K. L.;* Liu, P.* Energy Decomposition Analyses Reveal the Origins of Catalyst and Nucleophile Effects on Regioselectivity in Nucleopalladation of Alkenes. J. Am. Chem. Soc. 2019, 141, 11892-11904.\n（7）Xu, Y.; Qi, X.; Zheng, P.; Berti, C. C.; Liu, P.;* Dong, G.* Deacylative transformations of ketones via aromatization-promoted C–C bond activation. Nature 2019, 567, 373-378.\n（8）Qi, X.; Liu, X.; Qu, L.-B.; Liu, Q.;* Lan, Y.* Mechanistic insight into cobalt-catalyzed stereodivergent semihydrogenation of alkynes: The story of selectivity control. J. Catal. 2018, 362, 25-34.\n其他联系方式\n邮箱 : \n教育经历\n2013.9 -- 2017.6\n重庆大学\n化学工程与技术\n博士研究生毕业\n博士\n2009.9 -- 2013.6\n重庆大学\n应用化学\n本科(学士)\n学士\n工作经历\n2021.2 -- 至今\n武汉大学\n化学与分子科学学院\n特聘研究员\n2017.9 -- 2020.12\nUniversity of Pittsburgh\nDepartment of Chemistry\nPostdoctoral associate\n研究方向\n过渡金属催化自由基不对称偶联反应的理论研究\n机理研究和机器学习导向的高效配体设计与反应优化\n基于密度泛函理论(DFT)的金属有机化学反应机理研究和能量分解分析(EDA)\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

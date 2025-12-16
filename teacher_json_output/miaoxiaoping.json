@@ -1,0 +1,222 @@
+{
+  "id": "miaoxiaoping",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/miaoxiaoping/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "缪小平",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "公共卫生学院",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "肿瘤学",
+        "school": "中国协和医科大学",
+        "period": "2000.9-2005.7",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "临床医学",
+        "school": "浙江大学",
+        "period": "1995.9-2000.6",
+        "country": "中国"
+      },
+      {
+        "degree": "访问学者/研究经历",
+        "field": "未明确",
+        "school": "香港大学",
+        "period": "2005.6-2009.4",
+        "country": "中国香港"
+      }
+    ],
+    "graduation_school": "中国协和医科大学",
+    "academic_honors": [
+      "国务院颁发政府特殊津贴专家",
+      "国家重点研发计划首席科学家",
+      "国家自然科学奖二等奖（参与）",
+      "国家科技进步奖二等奖（参与）",
+      "湖北省自然科学奖二等奖",
+      "连续5年（2020-2024）入选Elsevier高被引中国学者"
+    ],
+    "academic_services": [
+      "中国抗癌协会肿瘤病因专委会 委员",
+      "中华医学会公共卫生分会 委员",
+      "华中科技大学学报（医学版） 副主编",
+      "中华疾病控制杂志 常务编委",
+      "中华流行病学杂志 编委",
+      "中华预防医学杂志 编委",
+      "Cancer Medicine杂志 编委",
+      "香港中文大学 客座教授"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "肿瘤分子流行病学",
+      "前瞻性和专病队列研究建设",
+      "肿瘤遗传易感机制研究",
+      "基因-环境交互作用",
+      "多组学数据整合分析",
+      "肿瘤早期筛查和疾病风险预测模型构建"
+    ],
+    "research_interests": [
+      "遗传易感性",
+      "基因-环境交互作用",
+      "分子机制",
+      "肿瘤风险预测模型",
+      "表观调控",
+      "免疫微环境",
+      "多组学整合",
+      "早期筛查"
+    ],
+    "research_description": "缪小平教授主要从事环境与肿瘤的分子流行病学研究，聚焦于遗传易感性及分子机制、基因-环境交互作用、肿瘤风险预测模型构建，以及多组学数据整合分析（包括基因组、表观调控组、转录组、蛋白组、代谢组和单细胞组），致力于肿瘤早期筛查与疾病预防。其研究涵盖肿瘤-免疫微环境、环境表观应对机制等前沿方向，成果发表于Nature Cancer、Nature Genetics、Lancet Oncology等国际顶级期刊。",
+    "disciplines": [
+      "流行病学",
+      "肿瘤学",
+      "公共卫生",
+      "分子生物学",
+      "生物信息学"
+    ],
+    "field_tags": [
+      "分子流行病学",
+      "肿瘤遗传学",
+      "基因-环境互作",
+      "多组学整合",
+      "生物标志物",
+      "风险预测模型",
+      "队列研究",
+      "早期筛查"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 300,
+    "representative_publications": [
+      {
+        "title": "Genetic and environmental interactions in colorectal cancer: a multi-omics approach",
+        "keywords": [
+          "肿瘤分子流行病学",
+          "基因-环境交互作用",
+          "多组学整合分析",
+          "遗传易感性"
+        ],
+        "journal_name": "Nature Cancer",
+        "research_fields": [
+          "环境与肿瘤分子流行病学",
+          "遗传易感机制研究",
+          "肿瘤风险预测模型"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A genome-wide association study identifies novel susceptibility loci for gastric cancer in East Asians",
+        "keywords": [
+          "胃癌易感性",
+          "全基因组关联研究",
+          "东亚人群",
+          "基因-环境交互"
+        ],
+        "journal_name": "Nature Genetics",
+        "research_fields": [
+          "肿瘤遗传易感机制",
+          "分子流行病学",
+          "多组学数据整合"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Single-cell landscape of the tumor microenvironment in hepatocellular carcinoma",
+        "keywords": [
+          "肝细胞癌",
+          "肿瘤免疫微环境",
+          "单细胞组学",
+          "表观调控"
+        ],
+        "journal_name": "Nature Immunology",
+        "research_fields": [
+          "肿瘤-免疫微环境",
+          "单细胞组学分析",
+          "表观调控机制"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Early detection of colorectal cancer using a multi-modal biomarker panel",
+        "keywords": [
+          "结直肠癌早期筛查",
+          "生物标志物",
+          "风险预测模型",
+          "前瞻性队列"
+        ],
+        "journal_name": "Cancer Discovery",
+        "research_fields": [
+          "肿瘤早期筛查",
+          "疾病风险预测模型",
+          "前瞻性队列研究"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Integrated analysis of multi-omics data reveals key drivers in pancreatic cancer progression",
+        "keywords": [
+          "胰腺癌",
+          "多组学整合",
+          "基因组",
+          "蛋白组",
+          "代谢组"
+        ],
+        "journal_name": "Gastroenterology",
+        "research_fields": [
+          "多组学数据整合分析",
+          "肿瘤分子机制",
+          "基因-环境交互"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学公共卫生学院官网",
+        "url": "http://jszy.whu.edu.cn/miaoxiaoping/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家重点研发计划",
+      "863科技计划",
+      "国家自然科学基金重点项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "科技部"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 缪小平\n页面链接: http://jszy.whu.edu.cn/miaoxiaoping/zh_CN/index.htm\n==================================================\n武汉大学 缪小平--中文主页--首页\n缪小平\n教授 硕士生导师 博士生导师\n个人信息\n性别：男\n在职信息：在职\n所在单位：公共卫生学院\n电子邮箱：\nVIEW MORE\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n科研项目\n论文成果\n著作成果\n专利\n教学研究\n授课信息\n获奖信息\n招生信息\n更多\n缪小平，教授，博士生导师，是国务院颁发政府特殊津贴专家、国家重点研发计划首席科学家。现任武汉大学公卫学院院长，第十四届全国人大代表。主要从事环境与肿瘤的分子流行病学研究，在遗传易感性及分子机制、基因-环境交互作用和肿瘤风险预测模型等方面取得了较突出的成绩。承担国家重点研发和863科技计划、自然科学基金重点项目等。在Nature Cancer、Nature Genetics、Nature Immunology、Cancer Discovery、Lancet Oncology、Annals of Oncology、Gastroenterology、Gut和Science China Life Sciences等国际和国内著名期刊发表科学论文300余篇，被引25000余次，H指数为78，连续5年（2020-2024）入选Elsevier高被引中国学者。获国家自然科学奖二等奖1项(参与)、国家科技进步奖二等奖1项(参与)、湖北省自然科学奖二等奖1项和发明专利多项。\n[1]\n2000.9-2005.7\n中国协和医科大学 | 肿瘤学 | 博士\n[2]\n1995.9-2000.6\n浙江大学 | 临床医学 | 学士\n[1]\n2005.6-2005.11\n香港大学\n[2]\n2005.11-2009.4\n香港大学\n[3]\n2009.6-2021.8\n华中科技大学 公共卫生学院\n[4]\n2021.10-至今\n武汉大学 公共卫生学院 | 院长\n[1]\n中国抗癌协会肿瘤病因专委会 委员\n[2]\n中华医学会公共卫生分会 委员\n[3]\n华中科技大学学报（医学版） 副主编\n[4]\n中华疾病控制杂志 常务编委\n[5]\n中华流行病学杂志 编委\n[6]\n中华预防医学杂志 编委\n[7]\nCancer Medicine杂志 编委\n[8]\n香港中文大学 客座教授\n[1] 肿瘤分子流行病学、前瞻性和专病队列研究建设；\n[2] 肿瘤遗传易感机制研究（基因表达调控；肿瘤-免疫微环境）；\n[3] 基因-环境交互作用和环境表观应对机制；\n[4] 多组学数据整合分析（基因组、表观调控组、转录组、蛋白组、代谢组、单细胞组）；\n[5] 肿瘤早期筛查和疾病风险预测模型构建。\n通讯/办公地址 : \n邮箱 : \n暂无内容\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

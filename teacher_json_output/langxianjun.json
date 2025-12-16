@@ -1,0 +1,208 @@
+{
+  "id": "langxianjun",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/langxianjun/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "郎贤军",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "化学",
+        "school": "中国科学院化学研究所",
+        "period": "2008年9月-2011年7月",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "化学",
+        "school": "中国科学院兰州化学物理研究所",
+        "period": "2005年9月-2008年7月",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "化学",
+        "school": "中国地质大学（北京）",
+        "period": "2001年9月-2005年7月",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学院化学研究所",
+    "academic_honors": [
+      "2023年获全国太阳能光化学与光催化学术会议青年科学家奖",
+      "2025年获Science China Materials新锐科学家"
+    ],
+    "academic_services": [
+      "Advanced Powder Materials, 特别任命编委会成员 (2021.10-2023.12)",
+      "Chinese Chemical Letters, 青年编委会成员 (2019.07-2022.06)"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "框架材料光催化",
+      "分子氧活化与利用"
+    ],
+    "research_interests": [
+      "光催化选择氧化反应",
+      "分子氧活化",
+      "共催化体系",
+      "可见光驱动反应",
+      "选择性氧化",
+      "金属有机框架材料",
+      "共价有机框架材料",
+      "光催化剂设计"
+    ],
+    "research_description": "郎贤军教授课题组致力于化学与材料学交叉领域的光催化选择氧化反应研究，聚焦于框架材料光催化及分子氧活化与利用。研究内容涵盖基于TiO2、金属有机框架（MOFs）、共价有机框架（COFs）和共轭微孔聚合物的光催化剂设计，实现可见光或特定波长光驱动下的选择性氧化反应，如硫化物氧化为亚砜、胺类氧化为亚胺、醇类氧化为醛/酮等。研究强调光催化剂与自由基催化剂（如TEMPO、NHSI）的协同作用，探索高效、绿色、可持续的光催化氧化体系。",
+    "disciplines": [
+      "化学",
+      "材料科学"
+    ],
+    "field_tags": [
+      "光催化",
+      "选择性氧化",
+      "分子氧活化",
+      "共价有机框架",
+      "金属有机框架",
+      "可见光催化",
+      "绿色化学",
+      "有机合成",
+      "能源材料",
+      "环境催化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "2D sp2 Carbon-Conjugated Covalent Organic Framework with Pyrene-Tethered TEMPO Intercalation for Photocatalytic Aerobic Oxidation of Sulfides into Sulfoxides",
+        "keywords": [
+          "光催化",
+          "选择性氧化",
+          "硫化物氧化",
+          "TEMPO",
+          "共价有机框架"
+        ],
+        "journal_name": "Sol. RRL",
+        "research_fields": [
+          "光催化",
+          "有机合成",
+          "材料化学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "2D sp2 Carbon-Conjugated Porphyrin Covalent Organic Framework for Cooperative Photocatalysis with TEMPO",
+        "keywords": [
+          "共价有机框架",
+          "光催化",
+          "选择性氧化",
+          "TEMPO",
+          "卟啉"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "光催化",
+          "有机合成",
+          "多孔材料"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "2D and 3D Porphyrinic Covalent Organic Frameworks: The Influence of Dimensionality on Functionality",
+        "keywords": [
+          "共价有机框架",
+          "维度效应",
+          "光催化",
+          "功能调控",
+          "卟啉"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "光催化",
+          "材料设计",
+          "有机合成"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Designing Fluorene-based Conjugated Microporous Polymers for Blue Light-Driven Photocatalytic Selective Oxidation of Amines with Oxygen",
+        "keywords": [
+          "共轭微孔聚合物",
+          "蓝光驱动",
+          "胺类选择性氧化",
+          "光催化",
+          "有机合成"
+        ],
+        "journal_name": "Appl. Catal. B: Environ.",
+        "research_fields": [
+          "光催化",
+          "有机合成",
+          "功能材料"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Metal Sulfide Photocatalysis: Visible-Light-Induced Organic Transformations",
+        "keywords": [
+          "金属硫化物",
+          "可见光催化",
+          "有机转化",
+          "光催化",
+          "材料化学"
+        ],
+        "journal_name": "ChemCatChem",
+        "research_fields": [
+          "光催化",
+          "无机材料",
+          "有机反应"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "X-MOL",
+        "url": "https://www.x-mol.com/groups/xianjun_lang"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/langxianjun/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 郎贤军\n页面链接: http://jszy.whu.edu.cn/langxianjun/zh_CN/index.htm\n==================================================\n武汉大学 郎贤军--中文主页--首页\n中文\n郎贤军\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n入职时间：2017-04-01\n学历：博士研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n所属院系：\n化学与分子科学学院\n学科：\n个人简介\n郎贤军，教授、博士生导师、独立课题组长（PI），2011年于中国科学院化学研究所获博士学位，师从赵进才院士；2011年至2015年在新加坡南洋理工大学从事博士后研究工作，师从Xiaodong Chen院士；2015年7月开始独立研究工作，以第一作者和通讯作者身份发表高水平论文100多篇，其中包括Angew. Chem. Int. Ed.（3篇）、Chem. Sci.（2篇）、Chem. Soc. Rev.（2篇）、Acc. Chem. Res.（1篇）等，发表英文专著3章（RSC出版1章、Wiley出版1章、Elsevier出版1章），发表论文被引用10000多次，单篇最高引用1000多次，ESI高被引论文6篇；2023年获全国太阳能光化学与光催化学术会议青年科学家奖，2025年获Science China Materials新锐科学家。主要研究方向：框架材料光催化；分子氧活化与利用。\n本课题组致力于化学和材料学交叉领域的光催化选择氧化反应研究工作，欢迎具有化学或者材料学背景的推免生加入。武汉大学郎贤军课题组主页：https://www.x-mol.com/groups/xianjun_lang\n工作、教育经历：\n2024年8月-至今 武汉大学，化学与分子科学学院，教授\n2017年4月-2024年7月 武汉大学，化学与分子科学学院，特聘研究员\n2015年7月-2017年3月 华中师范大学，化学学院，研究员\n2011年7月-2015年6月 新加坡南洋理工大学, 博士后 ，合作导师：Xiaodong Chen 院士\n2008年9月-2011年7月 中国科学院化学研究所，博士，导师：赵进才 院士\n2005年9月-2008年7月 中国科学院兰州化学物理研究所，硕士，导师：夏春谷 研究员\n2001年9月-2005年7月 中国地质大学（北京），本科\n论文发表：\n1. Shi, J. L.; Feng, K. Y.; Hao, H. M.; Ku, C.; Sit, P. H. L.; Teoh, W. Y.*; Lang, X. J.*, 2D sp2 Carbon-Conjugated Covalent Organic Framework with Pyrene-Tethered TEMPO Intercalation for Photocatalytic Aerobic Oxidation of Sulfides into Sulfoxides. Sol. RRL 2022, 6, 2100608. (影响因子：9.173)\n2. Li, H.; Li, X.; Zhou, J.; Sheng, W. L.; Lang, X. J.*, Extending Aromatic Acids on TiO2 for Cooperative Photocatalysis with Triethylamine: Violet Light-Induced Selective Aerobic Oxidation of Sulfides. Chin. Chem. Lett. 2022, 33, 3733-3738.. (影响因子：6.779)\n3. Sheng, W. L.; Hao, H. M.; Huang, F. W.; Zhang, F. L.; Lang, X. J.*, 2D Ti-based Metal-Organic Framework Photocatalysis for Red Light-Driven Selective Aerobic Oxidation of Sulfides. Chem. Eng. J. 2022, 430, 133071. (影响因子：13.273)\n4. Li, X.†; Yang, S. X.†; Zhang, F. L.; Zheng, L. Y.; Lang, X. J.*, Facile Synthesis of 2D Covalent Organic Frameworks for Cooperative Photocatalysis with TEMPO: The Selective Aerobic Oxidation of Benzyl Amines. Appl. Catal. B: Environ. 2022, 303, 120846. (影响因子：19.503)\n5. Dong, X. Y.; Xu, H.; Hao, H. M.; Sheng, W. L.; Lang, X. J.*, Selective Photocatalytic Oxidation of Sulfides with Dioxygen over Carbazole–Fluorene Conjugated Microporous Polymers. J. Colloid Interface Sci. 2022. 608, 882-892. (影响因子：8.128)\n6. Wang, Y. X.; Zhou, J.; Ma, X. M.; Li, X.; Lang, X. J.*, Cooperative Photocatalysis with 4-Amino-TEMPO for Selective Aerobic Oxidation of Amines over TiO2 Nanotubes. Chem. Asian J. 2021, 16, 2659-2668. (影响因子：4.568)\n7. Hao, H. M.; Zhang, F. L.; Dong, X. Y.; Lang, X. J.*, 2D sp2 Carbon-Conjugated Triazine Covalent Organic Framework Photocatalysis for Blue Light-Induced Selective Oxidation of Sulfides with O2. Appl. Catal. B: Environ. 2021, 299, 120691. (影响因子：19.503)\n8. Ma, X. M.; Li, X.; Zhou, J.; Wang, Y. X.; Lang, X. J.*, Anchoring Dye onto 1D Nb2O5 in Cooperation with TEMPO for the Selective Photocatalytic Aerobic Oxidation of Amines. Chem. Eng. J. 2021, 426, 131418. (影响因子：13.273)\n9. Li, X.; Ma, X. M.; Zhang, F. L.; Dong, X. Y.; Lang, X. J.*, Selective Photocatalytic Formation of Sulfoxides by Aerobic Oxidation of Sulfides over Conjugated Microporous Polymers with Thiazolo[5,4‑d]thiazole Linkage. Appl. Catal. B: Environ. 2021, 298, 120514. (影响因子：19.503)\n10. Li, X.; Ma, X. M.; Lang, X. J.*, Blue Light-Powered Hydroxynaphthoic Acid-Titanium Dioxide Photocatalysis for the Selective Aerobic Oxidation of Amines. J. Colloid Interface Sci. 2021, 602, 534-543. (影响因子：8.128)\n11. Zhou, J.; Li, X.; Ma, X. M.; Sheng, W. L.; Lang, X. J.*, Cooperative Photocatalysis of Dye-TiO2 Nanotubes with TEMPO+BF4− for Selective Aerobic Oxidation of Amines Driven by Green Light. Appl. Catal. B: Environ. 2021, 296, 120368. (影响因子：19.503)\n12. Ma, X. M.; Hao, H. M.; Sheng, W. L.; Huang, F. W.; Lang, X. J.*, Bridging Green Light Photocatalysis over Hierarchical Nb2O5 for Selective Aerobic Oxidation of Sulfides. J. Mater. Chem. A 2021, 9, 2214-2222. (影响因子：12.732)\n13. Li, H.; Li, X.; Lang, X. J.*, Extending the π-Conjugated Molecules on TiO2 for Selective Photocatalytic Aerobic Oxidation of Sulfides Triggered by Visible Light. Sustainable Energy Fuels 2021, 5, 2127–2135. (影响因子：6.367)\n14. Huang, F. W.; Hao, H. M.; Sheng, W. L.; Lang, X. J.*, Dye-TiO2/SiO2 Assembly Photocatalysis for Blue Light-Initiated Selective Aerobic Oxidation of Organic Sulfides. Chem. Eng. J. 2021, 423, 129419. (影响因子：13.273)\n15. Li, X.; Hao, H. M.; Lang, X. J.*, Thiazolo[5,4‑d]thiazole Linked Conjugated Microporous Polymer Photocatalysis for Selective Aerobic Oxidation of Amines. J. Colloid Interface Sci. 2021, 593, 380-389. (影响因子：8.128)\n16. Li, X.; Lyu, S. S.; Lang, X. J.*, Superoxide Generated by Blue Light Photocatalysis of g-C3N4/TiO2 for Selective Conversion of Amines. Environ. Res. 2021, 195, 110851. (影响因子：6.498)\n17. Xu, H.; Li, X.; Hao, H. M.; Dong, X. Y.; Sheng, W. L.; Lang, X. J.*, Designing Fluorene-based Conjugated Microporous Polymers for Blue Light-Driven Photocatalytic Selective Oxidation of Amines with Oxygen. Appl. Catal. B: Environ. 2021, 285, 119796. (影响因子：19.503)\n18. Li, X.; Hao, H. M.; Lang, X. J.*, Molecular Design of Dye-TiO2 Assemblies for Green Light-Induced Photocatalytic Selective Aerobic Oxidation of Amines. J. Colloid Interface Sci. 2021, 581, 826-835. (影响因子：8.128)\n19. Lyu, S. S.; Hao, H. M.; Li, X.; Lang, X. J.*, Cooperative TiO2 Photocatalysis with TEMPO and N-hydroxysuccinimide for Blue Light-Driven Selective Aerobic Oxidation of Amines. Chemosphere 2021, 262, 127873. (影响因子：7.086)\n20. Dong, X. Y.; Hao, H. M.; Wang, N. N.; Yuan, H.*; Lang, X. J.*, Cadmium Sulfide/Titanate Hybrid Green Light Photocatalysis for Selective Aerobic Oxidative Homocoupling of Amines. J. Colloid Interface Sci. 2021, 590, 387-395. (影响因子：8.128)\n21. Feng, K. Y.†; Hao, H. M.†; Huang, F. W.; Lang, X. J.*; Wang, C.*, A 2D Porphyrin-based Covalent Organic Framework with TEMPO for Cooperative Photocatalysis in Selective Aerobic Oxidation of Sulfides. Mater. Chem. Front. 2021, 5, 2255-2260. (影响因子：6.482)\n22. Yang, S. X.†; Li, X.†; Qin, Y.; Cheng, Y.; Fan, W. W.; Lang, X. J.; Zheng, L. Y.*; Cao, Q. E.*, Modulating the Stacking Model of Covalent Organic Framework Isomers with Different Generation Efficiencies of Reactive Oxygen Species. ACS Appl. Mater. Interfaces 2021, 13, 29471-29481 (影响因子：9.229)\n23. Wang, X. P.†; Zhang, S. Q.†; Li, X.; Zhan, Z.; Lang, X. J.; Tan, B. E.; Jin, S. B.*, Two-Dimensional Crystalline Covalent Triazine Frameworks via Dual Modulator Control for Efficient Photocatalytic Oxidation of Sulfides. J. Mater. Chem. A 2021, 9, 16405-16410. (影响因子：12.732)\n24. Shi, J. L.; Chen, R. F.; Hao, H. M.; Wang, C.; Lang, X. J.*, 2D sp2 Carbon-Conjugated Porphyrin Covalent Organic Framework for Cooperative Photocatalysis with TEMPO. Angew. Chem. Int. Ed. 2020, 59, 9088-9093. (影响因子：15.336)\n25. Shi, J. L.; Lang, X. J.*, Assembling Polydopamine on TiO2 for Visible Light Photocatalytic Selective Oxidation of Sulfides with Aerial O2. Chem. Eng. J. 2020, 392,123632. (影响因子：13.273)\n26. Sheng, W. L.; Shi, J. L.; Hao, H. M.; Li, X.; Lang, X. J.*, Polyimide-TiO2 Hybrid Photocatalysis: Visible Light-Promoted Selective Aerobic Oxidation of Amines. Chem. Eng. J. 2020, 379, 122399.  (影响因子：13.273)\n27. Li, X.; Lang, X. J.*, Cooperative Smart TiO2 Photocatalysis and TEMPO Catalysis: Visible light-Mediated Selective Aerobic Oxidation of Amines. J. Chem. Phys. 2020, 152, 044705. (影响因子：3.488)\n28. Sheng, W. L.; Shi, J. L.; Hao, H. M.; Li, X.; Lang, X. J.*, Selective Aerobic Oxidation of Sulfides by Cooperative Polyimide-TiO2 Photocatalysis and Triethylamine Catalysis. J. Colloid Interface Sci. 2020, 565, 614-622. (影响因子：8.128)\n29. Xu, H.; Shi, J. L.; Lyu, S. S.; Lang, X. J.*, Visible Light Photocatalytic Selective Aerobic Oxidation of Thiols into Disulfides on Anatase TiO2. Chin. J. Catal. 2020, 41, 1468-1473. (影响因子：8.271)\n30. Ma, X. M.; Lang, X. J.*, Titanate Nanotubes Confined Merger of Organic Photocatalysis and TEMPO Catalysis for Highly Selective Aerobic Oxidation of Sulfides. Sustainable Energy Fuels 2020, 4, 1754-1763. (影响因子：6.367)\n31. Xu, H.; Zhang, Y. F.; Lang, X. J.* TEMPO Visible Light Photocatalysis: The Selective Aerobic Oxidation of Thiols to Disulfides. Chin. Chem. Lett. 2020, 31, 1520-1524. (影响因子：6.779)\n32. Meng, Y.; Luo, Y. Shi, J. L.; Ding, H. M.; Lang, X. J.; Chen, W.; Zheng, A. M.; Sun, J. L.*; Wang, C.*, 2D and 3D Porphyrinic Covalent Organic Frameworks: The Influence of Dimensionality on Functionality, Angew. Chem. Int. Ed. 2020, 59, 3624-3629. (影响因子：15.336，ESI高被引论文)\n33. Hao, H. M.; Shi, J. L.; Xu, H.; Li, X.; Lang, X. J.*, N-hydroxyphthalimide-TiO2 Complex Visible Light Photocatalysis. Appl. Catal. B: Environ. 2019, 246, 149-155. (影响因子：19.503)\n34. Li, X.; Xu, H.; Shi, J. L.; Hao, H. M.; Yuan, H.; Lang, X. J.*, Salicylic Acid Complexed with TiO2 for Visible Light-Driven Selective Oxidation of Amines into Imines with Air. Appl. Catal. B: Environ. 2019, 244, 758-766. (影响因子：19.503)\n35. Shi, J. L.; Hao, H. M.; Lang, X. J.*, Phenol-TiO2 Complex Photocatalysis: Visible Light-Driven Selective Oxidation of Amines into Imines with Air. Sustainable Energy Fuels 2019, 3, 488-498. (影响因子：6.367)\n36. Wang, N. N.; Shi, J. L.; Hao, H. M.; Yuan, H.* Lang, X. J.*, Cooperative Photocatalytic Selective Aerobic Oxidation of Alcohols on Anatase TiO2. Sustainable Energy Fuels 2019, 3, 1701-1712. (影响因子：6.367)\n37. Xu, H.; Shi, J. L.; Hao, H. M.; Li, X.; Lang, X. J.*, Visible Light Photocatalytic Aerobic Oxidative Synthesis of Imines from Alcohols and Amines on Dye-Sensitized TiO2. Catal. Today 2019, 335, 128-135.  (影响因子：6.776).\n38. Hao, H. M.; Lang, X. J.*, Metal Sulfide Photocatalysis: Visible-Light-Induced Organic Transformations. ChemCatChem 2019, 11, 1378-1393. (影响因子：5.686，frontispiece).\n39. Hao, H. M.; Li, X.; Lang, X. J.*, Anthraquinones as Photoredox Active Ligands of TiO2 for Selective Aerobic Oxidation of Organic Sulfides. Appl. Catal. B: Environ. 2019, 259, 118038. (影响因子：19.503)\n40. Chen, R. F.; Shi, J. L.; Ma, Y.; Lin, G. Q.; Lang, X. J.; Wang, C.*, Designed Synthesis of a 2D Porphyrin-Based sp2 Carbon-Conjugated Covalent Organic Framework for Heterogeneous Photocatalysis. Angew. Chem. Int. Ed. 2019, 58, 6430-6434. (影响因子：15.336，ESI高被引论文)\n41. Wang, Z.; Lang, X. J.*, Visible Light Photocatalysis of Dye-Sensitized TiO2: The Selective Aerobic Oxidation of Amines to Imines. Appl. Catal. B: Environ. 2018, 224, 404-409. (影响因子：19.503)\n42. Li, X.; Shi, J. L.; Hao, H. M.; Lang, X. J.*, Visible Light-Induced Selective Oxidation of Alcohols with Air by Dye-Sensitized TiO2 Photocatalysis. Appl. Catal. B: Environ. 2018, 232, 260-267. (影响因子：19.503)\n43. Shi, J. L.; Hao, H. M.; Li, X.; Lang, X. J.*, Merging the Catechol-TiO2 Complex Photocatalyst with TEMPO for Selective Aerobic Oxidation of Amines into Imines. Catal. Sci. Technol. 2018, 8, 3910-3917. (影响因子：6.119)\n44. Hao, H. M.; Wang, Z.; Shi, J. L.; Li, X.; Lang, X. J.*, Improving the Visible Light Photocatalytic Aerobic Oxidation of Sulfides into Sulfoxides on Dye-Sensitized TiO2. ChemCatChem 2018, 10, 4545-4554. (影响因子：5.686)\n45. Lang, X. J.*; Zhao, J. C., Integrating TEMPO and Its Analogues with Visible-Light Photocatalysis. Chem. Asian J. 2018, 13, 599-613. (影响因子：4.568，frontispiece)\n46. Zhang, Y. C.; Wang, Z.; Lang, X. J.* Merging Visible Light Photocatalysis of Dye-Sensitized TiO2 with TEMPO: The Selective Aerobic Oxidation of Alcohols. Catal. Sci. Technol. 2017, 7,  4955-4963. (影响因子：6.119，inside back cover)\n学术专著：\n1.  Lang, X. J.; Chen, C. C.; Ma, W. H.; Ji, H. W.; Zhao, J. C.* Oxygen-Atom Transfer in Titanium Dioxide Photoredox Catalysis for Organic Synthesis, in Photochemistry: Volume 44, The Royal Society of Chemistry, Cambridge, 2017, pp. 364-384.\n2.  Li, X.; Lang, X. J.* Ti-Based Metal–Organic Frameworks for Visible Light Photocatalysis, in Materials Science in Photocatalysis, Elsevier, New York, 2021, pp. 561-574.\n获奖和荣誉：\nAdvanced Powder Materials, Specially-Appointed Editorial Board Member (2021.10-2023.12)\nChinese Chemical Letters, Young Editorial Board Member (2019.07-2022.06)\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

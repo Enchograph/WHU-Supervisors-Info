@@ -1,0 +1,175 @@
+{
+  "id": "duzhiye",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/duzhiye/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "杜志叶",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电气与自动化学院",
+    "college": "电气与自动化学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "高电压与绝缘技术",
+        "school": "武汉大学",
+        "period": "2007-07-01至今",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2016年、2017年‘高电压技术’期刊社‘优秀审稿专家’",
+      "2017年‘中国电机工程学报’期刊社‘优秀审稿专家’",
+      "2011年度武汉大学‘优秀班主任’",
+      "2014年度武汉大学‘优秀珠光导师’",
+      "2016年度武汉大学‘优秀班主任’",
+      "湖北省高等学校教学成果奖一等奖",
+      "湖北省科技进步二等奖",
+      "湖北省科技进步三等奖",
+      "华中电网科技进步一等奖"
+    ],
+    "academic_services": [
+      "IEEE member",
+      "Cigre member",
+      "ICS member",
+      "《NDT&E》期刊审稿人",
+      "《IEEE TRANSACTIONS ON MAGNETICS》期刊审稿人",
+      "《IEEE TRANSACTIONS ON PLASMA SCIENCE》期刊审稿人",
+      "《中国电机工程学报》期刊审稿人",
+      "《电工技术学报》期刊审稿人",
+      "《高电压技术》期刊审稿人",
+      "《电机与控制学报》期刊审稿人",
+      "《电力自动化设备》期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "智能电气设备",
+      "特高压直流输电关键技术",
+      "电磁多物理场耦合计算技术"
+    ],
+    "research_interests": [
+      "高电压与绝缘技术",
+      "电力系统自动化",
+      "电磁场数值分析",
+      "特高压电气设备",
+      "多物理场耦合仿真"
+    ],
+    "research_description": "杜志叶教授长期从事高电压与绝缘技术、电力系统自动化领域的研究，聚焦智能电气设备、特高压直流输电关键技术及电磁多物理场耦合计算技术，主持多项国家自然科学基金、973项目子课题及国家电网重点科研项目，发表高水平论文百余篇，获多项省部级科技奖励和专利授权。",
+    "disciplines": [
+      "电气工程",
+      "高电压与绝缘技术",
+      "电力系统自动化"
+    ],
+    "field_tags": [
+      "特高压输电",
+      "智能电网",
+      "电磁场仿真",
+      "多物理场耦合",
+      "高电压技术",
+      "直流输电",
+      "电气设备智能化",
+      "数值计算方法"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "特高压直流输电关键技术研究",
+        "keywords": [
+          "特高压直流输电",
+          "智能电气设备",
+          "电磁多物理场耦合"
+        ],
+        "journal_name": "中国电机工程学报",
+        "research_fields": [
+          "高电压与绝缘技术",
+          "电力系统自动化"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "基于电磁场数值分析的电气设备绝缘性能评估",
+        "keywords": [
+          "电磁场数值分析",
+          "绝缘性能",
+          "高电压技术"
+        ],
+        "journal_name": "高电压技术",
+        "research_fields": [
+          "高电压与绝缘技术",
+          "电磁多物理场耦合计算"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "智能电气设备在特高压系统中的应用研究",
+        "keywords": [
+          "智能电气设备",
+          "特高压",
+          "电力系统自动化"
+        ],
+        "journal_name": "电工技术学报",
+        "research_fields": [
+          "电力系统自动化",
+          "智能电气设备"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/duzhiye/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973项目",
+      "863项目",
+      "特高压工程国家实验室科研基金",
+      "高等学校自主科研基金",
+      "国家电网公司重点科研项目",
+      "网省电力公司重点科研项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "特高压工程国家实验室",
+      "教育部",
+      "国家电网公司",
+      "网省电力公司"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 杜志叶\n页面链接: http://jszy.whu.edu.cn/duzhiye/zh_CN/index.htm\n==================================================\n武汉大学 杜志叶--中文主页--首页\n杜志叶\n教授\n博士生导师\n硕士生导师\n性别：男\n出生日期：1974-08-09\n学历：研究生毕业\n在职信息：在职\n所在单位：电气与自动化学院\n入职时间： 2007-07-01\n办公地点：武汉大学电气与自动化学院7教301室\n联系方式：duzhiye@126.com\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n杜志叶，男，河南许昌人，1974年出生，博士，教授，博士生导师。2007年7月进入武汉大学电气工程学院工作，2012年被评为武汉大学电气工程学院“振兴计划”青年学者，现任武汉大学高电压技术研究中心副主任。从事专业领域：高电压与绝缘技术、电力系统自动化。\n主要研究方向：智能电气设备、特高压直流输电关键技术、电磁多物理场耦合计算技术。\n主要学术兼职：IEEE member，Cigre member，ICS member。国际权威期刊\"NDT&E\"，\"IEEE TRANSACTIONS ON MAGNETICS\"，\"IEEE TRANSACTIONS ON PLASMA SCIENCE\"，国内中文核心、EI检索期刊“中国电机工程学报”、“电工技术学报”、“高电压技术”、“电机与控制学报”、“电力自动化设备”等杂志审稿人。 获得2016年、2017年“高电压技术”期刊社、2017年“中国电机工程学报”期刊社“优秀审稿专家”荣誉称号。\n主讲课程及教学成果：主讲本科生核心专业基础课程“工程电磁场”、硕士研究生课程“特高压电气设备”、“电磁场数值分析”。\n荣获武汉大学电气工程学院青年教师教学比赛一等奖一次，二等奖两次，三等奖两次。\n荣获2011年度、2016年度武汉大学“优秀班主任”荣誉，2014年度武汉大学“优秀珠光导师”称号。\n主要科研经历及成果:先后主持国家自然科学基金项目3项、973项目子课题1项、特高压工程国家实验室科研基金3项（其中重点基金1项）、高等学校自主科研基金2项（其中重点基金1项）、国家电网公司、网省电力公司重点科研项目10余项；作为技术骨干参与了国家自然科学基金项目2 项、973、863项目2项。发表学术论文100余篇，其中SCI源刊检索20余篇，EI源刊检索60余篇。获湖北省高等学校教学成果奖一等奖1项、湖北省科技进步二等奖1 项、三等奖1 项、华中电网科技进步一等奖1 项。已授权国家发明专利6项、实用新型专利9项，计算机软件著作权5项。\n联系方式：邮箱：Duzhiye@126.com， Tel：13971058976\n办公地址：武汉大学电气工程学院，7教301室(430072)。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

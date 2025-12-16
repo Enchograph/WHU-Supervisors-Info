@@ -1,0 +1,232 @@
+{
+  "id": "chenyy",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenyy/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈奕云",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "地理信息科学与遥感应用",
+        "school": "武汉大学",
+        "period": "2011",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "土地资源管理",
+        "school": "武汉大学",
+        "period": "2008",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "土地资源管理",
+        "school": "武汉大学",
+        "period": "2006",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "英国皇家人类学学会会士",
+      "2024年度中国高PCSI学者",
+      "2023年度全球前2%顶尖科学家年度影响力榜单",
+      "教育部高等学校科学研究优秀成果奖（排10）",
+      "中国地理信息科技进步奖一等奖",
+      "全国大学生国土空间规划技能大赛优秀指导教师奖（2020）",
+      "第十二届全国高校GIS技能大赛杰出指导老师奖（2020）",
+      "湖北省优秀本科学位论文指导教师（2013）",
+      "湖北省优秀本科学位论文指导教师（2017）",
+      "武汉大学第二届教学创新大赛奖（2022，课程组负责人）",
+      "武汉大学优秀教学研究论文奖（2020）"
+    ],
+    "academic_services": [
+      "英国皇家人类学会会士",
+      "中国土壤遥感与信息专委会委员",
+      "中国国土经济学会理事",
+      "联合国粮农组织全球土壤实验室网络光谱工作组成员",
+      "中国教育部学位中心第五轮学科评估评议专家",
+      "中国土壤学会专委会委员",
+      "中国人民大学土地政策与制度研究中心特聘研究员",
+      "国际期刊副主编、编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "生态环境信息与数字化空间治理",
+      "地理信息科学与资源环境遥感",
+      "城乡景观生态与土壤信息图谱",
+      "土壤遥感与高光谱反演技术",
+      "可持续发展与土地资源管理"
+    ],
+    "research_interests": [
+      "土壤有机碳空间分异",
+      "高光谱土壤要素反演",
+      "地理大数据空间统计分析",
+      "城市土壤安全与可持续发展",
+      "土地利用与生态资产评估",
+      "遥感监测与智能感知",
+      "空间非平稳性与地理加权建模",
+      "生态资产核算与空间治理"
+    ],
+    "research_description": "陈奕云教授长期致力于生态环境信息与数字化空间治理研究，聚焦地理信息科学与资源环境遥感领域，重点开展土壤高光谱反演、土壤碳制图、城市土壤安全、生态资产评估与可持续发展等方向的理论与应用研究。主持多项国家自然科学基金、国家重点研发计划及自然资源部重点项目，成果发表于Geoderma、Catena、Land Use Policy等国际权威期刊，多篇论文入选ESI高被引，研究具有显著的国际影响力。",
+    "disciplines": [
+      "土地资源管理",
+      "人文地理学",
+      "自然地理学",
+      "地理信息科学",
+      "环境科学"
+    ],
+    "field_tags": [
+      "遥感与地理信息",
+      "土壤碳制图",
+      "高光谱反演",
+      "数字国土治理",
+      "可持续发展",
+      "生态资产评估",
+      "空间统计分析",
+      "城市土壤安全"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "多层级精细化的森林资源资产清查价格体系构建",
+        "keywords": [
+          "森林资源资产",
+          "价格体系",
+          "清查",
+          "自然资源管理"
+        ],
+        "journal_name": "自然资源学报",
+        "research_fields": [
+          "土地资源管理",
+          "生态环境信息"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Spatial distribution of lead concentration in peri-urban soil: Threshold and interaction effects of environmental variables",
+        "keywords": [
+          "铅浓度",
+          "城市周边土壤",
+          "环境变量",
+          "空间分布"
+        ],
+        "journal_name": "Geoderma",
+        "research_fields": [
+          "土壤科学",
+          "环境地理学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Improving spectral estimation of soil inorganic carbon in urban and suburban areas by coupling continuous wavelet transform with geographical stratification",
+        "keywords": [
+          "土壤无机碳",
+          "光谱估计",
+          "小波变换",
+          "地理分层"
+        ],
+        "journal_name": "Geoderma",
+        "research_fields": [
+          "遥感与地理信息科学",
+          "土壤碳循环"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "On the urban compactness to ecosystem services in a rapidly urbanising metropolitan area: Highlighting scale effects and spatial non–stationary",
+        "keywords": [
+          "城市紧凑性",
+          "生态系统服务",
+          "快速城市化",
+          "尺度效应"
+        ],
+        "journal_name": "Environmental Impact Assessment Review",
+        "research_fields": [
+          "城市地理学",
+          "可持续发展"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "An integrated approach for examining urban fragmentation in metropolitan areas: Implications for sustainable urban planning",
+        "keywords": [
+          "城市破碎化",
+          "综合方法",
+          "可持续城市规划",
+          "城市空间结构"
+        ],
+        "journal_name": "Journal of Cleaner Production",
+        "research_fields": [
+          "城市规划",
+          "环境管理"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chenyy/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发项目",
+      "中央高校基本科研业务费专项资金",
+      "测绘地理信息公益性行业科研专项",
+      "国家十一五科技支撑计划",
+      "国家863计划",
+      "自然资源部项目",
+      "湖北省重点研发项目",
+      "国家政策试点项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家重点研发计划项目",
+      "中央高校基本科研业务费",
+      "国家测绘地理信息局",
+      "国家科技部",
+      "自然资源部",
+      "湖北省科技厅",
+      "联合国粮农组织"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈奕云\n页面链接: http://jszy.whu.edu.cn/chenyy/zh_CN/index.htm\n==================================================\n武汉大学 陈奕云--中文主页--首页\n陈奕云\n教授\n博士生导师\n硕士生导师\n主要任职：英国皇家人类学会会士、中国土壤遥感与信息专委会委员、中国国土经济学会理事、\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n学科：\n土地资源管理\n人文地理学\n自然地理学\n办公地点：资源与环境科学学院 331\n联系方式：微信：c916810\n电子邮箱：\n2020曾获荣誉当选：英国皇家人类学学会会士\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n陈奕云，教授、博导、珞珈青年学者。2006、2008和2011年分别获得武汉大学本科、硕士和博士学位，国际航天测量与地球科学学院地理信息科学与遥感应用专业双学位，主要研究领域为生态环境信息与数字化空间治理，入选2024年度中国高PCSI学者，2023年度全球前2%顶尖科学家年度影响力榜单。\n“武汉大学-剑桥大学可持续发展研究中心”中方主任（武汉大学国际部重点资助），2014-2015、2019-2020在剑桥大学开展科研工作，应邀在剑桥大学地理信息科学论坛和中英高等教育人文联盟学术论坛做学术报告，担任全英博士生论坛闭幕式报告嘉宾、英国皇家人类学与地理学联合大会专题主席；2020年当选英国皇家人类学学会会士。\n主持完成国家自然科学基金2项，国家重点研发子课题2项，国家自然资源部项目3项，主笔1项咨询报告由中国科协上报中办采用；一作通讯论文70余篇，32篇发表在中科院TOP期刊，7篇入选ESI高被引全球前1%，担任国际期刊副主编、编委。\n工作经历\n2022～        ，武汉大学，资源与环境科学学院，教授，博导\n2019～2020，剑桥大学，发展研究中心，合作研究导师 Fennell教授，课题：人类世土壤安全与可持续发展\n2014～2015，剑桥大学，地理系，合作研究导师 Haining教授，课题：地理大数据空间统计分析与高精细制图\n2011～2022，武汉大学，资源与环境科学学院，师资博后、讲师、副教授\n学术兼职\n1.联合国粮农组织全球土壤实验室网络光谱工作组成员（2021 - ）\n2.中国教育部学位中心第五轮学科评估评议专家（2021）\n3.中国国土经济学会理事（2022 - ）\n4.中国土壤学会专委会委员（2017 - ）\n5.中国人民大学土地政策与制度研究中心特聘研究员（2018 - 2020）\n科研项目\n2022-2026，国家重点研发项目课题，土壤全波段模型和反演研究，子课题负责（高光谱土壤要素反演技术）\n2020-2022，湖北省重点研发项目，生态环境健康风险的遥感监测与评估管控，课题负责（土壤生态环境信息智能感知）\n2020-2021，中央高校拔尖创新人才培育Ⅰ类项目，城市土壤属性高光谱建模策略研究，主持\n2018-2021，国家自然科学基金面上项目，面向精细土壤碳制图的平原地区农田土壤有机碳空间分异机理研究，主持\n2018-2022，国家重点研发项目课题，场地污染多要素全过程监测筛选技术研究，子课题负责（场地污染多要素监测网优化技术研究）\n2018-2022，国家重点研发项目课题，县域村镇发展潜力评价关键技术，子课题负责（村镇发展潜力因子识别与指标信息快速获取技术）\n2018-2019，中央高校基本科研业务费专项资金，基于深度学习的动态目标识别，主持\n2017-2019，武汉大学351人才计划项目，基于深度学习的流域土地利用信息精细化提取，主持\n2016-2018，国家自然科学基金青年项目，顾及环境变量和样本空间依赖的滨湖农田土壤有机碳近地高光谱建模策略研究，主持\n2014-2015，测绘地理信息公益性行业科研专项，地理国情时空数据挖掘关键技术研究，技术负责\n2012-2013，中央高校基本科研业务费专项资金，基于可见-近红外光谱的土壤部分重金属含量提取，主持\n2011-2013，国家十一五科技支撑计划，国产测图卫星数据处理与应用示范，技术负责\n2007-2010，国家863计划，面向土地利用的时空多尺度数据挖掘研究，项目骨干\n应用研究\n2023-2023，自然资源部，国家政策试点项目（三期），宁夏回族自治区土地、草原及水资源评价考核机制建设试点，主持\n2022-2022，自然资源部，国家政策试点项目（二期），宁夏回族自治区土地、草原及水资源考核评价机制试点，主持\n2021-2021，自然资源部，国家政策试点项目（一期），基于土地资产核算的考核评价机制建设试点工程，主持\n2022-2022，内蒙古自治区，测绘地理信息中心，北方生态安全屏障卫星遥感监测，主持\n2021-2021，内蒙古自治区，测绘地理信息局，内蒙古自治区草地光谱数据库建设，主持\n2021-2021，青海省，青海省自然资源综合调查监测院，全民所有自然资源资产管理体系建设项目，主持\n2020-2020，长江水利委员会，长江科学院，三峡库区消落带生态环境遥感监测，主持\n2018-2019，云南省，水利水电勘测设计研究院，典型高原湖滨区多源信息智能提取及水生态红线管控技术研究，主持\n2017-2018，广西壮族自治区，地理信息测绘院地理空间构架建设及测绘技术服务，基于多元遥感数据的生态资产识别与评估方法研究，主持\n2017-2018，广西壮族自治区，地理信息测绘院地理空间构架建设及测绘技术服务，村庄土地利用规划技术方案研究及应用示范，主持\n2017-2018，北京市，第三次全国农业普查研究课题，深化农村改革与壮大集体经济发展研究，主持\n2014-2017，苏州市，科技计划应用基础研究，基于水稻叶片及冠层光谱信息的农田土壤重金属污染诊断研究，主持\n科研成果\n2024年：\n[1] 王佳雪, 陈奕云*, 赖峰, 张哲乐, 熊增连, 郑敏, 乔占明, 余珮珩, 2024. 多层级精细化的森林资源资产清查价格体系构建. 自然资源学报. 39(01), 140-152.（百种中国杰出学术期刊，中国国际影响力优秀学术期刊TOP10%）\n2023年：\n[1] Z. Wu, Y. Chen*, Z. Yang, Y. Liu, Y. Zhu, Z. Tong, R. An, 2023. Spatial distribution of lead concentration in peri-urban soil: Threshold and interaction effects of environmental variables. Geoderma. 429, 116193.（1区TOP）\n[2] Y. Hong, Y. Chen*, S. Chen, R. Shen, L. Guo, Y. Liu, A. Mounem Mouazen, Z. Shi, 2023. Improving spectral estimation of soil inorganic carbon in urban and suburban areas by coupling continuous wavelet transform with geographical stratification. Geoderma. 430, 116284.（1区TOP）\n[3] P. Yu, S. Zhang, E. H. Yung, E. H. Chan, B. Luan, Y. Chen*, 2023. On the urban compactness to ecosystem services in a rapidly urbanising metropolitan area: Highlighting scale effects and spatial non–stationary. Environmental Impact Assessment Review. 98, 106975.（1区TOP） (ESI高被引，中国自然资源学会国土空间规划青年学术论坛优秀论文一等奖)\n[4] P. Yu, E. H. K. Yung, E. H. W. Chan, M. S. Wong, S. Wang, Y. Chen*, 2023. An integrated approach for examining urban fragmentation in metropolitan areas: Implications for sustainable urban planning. Journal of Cleaner Production. 419, 138151.（1区TOP）\n[5] P. H. Yu, E. H. W. Chan, E. H. K. Yung, M. S. Wong, Y. Y. Chen*, 2023. Open space fragmentation in Hong Kong's built-up area: An integrated approach based on spatial horizontal and vertical equity lenses. Environmental Impact Assessment Review. 102.（1区TOP）  (ESI高被引)\n[6] P. H. Yu, E. H. K. Yung, E. H. W. Chan, S. Q. Wang, Y. L. Chen, Y. Y. Chen*, 2023. Capturing open space fragmentation in high-density cities: Towards sustainable open space planning. Applied Geography. 154 （SSCI，JCR Q1） (ESI高被引)\n[7] P. H. Yu, I. Y. Jian, E. H. K. Yung, E. H. W. Chan, M. S. Wong, Y. Y. Chen*, 2023. Spatial Vertical Equity in Public General Hospitals: Towards a Sustainable Healthcare System. Land. 12(8)\n[8] P. Yu, E.H.K. Yung, E.H.W. Chan, S. Zhang, S. Wang, Y. Chen*. The spatial effect of accessibility to public service facilities on housing prices: Highlighting the housing equity. ISPRS International Journal of Geo–Information, 2023, 12(6): 228. (SCI, JCR Q2) (IJGI Good Paper)\n[9] 胡亚珍, 陈奕云*, 吴子豪, 张哲乐, 余珮珩, 2023. 杞麓湖流域灌区土壤有机碳空间分异及潜在影响因素分析. 土壤通报. 54(03), 536-548\n[10] 张哲乐, 陈奕云*, 郑敏, 王佳雪, 乔占明, 张双印, 辛玉春, 赵霞, 2023. 基于智能分区的草原资源资产清查价格体系优化. 资源科学. 45(06), 1107-1122（中国国际影响力优秀学术期刊TOP10%）\n2022年：\n[1] P. Yu, S. Fennell, Y. Chen*, H. Liu, L. Xu, J. Pan, S. Bai, S. Gu, 2022. Positive impacts of farmland fragmentation on agricultural production efficiency in Qilu Lake watershed: Implications for appropriate scale management. Land Use Policy. 117, 106108.（1区TOP） (ESI高被引, 联合国粮农组织引用)(发展地理学学术年会优秀报告奖-余珮珩)\n[2] S. Y. Zhang, Y. Y. Chen*, Z. Y. Zhang, S. Y. Wang, Z. H. Wu, Y. S. Hong, Y. Wang, H. B. Hou, Z. Z. Hu, T. Fei, 2022. VNIR estimation of heavy metals concentrations in suburban soil with multi-scale geographically weighted regression. Catena. 219. （1区TOP）\n[3] P. Yu, Y. Chen*, Q. Xu, S. Zhang, E. H. K. Yung, E. H. W. Chan, 2022. Embedding of spatial equity in a rapidly urbanising area: Walkability and air pollution exposure. Cities. 131, 103942.（1区TOP）\n[4] Y. Chen, P. Yu, Y. Chen*, Z. Chen, 2022. Spatiotemporal dynamics of rice–crayfish field in Mid-China and its socioeconomic benefits on rural revitalisation. Applied Geography. 139, 102636. （2区TOP）\n[5] Y. S. Hong, Y. Y. Chen, S. C. Chen, R. L. Shen, B. F. Hu, J. Peng, N. Wang, L. Guo, Z. Q. Zhuo, Y. Y. Yang, Y. L. Liu, A. M. Mouazen, Z. Shi, 2022. Data mining of urban soil spectral library for estimating organic carbon. Geoderma. 426.（1区TOP）\n[6] Z. Wu, Y. Liu, G. Li, Y. Han, X. Li,  Y. Chen*, 2022. Influences of Environmental Variables and Their Interactions on Chinese Farmland Soil Organic Carbon Density and Its Dynamics. Land. 11(2), 208.\n[7] 邵丽冰, 陈奕云*, 徐璐, 洪永胜, 2022. 基于分数阶微分的土壤含水量高光谱响应特征与估测模型构建. 测绘地理信息, 1-6.\n[8] 蒋江俊男, 陈奕云*, 陈敏, 胡亚珍, 董维红, 2022. 基于两步优劣解距离法的地下水污染监测网优化. 环境污染与防治. 44(03), 362-367.\n[9] 徐璐, 陈奕云*, 洪永胜, 魏钰, 郭龙, M. Linderman, 2022. 顾及粗糙度的土壤有机碳成像高光谱估测模型. 光谱学与光谱分析. 42(09), 2788-2794.\n[10] 陈泽怡, 余珮珩, 陈奕云*, 江颂, 顾世祥, 白少云, 刘斌, 2022. 汉江流域水源涵养和水质净化服务时空分析. 生态经济. 38(04), 193-200.(高被引、高PCSI)（总体影响力在“建筑科学与工程”领域排名前1%  270/81205）\n2021年：\n[1] Y. Liu（刘耀林）#, Y. Chen#, Z. Wu, B. Wang, S. Wang, 2021. Geographical detector-based stratified regression kriging strategy for mapping soil organic carbon with high spatial heterogeneity. Catena. 196, 104953. （1区TOP）\n[2] Y. Hong, Y. Chen*, R. Shen, S. Chen, G. Xu, H. Cheng, L. Guo, Z. Wei, J. Yang, Y. Liu, Z. Shi, A. M. Mouazen, 2021. Diagnosis of cadmium contamination in urban and suburban soils using visible-to-near-infrared spectroscopy. Environmental Pollution. 291, 118128.（2区TOP）\n[3] K. Guo, Y. Chen*, M. Chen, C. Wang, Z. Chen, W. Cai, R. Li, W. Feng, M. Jiang, 2021. Causal Analysis of Ecological Impairment in Land Ecosystem on a Regional Scale: Applied to a Mining City Daye, China. Land. 10(5), 530.\n[4] 陈泽怡, 余珮珩, 陈奕云*, 江颂, 白少云, 顾世祥, 2021. 共享社会经济路径下汉江流域产水和水质净化服务时空演变. 中国生态农业学报(中英文). 29(10), 1800-1814.\n[5] 陈佑淋, 余珮珩, 李志刚, 王静, 陈奕云*, 2021. 基于SDG11的城市绿地环境公平测度——以武汉市中心城区为例. 地理与地理信息科学. 37(04), 81-89. (高被引、高PCSI、高下载)（总体影响力在“建筑科学与工程”领域排名前1%  381/85160）\n[6] 余珮珩, 朱佩娟, 江沛, 陈奕云*, 王静, 刘耀林, 2021. 基于制度分析和发展框架的农村土地流转问题研究及对策建议——以湖北省监利县为例. 小城镇建设. 39(12), 13-19.\n[7] 郑嵛珍, 陈奕云*, 陈敏, 吴子豪, 蒋江俊男, 多尺度土壤质地与光谱空间非平稳性关系探究. 湖北农业科学, 1-8.\n[8] 魏钰, 陈奕云*, 徐璐, 洪永胜, 2021. 基于鲜土反射光谱的农田土壤重金属含量估算. 国土资源科技管理. 38(01), 118-129.\n2020年：\n[1] Y. Hong, L. Guo, S. Chen, M. Linderman, A. M. Mouazen, L. Yu, Y. Chen*, Y. Liu（刘耀林）*, Y. Liu, H. Cheng, Y. Liu, 2020. Exploring the potential of airborne hyperspectral image for estimating topsoil organic carbon: Effects of fractional-order derivative and optimal band combination algorithm. Geoderma. 365, 114228. （1区TOP）\n[2] J. Pan, Y. Chen*, Y. Zhang, M. Chen, S. Fennell, B. Luan, F. Wang, D. Meng, Y. Liu, L. Jiao, J. Wang, 2020. Spatial-temporal dynamics of grain yield and the potential driving factors at the county level in China. Journal of Cleaner Production. 255, 120312. （1区TOP）\n[3] L. Xu, Y. Chen*, J. Pan, A. Gao, 2020. Multi-Structure Joint Decision-Making Approach for Land Use Classification of High-Resolution Remote Sensing Images Based on CNNs. IEEE Access. 8, 42848-42863.\n[4] L. Xu, Y. S. Hong, Y. Wei, L. Guo, T. Z. Shi, Y. Liu, Q. H. Jiang, T. Fei, Y. L. Liu, A. M. Mouazen, Y. Y. Chen*, 2020. Estimation of Organic Carbon in Anthropogenic Soil by VIS-NIR Spectroscopy: Effect of Variable Selection. Remote Sensing. 12(20).\n[5] 余珮珩, 冯明雪, 刘斌, 白少云, 顾世祥, 陈奕云*, 2020. 顾及生态安全格局的流域生态保护红线划定及管控研究——以云南杞麓湖流域为例. 湖泊科学. 32(01), 89-99. （高被引、高PCSI, 2022年度优秀论文，被国家国防科技工业局正面转发，在“学习强国”云南学习平台发布，中国自然资源学会学术年会青年优秀论文奖）\n[6] 陈奕云, 沈焕锋, 徐璐, 郭龙, 曾晨, 费腾, 刘耀林, 2020. 面向地理科学一流本科专业的定量遥感“金课”的建设途径. 中国地质教育. 29(01), 57-61. （武汉大学优秀教学研究论文奖）\n[7] 陈佑淋, 余珮珩, 白少云, 刘斌, 王静, 陈奕云*, 2020. 面向SDGs的村镇可持续发展质量评估——以杞麓湖流域为例. 中国农业资源与区划. 41(06), 152-162.\n[8] 张舒瑾, 余珮珩, 白少云, 顾世祥, 潘佳威, S. Fennell, 陈奕云*, 2020. 面向国土空间规划的流域景观时空分异特征及驱动因子研究. 生态经济. 36(10), 219-227. (高PCSI)\n2019年：\n[1] H. Cheng, R. Shen, Y. Chen*, Q. Wan, T. Shi, J. Wang, Y. Wan, Y. Hong, X. Li, 2019. Estimating heavy metal concentrations in suburban soils with reflectance spectroscopy. Geoderma. 336, 59-67.（1区TOP） (多次入选ESI高被引)\n[2] Y. Hong, Y. Liu, Y. Chen*, Y. Liu（刘艳芳）*, L. Yu, Y. Liu, H. Cheng, 2019. Application of fractional-order derivative in the quantitative estimation of soil organic matter content through visible and near-infrared spectroscopy. Geoderma. 337, 758-769.（1区TOP）(多次入选ESI高被引)\n[3] Y. S. Hong, R. L. Shen, H. Cheng, Y. Y. Chen*, Y. Zhang, Y. L. Liu, M. Zhou, L. Yu, Y. Liu, Y. F. Liu（刘艳芳）*, 2019. Estimating lead and zinc concentrations in peri-urban agricultural soils through reflectance spectroscopy: Effects of fractional-order derivative and random forest. Science of the Total Environment. 651, 1969-1982.\n[4] Y. Hong, S. Chen, Y. Liu, Y. Zhang, L. Yu, Y. Chen*, Y. Liu（刘艳芳）*, H. Cheng, Y. Liu, 2019. Combination of fractional order derivative and memory-based learning algorithm to improve the estimation accuracy of soil organic matter by visible and near-infrared spectroscopy. CATENA. 174, 104-116.（1区TOP）\n[5] Z. Wu, B. Wang, J. Huang, Z. An, P. Jiang, Y. Chen*, Y. Liu（刘艳芳）*, 2019. Estimating soil organic carbon density in plains using landscape metric-based regression Kriging model. Soil and Tillage Research. 195, 104381.（1区TOP）\n[6] Y. Hong, R. Shen, H. Cheng, S. Chen, Y. Chen*, L. Guo, J. He, Y. Liu（刘耀林）*, L. Yu, Y. Liu, 2019. Cadmium concentration estimation in peri-urban agricultural soils: Using reflectance spectroscopy, soil auxiliary information, or a combination of both? Geoderma. 354, 113875.（1区TOP）\n2018年：\n[1] Y. Zhang, Y. F. Liu, Y. Zhang, Y. Liu, G. X. Zhang, Y. Y. Chen*, 2018. On the spatial relationship between ecosystem services and urbanization: A case study in Wuhan, China. Science of the Total Environment. 637, 780-790. (ESI高被引)\n[2] Y. S. Hong, Y. Y. Chen*, Y. Zhang, Y. F. Liu（刘艳芳）*, Y. L. Liu, L. Yu, Y. Liu, H. Cheng, 2018. Transferability of Vis-NIR models for Soil Organic Carbon Estimation between Two Study Areas by using Spiking. Soil Science Society of America Journal. 82(5), 1231-1242.（2区TOP）\n[3] Y. Hong, Y. Chen*, L. Yu, Y. Liu, Y. Liu, Y. Zhang, Y. Liu, H. Cheng, 2018. Combining Fractional Order Derivative and Spectral Variable Selection for Organic Matter Estimation of Homogeneous Soil Samples by VIS–NIR Spectroscopy. Remote Sensing. 10(3), 479.\n[4] 吴子豪, 刘艳芳, 陈奕云*, 郭龙, 姜庆虎, 王少辰, 2018. 综合土地利用及空间异质性的土壤有机碳空间插值模型. 应用生态学报, 29(1), 238-246\n[5] 程航, 万远, 陈奕云*, 万其进, 石铁柱, 申锐莉, 郭 凯, 胡家蒙, 2018. 部分土壤重金属可见-近红外反射光谱特征及机理研究. 光谱学与光谱分析, 38(3), 771-778\n[6] 王凤, 刘艳芳, 孔雪松, 陈奕云*, 潘佳威, 2018. 中国县域粮食产量时空演变及影响因素变化. 经济地理(05), 142-151.(高被引、高PCSI、高下载)（总体影响力在“农业经济”领域排名前1%  397/73795）\n2017年：\n[1] 陈奕云, 齐天赐, 黄颖菁, 万远, 赵瑞瑛, 亓林, 张超, 费腾, 2017. 土壤有机质含量可见-近红外光谱反演模型校正集优选方法. 农业工程学报 33(06), 107-114.\n[2] 陈奕云, 赵瑞瑛, 齐天赐, 亓林, 张超, 2017. 结合光谱变换和 Kennard-Stone 算法的水稻土全氮光谱估算模型校正集构建策略研究. 光谱学与光谱分析37(7), 2133-2139\n[3] 刘艳芳, 宋玉玲, 郭龙, 陈奕云*, 卢延年, 刘以, 2017. 结合高光谱信息的土壤有机碳密度地统计模型. 农业工程学报(02), 183-191.\n[4] X. Wang, Y. Chen*, L. Guo, L. Liu*, 2017. Construction of the Calibration Set through Multivariate Analysis in Visible and Near-Infrared Prediction Model for Estimating Soil Organic Matter. Remote Sensing. 9(3), 201.\n2016年：\n[1] 刘艳芳, 卢延年, 郭龙, 肖丰涛, 陈奕云*, 2016. 基于地类分层的土壤有机质光谱反演校正样本集的构建. 土壤学报.53(02), 332-341.\n[2] 陈奕云, 唐名阳, 王淑桃, 王奇, 詹皖欣, 黄冠, 2016. 基于文献计量的中国农田土壤重金属污染评价. 土壤通报.46(06), 669-775.(高被引、高PCSI、高下载)（总体影响力在“环境科学与资源利用”领域排名前1% 138/49135）\n[3] Q. Jiang, Y. Chen*, L. Guo, T. Fei, K. Qi, 2016. Estimating Soil Organic Carbon of Cropland Soil at Different Levels of Soil Moisture Using VIS-NIR Spectroscopy. Remote Sensing. 8(9), 755.\n2015年：\n[1] Y. Liu （刘耀林）, L. Guo, Q. Jiang, H. Zhang, Y. Chen*, 2015. Comparing geospatial techniques to predict SOC stocks. Soil & Tillage Research. 148, 46-58.\n[2] 陈奕云, 漆锟, 刘耀林, 何建华, 姜庆虎, 2015. 顾及土壤湿度的土壤有机质高光谱预测模型传递研究. 光谱学与光谱分析. 35(6), 1705-1708.\n[3] Y. Chen, T. Fei, L. Guo, T. Shi, Q. Jiang, Y. Liu*（刘耀林）, 2015. Spatial variation of soil reflectance spectra and its implication for digital soil mapping, The 4th Global Workshop Proximal Soil Sensing, Hangzhou, China.\n2014年：\n[1] Y. Liu（刘耀林）, Q. Jiang, T. Fei, J. Wang, T. Shi, K. Guo, X. Li, Y. Chen*, 2014. Transferability of a Visible and Near-Infrared Model for Soil Organic Matter Estimation in Riparian Landscapes. Remote Sensing. 6(5), 4305-4322.\n[2] Y. Liu（刘耀林）, Q. Jiang, T. Shi, T. Fei, J. Wang, G. Liu, Y. Chen*, 2014. Prediction of total nitrogen in cropland soil at different levels of soil moisture with Vis/NIR spectroscopy. Acta Agriculturae Scandinavica, Section B–Soil & Plant Science 64(3), 267-281.\n[3] 刘艳芳, 方佳琳, 陈晓慧, 陈奕云*, 2014. 基于确定性系数分析方法的秭归县滑坡易发性评价. 自然灾害学报. 23(6), 209-217.\n2013年：\n[1] Y. Chen, Y. Liu（刘耀林）*, T. Fei, Q. Jiang, J. Wang, T. Shi, 2013. Statistical Understanding on the Pre-processing of VNIR Spectra Data from Soil Samples with Different Preparations In: F. HU (Editor), International Symposium on Satellite Mapping Technology and Application (ISSMTA2013), Nanjing, Jiangsu, China, pp. 32 - 37.\n[2] 卢有赓, 陈奕云*, 柳登科, 陈鹏程, 2013. 滨湖农田土壤全氮含量可见近红外光谱反演. In: 史舟, 王秋兵 (Editors), 中国土壤学会土壤遥感与信息专业委员会/土壤发生、分类与土壤地理专业委员会学术研讨会, 山西太谷.（优秀论文一等奖）\n[3] 柳登科, 陈奕云*, 卢有赓, 宛子翔, 2013. 矿区土壤硫的高光谱遥感反演方法初探. In: 史舟, 王秋兵 (Editors), 中国土壤学会土壤遥感与信息专业委员会/土壤发生、分类与土壤地理专业委员会学术研讨会, 山西太谷.（优秀论文二等奖）\n2012年：\n[1] Y. Chen, Y. Liu（刘耀林）*, Y. Liu, A. Lin, X. Kong, D. Liu, X. Li, Y. Zhang, Y. Gao, D. Wang, 2012. Mapping of Cu and Pb Contaminations in Soil Using Combined Geochemistry, Topography, and Remote Sensing: A Case Study in the Le’an River Floodplain, China. International Journal of Environmental Research and Public Health. 9(5), 1874-1886.\n[2] Y. Liu（刘耀林）, Y. Chen, 2012. Estimation of total iron content in floodplain soils using VNIR spectroscopy – a case study in the Le'an River floodplain, China. International Journal of Remote Sensing. 33(18), 5954-5972.\n[3] Y. Liu（刘耀林）, Y. Chen, 2012. Feasibility of Estimating Cu Contamination in Floodplain Soils using VNIR Spectroscopy—A Case Study in the Le’an River Floodplain, China. Soil & Sediment Contamination. 21(8), 951-969.\n招生方向\n博士研究生：资源环境监测与规划、自然地理学\n三年制学硕：土地资源管理、人文地理学、自然地理学、资源环境监测与规划\n两年制专硕：资源环境类/测绘工程\n培养方向\n1、生态环境信息与数字国土治理；\n2、地理信息科学与资源环境遥感；\n3、城乡景观生态与土壤信息图谱。\n2024年尚有硕士招生指标，欢迎各专业背景学生联系咨询；博士后、科研助理咨询微信 c916810。\n培养成效\n指导研究生两人获国家奖学金，一人获香港理工大学博士全额奖学金，多人次获武汉大学学术创新奖、学业奖学金及专项奖学金以及学会优秀论文一等奖、最佳报告奖、青年优秀论文奖。协助刘耀林教授指导博士生1人获“武汉大学十大学术之星”称号。\n毕业研究生23人，5人继续攻读博士学位，15人在广州市城市规划勘测设计研究院、铁四院、中南电力设计院、中国长江电力股份有限公司等国内知名企事业单位工作，2人从事国家机关公务员工作，1人在厦大附中任教。\n获奖荣誉\n1、教育部高等学校科学研究优秀成果奖（排10）\n2、中国地理信息科技进步奖一等奖（排8）\n3、全国大学生国土空间规划技能大赛优秀指导教师奖（2020）\n4、第十二届全国高校GIS技能大赛杰出指导老师奖（2020）\n5、湖北省优秀本科学位论文指导教师（2013）\n6、湖北省优秀本科学位论文指导教师（2017）\n7、武汉大学第二届教学创新大赛奖（2022，课程组负责人）\n8、武汉大学优秀教学研究论文奖（2020）\n9、指导并推荐本科生一人被剑桥大学MPhil in Holocene Climates项目录取（2022），两人获美国名校全奖\n10、指导本科生、研究生28人次获国家和省部级竞赛奖励（2013-2023），一人获中国高校地理科学展示大赛最佳女选手奖（2016）\n其他联系方式\n邮箱 : \n社会兼职\n2017.10 -- 至今\n中国土壤学会土壤遥感与信息专业委员会委员\n2022.1 -- 至今\n青海省自然资源所有者权益管理专家库土地管理类专家（第一批）\n2022.9 -- 2026.9\n中国国土经济学会第六届理事会理事\n2020.3 -- 至今\n英国皇家人类学学会会士\n2021.11 -- 至今\n联合国粮农组织全球土壤实验室网络光谱工作组成员\n研究方向\n地理信息科学与可持续发展研究\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

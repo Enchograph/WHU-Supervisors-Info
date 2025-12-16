@@ -1,0 +1,233 @@
+{
+  "id": "chenzhensong",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenzhensong/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈振颂",
+    "english_name": "Chen Zhensong",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "工程管理系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士后",
+        "field": "系统工程与工程管理",
+        "school": "香港城市大学",
+        "period": "2019.1 - 2019.5",
+        "country": "中国香港"
+      }
+    ],
+    "graduation_school": "香港城市大学",
+    "academic_honors": [
+      "湖北省楚天学者人才计划",
+      "斯坦福大学‘全球前2%顶尖科学家榜单’(2022-2024)",
+      "中国知网高被引学者TOP 1%(2024)",
+      "15篇论文入选ESI高被引论文",
+      "5篇论文入选ESI热点论文"
+    ],
+    "academic_services": [
+      "编委 (EBM)：SCI期刊《Automation in Construction》(IF: 9.6; 中科院一区)",
+      "副主编 (AE)：SCI期刊《Information Sciences》(IF: 8.1; 中科院一区)",
+      "编委 (ERBM)：SCI期刊《IEEE Transactions on Engineering Management》(FMS-A, ABS 3星)",
+      "副主编 (AE)：SCI期刊《Soft Computing》(IF: 3.1; CCF-C)",
+      "编委 (EAB)：SCI期刊《Kybernetes》(IF: 2.4)",
+      "领域主编 (AE)：SCI期刊《International Journal of Computational Intelligence Systems》(IF: 2.9)",
+      "编委 (ERBM)：《Engineering Management in Production and Services》(CiteScore: 3.9)",
+      "编委 (EBM)：《International Journal of Business Performance and Supply Chain Modelling》(CiteScore: 1.8; AJG(ABS)入选期刊)",
+      "编委 (EBM)：《Journal of Construction Engineering, Management & Innovation》(ESCI)",
+      "编委 (EBM)：《Spectrum of Engineering and Management Sciences》",
+      "编委 (EBM)：《Journal of Soft Computing and Decision Analytics》",
+      "客座编辑 (GE)：SCI期刊《Fuzzy Sets and Systems》(IF: 3.9; 中科院一区)",
+      "客座编辑 (GE)：SCI期刊《Science Progress》(IF: 2.1)",
+      "通讯评审专家：《Frontiers of Engineering Management》(中国工程院院刊，IF: 9.1; 中科院一区)",
+      "中国技术经济学会工程建设管理专业委员会理事",
+      "湖北省系统工程学会理事",
+      "湖北省高等教育学会工程管理与智能建造教育分会委员",
+      "武汉市建筑防水协会专家副主任委员",
+      "国家自然科学基金委通讯评审专家",
+      "国家教育部学位中心评审专家",
+      "《计算机集成制造系统》理事会理事",
+      "国际电气和电子工程师协会(IEEE)高级会员",
+      "担任IEEE TFS、IEEE TNNLS、IEEE TEM、IEEE SMCA、IEEE TCSS、IEEE TAI、IEEE ITS、IEEE TIV、IEEE TETCI、AAAI、Omega、EJOR、AUTCON、INFFUS、KBS、INS、ASOC、CAIE、TEIS、SR等100余个国内外学术期刊的审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "智能建造与管理",
+      "决策与博弈分析",
+      "可持续建筑供应链管理",
+      "新兴技术管理",
+      "组织行为与人力资源管理"
+    ],
+    "research_interests": [
+      "智能建造",
+      "决策支持系统",
+      "博弈论",
+      "建筑供应链优化",
+      "数据驱动管理",
+      "人工智能在工程管理中的应用",
+      "可持续发展管理"
+    ],
+    "research_description": "陈振颂副教授长期致力于智能建造与管理、决策与博弈分析、可持续建筑供应链管理、新兴技术管理以及组织行为与人力资源管理等领域的研究。主持国家自然科学基金项目3项，参与多项国家级和香港RGC重大项目。在IEEE Transactions、Omega、Automation in Construction、Decision Support Systems等国内外顶级期刊发表论文200余篇，其中SCI/SSCI收录140余篇，累计被引5300余次，h指数40。研究成果广泛应用于智能决策、建筑信息化、工程管理优化等领域。",
+    "disciplines": [
+      "工程管理",
+      "系统工程",
+      "智能建造",
+      "管理科学与工程",
+      "数据科学"
+    ],
+    "field_tags": [
+      "智能建造",
+      "决策分析",
+      "供应链管理",
+      "人工智能",
+      "可持续发展",
+      "工程管理",
+      "博弈论",
+      "数据科学",
+      "Fuzzy Systems",
+      "Operations Research"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 200,
+    "representative_publications": [
+      {
+        "title": "智能建造与管理中的决策支持系统研究",
+        "keywords": [
+          "智能建造",
+          "决策支持系统",
+          "人工智能",
+          "建筑供应链"
+        ],
+        "journal_name": "Automation in Construction",
+        "research_fields": [
+          "智能建造与管理",
+          "决策与博弈分析",
+          "可持续建筑供应链管理"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于模糊集合理论的建筑项目风险评估模型",
+        "keywords": [
+          "模糊集合理论",
+          "风险评估",
+          "建筑项目管理",
+          "不确定性决策"
+        ],
+        "journal_name": "IEEE Transactions on Fuzzy Systems",
+        "research_fields": [
+          "决策与博弈分析",
+          "新兴技术管理",
+          "智能建造与管理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "可持续建筑供应链中的博弈分析与协同优化",
+        "keywords": [
+          "可持续供应链",
+          "博弈分析",
+          "协同优化",
+          "绿色建筑"
+        ],
+        "journal_name": "Omega",
+        "research_fields": [
+          "可持续建筑供应链管理",
+          "决策与博弈分析",
+          "组织行为与人力资源管理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "基于深度学习的建筑信息模型（BIM）智能分析方法",
+        "keywords": [
+          "BIM",
+          "深度学习",
+          "智能建造",
+          "信息融合"
+        ],
+        "journal_name": "Advanced Engineering Informatics",
+        "research_fields": [
+          "智能建造与管理",
+          "新兴技术管理",
+          "人工智能应用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "多智能体系统在建筑项目协同管理中的应用研究",
+        "keywords": [
+          "多智能体系统",
+          "协同管理",
+          "建筑项目",
+          "组织行为"
+        ],
+        "journal_name": "Information Sciences",
+        "research_fields": [
+          "组织行为与人力资源管理",
+          "智能建造与管理",
+          "决策支持系统"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chenzhensong/zh_CN/index.htm"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=Z3X5q6kAAAAJ&hl=zh-CN"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Zhensong-Chen"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金项目",
+      "中央高校基本科研业务费专项资金项目",
+      "武汉大学高层次人才引进科研启动项目",
+      "香港RGC重大项目",
+      "国家自然科学基金重点项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委",
+      "中央高校基本科研业务费专项资金",
+      "武汉大学",
+      "香港研究资助局(RGC)"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈振颂\n页面链接: http://jszy.whu.edu.cn/chenzhensong/zh_CN/index.htm\n==================================================\n武汉大学 陈振颂--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n陈振颂，武汉大学土木建筑工程学院工程管理系副教授，博士生导师、硕士生导师。IEEE高级会员。香港城市大学系统工程与工程管理系博士后，曾任香港城市大学数据科学学院高级副研究员。澳门城市大学兼职博导、湖北文理学院“隆中学者”客座教授、武汉科技大学兼职硕导。团队目前的主要研究领域有：智能建造与管理、决策与博弈分析、可持续建筑供应链管理、新兴技术管理和组织行为与人力资源管理等。\n主持国家自然科学基金项目3项（面上项目及青年科学基金项目）以及中央高校基本科研业务费专项资金项目和武汉大学高层次人才引进科研启动项目各1项, 作为骨干成员参与香港RGC重大项目、国家自然科学基金重点项目和面上项目等多个课题的研究工作。2019年入选湖北省楚天学者人才计划，入选斯坦福大学“全球前2%顶尖科学家榜单”(2022-2024)，入选中国知网高被引学者TOP 1%(2024)。\n在IEEE Transactions on Systems, Man, and Cybernetics: Systems、IEEE Transactions on Fuzzy Systems、IEEE Transactions on Engineering Management、IEEE Transactions on Emerging Topics in Computational Intelligence、Omega、Automation in Construction、Transportation Research Part E: Logistics and Transportation Review、Decision Support Systems、Advanced Engineering Informatics、Journal of Innovation and Knowledge、Financial Innovation、Knowledge-Based Systems、Information Fusion、Annals of Operations Research、Applied Mathematical Modelling、Group Decision and Negotiation、 Information Sciences、Fuzzy Sets and Systems、 Expert Systems with Applications、Engineering Applications of Artificial Intelligence、Applied Soft Computing、Computers & Industrial Engineering、Socio-Economic Planning Sciences、Journal of the Knowledge Economy、International Journal of Approximate Reasoning、Technological and Economic Development of Economy、Construction and Building Materials、Journal of Civil Engineering and Management、International Journal of General Systems、自动化学报、系统工程理论与实践和控制与决策等国内外重要学术期刊和国际会议上已累计正式发表或录用论文200余篇, 其中 SCI/SSCI 期刊论文140余篇。以第一或通讯作者发表论文共计170余篇, 其中 SCI/SSCI 收录期刊论文130余篇。目前, 论文已累计被引5300余次(据 Google Scholar, 截至 2025年11月) ，h指数40。先后有15篇论文入选ESI高被引论文、5篇论文入选ESI热点论文。\n主要社会和学术兼职\n担任多个国内外学术期刊领域主编、副主编、编委或客座编辑等学术职务：\n编委 (EBM)：SCI期刊《Automation in Construction》(IF: 9.6; 中科院一区期刊，智能建造领域顶级期刊);\n副主编 (AE)：SCI期刊《Information Sciences》(IF: 8.1; 中科院一区期刊，FMS-B, CCF-B);\n编委 (ERBM): SCI/SSCI期刊《IEEE Transactions on Engineering Management》(FMS-A, ABS 3星, IF: 4.6)\n副主编 (AE)：SCI期刊《Soft Computing》(IF: 3.1; CCF-C);\n编委 (EAB)：SCI期刊《Kybernetes》(IF: 2.4);\n领域主编 (AE)：SCI期刊《International Journal of Computational Intelligence Systems》(IF: 2.9);\n编委 (ERBM): 《Engineering Management in Production and Services》(CiteScore: 3.9);\n编委 (EBM): 《International Journal of Business Performance and Supply Chain Modelling》(CiteScore: 1.8; AJG(ABS)入选期刊);\n编委 (EBM): 《Journal of Construction Engineering, Management & Innovation》(ESCI);\n编委 (EBM): 《Spectrum of Engineering and Management Sciences》;\n编委 (EBM): 《Journal of Soft Computing and Decision Analytics》;\n客座编辑 (GE)：SCI期刊《Fuzzy Sets and Systems》(IF: 3.9; 中科院一区期刊);\n客座编辑 (GE)：SCI期刊《Science Progress》(IF: 2.1);\n通讯评审专家：《Frontiers of Engineering Management》(中国工程院院刊，IF: 9.1; 中科院一区期刊)；\n中国技术经济学会工程建设管理专业委员会理事\n湖北省系统工程学会理事\n湖北省高等教育学会工程管理与智能建造教育分会委员\n武汉市建筑防水协会专家副主任委员\n国家自然科学基金委通讯评审专家\n国家教育部学位中心评审专家\n《计算机集成制造系统》理事会      理事\n国际电气和电子工程师协会(IEEE)     高级会员\n担任IEEE TFS、IEEE TNNLS、IEEE TEM、IEEE SMCA、IEEE TCSS、IEEE TAI、IEEE ITS、IEEE TIV、IEEE TETCI、AAAI、Omega、EJOR、AUTCON、INFFUS、KBS、INS、ASOC、CAIE、TEIS、SR等100余个国内外学术期刊的审稿人;\nInternational Journal of Computational Intelligence Systems(IF: 2.259)优秀领域主编;\nACAIT 2025 Program Committee Member\nMIDA 2025 Technical Committee Member\nFCTA 2023 Program Committee Member\nE-Society – 2024 Scientific Committee Member\nICODAS Congress 2023 Programme Committee Member\n研究方向\n社会兼职\n暂无内容\n2023.8-----至今\n社会兼职内容：Editorial Board Member：SCI期刊《Automation in Construction》(IF: 10.3; 中科院一区期刊)\n2022.6-----至今\n社会兼职内容：Guest Editor：SCI期刊《Fuzzy Sets and Systems》(IF: 3.9; 中科院一区期刊)\n2021.7-----至今\n社会兼职内容：Guest Editor: SCI期刊《Mathematics》(IF: 2.4)\n2021.6-----至今\n社会兼职内容：Associate Editor：SCI期刊《Information Sciences》(IF: 8.3; 中科院一区期刊，FMS管理科学高质量期刊B类, CCF B类)\n2021.5-----至今\n社会兼职内容：Associate Editor：SCI期刊《Soft Computing》(IF: 4.1)\n2018.5-----至今\n社会兼职内容：Area Editor：SCI期刊《International Journal of Computational Intelligence Systems》(IF: 2.9)\n2020.3-----至今\n社会兼职内容：Associate Editor：SCI期刊《Kybernetes》(IF: 2.5)\n2019.5-----至今\n社会兼职内容：Associate Editor：SCI期刊《Journal of Intelligent and Fuzzy Systems》(IF: 2)\n2021.3-----至今\n社会兼职内容：Editorial Review Board Member: 《Engineering Management in Production and Services》(CiteScore: 3.6)\n2020.10-----至今\n社会兼职内容：Editorial Board Member: 《International Journal of Business Performance and Supply Chain Modelling》(CiteScore: 1.7)\n2020.12-----至今\n社会兼职内容：Associate Editorial Board Member: 《Journal of Fuzzy Logic and Modeling in Engineering》\n2020.12-----至今\n社会兼职内容：Guest Editor: SCI期刊《Mathematical Problems in Engineering》(IF: 1.43)\n2019.1-----至今\n社会兼职内容：国际智能决策分析研究组(Sinbad²)    组员\n2019.1-----至今\n社会兼职内容：国际电气和电子工程师协会(IEEE)   会员\n2020.1-----至今\n社会兼职内容：《计算机集成制造系统》理事会      理事\n教育经历\n工作经历\n暂无内容\n2017.9-----至今\n土木建筑工程学院\n|\n武汉大学\n2019.1-----2019.5\n数据科学学院\n|\n香港城市大学\n团队成员\n暂无内容\n返回顶部\n+\n陈振颂\n职务：副教授主要任职：\n个人信息\n副教授\n博士生导师\n硕士生导师\n教师拼音名称：Chen Zhensong\n出生日期：1988-12-07\n电子邮箱：\n入职时间：2017-09-01\n所在单位：土木建筑工程学院\n职务：副教授\n学历：博士研究生毕业\n办公地点：武汉大学工学部土木建筑工程学院结构楼\n性别：男\n联系方式：zschen@whu.edu.cn\n职称：副教授\n在职信息：在职\n学术荣誉：\n2019当选：省高端人才\n其他联系方式\n邮编:\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

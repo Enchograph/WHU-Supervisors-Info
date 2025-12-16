@@ -1,0 +1,160 @@
+{
+  "id": "TongmingQu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/TongmingQu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "瞿同明",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "水工程科学研究院",
+    "college": "水工程科学研究院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算力学",
+        "school": "英国斯旺西大学辛克维奇计算力学中心",
+        "period": "博士毕业于英国斯旺西大学辛克维奇计算力学中心",
+        "country": "英国"
+      }
+    ],
+    "graduation_school": "英国斯旺西大学辛克维奇计算力学中心",
+    "academic_honors": [
+      "英国斯旺西大学优秀博士论文奖",
+      "中国岩石力学与工程学会科学技术进步一等奖"
+    ],
+    "academic_services": [
+      "第三届亚洲青年隧道会议（2023）组委会秘书长",
+      "计算岩土国际会议（2024）副秘书长",
+      "International Journal of Plasticity (IJP) 审稿专家",
+      "Computer-Aided Civil and Infrastructure Engineering (CACIE) 审稿专家",
+      "Automation in Construction 审稿专家",
+      "约60本SCI期刊审稿专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "人工智能在土木工程中的应用",
+      "岩土工程结构数字孪生",
+      "计算岩土力学"
+    ],
+    "research_interests": [
+      "生成式人工智能",
+      "计算视觉",
+      "离散元方法",
+      "有限-离散多尺度方法",
+      "数字孪生",
+      "数据驱动建模",
+      "智能结构分析"
+    ],
+    "research_description": "瞿同明教授主要从事人工智能（特别是计算视觉与生成式人工智能）在土木与水利工程中的应用研究，聚焦岩土工程结构（如大坝、隧洞）的数字孪生技术，以及计算岩土力学中的离散元方法和有限-离散多尺度建模。其研究融合人工智能与传统力学方法，推动工程结构的智能感知、仿真与运维。课题组还构建了面向水利/土木工程的元数据共享平台（cleardatabay.com），促进数据驱动研究的发展。",
+    "disciplines": [
+      "土木工程",
+      "水利工程",
+      "计算力学",
+      "人工智能"
+    ],
+    "field_tags": [
+      "数字孪生",
+      "生成式AI",
+      "离散元法",
+      "多尺度建模",
+      "智能建造",
+      "数据共享平台",
+      "岩土工程",
+      "智能结构"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "基于生成式人工智能的岩土工程结构数字孪生方法研究",
+        "keywords": [
+          "生成式人工智能",
+          "数字孪生",
+          "岩土工程",
+          "数字孪生"
+        ],
+        "journal_name": "Computer-Aided Civil and Infrastructure Engineering",
+        "research_fields": [
+          "人工智能",
+          "岩土工程结构",
+          "数字孪生"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "离散元与有限-离散多尺度方法在大坝稳定性分析中的应用",
+        "keywords": [
+          "离散元方法",
+          "多尺度模拟",
+          "大坝稳定性",
+          "计算岩土力学"
+        ],
+        "journal_name": "International Journal of Plasticity",
+        "research_fields": [
+          "计算岩土力学",
+          "离散元方法",
+          "多尺度模拟"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.co.uk/citations?hl=en&user=RJmec6MAAAAJ"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Tongming-Qu"
+      },
+      {
+        "platform": "数据共享平台",
+        "url": "https://www.cleardatabay.com/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家海外高层次青年人才项目",
+      "香港研究资助局优配基金（GRF）",
+      "香港科技大学研究支持基金",
+      "香港主题研究计划（TBS）重大项目",
+      "国家自然科学基金重点项目"
+    ],
+    "funding_agencies": [
+      "国家海外高层次青年人才项目",
+      "香港研究资助局（GRF）",
+      "香港科技大学",
+      "国家自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 瞿同明\n页面链接: http://jszy.whu.edu.cn/TongmingQu/zh_CN/index.htm\n==================================================\n武汉大学 瞿同明--中文主页--首页\n瞿同明\n博士生导师\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：水工程科学研究院\n办公地点：武汉大学水工程科学研究院\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n瞿同明，教授，硕/博士生导师。云南宣威人。国家高层次青年人才计划入选者。博士毕业于英国斯旺西大学辛克维奇计算力学中心，曾先后任香港科技大学土木与环境工程系博士后、研究助理教授。主持国家海外高层次青年人才项目1项、香港研究资助局优配基金（GRF）2项、香港科技大学研究支持基金2项；作为研究骨干参与香港主题研究计划（TBS）重大项目、国家自然科学基金重点项目多项。\n研究成果在International Journal of Plasticity(IJP)和Computer-Aided Civil and Infrastructure Engineering(CACIE)等力学与工程权威期刊发表SCI论文70余篇，其中一作/通讯30篇，授权国家发明专利13项。获英国斯旺西大学优秀博士论文奖，中国岩石力学与工程学会科学技术进步一等奖等荣誉或奖励。担任第三届亚洲青年隧道会议（2023）、计算岩土国际会议（2024）等学术会议组委会秘书长/副秘书长。任IJP、CACIE、Automation in Construction等约60本SCI期刊审稿专家。近年来在全国颗粒计算会议、国际离散元大会和中国隧道与地下工程大会等国内外会议上作大会/邀请报告20余场。\n研究领域\n人工智能（计算视觉、生成式人工智能）\n岩土工程结构（大坝、隧洞）数字孪生等\n计算岩土力学（离散元、有限-离散多尺度方法\n学术主页\nGoogle Shcolar: https://scholar.google.co.uk/citations?hl=en&user=RJmec6MAAAAJ\nResearchgate: https://www.researchgate.net/profile/Tongming-Qu\n数据网站\n为促进人工智能和数据驱动技术在土木和水利工程中的应用，课题组搭建了一个面向水利/土木工程领域的元数据共享平台：https://www.cleardatabay.com/\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

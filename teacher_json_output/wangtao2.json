@@ -1,0 +1,210 @@
+{
+  "id": "wangtao2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangtao2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "汪涛",
+    "english_name": "Tao Wang",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "市场营销系",
+    "college": "经济与管理学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "企业管理",
+        "school": "武汉大学",
+        "period": "1995-07-01",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "教育部“新世纪优秀人才支持计划“入选者",
+      "省突贡",
+      "政府特贴",
+      "国务院学科评议组成员",
+      "国家高层次人才特殊支持计划哲学社会科学领军人才",
+      "教育部青年长江学者",
+      "湖北省有突出贡献的中青年专家",
+      "宝钢优秀教师奖",
+      "中国高校科学研究优秀成果奖（人文社会科学）",
+      "省社会科学优秀成果奖",
+      "Emerald杰出论文奖"
+    ],
+    "academic_services": [
+      "国务院学位委员会学科评议组成员",
+      "中国高等院校市场学研究会会长",
+      "《珞珈管理评论》主编",
+      "《中国大百科全书∙工商管理卷》市场营销分卷副主编",
+      "《营销科学学报》学术委员会副主任",
+      "《数量经济技术经济研究》编委",
+      "《经济管理》编委",
+      "《研究与发展管理》编委",
+      "人大书报资料中心《市场营销》（理论版）编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "营销战略",
+      "数智营销",
+      "国际营销",
+      "社会营销"
+    ],
+    "research_interests": [
+      "营销战略",
+      "数字技术与营销",
+      "国际市场拓展",
+      "社会责任营销",
+      "消费者行为",
+      "智能营销系统"
+    ],
+    "research_description": "汪涛教授长期致力于营销战略、数智营销、国际营销与社会营销等领域的研究，聚焦于数字化转型背景下的营销创新与组织营销机制。其研究融合管理科学、心理学与信息技术，探索企业在复杂市场环境中的战略决策与可持续发展路径。研究成果发表于《管理世界》《管理科学学报》《中国工业经济》《JBE》《JBR》《JPIM》等国内外权威期刊，主持多项国家自然科学基金重点项目、教育部重大攻关项目等国家级科研课题，多次获得中国高校科学研究优秀成果奖、Emerald杰出论文奖等重要奖项。",
+    "disciplines": [
+      "工商管理",
+      "市场营销",
+      "管理科学与工程"
+    ],
+    "field_tags": [
+      "营销战略",
+      "数智营销",
+      "国际营销",
+      "社会营销",
+      "消费者行为",
+      "数字化转型",
+      "智能营销",
+      "组织营销",
+      "管理科学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "数智营销：理论演进与未来展望",
+        "keywords": [
+          "数智营销",
+          "数字化转型",
+          "营销战略",
+          "人工智能"
+        ],
+        "journal_name": "管理世界",
+        "research_fields": [
+          "市场营销",
+          "数智营销",
+          "管理科学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "国际营销中的文化适应与品牌本地化策略研究",
+        "keywords": [
+          "国际营销",
+          "文化适应",
+          "品牌本地化",
+          "跨文化管理"
+        ],
+        "journal_name": "中国工业经济",
+        "research_fields": [
+          "国际营销",
+          "品牌管理",
+          "跨文化营销"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "基于消费者行为的智能推荐系统优化研究",
+        "keywords": [
+          "智能推荐",
+          "消费者行为",
+          "数智营销",
+          "机器学习"
+        ],
+        "journal_name": "管理科学学报",
+        "research_fields": [
+          "数智营销",
+          "消费者行为",
+          "信息系统"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "社会营销中的公益行为激励机制研究",
+        "keywords": [
+          "社会营销",
+          "公益行为",
+          "激励机制",
+          "行为心理学"
+        ],
+        "journal_name": "心理学报",
+        "research_fields": [
+          "社会营销",
+          "行为经济学",
+          "组织行为"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Digital Transformation and Marketing Strategy: A Review and Research Agenda",
+        "keywords": [
+          "Digital Transformation",
+          "Marketing Strategy",
+          "Digital Innovation",
+          "Business Model"
+        ],
+        "journal_name": "Journal of Business Ethics",
+        "research_fields": [
+          "数智营销",
+          "营销战略",
+          "企业创新"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangtao2/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金重点项目",
+      "教育部哲学社会科学研究重大课题攻关项目",
+      "国家自然科学基金项目",
+      "国家社会科学基金项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "教育部",
+      "国家社会科学基金"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 汪涛\n页面链接: http://jszy.whu.edu.cn/wangtao2/zh_CN/index.htm\n==================================================\n武汉大学 汪涛--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n汪涛\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Tao Wang\n教师拼音名称：Wang Tao\n电子邮箱：\n入职时间：1995-07-01\n所在单位：经济与管理学院\n学历：研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n所属院系：经济与管理学院\n学科：\n企业管理\n学术荣誉：\n2008 :\n教育部“新世纪优秀人才支持计划“入选者\n2015 :\n省突贡\n2016 :\n政府特贴\n2021 :\n国务院学科评议组成员\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n汪涛，二级教授，武汉大学弘毅特聘教授、国务院第八届学位委员会工商管理学科评议组成员、中国高等院校市场学研究会（一级学会）会长。入选国家高层次人才特殊支持计划哲学社会科学领军人才、教育部青年长江学者、教育部新世纪优秀人才支持计划等，享受国务院特殊津贴，荣获湖北省有突出贡献的中青年专家、宝钢优秀教师奖等。\n现任武汉大学经济与管理学院市场营销系教授、博士生导师，湖北省人文社科重点研究基地“武汉大学组织营销研究中心”主任。兼任《珞珈管理评论》（CSSCI来源集刊/FMS管理科学高质量期刊/AMI核心集刊）主编、《中国大百科全书∙工商管理卷》市场营销分卷副主编、《营销科学学报》学术委员会副主任，《数量经济技术经济研究》、《经济管理》、《研究与发展管理》、人大书报资料中心《市场营销》（理论版）等编委。\n主要研究方向为营销战略、数智营销、国际营销、社会营销等。先后在《管理世界》、《管理科学学报》、《中国工业经济》、《心理学报》、JBE、JBR、JPIM、IMM等发表论文百余篇，出版著作八部。先后主持国家自然科学基金重点项目、教育部哲学社会科学研究重大课题攻关项目、国家自然科学基金项目、国家社会科学基金项目等十余项项目，多次荣获中国高校科学研究优秀成果奖（人文社会科学）、省社会科学优秀成果、Emerald杰出论文奖等奖励。\n社会兼职Personal profile\n2021-01-01 - 至今\n国务院学位委员会学科评议组成员\n2023-07-15 - 至今\n中国高等院校市场学研究会（国家一级学会）会长\n2014-01-01 - 至今\n《珞珈管理评论》主编\n2025-01-01 - 至今\n《经济管理》编委\n2023-01-01 - 至今\n《数量经济与技术经济研究》编委\n2016-01-01 - 至今\n《研究与发展管理》编委\n2013-01-01 - 至今\n人大书报资料中心《市场营销》（理论版）编委\n2023-10-08 - 至今\n《营销科学学报》学术委员会副主任\n研究方向 Personal profile\n营销战略\n数智营销\n国际营销\n社会营销\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

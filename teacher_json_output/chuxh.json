@@ -1,0 +1,116 @@
+{
+  "id": "chuxh",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chuxh/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "楚锡华",
+    "english_name": "Chu Xihua",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "工程力学系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "固体力学",
+        "school": "大连理工大学",
+        "period": "1999.9-2007.4",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "工程力学",
+        "school": "大连理工大学",
+        "period": "1995.9-1999.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "大连理工大学",
+    "academic_honors": [
+      "徐芝纶力学优秀教师",
+      "土木建筑工程学院“好导师”称号"
+    ],
+    "academic_services": [
+      "湖北省力学学会常务理事",
+      "中国力学学会计算力学专委会颗粒材料计算力学专业组副组长",
+      "湖北省复合材料学会副理事长"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "AI赋能计算力学",
+      "计算固体力学",
+      "颗粒材料力学",
+      "岩土材料本构模型与数值方法"
+    ],
+    "research_interests": [
+      "有限元",
+      "离散元",
+      "多尺度有限元",
+      "近场动力学",
+      "机器学习",
+      "高阶连续体模型",
+      "本构模拟",
+      "多尺度模型"
+    ],
+    "research_description": "长期从事计算固体力学、颗粒材料力学及岩土材料本构模型与数值方法的研究，致力于AI赋能计算力学的前沿探索，涵盖有限元、离散元、多尺度有限元、近场动力学及机器学习等方法在固体力学与颗粒材料中的应用。",
+    "disciplines": [
+      "力学",
+      "土木工程",
+      "计算力学",
+      "材料科学"
+    ],
+    "field_tags": [
+      "计算固体力学",
+      "颗粒材料力学",
+      "有限元方法",
+      "离散元方法",
+      "多尺度建模",
+      "近场动力学",
+      "机器学习",
+      "本构模型",
+      "岩土工程",
+      "AI赋能"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/chuxh/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 楚锡华\n页面链接: http://jszy.whu.edu.cn/chuxh/zh_CN/index.htm\n==================================================\n武汉大学 楚锡华--计算固体力学/颗粒材料力学--首页\n教师个人主页\n楚锡华\n个人信息\n教师拼音名称：Chu Xihua\n出生日期：1977-12-22\n入职时间：2007-05-01\n所在单位：土木建筑工程学院\n学历：研究生毕业\n办公地点：Building of Lixue\n性别：男\n联系方式：chuxh@whu.edu.cn\n职称：教授\n在职信息：在职\n毕业院校：Dalian University of Technology\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n男，河南濮阳人，教授，博士生导师。1999.7本科毕业于大连理工大学工程力学专业，获学士学位，2007.4研究生毕业于大连理工大学固体力学专业，获博士学位。2007.5入职武汉大学工程力学系讲师，2009.12晋升副教授，2012年遴选为博士生导师，并入选校珞珈青年学者，2011.10至2012.10南加州大学访学，2015.12晋升教授，曾任系支部书记，副主任，学院研究生教学指导委员会副主任，现为湖北省力学学会常务理事，省复合材料学会常务理事，南方计算力学联络委员会委员，颗粒材料计算力学专业组副组长。长期从事计算固体力...\n教育经历\n1999.9-2007.4\n大连理工大学  | 固体力学  | 博士 | 研究生毕业\n1995.9-1999.7\n大连理工大学  | 工程力学  | 学士 | 本科\n工作经历\n更多>>\n2015.12-至今\n土木建筑工程学院 | 武汉大学\n| 教授、博士生导师\n2012.10-至今\n土木建筑工程学院 | 武汉大学\n| 副教授（博士导师）\n2011.10-2012.10\n土木与环境工程系 | 南加州大学\n| 访问学者\n社会兼职\n更多>>\n湖北省力学学会常务理事\n中国力学学会计算力学专委会颗粒材料计算力学专业组副组长\n湖北省复合材料学会副理事长\n研究方向\n更多>>\nAI赋能计算力学\n计算固体力学：有限元；离散元；多尺度有限元；近场动力学;机器学习等\n颗粒材料力学：离散元模型；高阶连续体模型；本构模拟；多尺度模型等\n岩土材料的本构模型与岩土工程的数值方法\n曾获荣誉\n2019    徐芝纶力学优秀教师\n2019    土木建筑工程学院“好导师”称号\n团队成员\n更多>>\n颗粒材料力学与计算力学\n潘宇\n张佳铭\n朱子健\n陈炼雄\n万冀\n杨德泽\n郭先阳\n陈壮\n王连\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

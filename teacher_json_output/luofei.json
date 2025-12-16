@@ -1,0 +1,165 @@
+{
+  "id": "luofei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/luofei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "罗飞",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "计算机科学系",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算机科学与技术其他专业",
+        "school": "武汉大学",
+        "period": "2009.1 -- 2009.9",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "计算机科学与技术其他专业",
+        "school": "武汉大学",
+        "period": "2009.1 -- 2009.9",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "计算机科学与技术其他专业",
+        "school": "湖北工业大学",
+        "period": "2009.1 -- 2009.9",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国图象图形学学会科技进步奖二等奖",
+      "湖北省科技进步奖二等奖",
+      "湖北省自然科学奖三等奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "计算机视觉",
+      "医学影像分析",
+      "虚拟现实"
+    ],
+    "research_interests": [
+      "图像处理",
+      "三维重建",
+      "智能医疗影像",
+      "人机交互",
+      "虚拟现实技术"
+    ],
+    "research_description": "罗飞副教授主要从事计算机视觉、医学影像分析与虚拟现实技术的研究，致力于将人工智能与计算机图形学技术应用于医疗健康、智能系统与人机交互领域。研究成果发表于CVPR、ICCV、AAAI、ACM MM、SigGraph Asian等国际顶级会议及TOG、TCSVT、TMM等SCI期刊，主持国家自然科学基金、省部级项目及企业横向课题十余项，成果应用于华为、小米、国家电网等头部企业。",
+    "disciplines": [
+      "计算机科学与技术",
+      "人工智能",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "医学影像",
+      "虚拟现实",
+      "三维重建",
+      "智能系统",
+      "图像处理",
+      "人机交互",
+      "AI+医疗",
+      "产学研结合"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "论文题目未明确提及",
+        "keywords": [
+          "计算机视觉",
+          "医学影像",
+          "虚拟现实",
+          "图像处理",
+          "深度学习"
+        ],
+        "journal_name": "TOG, TCSVT, CVMJ, TMM, Visual Computer",
+        "research_fields": [
+          "计算机视觉",
+          "医学影像分析",
+          "虚拟现实",
+          "人工智能"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "论文题目未明确提及",
+        "keywords": [
+          "计算机视觉",
+          "图像识别",
+          "三维重建",
+          "虚拟现实"
+        ],
+        "journal_name": "ACM MM, ICCV, CVPR, SigGraph Asian",
+        "research_fields": [
+          "计算机视觉",
+          "人机交互",
+          "多媒体技术"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "实验室主页",
+        "url": "https://dapecker.whu.edu.cn/"
+      },
+      {
+        "platform": "个人主页",
+        "url": "http://jszy.whu.edu.cn/luofei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "湖北省自然科学基金",
+      "教育部博士点基金",
+      "国家自然科学基金面上项目",
+      "企业横向科研项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "教育部",
+      "华为",
+      "小米",
+      "国家电网"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 罗飞\n页面链接: http://jszy.whu.edu.cn/luofei/zh_CN/index.htm\n==================================================\n武汉大学 罗飞--中文主页--首页\n罗飞\n副教授\n硕士生导师\n主要任职：计算机科学系副主任\n性别：男\n在职信息：在职\n所在单位：计算机学院\n学科：\n计算机科学与技术其他专业\n办公地点：C202\n联系方式：QQ:780656\n实验室主页 https://dapecker.whu.edu.cn/\n电子邮箱：\n2025曾获荣誉当选：中国图象图形学学会科技进步奖二等奖 2023曾获荣誉当选：湖北省科技进步奖二等奖 2011曾获荣誉当选：湖北省自然科学奖三等奖\n访问量：\n开通时间：..\n最后更新时间：..\n同专业硕导\n个人简介\n主要研究领域包括计算机视觉，医学影像学，虚拟现实。发表论文50余篇，包括CCF A类CVPR (Oral)、AAAI, ACM MM, ICCV，SigGraph Asian等会议论文及TOG, TCSVT, CVMJ，TMM, Visual Computer等SCI期刊论文30余篇，授权发明专利20余项，出版学术专著一部，教材两部。主持完成国家自然科学青年基金一项，湖北省自然科学基金一项，教育部博士点基金一项。参与国家自然科学基金面目项目六项。获得湖北省科技进步奖二等奖一项（排名第五），湖北省自然科学三等奖一项（排名第三）,中国图形图象学会科技进步奖二等奖（排名第五）。主持完成企业横向科研项目十余项,服务对象包括华为、小米等头部IT企业和国家电网等重点国企。指导学生获得I类赛事“挑战杯”揭榜挂帅专项赛全国一等奖，研究生人工智能创新大赛全国一等奖，全国大学生物联网设计竞赛（华为杯）全国一等奖，全国大学生计算机系统能力大赛智能系统创新设计赛（小米杯）全国一等奖，多次指导学生获得中国研究生数学建模竞赛全国二等奖，三等奖。\n其他联系方式\n通讯/办公地址 : \n邮箱 : \n教育经历\n武汉大学\n博士\n武汉大学\n硕士\n湖北工业大学\n计算机科学与技术其他专业\n学士\n工作经历\n2009.1 -- 2009.9\n新加坡南洋理工大学\n计算机工程学院\n研究助理\n2011.12 -- 2013.12\n让杜塞人类多态性研究中心 法国\n博士后\n研究方向\n计算机视觉\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

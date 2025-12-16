@@ -1,0 +1,201 @@
+{
+  "id": "zouhua",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zouhua/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "邹华",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "计算机学院",
+    "college": "计算机学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "研究生毕业",
+        "field": "计算机科学与技术",
+        "school": "武汉大学",
+        "period": "2009.6 -- 2016.11",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北科技进步二等奖",
+      "新疆维吾尔自治区数字化科学技术进步二等奖",
+      "陕西省科技进步二等奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "多模态学习",
+      "计算机视觉",
+      "医学图像处理与分析",
+      "大模型垂直领域应用"
+    ],
+    "research_interests": [
+      "目标检测",
+      "工业缺陷检测",
+      "图像分割",
+      "图像增强",
+      "医学智能诊断",
+      "少样本学习",
+      "跨模态融合",
+      "交互式分割",
+      "3D场景物理模拟",
+      "多尺度特征融合"
+    ],
+    "research_description": "邹华教授主要从事计算机视觉、多模态学习、医学图像处理及大模型垂直领域应用等方向的研究，在目标检测、工业场景缺陷检测、图像分割、图像增强、多模态医学智能诊断及大模型应用等领域积累了丰富的研发经验。研究聚焦于多模态信息融合、医学图像智能分析、少样本学习、交互式分割与大模型在医疗与工业场景中的应用，成果发表于Information Fusion、IEEE TIP、Pattern Recognition、MICCAI、IEEE ICASSP、IEEE BIBM等国际知名期刊与会议。",
+    "disciplines": [
+      "软件工程",
+      "计算机科学与技术",
+      "计算机应用技术"
+    ],
+    "field_tags": [
+      "计算机视觉",
+      "多模态学习",
+      "医学图像处理",
+      "深度学习",
+      "大模型应用",
+      "图像分割",
+      "目标检测",
+      "少样本学习",
+      "跨模态融合",
+      "智能诊断"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "Uncertainty-aware incomplete multimodal fusion for few-shot Central Retinal Artery Occlusion classification",
+        "keywords": [
+          "多模态学习",
+          "不完整模态融合",
+          "少样本分类",
+          "视网膜动脉阻塞",
+          "不确定性建模"
+        ],
+        "journal_name": "Information Fusion",
+        "research_fields": [
+          "多模态学习",
+          "医学图像处理",
+          "计算机视觉"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors",
+        "keywords": [
+          "机器人灵巧抓取",
+          " affordance感知",
+          "先验知识",
+          "人工智能",
+          "计算机视觉"
+        ],
+        "journal_name": "AAAI",
+        "research_fields": [
+          "计算机视觉",
+          "机器人学",
+          "人工智能"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "MSFP-Net: Multi-Scale Fusion of SAM-Derived Priors for Medical Image Segmentation",
+        "keywords": [
+          "医学图像分割",
+          "多尺度融合",
+          "SAM衍生先验",
+          "深度学习",
+          "图像分割"
+        ],
+        "journal_name": "IEEE BIBM",
+        "research_fields": [
+          "医学图像处理",
+          "计算机视觉",
+          "深度学习"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Region-Aware Metric Learning for Few-Shot Detection of Counterfeit Cigarettes from Packaging Images",
+        "keywords": [
+          "少样本检测",
+          "假冒香烟识别",
+          "区域感知度量学习",
+          "工业缺陷检测",
+          "图像分类"
+        ],
+        "journal_name": "Expert Systems With Applications",
+        "research_fields": [
+          "计算机视觉",
+          "工业检测",
+          "模式识别"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "ActiveFreq: Integrating Active Learning and Frequency Domain Analysis for Interactive Segmentation",
+        "keywords": [
+          "主动学习",
+          "频域分析",
+          "交互式分割",
+          "医学图像",
+          "图像分割"
+        ],
+        "journal_name": "Knowledge-Based Systems",
+        "research_fields": [
+          "医学图像处理",
+          "计算机视觉",
+          "人工智能"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学计算机学院教师主页",
+        "url": "http://jszy.whu.edu.cn/zouhua/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "新疆生产建设兵团科技合作项目",
+      "中央引导地方科技发展项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "新疆生产建设兵团",
+      "中央引导地方科技发展专项"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 邹华\n页面链接: http://jszy.whu.edu.cn/zouhua/zh_CN/index.htm\n==================================================\n武汉大学 邹华--中文主页--首页\n邹华\n教授\n博士生导师\n硕士生导师\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：计算机学院\n学科：\n软件工程其他专业\n计算机科学与技术其他专业\n计算机应用技术\n办公地点：计算机学院C311\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n邹华，武汉大学计算机学院教授， 博士生导师，硕士生导师。\n主要从事计算机视觉、多模态学习、医学图像处理及大模型垂直领域应用等方向研究。\n在目标检测、工业场景中的缺陷检测、图像分割、图像增强、多模态医学智能诊断及大模型应用等领域积累了丰富的研发经验。\n在Information Fusion、IEEE TIP、Pattern Recognition、MICCAI、IEEE ICASSP、IEEE BIBM等国际知名期刊与会议上发表学术论文30余篇，授权发明专利10余项。近五年主持和参与纵向项目10余项，包括国家自然科学基金、新疆生产建设兵团科技合作项目、中央引导地方科技发展项目。获得湖北科技进步二等奖，新疆维吾尔自治区数字化科学技术进步二等奖、陕西省科技进步二等奖。\n科研动态\n2025年\n●    课题组赵皓宇论文“Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors”被国际计算机视觉顶会AAAI(CCF A)录用\n●    课题组周潜论文“Anatomy-Aware Adaptation of Pre-trained Models for Medical Difference Visual Question Answering”被生物医学信息会议IEEE BIBM(CCF B)录用\n●    课题组胡雅馨论文“MSFP-Net: Multi-Scale Fusion of SAM-Derived Priors for Medical Image Segmentation”被生物医学信息会议IEEE BIBM(CCF B)录用\n●    课题组与中国烟草总公司湖北省公司合作论文“Region-Aware Metric Learning for Few-Shot Detection of Counterfeit Cigarettes from Packaging Images”被国际知名期刊Expert Systems With Applications（SCI 1区）录用\n●    课题组本科生郭李军论文“ActiveFreq: Integrating Active Learning and Frequency Domain Analysis for Interactive Segmentation”被国际知名期刊Knowledge-Based Systems（SCI 1区）录用\n●    课题组赵皓宇论文“PhysSplat: Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting”被国际计算机视觉顶会ICCV(CCF A)录用\n●    课题组石紫迪论文“IMedSeg: Towards Efficient  Interactive Medical Segmentation”被期刊Neurocomputing（SCI 2区）录用\n2024年\n●    课题组杨通玉论文“UML: A Unified Multimodal Learning Framework for Cataract Postoperative Visual Acuity Prediction with Uncertain Missing Modalities”被国际会议IEEE ICASSP 2025(CCF B)录用\n●    课题组石紫迪论文“MFSegDiff: A Multi-Frequency Diffusion Model for Medical Image Segmentations”被生物医学信息会议IEEE BIBM(CCF B)录用\n●    课题组周潜论文“Refining Intraocular Lens Power Calculation: A Cutting-edge Multi-modal Framework Using Cross-layer Attention and Effective Channel Attention”被医学信息处理顶会MICCAI 2024(CCF B)录用\n●    课题组罗小磊论文“Synergistic registration of CT-MRI brain images and retinal images: A novel approach leveraging reinforcement learning and modified artificial rabbit optimization”被期刊Neurocomputing（SCI 2区）录用\n2023年\n●    课题组周潜论文“Uncertainty-aware incomplete multimodal fusion for few-shot Central Retinal Artery Occlusion classification”被多模态信息融合国际知名期刊Information Fusion（SCI 1区，Q1 Top）录用\n●    课题组周潜论文“RHViT: A Robust Hierarchical Transformer for 3D Multimodal Brain Tumor Segmentation Using Biased Masked Image Modeling Pre-training”被生物医学信息会议IEEE BIBM(CCF B)录用\n●    课题组王煜明论文“SMFF-YOLO: A Scale-Adaptive YOLO Algorithm with Multi-Level Feature Fusion for Object Detection in UAV Scenes”被遥感信息处理国际知名期刊Remote Sensing（SCI 2区）录用\n●    课题组周潜论文“Incomplete Multimodal Learning for Visual Acuity Prediction After Cataract Surgery Using Masked Self-Attention”被医学信息处理顶会MICCAI 2023(CCF B)录用\n其他联系方式\n通讯/办公地址 : \n邮箱 : \n工作经历\n2021.11 -- 至今\n武汉大学\n计算机学院\n教授\n2016.11 -- 2021.11\n武汉大学\n计算机学院\n副教授\n2009.6 -- 2016.11\n武汉大学\n计算机学院\n讲师\n研究方向\n多模态学习；计算机视觉；医学图像处理与分析\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

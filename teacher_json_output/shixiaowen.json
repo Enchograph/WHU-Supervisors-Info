@@ -1,0 +1,154 @@
+{
+  "id": "shixiaowen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shixiaowen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "施晓文",
+    "english_name": "Shi Xiaowen",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "环境科学",
+        "school": "武汉大学资源与环境科学学院",
+        "period": "2006年",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "相关研究领域",
+        "school": "美国马里兰大学",
+        "period": "2007年 - 2009年",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "教育部‘新世纪优秀人才支持计划’",
+      "环保部‘环境保护专业技术’",
+      "武汉市‘青年科技晨光计划’",
+      "武汉大学‘珞珈青年学者’",
+      "武汉大学第九届‘我心目中的好导师’"
+    ],
+    "academic_services": [
+      "中国环境科学学会高级会员",
+      "中国化学会高级会员",
+      "湖北省化学化工学会生物质资源专业委员会秘书长"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "生物质多糖的高值化利用",
+      "电化学芯片材料开发",
+      "智能凝胶材料研究",
+      "生物医用材料开发",
+      "纳米材料制备与应用"
+    ],
+    "research_interests": [
+      "生物质资源",
+      "多糖材料",
+      "电化学芯片",
+      "智能凝胶",
+      "生物医用材料",
+      "纳米材料",
+      "高值化利用"
+    ],
+    "research_description": "研究兴趣聚焦于生物质资源的高值化利用，重点开发生物质多糖在电化学芯片、智能凝胶材料、生物医用材料及纳米材料等领域的应用，致力于推动绿色可持续材料的发展。",
+    "disciplines": [
+      "环境科学",
+      "材料科学",
+      "化学工程",
+      "生物医学工程"
+    ],
+    "field_tags": [
+      "生物质资源",
+      "多糖材料",
+      "电化学",
+      "智能材料",
+      "生物医用材料",
+      "纳米材料",
+      "可持续利用",
+      "高值化开发"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 98,
+    "representative_publications": [
+      {
+        "title": "Advanced Materials",
+        "keywords": [
+          "生物质多糖",
+          "电化学芯片",
+          "智能凝胶材料",
+          "生物医用材料",
+          "纳米材料"
+        ],
+        "journal_name": "Advanced Materials",
+        "research_fields": [
+          "生物质资源高值化利用",
+          "电化学材料",
+          "智能材料",
+          "生物医用材料"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Advanced Functional Materials",
+        "keywords": [
+          "生物质多糖",
+          "纳米材料",
+          "智能凝胶",
+          "电化学应用",
+          "生物材料"
+        ],
+        "journal_name": "Advanced Functional Materials",
+        "research_fields": [
+          "纳米材料",
+          "智能凝胶材料",
+          "生物医用材料",
+          "电化学芯片"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/shixiaowen/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 施晓文\n页面链接: http://jszy.whu.edu.cn/shixiaowen/zh_CN/index.htm\n==================================================\n武汉大学 施晓文--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n武汉大学资源与环境科学学院教授，博士生导师。中国环境科学学会高级会员，中国化学会高级会员，湖北省化学化工学会生物质资源专业委员会秘书长；入选教育部“新世纪优秀人才支持计划”、环保部“环境保护专业技术”、武汉市“青年科技晨光计划”、武汉大学“珞珈青年学者”等人才计划，为湖北省自然科学基金创新群体和湖北省资源与能源可持续利用技术国际科技合作基地的骨干成员，武汉大学第九届“我心目中的好导师”。\n2006年毕业于武汉大学资源与环境科学学院环境科学系，获得理学博士学位，2007年至2009年赴美国马里兰大学从事博士后研究。主持和参与国家和省部级科研项目多项，累计在Advanced Materials，Advanced Functional Materials等期刊上发表SCI论文98篇，获批国家发明专利16项，主编和参编专著3部。研究兴趣为生物质资源的高值化利用，包括生物质多糖在电化学芯片，智能凝胶材料，生物医用材料及纳米材料等领域的开发和应用。\n研究方向\n社会兼职\n暂无内容\n暂无内容\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n施晓文\n个人信息\n教授\n博士生导师\n硕士生导师\n教师拼音名称：Shi Xiaowen\n出生日期：1978-10-01\n电子邮箱：\n入职时间：2010-03-01\n所在单位：资源与环境科学学院\n学历：研究生毕业\n办公地点：资源与环境科学学院102室\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：武汉大学\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

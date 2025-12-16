@@ -1,0 +1,169 @@
+{
+  "id": "wangxin13",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangxin13/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王鑫",
+    "english_name": "Wang Xin",
+    "title": [
+      "特聘副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "测绘学院",
+    "college": "测绘学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "莱布尼茨汉诺威大学",
+        "period": "2016.10-2021.5",
+        "country": "德国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2013.9-2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2009.9-2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "莱布尼茨汉诺威大学",
+    "academic_honors": [
+      "2023年入选武汉市“英才”计划",
+      "2022年入选湖北省“百人”计划",
+      "2013年夏坚白优秀学生奖二等奖",
+      "2020年ASPRS ESRI Awards for Best Scientific Paper in GIS 第一名",
+      "2023年中国测绘学会测绘科学技术奖一等奖"
+    ],
+    "academic_services": [
+      "Journal of Photogrammetry and Remote Sensing 审稿人",
+      "Photogrammetric Engineering & Remote Sensing 审稿人",
+      "DPFG Journal 审稿人",
+      "Photogrammetric Record 审稿人",
+      "TGRS 审稿人",
+      "GRSL 审稿人",
+      "ACCV 审稿人",
+      "CVPR 审稿人",
+      "ECCV 审稿人",
+      "测绘学报 审稿人",
+      "德国摄影测量、遥感和地理信息学会（DGPF）会员",
+      "IEEE Member"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "无人机及近景的实时定位和地图生成（SLAM）方法研究",
+      "深度学习在传统摄影测量中的应用"
+    ],
+    "research_interests": [
+      "计算机视觉",
+      "多视几何",
+      "视觉SLAM",
+      "深度学习",
+      "多源传感器融合",
+      "实时定位与地图构建",
+      "智能摄影测量"
+    ],
+    "research_description": "王鑫主要从事计算机视觉、多视几何、视觉SLAM、深度学习在传统摄影测量中应用等方面的教学和科研工作。研究聚焦于无人机及近景场景下的实时定位与地图生成，涵盖单目/双目SLAM关键算法及多源传感器融合技术；同时探索深度学习方法在传统摄影测量中的创新应用。主持多项国际级、国家级及省部级科研项目，在国内外重要期刊发表论文20余篇。",
+    "disciplines": [
+      "测绘科学与技术",
+      "计算机视觉",
+      "人工智能"
+    ],
+    "field_tags": [
+      "SLAM",
+      "无人机测绘",
+      "深度学习",
+      "摄影测量",
+      "计算机视觉",
+      "多源融合",
+      "实时定位",
+      "智能感知"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "Deep learning methods applied in traditional photogrammetry",
+        "keywords": [
+          "深度学习",
+          "摄影测量",
+          "计算机视觉",
+          "SLAM"
+        ],
+        "journal_name": "Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "计算机视觉",
+          "摄影测量",
+          "深度学习应用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "SLAM for UAV and Close-ranging applications: Monocular and binocular key algorithms",
+        "keywords": [
+          "视觉SLAM",
+          "无人机",
+          "近景测量",
+          "多源融合"
+        ],
+        "journal_name": "Photogrammetric Engineering & Remote Sensing",
+        "research_fields": [
+          "视觉SLAM",
+          "无人机导航",
+          "实时定位"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wangxin13/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级项目",
+      "国际级项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省科学技术厅",
+      "武汉市科技局"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王鑫\n页面链接: http://jszy.whu.edu.cn/wangxin13/zh_CN/index.htm\n==================================================\n武汉大学 王鑫--中文主页--首页\n教师个人主页\n王鑫\n个人信息\n教师英文名称：Wang Xin\n教师拼音名称：Wang Xin\n出生日期：1989-12-18\n电子邮箱：\n入职时间：2021-10-01\n所在单位：测绘学院\n职务：特聘副研究员\n学历：博士研究生毕业\n办公地点：武汉大学信息学部2号楼 324办公室\n性别：男\n联系方式：qq：543147143\n在职信息：在职\n毕业院校：汉诺威莱布尼茨大学\n硕士生导师\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n王鑫，特聘副研究员，硕士生导师。主要从事计算机视觉、多视几何、视觉SLAM、深度学习在传统摄影测量中应用等方面的教学和科研工作。获湖北省“BR”计划以及武汉市“英才”计划支持。目前，主持多类项目，包括了国际级、国家级、省部级项目等。在国内外重要期刊发表论文共20余篇。\n教育经历\n更多>>\n2016.10-2021.5\n莱布尼茨汉诺威大学  | 摄影测量与遥感  | 工学博士学位 | 研究生(博士)毕业\n2013.9-2016.6\n武汉大学  | 大地测量学与测量工程  | 工学硕士学位 | 硕士研究生\n2009.9-2013.6\n武汉大学  | 大地测量学与测量工程  | 工学学士学位 | 学士\n工作经历\n2019.1-2019.3\n&nbspInstitute of computer graphic and Vision, TU Graz & Vexcel Imaging GmbH  |&nbspvisiting researcher\n|&nbspvisiting researcher\n社会兼职\n更多>>\nJournal of Photogrammetry and Remote Sensing, Photogrammetric engineering & Remote Sensing, DPFG Journal, Photogrammetric Record, TGRS, GRSL, ACCV，CVPR, ECCV 测绘学报 等期刊, 会议审稿\n德国摄影测量、遥感和地理信息学会（DGPF）会员\nIEEE Member\n研究方向\n1. 无人机及近景的实时定位和地图生成（SLAM）方法研究（单目和双目关键算法研究, 多源传感器融合算法）SLAM for UAV and Close-ranging applications\n2. 深度学习在传统摄影测量中的应用 （Deep learning methods applied in traditional photogrammetry）\n曾获荣誉\n2023    入选武汉市“英才”计划\n2022    入选湖北省“百人”计划\n2013    夏坚白优秀学生奖 二等奖\n2020    ASPRS (美国摄影测量与遥感协会) ESRI Awards for Best Scientific Paper in GIS\nFirst Place\n2023    中国测绘学会测绘科学技术奖一等奖\n团队成员\n更多>>\n数字摄影测量与计算机视觉DPCV\n主要研究面向智能化的实时/准实时在线处理、动态分析与测量的数字摄影测量与计算机视觉理论方法和关键技术\n詹总谦\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

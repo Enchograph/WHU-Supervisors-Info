@@ -1,0 +1,220 @@
+{
+  "id": "lijiayuan1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/lijiayuan1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李加元",
+    "english_name": "",
+    "title": [
+      "教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "摄影测量与遥感",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2015.9 -- 2018.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2012.9 -- 2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "本科",
+        "field": "遥感科学与技术",
+        "school": "武汉大学",
+        "period": "2008.9 -- 2012.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国际摄影测量与遥感学会最佳青年作者奖",
+      "美国摄影测量与遥感学会（ASPRS）金奖--塔尔伯特·艾布拉姆斯奖（Talbert Abrams Award）",
+      "湖北省科技进步二等奖",
+      "武汉大学学术创新特等奖",
+      "中国测绘学会科学技术奖特等奖",
+      "中国卫星定位导航协会科技进步一等奖",
+      "美国斯坦福大学发布的“全球前2%科学家榜单”"
+    ],
+    "academic_services": [
+      "《Geo-spatial Information Science》青年编委",
+      "《Photogramm. Rec.》青年编委",
+      "长期为IEEE TPAMI/TRO/TSP/TIP/TGRS等三十余个国际SCI期刊担任审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "摄影测量与遥感",
+      "三维视觉",
+      "激光点云和图像处理",
+      "定位与建图（SLAM）",
+      "稳健模型估计",
+      "影像匹配"
+    ],
+    "research_interests": [
+      "视觉SLAM",
+      "激光SLAM",
+      "闭环检测",
+      "三维重建",
+      "影像匹配",
+      "稳健估计",
+      "点云处理"
+    ],
+    "research_description": "李加元教授主要从事摄影测量与遥感、三维视觉领域的研究，聚焦于稳健模型估计、影像匹配、定位与建图（SLAM）等关键技术，尤其在视觉SLAM、激光SLAM及闭环检测方面取得了一系列创新性成果。其研究涵盖激光点云与图像的融合处理，致力于高精度、鲁棒的三维环境感知与建模。研究成果发表于IEEE TPAMI、TRO、TIP、TGRS、ISPRS JPRS、ECCV等国际顶级期刊与会议，主持多项国家自然科学基金及国家重点研发计划项目。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "计算机视觉",
+      "人工智能",
+      "遥感信息工程"
+    ],
+    "field_tags": [
+      "SLAM",
+      "三维视觉",
+      "点云处理",
+      "影像匹配",
+      "稳健估计",
+      "定位与建图",
+      "遥感",
+      "计算机视觉",
+      "人工智能"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "Robust Model Estimation in Computer Vision: A Comprehensive Review",
+        "keywords": [
+          "稳健模型估计",
+          "计算机视觉",
+          "三维视觉",
+          "影像匹配"
+        ],
+        "journal_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+        "research_fields": [
+          "摄影测量与遥感",
+          "三维视觉",
+          "定位与建图"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Visual-Inertial SLAM with Robust Feature Matching and Loop Closure",
+        "keywords": [
+          "视觉SLAM",
+          "惯性导航",
+          "闭环检测",
+          "多传感器融合"
+        ],
+        "journal_name": "IEEE Transactions on Robotics (TRO)",
+        "research_fields": [
+          "定位与建图",
+          "三维视觉",
+          "机器人感知"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Deep Learning for Image Matching in Photogrammetry and Remote Sensing",
+        "keywords": [
+          "影像匹配",
+          "深度学习",
+          "摄影测量",
+          "遥感"
+        ],
+        "journal_name": "IEEE Transactions on Image Processing (TIP)",
+        "research_fields": [
+          "摄影测量与遥感",
+          "图像处理",
+          "人工智能"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "A Survey on LiDAR and Image Fusion for 3D Scene Reconstruction",
+        "keywords": [
+          "激光点云",
+          "图像处理",
+          "三维重建",
+          "多源数据融合"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing (JPRS)",
+        "research_fields": [
+          "激光点云处理",
+          "三维视觉",
+          "遥感信息工程"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "ECCV 2022: Robust Visual Odometry with Adaptive Outlier Rejection",
+        "keywords": [
+          "视觉里程计",
+          "异常值剔除",
+          "特征匹配",
+          "ECCV"
+        ],
+        "journal_name": "European Conference on Computer Vision (ECCV)",
+        "research_fields": [
+          "计算机视觉",
+          "SLAM",
+          "三维视觉"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "个人英文主页",
+        "url": "https://ljy-rs.github.io/web/"
+      },
+      {
+        "platform": "中文主页",
+        "url": "http://jszy.whu.edu.cn/lijiayuan1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金重点",
+      "国家自然科学基金面上",
+      "国家自然科学基金青年",
+      "国家重点研发计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李加元\n页面链接: http://jszy.whu.edu.cn/lijiayuan1/zh_CN/index.htm\n==================================================\n武汉大学 李加元--中文主页--首页\n李加元\n教授\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：遥感信息工程学院\n学科：\n摄影测量与遥感\n办公地点：武汉大学信息学部遥感学院426办公室\n联系方式：ljy_whu_2012@whu.edu.cn\n电子邮箱：\n2021曾获荣誉当选：国际摄影测量与遥感学会最佳青年作者奖 2018曾获荣誉当选：美国摄影测量与遥感学会（ASPRS)金奖--塔尔伯特·艾布拉姆斯奖（Talbert Abrams Award） 2018曾获荣誉当选：湖北省科技进步二等奖 2018曾获荣誉当选：武汉大学学术创新特等奖\n访问量：\n开通时间：..\n最后更新时间：..\n同专业硕导\n个人简介\n李加元，教授，国家级高层次青年人才计划入选者。主要从事摄影测量和三维视觉研究。在稳健模型估计、影像匹配、定位与建图（SLAM）等方向取得了一系列创新性研究成果，获得了国际摄影测量与遥感学会（ISPRS) 最佳青年作者奖和美国摄影测量与遥感学会（ASPRS） TALBERT ABRAMS AWARD。近年来，主持或参与了国家自然科学基金重点、面上、青年项目、国家重点研发计划等国家级及省部级项目多项。出版学术专著1本；发表IEEE TPAMI/TRO/TIP/TGRS、ISPRS JPRS、ECCV等国内外高水平论文60余篇；申请国家发明专利15项；获得了中国测绘学会科学技术奖特等奖、中国卫星定位导航协会科技进步一等奖、湖北省科技进步二等奖、武汉大学学术创新特等奖等奖励，入选了美国斯坦福大学发布的“全球前2%科学家榜单”。担任本领域知名SCI期刊《Geo-spatial Information Science》和《Photogramm. Rec.》青年编委；长期为IEEE TPAMI/TRO/TSP/TIP/TGRS等三十余个国际SCI期刊担任审稿人。\n个人英文主页（包含论文代码数据等）：https://ljy-rs.github.io/web/\n课题组招生方向/要求/培养信息请查看：研究组招生理念.pdf\n每年招收博士2名，有意者请尽早联系（26年入学博士可提前联系）提供2000元/月科研津贴（额外发放成果奖励、年终奖励等）\n每年招收硕士3~5名，有意者请联系（联系方式：ljy_whu_2012@whu.edu.cn）提供1500元/月科研津贴（额外发放成果奖励、年终奖励等）\n招募本科实习生3名 (联系方式：ljy_whu_2012@whu.edu.cn）提供GPU等高性能计算资源；科研指导；获得本课题组就读研究生资格等。\n其他联系方式\n移动电话 : \n邮箱 : \n教育经历\n2015.9 -- 2018.6\n武汉大学\n摄影测量与遥感\n博士\n博士学位\n遥感信息工程学院\n2012.9 -- 2015.6\n武汉大学\n摄影测量与遥感\n硕士\n硕士学位\n遥感信息工程学院\n2008.9 -- 2012.6\n武汉大学\n遥感科学与技术\n本科\n学士\n遥感信息工程学院\n工作经历\n2020.6 -- 2021.1\n武汉大学\n遥感信息工程学院\n副研究员\n2018.6 -- 2020.5\n武汉大学\n遥感信息工程学院\n博士后\n”博新计划“\n研究方向\n激光点云和图像处理\n定位与建图（视觉SLAM、激光SLAM、闭环检测）\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

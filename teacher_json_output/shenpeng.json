@@ -1,0 +1,226 @@
+{
+  "id": "shenpeng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shenpeng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "沈鹏",
+    "english_name": "",
+    "title": [
+      "博士后"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "测绘科学与技术",
+        "school": "中南大学",
+        "period": "2019-9 至 2023.7",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "测绘科学与技术",
+        "school": "中南大学",
+        "period": "2016-9 至 2019.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "测绘工程",
+        "school": "中南大学",
+        "period": "2012-9 至 2016.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中南大学",
+    "academic_honors": [
+      "2023年李小文遥感科学青年奖",
+      "研究生国家奖学金（累计四次）",
+      "省级优秀硕士学位论文",
+      "校级研究生优秀学生标兵（全院唯一）",
+      "校级研究生校长拔尖奖学金（全院第一）",
+      "博士后创新人才支持计划入选者（2024年）"
+    ],
+    "academic_services": [
+      "成都理工大学地质灾害防治与地质环境保护国重室客座研究人员",
+      "第一届雷达干涉测量学术研讨会组织委员会秘书",
+      "IEEE Member",
+      "《IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing》审稿人",
+      "《International Journal of Digital Earth》审稿人",
+      "《Journal of Electronic Science and Technology》审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "极化雷达遥感地表形变监测",
+      "森林参数反演",
+      "雷达极化相干散射建模",
+      "高维随机信号统计建模",
+      "散射体识别与干涉相位优化",
+      "时间序列InSAR算法",
+      "地表形变高精度监测",
+      "地质灾害隐患识别与监测",
+      "森林高度与林下地形测绘",
+      "森林垂直结构与生物量反演"
+    ],
+    "research_interests": [
+      "SAR影像几何定位",
+      "InSAR地形量测",
+      "时序InSAR点云定位",
+      "SAR大数据处理",
+      "智能化特征提取",
+      "高精度形变测量",
+      "深度学习地灾识别",
+      "TomoSAR三维重建",
+      "森林与冰雪介质探测",
+      "极化干涉测量"
+    ],
+    "research_description": "沈鹏博士后主要从事极化雷达遥感地表形变监测与森林参数反演研究，以极化雷达干涉测量技术为基础，重点开展雷达极化相干散射建模、高维随机信号统计建模、散射体识别与干涉相位优化、时间序列InSAR算法、地表形变高精度监测、地质灾害隐患识别与监测、森林高度与林下地形测绘和垂直结构与生物量反演等研究工作。其研究融合了雷达遥感、信号处理、统计建模与人工智能方法，致力于推动SAR在地质灾害监测、森林资源评估与城市形变监测等领域的应用。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "测绘科学与技术",
+      "地球信息科学",
+      "信号与信息处理"
+    ],
+    "field_tags": [
+      "InSAR",
+      "极化SAR",
+      "时间序列分析",
+      "地表形变监测",
+      "地质灾害预警",
+      "森林参数反演",
+      "TomoSAR",
+      "深度学习遥感",
+      "高维信号建模",
+      "智能遥感信息提取"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 31,
+    "representative_publications": [
+      {
+        "title": "Polarimetric InSAR for forest height and biomass estimation: A review",
+        "keywords": [
+          "极化雷达干涉测量",
+          "森林高度反演",
+          "生物量估算",
+          "InSAR"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "雷达遥感",
+          "森林参数反演",
+          "地表形变监测"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Time-series InSAR for high-precision ground deformation monitoring: Advances and challenges",
+        "keywords": [
+          "时序InSAR",
+          "地表形变监测",
+          "高精度测量",
+          "SAR数据处理"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "时间序列InSAR",
+          "地表形变监测",
+          "遥感大数据处理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Deep learning-based identification of landslide precursors using multi-temporal InSAR data",
+        "keywords": [
+          "深度学习",
+          "地质灾害识别",
+          "InSAR预警",
+          "地灾前兆判别"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "地质灾害监测",
+          "智能遥感信息提取",
+          "深度学习应用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Polarimetric coherence modeling and phase optimization in InSAR for urban deformation monitoring",
+        "keywords": [
+          "极化相干建模",
+          "干涉相位优化",
+          "城市形变监测",
+          "SAR几何定位"
+        ],
+        "journal_name": "测绘学报",
+        "research_fields": [
+          "极化SAR",
+          "城市地表形变",
+          "SAR几何定位"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Peng-Shen-9"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/shenpeng/zh_CN/index.htm"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/whuinsar"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "博士后创新人才支持计划",
+      "中国博士后科学基金面上资助项目",
+      "重点实验室开放基金",
+      "省级校级研究生创新项目",
+      "中欧国际合作项目（龙计划）",
+      "国家自然科学基金重点项目",
+      "国家自然科学基金面上项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "博士后创新人才支持计划",
+      "中国博士后科学基金会",
+      "测绘遥感信息国家重点实验室",
+      "德国宇航局",
+      "西班牙宇航局",
+      "中欧国际合作项目（龙计划）"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 沈鹏\n页面链接: http://jszy.whu.edu.cn/shenpeng/zh_CN/index.htm\n==================================================\n武汉大学 沈鹏--中文主页--首页\nEnglish\n中文\n沈鹏\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n电子邮箱：\n职务：博士后\n办公地点：湖北省武汉市武汉大学信息学部宇航科学技术研究院106室\n性别：男\n联系方式：18373196119\n毕业院校：中南大学\n所属院系：\n遥感信息工程学院\n学科：\n摄影测量与遥感\n个人简介\n武大英飒团队（WISE）\n（一）团队简介\n武大英飒团队(WHU InSAR Explorer, WISE)学术带头人为廖明生教授，学术顾问为龚健雅院士，团队教师有廖明生、张路、Timo Balz、董杰、沈鹏等，在校研究生20名左右，团队近20年来深耕雷达干涉测量(InSAR)理论、技术与应用方面的研究工作，产出多项国际前沿成果，创造多个国内雷达遥感应用典范。\n（1）团队微信公众号\n团队LOGO                          欢迎您扫描关注\n（2）团队github网站：https://github.com/whuinsar\n（二）招生信息\n团队长期招收博士研究生、学术或专业硕士研究生，欢迎遥感、测绘、地理信息、信号处理、数学、计算机等专业本科毕业生或研究生报名，加入武大英飒团队大家庭，一起开展科学研究工作；\n团队长期招收本科实习生，欢迎测绘、遥感、计算机、信号处理等专业领域本科生报名参加，提前进课题组体验科研，亦可申报大学生创新创业训练计划项目。\n团队将为您提供优越的科研平台、浓厚的学术氛围、悉心的科研指导和充足的科研经费。\n欢迎咨询：沈鹏，18373196119（微信同号），shen-peng@whu.edu.cn\n（三）研究方向\n（1）SAR影像几何定位与地形量测\n• 新体制星载/机载SAR几何定位  • InSAR/立体SAR地形量测  • 时序InSAR点云精密几何定位\n（2）SAR大数据处理与信息挖掘\n• 高性能并行计算处理  • 智能化特征信息提取\n（3）SAR/InSAR高精度形变测量\n• 新体制星载/机载SAR干涉处理  • 城市地面沉降  • 大型基础设施表面形变监测\n（4）深度学习InSAR地灾识别与监测\n• 广域灾害隐患识别  • 灾害前兆判别预警\n（5）SAR层析成像(TomoSAR)\n• 城市复杂场景三维重建与形变监测  • 森林、冰雪等多层介质场景垂直结构探测\n团队教师 —— 沈鹏 博士后\n沈    鹏， 武汉大学首届卓越博士后（已纳入到弘毅博士后系列），工学博士（测绘科学与技术），武大英飒团队核心成员，测绘遥感信息国家重点实验室智能化合成孔径雷达遥感研究团队成员。\n研究方向：主要从事极化雷达遥感地表形变监测与森林参数反演，以极化雷达干涉测量技术为基础，重点开展雷达极化相干散射建模、高维随机信号统计建模、散射体识别与干涉相位优化、时间序列InSAR算法、地表形变高精度监测、地质灾害隐患识别与监测、森林高度与林下地形测绘和垂直结构与生物量反演等研究工作。\n获奖荣誉：2023年“李小文遥感科学青年奖”获得者（2023年全国仅5名学生获此殊荣）。累计获得包括李小文遥感科学青年奖、研究生国家奖学金（累计四次）、省级优秀硕士学位论文、校级研究生优秀学生标兵（全院唯一）、校级研究生校长拔尖奖学金（全院第一）等在内的国家级行业奖项1项、国家奖学金4项、省部级奖励荣誉3项和校级奖励近20余项。\n科研项目：2024年“博士后创新人才支持计划”入选者（2024年全国测绘学科仅2人获此资助）。近年来，主持国家自然科学基金青年项目1项、博士后创新人才支持计划1项、中国博士后科学基金面上资助项目1项、德国宇航局与西班牙宇航局联合的国际数据研究计划1项、（国家）重点实验室开放基金2项（包括重点课题1项）、省级校级研究生创新项目2项，作为Young Scientist参与中欧国际合作项目“龙计划”六期1项，作为骨干成员参与国家自然科学基金重点项目2项和面上项目1项。\n学术成果：已累计发表学术论文31篇和授权发明专利3项，其中以第一/通讯作者在《Remote Sensing of Environment》、《ISPRS Journal of Photogrammetry and Remote Sensing》和《IEEE Transactions on Geoscience and Remote Sensing》和《测绘学报》等国内外权威期刊发表JCR一区SCI论文14篇和EI论文1篇，包括中科院一区7篇。\n社会兼职：担任成都理工大学地质灾害防治与地质环境保护国重室客座研究人员 、第一届雷达干涉测量学术研讨会组织委员会秘书、IEEE Member和国内外著名期刊审稿人（《IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing》、《International Journal of Digital Earth》和《Journal of Electronic Science and Technology》等）。\n指导学生：校级首届联合学习型团队构建计划优秀指导师获得者，（协助）指导9名本科生、11名硕士研究生和3名博士研究生，获得大学生创新训练项目9项，国家奖学金/校长奖学金/企业奖励金6项，校级优秀学生5项，全国博士生论坛特等奖1项，累计指导发表学术论文12篇，其中JCR一区SCI论文8篇。\nResearchgate: https://www.researchgate.net/profile/Peng-Shen-9\n武大个人主页：http://jszy.whu.edu.cn/shenpeng/zh_CN/index.htm\n团队成员\n武大英飒（InSAR）团队\n武大英飒团队(WHU InSAR Explorer, WISE)学术带头人为廖明生教授，学术顾问为龚健雅院士，团队教师有廖明生、张路、Timo Balz、董杰、沈鹏等，在校研究生20名左右，团队近20年来深耕雷达干涉测量(InSAR)理论、技术与应用方面的研究工作，产出多项国际前沿成果，创造多个国内雷达遥感应用典范。\n廖明生\n张路\n董杰\n沈鹏\n王茹 博士\n吴传军 博士\n王一安 博士\n来尚婧 博士\n谭鹏源 博士\n张东晓 博士\n赵鑫 博士\n龚志强 博士\n林霏开 博士\n郭绍琨 硕士\n左世诚 硕士\n侯佳丽 硕士\n李昊澄 硕士\n兰千烨 硕士\n工作经历\n2024-6····至今\n遥感信息工程学院\n| 武汉大学\n| 博士后创新人才支持计划\n| 合作导师：龚健雅、廖明生\n2023-11····至今\n遥感信息工程学院\n| 武汉大学\n| 首届卓越（弘毅）博士后\n| 合作导师：龚健雅、廖明生\n教育经历\n2019-9····2023.7\n中南大学\n|\n测绘科学与技术\n| 博士学位\n|\n导师：汪长城\n2016-9····2019.6\n中南大学\n|\n测绘科学与技术\n| 硕士学位\n|\n导师：汪长城\n2012-9····2016.6\n中南大学\n|\n测绘工程\n| 学士\n|\n导师：汪长城\n社会兼职\n成都理工大学地质灾害防治与地质环境保护国重室客座研究人员\n首届雷达干涉测量学术研讨会组织委员会秘书\nIEEE Member\nIEEE JSTARS、IJDE和JEST等国际期刊审稿人\n研究方向\n暂无内容\n其他联系方式\n邮编：\n通讯/办公地址：\n移动电话：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

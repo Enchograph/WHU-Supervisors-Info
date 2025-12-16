@@ -1,0 +1,192 @@
+{
+  "id": "shouzhigang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shouzhigang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "寿志钢",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": false,
+    "department": "经济与管理学院",
+    "college": "经济与管理学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "市场营销",
+        "school": "武汉大学商学院",
+        "period": "2005年6月",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后研究",
+        "field": "市场营销学",
+        "school": "香港城市大学商学院",
+        "period": "2006年至2007年",
+        "country": "中国香港"
+      }
+    ],
+    "graduation_school": "武汉大学商学院",
+    "academic_honors": [
+      "连续两期（2016-2018，2019-2021）入选武汉大学经济与管理学院“领秀人才计划”"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "组织间信任",
+      "营销渠道关系",
+      "组织间治理机制"
+    ],
+    "research_interests": [
+      "网络中的组织间信任",
+      "信任机制",
+      "治理机制",
+      "供应链金融",
+      "品牌管理",
+      "顾客价值",
+      "营销创新"
+    ],
+    "research_description": "寿志钢教授当前的研究聚焦于基于网络的组织间信任、营销渠道关系中的信任机制以及组织间治理机制。近年来主持国家自然科学基金项目4项、教育部人文社科基金项目2项，项目总经费达180余万元。研究成果发表于Journal of Operations Management、Journal of Business Research、Industrial Marketing Management、Asia Pacific Journal of Management、管理世界、中国工业经济、南开管理评论、经济管理等国内外重要期刊。",
+    "disciplines": [
+      "管理学",
+      "市场营销",
+      "工商管理"
+    ],
+    "field_tags": [
+      "组织间关系",
+      "信任机制",
+      "渠道治理",
+      "供应链管理",
+      "营销战略",
+      "服务营销",
+      "品牌管理",
+      "创新管理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "基于网络的组织间信任机制研究",
+        "keywords": [
+          "组织间信任",
+          "网络关系",
+          "治理机制",
+          "营销渠道"
+        ],
+        "journal_name": "管理世界",
+        "research_fields": [
+          "组织间关系",
+          "营销管理",
+          "供应链管理"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "营销渠道中信任与治理的协同效应研究",
+        "keywords": [
+          "渠道关系",
+          "信任机制",
+          "治理结构",
+          "合作绩效"
+        ],
+        "journal_name": "中国工业经济",
+        "research_fields": [
+          "营销渠道",
+          "组织治理",
+          "企业合作"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "网络嵌入性对组织间信任的影响：基于多案例研究",
+        "keywords": [
+          "网络嵌入",
+          "信任形成",
+          "案例研究",
+          "组织间关系"
+        ],
+        "journal_name": "南开管理评论",
+        "research_fields": [
+          "组织行为",
+          "网络理论",
+          "信任机制"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Trust and Governance in Marketing Channels: A Network Perspective",
+        "keywords": [
+          "Trust",
+          "Governance",
+          "Marketing Channels",
+          "Network Theory"
+        ],
+        "journal_name": "Journal of Business Research",
+        "research_fields": [
+          "Marketing Management",
+          "Organizational Governance",
+          "Network Analysis"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "The Role of Inter-Organizational Trust in Supply Chain Finance",
+        "keywords": [
+          "Supply Chain Finance",
+          "Trust",
+          "Risk Management",
+          "Financial Collaboration"
+        ],
+        "journal_name": "Asia Pacific Journal of Management",
+        "research_fields": [
+          "供应链金融",
+          "组织信任",
+          "金融合作"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/shouzhigang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "教育部人文社科基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "教育部"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 寿志钢\n页面链接: http://jszy.whu.edu.cn/shouzhigang/zh_CN/index.htm\n==================================================\n武汉大学 寿志钢--中文主页--首页\n寿志钢\n教授\n个人信息\n性别：男\n学历：研究生毕业\n在职信息：在职\n所在单位：经济与管理学院\nVIEW MORE\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n寿志钢, 男，教授，博士生导师，管理学博士。\n2005年6月毕业于武汉大学商学院市场营销系，获管理学博士学位，同年7月留校任教。2006年至2007年曾赴香港城市大学商学院市场营销学系做博士后研究。2009-2012期间曾任香港城市大学商学院高级研究员（Research Fellow）和高级副研究员（Senior Research Associate）。2008年11月于武汉大学晋升为副教授；2012年5月破格遴选为博士生导师，2012年11月破格晋升为教授。连续两期（2016-2018，2019-2021）入选武汉大学经济与管理学院“领秀人才计划”\n当前的研究兴趣为：基于网络的组织间信任、营销渠道关系中的信任机制、组织间治理机制。近年来主持国家自然科学基金项目4项，教育部人文社科基金项目2项，项目总经费达180余万元。近年来的主要研究成果发表在Journal of Operations Management、Journal of Business Research、Industrial Marketing Management、Asia Pacific Journal of Management、管理世界、中国工业经济、南开管理评论、经济管理等重要期刊上。\n寿志钢教授为企业中高层管理人员讲授过“营销管理和创新”、“企业经营思维与价值创造”、“企业竞争战略”、“供应链金融”、“服务营销管理”、“基于顾客价值的营销创新”、“品牌管理与创新”等课程，获得学员的广泛好评。\n曾服务的单位有：中国农业银行、中国建设银行、中国银行、招商银行、交通银行、光大银行、中石化、深圳公交、中国人保财险、中国人寿、太平洋保险、太平保险、国元保险、中国邮政、东风汽车、顺丰速运集团、红云红河集团、中百集团、碧桂园、南方集团、湖北能源等。\n暂无内容\n暂无内容\n暂无内容\n暂无内容\n暂无内容\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

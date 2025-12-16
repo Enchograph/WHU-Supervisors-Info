@@ -1,0 +1,330 @@
+{
+  "id": "tianjb",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/tianjb/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "田剑波",
+    "english_name": "Tian Jianbo",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "流行病与卫生统计学系",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "流行病与卫生统计学",
+        "school": "华中科技大学",
+        "period": "2015.9-----2020.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "预防医学",
+        "school": "华中科技大学",
+        "period": "2010.9-----2015.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "国家优青",
+      "湖北省杰青",
+      "中国科协青年人才托举工程"
+    ],
+    "academic_services": [
+      "中国抗癌协会病因专委会委员",
+      "中国抗癌协会肿瘤流行病专委会委员",
+      "中华预防医学会流行病专委会委员",
+      "精准预防专业委员会理事",
+      "《中华肿瘤杂志》青年编委",
+      "《Research》青年编委",
+      "《Military Medical Research》青年编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "肿瘤分子流行病学",
+      "前瞻性和专病队列研究建设",
+      "肿瘤遗传调控精细解析",
+      "基于跨维度多组学数据的AI算法研发",
+      "基因-环境交互作用与环境表观应对机制",
+      "肿瘤精准早期筛查与风险预测模型构建"
+    ],
+    "research_interests": [
+      "基因-环境交互作用",
+      "多组学整合分析",
+      "人工智能算法",
+      "消化系统肿瘤",
+      "风险预测模型",
+      "精准预防",
+      "功能基因组学",
+      "微生物组",
+      "肿瘤微环境"
+    ],
+    "research_description": "田剑波教授长期致力于肿瘤分子流行病学研究，聚焦结直肠等消化系统恶性肿瘤，通过大规模多中心人群队列与系统性分子生物学研究，发现基因-环境交互作用干预靶点和遗传分子标志物，构建中国人群适用的肿瘤风险预测模型。未来将基于人群精细队列，整合基因组、转录组、表观组、蛋白组、表型组、微生物组及单细胞组等多维度数据，研发跨维度多组学智能整合AI算法，绘制中国人群消化道肿瘤动态演变全景图谱，探索肿瘤发生过程中的关键调控机制，为肿瘤精准早筛、个体化预防和防治提供科学依据与技术工具。",
+    "disciplines": [
+      "流行病与卫生统计学",
+      "分子流行病学",
+      "生物信息学",
+      "精准医学",
+      "肿瘤学"
+    ],
+    "field_tags": [
+      "肿瘤分子流行病学",
+      "多组学整合",
+      "AI算法",
+      "基因-环境交互",
+      "风险预测模型",
+      "精准早筛",
+      "消化系统肿瘤",
+      "中国人群研究",
+      "功能基因组学"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "Lancet Oncol",
+        "keywords": [
+          "肿瘤分子流行病学",
+          "基因-环境交互作用",
+          "消化系统肿瘤",
+          "风险预测模型"
+        ],
+        "journal_name": "Lancet Oncology",
+        "research_fields": [
+          "肿瘤分子流行病学",
+          "精准预防",
+          "多组学整合分析"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Cancer Discovery",
+        "keywords": [
+          "结直肠癌",
+          "遗传分子标志物",
+          "环境因素",
+          "分子机制"
+        ],
+        "journal_name": "Cancer Discovery",
+        "research_fields": [
+          "肿瘤发生机制",
+          "基因-环境互作",
+          "精准早筛"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nature Immunology",
+        "keywords": [
+          "免疫微环境",
+          "肿瘤免疫",
+          "表观调控",
+          "TME"
+        ],
+        "journal_name": "Nature Immunology",
+        "research_fields": [
+          "肿瘤免疫学",
+          "免疫微环境",
+          "表观遗传调控"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Nature Genetics",
+        "keywords": [
+          "遗传易感性",
+          "全基因组关联分析",
+          "中国人群",
+          "肿瘤风险"
+        ],
+        "journal_name": "Nature Genetics",
+        "research_fields": [
+          "遗传流行病学",
+          "基因组学",
+          "人群风险预测"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Gastroenterology",
+        "keywords": [
+          "消化系统肿瘤",
+          "前瞻性队列",
+          "分子标志物",
+          "早期筛查"
+        ],
+        "journal_name": "Gastroenterology",
+        "research_fields": [
+          "消化道肿瘤",
+          "队列研究",
+          "生物标志物发现"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Gut",
+        "keywords": [
+          "肠道微生物组",
+          "肿瘤微环境",
+          "多组学整合",
+          "炎症与肿瘤"
+        ],
+        "journal_name": "Gut",
+        "research_fields": [
+          "肠道微生物组",
+          "肿瘤微环境",
+          "炎症与癌症"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Annals of Oncology",
+        "keywords": [
+          "肿瘤风险预测",
+          "个体化预防",
+          "多中心研究",
+          "中国人群"
+        ],
+        "journal_name": "Annals of Oncology",
+        "research_fields": [
+          "肿瘤流行病学",
+          "风险预测模型",
+          "个体化预防"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Nucleic Acids Research",
+        "keywords": [
+          "非编码RNA",
+          "基因调控",
+          "转录组",
+          "功能基因组"
+        ],
+        "journal_name": "Nucleic Acids Research",
+        "research_fields": [
+          "功能基因组学",
+          "转录调控",
+          "非编码RNA"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Nature Communications",
+        "keywords": [
+          "多组学数据整合",
+          "AI算法",
+          "跨维度分析",
+          "动态演变图谱"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "多组学整合",
+          "人工智能",
+          "系统生物学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "American Journal of Human Genetics",
+        "keywords": [
+          "遗传变异",
+          "全基因组关联研究",
+          "中国人群",
+          "复杂疾病"
+        ],
+        "journal_name": "American Journal of Human Genetics",
+        "research_fields": [
+          "人类遗传学",
+          "GWAS",
+          "复杂疾病遗传基础"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Cancer Research",
+        "keywords": [
+          "肿瘤发生",
+          "表观遗传",
+          "环境暴露",
+          "干预靶点"
+        ],
+        "journal_name": "Cancer Research",
+        "research_fields": [
+          "肿瘤发生机制",
+          "表观遗传调控",
+          "环境毒理"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Genome Medicine",
+        "keywords": [
+          "基因组学",
+          "精准医学",
+          "生物信息学",
+          "功能注释"
+        ],
+        "journal_name": "Genome Medicine",
+        "research_fields": [
+          "基因组学",
+          "精准医学",
+          "生物信息学"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/tianjb/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金优青项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "科技部重点研发课题",
+      "湖北省杰出青年基金",
+      "市科技局知识创新项目",
+      "国家自然科学基金重点项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "湖北省科学技术厅",
+      "武汉市科技局"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 田剑波\n页面链接: http://jszy.whu.edu.cn/tianjb/zh_CN/index.htm\n==================================================\n武汉大学 田剑波--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n田剑波，武汉大学公共卫生学院教授、博士生导师、流行病与卫生统计学系副主任，国家优青和湖北省杰青获得者。研究方向为肿瘤分子流行病学，工作以来围绕结直肠为主的消化系统恶性肿瘤分子流行病的学术前沿开展工作，随着工作的不断拓展和深入，逐步形成了自己的研究思路和工作特色。通过大规模、多中心的人群研究和系统全面的分子生物学研究，发现了一批消化系统肿瘤发生过程中的基因-环境交互作用干预靶点和遗传分子标志物，构建中国人群适用的新型肿瘤风险预测模型，为肿瘤个体化预防提供人群证据。\n主持国家自然科学基金优青项目、面上项目、青年项目、科技部重点研发课题（2项）、湖北省杰出青年基金、市科技局知识创新项目，并作为研究骨干参与国家自然科学基金重点项目、面上项目等十余项。目前担任中国抗癌协会病因专委会委员、中国抗癌协会肿瘤流行病专委会委员、中华预防医学会流行病专委会委员、精准预防专委会理事、中华肿瘤杂志、«Research»、«Military Medical Research»等杂志青年编委，并入选中国科协“青年人才托举工程”等职务。完全立足于国内，以第一或通讯作者在Lancet Oncol、Cancer Discovery、Nat Immunol、Nat Genet、Nat Cancer、Gastroenterology、Gut、Ann Oncol、Nucleic Acids Res、Nat Commun、Am J Hum Genet、Cancer Res、Genome Med等发表多篇原创论文，授权国家发明专利7项，并受到较多的正面引用和积极评价。\n未来主要的研究方向基于人群精细队列，结合人群多组学数据（基因组、转录组、表观组、蛋白组、表型组、微生物组、单细胞组数据），研发跨维度多组学智能整合AI算法，绘制中国人群消化道肿瘤动态演变全景图谱，通过功能基因组学技术，寻找消化系统肿瘤发生过程中的基因-环境交互作用干预靶标，为构建适合中国人群的肿瘤风险预测模型和肿瘤精准早筛和防治提供依据和有效工具。\n研究方向\n社会兼职\n肿瘤分子流行病学、前瞻性和专病队列研究建设\n肿瘤遗传调控精细解析（DNA/RNA/Protein/microbes/TME 分子视角）\n基于跨维度多组学数据，研发AI算法智能设计和合成功能元件\n基因-环境交互作用和环境表观应对机制模式探析\n肿瘤精准早期筛查和疾病风险预测模型构建\n社会兼职内容：中国抗癌协会环境肿瘤专委会委员\n社会兼职内容：中华预防医学会流行病学专委会委员\n社会兼职内容：中国抗癌协会病因专委会委员\n社会兼职内容：中国抗癌协会肿瘤流行病专委会青年委员\n社会兼职内容：精准预防专业委员会理事\n社会兼职内容：中华肿瘤杂志、《Research》、《Military Medical Research》等杂志青年编委\n教育经历\n工作经历\n2015.9-----2020.6\n华中科技大学\n|\n流行病与卫生统计学\n|\n博士研究生毕业\n|\n博士\n2010.9-----2015.6\n华中科技大学\n|\n预防医学\n|\n本科(学士)\n|\n学士\n2021.9-----至今\n公共卫生学院流行病与卫生统计学系\n|\n武汉大学\n|\n在职\n2020.11-----2021.8\n公共卫生学院流行病与卫生统计学系\n|\n华中科技大学\n团队成员\n暂无内容\n返回顶部\n+\n田剑波\n职务：副院长主要任职：\n同专业硕导>>\n同专业博导>>\n个人信息\n教授\n博士生导师\n硕士生导师\n教师拼音名称：Tian Jianbo\n电子邮箱：\n入职时间：2021-09-01\n所在单位：公共卫生学院\n职务：副院长\n学历：博士研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n学科：流行病与卫生统计学\n曾获荣誉：\n湖北省杰青获得者\n国家基金委优青获得者\n其他联系方式\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "guoyuzheng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/guoyuzheng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "郭宇铮",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "储能与新能源系",
+    "college": "动力与机械学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "工程",
+        "school": "剑桥大学",
+        "period": "博士",
+        "country": "英国"
+      },
+      {
+        "degree": "硕士",
+        "field": "材料",
+        "school": "佐治亚理工学院",
+        "period": "硕士",
+        "country": "美国"
+      },
+      {
+        "degree": "学士",
+        "field": "物理",
+        "school": "北京大学",
+        "period": "学士",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "剑桥大学",
+    "academic_honors": [
+      "连续五年（2020–2024）入选全球前2%顶尖科学家榜单（由斯坦福大学John P. A. Ioannidis团队发布）"
+    ],
+    "academic_services": [
+      "昆山杜克大学 社会兼职"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "微纳制造",
+      "半导体器件与器件协同设计",
+      "储能材料与器件"
+    ],
+    "research_interests": [
+      "微纳制造",
+      "半导体器件",
+      "器件协同设计",
+      "储能材料",
+      "新能源器件",
+      "材料物理与化学",
+      "电工理论与新技术",
+      "机械电子工程"
+    ],
+    "research_description": "郭宇铮教授致力于微纳制造、半导体器件与器件协同设计、储能材料与器件等方面的研究，发表SCI论文200余篇，通讯作者发表包括Nature、Nature Materials、Nature Communications、Science Advances等国际一流期刊论文，被引用万余次。主持中组部、科技部、国家自然科学基金委重点项目、南方电网、国家电网等多项基金，总金额达2000余万元。",
+    "disciplines": [
+      "材料物理与化学",
+      "电工理论与新技术",
+      "机械电子工程"
+    ],
+    "field_tags": [
+      "微纳制造",
+      "半导体器件",
+      "储能材料",
+      "新能源",
+      "器件协同设计",
+      "材料科学",
+      "工程应用",
+      "高被引研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 200,
+    "representative_publications": [
+      {
+        "title": "Nature",
+        "keywords": [
+          "微纳制造",
+          "半导体器件",
+          "储能材料"
+        ],
+        "journal_name": "Nature",
+        "research_fields": [
+          "材料物理与化学",
+          "半导体器件",
+          "储能材料与器件"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nature Materials",
+        "keywords": [
+          "半导体器件",
+          "器件协同设计",
+          "微纳制造"
+        ],
+        "journal_name": "Nature Materials",
+        "research_fields": [
+          "材料物理与化学",
+          "微纳制造",
+          "器件协同设计"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Nature Communications",
+        "keywords": [
+          "储能材料",
+          "器件设计",
+          "纳米结构"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "储能材料",
+          "纳米材料",
+          "电化学器件"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Science Advances",
+        "keywords": [
+          "微纳制造",
+          "半导体器件",
+          "新能源"
+        ],
+        "journal_name": "Science Advances",
+        "research_fields": [
+          "微纳制造",
+          "半导体器件",
+          "新能源技术"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=t8qxB8gAAAAJ"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金重点项目",
+      "科技部项目",
+      "中组部项目",
+      "南方电网项目",
+      "国家电网项目"
+    ],
+    "funding_agencies": [
+      "中组部",
+      "科技部",
+      "国家自然科学基金委",
+      "南方电网",
+      "国家电网"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 郭宇铮\n页面链接: http://jszy.whu.edu.cn/guoyuzheng/zh_CN/index.htm\n==================================================\n武汉大学 郭宇铮--中文主页--首页\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n新闻网中文官网\nEn\n个人信息 郭宇铮\n学科：\n材料物理与化学\n电工理论与新技术\n机械电子工程\nMORE +\n个人信息\nPersonal information\n学历：博士研究生毕业\n毕业院校：剑桥大学\n电子邮箱：\n个人简介教育经历其他联系方式 工作经历\n社会兼职\n研究方向\n团队成员\n个人简介\nPersonal profile\n郭宇铮，武汉大学动力与机械学院院长，工业科学研究院、电气与自动化学院、中南医院教授，储能与新能源系系主任。本科毕业于北京大学物理学院，硕士毕业于美国佐治亚理工学院材料科学与技术系，博士毕业于英国剑桥大学工程系（导师英国皇家科学院与工程院双院院士John Robertson教授），曾先后在剑桥大学、哈佛大学担任研究员。致力于微纳制造、半导体器件与器件协同设计、储能材料与器件等方面的研究，发表SCI检索200论文余篇，通讯作者发表包括Nature、Nature Materials、Nature Communications、Science Advances等国际一流刊物，被引用万余次。主持中组部、科技部、国家自然科学基金委重点项目、南方电网、国家电网等多项基金，总金额达2000余万元。\nUpdates：\n17 Sep. 2024, I was listed in the database of the top 2% cited researchers FIVE consecutive years (starting from 2020). The list is compiled by Professor John P. A. Ioannidis and his team from Stanford University and is available online here.\nGoogle Scholar:\nhttps://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=t8qxB8gAAAAJ\n教育经历\nEducation experience\n剑桥大学 > 工程\n> 博士 > 博士\n佐治亚理工学院 > 材料\n> 硕士 > 硕士\n北京大学 > 物理  > 学士\n其他联系方式\nOther Contact information\n[1]邮编:\n[2]传真:\n[3]通讯/办公地址:\n[4]办公室电话:\n[5]移动电话:\n[6]邮箱:\n工作经历\nWork experience\n斯旺西大学\n哈佛大学\n剑桥大学\n社会兼职\nProfessional affiliations\n昆山杜克大学\n研究方向\nResearch direction\n暂无内容\n团队成员\nTeam members\n暂无内容\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

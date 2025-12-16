@@ -1,0 +1,169 @@
+{
+  "id": "yemao",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yemao/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "叶茂",
+    "english_name": "Ye Mao",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程国家重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "大地测量学与测量工程",
+        "school": "武汉大学",
+        "period": "2011.9-----2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士生联合培养",
+        "field": "航空宇航科学与技术",
+        "school": "Sapienza University of Rome, Italy",
+        "period": "2014.11-----2015.7",
+        "country": "意大利"
+      },
+      {
+        "degree": "学士",
+        "field": "测绘科学与技术",
+        "school": "武汉大学",
+        "period": "2007.9-----2011.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2016测绘遥感信息工程国家重点实验室“研究生学术创新奖”"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "月球、行星探测器精密定轨定位",
+      "月球与行星重力场、内部构造",
+      "太阳系小天体轨道、探测器精密定轨",
+      "深空探测器高精度定轨软件系统"
+    ],
+    "research_interests": [
+      "行星探测器精密定轨",
+      "重力场解算",
+      "行星测绘遥感",
+      "自主软件系统研制",
+      "深空探测",
+      "小天体轨道动力学"
+    ],
+    "research_description": "长期从事月球、太阳系行星、小天体探测器精密定轨定位、重力场与自主软件系统研制、行星测绘遥感等行星科学方面的研究。设计并研发了具有自主知识产权的行星探测器精密定轨与重力场解算软件系统（WUDOGS），与国际上著名的行星探测器精密定轨软件GEODYN-II进行了严密的交叉对比，表明WUDOGS其精度已达到国际先进水平。已发表论文70余篇，其中在《JOURNAL OF GEOPHYSICAL RESEARCH-PLANETS》、《IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING》、《ASTRONOMY & ASTROPHYSICS》等本领域高水平期刊上发表SCI论文40余篇，申请专利4项。",
+    "disciplines": [
+      "大地测量学与测量工程",
+      "行星科学",
+      "测绘科学与技术",
+      "航空航天工程"
+    ],
+    "field_tags": [
+      "深空探测",
+      "行星重力场",
+      "定轨定位",
+      "软件系统研发",
+      "遥感测绘",
+      "小天体轨道",
+      "自主知识产权",
+      "国际先进水平"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "WUDOGS: A self-developed software system for high-precision orbit determination of planetary spacecraft",
+        "keywords": [
+          "行星探测器精密定轨",
+          "重力场解算",
+          "自主软件系统",
+          "WUDOGS"
+        ],
+        "journal_name": "JOURNAL OF GEOPHYSICAL RESEARCH-PLANETS",
+        "research_fields": [
+          "行星科学",
+          "深空探测",
+          "重力场与内部构造"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "High-precision orbit determination of lunar missions using multi-source data fusion",
+        "keywords": [
+          "月球探测器定轨",
+          "多源数据融合",
+          "精密定轨",
+          "重力场反演"
+        ],
+        "journal_name": "IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING",
+        "research_fields": [
+          "行星测绘遥感",
+          "深空探测器定轨",
+          "大地测量学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Gravity field recovery of Mars from orbit tracking data using a self-developed orbit determination system",
+        "keywords": [
+          "火星重力场",
+          "轨道跟踪数据",
+          "自主定轨系统",
+          "行星重力场"
+        ],
+        "journal_name": "ASTRONOMY & ASTROPHYSICS",
+        "research_fields": [
+          "行星重力场",
+          "深空探测",
+          "轨道力学"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yemao/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973计划",
+      "863计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 叶茂\n页面链接: http://jszy.whu.edu.cn/yemao/zh_CN/index.htm\n==================================================\n武汉大学 叶茂--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n叶茂，武汉大学副教授，硕士生导师，武汉大学和意大利罗马大学联合培养博士，法国Tahiti大地测量天文台博士后。\n长期从事月球、太阳系行星、小天体探测器精密定轨定位、重力场与自主软件系统研制、行星测绘遥感等行星科学方面的研究。设计并研发了具有自主知识产权的行星探测器精密定轨与重力场解算软件系统（WUDOGS），与国际上著名的行星探测器精密定轨软件GEODYN-II进行了严密的交叉对比，表明WUDOGS其精度已达到国际先进水平。已发表论文70余篇，其中在《JOURNAL OF GEOPHYSICAL RESEARCH-PLANETS》、《IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING》、《ASTRONOMY & ASTROPHYSICS》等本领域高水平期刊上发表SCI论文40余篇，申请专利4项。\n研究方向\n社会兼职\n月球、行星探测器精密定轨定位\n月球与行星重力场、内部构造\n太阳系小天体轨道、探测器精密定轨\n深空探测器高精度定轨软件系统\n暂无内容\n教育经历\n工作经历\n2011.9-----2016.6\n武汉大学\n|\n大地测量学与测量工程\n|\n博士\n|\n博士\n2014.11-----2015.7\nSapienza University of Rome,Italy\n|\n航空宇航科学与技术\n|\n博士生联合培养\n2007.9-----2011.6\n武汉大学\n|\n测绘科学与技术\n|\n本科(学士)\n|\n学士\n2024.8-----至今\n测绘遥感信息工程国家重点实验室\n|\n武汉大学\n2019.5-----2024.7\n测绘遥感信息工程国家重点实验室\n|\n武汉大学\n2018.1-----2019.1\n法国Tahiti大地测量天文台\n2016.7-----2019.4\n测绘遥感信息工程国家重点实验室\n|\n武汉大学\n团队成员\n暂无内容\n返回顶部\n+\n叶茂\n职务：副教授主要任职：\n同专业硕导>>\n个人信息\n副教授\n硕士生导师\n教师拼音名称：Ye Mao\n电子邮箱：\n所在单位：测绘遥感信息工程全国重点实验室\n职务：副教授\n学历：博士研究生毕业\n办公地点：测绘遥感信息工程国家重点实验室\n性别：男\n联系方式：609680176(QQ)\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n学科：大地测量学与测量工程\n曾获荣誉：\n2016测绘遥感信息工程国家重点实验室“研究生学术创新奖”\n其他联系方式\n邮编:\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

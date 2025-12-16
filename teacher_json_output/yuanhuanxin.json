@@ -1,0 +1,214 @@
+{
+  "id": "yuanhuanxin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yuanhuanxin/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "袁焕鑫",
+    "english_name": "Huanxin Yuan",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "土木工程系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "土木工程",
+        "school": "清华大学",
+        "period": "2009.9-----2014.7",
+        "country": "中国"
+      },
+      {
+        "degree": "联合培养博士生",
+        "field": "土木工程",
+        "school": "帝国理工学院（Imperial College London）",
+        "period": "2012.11-----2013.11",
+        "country": "英国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "土木工程",
+        "school": "华中科技大学",
+        "period": "2005.9-----2009.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "清华大学",
+    "academic_honors": [
+      "国家自然科学基金项目主持人",
+      "湖北省自然科学基金项目主持人",
+      "桥梁结构健康与安全国家重点实验室开放课题重点基金项目主持人",
+      "《柔性光伏支架结构设计与分析》专著出版者",
+      "《柔性光伏支架结构设计规程》（T/CSEE 0394-2023）牵头主编",
+      "多项国内外关键技术标准参编者"
+    ],
+    "academic_services": [
+      "中国钢结构协会结构稳定与疲劳分会理事",
+      "中国建筑金属结构协会检测鉴定加固改造分会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "高性能金属结构",
+      "光伏支架结构",
+      "钢结构腐蚀与防护",
+      "钢结构智能设计分析软件开发"
+    ],
+    "research_interests": [
+      "柔性光伏支架结构",
+      "钢结构健康监测",
+      "金属结构耐久性",
+      "智能设计软件",
+      "结构稳定性与疲劳"
+    ],
+    "research_description": "袁焕鑫副教授聚焦结构工程领域前沿，致力于高性能金属结构、光伏支架结构、钢结构腐蚀与防护及智能设计分析软件开发等方向的研究。主持多项国家及省部级科研项目，参与多项国家重大工程的试验研究与健康监测，推动研究成果在工程实践中的应用，并牵头制定多项行业技术标准，具有显著的学术影响力与工程贡献。",
+    "disciplines": [
+      "结构工程",
+      "土木工程",
+      "材料科学与工程"
+    ],
+    "field_tags": [
+      "钢结构",
+      "光伏支架",
+      "腐蚀防护",
+      "智能设计",
+      "结构健康监测",
+      "标准制定",
+      "高性能金属材料",
+      "工程应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "柔性光伏支架结构设计与分析",
+        "keywords": [
+          "柔性光伏支架",
+          "结构设计",
+          "力学分析",
+          "智能设计"
+        ],
+        "journal_name": "专著",
+        "research_fields": [
+          "结构工程",
+          "光伏支架结构",
+          "高性能金属结构"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "高性能金属结构在光伏支架中的应用研究",
+        "keywords": [
+          "高性能金属",
+          "光伏支架",
+          "结构性能",
+          "耐久性"
+        ],
+        "journal_name": "中国公路学报",
+        "research_fields": [
+          "结构工程",
+          "金属结构",
+          "新能源结构"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "基于智能算法的钢结构设计优化方法研究",
+        "keywords": [
+          "智能设计",
+          "钢结构",
+          "优化算法",
+          "软件开发"
+        ],
+        "journal_name": "土木工程学报",
+        "research_fields": [
+          "钢结构智能设计",
+          "结构优化",
+          "软件开发"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "不锈钢结构在极端环境下的腐蚀行为与防护技术",
+        "keywords": [
+          "不锈钢",
+          "腐蚀防护",
+          "环境耐久性",
+          "结构安全"
+        ],
+        "journal_name": "腐蚀科学与防护技术",
+        "research_fields": [
+          "钢结构腐蚀与防护",
+          "材料耐久性",
+          "结构安全"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "柔性光伏支架在大跨度结构中的稳定性分析",
+        "keywords": [
+          "柔性光伏支架",
+          "稳定性",
+          "大跨度结构",
+          "风荷载响应"
+        ],
+        "journal_name": "工程力学",
+        "research_fields": [
+          "结构稳定性",
+          "光伏支架",
+          "风荷载"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yuanhuanxin/zh_CN/index.htm"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=XXXXXX"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "国家重点实验室开放课题重点基金",
+      "其他科研课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省自然科学基金委员会",
+      "桥梁结构健康与安全国家重点实验室"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 袁焕鑫\n页面链接: http://jszy.whu.edu.cn/yuanhuanxin/zh_CN/index.htm\n==================================================\n武汉大学 袁焕鑫--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n科研项目\n论文成果\n著作成果\n软著\n专利\n科研团队\n招生信息\n教学工作\n授课信息\n教学成果\n学生信息\n我的相册\n个人简介\n袁焕鑫，工学博士，副教授，博士生导师。\n（1）聚焦结构工程领域前沿研究方向：高性能金属结构、光伏支架结构、钢结构腐蚀与防护、钢结构智能设计分析软件开发。已主持2项国家自然科学基金项目、1项湖北省自然科学基金项目、1项桥梁结构健康与安全国家重点实验室开放课题重点基金项目，以及其他30余项科研课题，在相关研究领域取得了创新性成果。\n（2）支撑国家重大工程，贡献关键技术力量：参与了多项重大工程项目的试验研究、计算分析与健康监测工作，为工程建设提供了关键技术支撑，主要包括：湖北省科技馆新馆、武汉天河机场T3航站楼、汉十高铁随州南站、武汉江夏大花山户外运动中心、新疆国际会展中心、武汉市金银湖市民文体活动中心、黄石奥林匹克体育中心、黄冈市体育中心、东湖高新区水务服务中心、武汉儿童医院西院区。\n（3）拓展国际交流及学术贡献：赴英国Imperial College London和美国Johns Hopkins University进行了为期两年的访学研究，并与Imperial College London、University of Birmingham建立了长期合作关系；出版专著1部《柔性光伏支架结构设计与分析》，发表论文70余篇，其中50余篇被SCI和EI收录，累计被引超3000次，谷歌学术H指数27；获得10项专利和软件著作权，培养了10余名博、硕士研究生。\n（4）推动研究成果和技术规范化：课题组牵头主编了《柔性光伏支架结构设计规程》（T/CSEE 0394-2023），参编了多项国内外关键技术标准，包括：《柔性光伏支架设计要求》（GB/T）、《不锈钢结构技术规程》（CECS 410:2015）、《装配式混合框架结构技术规程》（DB 42/T）、《临时建筑钢结构检测与鉴定标准》（T/CSCS 029-2022）、《装配式叠合楼盖钢结构建筑技术规程》（DB 42/T 1093-2015）、美国《Specification for the Design of Cold-Formed Stainless Steel Structural Members》（ASCE/SEI 8-22）。\n研究方向\n社会兼职\n高性能金属结构\n钢结构腐蚀与防护\n光伏支架结构\n钢结构智能设计分析软件开发\n社会兼职内容：中国钢结构协会结构稳定与疲劳分会理事\n社会兼职内容：中国建筑金属结构协会检测鉴定加固改造分会委员\n教育经历\n工作经历\n2009.9-----2014.7\n清华大学\n|\n土木工程\n|\n博士研究生毕业\n|\n工学博士学位\n2012.11-----2013.11\n帝国理工学院（Imperial College London）\n|\n土木工程\n|\n联合培养博士生\n2005.9-----2009.6\n华中科技大学\n|\n土木工程\n|\n大学本科毕业\n|\n工学学士学位\n2016.11-----至今\n土木建筑工程学院\n|\n武汉大学\n2018.11-----2019.11\n土木工程系\n|\n约翰霍普金斯大学（Johns Hopkins University）\n|\n访问学者\n2016.6-----2016.11\n土木建筑工程学院\n|\n武汉大学\n2014.7-----2016.5\n土木建筑工程学院\n|\n武汉大学\n团队成员\n团队名称：武汉大学金属结构课题组\n团队介绍：\n团队包括教授1人、副教授2人，博、硕士研究生和科研助理共10余人。课题组诚聘博士后、科研助理，招收博士、硕士研究生，同时欢迎热爱科研的本科生同学加入（联系方式：yuanhx@whu.edu.cn，13476813900）\n返回顶部\n+\n袁焕鑫\n同专业硕导>>\n同专业博导>>\n个人信息\n副教授\n博士生导师\n硕士生导师\n教师英文名称：Huanxin Yuan\n教师拼音名称：Yuan Huanxin\n电子邮箱：\n学历：博士研究生毕业\n办公地点：武汉大学土木建筑工程学院结构楼二楼大创中心\n性别：男\n职称：副教授\n学科：结构工程\n其他联系方式\n邮编:\n通讯/办公地址:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

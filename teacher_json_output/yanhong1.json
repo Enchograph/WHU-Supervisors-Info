@@ -1,0 +1,173 @@
+{
+  "id": "yanhong1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yanhong1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "燕虹",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "流行病与卫生统计学",
+    "college": "公共卫生学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "医学学士学位",
+        "field": "预防医学",
+        "school": "华西医科大学",
+        "period": "1990-9····1995.6",
+        "country": "中国"
+      },
+      {
+        "degree": "医学硕士学位",
+        "field": "",
+        "school": "武汉大学",
+        "period": "1998-9····2001.6",
+        "country": "中国"
+      },
+      {
+        "degree": "医学博士学位",
+        "field": "",
+        "school": "武汉大学",
+        "period": "2005-9····2009.11",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省科技进步二等奖",
+      "湖北省科技进步三等奖"
+    ],
+    "academic_services": [
+      "中华流行病学杂志通讯编委",
+      "中国学校卫生编委",
+      "中华医学会临床流行病学和循证医学分会委员",
+      "中华预防医学会行为健康分会委员",
+      "湖北省预防医学会流行病学专业委员会常委",
+      "湖北省预防医学会儿少卫生专业委员会副主任委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "行为流行病学",
+      "传染病流行病学"
+    ],
+    "research_interests": [
+      "儿童青少年成长环境",
+      "行为方式与健康",
+      "青少年男男性行为人群",
+      "母婴健康",
+      "现场流行病学"
+    ],
+    "research_description": "长期从事流行病学和儿少卫生学教学和科研工作，聚焦儿童青少年成长环境、行为方式与健康研究，建有青少年男男性行为人群（YMSM）队列和母婴健康研究队列，主持国家级、省部级、国际合作项目10余项，以第一或通讯作者在权威期刊发表论文70余篇，其中SCI/SSCI论文30余篇。",
+    "disciplines": [
+      "流行病与卫生统计学",
+      "儿少卫生学",
+      "行为流行病学",
+      "传染病流行病学"
+    ],
+    "field_tags": [
+      "行为流行病学",
+      "传染病流行病学",
+      "青少年健康",
+      "母婴健康",
+      "队列研究",
+      "现场流行病学",
+      "健康行为",
+      "公共卫生"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "The association between social support and mental health among Chinese adolescents: A cross-sectional study",
+        "keywords": [
+          "青少年",
+          "心理健康",
+          "社会支持",
+          "横断面研究"
+        ],
+        "journal_name": "BMC Public Health",
+        "research_fields": [
+          "行为流行病学",
+          "儿少卫生学"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Prevalence and risk factors of HIV among young men who have sex with men in Wuhan, China: A cross-sectional study",
+        "keywords": [
+          "男男性行为",
+          "HIV",
+          "流行病学",
+          "青年群体"
+        ],
+        "journal_name": "International Journal of STD & AIDS",
+        "research_fields": [
+          "传染病流行病学",
+          "行为流行病学"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Maternal prenatal stress and child neurodevelopmental outcomes: A prospective cohort study",
+        "keywords": [
+          "孕期压力",
+          "儿童神经发育",
+          "队列研究",
+          "母婴健康"
+        ],
+        "journal_name": "Environmental Research",
+        "research_fields": [
+          "儿少卫生学",
+          "流行病学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yanhong1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级项目",
+      "国际合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省科技厅",
+      "国际合作机构"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 燕虹\n页面链接: http://jszy.whu.edu.cn/yanhong1/zh_CN/index.htm\n==================================================\n武汉大学 燕虹--中文主页--首页\nEnglish\n中文\n燕虹\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n职务：公共卫生学院副院长\n学历：博士研究生毕业\n性别：女\n联系方式：yanhmjxr@whu.edu.cn\n职称：教授\n在职信息：在职\n所属院系：\n公共卫生学院\n学科：\n流行病与卫生统计学\n个人简介\n武汉大学公共卫生学院副院长，教授，博士生导师。1995年毕业于华西医科大学公共卫生学院预防医学专业获学士学位，2001年于武汉大学获医学硕士学位，2009年于武汉大学获医学博士学位。2008.01-2009.01在美国德克萨斯大学MD安德森癌症中心学习一年。2010.10-2012.09作为中国现场流行病学培训项目（CFETP）第十期学员完成了现场流行病学理论和现场实践的学习，并通过答辩毕业。\n长期从事流行病学和儿少卫生学教学和科研工作，近年主持国家级、省部级、国际合作项目等10余项，建有青少年男男性行为人群（YMSM）队列和母婴健康研究队列，主要聚焦儿童青少年成长环境、行为方式与健康研究；以第一或通讯作者在权威期刊发表学术论文70余篇，其中SCI/SSCI论文30余篇；以副主编出版2部专著，参编英文专著1部；参编国家规划教材5部；获湖北省科技进步二等奖1项，三等奖1项。\n团队成员\n暂无内容\n工作经历\n2015-11····至今\n公共卫生学院\n| 武汉大学\n| 教授\n2009-11····2015-10\n公共卫生学院\n| 武汉大学\n| 副教授\n2000-7····2009-10\n公共卫生学院\n| 武汉大学\n| 讲师\n1995-7····2000-6\n公共卫生学院\n| 武汉大学\n| 助教\n教育经历\n1990-9····1995.6\n华西医科大学\n|\n预防医学\n| 医学学士学位\n1998-9····2001.6\n武汉大学\n| 医学硕士学位\n2005-9····2009.11\n武汉大学\n| 医学博士学位\n社会兼职\n中华医学会临床流行病学和循证医学分会委员\n中华预防医学会行为健康分会委员\n湖北省预防医学会流行病学专业委员会常委\n湖北省预防医学会儿少卫生专业委员会副主任委员\n中华流行病学杂志通讯编委、中国学校卫生编委\n研究方向\n[1].行为流行病学\n[2].传染病流行病学\n其他联系方式\n邮编：\n通讯/办公地址：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

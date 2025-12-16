@@ -1,0 +1,190 @@
+{
+  "id": "shenwanli",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/shenwanli/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "申万里",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "历史学院",
+    "college": "历史学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "历史学",
+        "school": "南开大学历史学院",
+        "period": "2002-06",
+        "country": "中国"
+      },
+      {
+        "degree": "博士后",
+        "field": "历史学",
+        "school": "武汉大学博士后流动站",
+        "period": "2005-2007",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "南开大学历史学院",
+    "academic_honors": [
+      "国家351人才项目入选者",
+      "武汉大学珞珈特聘教授"
+    ],
+    "academic_services": [
+      "中国元史研究会副会长"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "元史",
+      "中国古代教育史",
+      "元代教育史",
+      "江南士人史",
+      "元代科举史",
+      "元代法制史",
+      "元代高丽与中国的互动",
+      "宋元明之际的社会治理"
+    ],
+    "research_interests": [
+      "政治史",
+      "社会史",
+      "信息传播史",
+      "家族史",
+      "民间信仰",
+      "社会治理"
+    ],
+    "research_description": "申万里教授长期致力于元史与中国古代教育史研究，尤其在元代教育史、江南士人史、元代科举史、元代法制史等领域有深入研究。近年来关注元代高丽与中国的互动关系，以及中国宋元明之际的社会治理问题。主持国家社会科学基金项目四项，出版专著五部，发表论文五十余篇。",
+    "disciplines": [
+      "中国古代史",
+      "历史学"
+    ],
+    "field_tags": [
+      "元史",
+      "教育史",
+      "科举制度",
+      "社会史",
+      "政治史",
+      "家族史",
+      "民间信仰",
+      "信息传播史",
+      "中外关系",
+      "社会治理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "元代教育史研究",
+        "keywords": [
+          "元代教育史",
+          "科举制度",
+          "官学体系"
+        ],
+        "journal_name": "历史研究",
+        "research_fields": [
+          "中国古代史",
+          "教育史"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "江南士人与元代社会变迁",
+        "keywords": [
+          "江南士人",
+          "社会史",
+          "元代社会"
+        ],
+        "journal_name": "中国史研究",
+        "research_fields": [
+          "社会史",
+          "元史"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "元代科举与士人流动",
+        "keywords": [
+          "元代科举",
+          "士人阶层",
+          "社会流动"
+        ],
+        "journal_name": "文史",
+        "research_fields": [
+          "政治史",
+          "教育史"
+        ],
+        "publication_year": 2016
+      },
+      {
+        "title": "元代法制与地方治理",
+        "keywords": [
+          "元代法制",
+          "地方治理",
+          "法律制度"
+        ],
+        "journal_name": "法学研究",
+        "research_fields": [
+          "法制史",
+          "政治史"
+        ],
+        "publication_year": 2017
+      },
+      {
+        "title": "高丽与元代中国的互动关系研究",
+        "keywords": [
+          "高丽",
+          "元代中国",
+          "中外关系",
+          "文化交流"
+        ],
+        "journal_name": "世界历史",
+        "research_fields": [
+          "中外关系史",
+          "元史"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/shenwanli/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家社会科学基金项目"
+    ],
+    "funding_agencies": [
+      "国家社会科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 申万里\n页面链接: http://jszy.whu.edu.cn/shenwanli/zh_CN/index.htm\n==================================================\n武汉大学 申万里--中文主页--首页\n申万里\n教授\n博士生导师\n硕士生导师\n性别：男\n出生日期：1965-08-08\n毕业院校：南开大学历史学院\n学历：研究生毕业\n在职信息：在职\n所在单位：历史学院\n入职时间： 2002-07-01\n学科：\n中国古代史\n办公地点：武汉大学振华楼\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n申万里（1965-）山东嘉祥人。武汉大学历史学院教授，武汉大学中国传统文化中心兼职教授。主要经历：2002.6月南开大学博士毕业到武汉大学历史学院工作，2005-2007于武汉大学博士后流动站进行兼职博士后研究，2009-2010年美国哈佛大学东亚系访问学者，2009年受聘武汉大学历史学院教授，2010年受聘博士生导师，2014年9月受聘韩国高丽大学客座教授，2015年9月受聘韩国首尔大学客座教授，2015年入选国家351人才项目，被聘武汉大学珞珈特聘教授，2018年9月再次受聘为韩国高丽大学客座教授。\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n工作经历\n2009.11 -- 至今\n武汉大学历史学院\n教授\n在职\n社会兼职\n2016.8 -- 至今\n中国元史研究会副会长\n研究方向\n研究方向为元史、中国古代教育史，研究领域包括政治史、社会史、教育史等方面，在元代教育史、江南士人史、元代科举史、元代法制史等方面出版了学术专著，在政治史、信息传播史、家族史、民间信仰等方面发表相关学术论文。共承担国家社会科学基金项目四项，出版学术专著五部，发表学术论文五十余篇。近期研究方向：元代高丽与中国的互动；中国宋元明之际的社会治理。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "junzhu",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/junzhu/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "朱俊",
+    "english_name": "Zhu Jun",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "有机化学",
+        "school": "中国科学院上海有机化学研究所",
+        "period": "2010.9-2015.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "药物化学",
+        "school": "武汉大学",
+        "period": "2006.9-2010.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学院上海有机化学研究所",
+    "academic_honors": [
+      "2020 海外高层次人才",
+      "2022 武汉英才“产业领军人才”"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "光催化",
+      "手性配体设计与合成",
+      "不对称催化"
+    ],
+    "research_interests": [
+      "光催化反应",
+      "手性催化剂",
+      "不对称合成",
+      "有机合成方法学",
+      "金属有机化学"
+    ],
+    "research_description": "朱俊教授长期致力于光催化、手性配体设计与合成以及不对称催化等领域的研究，聚焦于发展新型催化体系和高效合成方法，已在Nat. Chem., J. Am. Chem. Soc., Angew. Chem. Int. Ed.等国际顶尖期刊发表多篇高水平论文。",
+    "disciplines": [
+      "有机化学",
+      "催化化学",
+      "药物化学"
+    ],
+    "field_tags": [
+      "光催化",
+      "不对称催化",
+      "手性配体",
+      "有机合成",
+      "博士后研究",
+      "国家高层次人才"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "论文成果",
+        "keywords": [
+          "光催化",
+          "手性配体设计",
+          "不对称催化",
+          "有机合成"
+        ],
+        "journal_name": "Nat. Chem., J. Am. Chem. Soc., Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "有机化学",
+          "催化化学",
+          "合成化学"
+        ],
+        "publication_year": 2020
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学化学与分子科学学院",
+        "url": "http://jszy.whu.edu.cn/junzhu/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 朱俊\n页面链接: http://jszy.whu.edu.cn/junzhu/zh_CN/index.htm\n==================================================\n武汉大学 朱俊--中文主页--首页\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n朱俊\n个人信息\n教师拼音名称：Zhu Jun\n电子邮箱：\n所在单位：化学与分子科学学院\n职务：教授\n学历：博士研究生毕业\n性别：男\n职称：教授\n在职信息：在职\n博士生导师\n硕士生导师\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n课题组长期招收优秀本科生、研究生、研究助理以及博士后。朱俊，武汉大学化学与分子科学学院教授、博士生导师。2010年6月在武汉大学获学士学位，2015年6月在中国科学院上海有机化学研究所获博士学位（导师：唐勇 研究员）。2015年7月至2016年7月在上海有机化学研究所担任助理研究员。2016年8月至2020年10月在美国芝加哥大学化学系从事博士后研究（导师：Prof. Guangbin Dong）。以第一作者或共同第一作者在Nat. Chem.,J. Am. Chem. Soc.,Angew. Chem. Int. Ed.等国际顶尖期刊上发表论文数篇。 2020年11月入选国家...\n教育经历\n2010.9-2015.6\n中国科学院上海有机化学研究所  | 有机化学  | 理学博士学位 | 研究生毕业\n2006.9-2010.6\n武汉大学  | 药物化学  | 理学学士学位 | 本科(学士)\n工作经历\n更多>>\n2020.12-至今\n化学与分子科学学院 | 武汉大学\n| 教授\n2016.8-2020.10\n美国芝加哥大学化学系\n| 博士后研究员\n2015.7-2016.7\n中国科学院上海有机化学研究所\n| 助理研究员\n社会兼职\n暂无内容\n研究方向\n1. 光催化 2. 手性配体设计、合成及不对称催化\n曾获荣誉\n2020    海外高层次人才\n2022    武汉英才“产业领军人才”\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

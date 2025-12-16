@@ -1,0 +1,197 @@
+{
+  "id": "mhuang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/mhuang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄萌",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电气与自动化学院",
+    "college": "电气与自动化学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [],
+    "graduation_school": "",
+    "academic_honors": [
+      "2024《高电压技术》优秀论文奖",
+      "2024 武汉大学第十二届青年教师教学竞赛三等奖",
+      "2024 中国电力科技进步一等奖（排3）",
+      "2024 高校电气电子工程创新大赛全国一等奖（优秀指导教师奖）",
+      "2023 IET RPG国际会议 Best Conference Paper Award",
+      "2023 中国研究生电子设计竞赛全国一等奖（优秀指导教师奖）",
+      "2023 教育部（教指委）全国高等学校青年教师电工学课程教学竞赛全国二等奖",
+      "2022 中国电源学会优秀博士论文（共同指导教师）",
+      "2022 江西省科技进步二等奖（排3）",
+      "2022 武汉大学学术成果二等奖",
+      "2021 湖北省科技进步一等奖（排2）",
+      "2021 《电源学报》优秀论文奖",
+      "2021 《电力工程技术》十佳论文奖",
+      "2020 中国电机工程学会电力与能源系统学报（CSEE JPES）优秀论文奖",
+      "2017 教育部技术发明二等奖（排4）",
+      "2016 IEEE电力电子汇刊（IEEE TPEL） Best Paper Award"
+    ],
+    "academic_services": [
+      "Editor, International Journal of Circuit Theory and Applications",
+      "Guest Associate Editor, IEEE Transactions on Industrial Applications",
+      "Corresponding Guest Editor, IEEE Journal of Emerging and Selected Topics in Circuits and Systems",
+      "Guest Associate Editor, IEEE Journal of Emerging and Selected Topics in Power Electronics",
+      "《电源学报》编委",
+      "中国电源学会编辑工作委员会副主任",
+      "中国电源学会电力电子化电力系统与装备专委会副秘书长"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "电力电子并网系统安全运行",
+      "电力电子变流器稳定控制",
+      "新能源发电协同支撑电网",
+      "规模化电力电子并网变流器建模与控制"
+    ],
+    "research_interests": [
+      "电力电子并网",
+      "变流器控制",
+      "电网暂态稳定",
+      "新能源发电",
+      "同调等值建模",
+      "电力电子化电力系统"
+    ],
+    "research_description": "黄萌教授主要从事电力电子并网系统安全运行与控制问题研究，聚焦于新能源发电协同支撑电网暂态频率电压稳定、规模化电力电子并网变流器的同调等值建模及其稳定控制、大功率电力电子变流设备接入电网的稳定运行能力提升等关键技术，研究成果在电力电子化电力系统领域具有重要应用价值。",
+    "disciplines": [
+      "电力电子与电力传动",
+      "电气工程",
+      "能源系统工程"
+    ],
+    "field_tags": [
+      "电力电子并网",
+      "新能源发电",
+      "电网稳定控制",
+      "变流器建模",
+      "电力电子化系统",
+      "高电压技术",
+      "电力系统稳定性",
+      "智能电网"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "规模化电力电子并网变流器的同调等值建模及其稳定控制",
+        "keywords": [
+          "电力电子并网",
+          "同调等值建模",
+          "稳定控制",
+          "变流器"
+        ],
+        "journal_name": "武汉大学学术成果二等奖获奖论文",
+        "research_fields": [
+          "电力电子与电力传动",
+          "电力系统稳定控制"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "大功率电力电子变流设备接入电网稳定运行能力提升、试验及应用",
+        "keywords": [
+          "大功率变流器",
+          "电网稳定运行",
+          "试验研究",
+          "电力电子"
+        ],
+        "journal_name": "湖北省科技进步一等奖获奖成果",
+        "research_fields": [
+          "电力电子与电力传动",
+          "电网接入技术"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "宽运行域新能源发电协同支撑电网暂态频率电压关键技术及应用",
+        "keywords": [
+          "新能源发电",
+          "暂态频率电压",
+          "协同支撑",
+          "电力系统"
+        ],
+        "journal_name": "中国电力科技进步一等奖获奖成果",
+        "research_fields": [
+          "新能源并网",
+          "电力系统稳定性",
+          "电力电子控制"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "高性能模块化级联电力电子装备关键技术及其应用",
+        "keywords": [
+          "模块化级联",
+          "电力电子装备",
+          "关键技术",
+          "应用研究"
+        ],
+        "journal_name": "江西省科技进步二等奖获奖成果",
+        "research_fields": [
+          "电力电子装备",
+          "模块化设计",
+          "系统集成"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "大功率级联多电平变换器拓扑结构创新及其工程应用",
+        "keywords": [
+          "级联多电平变换器",
+          "拓扑结构",
+          "工程应用",
+          "电力电子"
+        ],
+        "journal_name": "教育部技术发明二等奖获奖成果",
+        "research_fields": [
+          "电力电子变换器",
+          "拓扑创新",
+          "工程应用"
+        ],
+        "publication_year": 2017
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学电气与自动化学院",
+        "url": "http://jszy.whu.edu.cn/mhuang/zh_CN/index.htm"
+      },
+      {
+        "platform": "武汉大学CGPES实验室",
+        "url": "http://cgpes.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄萌\n页面链接: http://jszy.whu.edu.cn/mhuang/zh_CN/index.htm\n==================================================\n武汉大学 黄萌--黄萌--首页\nEnglish\n中文\n黄萌\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n学历：研究生毕业\n性别：男\n联系方式：http://cgpes.whu.edu.cn/\n所属院系：\n电气与自动化学院\n学科：\n电力电子与电力传动\n个人简介\n黄萌，博士，武汉大学教授，博士生导师，国家优青获得者。从事电力电子并网系统安全运行和控制问题研究。以第一或通信作者发表期刊论文50余篇（ESI高被引论文2篇），出版专著1部，授权中国发明专利10余项。成果获湖北省科技进步一等奖（排2）、中国电力科技进步一等奖（排3）、论文获IEEE TPEL及CSEE JPES论文奖等。任IJCTA、电源学报期刊编委，任中国电源学会编辑工作委员副主任、电力电子化电力系统与装备专委会副秘书长。\nEmail: meng.huang # whu.edu.cn\nWebsite: http://cgpes.whu.edu.cn/\n主讲课程：\n模拟电子技术、电力电子技术\n奖励荣誉：\n[1] 2024《高电压技术》优秀论文奖\n[2] 2024 武汉大学第十二届青年教师教学竞赛三等奖\n[3] 2024 中国电力科技进步一等奖（排3），宽运行域新能源发电协同支撑电网暂态频率电压关键技术及应用\n[4] 2024 高校电气电子工程创新大赛，全国一等奖（优秀指导教师奖）\n[5] 2023 IET RPG国际会议，Best Conference Paper Award，一等奖\n[6] 2023 中国研究生电子设计竞赛，全国一等奖（优秀指导教师奖）\n[7] 2023 教育部（教指委）全国高等学校青年教师电工学课程教学竞赛，全国二等奖\n[8] 2022 中国电源学会优秀博士论文（共同指导教师）\n[9] 2022 江西省科技进步二等奖（排3），高性能模块化级联电力电子装备关键技术及其应用\n[10] 2022 武汉大学学术成果二等奖，规模化电力电子并网变流器的同调等值建模及其稳定控制\n[11] 2021 湖北省科技进步一等奖（排2），大功率电力电子变流设备接入电网稳定运行能力提升、试验及应用\n[12] 2021 《电源学报》优秀论文奖\n[13] 2021 《电力工程技术》十佳论文奖\n[14] 2020 中国电机工程学会电力与能源系统学报（CSEE JPES）优秀论文奖\n[15] 2017 教育部技术发明二等奖（排4），大功率级联多电平变换器拓扑结构创新及其工程应用\n[16] 2016 IEEE电力电子汇刊（IEEE TPEL）, Best Paper Award, 二等奖\n学术兼职：\n[1] Editor, International Journal of Circuit Theory and Applications\n[2] Guest Associate Editor, IEEE Transactions on Industrial Applications\n[3] Corresponding Guest Editor, IEEE Journal of Emerging and Selected Topics in Circuits and Systems\n[4] Guest Associate Editor, IEEE Journal of Emerging and Selected Topics in Power Electronics\n[5] 《电源学报》编委\n[6] 中国电源学会编辑工作委员会 副主任\n[7] 中国电源学会电力电子化电力系统与装备 副秘书长\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

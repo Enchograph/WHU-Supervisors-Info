@@ -1,0 +1,222 @@
+{
+  "id": "qiurangjian",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/qiurangjian/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "邱让建",
+    "english_name": "Qiu Rangjian",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "水利水电工程",
+    "college": "水利水电学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士",
+        "field": "农业水土工程",
+        "school": "中国农业大学",
+        "period": "2008年9月~2014年6月",
+        "country": "中国"
+      },
+      {
+        "degree": "联合培养",
+        "field": "土壤与水科学",
+        "school": "加州大学河滨分校",
+        "period": "2012年9月~2013年10月",
+        "country": "美国"
+      },
+      {
+        "degree": "工学学士",
+        "field": "农业水利工程",
+        "school": "中国农业大学",
+        "period": "2004年9月~2008年6月",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国农业大学",
+    "academic_honors": [
+      "国家自然科学基金优秀青年科学基金获得者（2023）",
+      "“武汉英才”优秀青年人才（2023）"
+    ],
+    "academic_services": [
+      "1区TOP期刊《Agricultural Water Management》副主编",
+      "《Frontiers in Plant Science》客座编辑",
+      "《灌溉排水学报》编委",
+      "《人民长江》编委",
+      "中国农业工程学会农业水土工程专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "智慧灌溉原理与技术",
+      "变化环境下的水资源高效利用"
+    ],
+    "research_interests": [
+      "农田水热循环",
+      "水资源高效利用",
+      "蒸散发模拟",
+      "灌溉管理",
+      "气候变化影响",
+      "作物水分利用效率",
+      "温室农业",
+      "机器学习模型应用"
+    ],
+    "research_description": "邱让建教授主要从事智慧灌溉理论与技术、变化环境下水资源高效利用研究。研究聚焦于农田水热循环机制、蒸散发过程模拟、干湿交替灌溉对作物生理响应的影响，以及在气候变化背景下水资源的高效管理。其团队在《Reviews of Geophysics》《Global Change Biology》《Agricultural Water Management》等顶级期刊发表多篇论文，涉及作物蒸散预测、灌溉水盐效应、温室作物生长调控、极端气候事件对农业的影响等方向，同时探索机器学习与物理模型结合的新型预测方法。",
+    "disciplines": [
+      "水利工程",
+      "农业水土工程",
+      "环境科学与工程",
+      "气象学"
+    ],
+    "field_tags": [
+      "智慧灌溉",
+      "水资源管理",
+      "蒸散发",
+      "气候变化适应",
+      "农业水文",
+      "作物生理",
+      "机器学习",
+      "温室农业",
+      "水热耦合",
+      "碳中和"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 70,
+    "representative_publications": [
+      {
+        "title": "The Effects of Changing Environments, Abiotic Stresses, and Management Practices on Cropland Evapotranspiration a review",
+        "keywords": [
+          "evapotranspiration",
+          "changing environments",
+          "abiotic stresses",
+          "management practices",
+          "cropland"
+        ],
+        "journal_name": "Reviews of Geophysics",
+        "research_fields": [
+          "水资源高效利用",
+          "智慧灌溉",
+          "气候变化与农业水文"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Effects of Alternate Wetting and Drying Irrigation on Methane and Nitrous Oxide",
+        "keywords": [
+          "alternate wetting and drying",
+          "methane",
+          "nitrous oxide",
+          "greenhouse gas emissions",
+          "rice cultivation"
+        ],
+        "journal_name": "Global Change Biology",
+        "research_fields": [
+          "气候变化",
+          "农业环境",
+          "温室气体排放"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Time-frequency insights Uncovering the drivers of reference evapotranspiration across China",
+        "keywords": [
+          "reference evapotranspiration",
+          "time-frequency analysis",
+          "climate drivers",
+          "China",
+          "water resources"
+        ],
+        "journal_name": "Agricultural Water Management",
+        "research_fields": [
+          "水资源管理",
+          "蒸散模拟",
+          "气候影响分析"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Maximizing leaf carbon gain in varying saline conditions: An optimization model with dynamic mesophyll conductance",
+        "keywords": [
+          "leaf carbon gain",
+          "saline conditions",
+          "mesophyll conductance",
+          "optimization model",
+          "plant physiology"
+        ],
+        "journal_name": "The Plant Journal",
+        "research_fields": [
+          "植物生理学",
+          "盐胁迫响应",
+          "光合作用优化"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "An improved method to estimate actual vapor pressure without relative humidity data",
+        "keywords": [
+          "actual vapor pressure",
+          "temperature data",
+          "meteorological modeling",
+          "evapotranspiration",
+          "data scarcity"
+        ],
+        "journal_name": "Agricultural and Forest Meteorology",
+        "research_fields": [
+          "农业气象",
+          "蒸散估算",
+          "气象数据处理"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Rangjian_Qiu/stats"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=gqQpQ88AAAAJ&hl=zh-CN"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金优青项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "国家外国专家项目",
+      "江苏省自然科学基金青年项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家外国专家项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 邱让建\n页面链接: http://jszy.whu.edu.cn/qiurangjian/zh_CN/index.htm\n==================================================\n武汉大学 邱让建--邱让建的科研主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n邱让建，安徽桐城人，武汉大学教授，博士生导师，国家自然科学基金优秀青年科学基金获得者（2023）,“武汉英才”优秀青年人才（2023），主要从事智慧灌溉理论与技术、变化环境下水资源高效利用研究。在国内外期刊发表学术论文70余篇，其中以第一/通讯作者在《Reviews of Geophysics》(IF=37.3)、《Global Change Biology》、《Agricultural and Forest Meteorology》、《The Plant Journal》、《Journal of Hydrology》、《Agricultural Water Management》、《Agricultural Systems》、《Renewable and Sustainable Energy Reviews》、《Energy Conversion and Management》、《Applied Energy》、《水利学报》和《农业工程学报》等国内外知名期刊发表论文50余篇，单篇最高影响因子37.3，现担任1区TOP期刊《Agricultural Water Management》副主编，指导的硕士研究生获张蔚臻奖学金、研究生国家奖学金等。欢迎对智慧灌溉和变化环境下水资源高效利用等领域感兴趣的学生加入课题组。\n招生专业和类型\n招生专业：水利水电工程/智慧水利/水利工程/碳中和\n招生类型：学术学位博士、学术学位硕士、专业学位硕士\n研究生获奖\n研究生蒙华月获张蔚臻奖学金、研究生优秀学业一等奖学金、优秀研究生（2024）\n研究生吴京龙获研究生国家奖学金、研究生优秀学业一等奖学金、优秀研究生（2024）\n研究生李隆安获研究生国家奖学金、三好研究生、研究生论坛一等奖（2021）\n主要学习经历\n2008年9月~2014年   6月   中国农业大学               农业水土工程 工学博士\n2012年9月~2013年10月   加州大学河滨分校        土壤与水科学  联合培养\n2004年9月~2008年  6月   中国农业大学                农业水利工程  工学学士\n主要工作经历\n2023年12月~至今              武汉大学                       教   授\n2022年2月~2023年11月    武汉大学                       副教授\n2018年7月~2022年 1月     南京信息工程大学       副教授\n2018年1月~2018年 7月     杜克大学                       访问学者\n2014年6月~2018年 6月     南京信息工程大学       讲   师\n联系方式\n邮  箱：qiurangjian@whu.edu.cn; qiurangjian@tom.com\n办公地点：水电科技大楼A427\n个人网站\nResearchGate: https://www.researchgate.net/profile/Rangjian_Qiu/stats\ngoogle scholar: https://scholar.google.com/citations?user=gqQpQ88AAAAJ&hl=zh-CN\n社会兼职\n1区TOP期刊《Agricultural Water Management》副主编\n《Frontiers in Plant Science》客座编辑\n《灌溉排水学报》编委\n《人民长江》编委\n中国农业工程学会高级会员\n中国农业工程学会农业水土工程专业委员会委员\n主持项目\n1. 国家自然科学基金优青项目，农田水热循环与水资源高效利用，2024/01-2026/12，在研，主持\n2. 国家外国专家项目，变化环境下的水资源高效利用，2022/01-2023/12，已结题，主持\n3. 国家自然科学基金面上项目，干湿交替灌溉条件下水稻水分利用效率对臭氧浓度升高的响应，2022/01-2025/12，在研，主持\n4. 国家自然科学基金青年项目，长江流域稻麦轮作农田水热传输机制与蒸散发模拟，2016/01-2018/12，已结题，主持\n5. 江苏省自然科学基金青年项目，江苏地区轮作稻麦蒸散发特征及模拟，2015/07-2018/07，已结题，主持\n6. 国家自然科学基金面上项目，高温高湿对设施番茄果实发育及品质的影响机理和评估模型的研究，2018/01-2021/12，结题，参加\n7. 国家自然科学基金面上项目，农业小流域灌溉对稻田水热交换的影响极其调温驱动机理，2016/01-2019/12，结题，参加\n代表性论著\n41. Zhao Shuting, Wu Jinglong, Qiu Rangjian*, Zhang Tao, Luo Yufeng and Hu Wei, 2025.Time-frequency insights Uncovering the drivers of reference evapotranspiration across China. Agricultural Water Management, 310: 109367. (TOP期刊)\n40. Qiu Rangjian*, Katul G. Gabriel, Zhang Lu, Qin Shunjing, Jiang Xuelian, 2025. The Effects of Changing Environments, Abiotic Stresses, and Management Practices on Cropland Evapotranspiration a review. Reviews of Geophysics, 63, e2024RG000858 (2024 IF=37.3; TOP期刊)\n39. Zhao Chenxi (硕士生), Qiu Rangjian*, Zhang Tao, Luo Yufeng and Agathokleous Evgenios, 2024.Effects of Alternate Wetting and Drying Irrigation on Methane and Nitrous Oxide. Global Change Biology, 30(12): e17581.(2024 IF=12.0; TOP期刊)\n38. Meng Huayue (硕士生), Qian Long*, Dong Chunyu and Qiu Rangjian*, 2024. Assessing cotton flooding disasters accompanied by high temperatures: A case study in the middle and lower reaches of the Yangtze River, China. European Journal of Agronomy, 159: 127296. (1区TOP期刊)\n37. Zhang Qi*, Zhu Jun, Yu Xin, Huang Shaofeng, Zhang Xinyu, Zhang Shenbao, Qiu Rangjian*, Agathokleous Evgenios, 2023. Assessing suitability of major meteorological factors for facility agriculture in mainland China. Environmental Research Letters, 18(11): 114002. (TOP期刊)\n36. Zhang Tao (硕士生), Qiu Rangjian*, Ding Risheng, Wu Jinwei, Brent Clothier, 2023. Multi-scale spectral characteristics of latent heat flux over flooded rice and winter wheat rotation system. Agricultural Water Management, 288: 108471 ( TOP期刊)\n35. Qin Shujing, Liu Zhihe (硕士生), Qiu Rangjian*, Luo Yufeng, Wu Jinwei, Zhang Baozhong, Wu Lifeng, Agathokleous Evgenios, 2023.Short–term global solar radiation forecasting based on an improved method for sunshine duration prediction and public weather forecasts. Applied Energy, 343: 121205 (2024 IF=11.0; TOP期刊)\n34. Pang Jie, Gao Fukui, Abdoul Kader Mounkaila Hamani, Li Huanhuan, Liu Hao*, Qiu Rangjian*, 2023. Changes of dissolved oxygen concentration in aerated drip irrigation system under different drip emitters. Irrigation Science, 41 (6), 749-759\n33. Yang Zaiqiang, Jiang Yuhan, Qiu Rangjian*, Gong Xuewen, Agathokleous Evgenios, Hu Wei, Brent Clothier, 2023.  Heat stress decreased transpiration but increased evapotranspiration in gerbera. Frontiers in Plant Science, 14: 1119076.  ( TOP期刊)\n32. Qiu Rangjian, Luo Yufeng, Wu Jingwei, Zhang Baozhong*, Liu Zhihe, Agathokleous Evgenios, Yang Xiumei, Hu Wei, Clothier Brent, 2023. Short–term forecasting of daily evapotranspiration from rice using a modified Priestley–Taylor model and public weather forecasts, Agricultural Water Management, 277: 108123. ( TOP期刊)\n31. Gong Xuewen, Li Xiaoming, Li Yu, Bo Guokui, Qiu Rangjian*, Huang Zongdong, Gao Shikai, Wang Shunsheng, 2023. An improved model to simulate soil water and heat: A case study for drip-irrigated tomato grown in a greenhouse, Agricultural Water Management, 277: 108121 (TOP期刊)\n30. Wang Zhenchang, Liu Jinjing, Wang Yaosheng, Agathokleous Evgenios, Yousef Alhaj Hamoud*, Qiu Rangjian*, Cheng Hong, Tian Minghao, Hiba Shaghaleh and Guo Xiangping, 2022. Relationships between stable isotope natural abundances (δ13C and δ15N) and water use efficiency in rice under alternate wetting and drying irrigation in soils with high clay contents. Frontiers in Plant Science, 13:1077152. (TOP期刊)\n29. Zhang Qi*, Yu Xin, Qiu Rangjian*, Liu Zhongxian, Yang Zaiqiang, 2022. Evolution, severity, and spatial extent of compound drought and heat events in north China based on copula model. Agricultural Water Management, 273: 107918 ( TOP期刊)\n28. Gong Xuewen, Li Xiaoming, Qiu Rangjian*, Bo Guokui, Ping Yinglu, Xin Qingsong, Ge Jiankun*, 2022. Ventilation and irrigation management strategy for tomato cultivated in greenhouses. Agricultural Water Management, 273: 107908 (TOP期刊)\n27. Qiu Rangjian, Li Longan (硕士生), Wu Lifeng, Agathokleous Evgenios, Liu Chunwei, Zhang Baozhong*. Comparison of machine learning and dynamic models for predicting actual vapour pressure when psychrometric data are unavailable. Journal of Hydrology, 610: 127989. (TOP期刊)\n26. Qiu Rangjian, Li Longan (硕士生), Wu Lifeng, Agathokleous Evgenios, Liu Chunwei, Zhang Baozhong*, Luo Yufeng, Sun Shanlei, 2022. Modeling daily global solar radiation using only temperature data: Past, development, and future. Renewable and Sustainable Energy Reviews, 163: 112511.(2024 IF=16.5; TOP期刊)\n25. Qiu Rangjian, Liu Chunwei, Cui Ningbo*, Gao Yang, Li Longan, Wu Zongjun, Jiang Shouzheng and Hu Meng, 2022. Generalized Extreme Gradient Boosting model for predicting daily global solar radiation for locations without historical data. Energy Conversion and Management, 258: 115488. (2024 IF=10.9; TOP期刊)\n24. Zhang Qi*, Zhang Xinyu, Yang Zaiqiang, Huang Qinqin, Qiu Rangjian*, 2022. Characteristics of plastic greenhouse high-temperature and high-humidity events and their impacts on facility tomatoes growth. Frontiers in Earth Science, 10: 848924.\n23. Qiu Rangjian, Li Longan (硕士生), Liu Chunwei, Wang Zhenchang, Zhang Baozhong*, Liu Zhandong, 2022. Evapotranspiration estimation using a modified crop coefficient model in a rotated rice-winter wheat system. Agricultural Water Management, 264: 107501. (TOP期刊)\n22. Gong Xuewen, Qiu Rangjian*, Zhang Baozhong, Wang Shunsheng, Ge Jiankun, Gao Shikai, Yang Zaiqiang, 2021. Energy budget for tomato plants grown in a greenhouse in northern China. Agricultural Water Management, 255: 107039. ( TOP期刊)\n21. Qiu Rangjian*, Katul G. Gabriel, Wang Jingtao, Xu Junzeng, Kang Shaozhong, Liu Chunwei, Zhang Baozhong, Li Longan and Cajucom P.E., 2021. Differential response of rice evapotranspiration to varying patterns of warming. Agricultural and Forest Meteorology, 298-299: 108293. (TOP期刊)\n20. Qiu Rangjian*, Li Longan (硕士生), Kang Shaozhong, Liu Chunwei, Wang Zhencang, Cajucom P.E., Zhang Baozhong and Agathokleous E., 2021. An improved method to estimate actual vapor pressure without relative humidity data. Agricultural and Forest Meteorology: 298-299: 108306. (TOP期刊)\n19. Gong Xuewen, Qiu Rangjian*, Ge Jiankun, Bo, G.K., Ping, Y.L., Xin, Q.S. and Wang S.S., 2021. Evapotranspiration partitioning of greenhouse grown tomato using a modified Priestley–Taylor model. Agricultural Water Management, 247: 106709. ( TOP期刊)\n18. Qiu Rangjian* and Katul G. Gabriel, 2020. Maximizing leaf carbon gain in varying saline conditions: An optimization model with dynamic mesophyll conductance. The Plant Journal, 101(3): 543-554. (TOP期刊)\n17. Hamani, Abdoul Kader Mounkaila, Wang Guangshuai, Soothar, Mukesh Kumar, Shen Xiaojun, Gao Yang*, Qiu Rangjian* and Mehmood Faishal, 2020. Responses of leaf gas exchange attributes, photosynthetic pigments and antioxidant enzymes in NaCl-stressed cotton (Gossypium hirsutum L.) seedlings to exogenous glycine betaine and salicylic acid. BMC Plant Biology, 20: 434.\n16. Gong Xuewen, Qiu Rangjian*, Sun Jinsheng, Ge Jiankun, Li Yanbin and Wang Shunsheng, 2020. Evapotranspiration and crop coefficient of tomato grown in a solar greenhouse under full and deficit irrigation. Agricultural Water Management, 235: 106154. ( TOP期刊)\n15. Qiu Rangjian, Liu Chunwei, Cui Ningbo*, Wu Youjie, Wang Zhenchang and Li Gen, 2019. Evapotranspiration estimation using a modified Priestley-Taylor model in a rice-wheat rotation system. Agricultural Water Management, 224: 105755. (TOP期刊)\n14. Qiu Rangjian, Liu Chunwei, Li Fusheng, Wang Zhenchang, Yang Zaiqiang, Cui Ningbo*, 2019. An investigation on possible effect of leaching fractions physiological responses of hot pepper plants to irrigation water salinity. BMC Plant Biology, 19:297\n13. Qiu Rangjian*, Yang Zaiqiang, Jing Yuanshu, Liu Chunwei, Wang Zhenchang, 2018. Effects of irrigation water salinity on the growth, gas exchange parameters, and ion concentration of hot pepper plants modified by leaching fractions. HortScience,53(7):1050-1055\n12. Qiu Rangjian*, Liu Chunwei, Wang Zhenchang, Yang Zaiqiang, Jing Yuanshu, 2017. Effects of irrigation water salinity on evapotranspiration modified by leaching fractions in hot pepper plants. Scientific Reports, 7:7231.\n11. Qiu Rangjian*, Jing Yuanshu, Liu Chunwei, Yang Zaiqiang, Wang Zhenchang, 2017. Response of hot pepper yield, fruit quality and fruit ion content to irrigation water salinity and leaching fractions. HortScience, 52(7):979-985.\n10. Qiu Rangjian, Du Taisheng*, Kang Shaozhong, 2017. Root length density distribution and soil water simulation for tomato plants under furrow irrigation, Journal of Arid Land, 9(5):637-650.\n9. Qiu Rangjian, Du Taisheng*, Kang Shaozhong, Chen Renqiang, Laosheng Wu, 2015. Assessing the SIMDualKc model for estimating evapotranspiration of hot pepper grown in a solar greenhouse in Northwest China. Agricultural Systems, 138:1-9 (TOP期刊)\n8. Qiu Rangjian, Du Taisheng*, Kang Shaozhong, Chen Renqiang, Laosheng Wu, 2015. Influence of water and nitrogen stress on stem sap flow of tomato grown in solar greenhouse. Journal of the American Society for Horticultural Science, 140:111-119.\n7. Qiu Rangjian, Song Jinjuan, Du Taisheng*, Kang Shaozhong, Tong Ling, Chen Renqiang, Wu Laosheng, 2013. Response of evapotranspiration and yield to planting density of solar greenhouse grown tomato in northwest China. Agricultural Water Management, 130: 44-51. (TOP期刊)\n6. Qiu Rangjian, Kang Shaozhong*, Du Taisheng, Tong Ling, Hao Xinmei, Chen Renqiang, Chen Jinliang and Li Fusheng, 2013. Effect of convection on the Penman–Monteith model estimates of transpiration of hot pepper grown in solar greenhouse. Scientia Horticulturae, 160: 163-171.\n5. Qiu Rangjian, Kang Shaozhong*, Li Fusheng, Du Taisheng, Tong Ling, Wang Feng, Chen Renqiang, Liu Junqi and Li Sien, 2011. Energy partitioning and evapotranspiration of hot pepper grown in greenhouse with furrow and drip irrigation methods. Scientia Horticulturae, 129(4): 790-797.\n4. 李隆安, 邱让建*, 刘春伟. 基于气温估算参考作物蒸散量方法的对比与改进[J]. 农业工程学报, 2021, 37(24)：123-130.\n3. 邱让建, 杨再强, 景元书, 刘春伟, 王振昌. 轮作稻麦田水热通量及影响因素分析[J].农业工程学报,2018,34: 82-88.\n2. 邱让建, 刘春伟, 徐金勤, 陈俊, 程珊珊, 柳旭, 陈泓舟, 王振昌. 灌溉水含盐量对辣椒产量品质及水分利用效率的影响[J]. 农业工程学报, 2016, 32(10)：75-80\n1. 邱让建, 杜太生, 陈任强. 应用双作物系数模型估算温室番茄耗水量.水利学报, 2015, 46(6): 678-686\n指导本科生获奖情况\n[1] 2016年和2020年指导大学生创新创业训练计划各1项\n[2] 2020年指导学生获得第七届“共享杯”大学生科技资源共享服务创新大赛优秀奖1项\n[3] 2021年指导学生获首届中国气象现代化科技创新创业大赛三等奖，并被评为优秀指导教师\n研究方向\n社会兼职\n​智慧灌溉原理与技术；变化环境下的水资源高效利用\n社会兼职内容：《Agricultural Water Management》副主编《Frontiers in Plant Science》客座编辑《灌溉排水学报》编委《人民长江》编委中国农业工程学会高级会员中国水利学会高级会员中国农学会会员中国农业工程学会农业水土工程专业委员会委员《Agricultural and Forest Meteorology》、《Agricultural Water Management》、《Journal of Hydrology》、《Scientia Horticulturae》、《农业工程学报》等国内外重要期刊审稿人\n教育经历\n工作经历\n暂无内容\n2023.12-----至今\n水利水电学院\n|\n武汉大学\n2022.2-----2023.11\n水利水电学院\n|\n武汉大学\n2018.1-----2018.7\n杜克大学\n2018.8-----2022.1\n应用气象学院\n|\n南京信息工程大学\n2014.6-----2018.7\n应用气象学院\n|\n南京信息工程大学\n团队成员\n暂无内容\n返回顶部\n+\n邱让建\n同专业硕导>>\n同专业博导>>\n个人信息\n博士生导师\n硕士生导师\n教师拼音名称：Qiu Rangjian\n电子邮箱：\n所在单位：水利水电学院\n办公地点：水电科技大楼A427\n毕业院校：中国农业大学\n学科：水利水电工程\n其他联系方式\n邮编:\n邮箱:\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

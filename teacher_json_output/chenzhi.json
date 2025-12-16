@@ -1,0 +1,178 @@
+{
+  "id": "chenzhi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/chenzhi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "陈智",
+    "english_name": "Zhi Chen",
+    "title": [
+      "教授",
+      "主任医师",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "口腔医学院",
+    "college": "口腔医学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "口腔医学",
+        "school": "武汉大学",
+        "period": "1996-1999",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "口腔医学",
+        "school": "武汉大学",
+        "period": "1990-1993",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "口腔医学",
+        "school": "武汉大学",
+        "period": "1981-1987",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "武汉大学珞珈杰出学者"
+    ],
+    "academic_services": [
+      "中华口腔医学会常务理事",
+      "中华口腔医学会牙体牙髓病学专委会副主任委员",
+      "湖北省口腔医学会会长",
+      "《口腔医学研究》主编",
+      "《Oral Diseases》副主编",
+      "《J Dent Res》编委",
+      "《Frontiers in Physiology·Craniofacial Biol & Dent Res》副主编",
+      "《Int Endo J》编委",
+      "《中华口腔医学杂志》编委",
+      "全国医学专业学位研究生教育指导委员会委员",
+      "国际牙科研究协会Young Investigator Award评审委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "龋病牙髓病学",
+      "牙发育",
+      "牙髓生物学",
+      "牙体修复"
+    ],
+    "research_interests": [
+      "牙髓生物学",
+      "牙体修复",
+      "牙发育",
+      "龋病",
+      "牙髓病学"
+    ],
+    "research_description": "陈智教授主要从事牙髓生物学、牙发育和牙体修复方面的研究，近年来主持国家自然科学基金重点项目、重点国际合作项目、面上项目及国家重点研发项目课题等多项科研项目，致力于牙体牙髓疾病的机制研究与临床修复技术的创新。",
+    "disciplines": [
+      "口腔临床医学",
+      "牙体牙髓病学",
+      "口腔生物学"
+    ],
+    "field_tags": [
+      "牙髓生物学",
+      "牙体修复",
+      "牙发育",
+      "龋病",
+      "牙髓病学",
+      "口腔医学",
+      "科研项目",
+      "国家自然科学基金"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "牙体修复",
+        "keywords": [
+          "牙体修复",
+          "牙髓生物学",
+          "牙体牙髓病学",
+          "牙发育"
+        ],
+        "journal_name": "专著",
+        "research_fields": [
+          "口腔临床医学",
+          "牙体牙髓病学",
+          "牙髓生物学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "口腔医学-口腔内科学",
+        "keywords": [
+          "住院医师规培教材",
+          "口腔内科学",
+          "临床医学教育"
+        ],
+        "journal_name": "教材",
+        "research_fields": [
+          "口腔医学教育",
+          "临床医学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "牙体牙髓病学（第5版）",
+        "keywords": [
+          "本科生教材",
+          "牙体牙髓病学",
+          "口腔医学"
+        ],
+        "journal_name": "教材",
+        "research_fields": [
+          "口腔医学",
+          "牙体牙髓病学"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学口腔医学院教师主页",
+        "url": "http://jszy.whu.edu.cn/chenzhi/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金重点项目",
+      "重点国际合作项目",
+      "面上项目",
+      "国家重点研发项目课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 陈智\n页面链接: http://jszy.whu.edu.cn/chenzhi/zh_CN/index.htm\n==================================================\n武汉大学 陈智--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n陈智\n同专业博导\n同专业硕导\n个人信息Personal information\n博士生导师\n硕士生导师\n教师英文名称：Zhi Chen\n教师拼音名称：Chen Zhi\n电子邮箱：\n所在单位：口腔医学院\n职务：Professor\n学历：博士研究生毕业\n办公地点：口腔医院一号楼310\n性别：男\n联系方式：zhichen@whu.edu.cn\n职称：主任医师\n在职信息：在职\n所属院系：口腔医学院\n学科：\n口腔临床医学\n联系方式Contact information\n邮编: \n通讯/办公地址: \n办公室电话: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n陈智，男，医学博士。现任武汉大学口腔医学院二级教授、一级主任医师、博士生导师，武汉大学珞珈杰出学者。兼任中华口腔医学会第五、六届常务理事，牙体牙髓病专委会副主任委员，口腔美学专委会第一届副主任委员，湖北省口腔医学会会长，湖北省口腔医学会牙体牙髓专委会前任主任委员，全国医学专业学位研究生教育指导委员会委员，《口腔医学研究》主编，《Oral Diseases》副主编，《J Dent Res》、《Frontiers in Physiology·Craniofacial Biol & Dent Res》、《Int Endo J》、《中华口腔医学杂志》等多个杂志编委。曾任国际牙科研究协会Young Investigator Award评审委员会委员。\n从事牙髓生物学牙，发育和牙体修复方面的研究。近年来主持国家自然科学基金重点项目1项，重点国际合作项目1项，面上项目8项，国家重点研发项目课题1项。共同主编专著《牙体修复》，担任住院医师规培教材《口腔医学-口腔内科学》共同主编，本科生规划教材《牙体牙髓病学》（第5版）副主编。\n教育经历 Personal profile\n1996-1999\n武汉大学>\n口腔医学>\n博士学位>\n研究生(博士)毕业\n1990-1993\n武汉大学>\n口腔医学>\n硕士>\n研究生毕业\n1981-1987\n武汉大学>\n口腔医学>\n学士>\n本科(学士)\n社会兼职Personal profile\n2016-08-30 - 至今\n中华口腔医学会常务理事\n2020-11-10 - 至今\n中华口腔医学会牙体牙髓病学专委会副主任委员\n2017-11-12 - 至今\n湖北省口腔医学会会长\n2018-01-01 - 2022-12-31\nJournal of Dental Research 杂志编委\n2021-01-01 - 至今\nFrontiers in Physiology: Craniofacial and Dental Research Section 副主编\n2016-01-01 - 至今\nOral Diseases 杂志副主编\n2022-01-01 - 至今\nInternational Endodontic Journal 杂志编委\n口腔医学研究杂志主编\n研究方向 Personal profile\n龋病牙髓病学，牙发育，牙髓生物学，牙体修复\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

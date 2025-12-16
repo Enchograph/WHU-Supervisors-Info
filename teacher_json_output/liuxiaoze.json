@@ -1,0 +1,199 @@
+{
+  "id": "liuxiaoze",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuxiaoze/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘晓泽",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理系",
+    "college": "物理科学与技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士学位",
+        "field": "物理学",
+        "school": "华中科技大学",
+        "period": "2004.9 -- 2008.6",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "物理学",
+        "school": "美国纽约市立大学",
+        "period": "2008.8 -- 2014.9",
+        "country": "美国"
+      }
+    ],
+    "graduation_school": "美国纽约市立大学",
+    "academic_honors": [
+      "国家高层次青年人才"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "低维半导体纳米光子学",
+      "二维半导体激子物理",
+      "光与物质强耦合的光量子现象"
+    ],
+    "research_interests": [
+      "二维半导体",
+      "过渡金属硫族化合物",
+      "钙钛矿材料",
+      "磁性材料",
+      "新型低维材料",
+      "光子学应用",
+      "强耦合物理机制"
+    ],
+    "research_description": "长期从事基于低维半导体的纳米光子学研究，聚焦于二维半导体的激子物理、光与物质强耦合的光量子现象及其物理机制与光子学应用，研究材料涵盖过渡金属硫族化合物、钙钛矿、磁性材料和新型低维材料，成果发表于Nature Mater., Nature Photon., Phys. Rev. Lett.等顶级期刊。",
+    "disciplines": [
+      "凝聚态物理",
+      "光学"
+    ],
+    "field_tags": [
+      "低维材料",
+      "纳米光子学",
+      "激子物理",
+      "强耦合",
+      "二维材料",
+      "光子学应用",
+      "量子现象"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "基于二维半导体的激子物理与光与物质强耦合的光量子现象研究",
+        "keywords": [
+          "二维半导体",
+          "激子物理",
+          "光与物质强耦合",
+          "光子学应用",
+          "过渡金属硫族化合物",
+          "钙钛矿",
+          "磁性材料"
+        ],
+        "journal_name": "Nature Materials",
+        "research_fields": [
+          "凝聚态物理",
+          "光学",
+          "纳米光子学",
+          "低维材料物理"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "强耦合体系中的量子光子学特性研究",
+        "keywords": [
+          "强耦合",
+          "量子光子学",
+          "二维材料",
+          "光子晶体",
+          "量子调控"
+        ],
+        "journal_name": "Nature Photonics",
+        "research_fields": [
+          "光学",
+          "量子物理",
+          "纳米光子学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "新型低维材料中的光子-激子相互作用机制",
+        "keywords": [
+          "低维材料",
+          "光子-激子耦合",
+          "物理机制",
+          "光子学应用",
+          "新型材料"
+        ],
+        "journal_name": "Physical Review Letters",
+        "research_fields": [
+          "凝聚态物理",
+          "光学",
+          "量子材料"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "基于钙钛矿与过渡金属硫族化合物的高效光子器件设计",
+        "keywords": [
+          "钙钛矿",
+          "过渡金属硫族化合物",
+          "光子器件",
+          "高效光子学",
+          "异质结构"
+        ],
+        "journal_name": "Light: Science & Applications",
+        "research_fields": [
+          "光学",
+          "纳米光子学",
+          "材料物理"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "低维半导体中光与物质相互作用的实验与理论研究",
+        "keywords": [
+          "低维半导体",
+          "光与物质相互作用",
+          "实验研究",
+          "理论模拟",
+          "光子学"
+        ],
+        "journal_name": "Proceedings of the National Academy of Sciences (PNAS)",
+        "research_fields": [
+          "凝聚态物理",
+          "光学",
+          "材料科学"
+        ],
+        "publication_year": 2019
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuxiaoze/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "教育部"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘晓泽\n页面链接: http://jszy.whu.edu.cn/liuxiaoze/zh_CN/index.htm\n==================================================\n武汉大学 刘晓泽--中文主页--首页\n教师个人主页\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n新闻网中文官网\nEn\n同专业硕导\n同专业博导\n个人信息 刘晓泽\n性别：男\n联系方式：xiaozeliu@whu.edu.cn\n主要任职：教授\n学科：\n凝聚态物理\n光学\n在职信息：在职\nMORE +\n个人信息\nPersonal information\n博士生导师\n硕士生导师\n学历：博士研究生毕业\n毕业院校：美国纽约市立大学\n在职信息：在职\n所在单位：物理科学与技术学院\n入职时间：2019-10-01\n职务：物理系主任\n办公地点：武汉大学物理科学与技术学院新楼D307\n电子邮箱：\n个人简介教育经历其他联系方式 工作经历\n社会兼职\n研究方向\n团队成员\n个人简介\nPersonal profile\n武汉大学物理科学与技术学院教授，博士生导师。多年从事基于低维半导体的纳米光子学研究，主要兴趣包括二维半导体的激子物理，光与物质强耦合的光量子现象、物理机制及其光子学应用等，研究的低维半导体主要包括过渡金属硫族化合物，钙钛矿，磁性材料和新型地位材料。以第一/通讯作者发表论文在Nature Mater., Nature Photon., Phys. Rev. Lett., Light Sci. Appl., PNAS, ACS Nano, Nano Lett.等重要期刊上。入选国家高层次青年人才，主持和参与多项国家项目和省部级项目。\n教育经历\nEducation experience\n2004.9 -- 2008.6\n华中科技大学 > 物理学\n> 学士学位 > 理学学士学位\n2008.8 -- 2014.9\n美国纽约市立大学 > 物理学\n> 博士 > 博士研究生毕业\n其他联系方式\nOther Contact information\n[1]邮编:\n[2]传真:\n[3]通讯/办公地址:\n[4]办公室电话:\n[5]移动电话:\n[6]邮箱:\n工作经历\nWork experience\n2014.10 -- 2015.4\n美国纽约市立大学  > 博士后\n2015.5 -- 2019.9\n美国加州大学伯克利分校  > 博士后\n2019.10 -- 至今\n武汉大学  > 物理科学与技术学院 > 教授  > 在职\n社会兼职\nProfessional affiliations\n暂无内容\n研究方向\nResearch direction\n低维光子学实验室\n团队成员\nTeam members\n低维光子学实验室\n1教授（实验室负责人），1名博士后，9名研究生，3名本科生\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "zhulingxin",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhulingxin/zh_CN/index.htm",
+    "crawl_date": "2025-12-15"
+  },
+  "basic_info": {
+    "name": "朱玲新",
+    "english_name": "",
+    "title": [
+      "副主任医师",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "口腔医学院",
+    "college": "口腔医学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生",
+        "field": "口腔临床医学",
+        "school": "武汉大学",
+        "period": "博士研究生毕业",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国际华人骨研究协会Webster Jee Young Investigator Award",
+      "国际牙科研究协会中国分会杰出青年学者奖",
+      "湖北省医学青年人才（第一层次）"
+    ],
+    "academic_services": [
+      "中华口腔医学会口腔医学教育专委会常务委员",
+      "湖北省口腔医学教育专委会主任委员",
+      "湖北省细胞外囊泡学会理事",
+      "中国医院协会模拟医学专业委员会委员",
+      "美国密西根大学客座副教授"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "颅颌面及全身骨骼代谢生物学",
+      "口腔颌面骨破坏疾病相关临床研究"
+    ],
+    "research_interests": [
+      "骨骼代谢",
+      "颅颌面骨生物学",
+      "骨破坏疾病",
+      "细胞外囊泡",
+      "口腔临床研究"
+    ],
+    "research_description": "长期致力于颅颌面及全身骨骼代谢生物学研究，聚焦口腔颌面骨破坏疾病的机制与临床转化，主持多项国家自然科学基金及省部级课题，研究成果发表于Science子刊Sci Transl Med、EMBO J、J Clin Invest等国际主流期刊，获国际奖项并被Nature Reviews系列等高水平期刊正面引用和评述。",
+    "disciplines": [
+      "口腔临床医学",
+      "生物医学"
+    ],
+    "field_tags": [
+      "骨骼代谢",
+      "颅颌面生物学",
+      "骨破坏疾病",
+      "细胞外囊泡",
+      "口腔医学",
+      "临床转化研究"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "First or corresponding author papers in Science sub-journals such as Sci Transl Med, EMBO J, J Clin Invest, J Cell Biol, J Bone Miner Res, J Dent Res",
+        "keywords": [
+          "craniofacial biology",
+          "skeletal metabolism",
+          "bone remodeling",
+          "oral maxillofacial bone disease",
+          "extracellular vesicles"
+        ],
+        "journal_name": "Science Translational Medicine, EMBO Journal, Journal of Clinical Investigation, Journal of Cell Biology, Journal of Bone and Mineral Research, Journal of Dental Research",
+        "research_fields": [
+          "Oral and Maxillofacial Biology",
+          "Skeletal Metabolism",
+          "Bone Remodeling",
+          "Clinical Oral Research"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学口腔医学院教师主页",
+        "url": "http://jszy.whu.edu.cn/zhulingxin/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级课题"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省部级机构"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 朱玲新\n页面链接: http://jszy.whu.edu.cn/zhulingxin/zh_CN/index.htm\n==================================================\n武汉大学 朱玲新--中文主页--首页\n朱玲新\n副主任医师\n博士生导师\n硕士生导师\n性别：男\n毕业院校：武汉大学\n学历：博士研究生毕业\n在职信息：在职\n所在单位：口腔医学院\n学科：\n口腔临床医学\n办公地点：武汉大学口腔医学院\n联系方式：lingxin.zhu@whu.edu.cn\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n武汉大学口腔医学院主任医师、副教授、博士生导师，长期致力于颅颌面及全身骨骼代谢生物学研究。主持多项国家自然科学基金以及省部级课题，入选湖北省医学青年人才（第一层次）。获国际华人骨研究协会Webster Jee Young Investigator Award、国际牙科研究协会中国分会杰出青年学者奖。担任湖北省口腔医学教育专委会主任委员、中华口腔医学会口腔医学教育专委会常务委员、中国医院协会模拟医学专业委员会委员、湖北省细胞外囊泡学会理事，受聘美国密西根大学客座副教授。\n近年来以第一或通讯作者在Science子刊Sci Transl Med, EMBO J, J Clin Invest, J Cell Biol, J Bone Miner Res, J Dent Res等国际主流期刊发表论文30余篇，引用达1500余次；授权国家发明专利2项，参编人卫出版社和科学出版社专著各1部。研究成果获得国内外同行广泛关注和认可，被Nature Reviews系列, Developmental Cell, EMBO Journal, Faculty Opinions等高水平期刊正面引用和评述。\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n社会兼职\n中华口腔医学会口腔医学教育专委会常务委员\n湖北省口腔医学教育专委会主任委员\n湖北省细胞外囊泡学会理事\n研究方向\n颅颌面及全身骨骼代谢生物学\n口腔颌面骨破坏疾病相关临床研究\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

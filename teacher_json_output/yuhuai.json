@@ -1,0 +1,158 @@
+{
+  "id": "yuhuai",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/yuhuai/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "余淮",
+    "english_name": "Yu Huai",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "电子信息学院",
+    "college": "电子信息学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "通信与信息系统",
+        "school": "武汉大学",
+        "period": "2015.9-2020.12",
+        "country": "中国"
+      },
+      {
+        "degree": "博士联合培养",
+        "field": "机器人学",
+        "school": "美国卡内基梅隆大学机器人研究所(CMU RI)",
+        "period": "2018.10-2020.10",
+        "country": "美国"
+      },
+      {
+        "degree": "学士",
+        "field": "电子信息工程",
+        "school": "武汉大学",
+        "period": "2011.9-2015.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2023年武汉市“武汉英才计划”优秀青年人才",
+      "2023年湖北省“楚天学者计划”楚天学子",
+      "2022年ISPRS国际摄影测量与遥感汇刊年度最佳论文奖（U. V. Helava Award）"
+    ],
+    "academic_services": [
+      "《Robot Learning》青年编委",
+      "IEEE Robotics and Automation Letters (RAL) 副编辑(AE)",
+      "国际智能机器人与系统会议IROS领域副编辑（2023-2025）"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "智能机器人",
+      "智能无人系统",
+      "多模态数据融合",
+      "视觉SLAM"
+    ],
+    "research_interests": [
+      "机器人感知",
+      "视觉SLAM",
+      "多模态融合",
+      "线检测",
+      "无人系统"
+    ],
+    "research_description": "余淮副教授长期从事智能机器人领域研究，在机器人多模态数据融合、视觉SLAM等关键技术方面取得了一系列原创性成果。其研究聚焦于智能无人系统的感知与定位技术，尤其在基于视觉的SLAM系统与线特征检测方面具有突出贡献，相关工作获ISPRS J. P&RS年度最佳论文奖。研究成果发表于IEEE TPAMI、ISPRS J. P&RS、IEEE TGRS/RAL/TIM及ICRA、IROS等人工智能与机器人领域顶级期刊和会议。",
+    "disciplines": [
+      "电子信息工程",
+      "机器人学",
+      "人工智能",
+      "计算机视觉"
+    ],
+    "field_tags": [
+      "智能机器人",
+      "视觉SLAM",
+      "多模态融合",
+      "无人系统",
+      "线检测",
+      "机器人感知",
+      "智能感知",
+      "自主导航"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 20,
+    "representative_publications": [
+      {
+        "title": "ULSD线检测工作",
+        "keywords": [
+          "线检测",
+          "视觉SLAM",
+          "多模态数据融合",
+          "机器人感知"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "智能机器人",
+          "计算机视觉",
+          "遥感与测绘"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "多模态数据融合在智能机器人中的应用",
+        "keywords": [
+          "多模态融合",
+          "智能机器人",
+          "视觉SLAM",
+          "感知系统"
+        ],
+        "journal_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "research_fields": [
+          "人工智能",
+          "机器人学",
+          "模式识别"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/yuhuai/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省楚天学者计划",
+      "武汉市武汉英才计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 余淮\n页面链接: http://jszy.whu.edu.cn/yuhuai/zh_CN/index.htm\n==================================================\n武汉大学 余淮--中文主页--首页\n教师个人主页\n余淮\n个人信息\n教师拼音名称：Yu Huai\n电子邮箱：\n入职时间：2021-11-01\n所在单位：电子信息学院\n学历：博士研究生毕业\n在职信息：在职\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n武汉大学电子信息学院副教授，博士生导师，获湖北省“楚天学者”-楚天学子和武汉市“武汉英才”-优秀青年人才项目资助。长期从事智能机器人领域研究，在机器人多模态数据融合、视觉SLAM等关键技术等方面取得了一系列原创性成果，以第一/通讯作者在IEEE TPAMI、ISPRS J. P&RS、IEEE TGRS/RAL/TIM和ICRA、IROS等人工智能和机器人领域顶级期刊和会议上发表论文20余篇，其中ULSD线检测工作获得2021年度ISPRS国际摄影测量与遥感学会汇刊（ISPRS J. P&RS）的最佳论文奖（U. V. Helava Award）。主持国家自然科学...\n教育经历\n更多>>\n2018.10-2020.10\n美国卡内基梅隆大学机器人研究所(CMU RI)  | 机器人学 | 博士联合联合培养\n2015.9-2020.12\n武汉大学  | 通信与信息系统  | 工学博士学位 | 研究生毕业\n2011.9-2015.6\n武汉大学  | 电子信息工程  | 学士 | 大学本科\n工作经历\n更多>>\n2025.9-至今\n电子信息学院 | 武汉大学\n| 副教授\n2020.11-2021.10\n机器人研究所(RI) | 美国卡内基梅隆大学(CMU)\n| 博士后\n2021.11-2025.8\n电子信息学院 | 武汉大学\n| 副研究员\n社会兼职\n更多>>\n2025.9-至今\n《Robot Learning》青年编委\n2025.8-至今\nIEEE Robotics and Automation Letters (RAL) 副编辑(AE)\n2023.3-至今\n2023-2025 国际智能机器人与系统会议IROS领域副编辑\n研究方向\n机器人、智能无人系统\n曾获荣誉\n2023    武汉市“武汉英才计划”优秀青年人才\n2023    湖北省“楚天学者计划”楚天学子\n2022    2021年ISPRS国际摄影测量与遥感汇刊年度最佳论文奖 (每年仅1篇)\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "id": "gangluo",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/gangluo/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "罗纲",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地球物理系",
+    "college": "地球与空间科学技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "计算地球动力学",
+        "school": "美国密苏里大学",
+        "period": "博士",
+        "country": "美国"
+      },
+      {
+        "degree": "硕士",
+        "field": "固体地球物理学",
+        "school": "北京大学",
+        "period": "硕士",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "地球动力学",
+        "school": "北京大学",
+        "period": "学士",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "美国密苏里大学",
+    "academic_honors": [
+      "国家高层次人才计划（青年）"
+    ],
+    "academic_services": [
+      "中国力学学会第十届地球动力学专业委员会主任委员",
+      "中国力学学会第十一届地球动力学专业委员会副主任委员",
+      "中国力学学会第十二届地球动力学专业委员会副主任委员",
+      "中国科学院第四届青联委员",
+      "中国地球物理学会第一届地震学专业委员会委员",
+      "中国地震学会第十届青年科技工作委员会委员",
+      "中国地震学会地震地质专业委员会委员",
+      "中国地震学会地震学专业委员会委员",
+      "中国地震学会地震数值预测专业委员会委员",
+      "中国地震学会地壳应力与地震专业委员会委员",
+      "中国石油学会第十届石油物探专业委员会委员",
+      "《地震学报》第十届编委会编委",
+      "《武汉大学学报-信息科学版》第十一届编委会编委",
+      "《大地测量与地球动力学》第四届编委会编委",
+      "美国地球物理学会会员(AGU)",
+      "美国勘探地球物理学会会员(SEG)",
+      "美国石油地质学会会员(AAPG)"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "固体地球物理学",
+      "地球动力学",
+      "地震动力学",
+      "数值模拟",
+      "构造地质学",
+      "成矿动力学",
+      "盐体系统地质力学",
+      "钻井稳定性分析"
+    ],
+    "research_interests": [
+      "地壳-岩石圈变形与应力演化",
+      "断层系统地震活动性",
+      "地震数值模拟",
+      "盐体系统应力与孔隙流体压力",
+      "孔隙流体-岩石耦合模拟",
+      "成矿过程与成矿动力学",
+      "人工地震目录合成",
+      "沉积盆地演化",
+      "地表变形机制",
+      "构造应力场分析"
+    ],
+    "research_description": "罗纲教授主要从事理论与应用计算地球动力学研究，聚焦于利用大规模并行有限元数值模拟方法，整合地震、地质、地形变、钻井等多源观测数据，研究地壳-岩石圈的长期与短期动力学过程。研究内容涵盖地表与浅表变形机制、断层系统地震活动性与地震诱发、盐体系统的变形与应力演化、孔隙流体压力与岩石应力-温度耦合、钻井稳定性分析，以及成矿过程与成矿动力学的数值模拟。研究应用领域包括地震预测、油气勘探、地质灾害评估与资源开发。",
+    "disciplines": [
+      "固体地球物理学",
+      "地球动力学",
+      "地质学",
+      "构造地质学",
+      "资源与环境",
+      "大地测量学与测量工程",
+      "岩石力学",
+      "石油地质学"
+    ],
+    "field_tags": [
+      "数值模拟",
+      "地震活动性",
+      "断层相互作用",
+      "盐体系统",
+      "孔隙流体压力",
+      "应力场演化",
+      "成矿动力学",
+      "钻井稳定性",
+      "地壳变形",
+      "构造应力"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 60,
+    "representative_publications": [
+      {
+        "title": "华北地区断裂带地震时空活动的有限元数值模拟",
+        "keywords": [
+          "有限元数值模拟",
+          "地震时空活动",
+          "华北地区",
+          "断裂带"
+        ],
+        "journal_name": "地球物理学报",
+        "research_fields": [
+          "固体地球物理学",
+          "地震动力学",
+          "数值模拟"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Numerical Modeling of Interactions between Shallow and Deep Faults in the North China Plain: Insights from the Sanhe-Pinggu Seismic Zone",
+        "keywords": [
+          "浅层与深层断层相互作用",
+          "数值模拟",
+          "华北平原",
+          "地震活动性"
+        ],
+        "journal_name": "Tectonophysics",
+        "research_fields": [
+          "地球动力学",
+          "地震学",
+          "构造地质学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Stress field and safe drilling mud weights in the Shizigou salt system of Yingxiongling, Qaidam Basin, China",
+        "keywords": [
+          "盐体系统",
+          "应力场",
+          "钻井泥浆密度",
+          "安全钻井",
+          "柴达木盆地"
+        ],
+        "journal_name": "Journal of Petroleum Exploration and Production Technology",
+        "research_fields": [
+          "石油地质学",
+          "岩石力学",
+          "数值模拟"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Effects of a vertical fracture on the stability of thermal convection in a porous cavity",
+        "keywords": [
+          "垂直裂缝",
+          "热对流稳定性",
+          "多孔介质",
+          "热传导"
+        ],
+        "journal_name": "International Journal of Thermal Sciences",
+        "research_fields": [
+          "热科学",
+          "多物理场耦合",
+          "数值模拟"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Can we obtain reliable seismic b-values for real-time catalogues?",
+        "keywords": [
+          "b值",
+          "实时地震目录",
+          "地震活动性",
+          "地震学参数"
+        ],
+        "journal_name": "Geophysical Journal International",
+        "research_fields": [
+          "地震学",
+          "地震统计",
+          "数值模拟"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/gangluo/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "973计划",
+      "863计划"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "中国科学院"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 罗纲\n页面链接: http://jszy.whu.edu.cn/gangluo/zh_CN/index.htm\n==================================================\n武汉大学 罗纲--中文主页--首页\n罗纲\n博士生导师\n硕士生导师\n联系方式：武汉市武昌区八一路299号武汉大学地球与空间科学技术学院\n邮政编码：430072\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n罗纲 教授 博导 固体地球物理学 地球动力学 地震动力学 数值模拟\n·  固体地球物理学\n·  大地测量学与测量工程\n·  资源与环境\n教育背景\n·  美国密苏里大学 计算地球动力学 博士 (University of Missouri, PhD)\n·  北京大学 固体地球物理学 硕士 (Peking University, MS)\n·  北京大学 地球动力学 学士 (Peking University, BS)\n工作经历\n·  武汉大学地球与空间科学技术学院教授，2025.2-今\n·  武汉大学测绘学院教授，2019.5-2025.1\n·  武汉大学测绘学院地球物理系系主任，2020.9-2023.9\n·  中国科学院计算地球动力学重点实验室副主任，2016.7-2019.4\n·  中国科学院计算地球动力学重点实验室教授，2014.6-2019.4\n·  中国科学院大学地球与行星科学学院教授，2014.6-2019.4\n·  美国德克萨斯大学奥斯丁分校地球科学学院经济地质局副研究员，2011.9-2014.5\n（Applied Geodynamics Lab/Geofluids Lab, Bureau of Economic Geology, Jackson School of Geosciences, University of Texas at Austin）\n·  美国德克萨斯大学奥斯丁分校地球科学学院经济地质局博士后，2009.8-2011.8\n（Applied Geodynamics Lab/Geofluids Lab, Bureau of Economic Geology, Jackson School of Geosciences, University of Texas at Austin）\n兼职奖励\n·  国家高层次人才计划（青年）\n·  中国力学学会第十届地球动力学专业委员会主任委员\n·  中国力学学会第十一届地球动力学专业委员会副主任委员\n·  中国力学学会第十二届地球动力学专业委员会副主任委员\n·  中国科学院第四届青联委员\n·  中国地球物理学会第一届地震学专业委员会委员\n·  中国地震学会第十届青年科技工作委员会委员\n·  中国地震学会地震地质专业委员会委员\n·  中国地震学会地震学专业委员会委员\n·  中国地震学会地震数值预测专业委员会委员\n·  中国地震学会地壳应力与地震专业委员会委员\n·  中国石油学会第十届石油物探专业委员会委员\n· 《地震学报》第十届编委会编委\n· 《武汉大学学报-信息科学版》第十一届编委会编委\n· 《大地测量与地球动力学》第四届编委会编委\n·  美国地球物理学会会员(AGU)\n·  美国勘探地球物理学会会员(SEG)\n·  美国石油地质学会会员(AAPG)\n招生信息\n·  招生专业与方向：固体地球物理学，地球动力学，地质力学，大地构造，构造地质，地震地质，工程地质，岩石与岩土力学，数值模拟。\n·  使用数值模拟的方法来理解地表/浅表面与地球动力学过程，及地球内部的物理过程。例如：地表变形及其机制、注水蓄水抽水与地表变形及地震活动性、断层与地震、人工合成地震目录、俯冲与造山等。\n·  使用数值模拟的方法来理解盐体系统的变形、应力和孔隙流体压力，以及钻井稳定性，从而理解沉积盆地演化的基本物理过程，为盐体周围的石油勘探、钻井开发等提供支持。\n·  成矿过程、成矿动力学的数值模拟。\n·  欢迎感兴趣的同学邮件联系我。欢迎具有固体地球物理学、地球动力学、地质学、大地构造、构造地质学、水文地质模拟、岩土力学、岩石力学、工程地质等等背景的同学报考硕士及博士研究生。欢迎有相关研究背景的博士毕业生，联系我关于博士后研究的工作机会。博士后待遇优厚。\n研究领域\n我的研究主要集中在理论和应用计算地球动力学两个方面。a) 理论计算地球动力学，主要利用大规模并行有限元数值模拟，整合地震、地质，地形变观测数据来模拟地壳岩石圈的地球动力学过程（构造，地震和变形）；b) 应用计算地球动力学，主要整合地震、地质、钻井数据使用有限元数值模拟调查盆地系统的变形，应力和孔隙流体压力及其地质演化，以及钻井的稳定性分析（石油构造和盆地模拟）；c) 应用计算地球动力学，主要整合地质、钻井、矿产资源数据，使用数值模拟的方法研究成矿过程及成矿动力学（成矿动力学数值模拟）。具体有以下几方面：\n·  地表/浅表面的运动、变形及其机制\n·  地壳-岩石圈的短期、地震循环过程和地质长期的应力应变演化\n·  地壳-岩石圈的流变结构和地球动力学过程\n·  数值模拟断层系统的地震活动性（合成长期地震目录）、断层相互影响和地震诱发\n·  数值模拟地震断层的破裂过程\n·  数值模拟盐体的地质运动与演化\n·  盐体系统的变形、应力、孔隙流体压力和流体流动\n·  地质力学、岩土力学与盐体系统的钻井稳定性分析\n·  孔隙流体压力-岩石应力应变-温度耦合的数值模拟\n·  成矿动力学数值模拟\n部分论文\n·  罗纲*，宋建等，2025，华北地区断裂带地震时空活动的有限元数值模拟，地球物理学报，68(9): 3415-3432.\n·  Li Yin, Bengang Zhou, Zhengfang Li, Gang Luo, 2025, Numerical Modeling of Interactions between Shallow and Deep Faults in the North China Plain: Insights from the Sanhe-Pinggu Seismic Zone, Tectonophysics, 914 (2025) 230906, p. 1-14, https://doi.org/10.1016/j.tecto.2025.230906.\n·  Jihan Liu, Gang Luo*, Mingwen Wang, 2025, Stress field and safe drilling mud weights in the Shizigou salt system of Yingxiongling, Qaidam Basin, China, Journal of Petroleum Exploration and Production Technology, 15:48, p. 1-18, https://doi.org/10.1007/s13202-024-01916-2.\n·  Lianping Zhang, Gang Luo*, Shimin Wang, Mingwen Wang, 2025, Effects of a vertical fracture on the stability of thermal convection in a porous cavity, International Journal of Thermal Sciences, 208 (2025) 109499, p. 1-8, https://doi.org/10.1016/j.ijthermalsci.2024.109499.\n·  Linxuan Li, Gang Luo*, 2024, Can we obtain reliable seismic b-values for real-time catalogues? Geophysical Journal International, 237, P. 1554–1566, https://doi.org/10.1093/gji/ggae124.\n·  Mingwen Wang, Gang Luo*, Zhaowei Chen, Chao Fang, 2024, Stability Analysis of Salt Structure Drilling and Its Application to the Keshen 10 Block of Kuqa Depression in Tarim Basin, Rock Mechanics and Rock Engineering, 57, P. 1171–1194, https://doi.org/10.1007/s00603-023-03605-8.\n·  Lianping Zhang, Gang Luo*, Shimin Wang, 2024, The effects of fractures on porous flow and heat transfer in a reservoir of a U-shaped closed geothermal system, Applied Thermal Engineering, 246, 122852, https://doi.org/10.1016/j.applthermaleng.2024.122852.\n·  Cheng Chang, Keyan Xiao, Gang Luo, Li Sun, 2024, Influence of different tectonic settings on fracture formation and fluid flow around upper‑crustal magmatic intrusion: insights from numerical modelling, Earth Science Informatics, https://doi.org/10.1007/s12145-024-01255-0.\n·  尹力，周本刚，任治坤，罗纲，2024. 鲜水河断裂带地震矩亏损的空间分布及2022 年泸定M 6.8 级地震. 地球科学，49(2): 425-436. (Yin Li，Zhou Bengang，Ren Zhikun，Luo Gang，2024.Spatial Distribution of Seismic Moment Deficit in Xianshuihe Fault Zone and the 2022 Luding M 6.8 Earthquake.Earth Science, 49, 2, P. 425-436.)\n·  Linxuan Li, Gang Luo*, Mian Liu, 2023, The K−M Slope: A Potential Supplement for b-Value, Seismological Research Letters, 94, 1892–1899, doi: 10.1785/0220220268.\n·  Li Yin, Gang Luo*, Mian Liu, 2023, Moment budget and seismic potential of the Xianshuihe-Xiaojiang fault system, southeastern Tibetan Plateau, Tectonophysics, 862 (2023) 229935, https://doi.org/10.1016/j.tecto.2023.229935.\n·  Q. Zhang, Gang Luo*, 2023, Multi–timescale mechanical coupling, fault interactions, and seismicity in the Anninghe-Zemuhe-Daliangshan fault system of southeastern Tibetan Plateau, Journal of Asian Earth Sciences, 256 (2023) 105826, https://doi.org/10.1016/j.jseaes.2023.105826.\n·  Gang Luo*, Xibo Jin, 2023, How does lithospheric viscosity control the temporal patterns of seismicity during an earthquake cycle? Tectonophysics, https://doi.org/10.1016/j.tecto.2022.229686.\n·  Linxuan Li, Gang Luo*, 2022, What causes the spatiotemporal patterns of seismicity in the ThreeGorges Reservoir area, central China? Earth and Planetary Science Letters, 592, 117618, p.1-10, https://doi.org/10.1016/j.epsl.2022.117618.\n·  Li Yin, Gang Luo*, 2022, Does middle-lower crustal flow exist in the eastern Tibetan Plateau? Insights from finite-element modeling and geodetic observations, Tectonophysics, 832, 229363, https://doi.org/10.1016/j.tecto.2022.229363.\n·  赵文涛，罗纲*，靳锡波，孙云强，2022, 人工地震目录的评估及其在青藏高原东北缘的应用，地球物理学报，65(1): 67-78, doi:10.6038/cjg2022P0520.\n·  高雅婧，孙云强*，罗纲*，2022，1999年集集地震前后台湾地区地震b值及应力场时空演化特征，地球物理学报，65（6）：2137-2152，doi:10.6038/cjg2022P0106.\n·  高雅婧，罗纲*，王少坡，周元泽，2022，青藏高原东南部地震b值时空演化及其对区域应力场特征的启示，中国科学院大学学报，39（5）：627-638.\n·  常成，罗纲*，2022，斑岩矿床侵入体顶部破裂系统形成的力学机制：多场耦合数值模拟的启示，地球物理学报，65（8）：3006-3024，doi:10.6038/cjg2022P0375.\n·  Li Yin, Gang Luo*, 2021, Fault interaction and active crustal extrusion in the southeastern Tibetan Plateau: Insights from geodynamic modeling, Journal of Asian Earth Sciences, 218, https://doi.org/10.1016/j.jseaes.2021.104866.\n·  Cheng Chang, Gang Luo*, 2021, The Coupled THMC finite-element modeling of hydrothermal systems: Insights into the Jiama porphyry metallogenic system, Ore Geology Reviews, 138, https://doi.org/10.1016/j.oregeorev.2021.104404.\n·  孙云强，罗纲*，黄禄渊，2021，基于分裂节点法的地震同震和震后形变数值模拟及其在汶川大地震中的应用，地质力学学报，27(2):241-253, DOI:10.12090/j.issn.1006-6616.2021.27.02.023.\n·  Yunqiang Sun, Gang Luo*, Caibo Hu, and Yaolin Shi, 2020, Preliminary analysis of earthquake probability based on the synthetic seismic catalog: Science China Earth Sciences, v. 63, https://doi.org/10.1007/s11430-11019-19582-11439.\n·  王少坡，罗纲*，史亚男，解孟雨，魏东平，2020，鄂霍次克微板块东部俯冲带区域地震b值及应力场特征，地球物理学报，63(4)，doi:10.6038/cjg2020N0262.\n·  Yuxuan Chen, Mian Liu, Gang Luo, 2020, Complex temporal patterns of large earthquakes: Devil’s Staircases, Bulletin of the Seismological Society of America, doi: 10.1785/0120190148.\n·  Yunqiang Sun, Gang Luo*, Yaxing Li, Mingwen Wang, Xiaofeng Jia, Cheng Chang, Rui Zhang, 2020, Near-salt stress-induced seismic velocity changes and seismic anisotropy, and their impacts on salt imaging: A case study in Kuqa depression, Tarim Basin, China, Interpretation, volume 8, issue 3, https://doi.org/10.1190/INT-2019-0167.1.\n·  Cheng Chang, Gang Luo*, Mingwen Wang, Yunqiang Sun, 2020, Near-salt perturbations of stresses and pore fluid pressures, and their impacts on wellbore stability in Kuqa depression of Tarim Basin, China, Interpretation, volume 8, issue 2, https://doi.org/10.1190/int-2019-0168.1.\n·  Yajing Gao, Gang Luo*, Yunqiang Sun, 2020, Seismicity, Fault Slip Rates, and Fault Interactions in a Fault System, Journal of Geophysical Research: Solid Earth, 125, e2019JB017379. https://doi.org/10.1029/2019JB017379.\n·  王明文，罗纲*，孙云强，常成，2020,数值模拟盐体几何起伏导致的应力扰动，石油勘探与开发，47（2），DOI: 10.11698/PED.2020.02.00.\n·  Xianying Wang, Cong Guo, David A. Yuen,Gang Luo*, 2020, GeoVReality: A computational interactive virtual reality visualization framework and workflow for geophysical research, Physics of the Earth and Planetary Interiors, https://doi.org/10.1016/j.pepi.2019.106312.\n·  Yuqiang Li, Dun Wang, Shenghui Xu, Lihua Fang, Yifang Cheng, Gang Luo, Bing Yan, Enescu Bogdan, Jim Mori, 2019, Thrust and Conjugate Strike‐Slip Faults in the 17 June 2018 MJMA 6.1 (⁠Mw 5.5) Osaka, Japan, Earthquake Sequence, Seismological Research Letters, v. 90, no. 6, p. 2132-2141, https://doi.org/10.1785/0220190122.\n·  Mingwen Wang, Yunqiang Sun, Gang Luo*, and Rui Zhang, 2019, Stress perturbations around the deep salt structure of Kuqa depression in the Tarim Basin, Interpretation, Vol. 7, Iss. 3, https://doi.org/10.1190/INT-2018-0177.1.\n·  Yaxing Li, Yunqiang Sun, Xiaofeng Jia*, and Gang Luo*, 2019, How do stress perturbations near salt bodies induce difficulty in salt imaging? Insights from a geomechanical model and salt imaging, Petroleum Geoscience, V.25. p. 273-281, https://doi.org/10.1144/petgeo2018-092.\n·  Li Yin, Gang Luo*, 2019, The spatio-temporal strain partitioning 1 across the Longmenshan Fault Zone during seismic cycles: implications for deformation mechanisms and seismicity,Journal of Asian Earth Sciences, 173, p.189-203, https://doi.org/10.1016/j.jseaes.2019.01.022.\n·  Fengqi Tan, Changfu Xu, Yuliang Zhang, Gang Luo, Yukun Chen, and Wentao Liu, 2019, Differences of microscopic seepage mechanisms of water flooding and polymer flooding and prediction models of final oil recovery for conglomerate reservoir, Oil & Gas Science and Technology, 74, 13, p.1-15, https://doi.org/10.2516/ogst/2018086.\n·  孙云强，罗纲*，尹力，石耀霖，2019，青藏高原东北缘断层系统的大地震迁移概率及断层滑动速度的分段特征. 地球物理学报，62(5)：1663-1679，doi:10.6038/cjg2019M0190.\n·  Gang Luo*, Mian Liu, 2018, Stressing rates and seismicity on the major faults in eastern Tibetan Plateau, Journal of Geophysical Research-Solid Earth, 123, p. 10968-10986, https://doi.org/10.1029/2018JB015532.\n·  尹力，罗纲*，孙云强, 2018, 青藏高原东缘中下地壳流与地壳变形. 地球物理学报，61(10)：3933-3950，doi:10.6038/cjg2018L0694.\n·   孙云强，罗纲*, 2018, 青藏高原东北缘地震时空迁移的有限元数值模拟．地球物理学报，61(6)：2246-2264，doi:10.6038/cjg2018L401.\n·  尹力，罗纲*, 2018, 有限元数值模拟龙门山断裂带地震循环的地壳变形演化．地球物理学报，61(4):1238-1257,doi10.6038/cjg2018L0248.\n·  石耀霖，孙云强，罗纲，董培育，张怀，2018，关于我国地震数值预报路线图的设想-汶川地震十周年反思，科学通报，63（19），1865-1881, doi: 10.1360/N972018-00335.\n·  Gang Luo*, Michael R. Hudec, Peter B. Flemings, and Maria A. Nikolinakou, 2017, Deformation, stress, and pore pressure in an evolving suprasalt basin, Journal of Geophysical Research-Solid Earth, v. 122, p.5663–5690.\n·  Fengqi Tan,Gang Luo, Duojun Wang, Yangkang Chen, 2017, Evaluation of complex petroleum reservoirs based on data mining methods, Computational Geosciences, v.21, p. 151–165.\n·  Tim P. Dooley, Michael R. Hudec, Dan Carruthers, Martin P. A. Jackson, andG. Luo, 2017, The effects of base-salt relief on salt flow and suprasalt deformation patterns — Part 1: Flow across simple steps in the base of salt, Interpretation, Vol. 5, No. 1 (February 2017), p. SD1–SD23.\n·  黄禄渊，张贝，程惠红，罗纲，瞿武林，张怀，石耀霖. 2017, 2015年智利Illapel Mw8.3地震的同震效应及其对南美大陆地震危险性的影响. 地球物理学报. 60(1): 163-173.\n·  Huai Zhang, Huihong Cheng, Yimin Jin,Gang Luo, Jingjing Wang, David A. Yuen, and Yaolin Shi, 2016, The implications of regional microseismic activities: A lesson from 2008 Ms. 8.0 Wenchuan earthquake, Physics of the Earth and Planetary Interiors, v.261, p.107–117.\n·  Luo G.*, Flemings P. B., Hudec, M. R., and Nikolinakou, M.A., 2015, The role of pore fluid overpressure in the substrates of advancing salt sheets, ice glaciers, and critical-state wedges, Journal of Geophysical Research-Solid Earth, v. 120, p. 87–105, doi:10.1002/2014JB011326.\n·  Liu, M, Luo, G., and Wang, H., 2014, The 2013 Lushan Earthquake in China Tests Hazard Assessments, Seismological Research Letters, v. 85, no. 1, p. 40-43, doi: 10.1785/0220130117.\n·  Liu, M., Luo, G.,Wang, H., and Stein, S, 2014, Long aftershock sequences in North China and Central US: Implications for hazard assessment in mid-continents, Earthquake Science, v. 27, p. 27-35, doi: 10.1007/s11589-014-0066-z.\n·  Nikolinakou, M.A., Merrell, M.P.,Luo, G.,Flemings P. B. and Hudec, M. R., 2013, Geomechanical modeling of the Mad Dog salt, Gulf of Mexico, American Rock Mechanics Association, ARMA 13-234, p.1-7.\n·  Luo, G.*, Liu, M., 2012, Multi–timescale mechanical coupling between the San Jacinto fault and the San Andreas fault, southern California, Lithosphere, v. 4, p. 221-229, doi:10.1130/L180.1.\n·  Luo, G.*, Nikolinakou, M., Flemings, P., and Hudec, M., 2012, Geomechanical modeling of stresses adjacent to salt bodies: 1. Uncoupled models, AAPG Bulletin, p. 43-64, doi:10.1306/04111110144.\n·  Nikolinakou, M., Luo, G., Hudec, M., and Flemings, P., 2012, Geomechanical modeling of stresses adjacent to salt bodies: 2. Poro-elasto-plasticity and coupled overpressures, AAPG Bulletin, V.96, p. 65-85, doi:10.1306/04111110143.\n·  Luo, G.*, Nikolinakou, M., Flemings, P., and Hudec, M., 2012, Near-salt stress and wellbore stability: A finite-element study and its application, American Rock Mechanics Association, ARMA 12-309, p.1-9.\n·  Nikolinakou, M.,Luo, G.,Hudec, M., and Flemings, P., 2011, Geomechanical modeling of stresses and pore pressures in mudstones adjacent to salt bodies, American Rock Mechanics Association, 2011, ARMA 11-271.\n·  Liu, M., Yang, Y., Li, Q.,Luo, G.,Zhang, H., 2011, Parallel finite element modeling of multi-timescale faulting and lithospheric deformation in the western US, in Geoinformatics: Cyberinfrastructure for the Solid Earth Sciences, Keller, R. and Baru, C. (ed.), Cambridge University Press.\n·  Luo G.* and Liu, M., 2010, Stress evolution and fault interactions before and after the 2008 great Wenchuan earthquake, Tectonophysics, VOL. 491, p. 127-140, doi:10.1016/j.tecto.2009.12.019.\n·  Luo G.*and Liu, M., 2009, How does trench coupling lead to mountain building in the subandes? A viscoelastoplastic finite element model, Journal of Geophysical Research-Solid Earth, v. 114, B03409, doi:10.1029/2008JB005861.\n·  Luo G.*and Liu, M., 2009, Why short-term crustal shortening leads to mountain building in the Andes, but not in the Cascadia?: Geophysical Research Letters, v. 36, L08301, doi:10.1029/2009GL037347.\n·  Ge, S., Liu, M., Lu, N., Godt, J., andLuo, G.,2009, Did the Zipingpu Reservoir trigger the 2008 Wenchuan earthquake?, Geophysical Research Letters, VOL. 36, L20315, doi:10.1029/2009GL040349.\n·  Cai, Y., Luo, G., Liu, J., Li, Q., Zhang, B. and Chen., H.. A numerical method for modeling dynamic process of discontinuous rock foundation-arch dam system, Rock and Soil Mechanics (in Chinese), Vol.25 Supp.2 (2004): 361-365.\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

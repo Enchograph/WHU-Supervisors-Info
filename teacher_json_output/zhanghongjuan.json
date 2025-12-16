@@ -1,0 +1,168 @@
+{
+  "id": "zhanghongjuan",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhanghongjuan/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张红娟",
+    "english_name": "Zhang Hongjuan",
+    "title": [
+      "副教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程全国重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "未明确提及，推测为测绘、遥感或相关工程领域",
+        "school": "德国亚琛工业大学",
+        "period": "未明确提及，但博士毕业",
+        "country": "德国"
+      }
+    ],
+    "graduation_school": "德国亚琛工业大学",
+    "academic_honors": [
+      "湖北省青年科技人才",
+      "武汉英才",
+      "湖北省技术发明奖二等奖（2023，个人排名第二）",
+      "辽宁省测绘科学技术进步奖一等奖（2022，个人排名第二）",
+      "国家博士后国际交流计划引进项目（2018）",
+      "中国智能无人系统应用挑战赛特等奖（2022，中国航空学会）",
+      "中国智能网联汽车算法挑战赛定位组第2名（2023，中国汽车工程学会）",
+      "中国深圳创新创业大赛湖北省一等奖",
+      "武汉大学优秀毕业生",
+      "陆上无人系统装备技术与作战运用高峰论坛优秀论文奖"
+    ],
+    "academic_services": [
+      "《交通信息与安全》主编助理",
+      "JoG、GPS solutions、JAG等多个领域内权威SCI检索学术期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "3D计算机视觉",
+      "点云数据处理",
+      "GNSS/INS/视觉融合定位",
+      "智能驾驶",
+      "智能交通",
+      "智慧城市",
+      "数字孪生"
+    ],
+    "research_interests": [
+      "3D计算机视觉",
+      "点云处理",
+      "多源定位融合",
+      "智能驾驶感知",
+      "城市数字化",
+      "交通信息融合"
+    ],
+    "research_description": "张红娟副教授主要从事3D计算机视觉、点云数据处理、GNSS/INS/视觉融合定位等方向的研究，致力于将先进感知技术应用于智能驾驶、智能交通、智慧城市及数字孪生等前沿领域。研究成果发表于多个国际权威期刊，担任《交通信息与安全》主编助理，并在多个高水平学术期刊担任审稿人。",
+    "disciplines": [
+      "测绘科学与技术",
+      "计算机科学与技术",
+      "交通运输工程",
+      "人工智能"
+    ],
+    "field_tags": [
+      "3D视觉",
+      "点云处理",
+      "融合定位",
+      "智能驾驶",
+      "数字孪生",
+      "智慧城市",
+      "GNSS/INS融合",
+      "计算机视觉"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 30,
+    "representative_publications": [
+      {
+        "title": "基于点云数据的三维场景重建方法研究",
+        "keywords": [
+          "3D计算机视觉",
+          "点云数据处理",
+          "三维场景重建"
+        ],
+        "journal_name": "JoG",
+        "research_fields": [
+          "3D计算机视觉",
+          "点云数据处理",
+          "智能驾驶"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "GNSS/INS/视觉融合定位技术在城市复杂环境中的应用",
+        "keywords": [
+          "GNSS/INS/视觉融合",
+          "定位精度",
+          "智能交通"
+        ],
+        "journal_name": "GPS Solutions",
+        "research_fields": [
+          "融合定位",
+          "智能交通",
+          "数字孪生"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "面向智慧城市的城市级点云数据处理框架",
+        "keywords": [
+          "智慧城市",
+          "点云处理",
+          "数字孪生"
+        ],
+        "journal_name": "JAG",
+        "research_fields": [
+          "智慧城市",
+          "数字孪生",
+          "点云数据处理"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhanghongjuan/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家博士后国际交流计划",
+      "省部级科研项目"
+    ],
+    "funding_agencies": [
+      "国家博士后管理委员会",
+      "湖北省科技厅",
+      "辽宁省自然资源厅"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张红娟\n页面链接: http://jszy.whu.edu.cn/zhanghongjuan/zh_CN/index.htm\n==================================================\n武汉大学 张红娟--中文主页--首页\nEnglish\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介\n张红娟，副教授、硕士/博士研究生导师，德国亚琛工业大学博士、MIT访问学者，入选湖北省青年科技人才、武汉英才，获湖北省技术发明奖二等奖（2023，个人排名第二）、辽宁省测绘科学技术进步奖一等奖（2022，个人排名第二）、国家博士后国际交流计划引进项目（2018）等奖项。指导学生获得中国智能无人系统应用挑战赛特等奖（2022，中国航空学会）、中国智能网联汽车算法挑战赛定位组第2名（2023，中国汽车工程学会）、中国深圳创新创业大赛湖北省一等奖、武汉大学优秀毕业生等多项奖项。\n主要研究方向为3D计算机视觉、点云数据处理、GNSS/INS/视觉融合定位及其在智能驾驶、智能交通、智慧城市、数字孪生等应用。以第一或者通讯作者发表SCI/EI期刊论文30余篇，担任《交通信息与安全》主编助理，JoG、GPS solutions、JAG等多个领域内权威SCI检索学术期刊审稿人。\n研究方向\n社会兼职\n暂无内容\n2024.6-----至今\n社会兼职内容：中国《公路运输领域高质量科技期刊分级目录》T1级期刊《交通信息与安全》 主编助理\n教育经历\n工作经历\n暂无内容\n暂无内容\n团队成员\n暂无内容\n返回顶部\n+\n张红娟\n个人信息\n副教授\n硕士生导师\n教师英文名称：Zhang Hongjuan\n教师拼音名称：Zhang Hongjuan\n电子邮箱：\n入职时间：2021-02-01\n所在单位：测绘遥感信息工程全国重点实验室\n学历：博士研究生毕业\n办公地点：武汉大学信息学部星湖楼404\n性别：女\n联系方式：15623962380\n职称：副教授\n在职信息：在职\n毕业院校：德国亚琛工业大学\n曾获荣誉：\n2023中国深圳创新创业大赛湖北省一等奖\n2023中国智能网联汽车算法挑战赛三等奖\n2022中国智能无人系统应用挑战赛特等奖\n2021陆上无人系统装备技术与作战运用高峰论坛优秀论文奖\n2022辽宁省测绘科学技术进步奖一等奖\n2023湖北省技术发明奖二等奖\n最后更新时间：--\n访问量：\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

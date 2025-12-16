@@ -1,0 +1,217 @@
+{
+  "id": "jp",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/jp/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "贾鹏",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "空间全生命周期健康国际研究中心",
+    "college": "武汉大学",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "健康地理学",
+        "school": "路易斯安那州立大学",
+        "period": "博士",
+        "country": "美国"
+      },
+      {
+        "degree": "硕士",
+        "field": "空间流行病学",
+        "school": "佛罗里达大学",
+        "period": "硕士",
+        "country": "美国"
+      },
+      {
+        "degree": "硕士",
+        "field": "地理信息系统",
+        "school": "中国科学院空天信息创新研究院",
+        "period": "硕士",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "环境工程",
+        "school": "南京农业大学",
+        "period": "学士",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "路易斯安那州立大学",
+    "academic_honors": [
+      "美国地理学家协会（AAG）医学健康地理学分委会最佳博士论文奖（2015）",
+      "美国医疗保健研究与质量局（AHRQ）最佳研究奖（2016）",
+      "国际环境研究与公共卫生“杰出青年学者奖”（2019）",
+      "中国地理学会青年科技奖（2021）",
+      "全国高校GIS新锐奖（2022）",
+      "入选美国斯坦福大学发布的“全球前2%顶尖科学家”终身科学影响力榜单，位列公共卫生领域和内分泌及代谢领域我国中青年学者第一"
+    ],
+    "academic_services": [
+      "Health & Place 期刊编委会成员",
+      "Social Science & Medicine 期刊编委会成员",
+      "Geospatial Health 期刊编委会成员",
+      "湖北省地理学会常务理事",
+      "湖北省人口学会人口资源与环境专业委员会副主任委员",
+      "湖北省预防医学会伤害预防控制专业委员会副主任委员",
+      "中国地理学会健康地理专业委员会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "健康地理学",
+      "空间流行病学",
+      "空间全生命周期流行病学",
+      "代谢性疾病防控",
+      "传染病预测与防控",
+      "动植物疫病防控",
+      "医学影像学",
+      "社会医学",
+      "医疗资源配置规划"
+    ],
+    "research_interests": [
+      "地理信息科学",
+      "测绘遥感",
+      "移动设备数据",
+      "人工智能",
+      "数理统计",
+      "大数据分析",
+      "真实世界医疗健康数据",
+      "人居环境数据挖掘",
+      "大型人群队列研究",
+      "个体暴露史模拟",
+      "精准健康管理"
+    ],
+    "research_description": "贾鹏教授致力于健康地理学与空间流行病学的交叉研究，提出并发展‘空间全生命周期流行病学’新方向，融合地理信息、测绘遥感、可穿戴设备、移动定位、人工智能、大数据分析等技术，对个体全生命周期的健康暴露与疾病发生规律进行精细化分析，推动疾病防控与精准健康管理。其研究涵盖代谢性疾病、传染病、动植物疫病等领域的预测与干预，广泛应用于人群队列研究与真实世界数据挖掘，承担多项国家级、国际合作项目，成果发表于Nature Medicine、Lancet Global Health等顶级期刊。",
+    "disciplines": [
+      "地理学",
+      "公共卫生与预防医学",
+      "医学影像学",
+      "生物医学工程",
+      "计算机科学",
+      "人工智能",
+      "测绘科学与技术",
+      "社会医学"
+    ],
+    "field_tags": [
+      "健康地理学",
+      "空间流行病学",
+      "大数据分析",
+      "人工智能",
+      "精准医疗",
+      "传染病防控",
+      "代谢性疾病",
+      "真实世界研究",
+      "人群队列",
+      "环境健康"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 270,
+    "representative_publications": [
+      {
+        "title": "Nature Medicine",
+        "keywords": [
+          "健康地理学",
+          "空间流行病学",
+          "代谢性疾病",
+          "人工智能",
+          "大数据分析"
+        ],
+        "journal_name": "Nature Medicine",
+        "research_fields": [
+          "健康地理学",
+          "空间流行病学",
+          "医学人工智能",
+          "公共卫生"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Nature Communications",
+        "keywords": [
+          "空间全生命周期流行病学",
+          "真实世界数据",
+          "环境暴露",
+          "疾病预测"
+        ],
+        "journal_name": "Nature Communications",
+        "research_fields": [
+          "空间流行病学",
+          "环境健康",
+          "流行病学建模",
+          "大数据健康研究"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Lancet Global Health",
+        "keywords": [
+          "传染病预测",
+          "公共卫生应急",
+          "新冠防控",
+          "地理信息科学"
+        ],
+        "journal_name": "Lancet Global Health",
+        "research_fields": [
+          "全球健康",
+          "传染病防控",
+          "健康地理学",
+          "应急公共卫生"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.nl/citations?hl=en&user=eR1sDXYAAAAJ"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Peng-Jia-15/research"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "荷兰研究理事会基金",
+      "应急科研专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科技部",
+      "荷兰研究理事会",
+      "新冠疫情防控应急科研专项"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 贾鹏\n页面链接: http://jszy.whu.edu.cn/jp/zh_CN/index.htm\n==================================================\n武汉大学 贾鹏--空间全生命周期健康国际研究中心（ISLE）--首页\n贾鹏\n教授\n博士生导师\n硕士生导师\n主要任职：人民医院代谢与泛血管病医院\n其他任职：人民医院医学遥感信息研究院\n学历：博士研究生毕业\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n教授，博导，国家级海外高层次引进人才，湖北省高层次人才计划特聘教授，武汉市创新类产业领军人才，空间全生命周期健康国际研究中心主任（International Institute of Spatial Lifecourse Health）。\n主要研究方向包括健康地理学、空间流行病学、代谢性疾病防控、主动健康、生态环境健康、传染病预测与防控、动植物疫病防控、医学影像学、社会医学、医疗资源配置规划等；提出了交叉研究方向“空间全生命周期流行病学”，应用地理信息、测绘遥感、移动设备、人工智能、数理统计、大数据分析等技术于健康相关领域，尤其是大型人群队列研究、真实世界医疗健康数据和人居环境数据挖掘。建立了自然人群、儿童人群、老年人群、亚健康人群、职业人群等多个区域人群队列，承担国家自然科学基金（NSFC）、国家重点研发计划、荷兰研究理事会（NWO）基金等数项国际合作、国家级、省部级项目，在新冠疫情期间承担三项防治新冠病毒肺炎应急科研专项。\n著有我国首部《健康地理学》教材（高等教育出版社），在Nature Medicine、Nature Communications、Lancet Global Health等杂志上发表SCI论文270余篇，影响因子总计超过2300。担任Health & Place、Social Science & Medicine、Geospatial Health等期刊编委会成员，以及湖北省地理学会常务理事、湖北省人口学会人口资源与环境专业委员会副主任委员、湖北省预防医学会伤害预防控制专业委员会副主任委员、中国地理学会健康地理专业委员会委员等职务。\n获美国地理学家协会（AAG）医学健康地理学分委会最佳博士论文奖（2015），美国医疗保健研究与质量局（AHRQ）最佳研究奖（2016），国际环境研究与公共卫生“杰出青年学者奖”（2019），中国地理学会青年科技奖（2021），全国高校GIS新锐奖（2022）等荣誉，入选美国斯坦福大学发布的“全球前2%顶尖科学家”终身科学影响力榜单，位列公共卫生领域和内分泌及代谢领域我国中青年学者第一。\n课题组长期招收数理统计、医学统计、医工交叉、生物医学工程、医学影像、临床医学、计算机科学、人工智能、地理学、公共卫生与预防医学、测绘科学与技术等专业背景的研究员、博士后、博士生、硕士生。欢迎申请！\n课题组以往研究：\nhttps://scholar.google.nl/citations?hl=en&user=eR1sDXYAAAAJ\nhttps://www.researchgate.net/profile/Peng-Jia-15/research\n教育经历\n路易斯安那州立大学\n健康地理学\n博士\n博士\n佛罗里达大学\n空间流行病学\n硕士\n硕士\n中国科学院空天信息创新研究院\n地理信息系统\n硕士\n硕士\n南京农业大学\n环境工程\n学士\n学士\n工作经历\n美国纽约州立大学水牛城分校\n公共卫生学院\n博士后（2014-2016）\n荷兰屯特大学\n空间全生命周期流行病学国际研究中心\n创始主任（2016-2020）\n研究方向\n健康地理学（Health Geography）\n空间流行病学（Spatial Epidemiology）\n空间全生命周期流行病学（Spatial Lifecourse Epidemiology）：健康地理学和空间流行病学在新信息技术、人工智能、大数据时代的新发展，结合先进的地理科学、电子信息、测绘遥感、可穿戴设备、移动定位、卫生统计、大数据、人工智能、系统仿真、虚拟现实等技术，通过对真实世界个体暴露史的精准回顾、测量及模拟，并与个体长期健康随访数据相结合，以实现对疾病发生和流行规律及其危险因素的精细化分析，从而对个体全生命周期健康实施精准管理。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

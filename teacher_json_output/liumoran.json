@@ -1,0 +1,185 @@
+{
+  "id": "liumoran",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liumoran/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘默然",
+    "english_name": "Liu Moran",
+    "title": [
+      "特聘副研究员"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "电子信息学院",
+    "college": "电子信息学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学学士学位",
+        "field": "电子科学与技术",
+        "school": "武汉大学",
+        "period": "2010-9····2014.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士学位",
+        "field": "空间物理学",
+        "school": "武汉大学",
+        "period": "2014-9····2019.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2015年获中国电波传播学术年会青年优秀论文奖",
+      "2020年获国际无线电联盟（URSI）青年科学家奖"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "空间环境与电波传播",
+      "电离层物理与数值模拟",
+      "低频/甚低频波传播与探测",
+      "大功率电波加热电离层效应"
+    ],
+    "research_interests": [
+      "电离层欧姆斜加热",
+      "参量不稳定性",
+      "热参量不稳定性",
+      "GPU高性能计算",
+      "低频/甚低频通信与授时",
+      "超远距离电磁脉冲传播校正"
+    ],
+    "research_description": "刘默然长期从事空间环境与电波传播研究，独立开发了我国首个大功率电波加热电离层欧姆斜加热、参量不稳定性及热参量不稳定性数值模型，并将GPU高性能计算技术应用于数值模拟。针对低频/甚低频波传播，构建多个传播模型，结合自主研制的宽频接收机，开展全球低频/甚低频通信与授时台站的监测，应用于空间环境探测与电磁脉冲传播校正。研究成果获中国电波传播学术年会青年优秀论文奖（2015）、URSI青年科学家奖（2020），主持多项国家级及省部级科研项目。",
+    "disciplines": [
+      "空间物理学",
+      "电子信息科学与技术"
+    ],
+    "field_tags": [
+      "电离层物理",
+      "数值模拟",
+      "电波传播",
+      "低频通信",
+      "空间环境探测",
+      "GPU计算",
+      "参量不稳定性",
+      "电磁脉冲校正"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "我国首个大功率电波加热电离层欧姆斜加热数值模型",
+        "keywords": [
+          "电离层加热",
+          "欧姆斜加热",
+          "数值模型",
+          "GPU高性能计算"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "空间物理学",
+          "电波传播",
+          "数值模拟"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "大功率电波加热电离层参量不稳定性数值模型",
+        "keywords": [
+          "参量不稳定性",
+          "电离层",
+          "数值模拟",
+          "电波加热"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "空间物理学",
+          "等离子体物理",
+          "电波传播"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "热参量不稳定性数值模型",
+        "keywords": [
+          "热参量不稳定性",
+          "电离层",
+          "数值模拟",
+          "空间环境"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "空间物理学",
+          "电离层物理",
+          "空间环境探测"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "低频/甚低频波传播模型及全球台站监测研究",
+        "keywords": [
+          "低频波传播",
+          "甚低频波",
+          "电离层传播",
+          "电磁脉冲校正"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "电波传播",
+          "空间环境探测",
+          "通信与授时"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liumoran/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年基金",
+      "JWKJW人才项目",
+      "装发基金",
+      "联参",
+      "HJ项目",
+      "湖北省博士后创新人才计划",
+      "中科院重点实验室基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "JWKJW",
+      "装发基金",
+      "联参",
+      "HJ项目",
+      "湖北省博士后创新人才计划",
+      "中科院"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘默然\n页面链接: http://jszy.whu.edu.cn/liumoran/zh_CN/index.htm\n==================================================\n武汉大学 刘默然--中文主页--首页\nEnglish\n中文\n刘默然\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n教师英文名称：Liu Moran\n出生日期：1991-12-29\n入职时间：2023-05-01\n职务：特聘副研究员\n学历：博士研究生毕业\n办公地点：湖北省武汉市武汉大学电子信息学院\n性别：男\n在职信息：在职\n毕业院校：武汉大学\n学科：\n空间物理学\n个人简介\n刘默然，现为武汉大学电子信息学院特聘副研究员,招收空间物理学、电子信息硕士。一直从事空间环境和电波传播方面的研究，独立开发了我国首个大功率电波加热电离层欧姆斜加热数值模型、大功率电波加热电离层参量不稳定性数值模型和热参量不稳定性数值模型，并将基于GPU高性能运算的方法应用到数值模型的计算中；针对低频/甚低频波传播的不同模式，开发多个低频/甚低频波传播模型，结合自主研制的低频/甚低频宽频接收机，对全球低频甚低频通信台站和授时台站进行监测，并运用于空间环境的探测及超远距离电磁脉冲传播校正。相关研究分别于2015年获中国电波传播学术年会青年优秀论文奖、2020年获国际无线电联盟（URSI）青年科学家奖，主持JWKJW人才项目、装发基金、联参、HJ项目、自然科学基金青年基金、湖北省博士后创新人才计划、中科院重点实验室基金等项目多项。\n团队成员\n武汉大学电子信息学院电离层实验室\n工作经历\n2023-3····至今\n电子信息学院\n| 武汉大学\n| 特聘副研究员\n2019-7····2023-3\n电子信息学院\n| 武汉大学\n| 博士后\n教育经历\n2010-9····2014.6\n武汉大学\n|\n电子科学与技术\n| 理学学士学位\n|\n理学学士学位\n2014-9····2019.6\n武汉大学\n|\n空间物理学\n| 理学博士学位\n|\n理学博士学位\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

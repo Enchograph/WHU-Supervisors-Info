@@ -1,0 +1,193 @@
+{
+  "id": "liyunfeng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liyunfeng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "李云峰",
+    "english_name": "Yunfeng Li",
+    "title": [
+      "教授"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": false,
+    "department": "马克思主义学院",
+    "college": "马克思主义学院",
+    "employment_status": "离退休"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "学士",
+        "field": "哲学",
+        "school": "武汉大学",
+        "period": "1988-06-01",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "哲学",
+        "school": "武汉大学",
+        "period": "1988-06-01",
+        "country": "中国"
+      },
+      {
+        "degree": "博士",
+        "field": "法学",
+        "school": "武汉大学",
+        "period": "1988-06-01",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉 University",
+    "academic_honors": [],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "历史唯物主义",
+      "《资本论》研究",
+      "马克思学说的逻辑出发点",
+      "生产主体理论",
+      "马克思与康德、黑格尔法哲学比较"
+    ],
+    "research_interests": [
+      "生产主体",
+      "历史唯物主义逻辑",
+      "资本主义内在矛盾",
+      "自由人联合体",
+      "微宏观生产主体",
+      "马克思与西方哲学传统"
+    ],
+    "research_description": "李云峰教授致力于研究真实的马克思，重点探讨马克思学说的逻辑出发点、历史唯物主义理论体系、《资本论》的深层逻辑及其对资本主义微宏观生产主体内在矛盾与发展趋势的揭示。她提出历史唯物主义以生产主体为逻辑起点，强调生产力与生产关系、经济基础与上层建筑是生产主体的物质内容与社会形式，并通过比较马克思与康德、黑格尔的法哲学主体思想，论证马克思在生产关系概念基础上实现对社会主体理论的创新，克服了传统法哲学的逻辑矛盾，构建了清晰严谨的社会历史理论体系。",
+    "disciplines": [
+      "马克思主义哲学",
+      "历史唯物主义",
+      "西方马克思主义",
+      "政治哲学"
+    ],
+    "field_tags": [
+      "历史唯物主义",
+      "《资本论》",
+      "生产主体",
+      "马克思哲学",
+      "康德",
+      "黑格尔",
+      "社会结构",
+      "自由人联合体",
+      "微宏观分析"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 5,
+    "representative_publications": [
+      {
+        "title": "西方法哲学对微观和国家宏观主体认识的嬗变——从康德、黑格尔到马克思",
+        "keywords": [
+          "西方法哲学",
+          "微观主体",
+          "国家宏观主体",
+          "康德",
+          "黑格尔",
+          "马克思"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "马克思主义哲学",
+          "历史唯物主义",
+          "法哲学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "从马克思到习近平：基于生产主体的一脉相承",
+        "keywords": [
+          "生产主体",
+          "马克思",
+          "习近平",
+          "一脉相承",
+          "历史唯物主义"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "马克思主义哲学",
+          "中国特色社会主义理论"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "马克思学说中人的概念",
+        "keywords": [
+          "马克思",
+          "人的概念",
+          "马克思主义哲学",
+          "人的本质"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "马克思主义哲学",
+          "人学"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "微宏观生产主体与历史唯物主义——真实的马克思系列研究之二",
+        "keywords": [
+          "微宏观生产主体",
+          "历史唯物主义",
+          "真实的马克思",
+          "生产关系"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "马克思主义哲学",
+          "历史唯物主义"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "〈资本论〉：资本主义微宏观生产主体内在矛盾及其发展趋势",
+        "keywords": [
+          "《资本论》",
+          "资本主义",
+          "生产主体",
+          "内在矛盾",
+          "发展趋势"
+        ],
+        "journal_name": "",
+        "research_fields": [
+          "马克思主义政治经济学",
+          "历史唯物主义"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liyunfeng/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "distinguished",
+    "activity_level": "low"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 李云峰\n页面链接: http://jszy.whu.edu.cn/liyunfeng/zh_CN/index.htm\n==================================================\n武汉大学 李云峰--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n李云峰\n个人信息Personal information\n教师英文名称：Yunfeng Li\n教师拼音名称：Li Yunfeng\n电子邮箱：\n入职时间：1988-06-01\n所在单位：马克思主义学院\n职务：professor\n学历：博士研究生毕业\n性别：女\n职称：教授\n在职信息：离退休\n毕业院校：Wuhan University\n所属院系：马克思主义学院\n学科：\n马克思主义哲学\n联系方式Contact information\n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n李云峰，女，1957年生，湖北十堰人，哲学学士和硕士、法学博士，武汉大学马克思主义学院教授。著有《马克思学说中人的概念》《微宏观生产主体与历史唯物主义——真实的马克思系列研究之二》《真实的〈资本论〉——真实的马克思系列研究之三》《〈资本论〉：资本主义微宏观生产主体内在矛盾及其发展趋势》《水与中国古代哲学》等专著，公开发表有《西方法哲学对微观和国家宏观主体认识的嬗变——从康德、黑格尔到马克思》《从马克思到习近平：基于生产主体的一脉相承》等文章。\n李云峰提出：历史唯物主义逻辑出发点是作为社会经济基本单位的生产主体，在工业社会就是以企业法人为主导的基本经济组织；生产力和生产关系、经济基础和上层建筑是社会微观和国家宏观生产主体的物质内容和社会形式；历史唯物主义是关于微观和国家宏观生产主体矛盾及发展趋势的学说；《资本论》是关于资本主义微观和国家宏观生产主体内在的以及之间的矛盾及发展趋势的理论，揭示了资本主义生产主体发展趋势是实现“自由人联合体”——人类社会成为一个利益一致的共同体，《资本论》具体反映和再现了历史唯物主义的逻辑。\n李云峰通过对马克思与康德、黑格尔法哲学主体比较研究，认为马克思创造性地提出生产关系概念开启了从物质内容和社会形式界定微观生产主体和国家宏观主体的先河，克服了思想史上把国家看作政治共同体的缺陷，克服了黑格尔把市民社会概念既作为“外部的国家”又作为国家下面伦理实体的矛盾。马克思基于生产关系概念把微观生产主体与国家宏观主体既区别又联系了起来，克服了黑格尔法哲学中逻辑上的混乱和矛盾，完成了近代以来对微观和国家宏观主体概念理论概括的探索，实现了西方法哲学主体认识的嬗变，使社会主体概念明确，社会结构清晰，社会关系清楚，社会历史理论逻辑严谨。\n研究方向 Personal profile\n研究真实的马克思，包括马克思学说真实的逻辑出发点，历史唯物主义，《资本论》，马克思与康德、黑格尔真实的关系等。\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

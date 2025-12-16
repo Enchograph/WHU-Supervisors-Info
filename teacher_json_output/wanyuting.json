@@ -1,0 +1,216 @@
+{
+  "id": "wanyuting",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wanyuting/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "万瑜廷",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "摄影测量与遥感",
+    "college": "测绘遥感信息工程全国重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2017-9····2022.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学学士学位",
+        "field": "测绘工程",
+        "school": "中南大学",
+        "period": "2013-9····2017.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "湖北省科技进步奖一等奖",
+      "广东省工程勘察设计行业协会科学技术奖二等奖",
+      "武汉大学优秀博士后一等奖",
+      "2023年国家博士后创新人才支持计划"
+    ],
+    "academic_services": [
+      "IEEE TGRS/TNNLS/TCYB/TITS/IoTJ/TCE/JSTARS/GRSL、ISPRS、JAG、PR、JAIHC、SOCO、APIN、AIRE、LDD和IJRS等SCI期刊的审稿人",
+      "应急管理部救灾司灾情核查评估指导组成员",
+      "北京市减灾委灾情核查评估指导组成员",
+      "湖南省减灾委灾情核查评估指导组成员",
+      "安徽省减灾委灾情核查评估指导组成员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "遥感智能解译脑（遥感类脑计算）",
+      "高分辨率遥感影像智能优化处理",
+      "遥感边缘计算",
+      "通感算软硬件一体化优化集成"
+    ],
+    "research_interests": [
+      "遥感数据轻量化处理",
+      "智能解译",
+      "边缘计算",
+      "多源数据融合",
+      "灾害应急响应",
+      "无人机遥感",
+      "类脑计算",
+      "模型轻量化",
+      "实时处理",
+      "通感算一体化"
+    ],
+    "research_description": "围绕卫星、无人机等资源受限无人平台的遥感数据轻量化实时处理与多场景快速应用难题，提出‘遥感智能解译脑（RSI2_Brain）’理论框架，构建从‘遥感数据高保真压缩’到‘遥感模型精细识别’、‘实时处理’再到‘采集-处理-传输一体化优化集成’的全链路研究体系，实现观测数据轻、识别模型准、在线处理快的目标，服务于全国重大自然灾害应急响应与损毁评估，支撑百亿量级灾害损失综合评估，研究成果获应急管理部感谢信。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "计算机科学与技术",
+      "电子信息工程",
+      "测绘科学与技术"
+    ],
+    "field_tags": [
+      "遥感智能解译",
+      "边缘计算",
+      "类脑计算",
+      "数据压缩",
+      "灾害应急",
+      "无人机遥感",
+      "多源融合",
+      "轻量化模型",
+      "实时处理",
+      "通感算一体化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "Remote sensing intelligent interpretation brain: real-time intelligent understanding of the Earth",
+        "keywords": [
+          "遥感智能解译脑",
+          "实时智能理解",
+          "地球观测",
+          "类脑计算"
+        ],
+        "journal_name": "PNAS Nexus",
+        "research_fields": [
+          "遥感智能解译",
+          "类脑计算",
+          "地球系统科学"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "MSAHiFiC: A Super-Prior Driven High-Fidelity Spectral Attention Network for Hyperspectral Image Compression",
+        "keywords": [
+          "高光谱图像压缩",
+          "高保真",
+          "谱注意力网络",
+          "超先验驱动"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感数据压缩",
+          "高光谱遥感",
+          "图像处理"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "A Decomposition-Based Multiobjective Clonal Selection Algorithm for Hyperspectral Image Feature Selection",
+        "keywords": [
+          "多目标克隆选择算法",
+          "高光谱图像特征选择",
+          "多目标优化",
+          "特征提取"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "遥感图像处理",
+          "多目标优化",
+          "特征选择"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "E2SCNet: Efficient multiobjective evolutionary automatic search for remote sensing image scene classification network architecture",
+        "keywords": [
+          "网络架构搜索",
+          "多目标进化",
+          "遥感图像分类",
+          "轻量化模型"
+        ],
+        "journal_name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "research_fields": [
+          "遥感深度学习",
+          "神经架构搜索",
+          "模型轻量化"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Disaster-aware path planning based on reinforcement learning for post-earthquake emergency response",
+        "keywords": [
+          "灾害应急响应",
+          "强化学习",
+          "路径规划",
+          "地震后救援"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "灾害应急",
+          "智能路径规划",
+          "强化学习"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "谷歌学术",
+        "url": "https://scholar.google.com/citations?user=..."
+      },
+      {
+        "platform": "RSIDEA团队主页",
+        "url": "http://rsidea.whu.edu.cn"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金青年项目",
+      "国家自然科学基金重大仪器研制项目专题",
+      "国家博士后创新人才支持计划",
+      "科技部重点研发子课题",
+      "博后面上基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "科技部",
+      "国家博士后管理委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 万瑜廷\n页面链接: http://jszy.whu.edu.cn/wanyuting/zh_CN/index.htm\n==================================================\n武汉大学 万瑜廷--中文主页--首页\nEnglish\n中文\n万瑜廷\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n硕士生导师\n出生日期：1995-05-18\n电子邮箱：\n职务：副教授【国家博新人才计划】\n学历：博士研究生毕业\n办公地点：武汉大学信息学部星湖楼300\n性别：男\n联系方式：wanyuting@whu.edu.cn\n毕业院校：武汉大学\n学科：\n摄影测量与遥感\n个人简介\n万瑜廷，工学博士/弘毅博士后，武汉大学测绘遥感信息工程全国重点实验室副教授，硕士生导师，入选2023年国家博士后创新人才支持计划。近年来，主持了国家自然科学基金青年项目、国家自然科学基金重大仪器研制项目专题、国家博士后创新人才支持计划、科技部重点研发子课题、博后面上基金等国家级项目。获湖北省科技进步奖一等奖、广东省工程勘察设计行业协会科学技术奖二等奖、武汉大学优秀博士后一等奖等学术奖励。在PNAS子刊PNAS Nexus、ISPRS P&RS、IEEE TGRS、IEEE TNNLS、IEEE TCYB、IEEE TEC、IEEE IoTJ、LDD等高水平期刊与会议发表学术论文40余篇（ESI高被引论文4篇），授权/申请国家发明专利7项，登记软件著作权3项，担任20余个国内外期刊的审稿人，担任应急管理部救灾司、北京市、湖南省和安徽省减灾委灾情核查评估指导组成员，研究成果积极服务了2022年至2025年间全国十大自然灾害中的5项，支撑了百亿量级的灾害损失综合评估，获应急管理部救灾司感谢信。\n研究方向：围绕卫星、无人机等资源受限无人平台的遥感数据轻量化实时处理与多场景快速应用等难题，提出了 “遥感智能解译脑（RSI2_Brain）” 理论框架，创新性地设计了 “遥感数据高保真压缩⇨遥感模型精细识别⇨遥感数据实时处理⇨采集-处理-传输一体化优化集成装备” 全链路研究路线，实现了观测数据轻、识别模型准和在线处理快的成效目标，服务于全国重大自然灾害应急响应与损毁评估。主要研究方向：\n① 遥感智能解译脑（遥感类脑计算）\n② 高分辨率遥感影像智能优化处理\n③ 遥感边缘计算\n④ 通感算软硬件一体化优化集成\n图1. 遥感智能解译脑框架\n图2. 遥感智能解译脑工作模式\n图3. 遥感智能解译脑实体装备\n研究团队：RSIDEA研究组是由从事遥感方向研究的科研人员组建的一个学术研究组，学术指导为张良培教授（教育部长江学者，IEEE Fellow），负责人为钟燕飞教授（国家杰青），研究组拥有无人机高光谱/可见光/热红外、热红外高光谱、视频高光谱、百万工业级服务器等硬件设施，拥有良好的学术与科研氛围！\n招生信息：欢迎遥感、计算机、电信、通信、测绘、资环、数学等相关专业的学生报考，欢迎本科生提前进组学习与交流！\n（请发送个人简历至邮箱：wanyuting@whu.edu.cn）\n谷歌学术个人主页：点击访问     RSIDEA团队主页：点击访问\n主要研究成果（一作及通讯作者SCI论文）：\n>>遥感智能解译脑：实时智能理解地球<<\n[1] Y. Wan, C. Zhang, A. Ma, Z. Chen, C. Sun, J. Wang, Z. Zheng, F. Bao, L. Zhang, Y. Zhong, \"Remote sensing intelligent interpretation brain: real-time intelligent understanding of the Earth\", PNAS Nexus, vol. 4, no. 6, p. pgaf182, 2025.[https://doi.org/10.1093/pnasnexus/pgaf182]【PNAS唯一子刊】【CODE】\n>>遥感数据高质量压缩<<\n[1] Y. Wan, P. Luo, C. Chen, A. Ma, X. Gong and Y. Zhong, \"MSAHiFiC: A Super-Prior Driven High-Fidelity Spectral Attention Network for Hyperspectral Image Compression,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 63, p. 5530613, 2025. [DOI: 10.1109/TGRS.2025.3620876]【中科院一区TOP】\n[2] Y. Wan, C. Chen, A. Ma, L. Zhang, X. Gong and Y. Zhong, \"Adaptive Multistrategy Particle Swarm Optimization for Hyperspectral Remote Sensing Image Band Selection,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 61, p. 5520115, 2023. [DOI: 10.1109/TGRS.2023.3305545]【中科院一区TOP】【CODE】\n[3] C. Chen, Y. Wan*, A. Ma, L. Zhang and Y. Zhong, \"A Decomposition-Based Multiobjective Clonal Selection Algorithm for Hyperspectral Image Feature Selection,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 60, p. 5541516, 2022. [DOI: 10.1109/TGRS.2022.3216685]【中科院一区TOP】\n[4] Y. Wan, A. Ma, Y. Zhong, X. Hu and L. Zhang, \"Multiobjective Hyperspectral Feature Selection Based on Discrete Sine Cosine Algorithm,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 5, pp. 3601-3618, 2020. [DOI: 10.1109/TGRS.2019.2958812]【中科院一区TOP】\n>>遥感数据智能解译<<\n[1] Y. Wan, L. Gao, A. Ma and Y. Zhong, \"Hyperspectral Image Band Selection and Fuzzy Clustering Integrated Method Based on Multiobjective Evolutionary Optimization,\" IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 29000-29012, 2025.\n[2] X. Gong, Z. Hou, Y. Wan*, Y. Zhong, M. Zhang and K. Lv, \"Multispectral and SAR Image Fusion for Multiscale Decomposition Based on Least Squares Optimization Rolling Guidance Filtering,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 62, p. 5401920, 2024. [DOI: 10.1109/TGRS.2024.3353868]【中科院一区TOP, ESI高被引论文】\n[3] Y. Wan, A. Ma, W. He and Y. Zhong, \"Accurate Multiobjective Low-Rank and Sparse Model for Hyperspectral Image Denoising Method,\" IEEE Transactions on Evolutionary Computation, vol. 27, no. 1, pp. 37-51, 2023. [DOI: 10.1109/TEVC.2021.3078478]【中科院一区TOP，演化计算顶刊，ESI高被引论文】\n[4] Y. Wan, A. Ma, L. Zhang and Y. Zhong, \"Multiobjective Sine Cosine Algorithm for Remote Sensing Image Spatial-Spectral Clustering,\" IEEE Transactions on Cybernetics, vol. 52, no. 10, pp. 11172-11186, 2022. [DOI: 10.1109/TCYB.2021.3064552]【中科院一区TOP】\n[5] Y. Wan, Y. Zhong, A. Ma and L. Zhang, \"Multi-Objective Sparse Subspace Clustering for Hyperspectral Imagery,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 4, pp. 2290-2307, 2020. [DOI: 10.1109/TGRS.2019.2947253]【中科院一区TOP】\n[6] Y. Wan, Y. Zhong and A. Ma, \"Fully Automatic Spectral–Spatial Fuzzy Clustering Using an Adaptive Multiobjective Memetic Algorithm for Multispectral Imagery,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 57, no. 4, pp. 2324-2340, 2019. [DOI: 10.1109/TGRS.2018.2872875]【中科院一区TOP】\n>>遥感处理模型轻量化<<\n[1] K. Li, Y. Wan*, A. Ma and Y. Zhong, \"A lightweight multiscale and multiattention hyperspectral image classification network based on multistage search,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-18, Art no. 5509418, 2025. [DOI:10.1109/TGRS.2025.3553147]【中科院一区TOP】\n[2] Y. Wan, Y. Zhong, A. Ma, J. Wang, and L. Zhang, \"E2SCNet: Efficient multiobjective evolutionary automatic search for remote sensing image scene classification network architecture,\" IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 6, pp. 7752-7766, 2024. [DOI:10.1109/TNNLS.2022.3220699]【中科院一区TOP】\n[3] Y. Wanand Y. Zhong, \"LPCN: Lightweight precise classification network for hyperspectral remote sensing imagery based on multiobjective optimization,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-14, 2024. [DOI: 10.1109/TGRS.2024.3403648]【中科院一区TOP】\n[4] A. Ma, Y. Wan*, Y. Zhong*, J. Wang, and L. Zhang, “SceneNet: Remote sensing scene classification deep learning network using multi-objective neural evolution architecture search,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 172, pp. 171–188, 2021. [DOI:10.1016/j.isprsjprs.2020.11.025]【中科院一区TOP, ESI高被引论文】\n[5] C. Sun, X. Wang, Z. Liu, Y. Wan, L. Zhang and Y. Zhong, \"SiamOHOT: A lightweight dual siamese network for onboard hyperspectral object tracking via joint spatial-spectral knowledge distillation,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-12, Art no. 5521112, 2023. [DOI:10.1109/TGRS.2023.3307052]【中科院一区TOP】\n>>灾害应急响应应用<<\n[1] Y. Wan, H. Yao, J. Liu, C. Sun, A. Ma and Y. Zhong, \"Low-light and infrared multimodal remote sensing in nighttime rescue mission: a review of anomaly detection methods,\" IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-18, Art no. 5403518, 2025. [DOI:10.1109/TGRS.2025.3568456]【中科院一区TOP】\n[2] J. Guo, Y. Wan*, A. Ma and Y. Zhong*, “A global-local collaborative and decomposition-based multi-objective evolutionary optimization method for UAV 3-D path planning”, IEEE Internet of Things Journal, vol. 12, no. 18, pp. 38338-38351, 2025. [DOI:10.1109/JIOT.2025.3585432]【中科院二区TOP】\n[3] J. Guo, Y. Wan*, A. Ma and Y. Zhong*, “Disaster-aware path planning based on reinforcement learning for post-earthquake emergency response”, IEEE Transactions on Geoscience and Remote Sensing, vol. 63, p. 5633314 2025. [DOI:10.1109/TGRS.2025.3582106]【中科院一区TOP】【CODE】\n[4] Y. Wan, Y. Zhong, A. Ma, and L. Zhang, “An accurate UAV 3-D path planning method for disaster emergency response based on an improved multi-objective swarm intelligence algorithm,” IEEE Transactions on Cybernetics, vol. 53, no. 4, pp. 2658–2671, 2023. [DOI:10.1109/TCYB.2022.3170580]【中科院一区TOP, ESI高被引论文】\n[5] Y. Wan, Y. Zhong, A. Ma, X. Hu, and L. Wei, “Satellite-air-ground integrated multi-source earth observation and machine learning processing brin for tailings reservoir monitoring and rapid emergency response,” Land Degradation & Development, vol. 34, no. 7, pp. 1941-1959, 2022. [DOI:10.1002/ldr.4580]【中科院二区】\n有科研资源需求，请联系！wanyuting@whu.edu.cn\n团队成员\n暂无内容\n工作经历\n2025-9····至今\n测绘遥感信息工程全国重点实验室\n| 武汉大学\n| 在职\n| 副教授\n2022-7····2025-9\n测绘遥感信息工程国家重点实验室\n| 武汉大学\n| 博士后\n教育经历\n2017-9····2022.6\n武汉大学\n|\n摄影测量与遥感\n| 工学博士学位\n|\n博士\n2013-9····2017.6\n中南大学\n|\n测绘工程\n| 工学学士学位\n|\n大学本科毕业\n社会兼职\nIEEE Member\nIEEE TGRS/TNNLS/TCYB/TITS/IoTJ/TCE/JSTARS/GRSL、ISPRS、JAG、PR、JAIHC、SOCO、APIN、AIRE、LDD和IJRS等SCI期刊的审稿人\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

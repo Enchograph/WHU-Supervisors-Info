@@ -1,0 +1,212 @@
+{
+  "id": "huyuanchao1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huyuanchao1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "胡元超",
+    "english_name": "",
+    "title": [
+      "副研究员",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "资源与环境科学学院",
+    "college": "资源与环境科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士研究生毕业",
+        "field": "生态学、环境经济与环境管理",
+        "school": "中国科学院大学",
+        "period": "2012.9 -- 2018.7",
+        "country": "中国"
+      },
+      {
+        "degree": "联合培养博士",
+        "field": "环境科学技术与政策",
+        "school": "明尼苏达大学",
+        "period": "2017.3 -- 2018.3",
+        "country": "美国"
+      },
+      {
+        "degree": "理学学士",
+        "field": "资源环境与城乡规划管理",
+        "school": "西北农林科技大学",
+        "period": "2008.9 -- 2012.7",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国科学院大学",
+    "academic_honors": [
+      "楚天学者计划”楚天学子",
+      "武汉英才”优秀青年人才"
+    ],
+    "academic_services": [
+      "中国生态学学会产业生态专业委员会委员",
+      "Resources, Environment & Sustainability青年编委",
+      "The Innovation青年编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "可持续食物系统",
+      "气候变化减缓与适应",
+      "可持续城乡区域系统",
+      "城乡土地利用变化"
+    ],
+    "research_interests": [
+      "食物系统建模",
+      "食-能-水耦合",
+      "碳达峰碳中和",
+      "食品损失与浪费",
+      "环境影响减缓",
+      "生命周期评估",
+      "多尺度模拟",
+      "资源环境影响"
+    ],
+    "research_description": "胡元超博士致力于生态环境系统建模，聚焦可持续食物系统、气候变化减缓与适应、城乡区域系统及土地利用变化等方向。研究综合运用生态学、地理学、遥感科学等方法，针对食物系统、土地利用、食-能-水耦合等复杂系统，构建资源环境影响数据库，模拟其时空演变规律，探究耦联机制、驱动过程与可持续发展策略。研究涵盖碳中和路径、食品损失浪费调控、环境影响减缓策略及社会经济效应，以及城市与半城市农业发展等议题。",
+    "disciplines": [
+      "生态学",
+      "地理学",
+      "环境科学",
+      "资源管理",
+      "可持续发展"
+    ],
+    "field_tags": [
+      "食物系统",
+      "碳中和",
+      "生命周期评估",
+      "环境影响",
+      "土地利用",
+      "气候变化",
+      "可持续发展",
+      "遥感科学",
+      "生态建模"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "Quantitative food loss in the global supply chain",
+        "keywords": [
+          "食品损失",
+          "全球供应链",
+          "定量分析"
+        ],
+        "journal_name": "Nature Food",
+        "research_fields": [
+          "可持续食物系统",
+          "环境影响评估"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Food production in China requires intensified measures to be consistent with national and provincial environmental boundaries",
+        "keywords": [
+          "中国粮食生产",
+          "环境边界",
+          "生态约束"
+        ],
+        "journal_name": "Nature Food",
+        "research_fields": [
+          "可持续食物系统",
+          "环境政策"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Global environmental impacts of food system from regional shock: Russia-Ukraine war as an example",
+        "keywords": [
+          "食物系统",
+          "区域冲击",
+          "俄乌战争",
+          "环境影响"
+        ],
+        "journal_name": "Humanities and Social Sciences Communications",
+        "research_fields": [
+          "食物系统韧性",
+          "地缘政治与环境"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "China’s food loss and waste embodies increasing environmental impacts",
+        "keywords": [
+          "食品损失浪费",
+          "环境影响",
+          "生命周期评估"
+        ],
+        "journal_name": "Nature Food",
+        "research_fields": [
+          "可持续食物系统",
+          "资源环境影响"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Responses to the COVID-19 pandemic have impeded progress towards the Sustainable Development Goals",
+        "keywords": [
+          "新冠疫情",
+          "可持续发展目标",
+          "全球发展受阻"
+        ],
+        "journal_name": "Communications Earth & Environment",
+        "research_fields": [
+          "气候变化适应",
+          "可持续发展"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=0bJZvTwAAAAJ&hl=en"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Yuanchao-Hu"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家重点研发计划子课题",
+      "中央高校基本科研业务费专项资金",
+      "武汉市曙光计划",
+      "循环经济创新研究平台种子基金",
+      "碳中和专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "科学技术部",
+      "武汉大学",
+      "昆山杜克大学",
+      "武汉市科技局",
+      "中央高校基本科研业务费"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 胡元超\n页面链接: http://jszy.whu.edu.cn/huyuanchao1/zh_CN/index.htm\n==================================================\n武汉大学 胡元超--中文主页--首页\n胡元超\n硕士生导师\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：资源与环境科学学院\n入职时间： 2020-12-03\n电子邮箱：\n2022曾获荣誉当选：“楚天学者计划”楚天学子 2021曾获荣誉当选：“武汉英才”优秀青年人才\n访问量：\n开通时间：..\n最后更新时间：..\n个人简介\n胡元超，毕业于中国科学院城市环境研究所，生态学博士。\n研究兴趣为生态环境系统建模。针对食物系统、土地利用、食-能-水耦合等复杂系统，综合运用生态学、地理学、遥感科学等理论方法，建立复杂系统的资源环境影响数据库，模拟时空演变规律，探究耦联机制、驱动过程与可持续发展策略。\n曾在Nature子刊、Global Food Security、Resources, Conservation & Recycling、Environmental Science & Technology、Journal of Cleaner Production等知名期刊上发表学术论文50余篇，获批国家自然科学基金、国家重点研发计划子课题、国家重点实验室自主科研项目、省市级青年人才等多项资助。\n代表论著：\n1.       Hu, Y., 2024. Quantitative food loss in the global supply chain. Nature Food, 5, pp. 100–101.\n2.       Hu, Y., Su, M., Wang, Y., Cui, S., Meng, F., Yue, W., Liu, Y., Xu, C. and Yang, Z., 2020. Food production in China requires intensified measures to be consistent with national and provincial environmental boundaries. Nature Food, 1(9), pp.572-582.\n3.       Zhang, H., Jiao, L., Li, C., Deng, Z., Wang, Z., Jia, Q., Lian, X., Liu, Y. and Hu, Y., 2024. Global environmental impacts of food system from regional shock: Russia-Ukraine war as an example. Humanities and Social Sciences Communications, 11(1), pp.1-13.\n4.       Xue, L., Liu, X., Lu, S., Cheng, G., Hu, Y., Liu, J., Dou, Z., Cheng, S. and Liu, G., 2021. China’s food loss and waste embodies increasing environmental impacts. Nature Food, 2(7), pp.519-528.\n5.       Li, C., Deng, Z., Wang, Z., Hu, Y., Wang, L., Yu, S., Li, W., Shi, Z. and Bryan, B.A., 2023. Responses to the COVID-19 pandemic have impeded progress towards the Sustainable Development Goals. Communications Earth & Environment, 4(1), p.252.\n完整论文发表情况见：https://scholar.google.com/citations?user=0bJZvTwAAAAJ&hl=en 或https://www.researchgate.net/profile/Yuanchao-Hu\n科研项目：\n2023.8-2025.8， 武汉市曙光计划，10万，主持；\n2023.5-2025.5，循环经济创新研究平台，武汉大学与昆山杜克大学联合科研平台种子基金，10万，主持；\n2023.1-2025.12，国家自然科学基金，碳中和专项，自然-社会耦合系统中海水养殖碳足迹多应用场景生命周期建模方法，15万，子课题主持；\n2022.10-2025.10，科学技术部重点研发计划子课题，珠江流域产业系统生源要素代谢过程及排放特征，60万，子课题主持；\n2022.5- 2024.5，中央高校基本科研业务费专项资金，基于混合生命周期的粤港澳大湾区食物系统环境影响模拟与减缓研究，7万，主持；\n2022.1-2024.12，国家自然科学基金青年项目，面向温室气体减排的城市食物储运系统跨区域优化研究，30万，主持。\n研究组要求：\n思维品质：志向远大，严肃活泼，自我驱动，百折不挠。\n理论基础：具备至少1门以下学科的扎实基础理论知识：地理学、生态学、环境科学、遥感科学。\n其他联系方式\n邮编 : \n通讯/办公地址 : \n邮箱 : \n教育经历\n2017.3 -- 2018.3\n明尼苏达大学\n环境科学技术与政策\n联合培养博士\n2012.9 -- 2018.7\n中国科学院大学\n生态学、环境经济与环境管理\n博士研究生毕业\n理学博士、理学硕士\n2008.9 -- 2012.7\n西北农林科技大学\n资源环境与城乡规划管理\n大学本科教育\n理学学士学位\n工作经历\n2021.3 -- 至今\n武汉大学\n副研究员\n2018.10 -- 2021.2\n西安交通大学/东莞理工学院\n博士后\n社会兼职\n2022.9 -- 至今\n中国生态学学会产业生态专业委员会委员\n2022.9 -- 2023.9\n德国波茨坦气候影响研究所  访问学者\n2022.2 -- 2023.2\nResources, Environment & Sustainability青年编委\n2022.8 -- 至今\nThe Innovation青年编委\n研究方向\n可持续食物系统：碳达峰碳中和路径、多尺度环境影响演变规律及驱动机制、食品损失浪费调控、环境影响减缓策略及社会经济效应等。 气候变化减缓与适应：低碳与零碳城市发展路径及资源需求、多要素耦合与协同管理。 可持续城乡区域系统：城市与半城市农业发展。 城乡土地利用变化：土地利用变化的资源需求、环境影响。\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

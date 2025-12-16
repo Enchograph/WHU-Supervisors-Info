@@ -1,0 +1,165 @@
+{
+  "id": "huangmingqiang",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/huangmingqiang/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "黄明强",
+    "english_name": "",
+    "title": [
+      "教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "人工智能学院",
+    "college": "人工智能学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "物理学",
+        "school": "华中科技大学",
+        "period": "2013.9-2018.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "物理学",
+        "school": "华中科技大学",
+        "period": "2009.9-2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "华中科技大学",
+    "academic_honors": [
+      "IEEE遴选为Highligh of 2025 July（TCASI-2025）"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "高效能人工智能算法-芯片协同设计",
+      "端侧智能AI系统",
+      "混合精度神经网络算法与芯片",
+      "混合进制AI计算系统",
+      "人工智能芯片设计自动化"
+    ],
+    "research_interests": [
+      "高性能低功耗AI芯片",
+      "端侧大模型推理",
+      "跨层次协同优化",
+      "神经网络编译",
+      "类脑计算",
+      "AI系统架构"
+    ],
+    "research_description": "黄明强教授主要从事高效能人工智能算法-芯片协同设计与端侧智能AI系统研究，聚焦于高性能低功耗端侧大模型AI芯片系统、混合精度神经网络算法与芯片、混合进制AI计算系统等方向。其研究成果已广泛应用于机器人、自动驾驶、手机和平板电脑等端侧智能设备。目前正致力于算法-芯片-编译的跨层次协同优化及人工智能芯片设计自动化等前沿创新研究。",
+    "disciplines": [
+      "人工智能",
+      "计算机科学与技术",
+      "微电子学",
+      "信息与通信工程"
+    ],
+    "field_tags": [
+      "AI芯片",
+      "端侧AI",
+      "低功耗计算",
+      "神经网络优化",
+      "混合精度计算",
+      "系统级芯片设计",
+      "类脑计算",
+      "跨层次优化"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "高性能低功耗端侧大模型AI芯片系统",
+        "keywords": [
+          "端侧智能",
+          "AI芯片",
+          "低功耗",
+          "大模型"
+        ],
+        "journal_name": "IEEE TCASI-2025",
+        "research_fields": [
+          "人工智能芯片",
+          "端侧智能系统",
+          "高效能算法-芯片协同设计"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "混合精度神经网络AI算法与芯片",
+        "keywords": [
+          "混合精度",
+          "神经网络",
+          "AI算法",
+          "芯片设计"
+        ],
+        "journal_name": "JSSC-2025, TCASI-2022, TCASI-2023",
+        "research_fields": [
+          "神经网络算法",
+          "混合精度计算",
+          "AI芯片系统"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "混合进制AI计算系统",
+        "keywords": [
+          "混合进制",
+          "AI计算",
+          "计算系统",
+          "芯片架构"
+        ],
+        "journal_name": "TETC-2023, TCASI-2024",
+        "research_fields": [
+          "AI计算架构",
+          "混合进制计算",
+          "芯片系统设计"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/huangmingqiang/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "科技创新2030'脑科学与类脑研究'青年科学家项目",
+      "国家自然科学基金重大研究计划培育项目",
+      "华为公司横向合作项目"
+    ],
+    "funding_agencies": [
+      "科技创新2030'脑科学与类脑研究'项目",
+      "国家自然科学基金",
+      "华为公司"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 黄明强\n页面链接: http://jszy.whu.edu.cn/huangmingqiang/zh_CN/index.htm\n==================================================\n武汉大学 黄明强--中文主页--首页\nEnglish\n黄明强(\n硕士生导师\n、博士生导师\n)\n性别：男\n学历：博士研究生毕业\n所在单位：人工智能学院\n毕业院校：华中科技大学\n在职信息：在职\n办公地点：武汉大学人工智能学院A218\n电子邮箱：\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n其他栏目\n个人简介\n黄明强，男，武汉大学人工智能学院教授。主要研究方向为高效能人工智能算法-芯片、端侧智能AI系统。近5年的主要研究成果包括：高性能低功耗端侧大模型AI芯片系统（TCASI-2025，被IEEE遴选为Highligh of 2025 July）、混合精度神经网络AI算法与芯片（JSSC-2025, TCASI-2022, TCASI-2023),混合进制AI计算系统（TETC-2023, TCASI-2024）。以上成果可直接大规模应用于端侧智能系统如机器人、自动驾驶、平板电脑、手机中，获得广泛关注。作为项目负责人，近年来主持科技创新2030\"脑科学与类脑研究\"青年科学家项目、国自然重大研究计划培育项目、华为公司横向合作等多个重要项目，经费总额超过1000万。在未来，我们将继续开展对高效能神经网络的算法-芯片-编译的跨层次协同优化工作、人工智能芯片设计自动化等创新型研究工作。欢迎感兴趣加入组里的本科生、硕士生、和博士生联系。\n教育经历\n2013.9-2018.6\n华中科技大学  |\n物理学  |\n博士   |\n博士\n2009.9-2013.6\n华中科技大学  |\n物理学  |\n学士   |\n大学本科\n工作经历\n2019.11-2025.8\n中国科学院深圳先进技术研究院 | 历任副研究员、研究员\n2018.9-2019.11\n新加坡-南洋理工大学 | 博士后\n其他联系方式\n邮箱 : \n欢迎您访问我们的网站，您是第 位访客\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

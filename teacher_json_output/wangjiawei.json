@@ -1,0 +1,165 @@
+{
+  "id": "wangjiawei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wangjiawei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "王家伟",
+    "english_name": "",
+    "title": [
+      "主任医师",
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "修复科",
+    "college": "口腔医学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "口腔医学",
+        "school": "（原）湖北医科大学",
+        "period": "1997.9-2000.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "口腔医学",
+        "school": "（原）湖北医科大学",
+        "period": "1994.9-1997.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "口腔医学",
+        "school": "（原）湖北医科大学",
+        "period": "1989.9-1994.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "（原）湖北医科大学",
+    "academic_honors": [],
+    "academic_services": [
+      "中华口腔医学会口腔修复学专业委员会常务委员",
+      "湖北省口腔医学会口腔修复学专委会副主任委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "骨组织工程",
+      "生物材料骨界面",
+      "种植体表面改性",
+      "成骨生物学研究"
+    ],
+    "research_interests": [
+      "软骨内成骨",
+      "骨组织工程支架",
+      "种植义齿修复",
+      "美学修复",
+      "咬合重建",
+      "前牙美学种植",
+      "咬合调整"
+    ],
+    "research_description": "主要从事口腔修复和口腔种植的临床、科研、教学工作，研究领域涵盖软骨内成骨、骨组织工程、生物材料骨界面、种植体表面改性等，擅长复杂缺牙和全口缺牙的种植义齿修复、瓷贴面与全瓷冠桥的美学修复、重度磨耗牙及垂直距离丧失的精密固定修复，具有丰富的前牙美学种植与咬合重建经验。",
+    "disciplines": [
+      "口腔医学",
+      "生物医学工程",
+      "组织工程"
+    ],
+    "field_tags": [
+      "口腔修复",
+      "种植牙",
+      "骨组织工程",
+      "生物材料",
+      "成骨生物学",
+      "美学修复",
+      "咬合重建"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "可摘局部义齿",
+        "keywords": [
+          "可摘局部义齿",
+          "修复学",
+          "义齿设计"
+        ],
+        "journal_name": "主译论著",
+        "research_fields": [
+          "口腔修复学",
+          "义齿修复"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "全口义齿",
+        "keywords": [
+          "全口义齿",
+          "研究生教材",
+          "口腔修复"
+        ],
+        "journal_name": "参编教材",
+        "research_fields": [
+          "口腔修复学",
+          "教学研究"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "种植体表面改性与骨界面研究",
+        "keywords": [
+          "种植体表面改性",
+          "骨界面",
+          "生物材料"
+        ],
+        "journal_name": "国内、外专业学术期刊",
+        "research_fields": [
+          "骨组织工程",
+          "生物材料",
+          "种植体研究"
+        ],
+        "publication_year": 2023
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学口腔医学院教师主页",
+        "url": "http://jszy.whu.edu.cn/wangjiawei/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省市级科研项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "省市级资助机构"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 王家伟\n页面链接: http://jszy.whu.edu.cn/wangjiawei/zh_CN/index.htm\n==================================================\n武汉大学 王家伟--中文主页--首页\n王家伟\n主任医师 硕士生导师 博士生导师\n个人信息\n性别：男\n学历：博士研究生毕业\n在职信息：在职\n所在单位：口腔医学院\n电子邮箱：\nVIEW MORE\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n王家伟，医学博士、武汉大学口腔医学院修复科教授、主任医师，博士研究生导师，兼任中华口腔医学会口腔修复学专业委员会常务委员、湖北省口腔医学会口腔修复学专委会副主任委员。主要从事口腔修复和口腔种植的临床、科研、教学工作，熟悉各类传统义齿和种植义齿修复，擅长瓷贴面、全瓷冠桥的美学修复，重度磨耗牙、牙列缺损伴垂直距离丧失的精密固定修复，复杂缺牙和全口缺牙的种植义齿修复，在前牙美学种植、咬合重建、咬合调整等方面有独到经验。2001至2004年在荷兰莱顿大学从事博士后研究，以第一作者或通讯作者身份在国内、外专业学术期刊上发表论文50余篇，主译论著《可摘局部义齿》，参编研究生教材《全口义齿》，先后主持和参与国家、省、市级科研项目10余项，主要学术研究领域为：软骨内成骨、骨组织工程、生物材料骨界面、种植体表面改性等，指导研究生40余名。\n[1]\n1997.9-2000.6\n（原）湖北医科大学 | 博士\n[2]\n1994.9-1997.6\n（原）湖北医科大学 | 硕士\n[3]\n1989.9-1994.6\n（原）湖北医科大学 | 学士\n[1]\n2010.12-至今\n武汉大学口腔医院\n[2]\n2009.12-2010.11\n武汉大学口腔医院\n[3]\n2004.12-2009.11\n武汉大学口腔医院\n[4]\n2004.10-2004.11\n武汉大学口腔医院\n[5]\n2001.11-2004.9\n荷兰莱顿大学\n[6]\n2000.7-2001.10\n武汉大学口腔医院\n暂无内容\n[1] 临床基础研究\n[2] 骨组织工程支架\n[3] 成骨生物学研究\n暂无内容\n暂无内容\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

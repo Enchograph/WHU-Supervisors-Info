@@ -1,0 +1,226 @@
+{
+  "id": "liaolingmin1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liaolingmin1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "廖灵敏",
+    "english_name": "LIAO Lingmin",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "数学与统计学院",
+    "college": "数学与统计学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "基础数学",
+        "school": "法国皮卡迪大学",
+        "period": "2005-9····2008.5",
+        "country": "法国"
+      },
+      {
+        "degree": "研究生班毕业",
+        "field": "基础数学",
+        "school": "武汉大学",
+        "period": "2003-9····2005.6",
+        "country": "中国"
+      },
+      {
+        "degree": "大学本科毕业",
+        "field": "基础数学",
+        "school": "武汉大学",
+        "period": "1999-9····2003.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学，Picardie大学",
+    "academic_honors": [
+      "连续三次获得法国教育部A级优秀科研奖励(PEDR)"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "分形几何",
+      "动力系统",
+      "度量数论",
+      "丢番图逼近"
+    ],
+    "research_interests": [
+      "分形几何",
+      "动力系统",
+      "度量数论",
+      "遍历理论",
+      "连分数",
+      "双曲流形",
+      "矩阵变换",
+      "随机覆盖问题",
+      "定量递归性",
+      "Hausdorff维数",
+      "熵",
+      "乘法子移位"
+    ],
+    "research_description": "廖灵敏教授主要从事分形几何、动力系统与度量数论等方向的研究，尤其关注分形集的几何性质（如Hausdorff维数）、动力系统中的定量递归性、随机覆盖问题、矩阵变换下的收缩目标问题以及丢番图逼近中的质量传递原理。其研究融合了遍历理论、测度论与数论方法，成果发表于J.Eur.Math.Soc., Math.Ann., Adv.Math., Trans.Amer.Math.Soc.等国际顶级期刊。",
+    "disciplines": [
+      "基础数学",
+      "应用数学",
+      "动力系统",
+      "数论"
+    ],
+    "field_tags": [
+      "分形几何",
+      "动力系统",
+      "度量数论",
+      "丢番图逼近",
+      "遍历理论",
+      "Hausdorff维数",
+      "随机覆盖",
+      "矩阵变换",
+      "熵",
+      "乘法子移位"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 46,
+    "representative_publications": [
+      {
+        "title": "Stationary determinantal processes: ψ-mixing property and Lq-dimensions",
+        "keywords": [
+          "Stationary determinantal processes",
+          "ψ-mixing",
+          "Lq-dimensions",
+          "Stochastic Processes"
+        ],
+        "journal_name": "Stochastic Processes and their Applications",
+        "research_fields": [
+          "Probability Theory",
+          "Fractal Geometry"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Uniform random covering problems",
+        "keywords": [
+          "Uniform random covering",
+          "Random covering",
+          "Diophantine approximation",
+          "Metric number theory"
+        ],
+        "journal_name": "International Mathematics Research Notices",
+        "research_fields": [
+          "Dynamical Systems",
+          "Metric Number Theory"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Shrinking Target Problem for Matrix Transformations of Tori: revisiting the standard problem",
+        "keywords": [
+          "Shrinking target problem",
+          "Matrix transformations",
+          "Tori",
+          "Diophantine approximation"
+        ],
+        "journal_name": "Advances in Mathematics",
+        "research_fields": [
+          "Dynamical Systems",
+          "Number Theory"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Uniform approximation problems of expanding Markov maps",
+        "keywords": [
+          "Expanding Markov maps",
+          "Uniform approximation",
+          "Dynamical systems",
+          "Metric theory"
+        ],
+        "journal_name": "Ergodic Theory and Dynamical Systems",
+        "research_fields": [
+          "Dynamical Systems",
+          "Fractal Geometry"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Diophantine approximation by rational numbers of certain parity types",
+        "keywords": [
+          "Diophantine approximation",
+          "Rational numbers",
+          "Parity types",
+          "Metric number theory"
+        ],
+        "journal_name": "Mathematika",
+        "research_fields": [
+          "Number Theory",
+          "Metric Number Theory"
+        ],
+        "publication_year": 2024
+      },
+      {
+        "title": "Hausdorff dimensions of affine multiplicative subshifts",
+        "keywords": [
+          "Hausdorff dimension",
+          "Affine multiplicative subshifts",
+          "Fractal geometry",
+          "Symbolic dynamics"
+        ],
+        "journal_name": "Advances in Mathematics",
+        "research_fields": [
+          "Fractal Geometry",
+          "Symbolic Dynamics"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liaolingmin1/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "法国国家科研计划",
+      "法国台湾幽兰合作计划",
+      "法国中国蔡元培合作计划",
+      "法国韩国星合作计划",
+      "法国波兰钋合作计划"
+    ],
+    "funding_agencies": [
+      "法国教育部",
+      "法国国家科研计划",
+      "法国台湾幽兰合作计划",
+      "法国中国蔡元培合作计划",
+      "法国韩国星合作计划",
+      "法国波兰钋合作计划"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": false,
+      "is_theoretical": true,
+      "is_applied": false,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 廖灵敏\n页面链接: http://jszy.whu.edu.cn/liaolingmin1/zh_CN/index.htm\n==================================================\n武汉大学 廖灵敏--中文主页--首页\nEnglish\n中文\n廖灵敏\n同专业博导\n同专业硕导\n首页\n科学研究\n讨论班\n研究领域\n论文成果\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n教师英文名称：LIAO Lingmin\n电子邮箱：\n入职时间：2022-07-01\n职务：教授\n学历：博士研究生毕业\n办公地点：雷军科技楼A620\n性别：男\n职称：教授\n在职信息：在职\n毕业院校：武汉大学，Picardie大学\n所属院系：\n数学与统计学院\n学科：\n基础数学\n个人简介\n廖灵敏，2008年获得法国Picardie大学及武汉大学博士学位。2010年获得法国东巴黎大学终身教职。2017年获Habilitation。2022年7月起任武汉大学教授博士生导师。主要从事分形几何，动力系统，度量数论等方面的研究。连续三次获得法国教育部A级优秀科研奖励(PEDR)。主持或参与法国国家科研计划，法国台湾幽兰合作计划，法国中国蔡元培合作计划，法国韩国星合作计划，法国波兰钋合作计划等。曾应邀在法国，瑞典，芬兰，波兰，韩国，巴西，马来西亚，台湾，香港等国家和地区访问讲学。 在包括J.Eur.Math.Soc., Math.Ann., Adv. Math., Int.Math.Res.Not., Trans.Amer.Math.Soc., Ergod.Theory Dyna.Syst.等在内的国际期刊发表论文46篇。\n科研\n最近发表：\n38. Liao Lingmin (with Shi-Lei Fan, Yanqi Qiu), Stationary determinantal processes: ψ-mixing property and Lq-dimensions, Stochastic Processes and their Applications, 151, (2022), 1–22,  arXiv\n39. Liao Lingmin (with Henna Koivusalo and Tomas Persson), Uniform random covering problems, International Mathematics Research Notices, (2023), 455–481,  arXiv\n40. Liao Lingmin (with Bing Li, Sanju Velani and Evgeniy Zorin, appendix by Bao-Wei Wang) Shrinking Target Problem for Matrix Transformations of Tori: revisiting the standard problem, Advances in Mathematics, 421, 108994 (2023). arXiv\n41. Liao Lingmin (with He Yubin), Uniform approximation problems of expanding Markov maps, Ergodic Theory and Dynamical Systems, 44,  (2024), 159--183, arXiv\n42. Liao Lingmin (with He Yubin), Quantitative recurrence properties for piecewise expanding maps on [0,1]^d, Annali della Scuola Normale Superiore di Pisa, accepted. arXiv\n43. Liao Lingmin (with Dong Han Kim, Seul Bee Lee), Diophantine approximation by rational numbers of certain parity types, Mathematika, online. arXiv\n44. Liao Lingmin (with Bing Li, Sanju Velani,  Bao-Wei Wang and Evgeniy Zorin), Diophantine approximation and the Mass Transference Principle: incorporating the unbounded setup, Advances in Mathematics, online. arXiv\n45. Liao Lingmin (with Jung-Chao Ban, Wen-Guei Hu, Guan-Yu Lai), Hausdorff dimensions of affine multiplicative subshifts, Advances in Mathematics, online. arXiv\n46. (with Jung-Chao Ban, Wen-Guei Hu, Guan-Yu Lai) Entropy of axial product of multiplicative subshifts, Journal of Mathematical Physics, accepted,  arXiv\n教学\n2022-2023 第一学期课程：\n1. 线性代数D ，本科一年级，水利水电学院，32课时\n2. 现代数学专题选讲（1），本科三四年级，数学院，32课时；内容：遍历定理，连分数。\n3. 科学论文写作指导，博士一年级，数学院，32课时\n2022-2023 第二学期课程：\n现代数学专题选讲（4），本科三四年级，数学院，32课时；内容：拓扑动力系统，熵，双曲面上的测地流等。\n2022-2023 第三学期课程：\n暑期拓展课程 本科一至四年级，数学院，32课时；内容：分形几何，丢番图逼近。\n2023-2024 第一学期课程：\n1. 实变函数 本科三年级 数学院，64课时\n2. 科学论文写作指导，博士一年级，数学院，32课时\n2024-2025 第一学期课程：\n1. 分析I（习题） 本科一年级 中法数学班，80课时\n2024-2025 第二学期课程：\n1. 分析II（习题） 本科一年级 中法数学班，80课时\n2025-2026 第一学期课程：\n1. 分析I 本科一年级 中法数学班，80课时\n注1: 本人偏好招收希望继续攻读本方向博士学位的硕士研究生；本人要求较严格，怕苦怕累的请绕道。\n注2: 想要跟随本人攻读博士学位的同学，有句提前忠告：博士论文自己多下功夫，请不要把导师当成你的打工仔！\n团队成员\n暂无内容\n工作经历\n2022-7····至今\n数学与统计学院\n| 武汉大学\n| 教授\n| 入选国家海外引进高层次人才计划青年项目\n2017-12····2022-6\n分析与应用数学实验室\n| 法国东巴黎大学克雷泰伊\n| 副教授\n| Laboratoire d'Analyse et de Mathématiques Appliquées, Université Paris-Est Créteil\n2010-9····2017-12\n分析与应用数学实验室\n| 法国东巴黎大学克雷泰伊\n| 讲师\n| Laboratoire d'Analyse et de Mathématiques Appliquées, Université Paris-Est Créteil\n2009-9····2010-8\n分析与应用数学实验室\n| 法国东巴黎大学克雷泰伊\n| 助理研究员\n| Laboratoire d'Analyse et de Mathématiques Appliquées, Université Paris-Est Créteil\n2008-9····2009-8\n数学与理论物理实验室\n| 法国图尔大学\n| 助理研究员\n| Laboratoire de mathématiques et de physique théorique, Université de Tours\n教育经历\n2005-9····2008.5\n法国皮卡迪大学\n|\n基础数学\n| 博士\n|\n博士研究生毕业\n|\nUniversité de Picardie Jules Verne\n2003-9····2005.6\n武汉大学\n|\n基础数学\n| 研究生班毕业\n|\n研究生班毕业\n1999-9····2003.6\n武汉大学\n|\n基础数学\n| 大学本科毕业\n|\n大学本科\n|\n99级数学基地班\n社会兼职\n暂无内容\n研究方向\n[1].分形几何与动力系统\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

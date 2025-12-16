@@ -1,0 +1,168 @@
+{
+  "id": "sl",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/sl/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "史磊",
+    "english_name": "Shi Lei",
+    "title": [
+      "副教授",
+      "硕士导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "测绘科学与技术",
+        "school": "武汉大学",
+        "period": "2010.9-2013.6",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "测绘科学与技术",
+        "school": "武汉大学",
+        "period": "2008.9-2010.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "测绘科学与技术",
+        "school": "武汉大学",
+        "period": "2004.9-2008.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2024年湖北省自然科学奖：国产卫星遥感数据辐射质量提升关键技术与应用",
+      "2019年湖北省自然科学奖：雷达影像地物解译的理论与方法",
+      "2018年测绘科技进步特等奖：面向对象的高可信SAR处理系统",
+      "2015年香港学者协会香江学者",
+      "2015年武汉大学珞珈青年学者"
+    ],
+    "academic_services": [
+      "IEEE TGRS 审稿人",
+      "JSTRA 审稿人",
+      "GRSL 审稿人",
+      "Access ISPRS Journal of Photogrammetry and Remote Sensing 审稿人",
+      "EURASIP Journal on Image and Video Processing 审稿人",
+      "International Journal of Remote Sensing 审稿人",
+      "Remote Sensing Letters 审稿人",
+      "Sensors 审稿人",
+      "Remote Sensing 审稿人",
+      "Soft Computing 审稿人",
+      "Information Fusion 审稿人",
+      "Computers & Geosciences 审稿人",
+      "Journal of Applied Remote Sensing 审稿人",
+      "Journal of Hydrology 审稿人",
+      "Defence Technology 审稿人",
+      "IET Image Processing 审稿人",
+      "武汉大学学报信息科学版 审稿人",
+      "遥感学报 审稿人",
+      "雷达学报 审稿人",
+      "测绘工程 审稿人",
+      "陆军工程大学学报 审稿人",
+      "第三届成像雷达对地观测高级学术研讨会委员"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "雷达影像质量改善",
+      "智能解译"
+    ],
+    "research_interests": [
+      "微波遥感物理散射机制",
+      "深度学习",
+      "地球物理信息提取",
+      "SAR图像应用"
+    ],
+    "research_description": "通过微波遥感物理散射机制研究与深度学习结合，定性、定量地提取地球物理信息，并开展多种SAR图像应用，致力于雷达影像质量提升与智能解译技术的理论与实践。",
+    "disciplines": [
+      "测绘科学与技术",
+      "遥感科学与技术",
+      "电子信息工程"
+    ],
+    "field_tags": [
+      "雷达影像处理",
+      "SAR解译",
+      "深度学习",
+      "遥感数据质量提升",
+      "地球物理信息提取",
+      "微波遥感"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 0,
+    "representative_publications": [
+      {
+        "title": "雷达干涉测量原理与应用",
+        "keywords": [
+          "雷达干涉测量",
+          "SAR",
+          "遥感",
+          "地球物理信息提取"
+        ],
+        "journal_name": "专著",
+        "research_fields": [
+          "雷达影像处理",
+          "遥感信息解译",
+          "微波遥感"
+        ],
+        "publication_year": 2013
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/sl/zh_CN/index.htm"
+      },
+      {
+        "platform": "课题组网站",
+        "url": "https://whuspring.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中国博士后基金",
+      "国家自然科学基金重点项目",
+      "国家自然科学基金面上项目",
+      "国家863项目",
+      "测绘公益专项"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "中国博士后基金",
+      "国家863项目",
+      "测绘公益专项"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 史磊\n页面链接: http://jszy.whu.edu.cn/sl/zh_CN/index.htm\n==================================================\n武汉大学 史磊--中文主页--首页\n教师个人主页\n史磊\n个人信息\n教师拼音名称：Shi Lei\n出生日期：1986-07-31\n电子邮箱：\n入职时间：2015-08-01\n所在单位：测绘遥感信息工程全国重点实验室\n职务：副教授\n学历：研究生毕业\n办公地点：武汉大学星湖楼504办公室\n性别：男\n联系方式：+86 13476094677\n职称：副教授\n在职信息：在职\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n史磊，工学博士，现为测绘遥感信息工程国家重点实验室副教授、硕士导师、IEEE Senior Member。主要研究方向为雷达影像质量改善与智能解译。获2024、2019年湖北省自然科学技术奖，获2018 年测绘科技进步特等奖、2015年度香港学者协会“香江学者”、2015年度武汉大学“珞珈青年学者”。主持国家自然科学基金、湖北省自然科学基金、中国博士后基金项目等，参与国家自然科学基金重点项目、面上项目、国家863项目、测绘公益专项等。发表专著“雷达干涉测量原理与应用”（第二版），申请发明专利两项，担任ISPRS、IEEE T...\n教育经历\n更多>>\n2010.9-2013.6\n武汉大学  | 测绘科学与技术  | 博士 | 博士研究生毕业\n2008.9-2010.6\n武汉大学  | 测绘科学与技术  | 硕士 | 研究生毕业\n2004.9-2008.6\n武汉大学  | 测绘科学与技术  | 学士 | 本科(学士)\n工作经历\n2013.9-2025.6\n测绘遥感信息工程国家重点实验室 | 武汉大学\n2016.1-2017.12\n土地资讯与测量学系 | 香港理工大学\n社会兼职\n2008.9-2019.9\n担任以下国际国内刊物审稿人：IEEE TGRS、JSTRA、GRSL、AccessISPRS Journal of Photogrammetry and Remote SensingEURASIP Journal on Image and Video ProcessingInternational Journal of Remote SensingRemote Sensing Letters，Sensors，Remote SensingSoft Computing，Information Fusion，Computers & GeosciencesJournal of Applied Remote Sensing，Journal of Hydrology，Defence Technology，IET Image Processing，武汉大学学报信息科学版，遥感学报，雷达学报，测绘工程，陆军工程大学学报、第三届成像雷达对地观测高级学术研讨会委员\n研究方向\n雷达影像质量改善与智能解译：通过微波遥感物理散射机制研究与深度学习结合，定性、定量的提取地球物理信息，并开展多种SAR图像应用\n（点击获取更多相关信息）\n曾获荣誉\n2024    湖北省自然科学奖：国产卫星遥感数据辐射质量提升关键技术与应用\n2019    湖北省自然科学奖：雷达影像地物解译的理论与方法\n2018    测绘科技进步特等奖：面向对象的高可信SAR处理系统\n2015    香港学者协会香江学者\n2015    武汉大学珞珈青年学者\n团队成员\n更多>>\n团队成员均来自武汉大学“雷达影像质量改善与智能解译课题组”，详见课题组网站 https://whuspring.cn/\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": "qianjiangfeng",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/qianjiangfeng/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "钱江锋",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "物理化学",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "物理化学",
+        "school": "武汉大学",
+        "period": "2003.9-2012.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2015年 美国西北太平洋国家实验室Outstanding Performance Award",
+      "2017年 武汉大学珞珈青年学者",
+      "2019-2024年 爱思唯尔中国高被引学者 （能源/化学）"
+    ],
+    "academic_services": [
+      "2020-2022年 《物理化学学报》青年编委",
+      "2020年 -至今《稀有金属》、《Rare Metals》青年编委",
+      "2022年-至今 《物理化学学报》编委",
+      "2024年-至今 《Energy Materials》、《Battery Energy》、《Journal of Energy Chemistry》青年编委"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "电化学储能材料",
+      "锂离子电池",
+      "钠离子电池",
+      "锂金属电池",
+      "二维材料",
+      "电池回收与再生"
+    ],
+    "research_interests": [
+      "新型电极材料",
+      "电解液设计",
+      "补锂技术",
+      "电池界面调控",
+      "废旧电池回收",
+      "高能密度电池体系"
+    ],
+    "research_description": "钱江锋教授长期致力于新型电化学储能材料与技术的研究，聚焦于锂离子电池、钠离子电池及锂金属电池等先进储能体系。研究涵盖低缺陷普鲁士蓝储钠正极、无定形磷基储钠负极、高浓度电解液设计、精准化学锂化反应等关键技术，推动了高比能无负极锂金属电池、水系钠离子电池及废旧正极材料室温再生等前沿方向的发展。其团队在材料设计、界面调控、电池性能优化及可持续回收方面取得系列突破，相关成果发表于Nature Commun.、J. Am. Chem. Soc.、Angew. Chem.、Adv. Energy Mater.等顶级期刊。",
+    "disciplines": [
+      "物理化学",
+      "材料科学与工程",
+      "电化学",
+      "能源科学与工程"
+    ],
+    "field_tags": [
+      "电化学储能",
+      "电池材料",
+      "锂离子电池",
+      "钠离子电池",
+      "锂金属电池",
+      "补锂技术",
+      "电解液设计",
+      "电池回收",
+      "二维材料",
+      "高能电池"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 100,
+    "representative_publications": [
+      {
+        "title": "Aromatic Ketone-Mediated Two-Electron Lithiation for Rapid and Room-Temperature Regeneration of Spent LiFePO4 Cathodes",
+        "keywords": [
+          "锂离子电池",
+          "废旧正极再生",
+          "化学补锂",
+          "室温再生"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "电化学储能",
+          "电池材料",
+          "回收与再生"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Precise Chemical Lithiation: A Pathway to Superior Li-Enriched Li1+xNCM523 Cathodes for Long life Anode-free Li metal Batteries",
+        "keywords": [
+          "精准化学锂化",
+          "无负极锂金属电池",
+          "高比能电池",
+          "补锂策略"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "锂金属电池",
+          "电极材料",
+          "电池性能优化"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Rational Molecular Design of Aryl-Lithium Reagent Enables Precise Chemical Prelithiation of Graphite Anodes for Achieving Ideal 100% Initial Coulombic Efficiency",
+        "keywords": [
+          "化学预锂化",
+          "石墨负极",
+          "首效提升",
+          "分子设计"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "锂离子电池",
+          "负极材料",
+          "电化学反应调控"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Mild Chemical Lithiation Strategy for Achieving Synergistic Lithium-Compensation and Carbon-Coating on SiO Anodes",
+        "keywords": [
+          "硅基负极",
+          "化学锂化",
+          "碳包覆",
+          "锂补偿"
+        ],
+        "journal_name": "Adv. Funct. Mater.",
+        "research_fields": [
+          "硅负极材料",
+          "电化学储能",
+          "界面工程"
+        ],
+        "publication_year": 2025
+      },
+      {
+        "title": "Unveiling the Over-Lithiation Behavior of NCM523 Cathode Towards Long-Life Anode-Free Li Metal Batteries",
+        "keywords": [
+          "NCM正极",
+          "过锂化行为",
+          "无负极电池",
+          "长寿命"
+        ],
+        "journal_name": "Adv. Sci.",
+        "research_fields": [
+          "高能电池",
+          "正极材料",
+          "电池机理研究"
+        ],
+        "publication_year": 2025
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=L4zISssAAAAJ&hl=en"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金重大培育项目",
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "湖北省自然科学基金面上项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "湖北省自然科学基金"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 钱江锋\n页面链接: http://jszy.whu.edu.cn/qianjiangfeng/zh_CN/index.htm\n==================================================\n武汉大学 钱江锋--中文主页--首页\nEnglish\n中文\n钱江锋\n同专业博导\n同专业硕导\n首页\n科学研究\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n电子邮箱：\n办公地点：电化学楼C210室\n性别：男\n职称：教授\n所属院系：\n化学与分子科学学院\n学科：\n物理化学\n个人简介\n教育与研究经历\n2003.9-2012.6 武汉大学化学与分子科学学院，本硕博\n2012.7-2015.12 武汉大学化学与分子科学学院，讲师\n2013.9-2015.9 美国西北太平洋国家实验室，博士后\n2016.1-2020.9 武汉大学化学与分子科学学院，副教授，硕士生导师\n2020.9-2024.11 武汉大学化学与分子科学学院，副教授，博士生导师\n2024.12-至今 武汉大学化学与分子科学学院，教授\n研究领域与兴趣\n新型电化学储能材料与技术，如锂离子电池，钠离子电池，锂金属电池，二维材料等。目前已发表SCI论文100余篇，其中以通讯作者或第一作者身份发表60余篇，包括Nature Commun.，J. Am. Chem. Soc.，Angew. Chem.，Adv. Energy Mater.，ACS Energy Lett.，Nano Lett.等，论文共被引用17100余次，22篇入选ESI高被引论文，3篇入选ESI热点论文，H指数64.\n1. 开发了低缺陷普鲁士蓝储钠正极（电化学 2012, 18, 108; J. Mater. Chem. A 2013, 1, 10130; Adv. Energy Mater. 2018, 8, 1702619）、无定形磷基储钠负极（Angew. Chem. Int. Ed. 2013, 52, 4633; Chem. Commun. 2012, 48, 7070），构建一系列非水及水系钠离子电池新体系(Electrochem. Commun.2013, 31, 145 ).\n2. 提出了锂负极兼容的高浓度电解液新体系（Nature Commun. 2015, 6, 6362），开拓了其在高比能无负极锂金属电池中的新应用（Adv. Funct. Mater. 2016, 26, 7094）；\n3. 提出了精准化学锂化反应新思路（Nano Lett. 2022, 22, 2956），发展了其在低首效负极补锂、废旧正极室温锂化再生、及二维材料层数调制剥离中的新应用（J. Am. Chem. Soc. 2024, 146, 6388; Adv. Energy Mater. 2024, 14, 202401197）.\nhttps://scholar.google.com/citations?user=L4zISssAAAAJ&hl=en\n学术荣誉与兼职\n2015年 美国西北太平洋国家实验室Outstanding Performance Award\n2017年 武汉大学珞珈青年学者\n2019-2024年 爱思唯尔中国高被引学者 （能源/化学）\n2020-2022年 《物理化学学报》青年编委\n2020年 -至今《稀有金属》、《Rare Metals》青年编委\n2022年-至今 《物理化学学报》编委\n2024年-至今 《Energy Materials》、《Battery Energy》、《Journal of Energy Chemistry》青年编委\n教授课程\n本科生-物理化学、物理化学实验\n研究生-电极过程动力学、物理化学前沿与进展\n科研项目\n国家自然科学基金重大培育项目（92472118）国家自然科学基金面上项目（22279093, 21773177，22075216）\n国家自然科学基金青年项目（21303125）\n湖北省自然科学基金面上项目（2017CFB614，2022CFB096）\n学术论文\n61. Ren, J.; Wang, X.; Chang, Z.; Zhu, J.; Zhang, Q.; Xu, M.; Chai, P.; Wu, C.; Zhang, K.; Ai, X.; Qian, J.* Aromatic Ketone-Mediated Two-Electron Lithiation for Rapid and Room-Temperature Regeneration of Spent LiFePO4 Cathodes.J. Am. Chem. Soc.2025. https://pubs.acs.org/doi/full/10.1021/jacs.5c13455\n60. Li, T.; Gao, R.; Wang, X.; Zhang, M.; Jiang, M.; Zhang, J.; Tan, R.; Wang, J.; Ai, X.; Xiong, P.*; Suo, L.*; Qian, J.* Precise Chemical Lithiation: A Pathway to Superior Li-Enriched Li1+xNCM523 Cathodes for Long life Anode-free Li metal Batteries. J. Am. Chem. Soc. 2025, 147 (33), 29895-29907. https://doi.org/10.1021/jacs.5c06681\n59. Tan, R.; Liu, K.; Zhu, X.; Yang, S.; Zhang, Q.; Zhang, J.; Chang, Z.; Chai, P.; Wang, X.; Fontaine, O.*; Ai, X.; Qian, J.* Rational Molecular Design of Aryl-Lithium Reagent Enables Precise Chemical Prelithiation of Graphite Anodes for Achieving Ideal 100% Initial Coulombic Efficiency. J. Am. Chem. Soc. 2025, 147 (25), 21865-21867.https://doi.org/10.1021/jacs.5c04997\n58. Ou, Y.; Chang, Z.; Yang, S.; Shu, Y.; Zhang, J.; Tan, R.; Zhang, Q.; Ai, X.; Huo, K.*; Qian, J.* Mild Chemical Lithiation Strategy for Achieving Synergistic Lithium-Compensation and Carbon-Coating on SiO Anodes. Adv. Funct. Mater. 2025, 35 (30), 2423538. https://doi.org/10.1002/adfm.202423538\n57. Gao, R.; Zhan, M.; Li, T.; Xiong, P.; Zhang, Q.; Chen, Z.; Wang, J.; Ai, X.; Pan, F. *; Suo, L.*; Qian, J.* Unveiling the Over-Lithiation Behavior of NCM523 Cathode Towards Long-Life Anode-Free Li Metal Batteries. Adv. Sci. 2025, 12 (19), e2503558. https://doi.org/10.1002/advs.202503558\n56. Zhou, Q. Q.; Zhong, C.; Wang, S. Q.; Jiang, P. F.; Wang, L. F.*; Qian, J. F.*; Zhan, C.* Exploring the chemical adhesive effect of tin foil to double the lifetime of the solid-state lithium battery. Nano Energy 2025, 139, 110938. https://doi.org/10.1016/j.nanoen.2025.110938\n55. Zhang, Q.; Wang, X.; Xu, Z.; Zhang, J.; Tan, R.; Guo, C.; Ai, X.; Li, L.; Qian, J.* Chemically Lithiated Poly(vinylidene difluoride) with In Situ Generated LiF Nanofiller as Hybrid Artificial Layer for Stable Lithium Metal Anodes. Small 2025, 21 (43), e07000. https://doi.org/10.1002/smll.202507000\n54. Han, M. Y.; Su, Z. K.; Mi, J. R.; Qi, P.; Xu, Z. C.; Zhang, J.; Qian, J. F.*; Guo, C. L.* Humidity-Responsive dBSA-MoS2 Nanocomposite Film Assembled via Liquid-Liquid Interface for Simulating Artificial Synaptic Behavior. ACS Appl. Electron. Mater. 2025, 7 (21), 9859-9868.https://doi.org/10.1021/acsaelm.5c01713\n53. Liu, K. X.; Tan, R.; Zheng, Z.; Zhao, R. R.; Ülgüt, B.; Ai, X. P.; Qian, J. F.* Roll-to-roll fabrication of lithiophilic Sn-modified Cu mesh via chemical tin plating approach for long-cycling lithium metal batteries. Rare Met.  2025, 44 (1), 81-94. https://doi.org/10.1007/s12598-024-02875-7\n52. Wang, X. Z.; Jommongkol, R.; Deng, J.; Liu, K. X.; Qian, J. F.*; Zhu, Y. C. *; Fontaine, O.* Progress and Challenges of Water-in-Salt Electrolytes: Exploring Physical Chemistry Properties and Solid Electrolyte Interphase Formation Mechanisms. Batteries & Supercaps 2025, 8 (7), e202400722. https://doi.org/10.1002/batt.202400722\n51. Zhu, X.; Su, Z.; Tan, R.; Guo, C.*; Ai, X.; Qian, J.* Scalable Synthesis of Bilayer Graphene at Ambient Temperature. J. Am. Chem. Soc. 2024, 146 (9), 6388-6396. https://doi.org/10.1021/jacs.4c00975\n50. Xu, M.; Wu, C.; Ye, L.; Zhang, Y.; Zhang, C.; Hu, J.; Tan, R.; Gu, D.; Wang, X.; Fontaine, O.*; Zhan, C.*; Zhuang, L.; Ai, X.; Qian, J.* Direct regeneration of spent LiCoO2 black mass based on fluorenone-mediated lithium supplementation and energy-saving structural restoration. Adv. Energy Mater. 2024,14, 202401197. https://doi.org/10.1002/aenm.202401197\n49. Tan, R.; Zhang, J.; Liu, K.; Zhu, X.; Gao, R.; Zhang, Q.; Wang, Y.; Ai, X.; Qian, J.* Highly Fluorinated Interphase Enables the Exceptional Stability of Monolithic Al Foil Anode for Li‐Ion Batteries. Adv. Funct. Mater. 2024, 34, 2316341. https://doi.org/10.1002/adfm.202316341\n48. Xu, M.; Wu, C.; Zhang, F.; Zhang, Y.; Ren, J.; Zhang, C.; Wang, X.; Xiao, L.*; Fontaine, O.*; Qian, J.* Potential regulation strategy enables ferrocene as p-type redox mediator for direct regeneration of spent LiFePO4 cathode. Energy Storage Mater. 2024, 71, 103611. https://doi.org/10.1016/j.ensm.2024.103611\n47. Yang, Z.-Z.; Zhang, C.-Y.; Ou, Y.-Q.; Su, Z.-K.; Zhao, Y.*; Cong, H.-J.; Ai, X.-P.; Qian, J.-F.* Amorphous Sb/C composite with isotropic expansion property as an ultra-stable and high-rate anode for lithium-ion batteries. Rare Metals 2024, 43 (5), 2039-2052. http://doi.org/10.1007/s12598-023-02548-x\n46. Zhao, R.; Chang, Z.; Fu, X.*; Xu, M.; Ai, X.; Qian, J.* Revisit of polyaniline as a high capacity organic cathode material for Li-ion batteries. Polymers 2024, 16 (10), 1401. https://doi.org/10.3390/polym16101401\n45. Chen, Z.; Su, Z.; Qian, J.* Aromatic Alkali Metal Reagents: Structures, Properties and Applications. University Chemistry 2024, 39 (8), 149-162. https://doi.org/10.3866/PKU.DXHX202311054\n44. Xu, M.; Zhang, F.; Zhang, Y.; Wu, C.; Zhou, X.; Ai, X.; Qian, J.* Controllable synthesis of a Na-enriched Na4V2(PO4)3 cathode for high-energy sodium-ion batteries: a redox-potential-matched chemical sodiation approach. Chemical Science 2023, 14 (44), 12570-12581. http://dx.doi.org/10.1039/D3SC03498D\n43. Wu, C.; Xu, M.; Zhang, C.; Ye, L.; Zhang, K.; Cong, H.; Zhuang, L.; Ai, X.; Yang, H.; Qian, J.* Cost-effective recycling of spent LiMn2O4 cathode via a chemical lithiation strategy. Energy Storage Mater. 2023, 55, 154-165. https://doi.org/10.1016/j.ensm.2022.11.043\n42. Wu, C.; Hu, J.; Chen, H.; Zhang, C.; Xu, M.; Zhuang, L.; Ai, X.; Qian, J. F.* Chemical lithiation methodology enabled Prussian blue as a Li-rich cathode material for secondary Li-ion batteries. Energy Storage Mater. 2023, 60, 102803. https://doi.org/10.1016/j.ensm.2023.102803\n41. Xu, M.; Liu, M.; Yang, Z.; Wu, C.; Qian, J.* Research Progress on Presodiation Strategies for High Energy Sodium-Ion Batteries. Acta Phys-chim. Sin. 2023, 39 (3), 2210043. https://doi.org/10.3866/pku.Whxb202210043\n40. Zhu, X.; Su, Z.; Wu, C.; Cong, H.; Ai, X.; Yang, H.; Qian, J.* Exfoliation of MoS2 Nanosheets Enabled by a Redox-Potential-Matched Chemical Lithiation Reaction. Nano Lett. 2022, 22 (7), 2956-2963. https://doi.org/10.1021/acs.nanolett.2c00148\n39. Jung, Y. S.*; Qian, J.* Advances in Electrolyte Design for Storage Batteries. ACS Energy Lett. 2022, 7, 2864-2865.https://doi.org/10.1021/acsenergylett.2c01729\n38. Ye, L.; Zhang, C.; Zhou, Y.; Ülgüt*, B.; Zhao, Y.; Qian, J.* Guided lithium nucleation and growth on lithiophilic tin-decorated copper substrate. J. Energy Chem. 2022, 74, 412-419. https://doi.org/10.1016/j.jechem.2022.07.027\n37. Wu, C.; Hu, J.; Ye, L.; Su, Z.; Fang, X.; Zhu, X.; Zhuang, L.; Ai, X.; Yang, H.; Qian, J.* Direct Regeneration of Spent Li-Ion Battery Cathodes via Chemical Relithiation Reaction. ACS Sustainable Chem. Eng. 2021, 9 (48), 16384-16393. https://doi.org/10.1021/acssuschemeng.1c06278\n36. Liu, M.; Yang, Z.; Shen, Y.; Guo, S.; Zhang, J.; Ai, X.; Yang, H.; Qian, J.* Chemically presodiated Sb with a fluoride-rich interphase as a cycle-stable anode for high-energy sodium ion batteries. J. Mater. Chem. A 2021, 9 (9), 5639-5647.http://dx.doi.org/10.1039/D0TA10880D\n35.Wu, C.; Zhou, Y.; Zhu, X. L.; Zhan, M. Z.; Yang, H. X.; Qian, J. F.* Research Progress on High Concentration Electrolytes for Li Metal Batteries. Acta Phys-chim. Sin. 2021, 37 (2), 2008044-2008040.http://dx.doi.org/10.3866/Pku.Whxb202008044\n34. Wu, C.; Guo, F.; Zhuang, L.*; Ai, X.; Zhong, F.; Yang, H.; Qian, J.* Mesoporous Silica Reinforced Hybrid Polymer Artificial Layer for High-Energy and Long-Cycling Lithium Metal Batteries. ACS Energy Lett. 2020, 5 (5), 1644-1652.https://doi.org/10.1021/acsenergylett.0c00804\n33. Guo, F.; Wu, C.; Chen, H.; Zhong, F.; Ai, X.; Yang, H.; Qian, J.* Dendrite-free lithium deposition by coating a lithiophilic heterogeneous metal layer on lithium metal anode. Energy Storage Mater. 2020, 24, 635-643. https://doi.org/10.1016/j.ensm.2019.06.010\n32. Shen, Y.; Qian, J.*; Yang, H.; Zhong, F.; Ai, X.* Chemically Prelithiated Hard-Carbon Anode for High Power and High Capacity Li-Ion Batteries. Small 2020, 16 (7), e1907602. https://doi.org/10.1002/smll.201907602\n31. Liu, M.; Zhang, J.; Guo, S.; Wang, B.; Shen, Y.; Ai, X.; Yang, H.; Qian, J.* Chemically Presodiated Hard Carbon Anodes with Enhanced Initial Coulombic Efficiencies for High-Energy Sodium Ion Batteries. ACS Appl. Mater. Interfaces 2020, 12 (15), 17620-17627. https://doi.org/10.1021/acsami.9b21800\n30. Guo, F.; Wu, C.; Chen, S.; Ai, X.; Zhong, F.; Yang, H.; Qian, J. * Flaky and Dense Lithium Deposition Enabled by a Nanoporous Copper Surface Layer on Lithium Metal Anode. ACS Materials Letters 2020, 2, 358-366. https://doi.org/10.1021/acsmaterialslett.0c00001\n29. Shen, Y.; Zhang, J.; Pu, Y.; Wang, H.; Wang, B.; Qian, J.*; Cao, Y.; Zhong, F.; Ai, X.; Yang, H. Effective Chemical Prelithiation Strategy for Building a Silicon/Sulfur Li-Ion Battery. ACS Energy Lett. 2019, 4 (7), 1717-1724. https://doi.org/10.1021/acsenergylett.9b00889\n28. Shao, M.; Deng, J.; Zhong, F.*; Cao, Y.; Ai, X.; Qian, J.*; Yang, H. An all-vanadium aqueous lithium ion battery with high energy density and long lifespan. Energy Storage Mater. 2019, 18, 92-99. https://doi.org/10.1016/j.ensm.2018.09.029\n27. Shao, M.; Wang, B.; Liu, M.; Wu, C.; Ke, F.*; Ai, X.; Yang, H.; Qian, J.* A High-Voltage and Cycle Stable Aqueous Rechargeable Na-Ion Battery Based on Na2Zn3[Fe(CN)6]2- NaTi2(PO4)3 Intercalation Chemistry. ACS Appl. Energy Mater. 2019, 2 (8), 5809-5815. https://doi.org/10.1021/acsaem.9b00935\n26. Xu, L.; Li, H.; Wu, X.; Shao, M.; Liu, S.; Wang, B.; Zhao, G.; Sheng, P.; Chen, X.; Han, Y.; Cao, Y.; Ai, X.; Qian, J.*; Yang, H. Well-defined Na2Zn3[Fe(CN)6]2 nanocrystals as a low-cost and cycle-stable cathode material for Na-ion batteries. Electrochem. Commun. 2019, 98, 78-81. https://doi.org/10.1016/j.elecom.2018.11.019\n25. Qian, J. F.; Wu, C.; Cao, Y. L.; Ma, Z. F.; Huang, Y. H.*; Ai, X. P.; Yang, H. X.* Prussian Blue Cathode Materials for Sodium-Ion Batteries and Other Ion Batteries. Adv. Energy Mater. 2018, 8 (17), 1702619. https://doi.org/10.1002/aenm.201702619\n24. Wan, G.; Guo, F.; Li, H.; Cao, Y.; Ai, X.; Qian, J.*; Li, Y.*; Yang, H.* Suppression of Dendritic Lithium Growth by In-situ Formation of a Chemically Stable and Mechanically Strong Solid Electrolyte Interphase. ACS Appl. Mater. Interfaces 2018, 10, 593-601. http://dx.doi.org/10.1021/acsami.7b14662\n23. He, F.; Wu, X. J.; Qian, J. F.*; Cao, Y. L.; Yang, H. X.; Ai, X. P.*; Xia, D. G.* Building a cycle- stable sulphur cathode by tailoring its redox reaction into a solid- phase conversion mechanism. J. Mater. Chem. A 2018, 6 (46), 23396-23407. https://doi.org/10.1039/C8TA08159J\n22. Wu, X.; Wu, C.; Wei, C.; Hu, L.; Qian, J.*; Cao, Y.; Ai, X.; Wang, J.; Yang, H.* Highly Crystallized Na2CoFe(CN)6 with Suppressed Lattice Defects as Superior Cathode Material for Sodium-Ion Batteries. ACS Appl. Mater. Interfaces 2016, 8 (8), 5393-5399. http://dx.doi.org/10.1021/acsami.5b12620\n21. Wu, C.; Qian, J.*; Yang, H. * Recent Progress and Challenges in the Development of Prussian Blue Analogues as New Intercalation Cathode Materials. SCIENCE CHINA Chemistry 2017, 47 (5), 603-613. https://doi.org/10.1360/N032016-00218\n20. Qian, J. F.; Adams, B. D.; Zheng, J. M.; Xu, W.; Henderson, W. A.; Wang, J.; Bowden, M. E.; Xu, S. C.; Hu, J. Z.; Zhang, J. G.* Anode-Free Rechargeable Lithium Metal Batteries. Adv. Funct. Mater. 2016, 26 (39), 7094-7102. http://dx.doi.org/10.1002/adfm.201602353\n19. Deng, W.; Qian, J.*; Cao, Y.; Ai, X.; Yang, H.* Graphene-Wrapped Na2C12H6O4 Nanoflowers as High Performance Anodes for Sodium-Ion Batteries. Small 2016, 12 (5), 583-587. http://dx.doi.org/10.1002/smll.201502278\n18. Wu, X.; Shao, M.; Wu, C.; Qian, J.*; Cao, Y.; Ai, X.; Yang, H.* Low defect FeFe (CN)6 framework as stable host material for high performance Li-ion batteries. ACS Appl. Mater. Interfaces 2016, 8 (36), 23706−23712. http://dx.doi.org/10.1021/acsami.6b06880\n17. Qian, J.; Henderson, W. A.; Xu, W.; Bhattacharya, P.; Engelhard, M.; Borodin, O.; Zhang, J.-G.* High rate and stable cycling of lithium metal anode. Nature Commun. 2015, 6, 6362. https://doi.org/10.1038/ncomms7362\n16. Qian, J.; Xu, W.*; Bhattacharya, P.; Engelhard, M.; Henderson, W. A.; Zhang, Y.; Zhang, J.-G.* Dendrite-free Li deposition using trace-amounts of water as an electrolyte additive. Nano Energy 2015, 15, 135-144. https://doi.org/10.1016/j.nanoen.2015.04.009\n15. Wu, X.; Luo, Y.; Sun, M.; Qian, J.*; Cao, Y.; Ai, X.; Yang, H.* Low-defect Prussian blue nanocubes as high capacity and long life cathodes for aqueous Na-ion batteries. Nano Energy 2015, 13 (0), 117-123. http://dx.doi.org/10.1016/j.nanoen.2015.02.006\n14. Wu, X.; Sun, M.; Guo, S.; Qian, J.*; Liu, Y.; Cao, Y.; Ai, X.; Yang, H.* Vacancy Free Prussian Blue Nanocrystals with High Capacity and Superior Cyclability for Aqueous Sodium Ion Batteries. ChemNanoMat 2015, 1 (3), 188-193. http://dx.doi.org/10.1002/cnma.201500021\n13. Qian, J.*; Xiong, Y.; Cao, Y.; Ai, X.; Yang, H. * Synergistic Na-storage Reactions in Sn4P3 as A High Capacity and Cycle-stable Anode of Na-ion Batteries. Nano Lett. 2014, 14 (4), 1865-1869. http://dx.doi.org/10.1021/nl404637q\n12. Zhang, Y.#; Qian, J.#; Xu, W.*; Russell, S. M.; Chen, X.; Nasybulin, E.; Bhattacharya, P.; Engelhard, M. H.; Mei, D.; Cao, R.; Ding, F.; Cresce, A. V.; Xu, K.; Zhang, J.-G.* Dendrite-Free Lithium Deposition with Self-Aligned Nanorod Structure. Nano Lett. 2014, 14 (12), 6889-6896. http://dx.doi.org/10.1021/nl5039117\n11. Wu, X.; Sun, M.; Shen, Y.; Qian, J.*; Cao, Y..; Ai, X.; Yang, H.*. Energetic Aqueous Rechargeable Sodium-Ion Battery Based on Na2CuFe(CN)6–NaTi2(PO4)3 Intercalation Chemistry. ChemSusChem 2014, 7 (2), 407-411. http://dx.doi.org/10.1002/cssc.201301036\n10. Qian, J.; Wu, X.; Cao, Y.; Ai, X.; Yang*, H. High Capacity and Rate Capability of Amorphous Phosphorus for Sodium Ion Batteries. Angew. Chem. Int. Ed. 2013, 52 (17), 4633-4636. http://dx.doi.org/10.1002/anie.201209689\n9. Zhu, L.; Shen, Y.; Sun, M.; Qian, J.*; Cao, Y.; Ai, X.; Yang, H.* Self-doped polypyrrole with ionizable sodium sulfonate as a renewable cathode material for sodium ion batteries. Chem. Commun. 2013, 49 (97), 11370-11372. http://dx.doi.org/10.1039/C3CC46642F\n8. Yang, H. X.; Qian, J. F. Recent Development of Aqueous Sodium Ion Batteries and Their Key Materials. J. Inorg. Mater. 2013, 28 (11), 1165-1171. http://dx.doi.org/10.3724/SP.J.1077.2013.13388\n7. Wu, X.; Deng, W.; Qian, J.*; Cao, Y.; Ai, X.; Yang, H.* Single-crystal FeFe(CN)6 nanoparticles: a high capacity and high rate cathode for Na-ion batteries. J. Mater. Chem. A 2013, 1 (35), 10130-10134. http://dx.doi.org/10.1039/C3TA12036H\n6. Wu, X.; Cao, Y.; Ai, X.; Qian, J.*; Yang, H.* A low-cost and environmentally benign aqueous rechargeable sodium-ion battery based on NaTi2(PO4)3–Na2NiFe(CN)6 intercalation chemistry. Electrochem. Commun. 2013, 31 (0), 145-148. http://dx.doi.org/10.1016/j.elecom.2013.03.013\n5. Deng, W. W.; Liang, X. M.; Wu, X. Y.; Qian, J. F.*; Cao, Y. L.; Ai, X. P.; Feng, J. W.; Yang, H. X.* A low cost, all-organic Na-ion Battery Based on Polymeric Cathode and Anode. Scientific Reports 2013, 3, 2671. https://doi.org/10.1038/srep02671\n4. Qian, J.; Gao, X.; Yang, H. * Electrochemical Na-Storage Materials and Their Applications for Na-ion Batteries. Journal of Electrochemistry 2013, 19 (6), 523-529. http://dx.doi.org/10.13208/j.electrochem.130351\n3. Qian, J. F.; Zhou, M.; Cao, Y. L.; Ai, X. P.; Yang, H. X.* Nanosized Na4(FeCN)6/C Composite as a Low-Cost and High-Rate Cathode Material for Sodium-Ion Batteries. Adv. Energy Mater. 2012, 2 (4), 410-414.https://doi.org/10.1002/aenm.201100655\n2. Qian, J. F.; Qiao, D.; Ai, X. P.; Cao, Y. L.; Yang, H. X.* Reversible 3-Li storage reactions of amorphous phosphorus as high capacity and cycling-stable anodes for Li-ion batteries. Chem. Commun. 2012, 48 (71), 8931-8933. https://doi.org/10.1039/c2cc34388f\n1. Qian, J. F.; Chen, Y.; Wu, L.; Cao, Y. L.; Ai, X. P.; Yang, H. X.* High capacity Na-storage and superior cyclability of nanocomposite Sb/C anode for Na-ion batteries. Chem. Commun. 2012, 48 (56), 7070-7072. https://doi.org/10.1039/c2cc32730a\n欢迎有志于从事新能源材料研究的同学加入本课题组，研究背景不限（材料、无机、有机、高分子等均可）！\n团队成员\n暂无内容\n工作经历\n暂无内容\n教育经历\n暂无内容\n社会兼职\n暂无内容\n研究方向\n暂无内容\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

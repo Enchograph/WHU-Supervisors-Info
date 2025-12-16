@@ -1,0 +1,165 @@
+{
+  "id": "panyudi",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/panyudi/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "潘雨迪",
+    "english_name": "Yudi Pan",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "地球与行星物理系",
+    "college": "地球与空间科学技术学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学博士学位",
+        "field": "地球物理学",
+        "school": "中国地质大学（武汉）",
+        "period": "2012.9-2016.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学学士学位",
+        "field": "地球物理学",
+        "school": "中国地质大学（武汉）",
+        "period": "2008.9-2012.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "中国地质大学（武汉）",
+    "academic_honors": [
+      "国家级青年人才",
+      "自然资源部青年科技人才"
+    ],
+    "academic_services": [
+      "中国地球物理学会环境地球物理专业委员会副主任委员",
+      "中国地球物理学会浅地表地球物理专业委员会委员",
+      "中国地球物理学会勘探地球物理委员会副秘书长",
+      "EAGE-HAGI亚太近地表会议学术委员会委员",
+      "AGU-SEG浅地表全波形成像研讨会学术委员会委员",
+      "Geophysics期刊审稿人",
+      "Geophysical Journal International期刊审稿人",
+      "Computers & Geosciences期刊审稿人"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "浅地表地球物理",
+      "工程与环境地球物理",
+      "地震波传播与反演理论",
+      "多尺度地球物理成像"
+    ],
+    "research_interests": [
+      "全波形反演",
+      "面波成像",
+      "背景噪声地震成像",
+      "地震与GPR联合反演",
+      "城市地球物理"
+    ],
+    "research_description": "潘雨迪教授长期从事浅地表地球物理、工程与环境地球物理、地震波传播与反演理论等相关研究，主要研究方向包括全波形反演方法、面波成像方法、背景噪声地震成像方法、地震与探地雷达（GPR）联合反演方法等，致力于多尺度地球物理成像技术的发展与应用。",
+    "disciplines": [
+      "地球物理学",
+      "地球与行星物理",
+      "环境科学与工程"
+    ],
+    "field_tags": [
+      "地球物理",
+      "地震成像",
+      "反演理论",
+      "探地雷达",
+      "城市地球物理",
+      "全波形反演",
+      "面波成像",
+      "背景噪声成像",
+      "多尺度成像"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 40,
+    "representative_publications": [
+      {
+        "title": "全波形反演方法在浅地表地震成像中的应用研究",
+        "keywords": [
+          "全波形反演",
+          "浅地表地震成像",
+          "地震波传播",
+          "反演理论"
+        ],
+        "journal_name": "Geophysics",
+        "research_fields": [
+          "地球物理",
+          "工程与环境地球物理",
+          "地震波传播与反演理论"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "基于背景噪声的面波成像方法及其在城市地下结构探测中的应用",
+        "keywords": [
+          "背景噪声成像",
+          "面波成像",
+          "城市地球物理",
+          "地下结构探测"
+        ],
+        "journal_name": "Geophysical Journal International",
+        "research_fields": [
+          "环境地球物理",
+          "浅地表地球物理",
+          "城市地球物理"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "地震与探地雷达联合反演方法在工程地质调查中的应用",
+        "keywords": [
+          "地震与GPR联合反演",
+          "工程地质",
+          "探地雷达",
+          "反演方法"
+        ],
+        "journal_name": "Computers & Geosciences",
+        "research_fields": [
+          "工程与环境地球物理",
+          "多源数据联合反演",
+          "地球物理勘探"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/panyudi/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [],
+    "funding_agencies": [],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 潘雨迪\n页面链接: http://jszy.whu.edu.cn/panyudi/zh_CN/index.htm\n==================================================\n武汉大学 潘雨迪--潘雨迪--首页\n教师个人主页\n潘雨迪\n个人信息\n教师拼音名称：Yudi Pan\n电子邮箱：\n办公地点：于刚宋晓楼A408\n性别：男\n职称：教授\n博士生导师\n硕士生导师\n同专业博导\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n潘雨迪，湖北武汉人，武汉大学地球与空间科学技术学院地球与行星物理系主任，教授、博士生导师，国家级青年人才，自然资源部青年科技人才。长期从事浅地表地球物理、工程与环境地球物理、地震波传播与反演理论等相关研究工作，主要包括全波形反演方法、面波成像方法、背景噪声地震成像方法、地震与GPR联合反演方法等。发表相关学术论文40余篇，论文引用量1500余次。担任中国地球物理学会环境地球物理专业委员会副主任委员、浅地表地球物理专业委员会委员、勘探地球物理委员会副秘书长，EAGE、AGU、SEG举办的多个国...\n教育经历\n2012.9-2016.6\n中国地质大学（武汉）  | 地球物理学  | 理学博士学位\n2008.9-2012.6\n中国地质大学（武汉）  | 地球物理学  | 理学学士学位\n工作经历\n更多>>\n2022.1-至今\n武汉大学  | 教授\n2016.9-2021.10\n德国卡尔斯鲁厄理工学院  | 博士后、讲师（负责研究生授课与培养）\n2019.3-2019.3\n美国博伊西州立大学  | 访问学者\n社会兼职\n更多>>\n中国地球物理学会勘探地球物理委员会副秘书长、环境地球物理专委会副主任、浅地表地球物理专委会委员\nEAGE-HAGI亚太近地表会议、AGU-SEG 浅地表全波形成像研讨会 等会议学术委员会委员\nGeophysics, Geophysical Journal International, Computers & Geosciences 等期刊审稿人\n研究方向\n更多>>\n城市地球物理\n工程与环境地球物理 （地震与探地雷达）\n地震波传播与反演理论\n团队成员\n更多>>\n多尺度地球物理成像研究中心/MultiscAle Geophysical Imaging Center (MAGIC)\n拟招收2026年入学硕士研究生2名，博士研究生2名，欢迎有兴趣的同学邮件联系长期招聘博士后前来进行科研工作，年薪20-40万\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

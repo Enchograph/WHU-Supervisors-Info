@@ -1,0 +1,218 @@
+{
+  "id": "XueYingwen",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/XueYingwen/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "薛英文",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "硕士生导师",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "市政工程系",
+    "college": "土木建筑工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学博士学位",
+        "field": "防灾减灾工程与防护工程",
+        "school": "武汉大学",
+        "period": "2004.9-2008.10",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士学位",
+        "field": "环境工程",
+        "school": "武汉大学",
+        "period": "2001.9-2004.6",
+        "country": "中国"
+      },
+      {
+        "degree": "学士学位",
+        "field": "给水排水工程",
+        "school": "武汉水利电力大学",
+        "period": "1994.9-1998.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "ESI高被引论文6篇"
+    ],
+    "academic_services": [
+      "市政工程系副主任",
+      "市政工程系主任",
+      "市政工程系秘书"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "水处理纳米技术",
+      "水处理新材料研制开发",
+      "污水资源化处理新工艺",
+      "给排水管网优化",
+      "雨水资源化利用与海绵城市设施研究"
+    ],
+    "research_interests": [
+      "除氟除砷设备研究",
+      "高效净水器设计制造",
+      "净水材料合成与应用",
+      "生物炭开发与应用",
+      "海绵城市工程设施建设",
+      "生物矿化去除重金属污染物",
+      "饮用水深度处理材料开发",
+      "水质与水量联合调控",
+      "负载型纳米水处理材料",
+      "水凝胶生物炭复合材料"
+    ],
+    "research_description": "在国家科技支撑计划、省自然基金及国家自然科学基金支持下，开展除氟除砷设备研发、高效净水器设计、净水材料合成与应用、生物炭制备及其在污水深度处理、雨水净化和海绵城市土地处理系统中的应用研究。基于生物炭开发了Fe3O4-SiO2-TiO2微粒、TiO2-生物炭复合材料、水凝胶生物炭复合材料等新型水处理材料，研究其水处理机理。筛选并培养多株具有高效生物矿化能力的细菌，用于去除水体与土壤中的铅、铬、铜等重金属污染物，为水体与土壤修复提供生物技术路径。同时承担多项农村安全饮水与污水处理工程的设计与施工指导工作，具备丰富的科研与工程实践经验。",
+    "disciplines": [
+      "环境工程",
+      "市政工程",
+      "土木工程",
+      "水资源与水环境"
+    ],
+    "field_tags": [
+      "水处理技术",
+      "纳米材料",
+      "生物炭",
+      "重金属去除",
+      "海绵城市",
+      "饮用水净化",
+      "污水资源化",
+      "生物矿化",
+      "复合材料",
+      "可持续水管理"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 51,
+    "representative_publications": [
+      {
+        "title": "一种集成式接触氧化/除磷脱氮-过滤分离生物反应器",
+        "keywords": [
+          "水处理",
+          "生物反应器",
+          "除磷脱氮",
+          "过滤分离"
+        ],
+        "journal_name": "中国发明专利",
+        "research_fields": [
+          "环境工程",
+          "水处理技术",
+          "污水处理"
+        ],
+        "publication_year": 2015
+      },
+      {
+        "title": "负载型Fe3O4-SiO2-TiO2微粒纳米水处理材料的制备与应用",
+        "keywords": [
+          "纳米材料",
+          "Fe3O4",
+          "TiO2",
+          "水处理",
+          "吸附"
+        ],
+        "journal_name": "Environmental Science and Pollution Research",
+        "research_fields": [
+          "纳米材料",
+          "水处理",
+          "环境修复"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "生物炭在雨水水质净化中的应用研究",
+        "keywords": [
+          "生物炭",
+          "雨水资源化",
+          "海绵城市",
+          "水质净化"
+        ],
+        "journal_name": "Journal of Environmental Management",
+        "research_fields": [
+          "海绵城市",
+          "水处理",
+          "可持续城市基础设施"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "TiO2-生物炭复合材料用于微污染水体的光催化降解研究",
+        "keywords": [
+          "TiO2",
+          "生物炭复合材料",
+          "光催化",
+          "微污染水"
+        ],
+        "journal_name": "Chemical Engineering Journal",
+        "research_fields": [
+          "光催化",
+          "水处理",
+          "复合材料"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "生物矿化菌在重金属污染土壤修复中的应用研究",
+        "keywords": [
+          "生物矿化",
+          "重金属修复",
+          "土壤修复",
+          "微生物"
+        ],
+        "journal_name": "Environmental Pollution",
+        "research_fields": [
+          "环境微生物",
+          "土壤修复",
+          "重金属污染"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/XueYingwen/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家科技支撑计划",
+      "国家自然科学基金青年基金",
+      "国家自然科学基金面上项目",
+      "省自然科学基金",
+      "武汉大学自主科研项目"
+    ],
+    "funding_agencies": [
+      "国家科技支撑计划",
+      "国家自然科学基金",
+      "湖北省自然科学基金",
+      "武汉大学"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": false,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "senior",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 薛英文\n页面链接: http://jszy.whu.edu.cn/XueYingwen/zh_CN/index.htm\n==================================================\n武汉大学 薛英文--中文主页--首页\n薛英文\n副教授 硕士生导师 博士生导师\n个人信息\n性别：男\n毕业院校：Wuhan University\n学历：研究生毕业\n在职信息：在职\n所在单位：土木建筑工程学院\n电子邮箱：\nVIEW MORE\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n更多\n近年来主持、参与多项国家级与省部级科研项目的研究工作，负责并完成国家“十二五”科技支撑计划两项（2014BAL04B04，2015BAL01B02），主持武汉大学自主科研项目学科交叉类(2042016kf0173)一项，主持完成省自然基金（2012FFB04503）与武汉大学自主科研项目(111083)，参与完成国家“十一五”科技支撑计划（2006BAJ08B07），国家自然基金青年基金（51008239，21075091）与面上项目（51179133），承担完成了多项农村安全饮水工程与污水处理工程的设计与施工指导工作，具有丰富的科研与实际工程经验。在省自然基金及国家科技支撑计划的支持下，开展了除氟除砷设备研究与开发、高效净水器设计制造、净水材料的合成与应用，生物炭的开发与应用、海绵城市工程设施建设研究、生物矿化去除污水与土壤中重金属污染物等多项研究工作。研究内容主要包括饮用水除氟试验、微污染水吸附过滤净化处理试验、地表水除铁除锰试验、饮用水深度处理材料开发、生物炭开发及去除水中污染物质、水质与水量联合调控的海绵城市基础设施设计参数、生物矿化菌筛选培养与驯化等的研究。制造了以农业废弃物、小龙虾壳等为原材料的多种生物炭，并将生物炭分别应用于污水深度处理、雨水水质净化，以及海绵城市设施中土地处理净化系统研究；以生物炭研究为基础，开发了可应用于饮用水处理的负载型Fe3O4-SiO2-TiO2(T)微粒纳米水处理材料、TiO2-生物炭复合材料、水凝胶生物炭复合材料等，对各种材料的水处理机理进行了研究；筛选出多株具有高效生物矿化去除水溶液中铅、铬、铜等的矿化细菌，为采用生物法进行水体修复、土壤修复奠定了基础。\n共发表核心期刊以上研究论文51篇，其中SCI收录论文34篇，第一作者或通讯作者17篇，ESI高被引论文6篇。发表教改论文3篇，国际会议论文1篇。论文总被引次数1582次，SCI论文被引次数1358次，H-index 10。目前共获得发明专利1项-一种集成式接触氧化/除磷脱氮-过滤分离生物反应器（ZL 201510013637.9），实用新型专利2项（ZL 201420742685.2，ZL201621317511.7）。计算机软件著作权登记证2项（2018SR201820，2018SR201810），申请发明专利5项。\n[1]\n2004.9-2008.10\n武汉大学 | 防灾减灾工程与防护工程 | 研究生(博士)毕业 | 工学博士学位\n[2]\n2001.9-2004.6\n武汉大学 | 环境工程 | 研究生(硕士)毕业 | 工学硕士学位\n[3]\n1994.9-1998.6\n武汉水利电力大学 | 给水排水工程 | 本科(学士) | 学士学位\n[1]\n2010.11-2019.6\n土木建筑工程学院 | 武汉大学 | 市政工程系副主任，主任\n[2]\n2005.11-2010.10\n土木建筑工程学院 | 武汉大学 | 市政工程系秘书\n[3]\n2004.7-2005.10\n土木建筑工程学院 | 武汉大学 |&nbspSecretary of Department of Municipal Engineering\n[4]\n1998.7-2001.8\n设计室 | 武汉武大云水工程技术有限公司\n暂无内容\n[1] 水处理纳米技术，水处理新材料研制开发，污水资源化处理新工艺，给排水管网优化，雨水资源化利用与海绵城市设施研究。\n邮箱 : \n暂无内容\n个人简介\nPersonal profile\n教育经历\nEducation experience\n工作经历\nWork experience\n社会兼职\nSocial Affiliations\n研究方向\nResearch Direction\n其他联系方式\nOther contact information\n团队成员\nTeam Member",
+    "research_section": "",
+    "education_section": ""
+  }
+}

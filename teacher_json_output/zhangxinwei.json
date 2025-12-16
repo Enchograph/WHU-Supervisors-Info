@@ -1,0 +1,218 @@
+{
+  "id": "zhangxinwei",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/zhangxinwei/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "张欣伟",
+    "english_name": "",
+    "title": [
+      "教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "化学与分子科学学院",
+    "college": "化学与分子科学学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "理学学士学位",
+        "field": "分析化学",
+        "school": "武汉大学",
+        "period": "2008.9 -- 2012.6",
+        "country": "中国"
+      },
+      {
+        "degree": "理学博士学位",
+        "field": "分析化学",
+        "school": "武汉大学",
+        "period": "2012.9 -- 2018.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "国家海外高层次人才项目"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "单/亚细胞电分析方法学",
+      "纳米电化学传感",
+      "电化学-纳米孔道联用技术",
+      "细胞器测量的数值仿真"
+    ],
+    "research_interests": [
+      "单细胞器检测",
+      "超快生理活动监测",
+      "多维特征分析",
+      "神经递质检测",
+      "囊泡释放动力学",
+      "扩散滤波问题",
+      "生物-电子界面间隙高度测量"
+    ],
+    "research_description": "长期致力于单/亚细胞测量方法学研究，针对细胞内单细胞器检测中细胞损伤严重、测量特征单一等关键问题，发展了超细长纳米线电化学传感器及电化学-纳米孔道联用技术，实现了单细胞器水平的超快生理活动监测与基于多维特征的细胞器发育过程研究。结合实验与数值仿真，解决了神经递质检测中的历史遗留问题，如囊泡内递质浓度测定与扩散滤波问题，提出了亚细胞分析领域的新概念。",
+    "disciplines": [
+      "分析化学",
+      "电化学",
+      "生物医学传感",
+      "纳米技术"
+    ],
+    "field_tags": [
+      "单细胞分析",
+      "纳米电极",
+      "电化学传感",
+      "纳米孔道",
+      "细胞器监测",
+      "神经递质",
+      "数值仿真",
+      "生物电子界面",
+      "超快检测"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 6,
+    "representative_publications": [
+      {
+        "title": "Real-Time Intracellular Measurements of ROS and RNS in Living Cells with Single Core–Shell Nanowire Electrodes",
+        "keywords": [
+          "单细胞器检测",
+          "纳米线电极",
+          "活性氧",
+          "活性氮",
+          "实时测量"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "分析化学",
+          "纳米电化学",
+          "生物传感"
+        ],
+        "publication_year": 2017
+      },
+      {
+        "title": "Electrochemical Monitoring of ROS/RNS Homeostasis Within Individual Phagolysosomes Inside Single Macrophages",
+        "keywords": [
+          "吞噬体",
+          "电化学监测",
+          "超快生理过程",
+          "单细胞器"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "分析化学",
+          "细胞器测量",
+          "电化学传感"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Simultaneous Quantification of Vesicle Size and Catecholamine Content by Resistive Pulses in Nanopores and Vesicle Impact Electrochemical Cytometry",
+        "keywords": [
+          "纳米孔道",
+          "电化学胞计数",
+          "囊泡尺寸",
+          "儿茶酚胺含量",
+          "联用技术"
+        ],
+        "journal_name": "J. Am. Chem. Soc.",
+        "research_fields": [
+          "分析化学",
+          "纳米电化学",
+          "神经递质检测"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Pore-Opening Dynamics of Single Nanometer Biovesicles at an Electrified Interface",
+        "keywords": [
+          "生物囊泡",
+          "孔道开启动力学",
+          "电极界面",
+          "仿真计算"
+        ],
+        "journal_name": "ACS Nano",
+        "research_fields": [
+          "纳米电化学",
+          "生物界面",
+          "数值仿真"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Direct Acquisition of the Gap Height of Biological Tissue-Electronic Chemical Sensor Interfaces",
+        "keywords": [
+          "生物-电子界面",
+          "间隙高度",
+          "电化学-纳米孔结合",
+          "扩散滤波"
+        ],
+        "journal_name": "Angew. Chem. Int. Ed.",
+        "research_fields": [
+          "分析化学",
+          "生物医学传感",
+          "界面科学"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Vesicular Release Dynamics are Altered by Interaction between Chemical Cargo and Vesicle Membrane Lipids",
+        "keywords": [
+          "囊泡释放动力学",
+          "化学载荷",
+          "膜脂相互作用",
+          "仿真分析"
+        ],
+        "journal_name": "Chem. Sci.",
+        "research_fields": [
+          "分析化学",
+          "神经递质释放",
+          "分子模拟"
+        ],
+        "publication_year": 2021
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/zhangxinwei/zh_CN/index.htm"
+      },
+      {
+        "platform": "实验室主页",
+        "url": "http://huanglab.whu.edu.cn/"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "国家海外高层次人才项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "国家海外高层次人才项目"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 张欣伟\n页面链接: http://jszy.whu.edu.cn/zhangxinwei/zh_CN/index.htm\n==================================================\n武汉大学 张欣伟--中文主页--首页\n张欣伟\n教授\n博士生导师\n硕士生导师\n性别：男\n毕业院校：武汉大学\n学历：博士研究生毕业\n在职信息：在职\n所在单位：化学与分子科学学院\n入职时间： 2022-05-01\n学科：\n分析化学\n电子邮箱：\n访问量：\n开通时间：..\n最后更新时间：..\n同专业博导\n同专业硕导\n个人简介\n张欣伟，2022年12月至今任化学与分子科学学院教授。分别于2012年和2018年在武汉大学获得学士及博士学位，师从黄卫华教授。后于瑞典哥德堡大学从事博士后研究，合作导师为瑞典科学院院士Andrew G. Ewing教授。2022年加入武汉大学，当年入选国家海外高层次人才项目。\n长期致力于单/亚细胞测量方法学研究，主要围绕细胞内单细胞器检测中所存在的细胞损伤严重、测量特征单一等关键问题展开工作，发展了超细长纳米线电化学传感器以及电化学-纳米孔道联用技术，实现了单细胞器水平的超快生理活动监测，以及基于单细胞器多维特征的细胞器发育过程研究。近五年以第一作者在Angew. Chem. Int. Ed.、J. Am. Chem. Soc.、ACS Nano、Chem. Sci.等本学科顶级期刊发表论文6篇，国际评价良好，被认为“提出了亚细胞分析领域的新概念”。\n研究兴趣：\n单/亚细胞电分析方法学（需要精巧设计）\n纳米电化学传感（技术门槛较高，比较“不卷”）\n细胞器测量的数值仿真（发文利器，适合喜欢电脑工作的同学）\n实验室主页：http://huanglab.whu.edu.cn/\n课题组氛围宽松、选题自由、经费及工位充足，欢迎对生物医学传感有兴趣的同学来组参与业余科研，欢迎研究生以及博士后积极加盟！\nRepresentative Publications\n1. Xin-Wei Zhang, Quan-Fa Qiu, Hong Jiang, Fu-Li Zhang, Yan-Ling Liu, Christian Amatore,* Wei-Hua Huang*. Real-Time Intracellular Measurements of ROS and RNS in Living Cells with Single Core–Shell Nanowire Electrodes. Angew. Chem. Int. Ed. 2017, 56, 12997–13000.\n（发展出“新概念”—单根纳米线电极，可插入细胞内做细胞器的检测）\n2. Xin-Wei Zhang, Alexander Oleinick, Hong Jiang, Quan-Lan Liao, Quan-Fa Qiu, Irina Svir, Yan-Ling Liu, Christian Amatore,* Wei-Hua Huang*. Electrochemical Monitoring of ROS/RNS Homeostasis Within Individual Phagolysosomes Inside Single Macrophages. Angew. Chem. Int. Ed. 2019, 58, 7753–7756.\n（使用文1的电极，充分发挥电化学传感“快”的优点，监测了细胞器的超快（ms级）生理过程）\n3. Xin-Wei Zhang, Amir Hatamie, Andrew G. Ewing*. Simultaneous Quantification of Vesicle Size and Catecholamine Content by Resistive Pulses in Nanopores and Vesicle Impact Electrochemical Cytometry. J. Am. Chem. Soc. 2020, 142, 9, 4093-4097.\n（电化学-纳米孔结合，解决神经递质检测的“历史遗留问题”之一-“囊泡内递质浓度的测定”）\n4. Xin-Wei Zhang, Andrew G. Ewing*. Pore-Opening Dynamics of Single Nanometer Biovesicles at an Electrified Interface. ACS Nano 2022, 16, 6, 9852–9858.\n（用文3的方法，结合仿真，计算神经囊泡的开孔过程）\n5. Xin-Wei Zhang*, Amir Hatamie, Andrew G. Ewing*. Direct Acquisition of the Gap Height of Biological Tissue-Electronic Chemical Sensor Interfaces. Angew. Chem. Int. Ed. 2022, 61, e202210224.\n（电化学-纳米孔结合，解决神经递质检测的“历史遗留问题”之二-“扩散滤波”）\n6. Farzaneh Asadpour#, Xin-Wei Zhang# (co-first author), Mohammad Mazloum-Ardakani, Meysam Mirzaei, Soodabeh Majdi, Andrew G. Ewing*. Vesicular Release Dynamics are Altered by Interaction between Chemical Cargo and Vesicle Membrane Lipids. Chem. Sci. 2021,12, 10273-10278.\n（通过仿真，计算出不同神经递质的释放速率差异）\n其他联系方式\n通讯/办公地址 : \n邮箱 : \n教育经历\n2008.9 -- 2012.6\n武汉大学\n分析化学\n无\n理学学士学位\n2012.9 -- 2018.6\n武汉大学\n分析化学\n无\n理学博士学位\n工作经历\n2022.5 -- 2022.11\n武汉大学\n化学与分子科学学院\n副研究员\n2018.8 -- 2021.12\n瑞典哥德堡大学\n博士后\n合作导师：Andrew G. Ewing教授\n研究方向\n纳米电极电化学，单/亚细胞分析\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

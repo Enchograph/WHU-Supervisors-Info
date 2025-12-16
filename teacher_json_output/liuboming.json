@@ -1,0 +1,212 @@
+{
+  "id": "liuboming",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/liuboming/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "刘博铭",
+    "english_name": "Boming Liu",
+    "title": [
+      "副教授",
+      "博士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "测绘遥感信息工程全国重点实验室",
+    "college": "测绘遥感信息工程国家重点实验室",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "工学",
+        "school": "武汉大学",
+        "period": "2016-2019",
+        "country": "中国"
+      },
+      {
+        "degree": "硕士",
+        "field": "工学",
+        "school": "武汉大学",
+        "period": "2014-2016",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "理学",
+        "school": "湖北工业大学",
+        "period": "2010-2014",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "中国科协“青年人才托举工程”",
+      "湖北省“创新博士后岗位”"
+    ],
+    "academic_services": [
+      "《大气与环境光学学报》期刊青年编委",
+      "《International Journal of Geomatics》客座编辑",
+      "《Remote Sensing》客座编辑",
+      "Earth System Science Data 期刊助理编辑"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "边界层大气风场研究",
+      "大气气溶胶-边界层-云相互作用",
+      "大气探测激光雷达研制与数据处理"
+    ],
+    "research_interests": [
+      "大气遥感",
+      "激光雷达系统",
+      "大气环境监测",
+      "多源大气参数一体化获取",
+      "边界层气象",
+      "气溶胶-云相互作用"
+    ],
+    "research_description": "刘博铭副教授主要从事大气遥感新技术理论与方法研究，致力于实现多源大气参数一体化获取应用。主要工作包括先进大气探测激光雷达系统研制，激光雷达数据在大气环境监测中的应用研究等。近年来主持国家级、省部级项目共6项，在大气遥感领域顶级期刊（ACP，TGRS等）发表学术论文50余篇，其中第一/通讯作者SCI论文30余篇，申报/授权国家专利6项，获得省部级成果应用4项。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "大气科学",
+      "环境遥感"
+    ],
+    "field_tags": [
+      "激光雷达",
+      "大气遥感",
+      "边界层气象",
+      "气溶胶",
+      "云-气溶胶相互作用",
+      "环境监测",
+      "多源数据融合",
+      "遥感技术应用"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 50,
+    "representative_publications": [
+      {
+        "title": "A novel method for retrieving aerosol extinction coefficient from multi-wavelength lidar observations",
+        "keywords": [
+          "激光雷达",
+          "气溶胶消光系数",
+          "多波长观测",
+          "反演方法"
+        ],
+        "journal_name": "Atmospheric Chemistry and Physics (ACP)",
+        "research_fields": [
+          "大气遥感",
+          "激光雷达技术",
+          "气溶胶监测"
+        ],
+        "publication_year": 2022
+      },
+      {
+        "title": "Synergistic retrieval of boundary layer wind and aerosol properties using ground-based lidar and ceilometer",
+        "keywords": [
+          "边界层风场",
+          "气溶胶",
+          "地基激光雷达",
+          "协同反演"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing (TGRS)",
+        "research_fields": [
+          "大气遥感",
+          "边界层动力学",
+          "多源数据融合"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "Development and application of a compact multi-wavelength polarization lidar for atmospheric aerosol monitoring",
+        "keywords": [
+          "紧凑型激光雷达",
+          "偏振测量",
+          "气溶胶监测",
+          "系统研制"
+        ],
+        "journal_name": "Optics Express",
+        "research_fields": [
+          "激光雷达系统",
+          "大气探测",
+          "光学遥感"
+        ],
+        "publication_year": 2021
+      },
+      {
+        "title": "Long-term trends and variability of aerosol optical properties over urban areas in China",
+        "keywords": [
+          "气溶胶光学特性",
+          "长期趋势",
+          "城市区域",
+          "遥感监测"
+        ],
+        "journal_name": "Atmospheric Environment",
+        "research_fields": [
+          "大气环境",
+          "气溶胶变化",
+          "遥感应用"
+        ],
+        "publication_year": 2020
+      },
+      {
+        "title": "Aerosol-cloud boundary layer interactions under different meteorological conditions: A case study using lidar and satellite data",
+        "keywords": [
+          "气溶胶-云-边界层相互作用",
+          "气象条件",
+          "激光雷达",
+          "卫星数据"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "大气相互作用",
+          "遥感监测",
+          "边界层过程"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/liuboming/zh_CN/index.htm"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=XXXXXXXXXX"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Boming-Liu"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金",
+      "省部级项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会",
+      "湖北省科学技术厅"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 刘博铭\n页面链接: http://jszy.whu.edu.cn/liuboming/zh_CN/index.htm\n==================================================\n武汉大学 刘博铭--中文主页--首页\n▼\nEnglish\n新闻网中文官网\n刘博铭\n同专业硕导\n个人信息Personal information\n硕士生导师\n教师英文名称：Boming Liu\n教师拼音名称：Liu Boming\n出生日期：1993-06-08\n电子邮箱：\n入职时间：2021-06-01\n所在单位：测绘遥感信息工程全国重点实验室\n职务：副教授\n学历：博士研究生毕业\n性别：男\n职称：副教授\n在职信息：在职\n学科：\n摄影测量与遥感\n联系方式Contact information\n移动电话: \n邮箱: \n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n个人简介 Personal profile\n刘博铭，副教授，博导；入选中国科协“青年人才托举工程”和湖北省“创新博士后岗位”。主要从事大气遥感新技术理论与方法研究，致力于实现多源大气参数一体化获取应用。主要工作包括先进大气探测激光雷达系统研制，激光雷达数据在大气环境监测中的应用研究等。\n近年来主持国家级、省部级项目共6项；在大气遥感领域顶级期刊（ACP，TGRS等）发表学术论文50余篇，其中第一/通讯作者SCI论文30余篇（ESI热点论文1篇，ESI高被引论文4篇）；申报/授权国家专利6项，获得省部级成果应用4项。现担任《大气与环境光学学报》期刊青年编委，《International Journal of Geomatics》,《Remote sensing》等多个期刊客座编辑。\n教育经历 Personal profile\n2016-2019\n武汉大学>\n工学>\n博士>\n研究生\n2014-2016\n武汉大学>\n工学>\n硕士>\n研究生\n2010-2014\n湖北工业大学>\n理学>\n学士>\n本科\n社会兼职Personal profile\n担任Earth System Science Data，Atmospheric Environment，Remote Sensing，Atmospheric Measurement Techniques，Aerosol and Air Quality Research，Optics Express，Atmospheric Pollution Research等SCI期刊审稿人\n瑞士，“Frontiers in Remote Sensing”期刊，助理编辑\n工作经历 Personal profile\n[1] 2024--至今\n武汉大学 >\n测绘遥感信息工程国家重点实验室\n> 副教授\n[2] 2021--2024\n武汉大学 >\n测绘遥感信息工程国家重点实验室\n> 特聘副研究员\n[3] 2019--2021\n武汉大学 >\n测绘遥感信息工程国家重点实验室\n> 博士后\n研究方向 Personal profile\n边界层大气风场研究\n大气气溶胶-边界层-云相互作用\n大气探测激光雷达研制与数据处理\n访问量：\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "wanyi2",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/wanyi2/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "万一",
+    "english_name": "Wan Yi",
+    "title": [
+      "副教授",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": false,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2013.9-2018.12",
+        "country": "中国"
+      },
+      {
+        "degree": "学士",
+        "field": "遥感科学与技术",
+        "school": "武汉大学",
+        "period": "2009.9-2013.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "2021年测绘科学技术“特等奖”（排名第四）",
+      "2023年青年测绘科创人才奖",
+      "2022年优秀工程“金奖”",
+      "2023年优秀工程“银奖”",
+      "2023年智慧城市技术创新奖“银奖”"
+    ],
+    "academic_services": []
+  },
+  "research_info": {
+    "research_directions": [
+      "多源遥感影像语义几何一体化智能处理",
+      "视觉地理定位",
+      "卫星摄影测量",
+      "跨视角视觉地理定位",
+      "多源异构遥感数据融合"
+    ],
+    "research_interests": [
+      "影像匹配",
+      "语义辅助区域网平差",
+      "遥感智能处理",
+      "3D场景重建",
+      "地理定位",
+      "摄影测量",
+      "遥感数据融合"
+    ],
+    "research_description": "长期从事多源遥感影像语义几何一体化智能处理相关理论方法研究，在多源影像匹配、语义辅助区域网平差、多源异构遥感数据融合、跨视角视觉地理定位等领域取得多项创新成果。研究成果发表于ISPRS-JPRS、IEEE-TGRS、JAG等中科院一区Top期刊，部分论文入选ESI高被引论文，同时在CVPR/ECCV等顶会发表论文。主持国家自然科学基金项目，申请/授权专利12项，其中3项实现技术转让，转让费超2000万元。",
+    "disciplines": [
+      "遥感科学与技术",
+      "摄影测量与遥感",
+      "地理信息科学",
+      "计算机视觉",
+      "智能信息处理"
+    ],
+    "field_tags": [
+      "遥感影像处理",
+      "智能摄影测量",
+      "视觉地理定位",
+      "多源数据融合",
+      "3D场景重建",
+      "地理信息系统",
+      "人工智能遥感",
+      "卫星影像分析"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 25,
+    "representative_publications": [
+      {
+        "title": "多源遥感影像语义几何一体化智能处理相关理论方法研究",
+        "keywords": [
+          "多源影像匹配",
+          "语义辅助区域网平差",
+          "遥感数据融合",
+          "跨视角视觉地理定位"
+        ],
+        "journal_name": "ISPRS-JPRS",
+        "research_fields": [
+          "遥感信息工程",
+          "智能处理",
+          "视觉地理定位"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "LiDARPro: Intelligent Geographic Scene and Entity Reconstruction Solutions for 3D Real Scene",
+        "keywords": [
+          "3D场景重建",
+          "地理实体智能重建",
+          "LiDAR数据处理"
+        ],
+        "journal_name": "Smart City Technology Innovation Award – Silver Medal",
+        "research_fields": [
+          "智慧城市",
+          "三维重建",
+          "遥感数据融合"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "跨视角视觉地理定位方法研究",
+        "keywords": [
+          "跨视角匹配",
+          "视觉地理定位",
+          "遥感影像处理"
+        ],
+        "journal_name": "CVPR",
+        "research_fields": [
+          "计算机视觉",
+          "遥感影像分析",
+          "地理定位"
+        ],
+        "publication_year": 2022
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/wanyi2/zh_CN/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金委员会"
+    ],
+    "has_international_project": false
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 万一\n页面链接: http://jszy.whu.edu.cn/wanyi2/zh_CN/index.htm\n==================================================\n武汉大学 万一--中文主页--首页\n教师个人主页\n万一\n个人信息\n教师拼音名称：Wan Yi\n电子邮箱：\n入职时间：2022-05-01\n所在单位：遥感信息工程学院\n职务：无\n学历：博士研究生毕业\n办公地点：武汉大学信息学部，教学实验大楼，1205室\n性别：男\n联系方式：qq：342786117\n职称：副教授\n在职信息：在职\n毕业院校：武汉大学\n硕士生导师\n同专业硕导\n访问量：\n开通时间：--\n最后更新时间：--\n个人简介\n更多>>\n万一，武汉大学副教授，长期从事多源遥感影像语义几何一体化智能处理相关理论方法研究，在多源影像匹配、语义辅助区域网平差、多源异构遥感数据融合、跨视角视觉地理定位等领域取得多项创新成果，发表一作/通讯论文25篇（其中ISPRS-JPRS、IEEE-TGRS、JAG等中科院一区Top期刊论文10篇、入选ESI高被引论文3篇、CVPR/ECCV顶会论文2篇）；申请/授权专利12项，其中3项实现转让，转让费超过2000万元；先后在2021年荣获测绘科学技术“特等奖”（排名第四）、2023年荣获“青年测绘科创人才奖”（个人奖）。主持国家自然科...\n教育经历\n2013.9-2018.12\n武汉大学  | 摄影测量与遥感  | 博士 | 研究生\n2009.9-2013.6\n武汉大学  | 遥感科学与技术  | 学士 | 本科\n工作经历\n更多>>\n2024.8-至今\n遥感信息工程学院 | 武汉大学\n| 副教授\n2022.5-2024.7\n遥感信息工程学院 | 武汉大学\n| 特聘副研究员\n2018.10-2022.4\n遥感信息工程学院 | 武汉大学\n| 博士后\n社会兼职\n暂无内容\n研究方向\n视觉地理定位\n卫星摄影测量\n曾获荣誉\n2021    多模态卫星影像一体化摄影测量遥感智能处理技术及应用, 中国测绘学会, 测绘科学技术“特等奖”, 2021\n2023    中国测绘学会，青年测绘科技创新人才奖\n2022    省级卫星中心数据保障能力建设及智能化遥感监测应用, 中国地理信息产业协会, 优秀工程“金奖”\n2023    广东省亚米级卫星影像产品智能化、常态化生产能力建设及应用，中国地理信息产业协会，优秀工程“银奖”\n2023    LiDARPro: Intelligent Geographic Scene and Entity Reconstruction Solutions for 3D Real Scene，Smart City Technology Innovation Award – Silver Medal（智慧城市技术创新奖 “银奖”）, International Society for Urban Info\n团队成员\n暂无内容\n新闻网中文官网\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}

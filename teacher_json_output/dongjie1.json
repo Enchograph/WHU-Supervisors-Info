@@ -1,0 +1,241 @@
+{
+  "id": "dongjie1",
+  "source": {
+    "url": "http://jszy.whu.edu.cn/dongjie1/zh_CN/index.htm",
+    "crawl_date": "2025-12-14"
+  },
+  "basic_info": {
+    "name": "董杰",
+    "english_name": "",
+    "title": [
+      "副教授",
+      "博士生导师",
+      "硕士生导师"
+    ],
+    "is_phd_supervisor": true,
+    "is_master_supervisor": true,
+    "department": "遥感信息工程学院",
+    "college": "遥感信息工程学院",
+    "employment_status": "在职"
+  },
+  "academic_info": {
+    "education_background": [
+      {
+        "degree": "工学学士",
+        "field": "测绘工程",
+        "school": "中国矿业大学",
+        "period": "2007-9 至 2011.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学硕士",
+        "field": "大地测量学与测量工程",
+        "school": "河海大学",
+        "period": "2011-9 至 2014.6",
+        "country": "中国"
+      },
+      {
+        "degree": "工学博士",
+        "field": "摄影测量与遥感",
+        "school": "武汉大学",
+        "period": "2014-9 至 2018.6",
+        "country": "中国"
+      }
+    ],
+    "graduation_school": "武汉大学",
+    "academic_honors": [
+      "自然资源科学技术奖-科技进步奖-特等奖",
+      "测绘科技进步奖一等奖",
+      "博士后创新人才支持计划（博新计划）",
+      "武汉大学第四届教师教学创新大赛二等奖",
+      "武汉大学遥感学院青年教师教学竞赛二等奖",
+      "《遥感学报》2021年优秀论文（通讯作者）",
+      "研究生国家奖学金",
+      "江苏省三好学生"
+    ],
+    "academic_services": [
+      "《测绘学报》首届青年编委",
+      "《遥感学报》第七届编委会青年编委",
+      "Remote Sensing期刊客座编辑（组织专刊）",
+      "Frontiers in Earth Science期刊评审编辑",
+      "第一届雷达干涉测量学术研讨会国内会议组织委员会秘书组负责人",
+      "国际/国内学术会议分会场主持人、召集人",
+      "国家自然科学基金通讯评审专家",
+      "教育部学位中心论文评审专家"
+    ]
+  },
+  "research_info": {
+    "research_directions": [
+      "时间序列InSAR算法",
+      "地灾隐患识别与监测",
+      "区域地面沉降监测",
+      "大型基础设施形变监测",
+      "SAR层析成像(TomoSAR)",
+      "深度学习InSAR地灾识别"
+    ],
+    "research_interests": [
+      "InSAR数据处理",
+      "地表形变监测",
+      "滑坡与地面沉降",
+      "雷达遥感",
+      "SAR几何定位",
+      "智能信息提取",
+      "大气延迟改正",
+      "多源遥感融合"
+    ],
+    "research_description": "董杰副教授主要从事雷达干涉测量（InSAR）理论基础及其应用研究，重点聚焦于时间序列InSAR算法、地灾隐患识别与监测、区域地面沉降与大型基础设施安全监测等领域。研究涵盖SAR影像几何定位、SAR大数据处理、高精度形变测量、深度学习在InSAR中的应用以及SAR层析成像技术，致力于推动InSAR在地质灾害、城市安全与环境监测中的前沿应用。",
+    "disciplines": [
+      "摄影测量与遥感",
+      "测绘科学与技术",
+      "地球物理学",
+      "地理信息系统"
+    ],
+    "field_tags": [
+      "InSAR",
+      "地表形变监测",
+      "地质灾害",
+      "雷达遥感",
+      "时间序列分析",
+      "深度学习",
+      "SAR层析成像",
+      "城市沉降",
+      "基础设施安全",
+      "遥感大数据"
+    ]
+  },
+  "publication_info": {
+    "publication_count": 38,
+    "representative_publications": [
+      {
+        "title": "Mapping landslide surface displacements with time series SAR interferometry by combining persistent and distributed scatterers: A case study of Jiaju landslide in Danba, China",
+        "keywords": [
+          "时间序列InSAR",
+          "滑坡形变监测",
+          "永久散射体",
+          "分布式散射体"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "雷达干涉测量",
+          "地质灾害监测",
+          "遥感影像处理"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Improved correction of seasonal tropospheric delay in InSAR observations for landslide deformation monitoring",
+        "keywords": [
+          "对流层延迟改正",
+          "时间序列InSAR",
+          "滑坡监测",
+          "大气影响"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "InSAR数据处理",
+          "大气效应建模",
+          "地灾预警"
+        ],
+        "publication_year": 2019
+      },
+      {
+        "title": "Tri-decadal evolution of land subsidence in the Beijing Plain revealed by multi-epoch satellite InSAR observations",
+        "keywords": [
+          "地面沉降",
+          "北京平原",
+          "多时相InSAR",
+          "长期形变监测"
+        ],
+        "journal_name": "Remote Sensing of Environment",
+        "research_fields": [
+          "城市形变监测",
+          "区域沉降分析",
+          "遥感地学应用"
+        ],
+        "publication_year": 2023
+      },
+      {
+        "title": "A Unified Approach of Multitemporal SAR Data Filtering Through Adaptive Estimation of Complex Covariance Matrix",
+        "keywords": [
+          "多时相SAR数据滤波",
+          "协方差矩阵估计",
+          "InSAR信号处理"
+        ],
+        "journal_name": "IEEE Transactions on Geoscience and Remote Sensing",
+        "research_fields": [
+          "SAR信号处理",
+          "InSAR算法优化",
+          "遥感数据降噪"
+        ],
+        "publication_year": 2018
+      },
+      {
+        "title": "Sequential polarimetric phase optimization algorithm for dynamic deformation monitoring of landslides",
+        "keywords": [
+          "极化干涉",
+          "滑坡动态监测",
+          "相位优化",
+          "时序分析"
+        ],
+        "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "research_fields": [
+          "极化SAR",
+          "地灾识别",
+          "动态形变反演"
+        ],
+        "publication_year": 2024
+      }
+    ],
+    "profile_links": [
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Jie-Dong-8"
+      },
+      {
+        "platform": "武汉大学教师主页",
+        "url": "http://jszy.whu.edu.cn/dongjie1/zh_CN/index/1136663/list/index.htm"
+      }
+    ]
+  },
+  "project_info": {
+    "project_types": [
+      "国家自然科学基金面上项目",
+      "国家自然科学基金青年项目",
+      "国家重点研发计划子课题",
+      "博士后创新人才支持计划",
+      "湖北省自然科学基金青年项目",
+      "中国博士后科学基金",
+      "国家973项目课题",
+      "国家自然科学基金重点项目",
+      "中欧国际合作项目（龙计划）",
+      "日本JAXA国际合作项目"
+    ],
+    "funding_agencies": [
+      "国家自然科学基金",
+      "国家重点研发计划",
+      "博士后创新人才支持计划",
+      "湖北省自然科学基金",
+      "中国博士后科学基金",
+      "国家973项目",
+      "国家自然科学基金重点项目",
+      "中欧“龙计划”",
+      "日本JAXA"
+    ],
+    "has_international_project": true
+  },
+  "derived_features": {
+    "research_style": {
+      "is_experimental": true,
+      "is_theoretical": true,
+      "is_applied": true,
+      "is_interdisciplinary": true
+    },
+    "seniority_level": "mid",
+    "activity_level": "high"
+  },
+  "extracted_text": {
+    "personal_profile": "教师姓名: 董杰\n页面链接: http://jszy.whu.edu.cn/dongjie1/zh_CN/index.htm\n==================================================\n武汉大学 董杰--中文主页--首页\nEnglish\n中文\n董杰\n同专业博导\n同专业硕导\n首页\n科学研究\n研究领域\n论文成果\n专利\n著作成果\n科研项目\n科研团队\n教学研究\n教学资源\n授课信息\n教学成果\n获奖信息\n招生信息\n学生信息\n我的相册\n教师博客\n微信扫描\n个人信息\n1\n博士生导师\n硕士生导师\n职务：副教授\n职称：副教授\n所属院系：\n遥感信息工程学院\n学科：\n摄影测量与遥感\n个人简介\n武大英飒团队 (WISE)\n（一）团队简介\n武大英飒团队(WHU InSAR Explorer, WISE)学术带头人为廖明生教授，学术顾问为龚健雅院士，在校研究生20名左右，团队近20年来深耕雷达干涉测量(InSAR)理论、技术与应用方面的研究工作，产出多项国际前沿成果，创造多个国内雷达遥感应用典范。\n（1）团队微信公众号\n团队LOGO                          欢迎您扫描关注\n（2）团队github网站：https://github.com/whuinsar\n（二）招生信息\n团队长期招收博士研究生、学术或专业硕士研究生，欢迎遥感、测绘、地理信息、信号处理、数学、计算机等专业本科毕业生或研究生报名，加入武大英飒团队大家庭，一起开展科学研究工作；\n团队长期招收本科实习生，欢迎测绘、遥感、计算机、信号处理等专业领域本科生报名参加，提前进课题组体验科研，亦可申报大学生创新创业训练计划项目。\n团队将为您提供优越的科研平台、浓厚的学术氛围、悉心的科研指导和充足的科研经费。\n欢迎咨询：董杰，15072317889（微信同号），dongjie@whu.edu.cn\n【招生信息】：\n招收2026年入学的博士生1人，硕士生2~3人，请感兴趣的同学邮件联系：董老师 dongjie@whu.edu.cn (进行中)\n招收2025年入学的博士生1人，硕士生3人，请感兴趣的同学邮件联系：董老师 dongjie@whu.edu.cn (已完成)\n（三）团队新闻\n-  2025年11月：祝贺团队廖明生教授、董杰副教授荣获自然资源科学技术奖-科技进步奖-特等奖\n-  2025年09月：祝贺博士生龚志强在SCI期刊《Remote Sensing of Environment》发表论文：Wide-Area Coastal Deformation Extraction Using Multi-Path/Frame InSAR (论文链接)\n-  2025年07月：祝贺博士生赵鑫在SCI期刊《GSIS》发表综述论文：A review of SAR tomography (论文链接)\n-   2025年07月：武汉大学英飒团队参加中欧科技合作“龙计划”六期2025年学术研讨会（新闻链接）\n-  2025年06月：祝贺董杰副教授荣获《武汉大学学报（信息科学版）》2024年度优秀审稿专家\n-   2025年05月：武汉大学英飒团队参加第五届全国雷达对地观测大会（新闻链接）\n-  2025年05月：祝贺博士生张东晓顺利通过博士论文答辩、硕士生左世诚顺利通过硕士论文答辩\n-  2025年05月：团队廖明生教授、董杰副教授与国内同行专家共同组织《遥感学报》专刊“InSAR对地观测前沿：模型、方法与应用”，欢迎投稿！（链接）\n-  2025年04月：团队邀请中国科学院国家空间科学中心 雷洋 研究员作学术讲座《雷达干涉森林、积雪反演进展》（链接）\n-  2025年01月：祝贺董杰副教授荣获《遥感学报》2024年度优秀审稿专家\n-  2024年12月：武大英飒团队牵头中欧“龙计划”六期项目正式启动（新闻链接）\n-  2024年12月：祝贺博士生郭绍琨荣获第一届亚洲制图学会议\"Best Student Paper Presentation\"\n-  2024年12月：祝贺博士生来尚婧在SCI期刊《JAG》发表论文：Investigating overlapping deformation patterns of the Beijing Plain by independent component analysis of InSAR observations (论文链接)\n- 2024年12月：祝贺博士生郭绍琨在SCI期刊《ISPRS Journal》发表论文：Fast and accurate SAR geocoding with a plane approximation (论文链接)(开源代码)\n- 2024年12月：祝贺王一安顺利通过武汉大学和西班牙加泰罗尼亚理工大学的双博士学位论文答辩\n- 2024年11月：祝贺董杰副教授入选《遥感学报》第七届编委会青年编委\n- 2024年9月：祝贺博士生龚志强和硕士生兰千烨荣获第二届海岸带大会暨智能海岸论坛“大会优秀学生报告”\n- 2024年9月：祝贺博士生王一安在SCI期刊《ISPRS Journal》发表论文：Sequential polarimetric phase optimization algorithm for dynamic deformation monitoring of landslides (论文链接)(开源代码)\n- 2024年6月：祝贺博士生王一安荣获2024 Dragon Symposium国际研讨会“Best Poster Award”\n- 2024年6月：第一届雷达干涉测量学术研讨会于武汉圆满召开（会议网站）\n- 2024年6月：祝贺博士生王一安、吴传军和硕士生兰千烨荣获第一届雷达干涉测量学术研讨会“最佳学生报告”\n- 2024年4月:  第一届雷达干涉测量学术研讨会《Remote Sensing》专刊（链接），欢迎投稿！\n- 2024年5月:  第一届雷达干涉测量学术研讨会《武汉大学学报-信息科学版》专刊（链接），欢迎投稿！\n- 2024年4月：祝贺董杰副教授入选《测绘学报》首届青年编委\n- 2024年4月：祝贺硕士生李昊澄在EI期刊《测绘学报(英文)》发表论文：Monitoring Surface Deformation Using Distributed Scatterers InSAR (论文链接)\n- 2024年4月：祝贺博士生龚志强在EI期刊《遥感学报》发表论文：InSAR非零闭合相位产生机制及其对形变测量影响规律研究\n- 2024年4月：祝贺博士生张东晓在SCI期刊《Landslides》发表论文：Improved phase gradient stacking for landslide detection (论文链接)(源码共享)\n- 2024年1月：祝贺硕士生兰千烨在SCI期刊《IEEE JSTARS》发表论文：Flood Inundation Extraction and its Impact on Ground Subsidence Using Sentinel-1 Data: A Case Study of the “7.20” Rainstorm Event in Henan Province, China\n- 2023年11月：祝贺博士生王茹、来尚婧和硕士生兰千烨荣获第六届全国地面沉降防治学术研讨会“优秀学生报告”\n- 2023年10月： 课题组董杰副教授共同组织《Remote Sensing》专刊“Imaging Geodesy and Infrastructure Monitoring II”，详见专刊网站。\n（四）研究方向\n（1）SAR影像几何定位与地形量测\n• 新体制星载/机载SAR几何定位• InSAR/立体SAR地形量测• 时序InSAR点云精密几何定位\n（2）SAR大数据处理与信息挖掘\n• 高性能并行计算处理• 智能化特征信息提取\n（3）SAR/InSAR高精度形变测量\n• 新体制星载/机载SAR干涉处理• 城市地面沉降• 大型基础设施表面形变监测\n（4）深度学习InSAR地灾识别与监测\n• 广域灾害隐患识别• 灾害前兆判别预警\n（5）SAR层析成像(TomoSAR)\n• 城市复杂场景三维重建与形变监测• 森林、冰雪等多层介质场景垂直结构探测\n武大英飒团队合影\n团队教师—董杰 副教授\n董  杰，武汉大学副教授，博士生导师，工学博士（摄影测量与遥感专业），“博士后创新人才支持计划”获得者，《测绘学报》首届青年编委，武大英飒团队核心成员。主要从事雷达干涉测量（InSAR）理论基础及其应用研究，重点研究了时间序列InSAR算法、地灾隐患识别与监测、区域地面沉降与大型基础设施安全监测等。荣获测绘科技进步奖一等奖；主持纵向科研项目国家级4项、省部级3项目，主持横向科研项目5项，主持国际合作项目3项，作为项目骨干参与国家级纵向科研项目5项；共发表期刊论文38篇，其中以第一作者或通讯作者身份发表SCI论文17篇（含SCI一区TOP期刊11篇，遥感领域顶刊《Remote Sensing of Environment》4篇），论文被引用累计超700次；授权发明专利6项、实用新型专利1项；获批软著3项；参与编写专著1部；担任SCI期刊客座编辑2次、评审编辑1次；多个著名SCI和EI期刊审稿人；国际/国内学术会议秘书组负责人1次、分会场主持人3次；国际国内学术会议口头报告13次。\nResearchgate: https://www.researchgate.net/profile/Jie-Dong-8\n武大个人主页：http://jszy.whu.edu.cn/dongjie1/zh_CN/index/1136663/list/index.htm\n（一）国内科研项目\n•    国家自然科学基金面上项目（编号：42374013），地下水超采区承压含水层系统时序InSAR监测方法，2024.01–2027.12（主持）\n•    国家自然科学基金青年项目（编号：41904001），复杂山区滑坡形变监测的相干散射体InSAR方法，2020.01–2022.12（主持）\n•    国家重点研发计划子课题（编号：2019YFC1509201），地壳形变空间大地测量技术研究，2020.01–2023.01（主持）\n•    国家重点研发计划子课题（编号：2023YFC3009404），天、空、地协同的建筑与基础设施变形监测技术与装备研发，2023.11–2026.10（主持）\n•    博士后创新人才支持计划（“博新计划”）（编号：BX20180220），雷达遥感滑坡探测与形变监测关键技术研究，2019.01–2021.12（主持）\n•    湖北省自然科学基金青年项目（编号：2019CFB141），联合永久散射体和分布式散射体的时间序列InSAR分析方法研究，2019.01–2020.12（主持）\n•    中国博士后科学基金第64批面上资助（编号：2018M640733），面向大型滑坡形变监测的时序InSAR对流层大气延迟改正，2018.11–2020.05（主持）\n•    国家973项目课题（编号：2013CB733205），多源观测数据与滑坡机理模型同化理论与方法研究，2013.07-2017.08（项目骨干）\n•    国家自然科学基金重点项目（编号：61331016），高分辨率SAR图像城市目标认知解译与动态监测应用研究，2014.01-2018.12（项目骨干）\n•    国家自然科学基金面上项目（编号：2013CB41774006），基于雷达遥感的大型水电工程库岸边坡及大坝稳定性监测方法研究，2018.01-2021.12（项目骨干）\n（二）国际合作项目\n•    2024-2028年，中欧国际合作项目“龙计划”六期“Geophysical and geodetics retrieval from SAR data stacks over natural scenarios”(编号:95358)，中方Co-PI\n•    2024-2028年，中欧国际合作项目“龙计划”六期“Dynamic deformation monitoring and health diagnosis of infrastructures and surrounding geologic environments with multi-source earth observation data”(编号:95436)，中方Co-PI\n•    2020-2024年，中欧国际合作项目“龙计划”五期“Geophysical and atmospheric retrieval from SAR data stacks over natural scenarios”(编号: 59332)，中方核心成员\n•    2019年, 日本JAXA国际合作项目“ALOS-1/2卫星滑坡识别与监测”(编号: ER2A2N108), PI身份\n（三）代表性论著（部分）\n•    廖明生, 张路, 史绪国, 蒋亚楠, 董杰, 刘宇舟 (2017). 滑坡变形雷达遥感监测方法与实践；科学出版社.\n•    Dong Jie, Zhang Lu*, Tang Minggao, Liao Mingsheng, Xu Qiang, Gong Jianya, Ao Meng (2018).  Mapping landslide surface displacements with time series SAR  interferometry by combining persistent and distributed scatterers: A  case study of Jiaju landslide in Danba, China; Remote Sensing of Environment. (SCI一区TOP，影响因子IF=13.5)\n•    Dong Jie,  Zhang Lu*, Liao Mingsheng, Gong Jianya (2019). Improved correction of  seasonal tropospheric delay in InSAR observations for landslide  deformation monitoring. Remote Sensing of Environment. (SCI一区TOP，影响因子IF=13.5)\n•    Dong Jie,  Guo Shaokui, Wang Nan, Zhang Lu*, Ge Daqing, Liao Mingsheng, Gong  Jianya (2023). Tri-decadal evolution of land subsidence in the Beijing  Plain revealed by multi-epoch satellite InSAR observations. Remote Sensing of Environment. (SCI一区TOP，影响因子IF=13.5)\n•    Dong Jie,  Liao Mingsheng*, Zhang Lu, Gong Jianya (2018). A Unified Approach of  Multitemporal SAR Data Filtering Through Adaptive Estimation of Complex  Covariance Matrix; IEEE Transactions on Geoscience and Remote Sensing. (SCI一区，影响因子IF=8.2,)\n•    Dong Jie,  Zhang Lu, Li Menghua, Yu Yanghai, Liao Mingsheng*, Zhang Lu, Gong  Jianya, Luo Heng (2018). Measuring precursory movements of the recent  Xinmo landslide in Mao County, China with Sentinel-1 and ALOS-2 PALSAR-2  datasets; Landslides. (SCI二区，影响因子IF=6.7)\n•    Dong Jie, Liao Mingsheng, Xu Qiang, Zhang Lu*, Tang Minggao, Gong Jianya (2018).  Detection and displacement characterization of landslides using  multi-temporal satellite SAR interferometry: A case study of Danba  County in the Dadu River Basin; Engineering Geology. (SCI一区TOP，影响因子IF=7.4)\n•    Dong Jie,  Lai Shangjing, Wang Nan, Wang Yian, Zhang Lu, Liao Mingsheng (2021).  Multi-scale deformation monitoring with Sentinel-1 InSAR analyses along  the Middle Route of the South-North Water Diversion Project in China. International Journal of Applied Earth Observation and Geoinformation. (SCI一区TOP，影响因子IF=7.5)\n•    Wang Yian, Dong Jie*,  Zhang Lu, Zhang Li, Deng Shaohui, Zhang Guike, Liao Mingsheng, Gong  Jianya (2022). Refined InSAR tropospheric delay correction for wide-area  landslide identification and monitoring. Remote Sensing of Environment. (SCI一区TOP，影响因子IF=13.5）\n•    Cai Jiehua, Zhang Lu, Dong Jie*,  Guo Jinchen, Wang Yian, Liao Mingsheng (2023). Automatic identification  of active landslides over wide areas from time-series InSAR  measurements using Faster RCNN. International Journal of Applied Earth Observation and Geoinformation. (SCI一区TOP，影响因子IF=7.5)\n•    Wang Nan; Wang Dangqiang, Dong Jie*,  Liu Yuncai, Zhang Lu, Liao Mingsheng* (2023). Monitoring artificial  canals with multiple SAR satellites: A case study of the Changge Canal  of the South-to-North Water Diversion Project in China. International Journal of Applied Earth Observation and Geoinformation. (SCI一区TOP，影响因子IF=7.5)\n•    Wang Yian, Dong Jie*,  Zhang Lu, Deng Shaohui, Zhang Guike, Liao Mingsheng, Gong Jianya*  (2023). Automatic detection and update of landslide inventory before and  after impoundments at the Lianghekou reservoir using Sentinel-1 InSAR. International Journal of Applied Earth Observation and Geoinformation. (SCI一区TOP，影响因子IF=7.5)\n•    Cai Jiehua, Zhang Lu, Dong Jie*,  Wang Changcheng, Liao Mingsheng (2022). Polarimetric SAR pixel offset  tracking for large-gradient landslide displacement mapping. International Journal of Applied Earth Observation and Geoinformation. (SCI一区TOP，影响因子IF=7.5)\n•    Wang Yian, Liu Donglie, Dong Jie*,  Zhang Lu, Guo Jincheng, Liao Mingsheng, Gong Jianya (2021). On the  applicability of satellite SAR interferometry to landslide hazards  detection in hilly areas: a case study of Shuicheng, Guizhou in  Southwest China. Landslides. (SCI二区, 影响因子IF=6.7)\n•    Wang Yian, Luo Jiayin, Dong Jie*, Jordi J. Mallorqui, Liao Mingsheng, Zhang Lu, Gong Jianya (2024). Sequential polarimetric phase optimization algorithm for dynamic deformation monitoring of landslides, ISPRS Journal of Photogrammetry and Remote Sensing.\n•    Guo Shaokun, Dong Jie*, Wang Yian, Liao Mingsheng (2024). Fast and accurate SAR geocoding with a plane approximation, ISPRS Journal of Photogrammetry and Remote Sensing.\n•    Lai Shangjing, Lin Jinxin, Dong Jie*, Wu Jianzhong, Huang Xinlei, Liao Mingsheng* (2024), Investigating overlapping deformation patterns of the Beijing Plain by independent component analysis of InSAR observations, International Journal of Applied Earth Observation and Geoinformation.\n•    Zhang Dongxiao, Zhang Lu, Dong Jie*, Wang Yian, Yang Chengsheng, Liao Mingsheng (2024). Improved phase gradient stacking for landslide detection. Landslides. (SCI)\n•    廖明生, 董杰*, 李梦华, 敖萌, 张路, 史绪国 (2021).雷达遥感滑坡隐患识别与形变监测，遥感学报. (中文EI, 入选2021年优秀论文)\n•    郭绍琨, 董杰*, 张路, 廖明生 (2023). 海量InSAR点云在线可视化与解译平台, 遥感学报. (中文EI)\n（四）学术兼职\n•    2024-2028年，《测绘学报》编委会青年编委\n•    2024-2028年，《遥感学报》第七届编委会青年编委\n•    2024年，“第一届雷达干涉测量学术研讨会（武汉）”国内会议组织委员会秘书组负责人\n•    2019年，“博新计划”联谊会第一届理事会理事\n•    2022-2025年，教育部“空天信息智能服务集成攻关大平台”团队成员\n•    2023年，“International Symposium on Digital Earth（希腊-雅典）”国际会议分会场主持人\n•    2023年，“第二届先进遥感国际研讨会（武汉）”国际会议分会场召集人和主持人\n•    2018年，“第四届成像雷达对地观测高级学术研讨会（深圳）”国内会议分会场主持人\n•    2023年，Remote Sensing期刊客座编辑，组织“Remote Sensing-Based Structural Health Monitoring and Damage Assessment”专刊\n•    2023年，Remote Sensing期刊客座编辑，组织“Imaging Geodesy and Infrastructure Monitoring II”专刊\n•    2022年，Frontiers in Earth Science期刊评审编辑（Review Editor）\n•    Remote Sensing of Environment、ISPRS Journal、IEEE TGRS、IEEE JSTARS、武汉大学学报·信息科学版、遥感学报等著名期刊审稿专家\n•    国家自然科学基金通讯评审专家和教育部学位中心论文评审专家\n（五）学术会议\n•    2025-11，IET国际雷达会议，浙江嘉兴. 【国际会议分会场邀请报告】\n•    2025-10，The joint PI meeting of JAXA Earth Observation Missions FY2025，Tokyo, Japan. 【国际会议口头报告】\n•    2025-05，大地测量与导航2025综合学术年会暨大地测量发展研讨会. 【国内会议口头报告】\n•    2025-05，第五届全国雷达对地观测大会. 【国内会议口头报告】\n•    2025-03，第七届工程监测技术大会. 【国内会议口头报告】\n•    2024-12，第一届亚洲制图学会议，香港. 【国际会议口头报告(学生)】\n•    2024-10，第十九届地理信息科学理论与方法学术年会，西安. 【国内会议口头报告】\n•   2024-09，第二届海岸带大会暨智能海岸论坛，北京. 【国内会议分会场召集人和主持人】\n•   2024-06，Dragon 5 Final Results and Dragon 6 Kick-off Symposium，Lisbon, Portugal. 【国际学术会议】\n•    2024-06，第一届雷达干涉测量学术研讨会，武汉. 【国内会议口头报告】\n•    2024-05，大地测量与导航2024综合学术年会暨大地测量学科发展研讨会，西安. 【国内会议口头报告】\n•    2024-05，ISPRS TC I Symposium on Intelligent Sensing and Remote Sensing Application, Changsha, China. 【国际会议特邀口头报告】\n•    2023-11，第六届全国地面沉降防治学术研讨会, 北京. 【国内会议口头报告】\n•    2023-10，第二届先进遥感国际研讨会暨2023年武汉遥感周，Wuhan ,China. 【国际会议“雷达遥感及数据处理”主题召集人和主持人】\n•    2023-9, SAR in Big Data Era 2023, Beijing, China. 【国际会议口头报告】\n•    2023-9, FRINGE 2023, Leeds, UK. 【国际会议墙报展示】\n•    2023-7, 13th International Symposium on Digital Earth, Athens, Greece. 【国际会议口头报告，分会场主持人】\n•    2023-7, ISPRS Workshop on GEOAI for SDGs, Trondheim, Norway. 【国际会议口头报告】\n•    2023-6, 第六届全国定量遥感学术论坛, 成都. 【国内会议口头报告】\n•    2023-5, 第三届重大地质灾害隐患早期识别与监测预警研讨会, 成都. 【国内会议口头报告，邀请报告】\n•    2023-4, 第五届中国大地测量和地球物理学学术大会, 武汉. 【国内会议口头报告】\n•    2022-12, 2022/2021中国地球科学联合学术年会, 线上会议. 【国内会议口头报告】\n•    2021-7, 2021 Dragon Symposium, Online event. 【国际会议墙报展示】\n•    2021-5, FRINGE 2021, Online event. 【国际会议口头报告】\n•    2019-10, TerraSAR-X/TanDEM-X Science Team Meeting 2019, DLR Oberpfaffenhofen. 【国际会议口头报告】\n•    2018-11,2018成像雷达对地观测高级学术研讨会（ADSAR）,深圳.【国内会议口头报告，会场主持人】\n•    2017-6, FRINGE 2017, Helsinki, Finland. 【国际会议口头报告】\n•    2016-7, 2016 IGARSS, Beijing, China. 【国际会议口头报告】\n•    2016-7, ESA-MOST China Dragon Cooperation: Dragon 3 Final Results and Dragon 4 Kick-off Symposium, Wuhan, China. 【国际会议海报展示】\n•    2016-5, International Symposium on Earth Observation for One Belt and One Road, Beijing, China. 【国际会议口头报告】\n•    2013-9, 2nd Joint International Symposium on Deformation Monitoring, Nottingham, UK. 【国际会议口头报告】\n（六）主要奖项\n•    2025年，荣获自然资源科学技术奖进步奖特等奖\n•    2019年，荣获测绘科技进步奖一等奖\n•    2018年，入选全国博士后管委会“2018年度博士后创新人才支持计划”（博新计划）\n•    2023年，荣获武汉大学第四届教师教学创新大赛二等奖\n•    2022年，荣获武汉大学遥感学院青年教师教学竞赛二等奖\n•    2022-2023年，指导研究生中1人获研究生国家奖学金，1人获研究生学术创新奖二等奖\n•    2023年，荣获“《遥感学报》2021年优秀论文”（本人为通讯作者）\n•    2019-2020年，指导的国家级大学生创新创业创项目结题荣获“优秀”\n•    2018年，荣获武汉大学“研究生学术创新奖”一等奖\n•    2013年，荣获中华人民共和国教育部“研究生国家奖学金”\n•    2013年，荣获江苏省教育厅、共青团江苏省委员会“江苏省三好学生”\n团队成员\n武大英飒团队\n武大英飒团队(WHU InSAR Explorer WSE)学术带头人为廖明生教授，学术顾问为龚健雅院士，在校研究生20名左右。团队近20年来深耕雷达干涉测量(InSAR)理论、技术与应用方面的研究工作，产出多项国际前沿成果，创造多个国内雷达干涉测量应用典范。\n廖明生\n张路\n董杰\n沈鹏\n王茹 博士\n吴传军 博士\n王一安 博士\n来尚婧 博士\n谭鹏源 博士\n张东晓 博士\n赵鑫 博士\n龚志强 博士\n林霏开 博士\n郭绍琨 博士\n左世诚 硕士\n侯佳丽 硕士\n李昊澄 硕士\n兰千烨 硕士\n封淑莹 硕士\n工作经历\n2024-2····至今\n遥感信息工程学院\n| 武汉大学\n| 副教授\n2018-7····2024-1\n遥感信息工程学院\n| 武汉大学\n| 副研究员\n教育经历\n2007-9····2011.6\n中国矿业大学\n|\n测绘工程\n| 工学学士学位\n|\n学士\n2011-9····2014.6\n河海大学\n|\n大地测量学与测量工程\n| 工学硕士学位\n|\n硕士\n2014-9····2018.6\n武汉大学\n|\n摄影测量与遥感\n| 工学博士学位\n|\n工学博士学位\n|\n测绘遥感信息工程国家重点实验室\n博士生导师：龚健雅，廖明生\n社会兼职\n2024-12····至今\n《遥感学报》第七届编委会青年编委\n2024-4····至今\n《测绘学报》首届青年编委\n2019-4····2020.3\n博新计划理事会理事\n研究方向\n[1].​InSAR理论算法\n[2].地质地灾探测与监测\n其他联系方式\n邮编：\n邮箱：\n访问量：次\n最后更新时间：--\n",
+    "research_section": "",
+    "education_section": ""
+  }
+}
